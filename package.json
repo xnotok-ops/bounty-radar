@@ -1,0 +1,17 @@
+{
+  "name": "bounty-radar",
+  "version": "1.0.0",
+  "description": "Bug bounty research tool — search HackerOne disclosed reports, Immunefi Web3 programs, and GitHub security resources. Searchable web UI with daily auto-updates.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "node src/build-ui.js",
+    "radar": "node src/index.js && node src/build-ui.js"
+  },
+  "author": "@xnotok",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xnotok-ops/bounty-radar"
+  }
+}
