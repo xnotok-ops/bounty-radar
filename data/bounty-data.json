@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T05:53:38.470Z",
+  "updated_at": "2026-03-15T05:59:48.180Z",
   "hackerone": {
     "total": 4705,
     "reports": [
@@ -40501,7 +40501,7 @@
         "description": "This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://",
         "stars": 160,
         "language": "Go",
-        "updated_at": "2026-03-15T04:45:20Z",
+        "updated_at": "2026-03-15T05:59:08Z",
         "topics": [
           "bug-bounty",
           "bugbounty",
@@ -40727,7 +40727,7 @@
         "description": "Bug bounty research tool — search HackerOne reports, Immunefi Web3 programs, GitHub security resources.",
         "stars": 0,
         "language": "JavaScript",
-        "updated_at": "2026-03-15T05:52:45Z",
+        "updated_at": "2026-03-15T05:59:06Z",
         "topics": []
       },
       {
