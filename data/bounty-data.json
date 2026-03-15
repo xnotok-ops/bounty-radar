@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T05:49:15.660Z",
+  "updated_at": "2026-03-15T05:53:38.470Z",
   "hackerone": {
     "total": 4705,
     "reports": [
@@ -37646,8 +37646,2799 @@
     ]
   },
   "immunefi": {
-    "total": 0,
-    "programs": []
+    "total": 279,
+    "programs": [
+      {
+        "id": "layerzero",
+        "name": "LayerZero",
+        "url": "https://immunefi.com/bug-bounty/layerzero/",
+        "max_bounty": 15000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-05-17T17:00:00.000Z",
+        "updated_at": "2025-11-11T09:44:54.638Z"
+      },
+      {
+        "id": "stargate",
+        "name": "Stargate",
+        "url": "https://immunefi.com/bug-bounty/stargate/",
+        "max_bounty": 10000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-09-24T18:00:00.000Z",
+        "updated_at": "2025-11-11T09:38:54.284Z"
+      },
+      {
+        "id": "reserve",
+        "name": "Reserve",
+        "url": "https://immunefi.com/bug-bounty/reserve/",
+        "max_bounty": 10000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-04-27T09:00:00.000Z",
+        "updated_at": "2025-06-26T13:32:24.962Z"
+      },
+      {
+        "id": "sky",
+        "name": "Sky",
+        "url": "https://immunefi.com/bug-bounty/sky/",
+        "max_bounty": 10000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-02-10T07:00:00.000Z",
+        "updated_at": "2025-11-19T06:53:54.719Z"
+      },
+      {
+        "id": "usdt0",
+        "name": "USDT0",
+        "url": "https://immunefi.com/bug-bounty/usdt0/",
+        "max_bounty": 6000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2025-01-30T14:58:00.000Z",
+        "updated_at": "2025-12-15T09:53:59.379Z"
+      },
+      {
+        "id": "sparklend",
+        "name": "Spark",
+        "url": "https://immunefi.com/bug-bounty/sparklend/",
+        "max_bounty": 5000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2023-11-01T15:00:00.000Z",
+        "updated_at": "2025-12-05T22:26:14.869Z"
+      },
+      {
+        "id": "wormhole",
+        "name": "Wormhole",
+        "url": "https://immunefi.com/bug-bounty/wormhole/",
+        "max_bounty": 5000000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-02-11T15:00:00.000Z",
+        "updated_at": "2025-07-21T07:21:20.279Z"
+      },
+      {
+        "id": "gmx",
+        "name": "GMX",
+        "url": "https://immunefi.com/bug-bounty/gmx/",
+        "max_bounty": 5000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-10-20T12:00:00.000Z",
+        "updated_at": "2025-05-09T07:17:13.823Z"
+      },
+      {
+        "id": "olympus",
+        "name": "Olympus",
+        "url": "https://immunefi.com/bug-bounty/olympus/",
+        "max_bounty": 3333333,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-01-06T17:45:00.000Z",
+        "updated_at": "2025-08-25T23:59:43.414Z"
+      },
+      {
+        "id": "ethena",
+        "name": "Ethena",
+        "url": "https://immunefi.com/bug-bounty/ethena/",
+        "max_bounty": 3000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2024-04-04T16:46:29.000Z",
+        "updated_at": "2025-05-20T06:39:16.014Z"
+      },
+      {
+        "id": "chainlink",
+        "name": "Chainlink",
+        "url": "https://immunefi.com/bug-bounty/chainlink/",
+        "max_bounty": 3000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2021-05-11T05:00:00.000Z",
+        "updated_at": "2025-08-12T09:06:25.889Z"
+      },
+      {
+        "id": "hyperlane",
+        "name": "Hyperlane",
+        "url": "https://immunefi.com/bug-bounty/hyperlane/",
+        "max_bounty": 2500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2023-01-10T21:00:00.000Z",
+        "updated_at": "2025-12-03T23:49:23.843Z"
+      },
+      {
+        "id": "zksync",
+        "name": "ZKsync Lite",
+        "url": "https://immunefi.com/bug-bounty/zksync/",
+        "max_bounty": 2300000,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-03-15T21:00:00.000Z",
+        "updated_at": "2025-12-15T09:53:34.504Z"
+      },
+      {
+        "id": "axelarnetwork",
+        "name": "Axelar Network",
+        "url": "https://immunefi.com/bug-bounty/axelarnetwork/",
+        "max_bounty": 2250000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-03-11T03:30:00.000Z",
+        "updated_at": "2025-12-05T10:14:17.071Z"
+      },
+      {
+        "id": "optimism",
+        "name": "Optimism",
+        "url": "https://immunefi.com/bug-bounty/optimism/",
+        "max_bounty": 2000042,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-01-14T07:00:00.000Z",
+        "updated_at": "2025-12-09T08:35:24.191Z"
+      },
+      {
+        "id": "rhinofi",
+        "name": "Rhino.fi",
+        "url": "https://immunefi.com/bug-bounty/rhinofi/",
+        "max_bounty": 2000000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-06-30T13:00:00.000Z",
+        "updated_at": "2025-11-25T09:48:05.429Z"
+      },
+      {
+        "id": "eigenlayer",
+        "name": "EigenLayer",
+        "url": "https://immunefi.com/bug-bounty/eigenlayer/",
+        "max_bounty": 2000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2023-06-14T21:00:00.000Z",
+        "updated_at": "2025-09-09T06:20:08.287Z"
+      },
+      {
+        "id": "sweateconomy",
+        "name": "Sweat Economy",
+        "url": "https://immunefi.com/bug-bounty/sweateconomy/",
+        "max_bounty": 2000000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-03-31T18:00:00.000Z",
+        "updated_at": "2024-11-18T11:32:47.373Z"
+      },
+      {
+        "id": "gnosischain",
+        "name": "Gnosis Chain",
+        "url": "https://immunefi.com/bug-bounty/gnosischain/",
+        "max_bounty": 2000000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-02-11T04:00:00.000Z",
+        "updated_at": "2024-11-18T12:02:21.416Z"
+      },
+      {
+        "id": "celer",
+        "name": "Celer",
+        "url": "https://immunefi.com/bug-bounty/celer/",
+        "max_bounty": 2000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2021-11-18T13:00:00.000Z",
+        "updated_at": "2024-11-04T14:43:54.551Z"
+      },
+      {
+        "id": "arbitrum",
+        "name": "Arbitrum",
+        "url": "https://immunefi.com/bug-bounty/arbitrum/",
+        "max_bounty": 2000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2021-08-31T13:00:00.000Z",
+        "updated_at": "2025-03-06T12:45:48.172Z"
+      },
+      {
+        "id": "lido",
+        "name": "Lido",
+        "url": "https://immunefi.com/bug-bounty/lido/",
+        "max_bounty": 2000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-05-22T05:00:00.000Z",
+        "updated_at": "2025-12-19T17:27:34.129Z"
+      },
+      {
+        "id": "kamino",
+        "name": "Kamino",
+        "url": "https://immunefi.com/bug-bounty/kamino/",
+        "max_bounty": 1500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-10-06T12:39:00.000Z",
+        "updated_at": "2025-10-16T11:44:05.009Z"
+      },
+      {
+        "id": "zksyncera",
+        "name": "ZKsync Era",
+        "url": "https://immunefi.com/bug-bounty/zksyncera/",
+        "max_bounty": 1100000,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-03-10T17:00:00.000Z",
+        "updated_at": "2025-07-25T16:25:00.414Z"
+      },
+      {
+        "id": "beanstalk",
+        "name": "Beanstalk",
+        "url": "https://immunefi.com/bug-bounty/beanstalk/",
+        "max_bounty": 1100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-10-11T19:00:00.000Z",
+        "updated_at": "2025-06-25T07:30:28.404Z"
+      },
+      {
+        "id": "capyfi",
+        "name": "CapyFi",
+        "url": "https://immunefi.com/bug-bounty/capyfi/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-11-19T10:10:47.000Z",
+        "updated_at": "2025-12-15T13:28:04.007Z"
+      },
+      {
+        "id": "immutable",
+        "name": "Immutable",
+        "url": "https://immunefi.com/bug-bounty/immutable/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2025-06-10T05:44:56.000Z",
+        "updated_at": "2025-10-22T08:24:58.707Z"
+      },
+      {
+        "id": "compoundfinance",
+        "name": "Compound Finance",
+        "url": "https://immunefi.com/bug-bounty/compoundfinance/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-12-11T16:28:00.000Z",
+        "updated_at": "2025-07-16T16:23:39.680Z"
+      },
+      {
+        "id": "kiln-on-chain-v1",
+        "name": "Kiln On-Chain v1",
+        "url": "https://immunefi.com/bug-bounty/kiln-on-chain-v1/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-10-01T13:00:00.000Z",
+        "updated_at": "2024-12-15T22:10:55.364Z"
+      },
+      {
+        "id": "eclipse",
+        "name": "Eclipse",
+        "url": "https://immunefi.com/bug-bounty/eclipse/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-09-18T15:26:00.000Z",
+        "updated_at": "2025-02-03T07:42:06.730Z"
+      },
+      {
+        "id": "0x",
+        "name": "0x",
+        "url": "https://immunefi.com/bug-bounty/0x/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2024-07-30T16:00:00.000Z",
+        "updated_at": "2025-08-07T07:49:02.211Z"
+      },
+      {
+        "id": "infinex",
+        "name": "Infinex",
+        "url": "https://immunefi.com/bug-bounty/infinex/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2024-05-15T03:31:17.000Z",
+        "updated_at": "2025-01-17T14:46:24.399Z"
+      },
+      {
+        "id": "polymarket",
+        "name": "Polymarket",
+        "url": "https://immunefi.com/bug-bounty/polymarket/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-04-22T17:00:00.000Z",
+        "updated_at": "2025-01-24T16:20:20.929Z"
+      },
+      {
+        "id": "aave",
+        "name": "AAVE",
+        "url": "https://immunefi.com/bug-bounty/aave/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-10-18T09:00:00.000Z",
+        "updated_at": "2025-09-05T07:13:43.461Z"
+      },
+      {
+        "id": "scroll",
+        "name": "Scroll",
+        "url": "https://immunefi.com/bug-bounty/scroll/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-10-17T09:00:00.000Z",
+        "updated_at": "2025-05-14T20:17:54.012Z"
+      },
+      {
+        "id": "ssvnetwork",
+        "name": "SSV Network",
+        "url": "https://immunefi.com/bug-bounty/ssvnetwork/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-09-11T16:00:00.000Z",
+        "updated_at": "2025-09-24T14:52:37.860Z"
+      },
+      {
+        "id": "staderforeth",
+        "name": "Stader for ETH",
+        "url": "https://immunefi.com/bug-bounty/staderforeth/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-07-08T11:00:00.000Z",
+        "updated_at": "2025-01-01T19:57:21.288Z"
+      },
+      {
+        "id": "starkex",
+        "name": "StarkEx",
+        "url": "https://immunefi.com/bug-bounty/starkex/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-06-27T08:00:00.000Z",
+        "updated_at": "2024-12-03T07:23:55.210Z"
+      },
+      {
+        "id": "ondofinance",
+        "name": "Ondo Finance",
+        "url": "https://immunefi.com/bug-bounty/ondofinance/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-03-07T21:00:00.000Z",
+        "updated_at": "2025-12-19T08:24:42.247Z"
+      },
+      {
+        "id": "bobanetwork",
+        "name": "Boba Network",
+        "url": "https://immunefi.com/bug-bounty/bobanetwork/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-01-13T21:00:00.000Z",
+        "updated_at": "2025-02-20T08:09:27.758Z"
+      },
+      {
+        "id": "starknet",
+        "name": "StarkNet",
+        "url": "https://immunefi.com/bug-bounty/starknet/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-10-19T06:30:00.000Z",
+        "updated_at": "2024-12-03T07:17:20.945Z"
+      },
+      {
+        "id": "aurafinance",
+        "name": "Aura Finance",
+        "url": "https://immunefi.com/bug-bounty/aurafinance/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-06-16T19:00:00.000Z",
+        "updated_at": "2024-10-31T15:48:35.456Z"
+      },
+      {
+        "id": "listadao",
+        "name": "Lista DAO",
+        "url": "https://immunefi.com/bug-bounty/listadao/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-06-16T16:30:00.000Z",
+        "updated_at": "2025-05-27T10:34:19.548Z"
+      },
+      {
+        "id": "balancer",
+        "name": "Balancer",
+        "url": "https://immunefi.com/bug-bounty/balancer/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-05-12T16:00:00.000Z",
+        "updated_at": "2025-12-23T10:39:27.336Z"
+      },
+      {
+        "id": "flamingofinance",
+        "name": "Flamingo Finance",
+        "url": "https://immunefi.com/bug-bounty/flamingofinance/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-02-14T21:00:00.000Z",
+        "updated_at": "2024-11-18T13:21:31.231Z"
+      },
+      {
+        "id": "originprotocol",
+        "name": "Origin Protocol",
+        "url": "https://immunefi.com/bug-bounty/originprotocol/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-11-22T07:15:00.000Z",
+        "updated_at": "2025-12-30T09:10:01.786Z"
+      },
+      {
+        "id": "polygon",
+        "name": "Polygon",
+        "url": "https://immunefi.com/bug-bounty/polygon/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2021-09-13T13:00:00.000Z",
+        "updated_at": "2026-01-05T11:10:50.979Z"
+      },
+      {
+        "id": "cowprotocol",
+        "name": "CoW Protocol",
+        "url": "https://immunefi.com/bug-bounty/cowprotocol/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-06-15T17:00:00.000Z",
+        "updated_at": "2025-08-19T16:06:40.858Z"
+      },
+      {
+        "id": "pancakeswap",
+        "name": "PancakeSwap",
+        "url": "https://immunefi.com/bug-bounty/pancakeswap/",
+        "max_bounty": 1000000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-03-28T07:00:00.000Z",
+        "updated_at": "2025-10-30T08:16:08.529Z"
+      },
+      {
+        "id": "fluxfinance",
+        "name": "Flux Finance",
+        "url": "https://immunefi.com/bug-bounty/fluxfinance/",
+        "max_bounty": 550000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-02-08T16:00:00.000Z",
+        "updated_at": "2024-11-12T12:57:31.456Z"
+      },
+      {
+        "id": "raydium",
+        "name": "Raydium",
+        "url": "https://immunefi.com/bug-bounty/raydium/",
+        "max_bounty": 505000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-04-25T12:00:00.000Z",
+        "updated_at": "2024-10-26T18:28:25.269Z"
+      },
+      {
+        "id": "paradex",
+        "name": "Paradex",
+        "url": "https://immunefi.com/bug-bounty/paradex/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-08-22T01:34:00.000Z",
+        "updated_at": "2025-08-25T08:51:35.494Z"
+      },
+      {
+        "id": "injective",
+        "name": "Injective",
+        "url": "https://immunefi.com/bug-bounty/injective/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2025-07-21T07:50:00.000Z",
+        "updated_at": "2025-12-10T08:23:58.179Z"
+      },
+      {
+        "id": "resolv",
+        "name": "Resolv",
+        "url": "https://immunefi.com/bug-bounty/resolv/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-03-31T03:00:08.000Z",
+        "updated_at": "2025-07-21T08:06:44.968Z"
+      },
+      {
+        "id": "symbiotic",
+        "name": "Symbiotic",
+        "url": "https://immunefi.com/bug-bounty/symbiotic/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2025-02-21T02:38:44.000Z",
+        "updated_at": "2025-08-04T07:27:41.138Z"
+      },
+      {
+        "id": "nucleus",
+        "name": "Nucleus",
+        "url": "https://immunefi.com/bug-bounty/nucleus/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2024-12-05T14:58:00.000Z",
+        "updated_at": "2025-01-22T15:06:11.937Z"
+      },
+      {
+        "id": "kiln-defi",
+        "name": "Kiln DeFi",
+        "url": "https://immunefi.com/bug-bounty/kiln-defi/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-09-25T18:09:33.000Z",
+        "updated_at": "2025-01-24T15:57:53.798Z"
+      },
+      {
+        "id": "firedancer",
+        "name": "Firedancer",
+        "url": "https://immunefi.com/bug-bounty/firedancer/",
+        "max_bounty": 500000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2024-09-18T13:00:00.000Z",
+        "updated_at": "2025-08-28T13:41:36.014Z"
+      },
+      {
+        "id": "babylon-labs",
+        "name": "Babylon Labs",
+        "url": "https://immunefi.com/bug-bounty/babylon-labs/",
+        "max_bounty": 500000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2024-09-16T15:00:00.000Z",
+        "updated_at": "2025-12-08T07:59:36.838Z"
+      },
+      {
+        "id": "dexeprotocol",
+        "name": "DeXe Protocol",
+        "url": "https://immunefi.com/bug-bounty/dexeprotocol/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-01-23T20:00:00.000Z",
+        "updated_at": "2024-11-13T15:46:02.266Z"
+      },
+      {
+        "id": "renzoprotocol",
+        "name": "Renzo Protocol",
+        "url": "https://immunefi.com/bug-bounty/renzoprotocol/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2023-12-14T21:00:00.000Z",
+        "updated_at": "2025-05-16T15:21:39.874Z"
+      },
+      {
+        "id": "sei",
+        "name": "Sei",
+        "url": "https://immunefi.com/bug-bounty/sei/",
+        "max_bounty": 500000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-11-30T09:00:00.000Z",
+        "updated_at": "2025-09-24T07:00:31.265Z"
+      },
+      {
+        "id": "mETH",
+        "name": "mETH Protocol",
+        "url": "https://immunefi.com/bug-bounty/mETH/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-11-28T14:00:00.000Z",
+        "updated_at": "2025-03-18T13:56:04.710Z"
+      },
+      {
+        "id": "aera",
+        "name": "Aera",
+        "url": "https://immunefi.com/bug-bounty/aera/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-11-20T12:00:00.000Z",
+        "updated_at": "2025-08-20T08:54:22.515Z"
+      },
+      {
+        "id": "perennial",
+        "name": "Perennial",
+        "url": "https://immunefi.com/bug-bounty/perennial/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-10-11T09:00:00.000Z",
+        "updated_at": "2024-11-15T11:09:05.556Z"
+      },
+      {
+        "id": "kiln",
+        "name": "Kiln On-Chain v2",
+        "url": "https://immunefi.com/bug-bounty/kiln/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-08-21T10:00:00.000Z",
+        "updated_at": "2025-04-25T14:09:38.170Z"
+      },
+      {
+        "id": "utix",
+        "name": "Utix",
+        "url": "https://immunefi.com/bug-bounty/utix/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-07-26T12:00:00.000Z",
+        "updated_at": "2025-01-24T16:07:08.781Z"
+      },
+      {
+        "id": "thresholdnetwork",
+        "name": "Threshold Network",
+        "url": "https://immunefi.com/bug-bounty/thresholdnetwork/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2023-04-28T09:00:00.000Z",
+        "updated_at": "2025-12-23T10:59:02.388Z"
+      },
+      {
+        "id": "hydration",
+        "name": "Hydration",
+        "url": "https://immunefi.com/bug-bounty/hydration/",
+        "max_bounty": 500000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2023-02-20T20:00:00.000Z",
+        "updated_at": "2025-05-09T09:03:47.059Z"
+      },
+      {
+        "id": "ankr",
+        "name": "Ankr",
+        "url": "https://immunefi.com/bug-bounty/ankr/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-07-21T18:00:00.000Z",
+        "updated_at": "2025-01-24T16:10:55.590Z"
+      },
+      {
+        "id": "decentraland",
+        "name": "Decentraland",
+        "url": "https://immunefi.com/bug-bounty/decentraland/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2022-07-05T16:30:00.000Z",
+        "updated_at": "2024-12-16T07:52:14.781Z"
+      },
+      {
+        "id": "bifrostfinance",
+        "name": "Bifrost",
+        "url": "https://immunefi.com/bug-bounty/bifrostfinance/",
+        "max_bounty": 500000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2022-06-29T03:00:00.000Z",
+        "updated_at": "2025-11-11T12:17:49.083Z"
+      },
+      {
+        "id": "orca",
+        "name": "Orca",
+        "url": "https://immunefi.com/bug-bounty/orca/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-05-19T17:30:00.000Z",
+        "updated_at": "2026-01-08T09:23:39.950Z"
+      },
+      {
+        "id": "maple",
+        "name": "Maple",
+        "url": "https://immunefi.com/bug-bounty/maple/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-01-25T21:00:00.000Z",
+        "updated_at": "2025-11-28T15:40:33.159Z"
+      },
+      {
+        "id": "buttonwood",
+        "name": "Buttonwood",
+        "url": "https://immunefi.com/bug-bounty/buttonwood/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2021-10-28T09:15:00.000Z",
+        "updated_at": "2024-11-18T16:17:45.025Z"
+      },
+      {
+        "id": "sherlock",
+        "name": "Sherlock",
+        "url": "https://immunefi.com/bug-bounty/sherlock/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-10-12T15:00:00.000Z",
+        "updated_at": "2025-07-22T17:19:13.131Z"
+      },
+      {
+        "id": "instadapp",
+        "name": "Instadapp",
+        "url": "https://immunefi.com/bug-bounty/instadapp/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-09-20T01:30:00.000Z",
+        "updated_at": "2024-12-15T14:36:28.594Z"
+      },
+      {
+        "id": "rocketpool",
+        "name": "Rocket Pool",
+        "url": "https://immunefi.com/bug-bounty/rocketpool/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-09-08T14:00:00.000Z",
+        "updated_at": "2024-10-21T19:18:33.584Z"
+      },
+      {
+        "id": "benqi",
+        "name": "BENQI",
+        "url": "https://immunefi.com/bug-bounty/benqi/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-08-19T12:00:00.000Z",
+        "updated_at": "2025-11-27T17:24:07.607Z"
+      },
+      {
+        "id": "AlphaVentureDAO",
+        "name": "Alpha Venture DAO",
+        "url": "https://immunefi.com/bug-bounty/AlphaVentureDAO/",
+        "max_bounty": 500000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-04-20T07:00:00.000Z",
+        "updated_at": "2025-09-19T13:28:17.902Z"
+      },
+      {
+        "id": "silofinance-v2",
+        "name": "Silo Finance V2",
+        "url": "https://immunefi.com/bug-bounty/silofinance-v2/",
+        "max_bounty": 350000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-08-30T17:30:00.000Z",
+        "updated_at": "2025-07-04T16:03:01.654Z"
+      },
+      {
+        "id": "defisaver",
+        "name": "DeFi Saver",
+        "url": "https://immunefi.com/bug-bounty/defisaver/",
+        "max_bounty": 350000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-04-21T07:00:00.000Z",
+        "updated_at": "2025-09-24T13:20:19.707Z"
+      },
+      {
+        "id": "stakestone",
+        "name": "StakeStone",
+        "url": "https://immunefi.com/bug-bounty/stakestone/",
+        "max_bounty": 300000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-09-12T14:36:25.000Z",
+        "updated_at": "2025-02-03T07:42:52.842Z"
+      },
+      {
+        "id": "etherfi",
+        "name": "Ether.fi",
+        "url": "https://immunefi.com/bug-bounty/etherfi/",
+        "max_bounty": 300000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2024-03-27T01:30:00.000Z",
+        "updated_at": "2025-12-15T11:39:59.841Z"
+      },
+      {
+        "id": "alchemix",
+        "name": "Alchemix",
+        "url": "https://immunefi.com/bug-bounty/alchemix/",
+        "max_bounty": 300000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-08-25T07:00:00.000Z",
+        "updated_at": "2025-03-26T01:31:50.121Z"
+      },
+      {
+        "id": "Aevo",
+        "name": "Aevo",
+        "url": "https://immunefi.com/bug-bounty/Aevo/",
+        "max_bounty": 300000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-04-12T07:00:00.000Z",
+        "updated_at": "2024-12-02T18:06:18.451Z"
+      },
+      {
+        "id": "parallel",
+        "name": "Parallel",
+        "url": "https://immunefi.com/bug-bounty/parallel/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-10-02T12:10:00.000Z",
+        "updated_at": "2025-11-06T09:59:47.380Z"
+      },
+      {
+        "id": "fassets",
+        "name": "Flare FAssets",
+        "url": "https://immunefi.com/bug-bounty/fassets/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2025-10-01T02:00:00.000Z",
+        "updated_at": "2025-10-22T06:58:09.956Z"
+      },
+      {
+        "id": "thala-protocol",
+        "name": "Thala Protocol",
+        "url": "https://immunefi.com/bug-bounty/thala-protocol/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2025-09-30T04:00:00.000Z",
+        "updated_at": "2025-10-14T10:39:24.841Z"
+      },
+      {
+        "id": "xion",
+        "name": "XION",
+        "url": "https://immunefi.com/bug-bounty/xion/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2025-05-08T05:53:52.000Z",
+        "updated_at": "2025-08-12T07:17:36.269Z"
+      },
+      {
+        "id": "berachain",
+        "name": "Berachain",
+        "url": "https://immunefi.com/bug-bounty/berachain/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2025-02-06T11:58:00.000Z",
+        "updated_at": "2025-12-01T07:50:01.500Z"
+      },
+      {
+        "id": "lombard-finance",
+        "name": "Lombard Finance",
+        "url": "https://immunefi.com/bug-bounty/lombard-finance/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2024-09-04T00:00:00.000Z",
+        "updated_at": "2025-01-17T14:25:50.616Z"
+      },
+      {
+        "id": "jito",
+        "name": "Jito",
+        "url": "https://immunefi.com/bug-bounty/jito/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2024-08-28T13:00:00.000Z",
+        "updated_at": "2025-02-17T05:08:03.251Z"
+      },
+      {
+        "id": "kelp-dao",
+        "name": "Kelp DAO",
+        "url": "https://immunefi.com/bug-bounty/kelp-dao/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2024-08-02T00:00:00.000Z",
+        "updated_at": "2025-03-21T10:29:19.016Z"
+      },
+      {
+        "id": "avail",
+        "name": "Avail",
+        "url": "https://immunefi.com/bug-bounty/avail/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2024-07-23T02:00:00.000Z",
+        "updated_at": "2025-12-15T09:56:17.673Z"
+      },
+      {
+        "id": "flarenetwork",
+        "name": "Flare Network",
+        "url": "https://immunefi.com/bug-bounty/flarenetwork/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2024-07-16T12:00:00.000Z",
+        "updated_at": "2025-03-13T14:55:00.021Z"
+      },
+      {
+        "id": "pythnetwork",
+        "name": "Pyth Network",
+        "url": "https://immunefi.com/bug-bounty/pythnetwork/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2024-06-24T16:00:00.000Z",
+        "updated_at": "2025-04-16T17:41:22.128Z"
+      },
+      {
+        "id": "ens",
+        "name": "ENS",
+        "url": "https://immunefi.com/bug-bounty/ens/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-05-10T03:11:00.000Z",
+        "updated_at": "2025-12-15T09:42:09.845Z"
+      },
+      {
+        "id": "stellar",
+        "name": "Stellar",
+        "url": "https://immunefi.com/bug-bounty/stellar/",
+        "max_bounty": 250000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-11-29T12:00:00.000Z",
+        "updated_at": "2024-11-10T13:06:18.636Z"
+      },
+      {
+        "id": "swell",
+        "name": "Swell",
+        "url": "https://immunefi.com/bug-bounty/swell/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2023-04-27T10:00:00.000Z",
+        "updated_at": "2025-06-25T11:42:12.425Z"
+      },
+      {
+        "id": "burrow",
+        "name": "Burrow",
+        "url": "https://immunefi.com/bug-bounty/burrow/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-02-08T18:00:00.000Z",
+        "updated_at": "2024-11-09T20:05:15.421Z"
+      },
+      {
+        "id": "staderforbnb",
+        "name": "Stader for BNB",
+        "url": "https://immunefi.com/bug-bounty/staderforbnb/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-08-11T18:00:00.000Z",
+        "updated_at": "2024-11-13T19:04:18.921Z"
+      },
+      {
+        "id": "stellaswap",
+        "name": "StellaSwap",
+        "url": "https://immunefi.com/bug-bounty/stellaswap/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-07-08T03:30:00.000Z",
+        "updated_at": "2024-11-15T10:46:44.033Z"
+      },
+      {
+        "id": "astarnetwork",
+        "name": "Astar Network",
+        "url": "https://immunefi.com/bug-bounty/astarnetwork/",
+        "max_bounty": 250000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-05-31T16:30:00.000Z",
+        "updated_at": "2026-01-08T09:24:06.293Z"
+      },
+      {
+        "id": "reffinance",
+        "name": "Ref Finance",
+        "url": "https://immunefi.com/bug-bounty/reffinance/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-05-17T18:30:00.000Z",
+        "updated_at": "2024-12-12T10:01:01.164Z"
+      },
+      {
+        "id": "StaderforPolygon",
+        "name": "Stader for Polygon",
+        "url": "https://immunefi.com/bug-bounty/StaderforPolygon/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-04-25T17:30:00.000Z",
+        "updated_at": "2024-12-17T09:49:59.188Z"
+      },
+      {
+        "id": "stacks",
+        "name": "Stacks",
+        "url": "https://immunefi.com/bug-bounty/stacks/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-03-31T19:30:00.000Z",
+        "updated_at": "2025-09-16T16:51:10.083Z"
+      },
+      {
+        "id": "marinade",
+        "name": "Marinade",
+        "url": "https://immunefi.com/bug-bounty/marinade/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-12-01T18:30:00.000Z",
+        "updated_at": "2024-11-12T15:28:47.750Z"
+      },
+      {
+        "id": "notional",
+        "name": "Notional",
+        "url": "https://immunefi.com/bug-bounty/notional/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2021-11-05T08:00:00.000Z",
+        "updated_at": "2024-10-26T22:16:42.842Z"
+      },
+      {
+        "id": "perpetual",
+        "name": "Perpetual",
+        "url": "https://immunefi.com/bug-bounty/perpetual/",
+        "max_bounty": 250000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-01-05T07:00:00.000Z",
+        "updated_at": "2024-11-18T16:12:15.021Z"
+      },
+      {
+        "id": "basilisk",
+        "name": "Basilisk",
+        "url": "https://immunefi.com/bug-bounty/basilisk/",
+        "max_bounty": 222222,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2022-12-06T20:00:00.000Z",
+        "updated_at": "2024-11-08T14:00:10.979Z"
+      },
+      {
+        "id": "enzyme-onyx",
+        "name": "Enzyme Onyx",
+        "url": "https://immunefi.com/bug-bounty/enzyme-onyx/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2025-09-04T10:00:00.000Z",
+        "updated_at": "2025-12-15T09:55:05.912Z"
+      },
+      {
+        "id": "aster",
+        "name": "Aster",
+        "url": "https://immunefi.com/bug-bounty/aster/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2025-04-16T02:43:13.000Z",
+        "updated_at": "2025-04-17T07:03:54.275Z"
+      },
+      {
+        "id": "pantos",
+        "name": "Pantos",
+        "url": "https://immunefi.com/bug-bounty/pantos/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-01-16T07:17:33.000Z",
+        "updated_at": "2025-10-15T07:49:10.111Z"
+      },
+      {
+        "id": "magpiexyz",
+        "name": "MagpieXYZ",
+        "url": "https://immunefi.com/bug-bounty/magpiexyz/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-02-09T20:00:00.000Z",
+        "updated_at": "2024-10-30T18:01:54.242Z"
+      },
+      {
+        "id": "indexcoop",
+        "name": "Index Coop",
+        "url": "https://immunefi.com/bug-bounty/indexcoop/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-09-29T18:00:00.000Z",
+        "updated_at": "2024-11-18T11:33:48.617Z"
+      },
+      {
+        "id": "beets",
+        "name": "Beets",
+        "url": "https://immunefi.com/bug-bounty/beets/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-09-16T03:30:00.000Z",
+        "updated_at": "2025-02-18T09:09:32.633Z"
+      },
+      {
+        "id": "thesandbox",
+        "name": "The Sandbox",
+        "url": "https://immunefi.com/bug-bounty/thesandbox/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-07-05T15:00:00.000Z",
+        "updated_at": "2024-11-19T08:29:28.497Z"
+      },
+      {
+        "id": "stakewise",
+        "name": "StakeWise Mainnet",
+        "url": "https://immunefi.com/bug-bounty/stakewise/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-05-31T17:30:00.000Z",
+        "updated_at": "2024-11-18T16:04:37.087Z"
+      },
+      {
+        "id": "folksfinance",
+        "name": "Folks Finance",
+        "url": "https://immunefi.com/bug-bounty/folksfinance/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-03-31T17:00:00.000Z",
+        "updated_at": "2025-05-05T14:42:26.281Z"
+      },
+      {
+        "id": "gainsnetwork",
+        "name": "Gains Network",
+        "url": "https://immunefi.com/bug-bounty/gainsnetwork/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-03-10T20:00:00.000Z",
+        "updated_at": "2024-12-23T00:05:06.954Z"
+      },
+      {
+        "id": "gearbox",
+        "name": "Gearbox",
+        "url": "https://immunefi.com/bug-bounty/gearbox/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-02-08T13:00:00.000Z",
+        "updated_at": "2024-12-07T18:55:18.183Z"
+      },
+      {
+        "id": "debridge",
+        "name": "deBridge",
+        "url": "https://immunefi.com/bug-bounty/debridge/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-01-21T13:00:00.000Z",
+        "updated_at": "2025-10-08T17:38:21.185Z"
+      },
+      {
+        "id": "acala",
+        "name": "Acala",
+        "url": "https://immunefi.com/bug-bounty/acala/",
+        "max_bounty": 200000,
+        "technologies": "Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2021-12-14T02:00:00.000Z",
+        "updated_at": "2025-11-13T22:34:38.927Z"
+      },
+      {
+        "id": "reaperfarm",
+        "name": "Reaper Farm",
+        "url": "https://immunefi.com/bug-bounty/reaperfarm/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-11-02T09:00:00.000Z",
+        "updated_at": "2024-11-18T13:56:15.888Z"
+      },
+      {
+        "id": "yearnfinance",
+        "name": "Yearn Finance",
+        "url": "https://immunefi.com/bug-bounty/yearnfinance/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-07-01T07:00:00.000Z",
+        "updated_at": "2026-01-08T09:22:38.933Z"
+      },
+      {
+        "id": "tranchess",
+        "name": "Tranchess",
+        "url": "https://immunefi.com/bug-bounty/tranchess/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-06-22T15:30:00.000Z",
+        "updated_at": "2025-07-18T13:29:27.345Z"
+      },
+      {
+        "id": "enzymefinance",
+        "name": "Enzyme Blue",
+        "url": "https://immunefi.com/bug-bounty/enzymefinance/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-03-29T07:00:00.000Z",
+        "updated_at": "2025-12-15T09:54:40.571Z"
+      },
+      {
+        "id": "sushiswap",
+        "name": "SushiSwap",
+        "url": "https://immunefi.com/bug-bounty/sushiswap/",
+        "max_bounty": 200000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-03-26T07:00:00.000Z",
+        "updated_at": "2025-10-16T22:38:56.122Z"
+      },
+      {
+        "id": "granite-protocol",
+        "name": "Granite Protocol",
+        "url": "https://immunefi.com/bug-bounty/granite-protocol/",
+        "max_bounty": 150000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2025-02-26T15:58:00.000Z",
+        "updated_at": "2025-09-19T14:00:55.896Z"
+      },
+      {
+        "id": "filecoin",
+        "name": "Filecoin",
+        "url": "https://immunefi.com/bug-bounty/filecoin/",
+        "max_bounty": 150000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-04-14T20:00:00.000Z",
+        "updated_at": "2025-05-19T08:40:02.167Z"
+      },
+      {
+        "id": "yelay",
+        "name": "yelay.io",
+        "url": "https://immunefi.com/bug-bounty/yelay/",
+        "max_bounty": 150000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-07-01T16:30:00.000Z",
+        "updated_at": "2025-07-17T16:56:54.599Z"
+      },
+      {
+        "id": "bitflow",
+        "name": "Bitflow",
+        "url": "https://immunefi.com/bug-bounty/bitflow/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2025-11-26T04:27:00.000Z",
+        "updated_at": "2025-12-08T07:57:57.211Z"
+      },
+      {
+        "id": "zksync-os",
+        "name": "ZKsync OS",
+        "url": "https://immunefi.com/bug-bounty/zksync-os/",
+        "max_bounty": 100000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2025-11-24T08:16:26.000Z",
+        "updated_at": "2026-01-08T09:22:11.269Z"
+      },
+      {
+        "id": "usx",
+        "name": "USX",
+        "url": "https://immunefi.com/bug-bounty/usx/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-11-17T00:00:00.000Z",
+        "updated_at": "2025-11-17T00:02:37.800Z"
+      },
+      {
+        "id": "kiln-webapp",
+        "name": "Kiln (dApp/Infra)",
+        "url": "https://immunefi.com/bug-bounty/kiln-webapp/",
+        "max_bounty": 100000,
+        "technologies": "Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-10-30T00:15:42.000Z",
+        "updated_at": "2025-10-30T17:17:14.549Z"
+      },
+      {
+        "id": "jito-bam-client",
+        "name": "Jito - BAM Client",
+        "url": "https://immunefi.com/bug-bounty/jito-bam-client/",
+        "max_bounty": 100000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2025-10-22T05:09:00.000Z",
+        "updated_at": "2025-11-05T07:30:42.563Z"
+      },
+      {
+        "id": "felix",
+        "name": "Felix",
+        "url": "https://immunefi.com/bug-bounty/felix/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2025-10-02T05:00:00.000Z",
+        "updated_at": "2025-11-14T12:01:47.195Z"
+      },
+      {
+        "id": "monero-oxide",
+        "name": "monero-oxide",
+        "url": "https://immunefi.com/bug-bounty/monero-oxide/",
+        "max_bounty": 100000,
+        "technologies": "Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2025-09-09T14:58:00.000Z",
+        "updated_at": "2026-01-08T09:24:26.714Z"
+      },
+      {
+        "id": "stakelink",
+        "name": "stake.link",
+        "url": "https://immunefi.com/bug-bounty/stakelink/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-05-14T14:28:00.000Z",
+        "updated_at": "2025-08-05T14:08:33.515Z"
+      },
+      {
+        "id": "haven1",
+        "name": "Haven1",
+        "url": "https://immunefi.com/bug-bounty/haven1/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2025-04-30T12:58:00.000Z",
+        "updated_at": "2025-05-05T07:54:19.737Z"
+      },
+      {
+        "id": "fbtc",
+        "name": "FBTC",
+        "url": "https://immunefi.com/bug-bounty/fbtc/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-12-19T19:46:46.000Z",
+        "updated_at": "2025-01-24T16:06:02.886Z"
+      },
+      {
+        "id": "vechain",
+        "name": "VeChain",
+        "url": "https://immunefi.com/bug-bounty/vechain/",
+        "max_bounty": 100000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2024-12-09T22:43:23.000Z",
+        "updated_at": "2024-12-10T14:51:58.284Z"
+      },
+      {
+        "id": "pinto",
+        "name": "Pinto",
+        "url": "https://immunefi.com/bug-bounty/pinto/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-12-04T16:58:00.000Z",
+        "updated_at": "2025-12-15T09:38:12.606Z"
+      },
+      {
+        "id": "vesu",
+        "name": "Vesu",
+        "url": "https://immunefi.com/bug-bounty/vesu/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2024-07-10T14:00:00.000Z",
+        "updated_at": "2025-11-24T08:58:27.425Z"
+      },
+      {
+        "id": "neutron",
+        "name": "Neutron",
+        "url": "https://immunefi.com/bug-bounty/neutron/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2024-07-02T08:30:00.000Z",
+        "updated_at": "2025-10-02T23:34:53.851Z"
+      },
+      {
+        "id": "arkadiko",
+        "name": "Arkadiko",
+        "url": "https://immunefi.com/bug-bounty/arkadiko/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-06-03T02:44:00.000Z",
+        "updated_at": "2025-10-20T05:58:05.337Z"
+      },
+      {
+        "id": "zestprotocol",
+        "name": "Zest Protocol",
+        "url": "https://immunefi.com/bug-bounty/zestprotocol/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-03-11T01:01:00.000Z",
+        "updated_at": "2025-07-31T15:50:39.576Z"
+      },
+      {
+        "id": "orderlynetwork",
+        "name": "Orderly Network",
+        "url": "https://immunefi.com/bug-bounty/orderlynetwork/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-02-27T00:05:00.000Z",
+        "updated_at": "2024-12-16T08:08:56.989Z"
+      },
+      {
+        "id": "oasis",
+        "name": "Oasis",
+        "url": "https://immunefi.com/bug-bounty/oasis/",
+        "max_bounty": 100000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2024-02-20T16:32:00.000Z",
+        "updated_at": "2025-01-24T16:19:50.540Z"
+      },
+      {
+        "id": "segmentfinance",
+        "name": "Segment Finance",
+        "url": "https://immunefi.com/bug-bounty/segmentfinance/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-02-16T08:00:00.000Z",
+        "updated_at": "2024-11-09T19:51:43.962Z"
+      },
+      {
+        "id": "stackingdao",
+        "name": "StackingDAO",
+        "url": "https://immunefi.com/bug-bounty/stackingdao/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-02-04T20:00:00.000Z",
+        "updated_at": "2025-07-16T12:17:01.393Z"
+      },
+      {
+        "id": "avalanche",
+        "name": "Ava Labs Avalanche",
+        "url": "https://immunefi.com/bug-bounty/avalanche/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-12-03T22:00:00.000Z",
+        "updated_at": "2025-12-08T08:06:53.072Z"
+      },
+      {
+        "id": "drips",
+        "name": "Drips",
+        "url": "https://immunefi.com/bug-bounty/drips/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-12-01T09:00:00.000Z",
+        "updated_at": "2024-11-18T12:01:03.677Z"
+      },
+      {
+        "id": "inversefinance",
+        "name": "Inverse Finance",
+        "url": "https://immunefi.com/bug-bounty/inversefinance/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2023-11-30T11:00:00.000Z",
+        "updated_at": "2025-12-30T09:21:29.438Z"
+      },
+      {
+        "id": "extrafinance",
+        "name": "Extra Finance",
+        "url": "https://immunefi.com/bug-bounty/extrafinance/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-09-08T13:00:00.000Z",
+        "updated_at": "2024-12-10T18:05:48.109Z"
+      },
+      {
+        "id": "linea",
+        "name": "Linea",
+        "url": "https://immunefi.com/bug-bounty/linea/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-07-11T14:00:00.000Z",
+        "updated_at": "2025-10-01T15:00:59.433Z"
+      },
+      {
+        "id": "velodromefinance",
+        "name": "Velodrome Finance",
+        "url": "https://immunefi.com/bug-bounty/velodromefinance/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-06-29T09:00:00.000Z",
+        "updated_at": "2024-11-29T16:06:24.836Z"
+      },
+      {
+        "id": "traderjoe",
+        "name": "Trader Joe",
+        "url": "https://immunefi.com/bug-bounty/traderjoe/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-05-12T19:00:00.000Z",
+        "updated_at": "2024-12-03T10:45:13.860Z"
+      },
+      {
+        "id": "resonate",
+        "name": "Resonate",
+        "url": "https://immunefi.com/bug-bounty/resonate/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-10-20T18:00:00.000Z",
+        "updated_at": "2025-06-17T12:31:57.680Z"
+      },
+      {
+        "id": "symbiosis",
+        "name": "Symbiosis",
+        "url": "https://immunefi.com/bug-bounty/symbiosis/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-08-18T09:30:00.000Z",
+        "updated_at": "2024-11-14T20:25:00.605Z"
+      },
+      {
+        "id": "revest",
+        "name": "Revest",
+        "url": "https://immunefi.com/bug-bounty/revest/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-04-21T18:30:00.000Z",
+        "updated_at": "2024-11-18T09:46:55.665Z"
+      },
+      {
+        "id": "wepiggy",
+        "name": "WePiggy",
+        "url": "https://immunefi.com/bug-bounty/wepiggy/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2022-01-29T03:30:00.000Z",
+        "updated_at": "2024-11-29T14:29:02.338Z"
+      },
+      {
+        "id": "tinyman",
+        "name": "Tinyman",
+        "url": "https://immunefi.com/bug-bounty/tinyman/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-01-21T17:00:00.000Z",
+        "updated_at": "2025-01-20T10:59:57.679Z"
+      },
+      {
+        "id": "woofi",
+        "name": "WOOFi",
+        "url": "https://immunefi.com/bug-bounty/woofi/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-01-17T07:00:00.000Z",
+        "updated_at": "2024-10-28T15:02:53.629Z"
+      },
+      {
+        "id": "moonbeamnetwork",
+        "name": "Moonbeam Network",
+        "url": "https://immunefi.com/bug-bounty/moonbeamnetwork/",
+        "max_bounty": 100000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2021-12-16T18:00:00.000Z",
+        "updated_at": "2025-11-25T09:48:54.578Z"
+      },
+      {
+        "id": "alex",
+        "name": "ALEX",
+        "url": "https://immunefi.com/bug-bounty/alex/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2021-12-13T00:00:00.000Z",
+        "updated_at": "2024-11-18T16:03:51.734Z"
+      },
+      {
+        "id": "bifi",
+        "name": "BiFi",
+        "url": "https://immunefi.com/bug-bounty/bifi/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-10-21T13:00:00.000Z",
+        "updated_at": "2024-12-02T18:49:04.477Z"
+      },
+      {
+        "id": "bprotocol",
+        "name": "BProtocol",
+        "url": "https://immunefi.com/bug-bounty/bprotocol/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2021-07-14T11:00:00.000Z",
+        "updated_at": "2024-11-12T10:24:19.325Z"
+      },
+      {
+        "id": "mux",
+        "name": "MUX",
+        "url": "https://immunefi.com/bug-bounty/mux/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-06-09T07:00:00.000Z",
+        "updated_at": "2025-08-28T23:21:16.264Z"
+      },
+      {
+        "id": "dodo",
+        "name": "DODO",
+        "url": "https://immunefi.com/bug-bounty/dodo/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-05-25T05:00:00.000Z",
+        "updated_at": "2024-11-18T12:03:26.280Z"
+      },
+      {
+        "id": "synthetix",
+        "name": "Synthetix",
+        "url": "https://immunefi.com/bug-bounty/synthetix/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-03-05T07:00:00.000Z",
+        "updated_at": "2025-10-27T07:36:41.306Z"
+      },
+      {
+        "id": "harvest",
+        "name": "Harvest Finance",
+        "url": "https://immunefi.com/bug-bounty/harvest/",
+        "max_bounty": 100000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2020-12-02T07:00:00.000Z",
+        "updated_at": "2024-11-18T13:44:21.767Z"
+      },
+      {
+        "id": "impossiblefinance",
+        "name": "Impossible Finance",
+        "url": "https://immunefi.com/bug-bounty/impossiblefinance/",
+        "max_bounty": 94000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-06-18T13:00:00.000Z",
+        "updated_at": "2024-11-18T12:50:36.114Z"
+      },
+      {
+        "id": "xterio",
+        "name": "Xterio",
+        "url": "https://immunefi.com/bug-bounty/xterio/",
+        "max_bounty": 80000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2024-07-08T10:30:00.000Z",
+        "updated_at": "2025-11-06T07:38:48.441Z"
+      },
+      {
+        "id": "beefyfinance",
+        "name": "Beefy Finance",
+        "url": "https://immunefi.com/bug-bounty/beefyfinance/",
+        "max_bounty": 75000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-07-15T16:00:00.000Z",
+        "updated_at": "2024-12-02T18:46:02.247Z"
+      },
+      {
+        "id": "aleo",
+        "name": "Aleo",
+        "url": "https://immunefi.com/bug-bounty/aleo/",
+        "max_bounty": 65000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2025-11-24T10:00:00.000Z",
+        "updated_at": "2025-11-24T14:01:14.636Z"
+      },
+      {
+        "id": "velvetcapital",
+        "name": "Velvet Capital",
+        "url": "https://immunefi.com/bug-bounty/velvetcapital/",
+        "max_bounty": 51000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-12-15T09:00:00.000Z",
+        "updated_at": "2024-11-18T16:00:56.803Z"
+      },
+      {
+        "id": "xoxno",
+        "name": "XOXNO",
+        "url": "https://immunefi.com/bug-bounty/xoxno/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2025-09-16T08:00:31.000Z",
+        "updated_at": "2025-09-22T09:39:53.581Z"
+      },
+      {
+        "id": "zkverify",
+        "name": "zkVerify",
+        "url": "https://immunefi.com/bug-bounty/zkverify/",
+        "max_bounty": 50000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2025-09-05T12:00:00.000Z",
+        "updated_at": "2025-11-04T06:41:01.571Z"
+      },
+      {
+        "id": "usdn",
+        "name": "USDN",
+        "url": "https://immunefi.com/bug-bounty/usdn/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2025-04-21T12:58:00.000Z",
+        "updated_at": "2025-07-04T09:25:35.122Z"
+      },
+      {
+        "id": "beradrome",
+        "name": "Beradrome",
+        "url": "https://immunefi.com/bug-bounty/beradrome/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2025-04-01T08:39:36.000Z",
+        "updated_at": "2025-07-10T15:21:50.585Z"
+      },
+      {
+        "id": "hourglass",
+        "name": "Hourglass",
+        "url": "https://immunefi.com/bug-bounty/hourglass/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2024-11-26T01:00:21.000Z",
+        "updated_at": "2024-11-28T12:50:04.715Z"
+      },
+      {
+        "id": "light-protocol",
+        "name": "Light Protocol",
+        "url": "https://immunefi.com/bug-bounty/light-protocol/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-09-12T19:39:57.000Z",
+        "updated_at": "2025-11-28T14:06:03.264Z"
+      },
+      {
+        "id": "termstructurelabs",
+        "name": "TermMax",
+        "url": "https://immunefi.com/bug-bounty/termstructurelabs/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-06-12T03:22:00.000Z",
+        "updated_at": "2025-12-05T11:31:49.943Z"
+      },
+      {
+        "id": "cove",
+        "name": "Cove",
+        "url": "https://immunefi.com/bug-bounty/cove/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2024-04-09T06:39:35.000Z",
+        "updated_at": "2025-06-16T10:36:09.358Z"
+      },
+      {
+        "id": "aspida",
+        "name": "Aspida",
+        "url": "https://immunefi.com/bug-bounty/aspida/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-02-21T04:00:00.000Z",
+        "updated_at": "2024-10-30T09:00:00.772Z"
+      },
+      {
+        "id": "superform",
+        "name": "Superform (v1 SuperVaults)",
+        "url": "https://immunefi.com/bug-bounty/superform/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-01-25T20:00:00.000Z",
+        "updated_at": "2025-12-02T23:23:33.810Z"
+      },
+      {
+        "id": "gogopool",
+        "name": "GoGoPool",
+        "url": "https://immunefi.com/bug-bounty/gogopool/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2024-01-08T13:00:00.000Z",
+        "updated_at": "2024-11-09T19:50:55.139Z"
+      },
+      {
+        "id": "skatefi",
+        "name": "SkateFi",
+        "url": "https://immunefi.com/bug-bounty/skatefi/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-11-30T09:00:00.000Z",
+        "updated_at": "2024-11-11T09:18:43.427Z"
+      },
+      {
+        "id": "pragmaoracle",
+        "name": "Pragma Oracle",
+        "url": "https://immunefi.com/bug-bounty/pragmaoracle/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-11-22T09:00:00.000Z",
+        "updated_at": "2024-11-11T13:44:29.750Z"
+      },
+      {
+        "id": "metastreet",
+        "name": "MetaStreet",
+        "url": "https://immunefi.com/bug-bounty/metastreet/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-08-02T16:00:00.000Z",
+        "updated_at": "2024-11-14T13:22:18.597Z"
+      },
+      {
+        "id": "galagames",
+        "name": "Gala Games",
+        "url": "https://immunefi.com/bug-bounty/galagames/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2023-05-23T13:00:00.000Z",
+        "updated_at": "2025-10-16T10:47:23.877Z"
+      },
+      {
+        "id": "hathornetwork",
+        "name": "Hathor Network",
+        "url": "https://immunefi.com/bug-bounty/hathornetwork/",
+        "max_bounty": 50000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-03-15T19:00:00.000Z",
+        "updated_at": "2025-09-25T00:00:34.632Z"
+      },
+      {
+        "id": "metronome",
+        "name": "Metronome",
+        "url": "https://immunefi.com/bug-bounty/metronome/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2023-02-21T21:00:00.000Z",
+        "updated_at": "2025-07-15T13:53:34.466Z"
+      },
+      {
+        "id": "dfxfinance",
+        "name": "DFX Finance",
+        "url": "https://immunefi.com/bug-bounty/dfxfinance/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-02-13T18:00:00.000Z",
+        "updated_at": "2024-12-04T23:11:11.102Z"
+      },
+      {
+        "id": "exactly",
+        "name": "Exactly",
+        "url": "https://immunefi.com/bug-bounty/exactly/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-12-08T21:00:00.000Z",
+        "updated_at": "2026-01-08T12:50:54.426Z"
+      },
+      {
+        "id": "justlenddao",
+        "name": "JustLend DAO",
+        "url": "https://immunefi.com/bug-bounty/justlenddao/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-08-31T03:00:00.000Z",
+        "updated_at": "2025-09-16T22:35:10.430Z"
+      },
+      {
+        "id": "autonolas",
+        "name": "Autonolas",
+        "url": "https://immunefi.com/bug-bounty/autonolas/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-08-10T17:30:00.000Z",
+        "updated_at": "2024-11-13T19:00:44.005Z"
+      },
+      {
+        "id": "interlay",
+        "name": "Interlay",
+        "url": "https://immunefi.com/bug-bounty/interlay/",
+        "max_bounty": 50000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-06-30T18:00:00.000Z",
+        "updated_at": "2025-02-12T06:29:21.369Z"
+      },
+      {
+        "id": "tropykus",
+        "name": "Tropykus",
+        "url": "https://immunefi.com/bug-bounty/tropykus/",
+        "max_bounty": 50000,
+        "technologies": "",
+        "kyc": false,
+        "launch_date": "2022-02-16T03:30:00.000Z",
+        "updated_at": "2024-12-02T15:08:05.991Z"
+      },
+      {
+        "id": "glodollar",
+        "name": "Glo Dollar",
+        "url": "https://immunefi.com/bug-bounty/glodollar/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-02-14T15:00:00.000Z",
+        "updated_at": "2024-12-10T18:52:45.380Z"
+      },
+      {
+        "id": "bitcoinsv",
+        "name": "Bitcoin SV",
+        "url": "https://immunefi.com/bug-bounty/bitcoinsv/",
+        "max_bounty": 50000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-02-06T18:00:00.000Z",
+        "updated_at": "2024-12-02T18:52:11.140Z"
+      },
+      {
+        "id": "connext",
+        "name": "Connext",
+        "url": "https://immunefi.com/bug-bounty/connext/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-12-21T15:00:00.000Z",
+        "updated_at": "2025-11-11T23:11:20.953Z"
+      },
+      {
+        "id": "dhedge",
+        "name": "dHEDGE",
+        "url": "https://immunefi.com/bug-bounty/dhedge/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-11-09T12:00:00.000Z",
+        "updated_at": "2024-12-04T23:16:53.428Z"
+      },
+      {
+        "id": "gamma",
+        "name": "Gamma",
+        "url": "https://immunefi.com/bug-bounty/gamma/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-10-08T15:00:00.000Z",
+        "updated_at": "2024-12-07T18:43:32.008Z"
+      },
+      {
+        "id": "lyra",
+        "name": "Lyra",
+        "url": "https://immunefi.com/bug-bounty/lyra/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-08-23T14:00:00.000Z",
+        "updated_at": "2024-11-18T16:15:09.624Z"
+      },
+      {
+        "id": "dforce",
+        "name": "dForce",
+        "url": "https://immunefi.com/bug-bounty/dforce/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-07-29T06:00:00.000Z",
+        "updated_at": "2025-09-29T20:46:58.381Z"
+      },
+      {
+        "id": "ichi",
+        "name": "Ichi",
+        "url": "https://immunefi.com/bug-bounty/ichi/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-06-17T15:00:00.000Z",
+        "updated_at": "2024-11-12T12:44:04.171Z"
+      },
+      {
+        "id": "vesper",
+        "name": "Vesper",
+        "url": "https://immunefi.com/bug-bounty/vesper/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-05-06T05:00:00.000Z",
+        "updated_at": "2025-06-16T12:43:27.928Z"
+      },
+      {
+        "id": "pareto",
+        "name": "Pareto Credit",
+        "url": "https://immunefi.com/bug-bounty/pareto/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-03-25T07:00:00.000Z",
+        "updated_at": "2025-06-03T15:23:16.105Z"
+      },
+      {
+        "id": "immunefi",
+        "name": "Immunefi",
+        "url": "https://immunefi.com/bug-bounty/immunefi/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2020-12-02T05:00:00.000Z",
+        "updated_at": "2025-11-17T09:39:05.072Z"
+      },
+      {
+        "id": "obyte",
+        "name": "Obyte",
+        "url": "https://immunefi.com/bug-bounty/obyte/",
+        "max_bounty": 50000,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2020-12-01T07:00:00.000Z",
+        "updated_at": "2025-08-19T22:08:48.039Z"
+      },
+      {
+        "id": "starknet-staking",
+        "name": "Starknet Staking",
+        "url": "https://immunefi.com/bug-bounty/starknet-staking/",
+        "max_bounty": 40000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-11-19T22:50:00.000Z",
+        "updated_at": "2024-11-20T20:52:26.322Z"
+      },
+      {
+        "id": "gammaswap",
+        "name": "GammaSwap",
+        "url": "https://immunefi.com/bug-bounty/gammaswap/",
+        "max_bounty": 40000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-09-29T20:00:00.000Z",
+        "updated_at": "2024-10-24T09:23:09.463Z"
+      },
+      {
+        "id": "trufin",
+        "name": "TruFin",
+        "url": "https://immunefi.com/bug-bounty/trufin/",
+        "max_bounty": 40000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-09-27T14:00:00.000Z",
+        "updated_at": "2025-09-01T13:29:27.772Z"
+      },
+      {
+        "id": "hashflow",
+        "name": "Hashflow",
+        "url": "https://immunefi.com/bug-bounty/hashflow/",
+        "max_bounty": 40000,
+        "technologies": "Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-03-29T20:00:00.000Z",
+        "updated_at": "2024-11-18T13:12:04.976Z"
+      },
+      {
+        "id": "livepeer",
+        "name": "Livepeer",
+        "url": "https://immunefi.com/bug-bounty/livepeer/",
+        "max_bounty": 40000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-02-25T04:00:00.000Z",
+        "updated_at": "2024-11-18T11:27:27.461Z"
+      },
+      {
+        "id": "mayaprotocol",
+        "name": "Maya Protocol",
+        "url": "https://immunefi.com/bug-bounty/mayaprotocol/",
+        "max_bounty": 35000,
+        "technologies": "Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2023-03-29T17:00:00.000Z",
+        "updated_at": "2025-03-07T14:21:12.623Z"
+      },
+      {
+        "id": "hedera",
+        "name": "Hedera",
+        "url": "https://immunefi.com/bug-bounty/hedera/",
+        "max_bounty": 30000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2025-02-05T04:21:00.000Z",
+        "updated_at": "2025-03-04T03:58:05.901Z"
+      },
+      {
+        "id": "ensuro",
+        "name": "Ensuro",
+        "url": "https://immunefi.com/bug-bounty/ensuro/",
+        "max_bounty": 30000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-01-11T12:00:00.000Z",
+        "updated_at": "2024-11-09T23:12:17.074Z"
+      },
+      {
+        "id": "serai",
+        "name": "Serai",
+        "url": "https://immunefi.com/bug-bounty/serai/",
+        "max_bounty": 30000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-08-04T11:00:00.000Z",
+        "updated_at": "2025-11-11T07:09:47.202Z"
+      },
+      {
+        "id": "zenlink",
+        "name": "Zenlink",
+        "url": "https://immunefi.com/bug-bounty/zenlink/",
+        "max_bounty": 30000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2022-03-23T03:30:00.000Z",
+        "updated_at": "2024-10-30T18:19:51.585Z"
+      },
+      {
+        "id": "impossible-cloud-network",
+        "name": "Impossible Cloud Network",
+        "url": "https://immunefi.com/bug-bounty/impossible-cloud-network/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2025-09-09T09:35:00.000Z",
+        "updated_at": "2025-10-06T09:55:29.333Z"
+      },
+      {
+        "id": "farcaster",
+        "name": "Farcaster",
+        "url": "https://immunefi.com/bug-bounty/farcaster/",
+        "max_bounty": 25000,
+        "technologies": "Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-06-18T16:00:00.000Z",
+        "updated_at": "2025-08-11T18:40:40.515Z"
+      },
+      {
+        "id": "openzeppelin-stellar",
+        "name": "OpenZeppelin on Stellar",
+        "url": "https://immunefi.com/bug-bounty/openzeppelin-stellar/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2025-05-08T02:51:06.000Z",
+        "updated_at": "2025-05-26T13:40:14.441Z"
+      },
+      {
+        "id": "coreum",
+        "name": "Coreum",
+        "url": "https://immunefi.com/bug-bounty/coreum/",
+        "max_bounty": 25000,
+        "technologies": "Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2023-12-20T09:00:00.000Z",
+        "updated_at": "2024-11-14T13:38:07.228Z"
+      },
+      {
+        "id": "arkham",
+        "name": "Arkham",
+        "url": "https://immunefi.com/bug-bounty/arkham/",
+        "max_bounty": 25000,
+        "technologies": "Websites and Applications",
+        "kyc": false,
+        "launch_date": "2023-11-14T14:00:00.000Z",
+        "updated_at": "2025-08-12T09:19:13.965Z"
+      },
+      {
+        "id": "rubic",
+        "name": "Rubic",
+        "url": "https://immunefi.com/bug-bounty/rubic/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-07-31T10:00:00.000Z",
+        "updated_at": "2024-11-06T15:35:26.579Z"
+      },
+      {
+        "id": "sectorfinance",
+        "name": "Sector Finance",
+        "url": "https://immunefi.com/bug-bounty/sectorfinance/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-05-11T11:00:00.000Z",
+        "updated_at": "2024-10-28T13:30:56.484Z"
+      },
+      {
+        "id": "gear",
+        "name": "Gear",
+        "url": "https://immunefi.com/bug-bounty/gear/",
+        "max_bounty": 25000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2023-02-24T13:00:00.000Z",
+        "updated_at": "2024-12-07T18:46:43.274Z"
+      },
+      {
+        "id": "zerion",
+        "name": "Zerion",
+        "url": "https://immunefi.com/bug-bounty/zerion/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2022-03-29T19:00:00.000Z",
+        "updated_at": "2024-10-28T13:08:49.184Z"
+      },
+      {
+        "id": "antefinance",
+        "name": "Ante Finance",
+        "url": "https://immunefi.com/bug-bounty/antefinance/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2022-01-05T18:00:00.000Z",
+        "updated_at": "2024-12-02T18:33:01.800Z"
+      },
+      {
+        "id": "openzeppelin",
+        "name": "OpenZeppelin",
+        "url": "https://immunefi.com/bug-bounty/openzeppelin/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2021-11-15T15:00:00.000Z",
+        "updated_at": "2025-10-09T11:43:20.420Z"
+      },
+      {
+        "id": "88mphv3",
+        "name": "88mphV3",
+        "url": "https://immunefi.com/bug-bounty/88mphv3/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-07-03T11:00:00.000Z",
+        "updated_at": "2024-11-18T12:03:58.572Z"
+      },
+      {
+        "id": "integral",
+        "name": "Integral",
+        "url": "https://immunefi.com/bug-bounty/integral/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2021-04-15T07:00:00.000Z",
+        "updated_at": "2024-11-18T14:00:08.992Z"
+      },
+      {
+        "id": "nexusmutual",
+        "name": "Nexus Mutual",
+        "url": "https://immunefi.com/bug-bounty/nexusmutual/",
+        "max_bounty": 25000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-02-23T07:00:00.000Z",
+        "updated_at": "2025-11-14T12:09:41.156Z"
+      },
+      {
+        "id": "daimo-pay",
+        "name": "Daimo Pay",
+        "url": "https://immunefi.com/bug-bounty/daimo-pay/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2025-06-06T07:00:00.000Z",
+        "updated_at": "2025-10-02T09:30:10.628Z"
+      },
+      {
+        "id": "hibachi",
+        "name": "Hibachi",
+        "url": "https://immunefi.com/bug-bounty/hibachi/",
+        "max_bounty": 20000,
+        "technologies": "Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-01-08T14:58:00.000Z",
+        "updated_at": "2025-04-08T14:37:35.770Z"
+      },
+      {
+        "id": "nftfitestnetrefi",
+        "name": "NFTfi (Testnet Refi)",
+        "url": "https://immunefi.com/bug-bounty/nftfitestnetrefi/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2024-01-17T21:05:47.000Z",
+        "updated_at": "2024-11-09T20:21:46.614Z"
+      },
+      {
+        "id": "uniswaponzksync",
+        "name": "Uniswap on zkSync",
+        "url": "https://immunefi.com/bug-bounty/uniswaponzksync/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-12-11T15:00:00.000Z",
+        "updated_at": "2024-12-02T15:27:24.459Z"
+      },
+      {
+        "id": "nftfi",
+        "name": "NFTfi",
+        "url": "https://immunefi.com/bug-bounty/nftfi/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-08-25T21:00:00.000Z",
+        "updated_at": "2024-11-05T18:21:27.182Z"
+      },
+      {
+        "id": "sns",
+        "name": "SNS",
+        "url": "https://immunefi.com/bug-bounty/sns/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2023-08-04T12:00:00.000Z",
+        "updated_at": "2025-12-30T09:22:19.589Z"
+      },
+      {
+        "id": "pushprotocol",
+        "name": "Push Protocol",
+        "url": "https://immunefi.com/bug-bounty/pushprotocol/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-06-21T14:00:00.000Z",
+        "updated_at": "2025-09-30T08:48:01.458Z"
+      },
+      {
+        "id": "horizen",
+        "name": "Horizen",
+        "url": "https://immunefi.com/bug-bounty/horizen/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2023-04-20T13:00:00.000Z",
+        "updated_at": "2025-12-08T07:57:03.142Z"
+      },
+      {
+        "id": "ipor",
+        "name": "IPOR",
+        "url": "https://immunefi.com/bug-bounty/ipor/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-04-11T18:00:00.000Z",
+        "updated_at": "2025-07-23T08:32:18.569Z"
+      },
+      {
+        "id": "paribus",
+        "name": "Paribus",
+        "url": "https://immunefi.com/bug-bounty/paribus/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-10-13T19:00:00.000Z",
+        "updated_at": "2024-04-08T19:00:06.380Z"
+      },
+      {
+        "id": "wombatexchange",
+        "name": "Wombat Exchange",
+        "url": "https://immunefi.com/bug-bounty/wombatexchange/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2022-05-11T02:30:00.000Z",
+        "updated_at": "2024-11-18T11:30:40.896Z"
+      },
+      {
+        "id": "astroport",
+        "name": "Astroport",
+        "url": "https://immunefi.com/bug-bounty/astroport/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-11-29T17:00:00.000Z",
+        "updated_at": "2024-12-02T18:36:11.326Z"
+      },
+      {
+        "id": "charm",
+        "name": "Charm",
+        "url": "https://immunefi.com/bug-bounty/charm/",
+        "max_bounty": 20000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-02-05T07:00:00.000Z",
+        "updated_at": "2024-12-04T15:22:44.700Z"
+      },
+      {
+        "id": "exodus",
+        "name": "Exodus",
+        "url": "https://immunefi.com/bug-bounty/exodus/",
+        "max_bounty": 18000,
+        "technologies": "Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-12-30T10:00:00.000Z",
+        "updated_at": "2026-01-07T14:16:46.770Z"
+      },
+      {
+        "id": "omron",
+        "name": "Omron",
+        "url": "https://immunefi.com/bug-bounty/omron/",
+        "max_bounty": 15000,
+        "technologies": "",
+        "kyc": true,
+        "launch_date": "2024-09-30T19:44:15.000Z",
+        "updated_at": "2025-11-14T12:07:00.706Z"
+      },
+      {
+        "id": "teahousefinance",
+        "name": "Teahouse Finance",
+        "url": "https://immunefi.com/bug-bounty/teahousefinance/",
+        "max_bounty": 15000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2024-01-10T09:00:00.000Z",
+        "updated_at": "2024-12-03T18:20:21.659Z"
+      },
+      {
+        "id": "zano",
+        "name": "Zano",
+        "url": "https://immunefi.com/bug-bounty/zano/",
+        "max_bounty": 10000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2025-07-14T13:00:00.000Z",
+        "updated_at": "2025-11-13T17:16:13.859Z"
+      },
+      {
+        "id": "ofza-1",
+        "name": "OFZA",
+        "url": "https://immunefi.com/bug-bounty/ofza-1/",
+        "max_bounty": 10000,
+        "technologies": "Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-06-18T05:11:00.000Z",
+        "updated_at": "2025-06-18T09:14:16.838Z"
+      },
+      {
+        "id": "intmax",
+        "name": "INTMAX",
+        "url": "https://immunefi.com/bug-bounty/intmax/",
+        "max_bounty": 10000,
+        "technologies": "Smart Contract, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2025-05-25T09:23:00.000Z",
+        "updated_at": "2025-06-16T12:41:10.612Z"
+      },
+      {
+        "id": "yo-protocol",
+        "name": "YO Protocol",
+        "url": "https://immunefi.com/bug-bounty/yo-protocol/",
+        "max_bounty": 10000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-05-05T13:00:00.000Z",
+        "updated_at": "2025-08-22T00:16:40.083Z"
+      },
+      {
+        "id": "foil",
+        "name": "FOIL",
+        "url": "https://immunefi.com/bug-bounty/foil/",
+        "max_bounty": 10000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-04-23T11:11:00.000Z",
+        "updated_at": "2025-07-17T17:07:07.079Z"
+      },
+      {
+        "id": "berachain-webapps",
+        "name": "Berachain (Web/Apps)",
+        "url": "https://immunefi.com/bug-bounty/berachain-webapps/",
+        "max_bounty": 10000,
+        "technologies": "Websites and Applications",
+        "kyc": true,
+        "launch_date": "2025-03-18T09:00:00.000Z",
+        "updated_at": "2025-11-19T16:05:55.710Z"
+      },
+      {
+        "id": "velvet-capital-v2",
+        "name": "Velvet Capital V2",
+        "url": "https://immunefi.com/bug-bounty/velvet-capital-v2/",
+        "max_bounty": 10000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2024-09-05T21:23:24.000Z",
+        "updated_at": "2024-11-11T14:24:15.319Z"
+      },
+      {
+        "id": "cardanofoundation",
+        "name": "Cardano Foundation",
+        "url": "https://immunefi.com/bug-bounty/cardanofoundation/",
+        "max_bounty": 10000,
+        "technologies": "Websites and Applications",
+        "kyc": false,
+        "launch_date": "2024-03-28T02:42:00.000Z",
+        "updated_at": "2024-12-03T09:05:06.163Z"
+      },
+      {
+        "id": "wildcatprotocol",
+        "name": "Wildcat Protocol",
+        "url": "https://immunefi.com/bug-bounty/wildcatprotocol/",
+        "max_bounty": 10000,
+        "technologies": "Smart Contract",
+        "kyc": true,
+        "launch_date": "2023-12-27T09:00:00.000Z",
+        "updated_at": "2024-11-18T11:26:29.989Z"
+      },
+      {
+        "id": "avalabs",
+        "name": "Ava Labs",
+        "url": "https://immunefi.com/bug-bounty/avalabs/",
+        "max_bounty": 10000,
+        "technologies": "Websites and Applications",
+        "kyc": true,
+        "launch_date": "2023-12-04T09:00:00.000Z",
+        "updated_at": "2025-12-30T09:12:34.843Z"
+      },
+      {
+        "id": "spot",
+        "name": "SPOT",
+        "url": "https://immunefi.com/bug-bounty/spot/",
+        "max_bounty": 10000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-12-22T23:00:00.000Z",
+        "updated_at": "2024-11-14T20:35:54.712Z"
+      },
+      {
+        "id": "blockpinetwork",
+        "name": "BlockPI Network",
+        "url": "https://immunefi.com/bug-bounty/blockpinetwork/",
+        "max_bounty": 10000,
+        "technologies": "Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-11-11T03:00:00.000Z",
+        "updated_at": "2024-11-18T13:55:17.088Z"
+      },
+      {
+        "id": "unstoppablewallet",
+        "name": "Unstoppable Wallet",
+        "url": "https://immunefi.com/bug-bounty/unstoppablewallet/",
+        "max_bounty": 10000,
+        "technologies": "Websites and Applications",
+        "kyc": false,
+        "launch_date": "2022-03-04T04:00:00.000Z",
+        "updated_at": "2024-11-04T15:55:49.393Z"
+      },
+      {
+        "id": "neo",
+        "name": "Neo",
+        "url": "https://immunefi.com/bug-bounty/neo/",
+        "max_bounty": 10000,
+        "technologies": "Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-01-07T04:00:00.000Z",
+        "updated_at": "2024-11-15T10:52:46.416Z"
+      },
+      {
+        "id": "deriprotocol",
+        "name": "Deri Protocol",
+        "url": "https://immunefi.com/bug-bounty/deriprotocol/",
+        "max_bounty": 10000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-09-14T12:00:00.000Z",
+        "updated_at": "2025-04-29T14:58:37.924Z"
+      },
+      {
+        "id": "marsecosystem",
+        "name": "Mars Ecosystem",
+        "url": "https://immunefi.com/bug-bounty/marsecosystem/",
+        "max_bounty": 10000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-09-08T11:00:00.000Z",
+        "updated_at": "2025-06-26T15:38:41.855Z"
+      },
+      {
+        "id": "moneyonchain",
+        "name": "Money on Chain",
+        "url": "https://immunefi.com/bug-bounty/moneyonchain/",
+        "max_bounty": 10000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2021-01-14T07:00:00.000Z",
+        "updated_at": "2024-04-08T18:56:41.638Z"
+      },
+      {
+        "id": "stakeeasy",
+        "name": "StakeEasy",
+        "url": "https://immunefi.com/bug-bounty/stakeeasy/",
+        "max_bounty": 8000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2023-04-06T17:00:00.000Z",
+        "updated_at": "2024-11-18T14:08:22.761Z"
+      },
+      {
+        "id": "forta",
+        "name": "Forta Network",
+        "url": "https://immunefi.com/bug-bounty/forta/",
+        "max_bounty": 8000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2022-06-28T16:30:00.000Z",
+        "updated_at": "2025-08-08T14:10:55.619Z"
+      },
+      {
+        "id": "alpen-labs",
+        "name": "Alpen Labs",
+        "url": "https://immunefi.com/bug-bounty/alpen-labs/",
+        "max_bounty": 5000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2025-07-09T15:00:00.000Z",
+        "updated_at": "2025-08-14T06:52:18.878Z"
+      },
+      {
+        "id": "qblockchain",
+        "name": "Q Blockchain",
+        "url": "https://immunefi.com/bug-bounty/qblockchain/",
+        "max_bounty": 5000,
+        "technologies": "Smart Contract, Websites and Applications, Blockchain/DLT",
+        "kyc": true,
+        "launch_date": "2022-09-06T17:30:00.000Z",
+        "updated_at": "2025-03-10T15:31:14.294Z"
+      },
+      {
+        "id": "mtpelerin",
+        "name": "Mt Pelerin",
+        "url": "https://immunefi.com/bug-bounty/mtpelerin/",
+        "max_bounty": 5000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": false,
+        "launch_date": "2021-02-08T07:00:00.000Z",
+        "updated_at": "2025-12-23T11:07:55.397Z"
+      },
+      {
+        "id": "sora",
+        "name": "SORA",
+        "url": "https://immunefi.com/bug-bounty/sora/",
+        "max_bounty": 2000,
+        "technologies": "Websites and Applications, Blockchain/DLT",
+        "kyc": false,
+        "launch_date": "2022-07-07T16:30:00.000Z",
+        "updated_at": "2025-12-02T09:05:29.638Z"
+      },
+      {
+        "id": "tetu",
+        "name": "Tetu",
+        "url": "https://immunefi.com/bug-bounty/tetu/",
+        "max_bounty": 2000,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2021-11-30T18:00:00.000Z",
+        "updated_at": "2024-11-13T19:30:35.058Z"
+      },
+      {
+        "id": "pillar",
+        "name": "Pillar",
+        "url": "https://immunefi.com/bug-bounty/pillar/",
+        "max_bounty": 1250,
+        "technologies": "Smart Contract",
+        "kyc": false,
+        "launch_date": "2022-02-11T17:00:00.000Z",
+        "updated_at": "2024-10-29T13:58:37.090Z"
+      },
+      {
+        "id": "polkastarter",
+        "name": "Polkastarter",
+        "url": "https://immunefi.com/bug-bounty/polkastarter/",
+        "max_bounty": 1000,
+        "technologies": "Smart Contract, Websites and Applications",
+        "kyc": true,
+        "launch_date": "2021-10-12T11:00:00.000Z",
+        "updated_at": "2025-11-13T17:30:49.746Z"
+      }
+    ]
   },
   "github": {
     "total": 30,
@@ -37936,7 +40727,7 @@
         "description": "Bug bounty research tool — search HackerOne reports, Immunefi Web3 programs, GitHub security resources.",
         "stars": 0,
         "language": "JavaScript",
-        "updated_at": "2026-03-15T05:48:38Z",
+        "updated_at": "2026-03-15T05:52:45Z",
         "topics": []
       },
       {
@@ -37988,6 +40779,21 @@
         "topics": []
       },
       {
+        "full_name": "neromerob/safe-solana-builder",
+        "url": "https://github.com/neromerob/safe-solana-builder",
+        "description": "Build secure, production-ready Solana programs using a guided system that enforces best practices and preloaded audit insights.",
+        "stars": 0,
+        "language": "Unknown",
+        "updated_at": "2026-03-15T05:49:15Z",
+        "topics": [
+          "ai",
+          "anchor",
+          "auditing",
+          "claude",
+          "defi"
+        ]
+      },
+      {
         "full_name": "Duollc/PredictionMarket",
         "url": "https://github.com/Duollc/PredictionMarket",
         "description": "📊 Enhance prediction market security with a complete audit guide, featuring real incidents and a comprehensive checklist for risk management.",
@@ -38015,21 +40821,6 @@
           "cli",
           "developer-tools",
           "ethereum"
-        ]
-      },
-      {
-        "full_name": "ritusolankiff/ML-Powered-Token-Launch-Auditor",
-        "url": "https://github.com/ritusolankiff/ML-Powered-Token-Launch-Auditor",
-        "description": "🔍 Analyze ERC-20 token smart contracts with ML-driven risk scores and labels to enhance security and identify potential threats.",
-        "stars": 0,
-        "language": "Solidity",
-        "updated_at": "2026-03-15T04:52:49Z",
-        "topics": [
-          "audit-automation",
-          "cryptocurrency",
-          "cybersecurity",
-          "decentralized-finance",
-          "defi-security"
         ]
       }
     ]
