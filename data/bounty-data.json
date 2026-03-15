@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T05:59:48.180Z",
+  "updated_at": "2026-03-15T08:49:28.683Z",
   "hackerone": {
     "total": 4705,
     "reports": [
@@ -40501,7 +40501,7 @@
         "description": "This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://",
         "stars": 160,
         "language": "Go",
-        "updated_at": "2026-03-15T05:59:08Z",
+        "updated_at": "2026-03-15T08:04:11Z",
         "topics": [
           "bug-bounty",
           "bugbounty",
@@ -40525,7 +40525,7 @@
         "description": "This repository contains Bug Bounty writeups",
         "stars": 73,
         "language": "Unknown",
-        "updated_at": "2026-03-14T07:35:49Z",
+        "updated_at": "2026-03-15T07:40:24Z",
         "topics": [
           "bug-bounty",
           "bugbounty",
@@ -40538,9 +40538,9 @@
         "full_name": "shuvonsec/public-skills-builder",
         "url": "https://github.com/shuvonsec/public-skills-builder",
         "description": "Generate Claude Code bug bounty skills from public HackerOne reports and GitHub writeups — 18 vuln classes, no private reports needed",
-        "stars": 57,
+        "stars": 60,
         "language": "Python",
-        "updated_at": "2026-03-15T05:33:22Z",
+        "updated_at": "2026-03-15T08:24:41Z",
         "topics": [
           "ai-security",
           "bug-bounty",
@@ -40607,7 +40607,7 @@
         "description": "🛡️ Scan for web vulnerabilities with HunterKit, a professional-grade tool designed for bug bounty hunters and security experts to enhance online safe",
         "stars": 3,
         "language": "Python",
-        "updated_at": "2026-03-15T04:37:40Z",
+        "updated_at": "2026-03-15T07:27:17Z",
         "topics": [
           "bugbounty",
           "bugbounty-tool",
@@ -40622,7 +40622,7 @@
         "description": "🔍 Discover ASN data with ASNHunter, a Python tool for bug bounty hunters and security researchers, featuring comprehensive searches and user-friendly",
         "stars": 3,
         "language": "Python",
-        "updated_at": "2026-03-15T04:22:09Z",
+        "updated_at": "2026-03-15T07:11:55Z",
         "topics": [
           "asn-lookup",
           "bgp",
@@ -40655,7 +40655,7 @@
         "description": "RoboBack is a CLI tool that fetches historical robots.txt files from the Wayback Machine, helping OSINT and bug bounty teams track crawling policies o",
         "stars": 2,
         "language": "Python",
-        "updated_at": "2026-03-15T04:13:46Z",
+        "updated_at": "2026-03-15T07:02:58Z",
         "topics": [
           "backup",
           "bugbounty",
@@ -40727,7 +40727,7 @@
         "description": "Bug bounty research tool — search HackerOne reports, Immunefi Web3 programs, GitHub security resources.",
         "stars": 0,
         "language": "JavaScript",
-        "updated_at": "2026-03-15T05:59:06Z",
+        "updated_at": "2026-03-15T08:48:48Z",
         "topics": []
       },
       {
@@ -40736,7 +40736,7 @@
         "description": "Provide a powerful CLI framework for bug bounty hunting with scanners, tool integrations, and AI-assisted analysis covering OWASP Top 10 risks.",
         "stars": 0,
         "language": "Python",
-        "updated_at": "2026-03-15T05:43:29Z",
+        "updated_at": "2026-03-15T08:33:19Z",
         "topics": [
           "bug-bounty-tools",
           "cybersecurity",
@@ -40751,7 +40751,7 @@
         "description": "🔧 Build and deploy Silo V2 contracts efficiently with this monorepository, featuring integration tools and a bug bounty for security enhancements.",
         "stars": 0,
         "language": "Solidity",
-        "updated_at": "2026-03-15T04:30:04Z",
+        "updated_at": "2026-03-15T07:19:50Z",
         "topics": [
           "blockchain",
           "defi",
@@ -40784,7 +40784,7 @@
         "description": "Build secure, production-ready Solana programs using a guided system that enforces best practices and preloaded audit insights.",
         "stars": 0,
         "language": "Unknown",
-        "updated_at": "2026-03-15T05:49:15Z",
+        "updated_at": "2026-03-15T08:38:48Z",
         "topics": [
           "ai",
           "anchor",
@@ -40799,7 +40799,7 @@
         "description": "📊 Enhance prediction market security with a complete audit guide, featuring real incidents and a comprehensive checklist for risk management.",
         "stars": 0,
         "language": "Unknown",
-        "updated_at": "2026-03-15T05:24:13Z",
+        "updated_at": "2026-03-15T08:13:52Z",
         "topics": [
           "api3",
           "arbitrage",
@@ -40809,18 +40809,18 @@
         ]
       },
       {
-        "full_name": "LoserLab/megaeth-audit",
-        "url": "https://github.com/LoserLab/megaeth-audit",
-        "description": "Solidity contract and project scanner for MegaETH. Catches dual gas model issues, volatile opcode throttling, EVM incompatibilities, and deprecated de",
+        "full_name": "ritusolankiff/ML-Powered-Token-Launch-Auditor",
+        "url": "https://github.com/ritusolankiff/ML-Powered-Token-Launch-Auditor",
+        "description": "🔍 Analyze ERC-20 token smart contracts with ML-driven risk scores and labels to enhance security and identify potential threats.",
         "stars": 0,
-        "language": "TypeScript",
-        "updated_at": "2026-03-15T04:54:46Z",
+        "language": "Solidity",
+        "updated_at": "2026-03-15T07:42:31Z",
         "topics": [
-          "audit",
-          "blockchain",
-          "cli",
-          "developer-tools",
-          "ethereum"
+          "audit-automation",
+          "cryptocurrency",
+          "cybersecurity",
+          "decentralized-finance",
+          "defi-security"
         ]
       }
     ]
