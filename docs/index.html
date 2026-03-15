@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bounty Radar — Bug Bounty Research Tool</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,sans-serif;background:#0a0f1a;color:#e2e8f0;min-height:100vh}
+.header{background:#0d1117;border-bottom:1px solid #1e2130;padding:20px 24px}
+.header h1{font-family:monospace;font-size:20px;color:#f8fafc}
+.header p{font-size:12px;color:#475569;margin-top:4px}
+.stats{display:flex;gap:16px;margin-top:12px;flex-wrap:wrap}
+.stat{background:#12141a;border:1px solid #1e2130;border-radius:8px;padding:10px 16px;font-size:12px}
+.stat span{color:#fbbf24;font-weight:700;font-size:16px}
+.tabs{display:flex;gap:0;border-bottom:1px solid #1e2130;background:#0d1117;padding:0 24px}
+.tab{padding:12px 20px;cursor:pointer;color:#64748b;font-size:13px;font-weight:600;border-bottom:2px solid transparent}
+.tab.active{color:#fbbf24;border-bottom-color:#fbbf24}
+.tab:hover{color:#fbbf24}
+.controls{padding:16px 24px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.search{background:#12141a;border:1px solid #1e2130;border-radius:6px;padding:8px 14px;color:#e2e8f0;font-size:13px;width:300px;outline:none}
+.search:focus{border-color:#fbbf24}
+select{background:#12141a;border:1px solid #1e2130;border-radius:6px;padding:8px 12px;color:#e2e8f0;font-size:12px;outline:none}
+.content{padding:0 24px 40px}
+table{width:100%;border-collapse:collapse;font-size:12px;margin-top:8px}
+th{text-align:left;padding:8px 10px;background:#12141a;color:#94a3b8;font-weight:600;border-bottom:1px solid #1e2130;cursor:pointer;white-space:nowrap}
+th:hover{color:#fbbf24}
+td{padding:8px 10px;border-bottom:1px solid #0d1117;color:#cbd5e1;max-width:400px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+tr:hover td{background:#12141a}
+a{color:#fbbf24;text-decoration:none}
+a:hover{text-decoration:underline}
+.bounty{color:#22c55e;font-weight:700}
+.badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:600;background:#1e293b;color:#94a3b8;margin-right:4px}
+.badge.xss{background:#7c3aed20;color:#a78bfa}
+.badge.idor{background:#f59e0b20;color:#fbbf24}
+.badge.ssrf{background:#ef444420;color:#f87171}
+.badge.rce{background:#dc262620;color:#fca5a5}
+.badge.sqli{background:#06b6d420;color:#67e8f9}
+.badge.csrf{background:#8b5cf620;color:#c4b5fd}
+.badge.web3{background:#10b98120;color:#6ee7b7}
+.count{color:#64748b;font-size:11px;margin-left:8px}
+.empty{text-align:center;padding:60px 20px;color:#475569}
+@media(max-width:768px){
+  .search{width:100%}
+  .stats{flex-direction:column}
+  .controls{flex-direction:column}
+  td,th{padding:6px 8px;font-size:11px}
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>🔐 Bounty Radar</h1>
+  <p>Bug bounty research tool — search disclosed reports, active programs, and resources</p>
+  <p style="margin-top:4px;font-size:11px;color:#334155">Last updated: ${data.updated_at ? new Date(data.updated_at).toLocaleDateString() : "Never"}</p>
+  <div class="stats">
+    <div class="stat">📋 HackerOne<br><span>${data.hackerone.reports.length.toLocaleString()}</span> reports</div>
+    <div class="stat">🛡️ Immunefi<br><span>${data.immunefi.programs.length}</span> programs</div>
+    <div class="stat">🐙 GitHub<br><span>${data.github.repos.length}</span> repos</div>
+  </div>
+</div>
+
+<div class="tabs">
+  <div class="tab active" onclick="showTab('h1')">📋 HackerOne Reports</div>
+  <div class="tab" onclick="showTab('immunefi')">🛡️ Immunefi Programs</div>
+  <div class="tab" onclick="showTab('github')">🐙 GitHub Resources</div>
+</div>
+
+<div class="controls">
+  <input class="search" type="text" id="searchInput" placeholder="Search reports, programs, repos..." oninput="filterData()">
+  <select id="bugTypeFilter" onchange="filterData()">
+    <option value="">All Bug Types</option>
+  </select>
+  <select id="sortBy" onchange="filterData()">
+    <option value="bounty">Sort: Bounty ↓</option>
+    <option value="upvotes">Sort: Upvotes ↓</option>
+    <option value="program">Sort: Program A-Z</option>
+  </select>
+  <span class="count" id="resultCount"></span>
+</div>
+
+<div class="content">
+  <div id="h1Table"></div>
+  <div id="immunefiTable" style="display:none"></div>
+  <div id="githubTable" style="display:none"></div>
+</div>
+
+<script>
+var DATA = ${JSON.stringify(data)};
+var currentTab = 'h1';
+
+var bugTypes = [...new Set(DATA.hackerone.reports.map(r => r.bug_type))].sort();
+var sel = document.getElementById('bugTypeFilter');
+bugTypes.forEach(t => {
+  var o = document.createElement('option');
+  o.value = t; o.textContent = t;
+  sel.appendChild(o);
+});
+
+function showTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  event.target.classList.add('active');
+  document.getElementById('h1Table').style.display = tab === 'h1' ? '' : 'none';
+  document.getElementById('immunefiTable').style.display = tab === 'immunefi' ? '' : 'none';
+  document.getElementById('githubTable').style.display = tab === 'github' ? '' : 'none';
+  document.getElementById('bugTypeFilter').style.display = tab === 'h1' ? '' : 'none';
+  document.getElementById('sortBy').style.display = tab === 'h1' ? '' : 'none';
+  filterData();
+}
+
+function filterData() {
+  var q = document.getElementById('searchInput').value.toLowerCase();
+  var bugType = document.getElementById('bugTypeFilter').value;
+  var sortBy = document.getElementById('sortBy').value;
+
+  if (currentTab === 'h1') renderH1(q, bugType, sortBy);
+  else if (currentTab === 'immunefi') renderImmunefi(q);
+  else renderGithub(q);
+}
+
+function badgeClass(type) {
+  var t = type.toLowerCase();
+  if (t.includes('xss')) return 'xss';
+  if (t.includes('idor')) return 'idor';
+  if (t.includes('ssrf')) return 'ssrf';
+  if (t.includes('rce')) return 'rce';
+  if (t.includes('sqli') || t.includes('sql')) return 'sqli';
+  if (t.includes('csrf')) return 'csrf';
+  return '';
+}
+
+function renderH1(q, bugType, sortBy) {
+  var reports = DATA.hackerone.reports.filter(r => {
+    if (bugType && r.bug_type !== bugType) return false;
+    if (q && !r.title.toLowerCase().includes(q) && !r.program.toLowerCase().includes(q) && !r.bug_type.toLowerCase().includes(q)) return false;
+    return true;
+  });
+
+  if (sortBy === 'bounty') reports.sort((a,b) => b.bounty - a.bounty);
+  else if (sortBy === 'upvotes') reports.sort((a,b) => b.upvotes - a.upvotes);
+  else if (sortBy === 'program') reports.sort((a,b) => a.program.localeCompare(b.program));
+
+  document.getElementById('resultCount').textContent = reports.length + ' results';
+
+  var html = '<table><tr><th>#</th><th>Title</th><th>Bug Type</th><th>Program</th><th>Bounty</th><th>Upvotes</th></tr>';
+  reports.slice(0, 500).forEach((r, i) => {
+    html += '<tr>';
+    html += '<td>' + (i+1) + '</td>';
+    html += '<td><a href="' + r.url + '" target="_blank">' + r.title.slice(0,80) + '</a></td>';
+    html += '<td><span class="badge ' + badgeClass(r.bug_type) + '">' + r.bug_type + '</span></td>';
+    html += '<td>' + r.program + '</td>';
+    html += '<td class="bounty">' + (r.bounty > 0 ? '$' + r.bounty.toLocaleString() : '-') + '</td>';
+    html += '<td>' + r.upvotes + '</td>';
+    html += '</tr>';
+  });
+  html += '</table>';
+  if (reports.length === 0) html = '<div class="empty">No reports found</div>';
+  document.getElementById('h1Table').innerHTML = html;
+}
+
+function renderImmunefi(q) {
+  var programs = DATA.immunefi.programs.filter(p => {
+    if (q && !p.name.toLowerCase().includes(q) && !p.id.toLowerCase().includes(q)) return false;
+    return true;
+  }).sort((a,b) => b.max_bounty - a.max_bounty);
+
+  document.getElementById('resultCount').textContent = programs.length + ' programs';
+
+  var html = '<table><tr><th>#</th><th>Program</th><th>Max Bounty</th><th>Assets</th><th>Link</th></tr>';
+  programs.forEach((p, i) => {
+    html += '<tr>';
+    html += '<td>' + (i+1) + '</td>';
+    html += '<td>' + p.name + '</td>';
+    html += '<td class="bounty">' + (p.max_bounty ? '$' + p.max_bounty.toLocaleString() : 'N/A') + '</td>';
+    html += '<td>' + p.assets + ' assets</td>';
+    html += '<td><a href="' + p.url + '" target="_blank">View →</a></td>';
+    html += '</tr>';
+  });
+  html += '</table>';
+  if (programs.length === 0) html = '<div class="empty">No programs found</div>';
+  document.getElementById('immunefiTable').innerHTML = html;
+}
+
+function renderGithub(q) {
+  var repos = DATA.github.repos.filter(r => {
+    if (q && !r.full_name.toLowerCase().includes(q) && !r.description.toLowerCase().includes(q)) return false;
+    return true;
+  });
+
+  document.getElementById('resultCount').textContent = repos.length + ' repos';
+
+  var html = '<table><tr><th>#</th><th>Repo</th><th>Stars</th><th>Language</th><th>Description</th></tr>';
+  repos.forEach((r, i) => {
+    html += '<tr>';
+    html += '<td>' + (i+1) + '</td>';
+    html += '<td><a href="' + r.url + '" target="_blank">' + r.full_name + '</a></td>';
+    html += '<td>⭐ ' + r.stars + '</td>';
+    html += '<td>' + r.language + '</td>';
+    html += '<td>' + r.description.slice(0,80) + '</td>';
+    html += '</tr>';
+  });
+  html += '</table>';
+  if (repos.length === 0) html = '<div class="empty">No repos found</div>';
+  document.getElementById('githubTable').innerHTML = html;
+}
+
+filterData();
+</script>
+</body>
+</html>
