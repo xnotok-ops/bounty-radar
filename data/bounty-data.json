@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T05:36:34.429Z",
+  "updated_at": "2026-03-15T05:49:15.660Z",
   "hackerone": {
     "total": 4705,
     "reports": [
@@ -37790,9 +37790,9 @@
         "full_name": "Abdowaer098/Wa3r-OffSec-Kit",
         "url": "https://github.com/Abdowaer098/Wa3r-OffSec-Kit",
         "description": "🔐 Offensive security knowledge base — 50+ docs covering web exploitation, bug bounty, privilege escalation, CTF writeups, APT emulation, and forensic",
-        "stars": 16,
+        "stars": 17,
         "language": "Unknown",
-        "updated_at": "2026-03-15T05:31:58Z",
+        "updated_at": "2026-03-15T05:40:41Z",
         "topics": []
       },
       {
@@ -37936,8 +37936,23 @@
         "description": "Bug bounty research tool — search HackerOne reports, Immunefi Web3 programs, GitHub security resources.",
         "stars": 0,
         "language": "JavaScript",
-        "updated_at": "2026-03-15T05:35:37Z",
+        "updated_at": "2026-03-15T05:48:38Z",
         "topics": []
+      },
+      {
+        "full_name": "adam-317/Beatrix",
+        "url": "https://github.com/adam-317/Beatrix",
+        "description": "Provide a powerful CLI framework for bug bounty hunting with scanners, tool integrations, and AI-assisted analysis covering OWASP Top 10 risks.",
+        "stars": 0,
+        "language": "Python",
+        "updated_at": "2026-03-15T05:43:29Z",
+        "topics": [
+          "bug-bounty-tools",
+          "cybersecurity",
+          "font-converter",
+          "fonttools",
+          "games"
+        ]
       },
       {
         "full_name": "kipz254/silo-contracts-v2",
@@ -37962,21 +37977,6 @@
         "language": "Shell",
         "updated_at": "2026-03-15T04:24:30Z",
         "topics": []
-      },
-      {
-        "full_name": "adam-317/Beatrix",
-        "url": "https://github.com/adam-317/Beatrix",
-        "description": "Provide a powerful CLI framework for bug bounty hunting with scanners, tool integrations, and AI-assisted analysis covering OWASP Top 10 risks.",
-        "stars": 0,
-        "language": "Python",
-        "updated_at": "2026-03-15T03:41:46Z",
-        "topics": [
-          "bug-bounty-tools",
-          "cybersecurity",
-          "font-converter",
-          "fonttools",
-          "games"
-        ]
       },
       {
         "full_name": "tobiasGuta/cfunveil",
