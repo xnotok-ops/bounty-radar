@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T05:29:58.659Z",
+  "updated_at": "2026-03-15T05:36:34.429Z",
   "hackerone": {
     "total": 4705,
     "reports": [
@@ -37747,9 +37747,9 @@
         "full_name": "shuvonsec/public-skills-builder",
         "url": "https://github.com/shuvonsec/public-skills-builder",
         "description": "Generate Claude Code bug bounty skills from public HackerOne reports and GitHub writeups — 18 vuln classes, no private reports needed",
-        "stars": 56,
+        "stars": 57,
         "language": "Python",
-        "updated_at": "2026-03-15T04:20:10Z",
+        "updated_at": "2026-03-15T05:33:22Z",
         "topics": [
           "ai-security",
           "bug-bounty",
@@ -37790,9 +37790,9 @@
         "full_name": "Abdowaer098/Wa3r-OffSec-Kit",
         "url": "https://github.com/Abdowaer098/Wa3r-OffSec-Kit",
         "description": "🔐 Offensive security knowledge base — 50+ docs covering web exploitation, bug bounty, privilege escalation, CTF writeups, APT emulation, and forensic",
-        "stars": 15,
+        "stars": 16,
         "language": "Unknown",
-        "updated_at": "2026-03-15T04:21:19Z",
+        "updated_at": "2026-03-15T05:31:58Z",
         "topics": []
       },
       {
@@ -37936,7 +37936,7 @@
         "description": "Bug bounty research tool — search HackerOne reports, Immunefi Web3 programs, GitHub security resources.",
         "stars": 0,
         "language": "JavaScript",
-        "updated_at": "2026-03-15T05:07:55Z",
+        "updated_at": "2026-03-15T05:35:37Z",
         "topics": []
       },
       {
