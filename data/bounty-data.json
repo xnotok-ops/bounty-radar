@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T08:49:28.683Z",
+  "updated_at": "2026-03-16T03:50:06.240Z",
   "hackerone": {
     "total": 4705,
     "reports": [
@@ -40467,21 +40467,6 @@
         ]
       },
       {
-        "full_name": "MindPatch/scant3r",
-        "url": "https://github.com/MindPatch/scant3r",
-        "description": "ScanT3r - Module based Bug Bounty Automation Tool ( use Lotus instead github.com/bugBlocker/lotus )",
-        "stars": 685,
-        "language": "Python",
-        "updated_at": "2026-03-15T03:48:30Z",
-        "topics": [
-          "bug-bounty",
-          "bugbounty",
-          "infosec",
-          "module-pattern",
-          "penetration-testing"
-        ]
-      },
-      {
         "full_name": "insecrez/Bug-bounty-Writeups",
         "url": "https://github.com/insecrez/Bug-bounty-Writeups",
         "description": "Repository of Bug-Bounty Writeups",
@@ -40501,7 +40486,7 @@
         "description": "This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://",
         "stars": 160,
         "language": "Go",
-        "updated_at": "2026-03-15T08:04:11Z",
+        "updated_at": "2026-03-16T01:15:28Z",
         "topics": [
           "bug-bounty",
           "bugbounty",
@@ -40520,6 +40505,21 @@
         "topics": []
       },
       {
+        "full_name": "shuvonsec/public-skills-builder",
+        "url": "https://github.com/shuvonsec/public-skills-builder",
+        "description": "Generate Claude Code bug bounty skills from public HackerOne reports and GitHub writeups — 18 vuln classes, no private reports needed",
+        "stars": 75,
+        "language": "Python",
+        "updated_at": "2026-03-16T00:01:54Z",
+        "topics": [
+          "ai-security",
+          "bug-bounty",
+          "claude-ai",
+          "claude-code",
+          "ethical-hacking"
+        ]
+      },
+      {
         "full_name": "securitycipher/daily-bugbounty-writeups",
         "url": "https://github.com/securitycipher/daily-bugbounty-writeups",
         "description": "This repository contains Bug Bounty writeups",
@@ -40532,21 +40532,6 @@
           "cybersecurity",
           "penetration-testing",
           "pentesting"
-        ]
-      },
-      {
-        "full_name": "shuvonsec/public-skills-builder",
-        "url": "https://github.com/shuvonsec/public-skills-builder",
-        "description": "Generate Claude Code bug bounty skills from public HackerOne reports and GitHub writeups — 18 vuln classes, no private reports needed",
-        "stars": 60,
-        "language": "Python",
-        "updated_at": "2026-03-15T08:24:41Z",
-        "topics": [
-          "ai-security",
-          "bug-bounty",
-          "claude-ai",
-          "claude-code",
-          "ethical-hacking"
         ]
       },
       {
@@ -40564,6 +40549,30 @@
         ]
       },
       {
+        "full_name": "Abdowaer098/Wa3r-OffSec-Kit",
+        "url": "https://github.com/Abdowaer098/Wa3r-OffSec-Kit",
+        "description": "🔐 Offensive security knowledge base — 50+ docs covering web exploitation, bug bounty, privilege escalation, CTF writeups, APT emulation, and forensic",
+        "stars": 35,
+        "language": "Unknown",
+        "updated_at": "2026-03-16T02:45:26Z",
+        "topics": []
+      },
+      {
+        "full_name": "CommonHuman-Lab/hexstrike-ai-community-edition",
+        "url": "https://github.com/CommonHuman-Lab/hexstrike-ai-community-edition",
+        "description": "HexStrike AI Community Edition - Cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. ",
+        "stars": 24,
+        "language": "Python",
+        "updated_at": "2026-03-15T22:37:14Z",
+        "topics": [
+          "ai",
+          "hexstrike",
+          "kali-linux",
+          "mcp",
+          "mcp-server"
+        ]
+      },
+      {
         "full_name": "ternera/hacker101-ctf",
         "url": "https://github.com/ternera/hacker101-ctf",
         "description": "Writeups for the Hacker101 CTF by Hackerone",
@@ -40576,15 +40585,6 @@
           "hacker101-ctf",
           "hackerone"
         ]
-      },
-      {
-        "full_name": "Abdowaer098/Wa3r-OffSec-Kit",
-        "url": "https://github.com/Abdowaer098/Wa3r-OffSec-Kit",
-        "description": "🔐 Offensive security knowledge base — 50+ docs covering web exploitation, bug bounty, privilege escalation, CTF writeups, APT emulation, and forensic",
-        "stars": 17,
-        "language": "Unknown",
-        "updated_at": "2026-03-15T05:40:41Z",
-        "topics": []
       },
       {
         "full_name": "CyberNilsen/hacker101-CTF-Solutions",
@@ -40607,7 +40607,7 @@
         "description": "🛡️ Scan for web vulnerabilities with HunterKit, a professional-grade tool designed for bug bounty hunters and security experts to enhance online safe",
         "stars": 3,
         "language": "Python",
-        "updated_at": "2026-03-15T07:27:17Z",
+        "updated_at": "2026-03-16T03:21:47Z",
         "topics": [
           "bugbounty",
           "bugbounty-tool",
@@ -40622,7 +40622,7 @@
         "description": "🔍 Discover ASN data with ASNHunter, a Python tool for bug bounty hunters and security researchers, featuring comprehensive searches and user-friendly",
         "stars": 3,
         "language": "Python",
-        "updated_at": "2026-03-15T07:11:55Z",
+        "updated_at": "2026-03-16T03:06:27Z",
         "topics": [
           "asn-lookup",
           "bgp",
@@ -40641,21 +40641,12 @@
         "topics": []
       },
       {
-        "full_name": "abby-exe/abby-exe.github.io",
-        "url": "https://github.com/abby-exe/abby-exe.github.io",
-        "description": "Abby's Cybersecurity Portfolio – CTF writeups, bug bounty reports, and personal notes.",
-        "stars": 2,
-        "language": "HTML",
-        "updated_at": "2026-03-06T17:32:34Z",
-        "topics": []
-      },
-      {
         "full_name": "hanyshehata1510/RoboBack",
         "url": "https://github.com/hanyshehata1510/RoboBack",
         "description": "RoboBack is a CLI tool that fetches historical robots.txt files from the Wayback Machine, helping OSINT and bug bounty teams track crawling policies o",
         "stars": 2,
         "language": "Python",
-        "updated_at": "2026-03-15T07:02:58Z",
+        "updated_at": "2026-03-16T02:57:37Z",
         "topics": [
           "backup",
           "bugbounty",
@@ -40680,6 +40671,15 @@
         ]
       },
       {
+        "full_name": "0xScratch/smart-contract-vulnerabilities",
+        "url": "https://github.com/0xScratch/smart-contract-vulnerabilities",
+        "description": "Real smart contract vulnerabilities — explained, categorized & sourced for Web3 learners & auditors (especially for me) 🐛",
+        "stars": 2,
+        "language": "Unknown",
+        "updated_at": "2026-03-15T17:55:40Z",
+        "topics": []
+      },
+      {
         "full_name": "imusabkhan/bugbounty-writeups",
         "url": "https://github.com/imusabkhan/bugbounty-writeups",
         "description": "Explore a collection of my insightful Medium writeups covering a variety of topics.",
@@ -40695,12 +40695,51 @@
         ]
       },
       {
-        "full_name": "Suffix30/BBOT-Xtension",
-        "url": "https://github.com/Suffix30/BBOT-Xtension",
-        "description": "A Firefox extension that provides a user interface for the BBOT (Bug Bounty Recon Tool) scanner. This extension allows you to run various security sca",
+        "full_name": "kmdn-ch/phantom-ethical-redteam",
+        "url": "https://github.com/kmdn-ch/phantom-ethical-redteam",
+        "description": "An autonomous agent that acts as a DEF CON-level Certified Ethical Hacker, using tools such as Nuclei, sqlmap, ffuf, Burp, ZAP, and the Social Enginee",
         "stars": 1,
-        "language": "JavaScript",
-        "updated_at": "2026-03-15T02:39:30Z",
+        "language": "Python",
+        "updated_at": "2026-03-15T22:38:53Z",
+        "topics": []
+      },
+      {
+        "full_name": "ruyynn/RYN27",
+        "url": "https://github.com/ruyynn/RYN27",
+        "description": "Open source CLI tool for information gathering — WHOIS, DNS, IP geolocation, port scanning, technology detection, and more. Built for bug bounty hunte",
+        "stars": 1,
+        "language": "Python",
+        "updated_at": "2026-03-15T18:10:08Z",
+        "topics": [
+          "bugbounty",
+          "cli",
+          "cross-platform",
+          "ctf",
+          "cyber-security"
+        ]
+      },
+      {
+        "full_name": "LoserLab/megaeth-audit",
+        "url": "https://github.com/LoserLab/megaeth-audit",
+        "description": "Solidity contract and project scanner for MegaETH. Catches dual gas model issues, volatile opcode throttling, EVM incompatibilities, and deprecated de",
+        "stars": 1,
+        "language": "TypeScript",
+        "updated_at": "2026-03-15T17:24:49Z",
+        "topics": [
+          "audit",
+          "blockchain",
+          "cli",
+          "developer-tools",
+          "ethereum"
+        ]
+      },
+      {
+        "full_name": "HamzaTech7/bug-bounty-writeups",
+        "url": "https://github.com/HamzaTech7/bug-bounty-writeups",
+        "description": "",
+        "stars": 0,
+        "language": "Unknown",
+        "updated_at": "2026-03-15T21:47:01Z",
         "topics": []
       },
       {
@@ -40722,36 +40761,12 @@
         "topics": []
       },
       {
-        "full_name": "xnotok-ops/bounty-radar",
-        "url": "https://github.com/xnotok-ops/bounty-radar",
-        "description": "Bug bounty research tool — search HackerOne reports, Immunefi Web3 programs, GitHub security resources.",
-        "stars": 0,
-        "language": "JavaScript",
-        "updated_at": "2026-03-15T08:48:48Z",
-        "topics": []
-      },
-      {
-        "full_name": "adam-317/Beatrix",
-        "url": "https://github.com/adam-317/Beatrix",
-        "description": "Provide a powerful CLI framework for bug bounty hunting with scanners, tool integrations, and AI-assisted analysis covering OWASP Top 10 risks.",
-        "stars": 0,
-        "language": "Python",
-        "updated_at": "2026-03-15T08:33:19Z",
-        "topics": [
-          "bug-bounty-tools",
-          "cybersecurity",
-          "font-converter",
-          "fonttools",
-          "games"
-        ]
-      },
-      {
         "full_name": "kipz254/silo-contracts-v2",
         "url": "https://github.com/kipz254/silo-contracts-v2",
         "description": "🔧 Build and deploy Silo V2 contracts efficiently with this monorepository, featuring integration tools and a bug bounty for security enhancements.",
         "stars": 0,
         "language": "Solidity",
-        "updated_at": "2026-03-15T07:19:50Z",
+        "updated_at": "2026-03-16T03:14:13Z",
         "topics": [
           "blockchain",
           "defi",
@@ -40761,52 +40776,37 @@
         ]
       },
       {
-        "full_name": "AhmedOzil10/0xMasterRecon-v3.3",
-        "url": "https://github.com/AhmedOzil10/0xMasterRecon-v3.3",
-        "description": "All-in-one automated recon framework for bug bounty hunters & red teamers — 40+ tools orchestrated across 5 phases, 3 scan modes (passive/full/aggress",
-        "stars": 0,
-        "language": "Shell",
-        "updated_at": "2026-03-15T04:24:30Z",
-        "topics": []
-      },
-      {
-        "full_name": "tobiasGuta/cfunveil",
-        "url": "https://github.com/tobiasGuta/cfunveil",
-        "description": "CloudFlare Origin IP Discovery Tool for Bug Bounty Hunters  Chains several intelligence modules to uncover origin IPs hidden behind CloudFlare and sim",
+        "full_name": "pt-zenity/bug-bounty-hunter-pro",
+        "url": "https://github.com/pt-zenity/bug-bounty-hunter-pro",
+        "description": "Bug Bounty Hunter Pro - AI-Powered Security Scanner dengan 25+ tools (nuclei, subfinder, dalfox, sqlmap, amass, katana, httpx, dll)",
         "stars": 0,
         "language": "Python",
-        "updated_at": "2026-03-14T22:09:22Z",
+        "updated_at": "2026-03-16T01:46:54Z",
         "topics": []
       },
       {
-        "full_name": "neromerob/safe-solana-builder",
-        "url": "https://github.com/neromerob/safe-solana-builder",
-        "description": "Build secure, production-ready Solana programs using a guided system that enforces best practices and preloaded audit insights.",
+        "full_name": "adam-317/Beatrix",
+        "url": "https://github.com/adam-317/Beatrix",
+        "description": "Provide a powerful CLI framework for bug bounty hunting with scanners, tool integrations, and AI-assisted analysis covering OWASP Top 10 risks.",
         "stars": 0,
-        "language": "Unknown",
-        "updated_at": "2026-03-15T08:38:48Z",
+        "language": "Python",
+        "updated_at": "2026-03-16T01:37:29Z",
         "topics": [
-          "ai",
-          "anchor",
-          "auditing",
-          "claude",
-          "defi"
+          "bug-bounty-tools",
+          "cybersecurity",
+          "font-converter",
+          "fonttools",
+          "games"
         ]
       },
       {
-        "full_name": "Duollc/PredictionMarket",
-        "url": "https://github.com/Duollc/PredictionMarket",
-        "description": "📊 Enhance prediction market security with a complete audit guide, featuring real incidents and a comprehensive checklist for risk management.",
+        "full_name": "Syedsec12/my-pentest-labs",
+        "url": "https://github.com/Syedsec12/my-pentest-labs",
+        "description": "Ethical Hacking Practice Repository — My notes and tools for pentesting & bug bounty.",
         "stars": 0,
         "language": "Unknown",
-        "updated_at": "2026-03-15T08:13:52Z",
-        "topics": [
-          "api3",
-          "arbitrage",
-          "bets",
-          "bot",
-          "defi"
-        ]
+        "updated_at": "2026-03-15T22:40:40Z",
+        "topics": []
       },
       {
         "full_name": "ritusolankiff/ML-Powered-Token-Launch-Auditor",
@@ -40814,7 +40814,7 @@
         "description": "🔍 Analyze ERC-20 token smart contracts with ML-driven risk scores and labels to enhance security and identify potential threats.",
         "stars": 0,
         "language": "Solidity",
-        "updated_at": "2026-03-15T07:42:31Z",
+        "updated_at": "2026-03-16T03:37:05Z",
         "topics": [
           "audit-automation",
           "cryptocurrency",
