@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-18T03:35:33.944Z",
+  "updated_at": "2026-03-19T03:35:55.634Z",
   "hackerone": {
     "total": 4705,
     "reports": [
@@ -40444,51 +40444,50 @@
     "total": 30,
     "repos": [
       {
-        "full_name": "projectdiscovery/naabu",
-        "url": "https://github.com/projectdiscovery/naabu",
-        "description": "A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface d",
-        "stars": 5814,
-        "language": "Go",
-        "updated_at": "2026-03-18T00:30:09Z",
-        "topics": [
-          "cdn-exclusion",
-          "hacktoberfest",
-          "nmap",
-          "port-enumeration",
-          "portscanner"
-        ]
-      },
-      {
-        "full_name": "zan8in/afrog",
-        "url": "https://github.com/zan8in/afrog",
-        "description": "A Security Tool for Bug Bounty, Pentest and Red Teaming.",
-        "stars": 4204,
-        "language": "Go",
-        "updated_at": "2026-03-18T00:44:12Z",
-        "topics": [
-          "afrog",
-          "bug-bounty",
-          "penetration-testing",
-          "pentest",
-          "poc"
-        ]
-      },
-      {
         "full_name": "sayan011/Immunefi-bug-bounty-writeups-list",
         "url": "https://github.com/sayan011/Immunefi-bug-bounty-writeups-list",
         "description": "curation of all(most) immunefi bug bounty writeups I could find(till now)",
         "stars": 1117,
         "language": "Unknown",
-        "updated_at": "2026-03-14T16:10:52Z",
+        "updated_at": "2026-03-18T18:34:18Z",
         "topics": []
+      },
+      {
+        "full_name": "smartbugs/smartbugs",
+        "url": "https://github.com/smartbugs/smartbugs",
+        "description": "SmartBugs: A Framework to Analyze Ethereum Smart Contracts",
+        "stars": 663,
+        "language": "Python",
+        "updated_at": "2026-03-18T17:01:37Z",
+        "topics": [
+          "blockchain",
+          "ethereum",
+          "solidity",
+          "vulnerability"
+        ]
+      },
+      {
+        "full_name": "Quillhash/QuillAudit_smart_contract_audit_Reports",
+        "url": "https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports",
+        "description": "QuillAudits — Smart Contract Audits for DeFi, RWA, DEXs, Tokens, DeAI & DApps",
+        "stars": 448,
+        "language": "Unknown",
+        "updated_at": "2026-03-18T15:02:26Z",
+        "topics": [
+          "audit-reports",
+          "bep20",
+          "binance-smart-chain",
+          "blockchain",
+          "bockchain"
+        ]
       },
       {
         "full_name": "rix4uni/medium-writeups",
         "url": "https://github.com/rix4uni/medium-writeups",
         "description": "This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://",
-        "stars": 160,
+        "stars": 161,
         "language": "Go",
-        "updated_at": "2026-03-18T01:04:05Z",
+        "updated_at": "2026-03-19T01:11:52Z",
         "topics": [
           "bug-bounty",
           "bugbounty",
@@ -40510,9 +40509,9 @@
         "full_name": "shuvonsec/public-skills-builder",
         "url": "https://github.com/shuvonsec/public-skills-builder",
         "description": "Generate Claude Code bug bounty skills from public HackerOne reports and GitHub writeups — 18 vuln classes, no private reports needed",
-        "stars": 96,
+        "stars": 102,
         "language": "Python",
-        "updated_at": "2026-03-18T00:24:24Z",
+        "updated_at": "2026-03-19T00:40:46Z",
         "topics": [
           "ai-security",
           "bug-bounty",
@@ -40522,12 +40521,21 @@
         ]
       },
       {
+        "full_name": "Abdowaer098/Wa3r-OffSec-Kit",
+        "url": "https://github.com/Abdowaer098/Wa3r-OffSec-Kit",
+        "description": "🔐 Offensive security knowledge base — 50+ docs covering web exploitation, bug bounty, privilege escalation, CTF writeups, APT emulation, and forensic",
+        "stars": 75,
+        "language": "Unknown",
+        "updated_at": "2026-03-18T11:07:22Z",
+        "topics": []
+      },
+      {
         "full_name": "securitycipher/daily-bugbounty-writeups",
         "url": "https://github.com/securitycipher/daily-bugbounty-writeups",
         "description": "This repository contains Bug Bounty writeups",
         "stars": 73,
         "language": "Unknown",
-        "updated_at": "2026-03-17T07:50:58Z",
+        "updated_at": "2026-03-18T07:48:09Z",
         "topics": [
           "bug-bounty",
           "bugbounty",
@@ -40537,27 +40545,18 @@
         ]
       },
       {
-        "full_name": "Abdowaer098/Wa3r-OffSec-Kit",
-        "url": "https://github.com/Abdowaer098/Wa3r-OffSec-Kit",
-        "description": "🔐 Offensive security knowledge base — 50+ docs covering web exploitation, bug bounty, privilege escalation, CTF writeups, APT emulation, and forensic",
-        "stars": 73,
-        "language": "Unknown",
-        "updated_at": "2026-03-18T00:58:54Z",
-        "topics": []
-      },
-      {
-        "full_name": "h0tak88r/AutoAR",
-        "url": "https://github.com/h0tak88r/AutoAR",
-        "description": "AutoAR is an automated security reconnaissance tool and Discord bot for bug bounty hunters and penetration testers. It automates gathering subdomains,",
-        "stars": 56,
-        "language": "Go",
-        "updated_at": "2026-03-18T01:21:16Z",
+        "full_name": "PlamenTSV/plamen",
+        "url": "https://github.com/PlamenTSV/plamen",
+        "description": "Autonomous Web3 security audit agent for Claude Code",
+        "stars": 59,
+        "language": "Python",
+        "updated_at": "2026-03-19T03:35:23Z",
         "topics": [
-          "attack-surface-managment",
-          "automation",
-          "bash",
-          "cybersecurity",
-          "scanning"
+          "ai-agent",
+          "aptos",
+          "claude-code",
+          "ethereum",
+          "security-audit"
         ]
       },
       {
@@ -40566,7 +40565,7 @@
         "description": "List of the public smart contract audit reports and security reviews performed by Hexens.",
         "stars": 56,
         "language": "Unknown",
-        "updated_at": "2026-03-17T11:45:13Z",
+        "updated_at": "2026-03-18T13:42:04Z",
         "topics": [
           "blockchain",
           "blockchain-security",
@@ -40607,9 +40606,9 @@
         "full_name": "Raunaksplanet/Bug-Bounty-GitBook",
         "url": "https://github.com/Raunaksplanet/Bug-Bounty-GitBook",
         "description": "Biscuit's Bug Bounty Playbook is a curated hub for cybersecurity learners and bug bounty hunters. It includes tools, methodologies, writeups, vulnerab",
-        "stars": 17,
+        "stars": 16,
         "language": "Unknown",
-        "updated_at": "2026-03-17T09:48:08Z",
+        "updated_at": "2026-03-18T08:00:18Z",
         "topics": []
       },
       {
@@ -40633,7 +40632,7 @@
         "description": "Claude skill for move smart contract security auditing.",
         "stars": 4,
         "language": "Unknown",
-        "updated_at": "2026-03-17T18:41:03Z",
+        "updated_at": "2026-03-18T20:54:37Z",
         "topics": [
           "ai",
           "aptos",
@@ -40643,12 +40642,21 @@
         ]
       },
       {
+        "full_name": "sin99xx/researchlab",
+        "url": "https://github.com/sin99xx/researchlab",
+        "description": "Spec-driven bug bounty writeups  and real world security failures.",
+        "stars": 3,
+        "language": "Unknown",
+        "updated_at": "2026-03-19T01:49:15Z",
+        "topics": []
+      },
+      {
         "full_name": "4chpz/HunterKit",
         "url": "https://github.com/4chpz/HunterKit",
         "description": "🛡️ Scan for web vulnerabilities with HunterKit, a professional-grade tool designed for bug bounty hunters and security experts to enhance online safe",
         "stars": 3,
         "language": "Python",
-        "updated_at": "2026-03-18T02:54:31Z",
+        "updated_at": "2026-03-19T01:12:20Z",
         "topics": [
           "bugbounty",
           "bugbounty-tool",
@@ -40663,7 +40671,7 @@
         "description": "🔍 Discover ASN data with ASNHunter, a Python tool for bug bounty hunters and security researchers, featuring comprehensive searches and user-friendly",
         "stars": 3,
         "language": "Python",
-        "updated_at": "2026-03-18T02:37:13Z",
+        "updated_at": "2026-03-19T00:55:31Z",
         "topics": [
           "asn-lookup",
           "bgp",
@@ -40673,21 +40681,12 @@
         ]
       },
       {
-        "full_name": "valuevalk/audits",
-        "url": "https://github.com/valuevalk/audits",
-        "description": "Web3 Security Audit Engagements",
-        "stars": 3,
-        "language": "Unknown",
-        "updated_at": "2026-03-17T02:41:32Z",
-        "topics": []
-      },
-      {
         "full_name": "abby-exe/abby-exe.github.io",
         "url": "https://github.com/abby-exe/abby-exe.github.io",
         "description": "Abby's Cybersecurity Portfolio – CTF writeups, bug bounty reports, and personal notes.",
         "stars": 2,
         "language": "HTML",
-        "updated_at": "2026-03-17T17:06:54Z",
+        "updated_at": "2026-03-18T18:33:13Z",
         "topics": []
       },
       {
@@ -40696,7 +40695,7 @@
         "description": "RoboBack is a CLI tool that fetches historical robots.txt files from the Wayback Machine, helping OSINT and bug bounty teams track crawling policies o",
         "stars": 2,
         "language": "Python",
-        "updated_at": "2026-03-18T02:27:53Z",
+        "updated_at": "2026-03-19T00:45:35Z",
         "topics": [
           "backup",
           "bugbounty",
@@ -40704,6 +40703,24 @@
           "file-integrity",
           "go"
         ]
+      },
+      {
+        "full_name": "xismail606/CyberSec-Resources",
+        "url": "https://github.com/xismail606/CyberSec-Resources",
+        "description": "A curated collection of 127 cybersecurity tools and 624 free TryHackMe labs — organized, searchable, and ready to use.  Built for penetration testers,",
+        "stars": 2,
+        "language": "JavaScript",
+        "updated_at": "2026-03-18T23:38:15Z",
+        "topics": []
+      },
+      {
+        "full_name": "ThemeHackers/THKX",
+        "url": "https://github.com/ThemeHackers/THKX",
+        "description": "This is a THKX token, designed specifically for blockchain learning with extensive functionality in smart contracts. It supports faucets, integrates s",
+        "stars": 2,
+        "language": "JavaScript",
+        "updated_at": "2026-03-18T23:28:09Z",
+        "topics": []
       },
       {
         "full_name": "imusabkhan/bugbounty-writeups",
@@ -40730,6 +40747,54 @@
         "topics": []
       },
       {
+        "full_name": "kmdn-ch/phantom-ethical-redteam",
+        "url": "https://github.com/kmdn-ch/phantom-ethical-redteam",
+        "description": "An autonomous agent that acts as a DEF CON-level Certified Ethical Hacker, using tools such as Nuclei, sqlmap, ffuf, Burp, ZAP, and the Social Enginee",
+        "stars": 1,
+        "language": "Python",
+        "updated_at": "2026-03-19T00:11:45Z",
+        "topics": []
+      },
+      {
+        "full_name": "mariano-aguero/solidity-security-audit-skill",
+        "url": "https://github.com/mariano-aguero/solidity-security-audit-skill",
+        "description": "AI agent skill for Solidity smart contract security auditing",
+        "stars": 1,
+        "language": "Unknown",
+        "updated_at": "2026-03-19T00:24:29Z",
+        "topics": [
+          "anthropic",
+          "audit",
+          "automation",
+          "claude",
+          "claude-code"
+        ]
+      },
+      {
+        "full_name": "latiblack/genlayer-contract-scorer",
+        "url": "https://github.com/latiblack/genlayer-contract-scorer",
+        "description": "On-chain smart contract auditor built on GenLayer. Uses LLM consensus to score GenLayer Intelligent Contracts across code quality and security dimensi",
+        "stars": 1,
+        "language": "HTML",
+        "updated_at": "2026-03-19T03:15:50Z",
+        "topics": []
+      },
+      {
+        "full_name": "jcsec-security/learn-solidity-security",
+        "url": "https://github.com/jcsec-security/learn-solidity-security",
+        "description": "Course material about common vulnerabilities, security and audits of Solidity smart contracts that I use during my lectures",
+        "stars": 1,
+        "language": "Solidity",
+        "updated_at": "2026-03-18T13:25:21Z",
+        "topics": [
+          "audit",
+          "beginner",
+          "blockchain",
+          "bug",
+          "contract"
+        ]
+      },
+      {
         "full_name": "dumitr58/security-notes",
         "url": "https://github.com/dumitr58/security-notes",
         "description": "This is where I document my journey in cybersecurity from Hack The Box and Proving Grounds writeups to bug bounty finds and personal insights on all t",
@@ -40746,78 +40811,6 @@
         "language": "Unknown",
         "updated_at": "2026-03-15T21:47:01Z",
         "topics": []
-      },
-      {
-        "full_name": "DonkeyJJLove/writeups",
-        "url": "https://github.com/DonkeyJJLove/writeups",
-        "description": "writeups to kolekcja dokumentacji, artykułów i analiz (write-ups) z obszaru bezpieczeństwa, bug bounty i red teaming. Repozytorium pełni rolę otwarteg",
-        "stars": 0,
-        "language": "Python",
-        "updated_at": "2026-03-14T21:32:46Z",
-        "topics": []
-      },
-      {
-        "full_name": "kipz254/silo-contracts-v2",
-        "url": "https://github.com/kipz254/silo-contracts-v2",
-        "description": "🔧 Build and deploy Silo V2 contracts efficiently with this monorepository, featuring integration tools and a bug bounty for security enhancements.",
-        "stars": 0,
-        "language": "Solidity",
-        "updated_at": "2026-03-18T02:46:00Z",
-        "topics": [
-          "blockchain",
-          "defi",
-          "ethereum",
-          "farming",
-          "finance"
-        ]
-      },
-      {
-        "full_name": "adam-317/Beatrix",
-        "url": "https://github.com/adam-317/Beatrix",
-        "description": "Provide a powerful CLI framework for bug bounty hunting with scanners, tool integrations, and AI-assisted analysis covering OWASP Top 10 risks.",
-        "stars": 0,
-        "language": "Python",
-        "updated_at": "2026-03-18T01:52:58Z",
-        "topics": [
-          "bug-bounty-tools",
-          "cybersecurity",
-          "font-converter",
-          "fonttools",
-          "games"
-        ]
-      },
-      {
-        "full_name": "0xshii/scope",
-        "url": "https://github.com/0xshii/scope",
-        "description": "This Python tool allows you to extract the bug bounty program scope from HackerOne for a specific program handle. It retrieves the structured scope as",
-        "stars": 0,
-        "language": "Python",
-        "updated_at": "2026-03-18T00:41:50Z",
-        "topics": []
-      },
-      {
-        "full_name": "hehe986/ShadowPath",
-        "url": "https://github.com/hehe986/ShadowPath",
-        "description": "ShadowPath is a reconnaissance tool that discovers hidden endpoints and URL parameters from GitHub source code and validates them in real-time for bug",
-        "stars": 0,
-        "language": "Python",
-        "updated_at": "2026-03-17T20:41:03Z",
-        "topics": []
-      },
-      {
-        "full_name": "ritusolankiff/ML-Powered-Token-Launch-Auditor",
-        "url": "https://github.com/ritusolankiff/ML-Powered-Token-Launch-Auditor",
-        "description": "🔍 Analyze ERC-20 token smart contracts with ML-driven risk scores and labels to enhance security and identify potential threats.",
-        "stars": 0,
-        "language": "Solidity",
-        "updated_at": "2026-03-18T03:11:12Z",
-        "topics": [
-          "audit-automation",
-          "cryptocurrency",
-          "cybersecurity",
-          "decentralized-finance",
-          "defi-security"
-        ]
       }
     ]
   }
