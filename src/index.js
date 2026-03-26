@@ -1,6 +1,6 @@
 /**
- * Bounty Radar v2 - Main Entry Point
- * Collects bug bounty data from HackerOne, Immunefi, GitHub + CVE Hunting
+ * Bounty Radar v3 - Main Entry Point
+ * Bug bounty research tool with CVE hunting, exploits, audit findings, vuln patterns
  */
 
 const fs = require("fs");
@@ -10,19 +10,22 @@ const { fetchImmunefiPrograms } = require("./fetch-immunefi");
 const { fetchGitHubBountyRepos } = require("./fetch-github");
 const { fetchH1Programs } = require("./fetch-h1-programs");
 const { fetchCVEHuntingFeed } = require("./fetch-cve-hunting");
+const { fetchDeFiHackLabsExploits } = require("./fetch-defihacklabs");
+const { fetchSoloditFindings } = require("./fetch-solodit");
 const { sendTelegram } = require("./telegram");
 
 async function main() {
-  console.log("🔐 Bounty Radar v2 — Starting daily scan...\n");
+  console.log("🔐 Bounty Radar v3 — Starting daily scan...\n");
   const startTime = Date.now();
 
   const token = process.env.GITHUB_TOKEN || null;
+  const soloditKey = process.env.SOLODIT_API_KEY || null;
 
   // 1. Fetch HackerOne disclosed reports
   console.log("📋 Fetching HackerOne disclosed reports...");
   const h1Reports = await fetchHackerOneReports();
 
-  // 2. Fetch HackerOne program status (NEW)
+  // 2. Fetch HackerOne program status
   console.log("\n📋 Fetching HackerOne program status...");
   const h1Programs = await fetchH1Programs();
 
@@ -44,18 +47,34 @@ async function main() {
 
   // 6. Merge programs for CVE matching
   const allPrograms = mergePrograms(h1Programs.programs, immunefiPrograms, manualTechMap.programs);
-  console.log(`\n🔗 Merged ${allPrograms.length} total programs for CVE matching`);
+  console.log(`🔗 Merged ${allPrograms.length} total programs`);
 
-  // 7. Fetch CVE Hunting Feed (NEW)
+  // 7. Fetch CVE Hunting Feed
   console.log("\n🎯 Fetching CVE Hunting Feed...");
   const cveHunting = await fetchCVEHuntingFeed(allPrograms, 7);
 
-  // 8. Save data
+  // 8. Fetch DeFiHackLabs Exploits (NEW)
+  console.log("\n💀 Fetching DeFiHackLabs exploits...");
+  const exploits = await fetchDeFiHackLabsExploits();
+
+  // 9. Fetch Solodit Audit Findings (NEW)
+  console.log("\n📚 Fetching Solodit audit findings...");
+  const auditFindings = await fetchSoloditFindings(soloditKey, 3);
+
+  // 10. Load Vulnerability Patterns (NEW)
+  const patternsPath = path.join(__dirname, "..", "data", "vuln-patterns.json");
+  let vulnPatterns = { patterns: [] };
+  if (fs.existsSync(patternsPath)) {
+    vulnPatterns = JSON.parse(fs.readFileSync(patternsPath, "utf-8"));
+    console.log(`\n📋 Loaded ${vulnPatterns.patterns.length} vulnerability patterns`);
+  }
+
+  // 11. Save data
   const dataDir = path.join(__dirname, "..", "data");
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
 
   const data = {
-    version: 2,
+    version: 3,
     updated_at: new Date().toISOString(),
     hackerone: {
       total: h1Reports.length,
@@ -75,6 +94,20 @@ async function main() {
       repos: githubRepos,
     },
     cve_hunting: cveHunting,
+    exploits: {
+      total: exploits.exploits?.length || 0,
+      stats: exploits.stats || {},
+      data: exploits.exploits || [],
+    },
+    audit_findings: {
+      total: auditFindings.findings?.length || 0,
+      stats: auditFindings.stats || {},
+      data: auditFindings.findings || [],
+    },
+    vuln_patterns: {
+      total: vulnPatterns.patterns?.length || 0,
+      data: vulnPatterns.patterns || [],
+    },
     all_programs: {
       total: allPrograms.length,
       active: allPrograms.filter(p => p.status === "active").length,
@@ -88,7 +121,7 @@ async function main() {
   fs.writeFileSync(dataPath, JSON.stringify(data, null, 2), "utf-8");
   console.log(`\n💾 Data saved: ${dataPath}`);
 
-  // 9. Stats
+  // 12. Stats
   const stats = {
     h1Reports: h1Reports.length,
     h1Programs: h1Programs.stats,
@@ -96,19 +129,26 @@ async function main() {
     github: githubRepos.length,
     cveHunting: cveHunting.stats,
     totalOpportunities: cveHunting.total_opportunities,
+    exploits: exploits.exploits?.length || 0,
+    exploitLoss: exploits.stats?.total_loss_usd || 0,
+    auditFindings: auditFindings.findings?.length || 0,
+    vulnPatterns: vulnPatterns.patterns?.length || 0,
     topPaid: h1Reports.filter(r => r.bounty > 0).sort((a, b) => b.bounty - a.bounty).slice(0, 5),
     topImmunefi: immunefiPrograms.sort((a, b) => b.max_bounty - a.max_bounty).slice(0, 5),
+    topExploits: (exploits.exploits || []).slice(0, 5),
   };
 
   console.log(`\n📊 Stats:`);
   console.log(`  HackerOne reports: ${stats.h1Reports}`);
-  console.log(`  HackerOne programs: ${stats.h1Programs.total} (Active: ${stats.h1Programs.active}, Paused: ${stats.h1Programs.paused})`);
+  console.log(`  HackerOne programs: ${stats.h1Programs.total} (Active: ${stats.h1Programs.active})`);
   console.log(`  Immunefi programs: ${stats.immunefi}`);
   console.log(`  GitHub repos: ${stats.github}`);
-  console.log(`  CVE Hunting opportunities: ${stats.totalOpportunities}`);
-  console.log(`    Critical: ${stats.cveHunting.critical}, High: ${stats.cveHunting.high}, Medium: ${stats.cveHunting.medium}, Low: ${stats.cveHunting.low}`);
+  console.log(`  CVE Hunting: ${stats.totalOpportunities} opportunities`);
+  console.log(`  DeFiHackLabs: ${stats.exploits} exploits ($${(stats.exploitLoss / 1e9).toFixed(2)}B total loss)`);
+  console.log(`  Audit Findings: ${stats.auditFindings}`);
+  console.log(`  Vuln Patterns: ${stats.vulnPatterns}`);
 
-  // 10. Telegram notification
+  // 13. Telegram notification
   const botToken = process.env.TELEGRAM_BOT_TOKEN;
   const chatId = process.env.TELEGRAM_CHAT_ID;
 
@@ -139,7 +179,6 @@ function mergePrograms(h1Programs, immunefiPrograms, manualPrograms) {
     if (!programMap.has(key)) {
       programMap.set(key, p);
     } else {
-      // Merge: keep manual tech, update status from H1
       const existing = programMap.get(key);
       programMap.set(key, {
         ...existing,
@@ -169,38 +208,36 @@ function mergePrograms(h1Programs, immunefiPrograms, manualPrograms) {
 }
 
 function generateTelegramMsg(stats) {
-  let msg = `🔐 <b>Bounty Radar v2 — Daily Update</b>\n\n`;
+  let msg = `🔐 <b>Bounty Radar v3 — Daily Update</b>\n\n`;
 
   msg += `📋 <b>HackerOne:</b> ${stats.h1Reports} reports\n`;
-  msg += `   Programs: ${stats.h1Programs.total} (${stats.h1Programs.active} active)\n`;
-  msg += `🛡️ <b>Immunefi:</b> ${stats.immunefi} Web3 programs\n`;
+  msg += `🛡️ <b>Immunefi:</b> ${stats.immunefi} programs\n`;
   msg += `🐙 <b>GitHub:</b> ${stats.github} repos\n\n`;
 
-  // CVE Hunting section (NEW)
+  // New sections
   msg += `🎯 <b>CVE Hunting:</b> ${stats.totalOpportunities} opportunities\n`;
-  msg += `   🔴 Critical: ${stats.cveHunting.critical}\n`;
-  msg += `   🟠 High: ${stats.cveHunting.high}\n`;
-  msg += `   🟡 Medium: ${stats.cveHunting.medium}\n`;
-  msg += `   🟢 Low: ${stats.cveHunting.low}\n\n`;
+  msg += `💀 <b>Exploits:</b> ${stats.exploits} ($${(stats.exploitLoss / 1e9).toFixed(2)}B loss)\n`;
+  msg += `📚 <b>Audit Findings:</b> ${stats.auditFindings}\n`;
+  msg += `📋 <b>Patterns:</b> ${stats.vulnPatterns}\n\n`;
 
-  if (stats.topPaid.length > 0) {
-    msg += `💰 <b>Top Paid Reports:</b>\n`;
-    stats.topPaid.forEach((r, i) => {
+  if (stats.topExploits && stats.topExploits.length > 0) {
+    msg += `💀 <b>Recent Exploits:</b>\n`;
+    stats.topExploits.slice(0, 3).forEach((e, i) => {
+      const loss = e.loss_usd ? `$${(e.loss_usd / 1e6).toFixed(1)}M` : e.loss_raw || "?";
+      msg += `${i + 1}. ${loss} — ${e.protocol} (${e.category})\n`;
+    });
+    msg += `\n`;
+  }
+
+  if (stats.topPaid && stats.topPaid.length > 0) {
+    msg += `💰 <b>Top Bounties:</b>\n`;
+    stats.topPaid.slice(0, 3).forEach((r, i) => {
       msg += `${i + 1}. $${r.bounty.toLocaleString()} — ${r.bug_type} @ ${r.program}\n`;
     });
     msg += `\n`;
   }
 
-  if (stats.topImmunefi.length > 0) {
-    msg += `🛡️ <b>Top Immunefi:</b>\n`;
-    stats.topImmunefi.forEach((p, i) => {
-      const bounty = p.max_bounty ? `$${p.max_bounty.toLocaleString()}` : "N/A";
-      msg += `${i + 1}. ${bounty} — ${p.name}\n`;
-    });
-    msg += `\n`;
-  }
-
-  msg += `📄 Full: https://xnotok-ops.github.io/bounty-radar`;
+  msg += `📄 https://xnotok-ops.github.io/bounty-radar`;
   msg += `\n\n<i>by @xnotok</i>`;
   return msg;
 }
