@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-03-26T21:23:21.258Z",
+  "updated_at": "2026-03-26T21:28:39.126Z",
   "hackerone": {
     "total": 4705,
     "reports": [
@@ -44468,7 +44468,7 @@
         "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32014",
         "bug_type": "Other",
         "ecosystem": "cargo",
-        "severityEmoji": "🔴",
+        "severityEmoji": "🟠",
         "affected_programs": [
           {
             "name": "Dropbox",
@@ -45276,41 +45276,6 @@
         "severityEmoji": "🟡",
         "affected_programs": [
           {
-            "name": "Shopify",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/shopify"
-          },
-          {
-            "name": "GitLab",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/gitlab"
-          },
-          {
-            "name": "Coinbase",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/coinbase"
-          },
-          {
-            "name": "GitHub",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/github"
-          },
-          {
-            "name": "Uber",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/uber"
-          },
-          {
             "name": "Dropbox",
             "platform": "hackerone",
             "status": "active",
@@ -45318,109 +45283,25 @@
             "url": "https://hackerone.com/dropbox"
           },
           {
-            "name": "PayPal",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/paypal"
-          },
-          {
-            "name": "Slack",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/slack"
-          },
-          {
-            "name": "Twitter",
-            "platform": "hackerone",
-            "status": "paused",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/twitter"
-          },
-          {
-            "name": "Airbnb",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/airbnb"
-          },
-          {
-            "name": "Snapchat",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/snapchat"
-          },
-          {
-            "name": "Valve",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/valve"
-          },
-          {
-            "name": "Uniswap",
+            "name": "Arbitrum",
             "platform": "immunefi",
             "status": "active",
             "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/uniswap/"
+            "url": "https://immunefi.com/bounty/arbitrum/"
           },
           {
-            "name": "MakerDAO",
+            "name": "Wormhole",
             "platform": "immunefi",
             "status": "active",
             "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/makerdao/"
+            "url": "https://immunefi.com/bounty/wormhole/"
           },
           {
-            "name": "Aave",
+            "name": "LayerZero",
             "platform": "immunefi",
             "status": "active",
             "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/aave/"
-          },
-          {
-            "name": "Compound",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/compound/"
-          },
-          {
-            "name": "Synthetix",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/synthetix/"
-          },
-          {
-            "name": "dYdX",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/dydx/"
-          },
-          {
-            "name": "OpenSea",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/opensea/"
-          },
-          {
-            "name": "SushiSwap",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/sushiswap/"
-          },
-          {
-            "name": "Balancer",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/balancer/"
+            "url": "https://immunefi.com/bounty/layerzero/"
           }
         ],
         "max_potential_bounty": 0
@@ -46328,7 +46209,7 @@
           "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32014",
           "bug_type": "Other",
           "ecosystem": "cargo",
-          "severityEmoji": "🔴",
+          "severityEmoji": "🟠",
           "affected_programs": [
             {
               "name": "Dropbox",
@@ -46415,55 +46296,6 @@
           "severityEmoji": "🟠",
           "affected_programs": [
             {
-              "name": "Shopify",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/shopify"
-            },
-            {
-              "name": "GitLab",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/gitlab"
-            },
-            {
-              "name": "Coinbase",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/coinbase"
-            },
-            {
-              "name": "GitHub",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/github"
-            },
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
               "name": "Slack",
               "platform": "hackerone",
               "status": "active",
@@ -46471,95 +46303,11 @@
               "url": "https://hackerone.com/slack"
             },
             {
-              "name": "Twitter",
-              "platform": "hackerone",
-              "status": "paused",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/twitter"
-            },
-            {
-              "name": "Airbnb",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/airbnb"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
               "name": "Valve",
               "platform": "hackerone",
               "status": "active",
               "max_bounty": 0,
               "url": "https://hackerone.com/valve"
-            },
-            {
-              "name": "Uniswap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/uniswap/"
-            },
-            {
-              "name": "MakerDAO",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/makerdao/"
-            },
-            {
-              "name": "Aave",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/aave/"
-            },
-            {
-              "name": "Compound",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/compound/"
-            },
-            {
-              "name": "Synthetix",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/synthetix/"
-            },
-            {
-              "name": "dYdX",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/dydx/"
-            },
-            {
-              "name": "OpenSea",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/opensea/"
-            },
-            {
-              "name": "SushiSwap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/sushiswap/"
-            },
-            {
-              "name": "Balancer",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/balancer/"
             }
           ],
           "max_potential_bounty": 0
@@ -48869,10 +48617,8 @@
           ],
           "max_potential_bounty": 0
         }
-      ]
-    },
-    "by_ecosystem": {
-      "cargo": [
+      ],
+      "XSS": [
         {
           "id": "CVE-2026-32754",
           "description": "FreeScout is a free help desk and shared inbox built with PHP's Laravel framework. Versions 1.8.208 and below are vulnerable to Stored Cross-Site Scripting (XSS) through FreeScout's email notification templates. Incoming email bodies are stored in the database without sanitization and rendered unescaped in outgoing email notifications using Blade's raw output syntax {!! $thread->body !!}. An unauthenticated attacker can exploit this vulnerability by simply sending an email, and when opened by any subscribed agent or admin as part of their normal workflow, enabling universal HTML injection (phishing, tracking) and, in vulnerable email clients, JavaScript execution (session hijacking, credential theft, account takeover) affecting all recipients simultaneously. This issue has been fixed in version 1.8.209.",
@@ -50309,7 +50055,7 @@
           "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32040",
           "bug_type": "XSS",
           "ecosystem": "npm",
-          "severityEmoji": "🟠",
+          "severityEmoji": "🟡",
           "affected_programs": [
             {
               "name": "Shopify",
