@@ -11,7 +11,6 @@ permissions:
 jobs:
   daily-sync:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -27,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run Bounty Radar
+      - name: Run Bounty Radar v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -45,5 +44,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git add data/ docs/
-          git diff --staged --quiet || git commit -m "🔐 Daily bounty radar update $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "🔐 Daily bounty radar v2 $(date -u +%Y-%m-%d)"
           git push

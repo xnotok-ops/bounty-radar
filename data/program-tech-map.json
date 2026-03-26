@@ -1,0 +1,310 @@
+{
+  "_meta": {
+    "description": "Manual tech stack mapping for bounty programs",
+    "last_updated": "2026-03-26",
+    "total_programs": 30
+  },
+  "programs": [
+    {
+      "name": "Shopify",
+      "handle": "shopify",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["ruby", "rails", "react", "node", "graphql", "mysql", "redis"],
+      "bounty_min": 500,
+      "bounty_max": 50000,
+      "url": "https://hackerone.com/shopify"
+    },
+    {
+      "name": "GitLab",
+      "handle": "gitlab",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["ruby", "rails", "vue", "go", "postgresql", "redis"],
+      "bounty_min": 500,
+      "bounty_max": 35000,
+      "url": "https://hackerone.com/gitlab"
+    },
+    {
+      "name": "Coinbase",
+      "handle": "coinbase",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["go", "react", "ruby", "postgresql", "solidity"],
+      "bounty_min": 200,
+      "bounty_max": 50000,
+      "url": "https://hackerone.com/coinbase"
+    },
+    {
+      "name": "GitHub",
+      "handle": "github",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["ruby", "rails", "go", "react", "mysql"],
+      "bounty_min": 617,
+      "bounty_max": 30000,
+      "url": "https://hackerone.com/github"
+    },
+    {
+      "name": "Uber",
+      "handle": "uber",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["go", "python", "java", "react", "node"],
+      "bounty_min": 500,
+      "bounty_max": 10000,
+      "url": "https://hackerone.com/uber"
+    },
+    {
+      "name": "Dropbox",
+      "handle": "dropbox",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["python", "go", "rust", "react", "typescript"],
+      "bounty_min": 216,
+      "bounty_max": 32768,
+      "url": "https://hackerone.com/dropbox"
+    },
+    {
+      "name": "PayPal",
+      "handle": "paypal",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["java", "node", "react", "python"],
+      "bounty_min": 50,
+      "bounty_max": 30000,
+      "url": "https://hackerone.com/paypal"
+    },
+    {
+      "name": "Slack",
+      "handle": "slack",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["java", "php", "react", "electron", "node"],
+      "bounty_min": 100,
+      "bounty_max": 15000,
+      "url": "https://hackerone.com/slack"
+    },
+    {
+      "name": "Twitter",
+      "handle": "twitter",
+      "platform": "hackerone",
+      "status": "paused",
+      "technologies": ["java", "scala", "react", "graphql"],
+      "bounty_min": 140,
+      "bounty_max": 20000,
+      "url": "https://hackerone.com/twitter",
+      "note": "Program paused - study case only"
+    },
+    {
+      "name": "Airbnb",
+      "handle": "airbnb",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["ruby", "rails", "react", "java", "node"],
+      "bounty_min": 250,
+      "bounty_max": 15000,
+      "url": "https://hackerone.com/airbnb"
+    },
+    {
+      "name": "Snapchat",
+      "handle": "snapchat",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["go", "python", "react native", "java"],
+      "bounty_min": 250,
+      "bounty_max": 15000,
+      "url": "https://hackerone.com/snapchat"
+    },
+    {
+      "name": "Valve",
+      "handle": "valve",
+      "platform": "hackerone",
+      "status": "active",
+      "technologies": ["c++", "javascript", "php"],
+      "bounty_min": 200,
+      "bounty_max": 25000,
+      "url": "https://hackerone.com/valve"
+    },
+    {
+      "name": "Uniswap",
+      "handle": "uniswap",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "react", "typescript", "ethereum"],
+      "bounty_min": 1000,
+      "bounty_max": 2000000,
+      "url": "https://immunefi.com/bounty/uniswap/"
+    },
+    {
+      "name": "MakerDAO",
+      "handle": "makerdao",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "ethereum", "react"],
+      "bounty_min": 1000,
+      "bounty_max": 10000000,
+      "url": "https://immunefi.com/bounty/makerdao/"
+    },
+    {
+      "name": "Aave",
+      "handle": "aave",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "ethereum", "react", "typescript"],
+      "bounty_min": 1000,
+      "bounty_max": 250000,
+      "url": "https://immunefi.com/bounty/aave/"
+    },
+    {
+      "name": "Compound",
+      "handle": "compound",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "ethereum", "react"],
+      "bounty_min": 500,
+      "bounty_max": 150000,
+      "url": "https://immunefi.com/bounty/compound/"
+    },
+    {
+      "name": "Synthetix",
+      "handle": "synthetix",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "ethereum", "typescript", "react"],
+      "bounty_min": 1000,
+      "bounty_max": 2000000,
+      "url": "https://immunefi.com/bounty/synthetix/"
+    },
+    {
+      "name": "Chainlink",
+      "handle": "chainlink",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "go", "ethereum"],
+      "bounty_min": 1000,
+      "bounty_max": 100000,
+      "url": "https://immunefi.com/bounty/chainlink/"
+    },
+    {
+      "name": "Polygon",
+      "handle": "polygon",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "go", "ethereum", "typescript"],
+      "bounty_min": 1000,
+      "bounty_max": 2000000,
+      "url": "https://immunefi.com/bounty/polygon/"
+    },
+    {
+      "name": "Optimism",
+      "handle": "optimism",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "go", "typescript", "ethereum"],
+      "bounty_min": 1000,
+      "bounty_max": 2000042,
+      "url": "https://immunefi.com/bounty/optimism/"
+    },
+    {
+      "name": "Arbitrum",
+      "handle": "arbitrum",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "go", "rust", "ethereum"],
+      "bounty_min": 1000,
+      "bounty_max": 2000000,
+      "url": "https://immunefi.com/bounty/arbitrum/"
+    },
+    {
+      "name": "dYdX",
+      "handle": "dydx",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "typescript", "react", "cosmos"],
+      "bounty_min": 500,
+      "bounty_max": 1000000,
+      "url": "https://immunefi.com/bounty/dydx/"
+    },
+    {
+      "name": "Wormhole",
+      "handle": "wormhole",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "rust", "solana", "ethereum"],
+      "bounty_min": 2500,
+      "bounty_max": 2500000,
+      "url": "https://immunefi.com/bounty/wormhole/"
+    },
+    {
+      "name": "LayerZero",
+      "handle": "layerzero",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "rust", "typescript"],
+      "bounty_min": 1000,
+      "bounty_max": 15000000,
+      "url": "https://immunefi.com/bounty/layerzero/"
+    },
+    {
+      "name": "Lido",
+      "handle": "lido",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "ethereum", "typescript"],
+      "bounty_min": 1000,
+      "bounty_max": 2000000,
+      "url": "https://immunefi.com/bounty/lido/"
+    },
+    {
+      "name": "OpenSea",
+      "handle": "opensea",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "react", "node", "ethereum"],
+      "bounty_min": 1000,
+      "bounty_max": 3000000,
+      "url": "https://immunefi.com/bounty/opensea/"
+    },
+    {
+      "name": "Curve Finance",
+      "handle": "curve",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "vyper", "python", "ethereum"],
+      "bounty_min": 500,
+      "bounty_max": 250000,
+      "url": "https://immunefi.com/bounty/curve/"
+    },
+    {
+      "name": "Yearn Finance",
+      "handle": "yearn",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "vyper", "python", "ethereum"],
+      "bounty_min": 1000,
+      "bounty_max": 200000,
+      "url": "https://immunefi.com/bounty/yearnfinance/"
+    },
+    {
+      "name": "SushiSwap",
+      "handle": "sushiswap",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "react", "typescript", "ethereum"],
+      "bounty_min": 1000,
+      "bounty_max": 40000,
+      "url": "https://immunefi.com/bounty/sushiswap/"
+    },
+    {
+      "name": "Balancer",
+      "handle": "balancer",
+      "platform": "immunefi",
+      "status": "active",
+      "technologies": ["solidity", "typescript", "react", "ethereum"],
+      "bounty_min": 1000,
+      "bounty_max": 1000000,
+      "url": "https://immunefi.com/bounty/balancer/"
+    }
+  ]
+}
