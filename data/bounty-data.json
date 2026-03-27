@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-03-27T02:32:52.688Z",
+  "updated_at": "2026-03-27T03:45:28.014Z",
   "hackerone": {
     "total": 4705,
     "reports": [
@@ -43707,9 +43707,9 @@
         "full_name": "xdavidhu/awesome-google-vrp-writeups",
         "url": "https://github.com/xdavidhu/awesome-google-vrp-writeups",
         "description": "🐛 A list of writeups from the Google VRP Bug Bounty program",
-        "stars": 1464,
+        "stars": 1465,
         "language": "Python",
-        "updated_at": "2026-03-26T03:29:37Z",
+        "updated_at": "2026-03-27T03:20:19Z",
         "topics": []
       },
       {
@@ -43929,15 +43929,6 @@
         "topics": []
       },
       {
-        "full_name": "xnotok-ops/bounty-radar",
-        "url": "https://github.com/xnotok-ops/bounty-radar",
-        "description": "Bug bounty research tool — search HackerOne reports, Immunefi Web3 programs, GitHub security resources.",
-        "stars": 2,
-        "language": "JavaScript",
-        "updated_at": "2026-03-27T02:30:09Z",
-        "topics": []
-      },
-      {
         "full_name": "hanyshehata1510/RoboBack",
         "url": "https://github.com/hanyshehata1510/RoboBack",
         "description": "RoboBack is a CLI tool that fetches historical robots.txt files from the Wayback Machine, helping OSINT and bug bounty teams track crawling policies o",
@@ -44000,7 +43991,7 @@
         "description": "Analyze smart contracts to detect and report vulnerabilities using automated benchmarks and agent-driven exploit tests.",
         "stars": 1,
         "language": "TypeScript",
-        "updated_at": "2026-03-27T00:11:12Z",
+        "updated_at": "2026-03-27T03:40:11Z",
         "topics": [
           "agents",
           "ai",
@@ -44048,6 +44039,21 @@
         "topics": []
       },
       {
+        "full_name": "adam-317/Beatrix",
+        "url": "https://github.com/adam-317/Beatrix",
+        "description": "Provide a powerful CLI framework for bug bounty hunting with scanners, tool integrations, and AI-assisted analysis covering OWASP Top 10 risks.",
+        "stars": 0,
+        "language": "Python",
+        "updated_at": "2026-03-27T03:41:48Z",
+        "topics": [
+          "bug-bounty-tools",
+          "cybersecurity",
+          "font-converter",
+          "fonttools",
+          "games"
+        ]
+      },
+      {
         "full_name": "kipz254/silo-contracts-v2",
         "url": "https://github.com/kipz254/silo-contracts-v2",
         "description": "🔧 Build and deploy Silo V2 contracts efficiently with this monorepository, featuring integration tools and a bug bounty for security enhancements.",
@@ -44076,330 +44082,8 @@
   "cve_hunting": {
     "generated": "2026-03-27",
     "total_cves": 100,
-    "total_opportunities": 50,
+    "total_opportunities": 47,
     "opportunities": [
-      {
-        "id": "CVE-2026-32890",
-        "description": "Anchorr is a Discord bot for requesting movies and TV shows and receiving notifications when items are added to a media server. In versions 1.4.1 and below, a stored Cross-site Scripting (XSS) vulnerability in the web dashboard's User Mapping dropdown allows any unprivileged Discord user in the configured guild to execute arbitrary JavaScript in the Anchorr admin's browser. By chaining this with the GET /api/config endpoint (which returns all secrets in plaintext), an attacker can exfiltrate every credential stored in Anchorr which includes DISCORD_TOKEN, JELLYFIN_API_KEY, JELLYSEERR_API_KEY, JWT_SECRET, WEBHOOK_SECRET, and bcrypt password hashes without any authentication to Anchorr itself. This issue has been fixed in version 1.4.2.",
-        "severity": "CRITICAL",
-        "score": 9.6,
-        "published": "2026-03-20",
-        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32890",
-        "bug_type": "XSS",
-        "ecosystem": "npm",
-        "severityEmoji": "🔴",
-        "affected_programs": [
-          {
-            "name": "Shopify",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/shopify"
-          },
-          {
-            "name": "GitLab",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/gitlab"
-          },
-          {
-            "name": "Coinbase",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/coinbase"
-          },
-          {
-            "name": "GitHub",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/github"
-          },
-          {
-            "name": "Uber",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/uber"
-          },
-          {
-            "name": "Dropbox",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/dropbox"
-          },
-          {
-            "name": "PayPal",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/paypal"
-          },
-          {
-            "name": "Slack",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/slack"
-          },
-          {
-            "name": "Twitter",
-            "platform": "hackerone",
-            "status": "paused",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/twitter"
-          },
-          {
-            "name": "Airbnb",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/airbnb"
-          },
-          {
-            "name": "Snapchat",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/snapchat"
-          },
-          {
-            "name": "Valve",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/valve"
-          },
-          {
-            "name": "Uniswap",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/uniswap/"
-          },
-          {
-            "name": "MakerDAO",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/makerdao/"
-          },
-          {
-            "name": "Aave",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/aave/"
-          },
-          {
-            "name": "Compound",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/compound/"
-          },
-          {
-            "name": "Synthetix",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/synthetix/"
-          },
-          {
-            "name": "dYdX",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/dydx/"
-          },
-          {
-            "name": "OpenSea",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/opensea/"
-          },
-          {
-            "name": "SushiSwap",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/sushiswap/"
-          },
-          {
-            "name": "Balancer",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/balancer/"
-          }
-        ],
-        "max_potential_bounty": 0
-      },
-      {
-        "id": "CVE-2026-32891",
-        "description": "Anchorr is a Discord bot for requesting movies and TV shows and receiving notifications when items are added to a media server. Versions 1.4.1 and below contain a stored XSS vulnerability in the Jellyseerr user selector. Jellyseerr allows any account holder to execute arbitrary JavaScript in the Anchorr admin's browser session. The injected script calls the authenticated /api/config endpoint - which returns the full application configuration in plaintext. This allows the attacker to forge a valid Anchorr session token and gain full admin access to the dashboard with no knowledge of the admin password. The same response also exposes the API keys and tokens for every integrated service, resulting in simultaneous account takeover of the Jellyfin media server (via JELLYFIN_API_KEY), the Jellyseerr request manager (via JELLYSEERR_API_KEY), and the Discord bot (via DISCORD_TOKEN). This issue has been fixed in version 1.4.2.",
-        "severity": "CRITICAL",
-        "score": 9,
-        "published": "2026-03-20",
-        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32891",
-        "bug_type": "XSS",
-        "ecosystem": "npm",
-        "severityEmoji": "🔴",
-        "affected_programs": [
-          {
-            "name": "Shopify",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/shopify"
-          },
-          {
-            "name": "GitLab",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/gitlab"
-          },
-          {
-            "name": "Coinbase",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/coinbase"
-          },
-          {
-            "name": "GitHub",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/github"
-          },
-          {
-            "name": "Uber",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/uber"
-          },
-          {
-            "name": "Dropbox",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/dropbox"
-          },
-          {
-            "name": "PayPal",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/paypal"
-          },
-          {
-            "name": "Slack",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/slack"
-          },
-          {
-            "name": "Twitter",
-            "platform": "hackerone",
-            "status": "paused",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/twitter"
-          },
-          {
-            "name": "Airbnb",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/airbnb"
-          },
-          {
-            "name": "Snapchat",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/snapchat"
-          },
-          {
-            "name": "Valve",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/valve"
-          },
-          {
-            "name": "Uniswap",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/uniswap/"
-          },
-          {
-            "name": "MakerDAO",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/makerdao/"
-          },
-          {
-            "name": "Aave",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/aave/"
-          },
-          {
-            "name": "Compound",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/compound/"
-          },
-          {
-            "name": "Synthetix",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/synthetix/"
-          },
-          {
-            "name": "dYdX",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/dydx/"
-          },
-          {
-            "name": "OpenSea",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/opensea/"
-          },
-          {
-            "name": "SushiSwap",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/sushiswap/"
-          },
-          {
-            "name": "Balancer",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/balancer/"
-          }
-        ],
-        "max_potential_bounty": 0
-      },
       {
         "id": "CVE-2026-32940",
         "description": "SiYuan is a personal knowledge management system. In versions 3.6.0 and below, SanitizeSVG has an incomplete blocklist — it blocks data:text/html and data:image/svg+xml in href attributes but misses data:text/xml and data:application/xml, both of which can render SVG with JavaScript execution. The unauthenticated /api/icon/getDynamicIcon endpoint serves user-controlled input (via the content parameter) directly into SVG markup using fmt.Sprintf with no escaping, served as Content-Type: image/svg+xml. This creates a click-through XSS: a victim navigates to a crafted URL, sees an SVG with an injected link, and clicking it triggers JavaScript via the bypassed MIME types. The attack requires direct navigation to the endpoint or <object>/<embed> embedding, since <img> tag rendering in the frontend doesn't allow interactive links. This issue has been fixed in version 3.6.1.",
@@ -45080,15 +44764,15 @@
         "max_potential_bounty": 0
       },
       {
-        "id": "CVE-2026-32888",
-        "description": "Open Source Point of Sale is a web based point-of-sale application written in PHP using CodeIgniter framework. Versions contain an SQL Injection in the Items search functionality. When the custom attribute search feature is enabled (search_custom filter), user-supplied input from the search GET parameter is interpolated directly into a HAVING clause without parameterization or sanitization. This allows an authenticated attacker with basic item search permissions to execute arbitrary SQL queries. A patch did not exist at the time of publication.",
-        "severity": "HIGH",
-        "score": 8.8,
+        "id": "CVE-2026-33134",
+        "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.5 and below contain an authenticated SQL Injection vulnerability in the html/matPat/restaurar_produto.php endpoint. The vulnerability allows an authenticated attacker to inject arbitrary SQL commands via the id_produto GET parameter, leading to full database compromise. In the script /html/matPat/restaurar_produto.php, the application retrieves the id_produto parameter directly from the $_GET global array and interpolates it directly into two SQL query strings without any sanitization, type-casting (e.g., (int)), or using parameterized (prepare/execute) statements. This issue has been fixed in version 3.6.6.",
+        "severity": "CRITICAL",
+        "score": 9.3,
         "published": "2026-03-20",
-        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32888",
-        "bug_type": "RCE",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33134",
+        "bug_type": "SQLi",
         "ecosystem": "packagist",
-        "severityEmoji": "🟠",
+        "severityEmoji": "🔴",
         "affected_programs": [
           {
             "name": "Slack",
@@ -45103,6 +44787,328 @@
             "status": "active",
             "max_bounty": 0,
             "url": "https://hackerone.com/valve"
+          }
+        ],
+        "max_potential_bounty": 0
+      },
+      {
+        "id": "CVE-2026-33135",
+        "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.6 and below have a Reflected Cross-Site Scripting (XSS) vulnerability in the novo_memorandoo.php endpoint. An attacker can inject arbitrary JavaScript into the sccs GET parameter, which is directly echoed into the HTML response without any sanitization or encoding. The script /html/memorando/novo_memorandoo.php reads HTTP GET parameters to display dynamic success messages to the user. At approximately line 273, the code checks if $_GET['msg'] equals 'success'. If true, it directly concatenates $_GET['sccs'] into an HTML alert <div> and outputs it to the browser. This issue has been fixed in version 3.6.7.",
+        "severity": "CRITICAL",
+        "score": 9.3,
+        "published": "2026-03-20",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33135",
+        "bug_type": "XSS",
+        "ecosystem": "npm",
+        "severityEmoji": "🔴",
+        "affected_programs": [
+          {
+            "name": "Shopify",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/shopify"
+          },
+          {
+            "name": "GitLab",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/gitlab"
+          },
+          {
+            "name": "Coinbase",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/coinbase"
+          },
+          {
+            "name": "GitHub",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/github"
+          },
+          {
+            "name": "Uber",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/uber"
+          },
+          {
+            "name": "Dropbox",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/dropbox"
+          },
+          {
+            "name": "PayPal",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/paypal"
+          },
+          {
+            "name": "Slack",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/slack"
+          },
+          {
+            "name": "Twitter",
+            "platform": "hackerone",
+            "status": "paused",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/twitter"
+          },
+          {
+            "name": "Airbnb",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/airbnb"
+          },
+          {
+            "name": "Snapchat",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/snapchat"
+          },
+          {
+            "name": "Valve",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/valve"
+          },
+          {
+            "name": "Uniswap",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/uniswap/"
+          },
+          {
+            "name": "MakerDAO",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/makerdao/"
+          },
+          {
+            "name": "Aave",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/aave/"
+          },
+          {
+            "name": "Compound",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/compound/"
+          },
+          {
+            "name": "Synthetix",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/synthetix/"
+          },
+          {
+            "name": "dYdX",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/dydx/"
+          },
+          {
+            "name": "OpenSea",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/opensea/"
+          },
+          {
+            "name": "SushiSwap",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/sushiswap/"
+          },
+          {
+            "name": "Balancer",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/balancer/"
+          }
+        ],
+        "max_potential_bounty": 0
+      },
+      {
+        "id": "CVE-2026-33136",
+        "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.6 and below have a Reflected Cross-Site Scripting (XSS) vulnerability in the listar_memorandos_ativos.php endpoint. An attacker can inject arbitrary JavaScript or HTML tags into the sccd GET parameter, which is then directly echoed into the HTML response without any sanitization or encoding. The script /html/memorando/listar_memorandos_ativos.php handles dynamic success messages to users using query string parameters. Similar to other endpoints in the Memorando module, it checks if $_GET['msg'] equals 'success'. If this condition is met, it directly concatenates and reflects $_GET['sccd'] into an HTML alert <div>. This issue is resolved in version 3.6.7.",
+        "severity": "CRITICAL",
+        "score": 9.3,
+        "published": "2026-03-20",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33136",
+        "bug_type": "XSS",
+        "ecosystem": "npm",
+        "severityEmoji": "🔴",
+        "affected_programs": [
+          {
+            "name": "Shopify",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/shopify"
+          },
+          {
+            "name": "GitLab",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/gitlab"
+          },
+          {
+            "name": "Coinbase",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/coinbase"
+          },
+          {
+            "name": "GitHub",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/github"
+          },
+          {
+            "name": "Uber",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/uber"
+          },
+          {
+            "name": "Dropbox",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/dropbox"
+          },
+          {
+            "name": "PayPal",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/paypal"
+          },
+          {
+            "name": "Slack",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/slack"
+          },
+          {
+            "name": "Twitter",
+            "platform": "hackerone",
+            "status": "paused",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/twitter"
+          },
+          {
+            "name": "Airbnb",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/airbnb"
+          },
+          {
+            "name": "Snapchat",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/snapchat"
+          },
+          {
+            "name": "Valve",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/valve"
+          },
+          {
+            "name": "Uniswap",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/uniswap/"
+          },
+          {
+            "name": "MakerDAO",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/makerdao/"
+          },
+          {
+            "name": "Aave",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/aave/"
+          },
+          {
+            "name": "Compound",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/compound/"
+          },
+          {
+            "name": "Synthetix",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/synthetix/"
+          },
+          {
+            "name": "dYdX",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/dydx/"
+          },
+          {
+            "name": "OpenSea",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/opensea/"
+          },
+          {
+            "name": "SushiSwap",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/sushiswap/"
+          },
+          {
+            "name": "Balancer",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/balancer/"
           }
         ],
         "max_potential_bounty": 0
@@ -46935,15 +46941,15 @@
         "max_potential_bounty": 0
       },
       {
-        "id": "CVE-2026-31869",
-        "description": "Discourse is an open-source discussion platform. Prior to versions 2026.3.0-latest.1, 2026.2.1, and 2026.1.2, the ComposerController#mentions endpoint reveals hidden group membership to any authenticated user who can message the group. By supplying allowed_names referencing a hidden-membership group and probing arbitrary usernames, an attacker can infer membership based on whether user_reasons returns \"private\" for a given user. This bypasses group member-visibility controls. Versions 2026.3.0-latest.1, 2026.2.1, and 2026.1.2 contain a patch. To work around this issue, restrict the messageable policy of any hidden-membership group to staff or group members only, so untrusted users cannot reach the vulnerable code path.",
-        "severity": "MEDIUM",
-        "score": 4.3,
+        "id": "CVE-2026-33131",
+        "description": "H3 is a minimal H(TTP) framework. Versions 2.0.0-0 through 2.0.1-rc.14 contain a Host header spoofing vulnerability in the NodeRequestUrl (which extends FastURL) which allows middleware bypass. When event.url, event.url.hostname, or event.url._url is accessed, such as in a logging middleware, the _url getter constructs a URL from untrusted data, including the user-controlled Host header. Because H3's router resolves the route handler before middleware runs, an attacker can supply a crafted Host header (e.g., Host: localhost:3000/abchehe?) to make the middleware path check fail while the route handler still matches, effectively bypassing authentication or authorization middleware. This affects any application built on H3 (including Nitro/Nuxt) that accesses event.url properties in middleware guarding sensitive routes. The issue requires an immediate fix to prevent FastURL.href from being constructed with unsanitized, attacker-controlled input. Version 2.0.1-rc.15 contains a patch for this issue.",
+        "severity": "HIGH",
+        "score": 7.4,
         "published": "2026-03-20",
-        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-31869",
-        "bug_type": "RCE",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33131",
+        "bug_type": "Other",
         "ecosystem": "cargo",
-        "severityEmoji": "🟡",
+        "severityEmoji": "🟠",
         "affected_programs": [
           {
             "name": "Dropbox",
@@ -46972,90 +46978,6 @@
             "status": "active",
             "max_bounty": 0,
             "url": "https://immunefi.com/bounty/layerzero/"
-          }
-        ],
-        "max_potential_bounty": 0
-      },
-      {
-        "id": "CVE-2026-32889",
-        "description": "tinytag is a Python library for reading audio file metadata. Version 2.2.0 allows an attacker who can supply MP3 files for parsing to trigger a non-terminating loop while the library parses an ID3v2 SYLT (synchronized lyrics) frame. In server-side deployments that automatically parse attacker-supplied files, a single 498-byte MP3 can cause the parsing operation to stop making progress and remain busy until the worker or process is terminated. The root cause is that _parse_synced_lyrics assumes _find_string_end_pos always returns a position greater than the current offset. That assumption is false when no string terminator is present in the remaining frame content. This issue has been fixed in version 2.2.1.",
-        "severity": "MEDIUM",
-        "score": 6.5,
-        "published": "2026-03-20",
-        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32889",
-        "bug_type": "Other",
-        "ecosystem": "pip",
-        "severityEmoji": "🟡",
-        "affected_programs": [
-          {
-            "name": "Uber",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/uber"
-          },
-          {
-            "name": "Dropbox",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/dropbox"
-          },
-          {
-            "name": "PayPal",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/paypal"
-          },
-          {
-            "name": "Snapchat",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/snapchat"
-          },
-          {
-            "name": "Curve Finance",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/curve/"
-          },
-          {
-            "name": "Yearn Finance",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/yearnfinance/"
-          }
-        ],
-        "max_potential_bounty": 0
-      },
-      {
-        "id": "CVE-2026-32935",
-        "description": "phpseclib is a PHP secure communications library. Projects using versions 1.0.26 and below, 2.0.0 through 2.0.51, and 3.0.0 through 3.0.49 are vulnerable to a to padding oracle timing attack when using AES in CBC mode. This issue has been fixed in versions 1.0.27, 2.0.52 and 3.0.50.",
-        "severity": "MEDIUM",
-        "score": 5.9,
-        "published": "2026-03-20",
-        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32935",
-        "bug_type": "Other",
-        "ecosystem": "packagist",
-        "severityEmoji": "🟡",
-        "affected_programs": [
-          {
-            "name": "Slack",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/slack"
-          },
-          {
-            "name": "Valve",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/valve"
           }
         ],
         "max_potential_bounty": 0
@@ -47992,6 +47914,209 @@
         "max_potential_bounty": 0
       },
       {
+        "id": "CVE-2026-33130",
+        "description": "Uptime Kuma is an open source, self-hosted monitoring tool. In versions 1.23.0 through 2.2.0, the fix from GHSA-vffh-c9pq-4crh doesn't fully work to preventServer-side Template Injection (SSTI). The three mitigations added to the Liquid engine (root, relativeReference, dynamicPartials) only block quoted paths. If a project uses an unquoted absolute path, attackers can still read any file on the server. The original fix in notification-provider.js only constrains the first two steps of LiquidJS's file resolution (via root, relativeReference, and dynamicPartials options), but the  third step, the require.resolve() fallback in liquid.node.js has no containment check, allowing unquoted absolute paths like /etc/passwd to resolve successfully. Quoted paths happen to be blocked only because the literal quote characters cause require.resolve('\"/etc/passwd\"') to throw a MODULE_NOT_FOUND error, not because of any intentional security measure. This issue has been fixed in version 2.2.1.",
+        "severity": "MEDIUM",
+        "score": 6.5,
+        "published": "2026-03-20",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33130",
+        "bug_type": "RCE",
+        "ecosystem": "npm",
+        "severityEmoji": "🟡",
+        "affected_programs": [
+          {
+            "name": "Shopify",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/shopify"
+          },
+          {
+            "name": "GitLab",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/gitlab"
+          },
+          {
+            "name": "Coinbase",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/coinbase"
+          },
+          {
+            "name": "GitHub",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/github"
+          },
+          {
+            "name": "Uber",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/uber"
+          },
+          {
+            "name": "Dropbox",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/dropbox"
+          },
+          {
+            "name": "PayPal",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/paypal"
+          },
+          {
+            "name": "Slack",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/slack"
+          },
+          {
+            "name": "Twitter",
+            "platform": "hackerone",
+            "status": "paused",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/twitter"
+          },
+          {
+            "name": "Airbnb",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/airbnb"
+          },
+          {
+            "name": "Snapchat",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/snapchat"
+          },
+          {
+            "name": "Valve",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/valve"
+          },
+          {
+            "name": "Uniswap",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/uniswap/"
+          },
+          {
+            "name": "MakerDAO",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/makerdao/"
+          },
+          {
+            "name": "Aave",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/aave/"
+          },
+          {
+            "name": "Compound",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/compound/"
+          },
+          {
+            "name": "Synthetix",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/synthetix/"
+          },
+          {
+            "name": "dYdX",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/dydx/"
+          },
+          {
+            "name": "OpenSea",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/opensea/"
+          },
+          {
+            "name": "SushiSwap",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/sushiswap/"
+          },
+          {
+            "name": "Balancer",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/balancer/"
+          }
+        ],
+        "max_potential_bounty": 0
+      },
+      {
+        "id": "CVE-2026-25792",
+        "description": "Greenshot is an open source Windows screenshot utility. Versions 1.3.312 and below have untrusted executable search path / binary hijacking vulnerability that allows a local attacker to execute arbitrary code when the affected Windows application launches explorer.exe without using an absolute path. The vulnerable behavior is triggered when the user double-clicks the application’s tray icon, which opens the directory containing the most recent screenshot captured by the application. By placing a malicious executable with the same name in a location searched prior to the legitimate Windows binary, an attacker can gain code execution in the context of the application. This issue did not have a patch at the time of publication.",
+        "severity": "MEDIUM",
+        "score": 6.5,
+        "published": "2026-03-20",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25792",
+        "bug_type": "RCE",
+        "ecosystem": "cargo",
+        "severityEmoji": "🟡",
+        "affected_programs": [
+          {
+            "name": "Dropbox",
+            "platform": "hackerone",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://hackerone.com/dropbox"
+          },
+          {
+            "name": "Arbitrum",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/arbitrum/"
+          },
+          {
+            "name": "Wormhole",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/wormhole/"
+          },
+          {
+            "name": "LayerZero",
+            "platform": "immunefi",
+            "status": "active",
+            "max_bounty": 0,
+            "url": "https://immunefi.com/bounty/layerzero/"
+          }
+        ],
+        "max_potential_bounty": 0
+      },
+      {
         "id": "CVE-2026-4474",
         "description": "A flaw has been found in itsourcecode University Management System 1.0. Impacted is an unknown function of the file /admin_single_student_update.php. This manipulation of the argument st_name causes cross site scripting. The attack may be initiated remotely. The exploit has been published and may be used.",
         "severity": "LOW",
@@ -48043,132 +48168,6 @@
             "status": "active",
             "max_bounty": 0,
             "url": "https://hackerone.com/valve"
-          }
-        ],
-        "max_potential_bounty": 0
-      },
-      {
-        "id": "CVE-2026-32937",
-        "description": "free5GC is an open source 5G core network. free5GC CHF prior to version 1.2.2 has an out-of-bounds slice access vulnerability in the CHF `nchf-convergedcharging` service. A valid authenticated request to PUT `/nchf-convergedcharging/v3/recharging/:ueId?ratingGroup=...` can trigger a server-side panic in `github.com/free5gc/chf/internal/sbi.(*Server).RechargePut(...)` due to an out-of-range slice access. In the reported runtime, Gin recovery converts the panic into HTTP 500, but the recharge path remains remotely panic-triggerable and can be abused repeatedly to degrade recharge functionality and flood logs. In deployments without equivalent recovery handling, this panic may cause more severe service disruption. free5GC CHF patches the issue. Some workarounds are available: Restrict access to the `nchf-convergedcharging` recharge endpoint to strictly trusted NF callers only; apply rate limiting or network ACLs in front of the CHF SBI interface to reduce repeated panic-trigger attempts; if the recharge API is not required, temporarily disable or block external reachability to this route; and/or ensure panic recovery, monitoring, and alerting are enabled.",
-        "severity": "UNKNOWN",
-        "score": 0,
-        "published": "2026-03-20",
-        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32937",
-        "bug_type": "RCE",
-        "ecosystem": "cargo",
-        "severityEmoji": "⚪",
-        "affected_programs": [
-          {
-            "name": "Dropbox",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/dropbox"
-          },
-          {
-            "name": "Arbitrum",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/arbitrum/"
-          },
-          {
-            "name": "Wormhole",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/wormhole/"
-          },
-          {
-            "name": "LayerZero",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/layerzero/"
-          }
-        ],
-        "max_potential_bounty": 0
-      },
-      {
-        "id": "CVE-2026-33062",
-        "description": "free5GC is an open source 5G core network. free5GC NRF prior to version 1.4.2 has an Improper Input Validation vulnerability leading to Denial of Service. All deployments of free5GC using the NRF discovery service are affected. The `EncodeGroupId` function attempts to access array indices [0], [1], [2] without validating the length of the split data. When the parameter contains insufficient separator characters, the code panics with \"index out of range\". A remote attacker can cause the NRF service to panic and crash by sending a crafted HTTP GET request with a malformed `group-id-list` parameter. This results in complete denial of service for the NRF discovery service. free5GC NRF version 1.4.2 fixes the issue. There is no direct workaround at the application level. The recommendation is to apply the provided patch or restrict access to the NRF API to trusted sources only.",
-        "severity": "UNKNOWN",
-        "score": 0,
-        "published": "2026-03-20",
-        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33062",
-        "bug_type": "RCE",
-        "ecosystem": "cargo",
-        "severityEmoji": "⚪",
-        "affected_programs": [
-          {
-            "name": "Dropbox",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/dropbox"
-          },
-          {
-            "name": "Arbitrum",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/arbitrum/"
-          },
-          {
-            "name": "Wormhole",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/wormhole/"
-          },
-          {
-            "name": "LayerZero",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/layerzero/"
-          }
-        ],
-        "max_potential_bounty": 0
-      },
-      {
-        "id": "CVE-2026-33063",
-        "description": "free5GC is an open source 5G core network. free5GC AUSF prior to version 1.4.2 has is an Improper Null Check vulnerability leading to Denial of Service. All deployments of free5GC v4.0.1 using the AUSF UE authentication service (`/nausf-auth/v1/ue-authentications` endpoint) are affected. A remote attacker can cause the AUSF service to panic and crash by sending a crafted UE authentication request that triggers a nil interface conversion in the `GetSupiFromSuciSupiMap` function. This results in complete denial of service for the AUSF authentication service. The `GetSupiFromSuciSupiMap` function attempts to perform an interface conversion from `interface{}` to `*context.SuciSupiMap` without checking if the underlying value is nil. When `SuciSupiMap` is nil, the code panics with \"interface conversion: interface {} is nil, not *context.SuciSupiMap\". free5GC AUSF version 1.4.2 patches the issue.  There is no direct workaround at the application level. The recommendation is to apply the provided patch or restrict access to the AUSF API to trusted sources only.",
-        "severity": "UNKNOWN",
-        "score": 0,
-        "published": "2026-03-20",
-        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33063",
-        "bug_type": "RCE",
-        "ecosystem": "cargo",
-        "severityEmoji": "⚪",
-        "affected_programs": [
-          {
-            "name": "Dropbox",
-            "platform": "hackerone",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://hackerone.com/dropbox"
-          },
-          {
-            "name": "Arbitrum",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/arbitrum/"
-          },
-          {
-            "name": "Wormhole",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/wormhole/"
-          },
-          {
-            "name": "LayerZero",
-            "platform": "immunefi",
-            "status": "active",
-            "max_bounty": 0,
-            "url": "https://immunefi.com/bounty/layerzero/"
           }
         ],
         "max_potential_bounty": 0
@@ -49066,328 +49065,6 @@
     "by_severity": {
       "critical": [
         {
-          "id": "CVE-2026-32890",
-          "description": "Anchorr is a Discord bot for requesting movies and TV shows and receiving notifications when items are added to a media server. In versions 1.4.1 and below, a stored Cross-site Scripting (XSS) vulnerability in the web dashboard's User Mapping dropdown allows any unprivileged Discord user in the configured guild to execute arbitrary JavaScript in the Anchorr admin's browser. By chaining this with the GET /api/config endpoint (which returns all secrets in plaintext), an attacker can exfiltrate every credential stored in Anchorr which includes DISCORD_TOKEN, JELLYFIN_API_KEY, JELLYSEERR_API_KEY, JWT_SECRET, WEBHOOK_SECRET, and bcrypt password hashes without any authentication to Anchorr itself. This issue has been fixed in version 1.4.2.",
-          "severity": "CRITICAL",
-          "score": 9.6,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32890",
-          "bug_type": "XSS",
-          "ecosystem": "npm",
-          "severityEmoji": "🔴",
-          "affected_programs": [
-            {
-              "name": "Shopify",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/shopify"
-            },
-            {
-              "name": "GitLab",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/gitlab"
-            },
-            {
-              "name": "Coinbase",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/coinbase"
-            },
-            {
-              "name": "GitHub",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/github"
-            },
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Twitter",
-              "platform": "hackerone",
-              "status": "paused",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/twitter"
-            },
-            {
-              "name": "Airbnb",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/airbnb"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            },
-            {
-              "name": "Uniswap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/uniswap/"
-            },
-            {
-              "name": "MakerDAO",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/makerdao/"
-            },
-            {
-              "name": "Aave",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/aave/"
-            },
-            {
-              "name": "Compound",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/compound/"
-            },
-            {
-              "name": "Synthetix",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/synthetix/"
-            },
-            {
-              "name": "dYdX",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/dydx/"
-            },
-            {
-              "name": "OpenSea",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/opensea/"
-            },
-            {
-              "name": "SushiSwap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/sushiswap/"
-            },
-            {
-              "name": "Balancer",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/balancer/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-32891",
-          "description": "Anchorr is a Discord bot for requesting movies and TV shows and receiving notifications when items are added to a media server. Versions 1.4.1 and below contain a stored XSS vulnerability in the Jellyseerr user selector. Jellyseerr allows any account holder to execute arbitrary JavaScript in the Anchorr admin's browser session. The injected script calls the authenticated /api/config endpoint - which returns the full application configuration in plaintext. This allows the attacker to forge a valid Anchorr session token and gain full admin access to the dashboard with no knowledge of the admin password. The same response also exposes the API keys and tokens for every integrated service, resulting in simultaneous account takeover of the Jellyfin media server (via JELLYFIN_API_KEY), the Jellyseerr request manager (via JELLYSEERR_API_KEY), and the Discord bot (via DISCORD_TOKEN). This issue has been fixed in version 1.4.2.",
-          "severity": "CRITICAL",
-          "score": 9,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32891",
-          "bug_type": "XSS",
-          "ecosystem": "npm",
-          "severityEmoji": "🔴",
-          "affected_programs": [
-            {
-              "name": "Shopify",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/shopify"
-            },
-            {
-              "name": "GitLab",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/gitlab"
-            },
-            {
-              "name": "Coinbase",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/coinbase"
-            },
-            {
-              "name": "GitHub",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/github"
-            },
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Twitter",
-              "platform": "hackerone",
-              "status": "paused",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/twitter"
-            },
-            {
-              "name": "Airbnb",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/airbnb"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            },
-            {
-              "name": "Uniswap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/uniswap/"
-            },
-            {
-              "name": "MakerDAO",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/makerdao/"
-            },
-            {
-              "name": "Aave",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/aave/"
-            },
-            {
-              "name": "Compound",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/compound/"
-            },
-            {
-              "name": "Synthetix",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/synthetix/"
-            },
-            {
-              "name": "dYdX",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/dydx/"
-            },
-            {
-              "name": "OpenSea",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/opensea/"
-            },
-            {
-              "name": "SushiSwap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/sushiswap/"
-            },
-            {
-              "name": "Balancer",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/balancer/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
           "id": "CVE-2026-32940",
           "description": "SiYuan is a personal knowledge management system. In versions 3.6.0 and below, SanitizeSVG has an incomplete blocklist — it blocks data:text/html and data:image/svg+xml in href attributes but misses data:text/xml and data:application/xml, both of which can render SVG with JavaScript execution. The unauthenticated /api/icon/getDynamicIcon endpoint serves user-controlled input (via the content parameter) directly into SVG markup using fmt.Sprintf with no escaping, served as Content-Type: image/svg+xml. This creates a click-through XSS: a victim navigates to a crafted URL, sees an SVG with an injected link, and clicking it triggers JavaScript via the bypassed MIME types. The attack requires direct navigation to the endpoint or <object>/<embed> embedding, since <img> tag rendering in the frontend doesn't allow interactive links. This issue has been fixed in version 3.6.1.",
           "severity": "CRITICAL",
@@ -50065,19 +49742,17 @@
             }
           ],
           "max_potential_bounty": 0
-        }
-      ],
-      "high": [
+        },
         {
-          "id": "CVE-2026-32888",
-          "description": "Open Source Point of Sale is a web based point-of-sale application written in PHP using CodeIgniter framework. Versions contain an SQL Injection in the Items search functionality. When the custom attribute search feature is enabled (search_custom filter), user-supplied input from the search GET parameter is interpolated directly into a HAVING clause without parameterization or sanitization. This allows an authenticated attacker with basic item search permissions to execute arbitrary SQL queries. A patch did not exist at the time of publication.",
-          "severity": "HIGH",
-          "score": 8.8,
+          "id": "CVE-2026-33134",
+          "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.5 and below contain an authenticated SQL Injection vulnerability in the html/matPat/restaurar_produto.php endpoint. The vulnerability allows an authenticated attacker to inject arbitrary SQL commands via the id_produto GET parameter, leading to full database compromise. In the script /html/matPat/restaurar_produto.php, the application retrieves the id_produto parameter directly from the $_GET global array and interpolates it directly into two SQL query strings without any sanitization, type-casting (e.g., (int)), or using parameterized (prepare/execute) statements. This issue has been fixed in version 3.6.6.",
+          "severity": "CRITICAL",
+          "score": 9.3,
           "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32888",
-          "bug_type": "RCE",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33134",
+          "bug_type": "SQLi",
           "ecosystem": "packagist",
-          "severityEmoji": "🟠",
+          "severityEmoji": "🔴",
           "affected_programs": [
             {
               "name": "Slack",
@@ -50096,6 +49771,330 @@
           ],
           "max_potential_bounty": 0
         },
+        {
+          "id": "CVE-2026-33135",
+          "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.6 and below have a Reflected Cross-Site Scripting (XSS) vulnerability in the novo_memorandoo.php endpoint. An attacker can inject arbitrary JavaScript into the sccs GET parameter, which is directly echoed into the HTML response without any sanitization or encoding. The script /html/memorando/novo_memorandoo.php reads HTTP GET parameters to display dynamic success messages to the user. At approximately line 273, the code checks if $_GET['msg'] equals 'success'. If true, it directly concatenates $_GET['sccs'] into an HTML alert <div> and outputs it to the browser. This issue has been fixed in version 3.6.7.",
+          "severity": "CRITICAL",
+          "score": 9.3,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33135",
+          "bug_type": "XSS",
+          "ecosystem": "npm",
+          "severityEmoji": "🔴",
+          "affected_programs": [
+            {
+              "name": "Shopify",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/shopify"
+            },
+            {
+              "name": "GitLab",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/gitlab"
+            },
+            {
+              "name": "Coinbase",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/coinbase"
+            },
+            {
+              "name": "GitHub",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/github"
+            },
+            {
+              "name": "Uber",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/uber"
+            },
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "PayPal",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/paypal"
+            },
+            {
+              "name": "Slack",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/slack"
+            },
+            {
+              "name": "Twitter",
+              "platform": "hackerone",
+              "status": "paused",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/twitter"
+            },
+            {
+              "name": "Airbnb",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/airbnb"
+            },
+            {
+              "name": "Snapchat",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/snapchat"
+            },
+            {
+              "name": "Valve",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/valve"
+            },
+            {
+              "name": "Uniswap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/uniswap/"
+            },
+            {
+              "name": "MakerDAO",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/makerdao/"
+            },
+            {
+              "name": "Aave",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/aave/"
+            },
+            {
+              "name": "Compound",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/compound/"
+            },
+            {
+              "name": "Synthetix",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/synthetix/"
+            },
+            {
+              "name": "dYdX",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/dydx/"
+            },
+            {
+              "name": "OpenSea",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/opensea/"
+            },
+            {
+              "name": "SushiSwap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/sushiswap/"
+            },
+            {
+              "name": "Balancer",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/balancer/"
+            }
+          ],
+          "max_potential_bounty": 0
+        },
+        {
+          "id": "CVE-2026-33136",
+          "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.6 and below have a Reflected Cross-Site Scripting (XSS) vulnerability in the listar_memorandos_ativos.php endpoint. An attacker can inject arbitrary JavaScript or HTML tags into the sccd GET parameter, which is then directly echoed into the HTML response without any sanitization or encoding. The script /html/memorando/listar_memorandos_ativos.php handles dynamic success messages to users using query string parameters. Similar to other endpoints in the Memorando module, it checks if $_GET['msg'] equals 'success'. If this condition is met, it directly concatenates and reflects $_GET['sccd'] into an HTML alert <div>. This issue is resolved in version 3.6.7.",
+          "severity": "CRITICAL",
+          "score": 9.3,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33136",
+          "bug_type": "XSS",
+          "ecosystem": "npm",
+          "severityEmoji": "🔴",
+          "affected_programs": [
+            {
+              "name": "Shopify",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/shopify"
+            },
+            {
+              "name": "GitLab",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/gitlab"
+            },
+            {
+              "name": "Coinbase",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/coinbase"
+            },
+            {
+              "name": "GitHub",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/github"
+            },
+            {
+              "name": "Uber",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/uber"
+            },
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "PayPal",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/paypal"
+            },
+            {
+              "name": "Slack",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/slack"
+            },
+            {
+              "name": "Twitter",
+              "platform": "hackerone",
+              "status": "paused",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/twitter"
+            },
+            {
+              "name": "Airbnb",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/airbnb"
+            },
+            {
+              "name": "Snapchat",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/snapchat"
+            },
+            {
+              "name": "Valve",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/valve"
+            },
+            {
+              "name": "Uniswap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/uniswap/"
+            },
+            {
+              "name": "MakerDAO",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/makerdao/"
+            },
+            {
+              "name": "Aave",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/aave/"
+            },
+            {
+              "name": "Compound",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/compound/"
+            },
+            {
+              "name": "Synthetix",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/synthetix/"
+            },
+            {
+              "name": "dYdX",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/dydx/"
+            },
+            {
+              "name": "OpenSea",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/opensea/"
+            },
+            {
+              "name": "SushiSwap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/sushiswap/"
+            },
+            {
+              "name": "Balancer",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/balancer/"
+            }
+          ],
+          "max_potential_bounty": 0
+        }
+      ],
+      "high": [
         {
           "id": "CVE-2026-32939",
           "description": "DataEase is an open source data visualization analysis tool. Versions 2.10.19 and below have inconsistent Locale handling between the JDBC URL validation logic and the H2 JDBC engine's internal parsing. DataEase uses String.toUpperCase() without specifying an explicit Locale, causing its security checks to rely on the JVM's default runtime locale, while H2 JDBC always normalizes URLs using Locale.ENGLISH. In Turkish locale environments (tr_TR), Java converts the lowercase letter i to İ (dotted capital I) instead of the standard I, so a malicious parameter like iNIT becomes İNIT in DataEase's filter (bypassing its blacklist) while H2 still correctly interprets it as INIT. This discrepancy allows attackers to smuggle dangerous JDBC parameters past DataEase's security validation, and the issue has been confirmed as exploitable in real DataEase deployment scenarios running under affected regional settings. The issue has been fixed in version 2.10.20.",
@@ -51922,19 +51921,17 @@
             }
           ],
           "max_potential_bounty": 0
-        }
-      ],
-      "medium": [
+        },
         {
-          "id": "CVE-2026-31869",
-          "description": "Discourse is an open-source discussion platform. Prior to versions 2026.3.0-latest.1, 2026.2.1, and 2026.1.2, the ComposerController#mentions endpoint reveals hidden group membership to any authenticated user who can message the group. By supplying allowed_names referencing a hidden-membership group and probing arbitrary usernames, an attacker can infer membership based on whether user_reasons returns \"private\" for a given user. This bypasses group member-visibility controls. Versions 2026.3.0-latest.1, 2026.2.1, and 2026.1.2 contain a patch. To work around this issue, restrict the messageable policy of any hidden-membership group to staff or group members only, so untrusted users cannot reach the vulnerable code path.",
-          "severity": "MEDIUM",
-          "score": 4.3,
+          "id": "CVE-2026-33131",
+          "description": "H3 is a minimal H(TTP) framework. Versions 2.0.0-0 through 2.0.1-rc.14 contain a Host header spoofing vulnerability in the NodeRequestUrl (which extends FastURL) which allows middleware bypass. When event.url, event.url.hostname, or event.url._url is accessed, such as in a logging middleware, the _url getter constructs a URL from untrusted data, including the user-controlled Host header. Because H3's router resolves the route handler before middleware runs, an attacker can supply a crafted Host header (e.g., Host: localhost:3000/abchehe?) to make the middleware path check fail while the route handler still matches, effectively bypassing authentication or authorization middleware. This affects any application built on H3 (including Nitro/Nuxt) that accesses event.url properties in middleware guarding sensitive routes. The issue requires an immediate fix to prevent FastURL.href from being constructed with unsanitized, attacker-controlled input. Version 2.0.1-rc.15 contains a patch for this issue.",
+          "severity": "HIGH",
+          "score": 7.4,
           "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-31869",
-          "bug_type": "RCE",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33131",
+          "bug_type": "Other",
           "ecosystem": "cargo",
-          "severityEmoji": "🟡",
+          "severityEmoji": "🟠",
           "affected_programs": [
             {
               "name": "Dropbox",
@@ -51966,91 +51963,9 @@
             }
           ],
           "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-32889",
-          "description": "tinytag is a Python library for reading audio file metadata. Version 2.2.0 allows an attacker who can supply MP3 files for parsing to trigger a non-terminating loop while the library parses an ID3v2 SYLT (synchronized lyrics) frame. In server-side deployments that automatically parse attacker-supplied files, a single 498-byte MP3 can cause the parsing operation to stop making progress and remain busy until the worker or process is terminated. The root cause is that _parse_synced_lyrics assumes _find_string_end_pos always returns a position greater than the current offset. That assumption is false when no string terminator is present in the remaining frame content. This issue has been fixed in version 2.2.1.",
-          "severity": "MEDIUM",
-          "score": 6.5,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32889",
-          "bug_type": "Other",
-          "ecosystem": "pip",
-          "severityEmoji": "🟡",
-          "affected_programs": [
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
-              "name": "Curve Finance",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/curve/"
-            },
-            {
-              "name": "Yearn Finance",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/yearnfinance/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-32935",
-          "description": "phpseclib is a PHP secure communications library. Projects using versions 1.0.26 and below, 2.0.0 through 2.0.51, and 3.0.0 through 3.0.49 are vulnerable to a to padding oracle timing attack when using AES in CBC mode. This issue has been fixed in versions 1.0.27, 2.0.52 and 3.0.50.",
-          "severity": "MEDIUM",
-          "score": 5.9,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32935",
-          "bug_type": "Other",
-          "ecosystem": "packagist",
-          "severityEmoji": "🟡",
-          "affected_programs": [
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
+        }
+      ],
+      "medium": [
         {
           "id": "CVE-2026-32941",
           "description": "Sliver is a command and control framework that uses a custom Wireguard netstack. Versions 1.7.3 and below contain a Remote OOM (Out-of-Memory) vulnerability in the Sliver C2 server's mTLS and WireGuard C2 transport layer. The socketReadEnvelope and socketWGReadEnvelope functions trust an attacker-controlled 4-byte length prefix to allocate memory, with ServerMaxMessageSize allowing single allocations of up to ~2 GiB. A compromised implant or an attacker with valid credentials can exploit this by sending fabricated length prefixes over concurrent yamux streams (up to 128 per connection), forcing the server to attempt allocating ~256 GiB of memory and triggering an OS OOM kill. This crashes the Sliver server, disrupts all active implant sessions, and may degrade or kill other processes sharing the same host. The same pattern also affects all implant-side readers, which have no upper-bound check at all. The issue was not fixed at the the time of publication.",
@@ -52981,6 +52896,209 @@
             }
           ],
           "max_potential_bounty": 0
+        },
+        {
+          "id": "CVE-2026-33130",
+          "description": "Uptime Kuma is an open source, self-hosted monitoring tool. In versions 1.23.0 through 2.2.0, the fix from GHSA-vffh-c9pq-4crh doesn't fully work to preventServer-side Template Injection (SSTI). The three mitigations added to the Liquid engine (root, relativeReference, dynamicPartials) only block quoted paths. If a project uses an unquoted absolute path, attackers can still read any file on the server. The original fix in notification-provider.js only constrains the first two steps of LiquidJS's file resolution (via root, relativeReference, and dynamicPartials options), but the  third step, the require.resolve() fallback in liquid.node.js has no containment check, allowing unquoted absolute paths like /etc/passwd to resolve successfully. Quoted paths happen to be blocked only because the literal quote characters cause require.resolve('\"/etc/passwd\"') to throw a MODULE_NOT_FOUND error, not because of any intentional security measure. This issue has been fixed in version 2.2.1.",
+          "severity": "MEDIUM",
+          "score": 6.5,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33130",
+          "bug_type": "RCE",
+          "ecosystem": "npm",
+          "severityEmoji": "🟡",
+          "affected_programs": [
+            {
+              "name": "Shopify",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/shopify"
+            },
+            {
+              "name": "GitLab",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/gitlab"
+            },
+            {
+              "name": "Coinbase",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/coinbase"
+            },
+            {
+              "name": "GitHub",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/github"
+            },
+            {
+              "name": "Uber",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/uber"
+            },
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "PayPal",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/paypal"
+            },
+            {
+              "name": "Slack",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/slack"
+            },
+            {
+              "name": "Twitter",
+              "platform": "hackerone",
+              "status": "paused",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/twitter"
+            },
+            {
+              "name": "Airbnb",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/airbnb"
+            },
+            {
+              "name": "Snapchat",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/snapchat"
+            },
+            {
+              "name": "Valve",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/valve"
+            },
+            {
+              "name": "Uniswap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/uniswap/"
+            },
+            {
+              "name": "MakerDAO",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/makerdao/"
+            },
+            {
+              "name": "Aave",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/aave/"
+            },
+            {
+              "name": "Compound",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/compound/"
+            },
+            {
+              "name": "Synthetix",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/synthetix/"
+            },
+            {
+              "name": "dYdX",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/dydx/"
+            },
+            {
+              "name": "OpenSea",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/opensea/"
+            },
+            {
+              "name": "SushiSwap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/sushiswap/"
+            },
+            {
+              "name": "Balancer",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/balancer/"
+            }
+          ],
+          "max_potential_bounty": 0
+        },
+        {
+          "id": "CVE-2026-25792",
+          "description": "Greenshot is an open source Windows screenshot utility. Versions 1.3.312 and below have untrusted executable search path / binary hijacking vulnerability that allows a local attacker to execute arbitrary code when the affected Windows application launches explorer.exe without using an absolute path. The vulnerable behavior is triggered when the user double-clicks the application’s tray icon, which opens the directory containing the most recent screenshot captured by the application. By placing a malicious executable with the same name in a location searched prior to the legitimate Windows binary, an attacker can gain code execution in the context of the application. This issue did not have a patch at the time of publication.",
+          "severity": "MEDIUM",
+          "score": 6.5,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25792",
+          "bug_type": "RCE",
+          "ecosystem": "cargo",
+          "severityEmoji": "🟡",
+          "affected_programs": [
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "Arbitrum",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/arbitrum/"
+            },
+            {
+              "name": "Wormhole",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/wormhole/"
+            },
+            {
+              "name": "LayerZero",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/layerzero/"
+            }
+          ],
+          "max_potential_bounty": 0
         }
       ],
       "low": [
@@ -53045,334 +53163,334 @@
     "by_bug_type": {
       "XSS": [
         {
-          "id": "CVE-2026-32890",
-          "description": "Anchorr is a Discord bot for requesting movies and TV shows and receiving notifications when items are added to a media server. In versions 1.4.1 and below, a stored Cross-site Scripting (XSS) vulnerability in the web dashboard's User Mapping dropdown allows any unprivileged Discord user in the configured guild to execute arbitrary JavaScript in the Anchorr admin's browser. By chaining this with the GET /api/config endpoint (which returns all secrets in plaintext), an attacker can exfiltrate every credential stored in Anchorr which includes DISCORD_TOKEN, JELLYFIN_API_KEY, JELLYSEERR_API_KEY, JWT_SECRET, WEBHOOK_SECRET, and bcrypt password hashes without any authentication to Anchorr itself. This issue has been fixed in version 1.4.2.",
-          "severity": "CRITICAL",
-          "score": 9.6,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32890",
-          "bug_type": "XSS",
-          "ecosystem": "npm",
-          "severityEmoji": "🔴",
-          "affected_programs": [
-            {
-              "name": "Shopify",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/shopify"
-            },
-            {
-              "name": "GitLab",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/gitlab"
-            },
-            {
-              "name": "Coinbase",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/coinbase"
-            },
-            {
-              "name": "GitHub",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/github"
-            },
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Twitter",
-              "platform": "hackerone",
-              "status": "paused",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/twitter"
-            },
-            {
-              "name": "Airbnb",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/airbnb"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            },
-            {
-              "name": "Uniswap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/uniswap/"
-            },
-            {
-              "name": "MakerDAO",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/makerdao/"
-            },
-            {
-              "name": "Aave",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/aave/"
-            },
-            {
-              "name": "Compound",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/compound/"
-            },
-            {
-              "name": "Synthetix",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/synthetix/"
-            },
-            {
-              "name": "dYdX",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/dydx/"
-            },
-            {
-              "name": "OpenSea",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/opensea/"
-            },
-            {
-              "name": "SushiSwap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/sushiswap/"
-            },
-            {
-              "name": "Balancer",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/balancer/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-32891",
-          "description": "Anchorr is a Discord bot for requesting movies and TV shows and receiving notifications when items are added to a media server. Versions 1.4.1 and below contain a stored XSS vulnerability in the Jellyseerr user selector. Jellyseerr allows any account holder to execute arbitrary JavaScript in the Anchorr admin's browser session. The injected script calls the authenticated /api/config endpoint - which returns the full application configuration in plaintext. This allows the attacker to forge a valid Anchorr session token and gain full admin access to the dashboard with no knowledge of the admin password. The same response also exposes the API keys and tokens for every integrated service, resulting in simultaneous account takeover of the Jellyfin media server (via JELLYFIN_API_KEY), the Jellyseerr request manager (via JELLYSEERR_API_KEY), and the Discord bot (via DISCORD_TOKEN). This issue has been fixed in version 1.4.2.",
-          "severity": "CRITICAL",
-          "score": 9,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32891",
-          "bug_type": "XSS",
-          "ecosystem": "npm",
-          "severityEmoji": "🔴",
-          "affected_programs": [
-            {
-              "name": "Shopify",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/shopify"
-            },
-            {
-              "name": "GitLab",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/gitlab"
-            },
-            {
-              "name": "Coinbase",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/coinbase"
-            },
-            {
-              "name": "GitHub",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/github"
-            },
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Twitter",
-              "platform": "hackerone",
-              "status": "paused",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/twitter"
-            },
-            {
-              "name": "Airbnb",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/airbnb"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            },
-            {
-              "name": "Uniswap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/uniswap/"
-            },
-            {
-              "name": "MakerDAO",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/makerdao/"
-            },
-            {
-              "name": "Aave",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/aave/"
-            },
-            {
-              "name": "Compound",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/compound/"
-            },
-            {
-              "name": "Synthetix",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/synthetix/"
-            },
-            {
-              "name": "dYdX",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/dydx/"
-            },
-            {
-              "name": "OpenSea",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/opensea/"
-            },
-            {
-              "name": "SushiSwap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/sushiswap/"
-            },
-            {
-              "name": "Balancer",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/balancer/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
           "id": "CVE-2026-32940",
           "description": "SiYuan is a personal knowledge management system. In versions 3.6.0 and below, SanitizeSVG has an incomplete blocklist — it blocks data:text/html and data:image/svg+xml in href attributes but misses data:text/xml and data:application/xml, both of which can render SVG with JavaScript execution. The unauthenticated /api/icon/getDynamicIcon endpoint serves user-controlled input (via the content parameter) directly into SVG markup using fmt.Sprintf with no escaping, served as Content-Type: image/svg+xml. This creates a click-through XSS: a victim navigates to a crafted URL, sees an SVG with an injected link, and clicking it triggers JavaScript via the bypassed MIME types. The attack requires direct navigation to the endpoint or <object>/<embed> embedding, since <img> tag rendering in the frontend doesn't allow interactive links. This issue has been fixed in version 3.6.1.",
           "severity": "CRITICAL",
           "score": 9.3,
           "published": "2026-03-20",
           "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32940",
+          "bug_type": "XSS",
+          "ecosystem": "npm",
+          "severityEmoji": "🔴",
+          "affected_programs": [
+            {
+              "name": "Shopify",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/shopify"
+            },
+            {
+              "name": "GitLab",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/gitlab"
+            },
+            {
+              "name": "Coinbase",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/coinbase"
+            },
+            {
+              "name": "GitHub",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/github"
+            },
+            {
+              "name": "Uber",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/uber"
+            },
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "PayPal",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/paypal"
+            },
+            {
+              "name": "Slack",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/slack"
+            },
+            {
+              "name": "Twitter",
+              "platform": "hackerone",
+              "status": "paused",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/twitter"
+            },
+            {
+              "name": "Airbnb",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/airbnb"
+            },
+            {
+              "name": "Snapchat",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/snapchat"
+            },
+            {
+              "name": "Valve",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/valve"
+            },
+            {
+              "name": "Uniswap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/uniswap/"
+            },
+            {
+              "name": "MakerDAO",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/makerdao/"
+            },
+            {
+              "name": "Aave",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/aave/"
+            },
+            {
+              "name": "Compound",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/compound/"
+            },
+            {
+              "name": "Synthetix",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/synthetix/"
+            },
+            {
+              "name": "dYdX",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/dydx/"
+            },
+            {
+              "name": "OpenSea",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/opensea/"
+            },
+            {
+              "name": "SushiSwap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/sushiswap/"
+            },
+            {
+              "name": "Balancer",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/balancer/"
+            }
+          ],
+          "max_potential_bounty": 0
+        },
+        {
+          "id": "CVE-2026-33135",
+          "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.6 and below have a Reflected Cross-Site Scripting (XSS) vulnerability in the novo_memorandoo.php endpoint. An attacker can inject arbitrary JavaScript into the sccs GET parameter, which is directly echoed into the HTML response without any sanitization or encoding. The script /html/memorando/novo_memorandoo.php reads HTTP GET parameters to display dynamic success messages to the user. At approximately line 273, the code checks if $_GET['msg'] equals 'success'. If true, it directly concatenates $_GET['sccs'] into an HTML alert <div> and outputs it to the browser. This issue has been fixed in version 3.6.7.",
+          "severity": "CRITICAL",
+          "score": 9.3,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33135",
+          "bug_type": "XSS",
+          "ecosystem": "npm",
+          "severityEmoji": "🔴",
+          "affected_programs": [
+            {
+              "name": "Shopify",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/shopify"
+            },
+            {
+              "name": "GitLab",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/gitlab"
+            },
+            {
+              "name": "Coinbase",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/coinbase"
+            },
+            {
+              "name": "GitHub",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/github"
+            },
+            {
+              "name": "Uber",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/uber"
+            },
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "PayPal",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/paypal"
+            },
+            {
+              "name": "Slack",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/slack"
+            },
+            {
+              "name": "Twitter",
+              "platform": "hackerone",
+              "status": "paused",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/twitter"
+            },
+            {
+              "name": "Airbnb",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/airbnb"
+            },
+            {
+              "name": "Snapchat",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/snapchat"
+            },
+            {
+              "name": "Valve",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/valve"
+            },
+            {
+              "name": "Uniswap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/uniswap/"
+            },
+            {
+              "name": "MakerDAO",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/makerdao/"
+            },
+            {
+              "name": "Aave",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/aave/"
+            },
+            {
+              "name": "Compound",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/compound/"
+            },
+            {
+              "name": "Synthetix",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/synthetix/"
+            },
+            {
+              "name": "dYdX",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/dydx/"
+            },
+            {
+              "name": "OpenSea",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/opensea/"
+            },
+            {
+              "name": "SushiSwap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/sushiswap/"
+            },
+            {
+              "name": "Balancer",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/balancer/"
+            }
+          ],
+          "max_potential_bounty": 0
+        },
+        {
+          "id": "CVE-2026-33136",
+          "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.6 and below have a Reflected Cross-Site Scripting (XSS) vulnerability in the listar_memorandos_ativos.php endpoint. An attacker can inject arbitrary JavaScript or HTML tags into the sccd GET parameter, which is then directly echoed into the HTML response without any sanitization or encoding. The script /html/memorando/listar_memorandos_ativos.php handles dynamic success messages to users using query string parameters. Similar to other endpoints in the Memorando module, it checks if $_GET['msg'] equals 'success'. If this condition is met, it directly concatenates and reflects $_GET['sccd'] into an HTML alert <div>. This issue is resolved in version 3.6.7.",
+          "severity": "CRITICAL",
+          "score": 9.3,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33136",
           "bug_type": "XSS",
           "ecosystem": "npm",
           "severityEmoji": "🔴",
@@ -54209,34 +54327,6 @@
           "max_potential_bounty": 0
         },
         {
-          "id": "CVE-2026-32888",
-          "description": "Open Source Point of Sale is a web based point-of-sale application written in PHP using CodeIgniter framework. Versions contain an SQL Injection in the Items search functionality. When the custom attribute search feature is enabled (search_custom filter), user-supplied input from the search GET parameter is interpolated directly into a HAVING clause without parameterization or sanitization. This allows an authenticated attacker with basic item search permissions to execute arbitrary SQL queries. A patch did not exist at the time of publication.",
-          "severity": "HIGH",
-          "score": 8.8,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32888",
-          "bug_type": "RCE",
-          "ecosystem": "packagist",
-          "severityEmoji": "🟠",
-          "affected_programs": [
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
           "id": "CVE-2026-32939",
           "description": "DataEase is an open source data visualization analysis tool. Versions 2.10.19 and below have inconsistent Locale handling between the JDBC URL validation logic and the H2 JDBC engine's internal parsing. DataEase uses String.toUpperCase() without specifying an explicit Locale, causing its security checks to rely on the JVM's default runtime locale, while H2 JDBC always normalizes URLs using Locale.ENGLISH. In Turkish locale environments (tr_TR), Java converts the lowercase letter i to İ (dotted capital I) instead of the standard I, so a malicious parameter like iNIT becomes İNIT in DataEase's filter (bypassing its blacklist) while H2 still correctly interprets it as INIT. This discrepancy allows attackers to smuggle dangerous JDBC parameters past DataEase's security validation, and the issue has been confirmed as exploitable in real DataEase deployment scenarios running under affected regional settings. The issue has been fixed in version 2.10.20.",
           "severity": "HIGH",
@@ -54379,48 +54469,6 @@
               "status": "active",
               "max_bounty": 0,
               "url": "https://hackerone.com/valve"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-31869",
-          "description": "Discourse is an open-source discussion platform. Prior to versions 2026.3.0-latest.1, 2026.2.1, and 2026.1.2, the ComposerController#mentions endpoint reveals hidden group membership to any authenticated user who can message the group. By supplying allowed_names referencing a hidden-membership group and probing arbitrary usernames, an attacker can infer membership based on whether user_reasons returns \"private\" for a given user. This bypasses group member-visibility controls. Versions 2026.3.0-latest.1, 2026.2.1, and 2026.1.2 contain a patch. To work around this issue, restrict the messageable policy of any hidden-membership group to staff or group members only, so untrusted users cannot reach the vulnerable code path.",
-          "severity": "MEDIUM",
-          "score": 4.3,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-31869",
-          "bug_type": "RCE",
-          "ecosystem": "cargo",
-          "severityEmoji": "🟡",
-          "affected_programs": [
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "Arbitrum",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/arbitrum/"
-            },
-            {
-              "name": "Wormhole",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/wormhole/"
-            },
-            {
-              "name": "LayerZero",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/layerzero/"
             }
           ],
           "max_potential_bounty": 0
@@ -55273,6 +55321,209 @@
           "max_potential_bounty": 0
         },
         {
+          "id": "CVE-2026-33130",
+          "description": "Uptime Kuma is an open source, self-hosted monitoring tool. In versions 1.23.0 through 2.2.0, the fix from GHSA-vffh-c9pq-4crh doesn't fully work to preventServer-side Template Injection (SSTI). The three mitigations added to the Liquid engine (root, relativeReference, dynamicPartials) only block quoted paths. If a project uses an unquoted absolute path, attackers can still read any file on the server. The original fix in notification-provider.js only constrains the first two steps of LiquidJS's file resolution (via root, relativeReference, and dynamicPartials options), but the  third step, the require.resolve() fallback in liquid.node.js has no containment check, allowing unquoted absolute paths like /etc/passwd to resolve successfully. Quoted paths happen to be blocked only because the literal quote characters cause require.resolve('\"/etc/passwd\"') to throw a MODULE_NOT_FOUND error, not because of any intentional security measure. This issue has been fixed in version 2.2.1.",
+          "severity": "MEDIUM",
+          "score": 6.5,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33130",
+          "bug_type": "RCE",
+          "ecosystem": "npm",
+          "severityEmoji": "🟡",
+          "affected_programs": [
+            {
+              "name": "Shopify",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/shopify"
+            },
+            {
+              "name": "GitLab",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/gitlab"
+            },
+            {
+              "name": "Coinbase",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/coinbase"
+            },
+            {
+              "name": "GitHub",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/github"
+            },
+            {
+              "name": "Uber",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/uber"
+            },
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "PayPal",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/paypal"
+            },
+            {
+              "name": "Slack",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/slack"
+            },
+            {
+              "name": "Twitter",
+              "platform": "hackerone",
+              "status": "paused",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/twitter"
+            },
+            {
+              "name": "Airbnb",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/airbnb"
+            },
+            {
+              "name": "Snapchat",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/snapchat"
+            },
+            {
+              "name": "Valve",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/valve"
+            },
+            {
+              "name": "Uniswap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/uniswap/"
+            },
+            {
+              "name": "MakerDAO",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/makerdao/"
+            },
+            {
+              "name": "Aave",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/aave/"
+            },
+            {
+              "name": "Compound",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/compound/"
+            },
+            {
+              "name": "Synthetix",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/synthetix/"
+            },
+            {
+              "name": "dYdX",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/dydx/"
+            },
+            {
+              "name": "OpenSea",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/opensea/"
+            },
+            {
+              "name": "SushiSwap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/sushiswap/"
+            },
+            {
+              "name": "Balancer",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/balancer/"
+            }
+          ],
+          "max_potential_bounty": 0
+        },
+        {
+          "id": "CVE-2026-25792",
+          "description": "Greenshot is an open source Windows screenshot utility. Versions 1.3.312 and below have untrusted executable search path / binary hijacking vulnerability that allows a local attacker to execute arbitrary code when the affected Windows application launches explorer.exe without using an absolute path. The vulnerable behavior is triggered when the user double-clicks the application’s tray icon, which opens the directory containing the most recent screenshot captured by the application. By placing a malicious executable with the same name in a location searched prior to the legitimate Windows binary, an attacker can gain code execution in the context of the application. This issue did not have a patch at the time of publication.",
+          "severity": "MEDIUM",
+          "score": 6.5,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25792",
+          "bug_type": "RCE",
+          "ecosystem": "cargo",
+          "severityEmoji": "🟡",
+          "affected_programs": [
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "Arbitrum",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/arbitrum/"
+            },
+            {
+              "name": "Wormhole",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/wormhole/"
+            },
+            {
+              "name": "LayerZero",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/layerzero/"
+            }
+          ],
+          "max_potential_bounty": 0
+        },
+        {
           "id": "CVE-2026-4474",
           "description": "A flaw has been found in itsourcecode University Management System 1.0. Impacted is an unknown function of the file /admin_single_student_update.php. This manipulation of the argument st_name causes cross site scripting. The attack may be initiated remotely. The exploit has been published and may be used.",
           "severity": "LOW",
@@ -55299,129 +55550,61 @@
             }
           ],
           "max_potential_bounty": 0
-        },
+        }
+      ],
+      "SQLi": [
         {
-          "id": "CVE-2026-32937",
-          "description": "free5GC is an open source 5G core network. free5GC CHF prior to version 1.2.2 has an out-of-bounds slice access vulnerability in the CHF `nchf-convergedcharging` service. A valid authenticated request to PUT `/nchf-convergedcharging/v3/recharging/:ueId?ratingGroup=...` can trigger a server-side panic in `github.com/free5gc/chf/internal/sbi.(*Server).RechargePut(...)` due to an out-of-range slice access. In the reported runtime, Gin recovery converts the panic into HTTP 500, but the recharge path remains remotely panic-triggerable and can be abused repeatedly to degrade recharge functionality and flood logs. In deployments without equivalent recovery handling, this panic may cause more severe service disruption. free5GC CHF patches the issue. Some workarounds are available: Restrict access to the `nchf-convergedcharging` recharge endpoint to strictly trusted NF callers only; apply rate limiting or network ACLs in front of the CHF SBI interface to reduce repeated panic-trigger attempts; if the recharge API is not required, temporarily disable or block external reachability to this route; and/or ensure panic recovery, monitoring, and alerting are enabled.",
-          "severity": "UNKNOWN",
-          "score": 0,
+          "id": "CVE-2026-33134",
+          "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.5 and below contain an authenticated SQL Injection vulnerability in the html/matPat/restaurar_produto.php endpoint. The vulnerability allows an authenticated attacker to inject arbitrary SQL commands via the id_produto GET parameter, leading to full database compromise. In the script /html/matPat/restaurar_produto.php, the application retrieves the id_produto parameter directly from the $_GET global array and interpolates it directly into two SQL query strings without any sanitization, type-casting (e.g., (int)), or using parameterized (prepare/execute) statements. This issue has been fixed in version 3.6.6.",
+          "severity": "CRITICAL",
+          "score": 9.3,
           "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32937",
-          "bug_type": "RCE",
-          "ecosystem": "cargo",
-          "severityEmoji": "⚪",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33134",
+          "bug_type": "SQLi",
+          "ecosystem": "packagist",
+          "severityEmoji": "🔴",
           "affected_programs": [
             {
-              "name": "Dropbox",
+              "name": "Slack",
               "platform": "hackerone",
               "status": "active",
               "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
+              "url": "https://hackerone.com/slack"
             },
             {
-              "name": "Arbitrum",
-              "platform": "immunefi",
+              "name": "Valve",
+              "platform": "hackerone",
               "status": "active",
               "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/arbitrum/"
-            },
-            {
-              "name": "Wormhole",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/wormhole/"
-            },
-            {
-              "name": "LayerZero",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/layerzero/"
+              "url": "https://hackerone.com/valve"
             }
           ],
           "max_potential_bounty": 0
         },
         {
-          "id": "CVE-2026-33062",
-          "description": "free5GC is an open source 5G core network. free5GC NRF prior to version 1.4.2 has an Improper Input Validation vulnerability leading to Denial of Service. All deployments of free5GC using the NRF discovery service are affected. The `EncodeGroupId` function attempts to access array indices [0], [1], [2] without validating the length of the split data. When the parameter contains insufficient separator characters, the code panics with \"index out of range\". A remote attacker can cause the NRF service to panic and crash by sending a crafted HTTP GET request with a malformed `group-id-list` parameter. This results in complete denial of service for the NRF discovery service. free5GC NRF version 1.4.2 fixes the issue. There is no direct workaround at the application level. The recommendation is to apply the provided patch or restrict access to the NRF API to trusted sources only.",
-          "severity": "UNKNOWN",
-          "score": 0,
+          "id": "CVE-2026-33025",
+          "description": "AVideo is a video-sharing Platform. Versions prior to 8.0 contain a SQL Injection vulnerability in the getSqlFromPost() method of Object.php. The $_POST['sort'] array keys are used directly as SQL column identifiers inside an ORDER BY clause. Although real_escape_string() was applied, it only escapes string-context characters (quotes, null bytes) and provides no protection for SQL identifiers — making it entirely ineffective here. This issue has been fixed in version 8.0. To workaround this issue without upgrading, operators can apply a WAF rule to block POST requests where any sort[*] key contains characters outside [A-Za-z0-9_]. Alternatively, restrict access to the queue view (queue.json.php, index.php) to trusted IP ranges only.",
+          "severity": "HIGH",
+          "score": 8.8,
           "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33062",
-          "bug_type": "RCE",
-          "ecosystem": "cargo",
-          "severityEmoji": "⚪",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33025",
+          "bug_type": "SQLi",
+          "ecosystem": "packagist",
+          "severityEmoji": "🟠",
           "affected_programs": [
             {
-              "name": "Dropbox",
+              "name": "Slack",
               "platform": "hackerone",
               "status": "active",
               "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
+              "url": "https://hackerone.com/slack"
             },
             {
-              "name": "Arbitrum",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/arbitrum/"
-            },
-            {
-              "name": "Wormhole",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/wormhole/"
-            },
-            {
-              "name": "LayerZero",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/layerzero/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-33063",
-          "description": "free5GC is an open source 5G core network. free5GC AUSF prior to version 1.4.2 has is an Improper Null Check vulnerability leading to Denial of Service. All deployments of free5GC v4.0.1 using the AUSF UE authentication service (`/nausf-auth/v1/ue-authentications` endpoint) are affected. A remote attacker can cause the AUSF service to panic and crash by sending a crafted UE authentication request that triggers a nil interface conversion in the `GetSupiFromSuciSupiMap` function. This results in complete denial of service for the AUSF authentication service. The `GetSupiFromSuciSupiMap` function attempts to perform an interface conversion from `interface{}` to `*context.SuciSupiMap` without checking if the underlying value is nil. When `SuciSupiMap` is nil, the code panics with \"interface conversion: interface {} is nil, not *context.SuciSupiMap\". free5GC AUSF version 1.4.2 patches the issue.  There is no direct workaround at the application level. The recommendation is to apply the provided patch or restrict access to the AUSF API to trusted sources only.",
-          "severity": "UNKNOWN",
-          "score": 0,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33063",
-          "bug_type": "RCE",
-          "ecosystem": "cargo",
-          "severityEmoji": "⚪",
-          "affected_programs": [
-            {
-              "name": "Dropbox",
+              "name": "Valve",
               "platform": "hackerone",
               "status": "active",
               "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "Arbitrum",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/arbitrum/"
-            },
-            {
-              "name": "Wormhole",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/wormhole/"
-            },
-            {
-              "name": "LayerZero",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/layerzero/"
+              "url": "https://hackerone.com/valve"
             }
           ],
           "max_potential_bounty": 0
@@ -56591,23 +56774,16 @@
           "max_potential_bounty": 0
         },
         {
-          "id": "CVE-2026-32889",
-          "description": "tinytag is a Python library for reading audio file metadata. Version 2.2.0 allows an attacker who can supply MP3 files for parsing to trigger a non-terminating loop while the library parses an ID3v2 SYLT (synchronized lyrics) frame. In server-side deployments that automatically parse attacker-supplied files, a single 498-byte MP3 can cause the parsing operation to stop making progress and remain busy until the worker or process is terminated. The root cause is that _parse_synced_lyrics assumes _find_string_end_pos always returns a position greater than the current offset. That assumption is false when no string terminator is present in the remaining frame content. This issue has been fixed in version 2.2.1.",
-          "severity": "MEDIUM",
-          "score": 6.5,
+          "id": "CVE-2026-33131",
+          "description": "H3 is a minimal H(TTP) framework. Versions 2.0.0-0 through 2.0.1-rc.14 contain a Host header spoofing vulnerability in the NodeRequestUrl (which extends FastURL) which allows middleware bypass. When event.url, event.url.hostname, or event.url._url is accessed, such as in a logging middleware, the _url getter constructs a URL from untrusted data, including the user-controlled Host header. Because H3's router resolves the route handler before middleware runs, an attacker can supply a crafted Host header (e.g., Host: localhost:3000/abchehe?) to make the middleware path check fail while the route handler still matches, effectively bypassing authentication or authorization middleware. This affects any application built on H3 (including Nitro/Nuxt) that accesses event.url properties in middleware guarding sensitive routes. The issue requires an immediate fix to prevent FastURL.href from being constructed with unsanitized, attacker-controlled input. Version 2.0.1-rc.15 contains a patch for this issue.",
+          "severity": "HIGH",
+          "score": 7.4,
           "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32889",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33131",
           "bug_type": "Other",
-          "ecosystem": "pip",
-          "severityEmoji": "🟡",
+          "ecosystem": "cargo",
+          "severityEmoji": "🟠",
           "affected_programs": [
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
             {
               "name": "Dropbox",
               "platform": "hackerone",
@@ -56616,60 +56792,25 @@
               "url": "https://hackerone.com/dropbox"
             },
             {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
-              "name": "Curve Finance",
+              "name": "Arbitrum",
               "platform": "immunefi",
               "status": "active",
               "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/curve/"
+              "url": "https://immunefi.com/bounty/arbitrum/"
             },
             {
-              "name": "Yearn Finance",
+              "name": "Wormhole",
               "platform": "immunefi",
               "status": "active",
               "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/yearnfinance/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-32935",
-          "description": "phpseclib is a PHP secure communications library. Projects using versions 1.0.26 and below, 2.0.0 through 2.0.51, and 3.0.0 through 3.0.49 are vulnerable to a to padding oracle timing attack when using AES in CBC mode. This issue has been fixed in versions 1.0.27, 2.0.52 and 3.0.50.",
-          "severity": "MEDIUM",
-          "score": 5.9,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32935",
-          "bug_type": "Other",
-          "ecosystem": "packagist",
-          "severityEmoji": "🟡",
-          "affected_programs": [
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
+              "url": "https://immunefi.com/bounty/wormhole/"
             },
             {
-              "name": "Valve",
-              "platform": "hackerone",
+              "name": "LayerZero",
+              "platform": "immunefi",
               "status": "active",
               "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
+              "url": "https://immunefi.com/bounty/layerzero/"
             }
           ],
           "max_potential_bounty": 0
@@ -57937,36 +58078,6 @@
           "max_potential_bounty": 0
         }
       ],
-      "SQLi": [
-        {
-          "id": "CVE-2026-33025",
-          "description": "AVideo is a video-sharing Platform. Versions prior to 8.0 contain a SQL Injection vulnerability in the getSqlFromPost() method of Object.php. The $_POST['sort'] array keys are used directly as SQL column identifiers inside an ORDER BY clause. Although real_escape_string() was applied, it only escapes string-context characters (quotes, null bytes) and provides no protection for SQL identifiers — making it entirely ineffective here. This issue has been fixed in version 8.0. To workaround this issue without upgrading, operators can apply a WAF rule to block POST requests where any sort[*] key contains characters outside [A-Za-z0-9_]. Alternatively, restrict access to the queue view (queue.json.php, index.php) to trusted IP ranges only.",
-          "severity": "HIGH",
-          "score": 8.8,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33025",
-          "bug_type": "SQLi",
-          "ecosystem": "packagist",
-          "severityEmoji": "🟠",
-          "affected_programs": [
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            }
-          ],
-          "max_potential_bounty": 0
-        }
-      ],
       "Deserialization": [
         {
           "id": "CVE-2026-0677",
@@ -58044,328 +58155,6 @@
     },
     "by_ecosystem": {
       "npm": [
-        {
-          "id": "CVE-2026-32890",
-          "description": "Anchorr is a Discord bot for requesting movies and TV shows and receiving notifications when items are added to a media server. In versions 1.4.1 and below, a stored Cross-site Scripting (XSS) vulnerability in the web dashboard's User Mapping dropdown allows any unprivileged Discord user in the configured guild to execute arbitrary JavaScript in the Anchorr admin's browser. By chaining this with the GET /api/config endpoint (which returns all secrets in plaintext), an attacker can exfiltrate every credential stored in Anchorr which includes DISCORD_TOKEN, JELLYFIN_API_KEY, JELLYSEERR_API_KEY, JWT_SECRET, WEBHOOK_SECRET, and bcrypt password hashes without any authentication to Anchorr itself. This issue has been fixed in version 1.4.2.",
-          "severity": "CRITICAL",
-          "score": 9.6,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32890",
-          "bug_type": "XSS",
-          "ecosystem": "npm",
-          "severityEmoji": "🔴",
-          "affected_programs": [
-            {
-              "name": "Shopify",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/shopify"
-            },
-            {
-              "name": "GitLab",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/gitlab"
-            },
-            {
-              "name": "Coinbase",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/coinbase"
-            },
-            {
-              "name": "GitHub",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/github"
-            },
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Twitter",
-              "platform": "hackerone",
-              "status": "paused",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/twitter"
-            },
-            {
-              "name": "Airbnb",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/airbnb"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            },
-            {
-              "name": "Uniswap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/uniswap/"
-            },
-            {
-              "name": "MakerDAO",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/makerdao/"
-            },
-            {
-              "name": "Aave",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/aave/"
-            },
-            {
-              "name": "Compound",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/compound/"
-            },
-            {
-              "name": "Synthetix",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/synthetix/"
-            },
-            {
-              "name": "dYdX",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/dydx/"
-            },
-            {
-              "name": "OpenSea",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/opensea/"
-            },
-            {
-              "name": "SushiSwap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/sushiswap/"
-            },
-            {
-              "name": "Balancer",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/balancer/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-32891",
-          "description": "Anchorr is a Discord bot for requesting movies and TV shows and receiving notifications when items are added to a media server. Versions 1.4.1 and below contain a stored XSS vulnerability in the Jellyseerr user selector. Jellyseerr allows any account holder to execute arbitrary JavaScript in the Anchorr admin's browser session. The injected script calls the authenticated /api/config endpoint - which returns the full application configuration in plaintext. This allows the attacker to forge a valid Anchorr session token and gain full admin access to the dashboard with no knowledge of the admin password. The same response also exposes the API keys and tokens for every integrated service, resulting in simultaneous account takeover of the Jellyfin media server (via JELLYFIN_API_KEY), the Jellyseerr request manager (via JELLYSEERR_API_KEY), and the Discord bot (via DISCORD_TOKEN). This issue has been fixed in version 1.4.2.",
-          "severity": "CRITICAL",
-          "score": 9,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32891",
-          "bug_type": "XSS",
-          "ecosystem": "npm",
-          "severityEmoji": "🔴",
-          "affected_programs": [
-            {
-              "name": "Shopify",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/shopify"
-            },
-            {
-              "name": "GitLab",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/gitlab"
-            },
-            {
-              "name": "Coinbase",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/coinbase"
-            },
-            {
-              "name": "GitHub",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/github"
-            },
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Twitter",
-              "platform": "hackerone",
-              "status": "paused",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/twitter"
-            },
-            {
-              "name": "Airbnb",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/airbnb"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            },
-            {
-              "name": "Uniswap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/uniswap/"
-            },
-            {
-              "name": "MakerDAO",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/makerdao/"
-            },
-            {
-              "name": "Aave",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/aave/"
-            },
-            {
-              "name": "Compound",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/compound/"
-            },
-            {
-              "name": "Synthetix",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/synthetix/"
-            },
-            {
-              "name": "dYdX",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/dydx/"
-            },
-            {
-              "name": "OpenSea",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/opensea/"
-            },
-            {
-              "name": "SushiSwap",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/sushiswap/"
-            },
-            {
-              "name": "Balancer",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/balancer/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
         {
           "id": "CVE-2026-32940",
           "description": "SiYuan is a personal knowledge management system. In versions 3.6.0 and below, SanitizeSVG has an incomplete blocklist — it blocks data:text/html and data:image/svg+xml in href attributes but misses data:text/xml and data:application/xml, both of which can render SVG with JavaScript execution. The unauthenticated /api/icon/getDynamicIcon endpoint serves user-controlled input (via the content parameter) directly into SVG markup using fmt.Sprintf with no escaping, served as Content-Type: image/svg+xml. This creates a click-through XSS: a victim navigates to a crafted URL, sees an SVG with an injected link, and clicking it triggers JavaScript via the bypassed MIME types. The attack requires direct navigation to the endpoint or <object>/<embed> embedding, since <img> tag rendering in the frontend doesn't allow interactive links. This issue has been fixed in version 3.6.1.",
@@ -58696,6 +58485,328 @@
           "published": "2026-03-20",
           "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33067",
           "bug_type": "RCE",
+          "ecosystem": "npm",
+          "severityEmoji": "🔴",
+          "affected_programs": [
+            {
+              "name": "Shopify",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/shopify"
+            },
+            {
+              "name": "GitLab",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/gitlab"
+            },
+            {
+              "name": "Coinbase",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/coinbase"
+            },
+            {
+              "name": "GitHub",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/github"
+            },
+            {
+              "name": "Uber",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/uber"
+            },
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "PayPal",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/paypal"
+            },
+            {
+              "name": "Slack",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/slack"
+            },
+            {
+              "name": "Twitter",
+              "platform": "hackerone",
+              "status": "paused",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/twitter"
+            },
+            {
+              "name": "Airbnb",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/airbnb"
+            },
+            {
+              "name": "Snapchat",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/snapchat"
+            },
+            {
+              "name": "Valve",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/valve"
+            },
+            {
+              "name": "Uniswap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/uniswap/"
+            },
+            {
+              "name": "MakerDAO",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/makerdao/"
+            },
+            {
+              "name": "Aave",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/aave/"
+            },
+            {
+              "name": "Compound",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/compound/"
+            },
+            {
+              "name": "Synthetix",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/synthetix/"
+            },
+            {
+              "name": "dYdX",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/dydx/"
+            },
+            {
+              "name": "OpenSea",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/opensea/"
+            },
+            {
+              "name": "SushiSwap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/sushiswap/"
+            },
+            {
+              "name": "Balancer",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/balancer/"
+            }
+          ],
+          "max_potential_bounty": 0
+        },
+        {
+          "id": "CVE-2026-33135",
+          "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.6 and below have a Reflected Cross-Site Scripting (XSS) vulnerability in the novo_memorandoo.php endpoint. An attacker can inject arbitrary JavaScript into the sccs GET parameter, which is directly echoed into the HTML response without any sanitization or encoding. The script /html/memorando/novo_memorandoo.php reads HTTP GET parameters to display dynamic success messages to the user. At approximately line 273, the code checks if $_GET['msg'] equals 'success'. If true, it directly concatenates $_GET['sccs'] into an HTML alert <div> and outputs it to the browser. This issue has been fixed in version 3.6.7.",
+          "severity": "CRITICAL",
+          "score": 9.3,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33135",
+          "bug_type": "XSS",
+          "ecosystem": "npm",
+          "severityEmoji": "🔴",
+          "affected_programs": [
+            {
+              "name": "Shopify",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/shopify"
+            },
+            {
+              "name": "GitLab",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/gitlab"
+            },
+            {
+              "name": "Coinbase",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/coinbase"
+            },
+            {
+              "name": "GitHub",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/github"
+            },
+            {
+              "name": "Uber",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/uber"
+            },
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "PayPal",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/paypal"
+            },
+            {
+              "name": "Slack",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/slack"
+            },
+            {
+              "name": "Twitter",
+              "platform": "hackerone",
+              "status": "paused",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/twitter"
+            },
+            {
+              "name": "Airbnb",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/airbnb"
+            },
+            {
+              "name": "Snapchat",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/snapchat"
+            },
+            {
+              "name": "Valve",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/valve"
+            },
+            {
+              "name": "Uniswap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/uniswap/"
+            },
+            {
+              "name": "MakerDAO",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/makerdao/"
+            },
+            {
+              "name": "Aave",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/aave/"
+            },
+            {
+              "name": "Compound",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/compound/"
+            },
+            {
+              "name": "Synthetix",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/synthetix/"
+            },
+            {
+              "name": "dYdX",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/dydx/"
+            },
+            {
+              "name": "OpenSea",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/opensea/"
+            },
+            {
+              "name": "SushiSwap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/sushiswap/"
+            },
+            {
+              "name": "Balancer",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/balancer/"
+            }
+          ],
+          "max_potential_bounty": 0
+        },
+        {
+          "id": "CVE-2026-33136",
+          "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.6 and below have a Reflected Cross-Site Scripting (XSS) vulnerability in the listar_memorandos_ativos.php endpoint. An attacker can inject arbitrary JavaScript or HTML tags into the sccd GET parameter, which is then directly echoed into the HTML response without any sanitization or encoding. The script /html/memorando/listar_memorandos_ativos.php handles dynamic success messages to users using query string parameters. Similar to other endpoints in the Memorando module, it checks if $_GET['msg'] equals 'success'. If this condition is met, it directly concatenates and reflects $_GET['sccd'] into an HTML alert <div>. This issue is resolved in version 3.6.7.",
+          "severity": "CRITICAL",
+          "score": 9.3,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33136",
+          "bug_type": "XSS",
           "ecosystem": "npm",
           "severityEmoji": "🔴",
           "affected_programs": [
@@ -59814,6 +59925,167 @@
             }
           ],
           "max_potential_bounty": 0
+        },
+        {
+          "id": "CVE-2026-33130",
+          "description": "Uptime Kuma is an open source, self-hosted monitoring tool. In versions 1.23.0 through 2.2.0, the fix from GHSA-vffh-c9pq-4crh doesn't fully work to preventServer-side Template Injection (SSTI). The three mitigations added to the Liquid engine (root, relativeReference, dynamicPartials) only block quoted paths. If a project uses an unquoted absolute path, attackers can still read any file on the server. The original fix in notification-provider.js only constrains the first two steps of LiquidJS's file resolution (via root, relativeReference, and dynamicPartials options), but the  third step, the require.resolve() fallback in liquid.node.js has no containment check, allowing unquoted absolute paths like /etc/passwd to resolve successfully. Quoted paths happen to be blocked only because the literal quote characters cause require.resolve('\"/etc/passwd\"') to throw a MODULE_NOT_FOUND error, not because of any intentional security measure. This issue has been fixed in version 2.2.1.",
+          "severity": "MEDIUM",
+          "score": 6.5,
+          "published": "2026-03-20",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33130",
+          "bug_type": "RCE",
+          "ecosystem": "npm",
+          "severityEmoji": "🟡",
+          "affected_programs": [
+            {
+              "name": "Shopify",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/shopify"
+            },
+            {
+              "name": "GitLab",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/gitlab"
+            },
+            {
+              "name": "Coinbase",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/coinbase"
+            },
+            {
+              "name": "GitHub",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/github"
+            },
+            {
+              "name": "Uber",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/uber"
+            },
+            {
+              "name": "Dropbox",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/dropbox"
+            },
+            {
+              "name": "PayPal",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/paypal"
+            },
+            {
+              "name": "Slack",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/slack"
+            },
+            {
+              "name": "Twitter",
+              "platform": "hackerone",
+              "status": "paused",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/twitter"
+            },
+            {
+              "name": "Airbnb",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/airbnb"
+            },
+            {
+              "name": "Snapchat",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/snapchat"
+            },
+            {
+              "name": "Valve",
+              "platform": "hackerone",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://hackerone.com/valve"
+            },
+            {
+              "name": "Uniswap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/uniswap/"
+            },
+            {
+              "name": "MakerDAO",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/makerdao/"
+            },
+            {
+              "name": "Aave",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/aave/"
+            },
+            {
+              "name": "Compound",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/compound/"
+            },
+            {
+              "name": "Synthetix",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/synthetix/"
+            },
+            {
+              "name": "dYdX",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/dydx/"
+            },
+            {
+              "name": "OpenSea",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/opensea/"
+            },
+            {
+              "name": "SushiSwap",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/sushiswap/"
+            },
+            {
+              "name": "Balancer",
+              "platform": "immunefi",
+              "status": "active",
+              "max_bounty": 0,
+              "url": "https://immunefi.com/bounty/balancer/"
+            }
+          ],
+          "max_potential_bounty": 0
         }
       ],
       "pip": [
@@ -59939,62 +60211,6 @@
           "bug_type": "RCE",
           "ecosystem": "pip",
           "severityEmoji": "🔴",
-          "affected_programs": [
-            {
-              "name": "Uber",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/uber"
-            },
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "PayPal",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/paypal"
-            },
-            {
-              "name": "Snapchat",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/snapchat"
-            },
-            {
-              "name": "Curve Finance",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/curve/"
-            },
-            {
-              "name": "Yearn Finance",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/yearnfinance/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-32889",
-          "description": "tinytag is a Python library for reading audio file metadata. Version 2.2.0 allows an attacker who can supply MP3 files for parsing to trigger a non-terminating loop while the library parses an ID3v2 SYLT (synchronized lyrics) frame. In server-side deployments that automatically parse attacker-supplied files, a single 498-byte MP3 can cause the parsing operation to stop making progress and remain busy until the worker or process is terminated. The root cause is that _parse_synced_lyrics assumes _find_string_end_pos always returns a position greater than the current offset. That assumption is false when no string terminator is present in the remaining frame content. This issue has been fixed in version 2.2.1.",
-          "severity": "MEDIUM",
-          "score": 6.5,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32889",
-          "bug_type": "Other",
-          "ecosystem": "pip",
-          "severityEmoji": "🟡",
           "affected_programs": [
             {
               "name": "Uber",
@@ -60184,15 +60400,15 @@
           "max_potential_bounty": 0
         },
         {
-          "id": "CVE-2026-32888",
-          "description": "Open Source Point of Sale is a web based point-of-sale application written in PHP using CodeIgniter framework. Versions contain an SQL Injection in the Items search functionality. When the custom attribute search feature is enabled (search_custom filter), user-supplied input from the search GET parameter is interpolated directly into a HAVING clause without parameterization or sanitization. This allows an authenticated attacker with basic item search permissions to execute arbitrary SQL queries. A patch did not exist at the time of publication.",
-          "severity": "HIGH",
-          "score": 8.8,
+          "id": "CVE-2026-33134",
+          "description": "WeGIA is a web manager for charitable institutions. Versions 3.6.5 and below contain an authenticated SQL Injection vulnerability in the html/matPat/restaurar_produto.php endpoint. The vulnerability allows an authenticated attacker to inject arbitrary SQL commands via the id_produto GET parameter, leading to full database compromise. In the script /html/matPat/restaurar_produto.php, the application retrieves the id_produto parameter directly from the $_GET global array and interpolates it directly into two SQL query strings without any sanitization, type-casting (e.g., (int)), or using parameterized (prepare/execute) statements. This issue has been fixed in version 3.6.6.",
+          "severity": "CRITICAL",
+          "score": 9.3,
           "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32888",
-          "bug_type": "RCE",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33134",
+          "bug_type": "SQLi",
           "ecosystem": "packagist",
-          "severityEmoji": "🟠",
+          "severityEmoji": "🔴",
           "affected_programs": [
             {
               "name": "Slack",
@@ -60333,34 +60549,6 @@
           "bug_type": "Other",
           "ecosystem": "packagist",
           "severityEmoji": "🟠",
-          "affected_programs": [
-            {
-              "name": "Slack",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/slack"
-            },
-            {
-              "name": "Valve",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/valve"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-32935",
-          "description": "phpseclib is a PHP secure communications library. Projects using versions 1.0.26 and below, 2.0.0 through 2.0.51, and 3.0.0 through 3.0.49 are vulnerable to a to padding oracle timing attack when using AES in CBC mode. This issue has been fixed in versions 1.0.27, 2.0.52 and 3.0.50.",
-          "severity": "MEDIUM",
-          "score": 5.9,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32935",
-          "bug_type": "Other",
-          "ecosystem": "packagist",
-          "severityEmoji": "🟡",
           "affected_programs": [
             {
               "name": "Slack",
@@ -61007,15 +61195,15 @@
           "max_potential_bounty": 0
         },
         {
-          "id": "CVE-2026-31869",
-          "description": "Discourse is an open-source discussion platform. Prior to versions 2026.3.0-latest.1, 2026.2.1, and 2026.1.2, the ComposerController#mentions endpoint reveals hidden group membership to any authenticated user who can message the group. By supplying allowed_names referencing a hidden-membership group and probing arbitrary usernames, an attacker can infer membership based on whether user_reasons returns \"private\" for a given user. This bypasses group member-visibility controls. Versions 2026.3.0-latest.1, 2026.2.1, and 2026.1.2 contain a patch. To work around this issue, restrict the messageable policy of any hidden-membership group to staff or group members only, so untrusted users cannot reach the vulnerable code path.",
-          "severity": "MEDIUM",
-          "score": 4.3,
+          "id": "CVE-2026-33131",
+          "description": "H3 is a minimal H(TTP) framework. Versions 2.0.0-0 through 2.0.1-rc.14 contain a Host header spoofing vulnerability in the NodeRequestUrl (which extends FastURL) which allows middleware bypass. When event.url, event.url.hostname, or event.url._url is accessed, such as in a logging middleware, the _url getter constructs a URL from untrusted data, including the user-controlled Host header. Because H3's router resolves the route handler before middleware runs, an attacker can supply a crafted Host header (e.g., Host: localhost:3000/abchehe?) to make the middleware path check fail while the route handler still matches, effectively bypassing authentication or authorization middleware. This affects any application built on H3 (including Nitro/Nuxt) that accesses event.url properties in middleware guarding sensitive routes. The issue requires an immediate fix to prevent FastURL.href from being constructed with unsanitized, attacker-controlled input. Version 2.0.1-rc.15 contains a patch for this issue.",
+          "severity": "HIGH",
+          "score": 7.4,
           "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-31869",
-          "bug_type": "RCE",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33131",
+          "bug_type": "Other",
           "ecosystem": "cargo",
-          "severityEmoji": "🟡",
+          "severityEmoji": "🟠",
           "affected_programs": [
             {
               "name": "Dropbox",
@@ -61133,99 +61321,15 @@
           "max_potential_bounty": 0
         },
         {
-          "id": "CVE-2026-32937",
-          "description": "free5GC is an open source 5G core network. free5GC CHF prior to version 1.2.2 has an out-of-bounds slice access vulnerability in the CHF `nchf-convergedcharging` service. A valid authenticated request to PUT `/nchf-convergedcharging/v3/recharging/:ueId?ratingGroup=...` can trigger a server-side panic in `github.com/free5gc/chf/internal/sbi.(*Server).RechargePut(...)` due to an out-of-range slice access. In the reported runtime, Gin recovery converts the panic into HTTP 500, but the recharge path remains remotely panic-triggerable and can be abused repeatedly to degrade recharge functionality and flood logs. In deployments without equivalent recovery handling, this panic may cause more severe service disruption. free5GC CHF patches the issue. Some workarounds are available: Restrict access to the `nchf-convergedcharging` recharge endpoint to strictly trusted NF callers only; apply rate limiting or network ACLs in front of the CHF SBI interface to reduce repeated panic-trigger attempts; if the recharge API is not required, temporarily disable or block external reachability to this route; and/or ensure panic recovery, monitoring, and alerting are enabled.",
-          "severity": "UNKNOWN",
-          "score": 0,
+          "id": "CVE-2026-25792",
+          "description": "Greenshot is an open source Windows screenshot utility. Versions 1.3.312 and below have untrusted executable search path / binary hijacking vulnerability that allows a local attacker to execute arbitrary code when the affected Windows application launches explorer.exe without using an absolute path. The vulnerable behavior is triggered when the user double-clicks the application’s tray icon, which opens the directory containing the most recent screenshot captured by the application. By placing a malicious executable with the same name in a location searched prior to the legitimate Windows binary, an attacker can gain code execution in the context of the application. This issue did not have a patch at the time of publication.",
+          "severity": "MEDIUM",
+          "score": 6.5,
           "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32937",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25792",
           "bug_type": "RCE",
           "ecosystem": "cargo",
-          "severityEmoji": "⚪",
-          "affected_programs": [
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "Arbitrum",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/arbitrum/"
-            },
-            {
-              "name": "Wormhole",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/wormhole/"
-            },
-            {
-              "name": "LayerZero",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/layerzero/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-33062",
-          "description": "free5GC is an open source 5G core network. free5GC NRF prior to version 1.4.2 has an Improper Input Validation vulnerability leading to Denial of Service. All deployments of free5GC using the NRF discovery service are affected. The `EncodeGroupId` function attempts to access array indices [0], [1], [2] without validating the length of the split data. When the parameter contains insufficient separator characters, the code panics with \"index out of range\". A remote attacker can cause the NRF service to panic and crash by sending a crafted HTTP GET request with a malformed `group-id-list` parameter. This results in complete denial of service for the NRF discovery service. free5GC NRF version 1.4.2 fixes the issue. There is no direct workaround at the application level. The recommendation is to apply the provided patch or restrict access to the NRF API to trusted sources only.",
-          "severity": "UNKNOWN",
-          "score": 0,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33062",
-          "bug_type": "RCE",
-          "ecosystem": "cargo",
-          "severityEmoji": "⚪",
-          "affected_programs": [
-            {
-              "name": "Dropbox",
-              "platform": "hackerone",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://hackerone.com/dropbox"
-            },
-            {
-              "name": "Arbitrum",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/arbitrum/"
-            },
-            {
-              "name": "Wormhole",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/wormhole/"
-            },
-            {
-              "name": "LayerZero",
-              "platform": "immunefi",
-              "status": "active",
-              "max_bounty": 0,
-              "url": "https://immunefi.com/bounty/layerzero/"
-            }
-          ],
-          "max_potential_bounty": 0
-        },
-        {
-          "id": "CVE-2026-33063",
-          "description": "free5GC is an open source 5G core network. free5GC AUSF prior to version 1.4.2 has is an Improper Null Check vulnerability leading to Denial of Service. All deployments of free5GC v4.0.1 using the AUSF UE authentication service (`/nausf-auth/v1/ue-authentications` endpoint) are affected. A remote attacker can cause the AUSF service to panic and crash by sending a crafted UE authentication request that triggers a nil interface conversion in the `GetSupiFromSuciSupiMap` function. This results in complete denial of service for the AUSF authentication service. The `GetSupiFromSuciSupiMap` function attempts to perform an interface conversion from `interface{}` to `*context.SuciSupiMap` without checking if the underlying value is nil. When `SuciSupiMap` is nil, the code panics with \"interface conversion: interface {} is nil, not *context.SuciSupiMap\". free5GC AUSF version 1.4.2 patches the issue.  There is no direct workaround at the application level. The recommendation is to apply the provided patch or restrict access to the AUSF API to trusted sources only.",
-          "severity": "UNKNOWN",
-          "score": 0,
-          "published": "2026-03-20",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33063",
-          "bug_type": "RCE",
-          "ecosystem": "cargo",
-          "severityEmoji": "⚪",
+          "severityEmoji": "🟡",
           "affected_programs": [
             {
               "name": "Dropbox",
@@ -63041,9 +63145,9 @@
       ]
     },
     "stats": {
-      "critical": 9,
+      "critical": 10,
       "high": 16,
-      "medium": 19,
+      "medium": 18,
       "low": 2
     }
   },
