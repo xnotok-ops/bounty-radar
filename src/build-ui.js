@@ -1,6 +1,5 @@
 /**
- * Bounty Radar v3.1 - Interactive Research Tool (Complete)
- * Features: Direct links to PoC, Reports, Code examples
+ * Bounty Radar v3.1 - Interactive Research Tool (Fixed)
  */
 
 const fs = require("fs");
@@ -35,7 +34,11 @@ function buildHtml() {
   const patternsCount = data.vuln_patterns?.total || 0;
   const programCount = data.all_programs?.total || 0;
   
-  const jsonData = JSON.stringify(data).replace(/</g, "\\u003c").replace(/>/g, "\\u003e").replace(/&/g, "\\u0026");
+  const jsonData = JSON.stringify(data)
+    .replace(/\\/g, "\\\\")
+    .replace(/</g, "\\u003c")
+    .replace(/>/g, "\\u003e")
+    .replace(/&/g, "\\u0026");
 
   const html = `<!DOCTYPE html>
 <html lang="en">
@@ -78,19 +81,16 @@ a:hover{text-decoration:underline}
 .badge.active{background:#22c55e30;color:#86efac}
 .count{color:#64748b;font-size:11px;margin-left:8px}
 .empty{text-align:center;padding:60px 20px;color:#475569}
-
 .item{padding:12px 16px;border-bottom:1px solid #1e2130;cursor:pointer;transition:background 0.15s;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
 .item:hover{background:#12141a}
 .item-left{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-.item-right{display:flex;gap:8px}
-
+.item-right{display:flex;gap:8px;align-items:center}
 .detail{background:#0d1117;border-left:3px solid #fbbf24;padding:16px 20px;margin:0 0 8px 20px;border-radius:0 8px 8px 0;display:none}
 .detail.show{display:block}
 .detail h4{color:#f8fafc;font-size:14px;margin-bottom:10px}
 .detail p{color:#94a3b8;font-size:12px;line-height:1.6;margin-bottom:8px}
-.detail code{display:block;background:#1e293b;padding:12px;border-radius:6px;font-size:11px;color:#fbbf24;margin:8px 0;white-space:pre-wrap;font-family:monospace;overflow-x:auto}
+.detail pre{background:#1e293b;padding:12px;border-radius:6px;font-size:11px;color:#fbbf24;margin:8px 0;white-space:pre-wrap;font-family:monospace;overflow-x:auto}
 .detail-actions{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
-
 .btn{padding:6px 12px;border-radius:6px;font-size:11px;font-weight:600;cursor:pointer;border:none;text-decoration:none;display:inline-block}
 .btn-primary{background:#fbbf24;color:#0a0f1a}
 .btn-primary:hover{background:#f59e0b}
@@ -101,20 +101,12 @@ a:hover{text-decoration:underline}
 .btn-green{background:#22c55e;color:#fff}
 .btn-green:hover{background:#16a34a}
 .btn-sm{padding:4px 10px;font-size:10px}
-
 .keywords{display:flex;flex-wrap:wrap;gap:4px;margin-top:8px}
 .keyword{background:#1e293b;padding:3px 8px;border-radius:4px;font-size:10px;color:#94a3b8;cursor:pointer;transition:background 0.15s}
 .keyword:hover{background:#334155;color:#fbbf24}
-
 .section-label{font-size:10px;color:#64748b;text-transform:uppercase;margin:12px 0 6px;font-weight:600}
-
 .toast{position:fixed;bottom:20px;right:20px;background:#22c55e;color:#fff;padding:12px 20px;border-radius:8px;font-size:12px;font-weight:600;opacity:0;transition:opacity 0.3s;z-index:1000}
 .toast.show{opacity:1}
-
-@media(max-width:768px){
-  .item{flex-direction:column;align-items:flex-start}
-  .item-right{width:100%;justify-content:flex-start}
-}
 </style>
 </head>
 <body>
@@ -170,12 +162,11 @@ a:hover{text-decoration:underline}
 var DATA = ${jsonData};
 var currentTab = "cve";
 
-// Populate categories
 (function(){
   var cats = new Set();
-  (DATA.exploits?.data||[]).forEach(function(e){if(e.category)cats.add(e.category)});
-  (DATA.vuln_patterns?.data||[]).forEach(function(p){if(p.category)cats.add(p.category)});
-  (DATA.audit_findings?.data||[]).forEach(function(f){if(f.category)cats.add(f.category)});
+  (DATA.exploits && DATA.exploits.data || []).forEach(function(e){ if(e.category) cats.add(e.category); });
+  (DATA.vuln_patterns && DATA.vuln_patterns.data || []).forEach(function(p){ if(p.category) cats.add(p.category); });
+  (DATA.audit_findings && DATA.audit_findings.data || []).forEach(function(f){ if(f.category) cats.add(f.category); });
   var sel = document.getElementById("categoryFilter");
   Array.from(cats).sort().forEach(function(c){
     var o = document.createElement("option");
@@ -185,10 +176,9 @@ var currentTab = "cve";
   });
 })();
 
-// Tab clicks
 document.querySelectorAll(".tab").forEach(function(t){
   t.addEventListener("click", function(){
-    document.querySelectorAll(".tab").forEach(function(x){x.classList.remove("active")});
+    document.querySelectorAll(".tab").forEach(function(x){ x.classList.remove("active"); });
     t.classList.add("active");
     currentTab = t.getAttribute("data-tab");
     ["cve","exploits","findings","patterns","h1","immunefi","programs","github"].forEach(function(x){
@@ -198,13 +188,12 @@ document.querySelectorAll(".tab").forEach(function(t){
   });
 });
 
-// Filter inputs
 document.getElementById("searchInput").addEventListener("input", render);
 document.getElementById("severityFilter").addEventListener("change", render);
 document.getElementById("categoryFilter").addEventListener("change", render);
 document.getElementById("sortBy").addEventListener("change", render);
 
-function esc(s){ return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;"); }
+function esc(s){ return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
 function sevBadge(s){ var v=(s||"medium").toLowerCase(); return '<span class="badge '+v+'">'+v.toUpperCase()+'</span>'; }
 function catBadge(c){ if(!c)return""; return '<span class="badge">'+esc(c)+'</span>'; }
 function fmtMoney(n){ if(!n)return"-"; if(n>=1e9)return"$"+(n/1e9).toFixed(2)+"B"; if(n>=1e6)return"$"+(n/1e6).toFixed(1)+"M"; if(n>=1e3)return"$"+(n/1e3).toFixed(0)+"K"; return"$"+n; }
@@ -213,11 +202,16 @@ function showToast(msg){
   var t = document.getElementById("toast");
   t.textContent = msg;
   t.classList.add("show");
-  setTimeout(function(){t.classList.remove("show")},1500);
+  setTimeout(function(){ t.classList.remove("show"); }, 1500);
 }
 
 function copyText(text){
-  navigator.clipboard.writeText(text).then(function(){ showToast("Copied to clipboard!"); });
+  navigator.clipboard.writeText(text).then(function(){ showToast("Copied!"); });
+}
+
+function copyEl(id){
+  var el = document.getElementById(id);
+  if(el) copyText(el.textContent);
 }
 
 function toggleDetail(id){
@@ -241,9 +235,8 @@ function render(){
   else if(currentTab==="github") renderGithub(q);
 }
 
-// ===== CVE HUNTING =====
 function renderCVE(q,sev,sort){
-  var items = (DATA.cve_hunting?.opportunities||[]).filter(function(o){
+  var items = (DATA.cve_hunting && DATA.cve_hunting.opportunities || []).filter(function(o){
     if(sev && o.severity.toLowerCase()!==sev) return false;
     if(q && (o.id+" "+o.description).toLowerCase().indexOf(q)<0) return false;
     return true;
@@ -264,9 +257,8 @@ function renderCVE(q,sev,sort){
   document.getElementById("cveTable").innerHTML = h;
 }
 
-// ===== EXPLOITS (with PoC links) =====
 function renderExploits(q,cat,sort){
-  var items = (DATA.exploits?.data||[]).filter(function(e){
+  var items = (DATA.exploits && DATA.exploits.data || []).filter(function(e){
     if(cat && e.category!==cat) return false;
     if(q && (e.protocol+" "+e.description+" "+e.category).toLowerCase().indexOf(q)<0) return false;
     return true;
@@ -274,11 +266,13 @@ function renderExploits(q,cat,sort){
   if(sort==="loss") items.sort(function(a,b){return(b.loss_usd||0)-(a.loss_usd||0)});
   else items.sort(function(a,b){return(b.date||"").localeCompare(a.date||"")});
   
-  document.getElementById("resultCount").textContent = items.length+" exploits ($"+(items.reduce(function(s,e){return s+(e.loss_usd||0)},0)/1e9).toFixed(2)+"B total)";
-  var h = '';
+  var total = items.reduce(function(s,e){return s+(e.loss_usd||0)},0);
+  document.getElementById("resultCount").textContent = items.length+" exploits ($"+(total/1e9).toFixed(2)+"B total)";
+  
+  var h = "";
   items.forEach(function(e,i){
     var id = "exp"+i;
-    var pocLink = e.poc_url || "https://github.com/SunWeb3Sec/DeFiHackLabs";
+    var poc = e.poc_url || "https://github.com/SunWeb3Sec/DeFiHackLabs";
     h += '<div class="item" onclick="toggleDetail(\''+id+'\')">';
     h += '<div class="item-left">';
     h += '<span style="color:#64748b;min-width:80px">'+esc(e.date||"-")+'</span>';
@@ -287,29 +281,24 @@ function renderExploits(q,cat,sort){
     h += catBadge(e.category);
     h += '</div>';
     h += '<div class="item-right">';
-    h += '<a href="'+esc(pocLink)+'" target="_blank" class="btn btn-primary btn-sm" onclick="event.stopPropagation()">View PoC ↗</a>';
-    h += '</div>';
-    h += '</div>';
-    
+    h += '<a href="'+esc(poc)+'" target="_blank" class="btn btn-primary btn-sm" onclick="event.stopPropagation()">View PoC ↗</a>';
+    h += '</div></div>';
     h += '<div id="'+id+'" class="detail">';
     h += '<h4>💀 '+esc(e.protocol)+' Exploit</h4>';
-    h += '<p><b>Date:</b> '+esc(e.date)+' &nbsp;|&nbsp; <b>Loss:</b> <span class="loss">'+fmtMoney(e.loss_usd)+'</span> &nbsp;|&nbsp; <b>Category:</b> '+catBadge(e.category)+'</p>';
+    h += '<p><b>Date:</b> '+esc(e.date)+' | <b>Loss:</b> <span class="loss">'+fmtMoney(e.loss_usd)+'</span> | <b>Category:</b> '+catBadge(e.category)+'</p>';
     h += '<p class="section-label">What Happened</p>';
     h += '<p>'+esc(e.description)+'</p>';
-    h += '<p class="section-label">Source</p>';
-    h += '<p><a href="'+esc(pocLink)+'" target="_blank">'+esc(pocLink)+'</a></p>';
     h += '<div class="detail-actions">';
-    h += '<a href="'+esc(pocLink)+'" target="_blank" class="btn btn-primary">🔗 View PoC on GitHub</a>';
-    h += '<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\''+esc(e.protocol)+' ('+esc(e.date)+'): '+esc(e.category)+' - '+fmtMoney(e.loss_usd)+'\')">📋 Copy Summary</button>';
+    h += '<a href="'+esc(poc)+'" target="_blank" class="btn btn-primary">🔗 View PoC on GitHub</a>';
+    h += '<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\''+esc(e.protocol)+' - '+esc(e.category)+' - '+fmtMoney(e.loss_usd)+'\')">📋 Copy</button>';
     h += '</div></div>';
   });
   if(items.length===0) h = '<div class="empty">No exploits found</div>';
   document.getElementById("exploitsTable").innerHTML = h;
 }
 
-// ===== AUDIT FINDINGS (with Report links) =====
 function renderFindings(q,sev,cat){
-  var items = (DATA.audit_findings?.data||[]).filter(function(f){
+  var items = (DATA.audit_findings && DATA.audit_findings.data || []).filter(function(f){
     if(sev && (f.severity||"").toLowerCase()!==sev) return false;
     if(cat && f.category!==cat) return false;
     if(q && (f.title+" "+f.protocol+" "+f.description).toLowerCase().indexOf(q)<0) return false;
@@ -319,10 +308,10 @@ function renderFindings(q,sev,cat){
   items.sort(function(a,b){return(sevOrder[a.severity]||5)-(sevOrder[b.severity]||5)});
   
   document.getElementById("resultCount").textContent = items.length+" findings";
-  var h = '';
+  var h = "";
   items.forEach(function(f,i){
     var id = "find"+i;
-    var reportLink = f.url || "https://solodit.xyz/";
+    var link = f.url || "https://solodit.xyz/";
     h += '<div class="item" onclick="toggleDetail(\''+id+'\')">';
     h += '<div class="item-left">';
     h += sevBadge(f.severity);
@@ -332,27 +321,24 @@ function renderFindings(q,sev,cat){
     h += '</div>';
     h += '<div class="item-right">';
     h += '<span style="color:#64748b;font-size:10px">'+esc(f.auditor||"")+'</span>';
-    h += '<a href="'+esc(reportLink)+'" target="_blank" class="btn btn-blue btn-sm" onclick="event.stopPropagation()">View Report ↗</a>';
-    h += '</div>';
-    h += '</div>';
-    
+    h += '<a href="'+esc(link)+'" target="_blank" class="btn btn-blue btn-sm" onclick="event.stopPropagation()">Report ↗</a>';
+    h += '</div></div>';
     h += '<div id="'+id+'" class="detail">';
     h += '<h4>📚 '+esc(f.title)+'</h4>';
-    h += '<p>'+sevBadge(f.severity)+' &nbsp;|&nbsp; <b>Protocol:</b> '+esc(f.protocol)+' &nbsp;|&nbsp; <b>Auditor:</b> '+esc(f.auditor)+' &nbsp;|&nbsp; <b>Category:</b> '+catBadge(f.category)+'</p>';
+    h += '<p>'+sevBadge(f.severity)+' | <b>Protocol:</b> '+esc(f.protocol)+' | <b>Auditor:</b> '+esc(f.auditor)+'</p>';
     h += '<p class="section-label">Description</p>';
     h += '<p>'+esc(f.description||f.title)+'</p>';
     h += '<div class="detail-actions">';
-    h += '<a href="'+esc(reportLink)+'" target="_blank" class="btn btn-blue">🔗 View Full Audit Report</a>';
-    h += '<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\'['+esc(f.severity).toUpperCase()+'] '+esc(f.title)+'\')">📋 Copy Finding</button>';
+    h += '<a href="'+esc(link)+'" target="_blank" class="btn btn-blue">🔗 View Full Report</a>';
+    h += '<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\'['+esc(f.severity).toUpperCase()+'] '+esc(f.title)+'\')">📋 Copy</button>';
     h += '</div></div>';
   });
   if(items.length===0) h = '<div class="empty">No findings found</div>';
   document.getElementById("findingsTable").innerHTML = h;
 }
 
-// ===== VULN PATTERNS (with code examples) =====
 function renderPatterns(q,sev,cat){
-  var items = (DATA.vuln_patterns?.data||[]).filter(function(p){
+  var items = (DATA.vuln_patterns && DATA.vuln_patterns.data || []).filter(function(p){
     if(sev && p.severity!==sev) return false;
     if(cat && p.category!==cat) return false;
     if(q && (p.name+" "+p.description+" "+p.how_to_find).toLowerCase().indexOf(q)<0) return false;
@@ -360,7 +346,7 @@ function renderPatterns(q,sev,cat){
   });
   
   document.getElementById("resultCount").textContent = items.length+" patterns";
-  var h = '';
+  var h = "";
   items.forEach(function(p,i){
     var id = "pat"+i;
     h += '<div class="item" onclick="toggleDetail(\''+id+'\')">';
@@ -371,56 +357,38 @@ function renderPatterns(q,sev,cat){
     h += '</div>';
     h += '<div class="item-right">';
     h += '<span style="color:#64748b;font-size:10px">Click to expand</span>';
-    h += '</div>';
-    h += '</div>';
-    
+    h += '</div></div>';
     h += '<div id="'+id+'" class="detail">';
     h += '<h4>📋 '+esc(p.name)+'</h4>';
     h += '<p>'+sevBadge(p.severity)+' '+catBadge(p.category)+'</p>';
-    
     h += '<p class="section-label">Description</p>';
     h += '<p>'+esc(p.description)+'</p>';
-    
-    h += '<p class="section-label">How to Find This Bug</p>';
+    h += '<p class="section-label">How to Find</p>';
     h += '<p>'+esc(p.how_to_find)+'</p>';
-    
     if(p.example_vulnerable){
-      h += '<p class="section-label">❌ Vulnerable Code Example</p>';
-      h += '<code>'+esc(p.example_vulnerable)+'</code>';
-      h += '<button class="btn btn-secondary btn-sm" onclick="event.stopPropagation();copyText(atob(\''+btoa(p.example_vulnerable)+'\'))">Copy Vulnerable Code</button>';
+      h += '<p class="section-label">❌ Vulnerable Code</p>';
+      h += '<pre id="vuln'+i+'">'+esc(p.example_vulnerable)+'</pre>';
+      h += '<button class="btn btn-secondary btn-sm" onclick="event.stopPropagation();copyEl(\'vuln'+i+'\')">Copy Vulnerable</button>';
     }
-    
     if(p.example_fix){
-      h += '<p class="section-label">✅ Fixed Code Example</p>';
-      h += '<code>'+esc(p.example_fix)+'</code>';
-      h += '<button class="btn btn-green btn-sm" onclick="event.stopPropagation();copyText(atob(\''+btoa(p.example_fix)+'\'))">Copy Fixed Code</button>';
+      h += '<p class="section-label">✅ Fixed Code</p>';
+      h += '<pre id="fix'+i+'">'+esc(p.example_fix)+'</pre>';
+      h += '<button class="btn btn-green btn-sm" onclick="event.stopPropagation();copyEl(\'fix'+i+'\')">Copy Fix</button>';
     }
-    
     if(p.keywords && p.keywords.length){
-      h += '<p class="section-label">🔍 Keywords to Search (click to copy)</p>';
+      h += '<p class="section-label">🔍 Keywords (click to copy)</p>';
       h += '<div class="keywords">';
-      p.keywords.forEach(function(k){ 
-        h += '<span class="keyword" onclick="event.stopPropagation();copyText(\''+esc(k)+'\')">'+esc(k)+'</span>'; 
-      });
+      p.keywords.forEach(function(k){ h += '<span class="keyword" onclick="event.stopPropagation();copyText(\''+esc(k)+'\')">'+esc(k)+'</span>'; });
       h += '</div>';
     }
-    
-    if(p.related_exploits && p.related_exploits.length){
-      h += '<p class="section-label">🔗 Related Exploits</p>';
-      h += '<p>'+p.related_exploits.map(function(r){return esc(r)}).join(", ")+'</p>';
-    }
-    
-    h += '<div class="detail-actions" style="margin-top:16px">';
-    h += '<button class="btn btn-primary" onclick="event.stopPropagation();copyText(\''+esc(p.name)+': '+esc(p.how_to_find)+'\')">📋 Copy Checklist Item</button>';
-    h += '</div></div>';
+    h += '</div>';
   });
   if(items.length===0) h = '<div class="empty">No patterns found</div>';
   document.getElementById("patternsTable").innerHTML = h;
 }
 
-// ===== HACKERONE =====
 function renderH1(q,sort){
-  var items = (DATA.hackerone?.reports||[]).filter(function(r){
+  var items = (DATA.hackerone && DATA.hackerone.reports || []).filter(function(r){
     if(q && (r.title+" "+r.program).toLowerCase().indexOf(q)<0) return false;
     return true;
   });
@@ -438,9 +406,8 @@ function renderH1(q,sort){
   document.getElementById("h1Table").innerHTML = h;
 }
 
-// ===== IMMUNEFI =====
 function renderImmunefi(q,sort){
-  var items = (DATA.immunefi?.programs||[]).filter(function(p){
+  var items = (DATA.immunefi && DATA.immunefi.programs || []).filter(function(p){
     if(q && (p.name+" "+p.technologies).toLowerCase().indexOf(q)<0) return false;
     return true;
   });
@@ -452,15 +419,14 @@ function renderImmunefi(q,sort){
     h += '<td><b>'+esc(p.name)+'</b></td>';
     h += '<td class="money">'+fmtMoney(p.max_bounty)+'</td>';
     h += '<td>'+esc(p.technologies||"-")+'</td>';
-    h += '<td><a href="'+esc(p.url)+'" target="_blank">View Program ↗</a></td></tr>';
+    h += '<td><a href="'+esc(p.url)+'" target="_blank">View ↗</a></td></tr>';
   });
   h += '</table>';
   document.getElementById("immunefiTable").innerHTML = h;
 }
 
-// ===== PROGRAMS =====
 function renderPrograms(q,sort){
-  var items = (DATA.all_programs?.programs||[]).filter(function(p){
+  var items = (DATA.all_programs && DATA.all_programs.programs || []).filter(function(p){
     if(q && (p.name+" "+(p.technologies||"")).toLowerCase().indexOf(q)<0) return false;
     return true;
   });
@@ -477,9 +443,8 @@ function renderPrograms(q,sort){
   document.getElementById("programsTable").innerHTML = h;
 }
 
-// ===== GITHUB =====
 function renderGithub(q){
-  var items = (DATA.github?.repos||[]).filter(function(r){
+  var items = (DATA.github && DATA.github.repos || []).filter(function(r){
     if(q && (r.full_name+" "+r.description).toLowerCase().indexOf(q)<0) return false;
     return true;
   });
@@ -495,7 +460,6 @@ function renderGithub(q){
   document.getElementById("githubTable").innerHTML = h;
 }
 
-// Initial render
 render();
 </script>
 </body>
@@ -503,7 +467,7 @@ render();
 
   if (!fs.existsSync(docsDir)) fs.mkdirSync(docsDir, { recursive: true });
   fs.writeFileSync(path.join(docsDir, "index.html"), html, "utf-8");
-  console.log("✅ Web UI built: docs/index.html (v3.1 Complete)");
+  console.log("✅ Web UI built: docs/index.html");
 }
 
 buildHtml();
