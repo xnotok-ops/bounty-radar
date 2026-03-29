@@ -692,7 +692,700 @@
         "enriched_at": "2026-03-29T01:13:12.540Z"
       },
       "timestamp": "2026-03-29T01:13:15.708Z"
+    },
+    "makerdao": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "MakerDAO Authentication Vulnerability Bugfix Review | by Joshua Pritikin | Medium",
+            "url": "https://medium.com/@joshua_24955/makerdao-authentication-vulnerability-bugfix-review-e9cf42c7402f",
+            "snippet": "MakerDAO Authentication Vulnerability Bugfix Review | by Joshua Pritikin | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nJoshua Pritikin\n\n5 min",
+            "published": "2022-07-01T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Technical Description of Critical Vulnerability in MakerDAO Governance - OpenZeppelin blog",
+            "url": "https://blog.openzeppelin.com/makerdao-critical-vulnerability",
+            "snippet": "Technical Description of Critical Vulnerability in MakerDAO Governance - OpenZeppelin blog \n\nResearch/ Security Insights/\n\nTechnical Description of Critical Vulnerability in MakerDAO Governance\n\n# Tec",
+            "published": "2019-05-09T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "MakerDAO Critical Vulnerability Notice - OpenZeppelin blog",
+            "url": "https://blog.openzeppelin.com/makerdao-critical-vulnerability-notice-d581b30c9b39",
+            "snippet": "MakerDAO Critical Vulnerability Notice - OpenZeppelin blog\n\nNews/ Product Releases & Services/\n\nMakerDAO Critical Vulnerability Notice\n\n# MakerDAO Critical Vulnerability Notice\n\nWhile working on an au",
+            "published": "2019-05-06T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "MakerDAO’s Black Thursday: How One Bot Got $8.32M in ETH for Free",
+            "url": "https://longbridge.com/news/278216334",
+            "snippet": "> Supported Languages: 简体中文 | 繁體中文\n\n# MakerDAO’s Black Thursday: How One Bot Got $8.32M in ETH for Free\n\nOn March 12, 2020, one bot acquired $8.32 million worth of ETH and paid absolutely nothing for ",
+            "published": "2026-03-07T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Post Mortem - January 20th 2026 Incident",
+            "url": "https://open.substack.com/pub/makinafi/p/post-mortem-january-20th-2026-incident",
+            "snippet": "Post Mortem - January 20th 2026 Incident\n\n\n\n# Makina's Substack\n\nSubscribeSign in\n\n# Post Mortem - January 20th 2026 Incident\n\n\n\nMakina\n\nFeb 04, 2026\n\n2\n\nShare\n\n\n\n## Introduction\n\nThis document presen",
+            "published": "2026-02-04T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2026-0120: Makina Finance Permissionless Oracle Manipulation via Flash Loan Attack | Makina-Hack-Rekt-News-CVE-Report",
+            "url": "https://pavondunbar.github.io/Makina-Hack-Rekt-News-CVE-Report/",
+            "snippet": "CVE-2026-0120: Makina Finance Permissionless Oracle Manipulation via Flash Loan Attack | Makina-Hack-Rekt-News-CVE-Report\n\n# Makina-Hack-Rekt-News-CVE-Report\n\n# CVE-2026-0120: Makina Finance Permissio",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "panprog - `UniV2PoolMigratorInit` can lose some funds during migration due to rounding error, up to 29% in the worst case · Issue #70 · sherlock-audit/2024-06-makerdao-endgame-judging",
+            "url": "https://github.com/sherlock-audit/2024-06-makerdao-endgame-judging/issues/70",
+            "snippet": "# Issue: sherlock-audit/2024-06-makerdao-endgame-judging #70\n\n- Repository: sherlock-audit/2024-06-makerdao-endgame-judging | 5 stars | Python\n\n## panprog - `UniV2PoolMigratorInit` can lose some funds",
+            "published": "2024-08-05T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "one-hundred-proof/notional-flash-attack",
+            "url": "https://github.com/one-hundred-proof/notional-flash-attack",
+            "snippet": "# Repository: one-hundred-proof/notional-flash-attack\n\nProof of Concept of (now fixed) vulnerability in Notional smart contracts\n\n- Stars: 41\n- Forks: 3\n- Watchers: 41\n- Open issues: 0\n- Primary langu",
+            "published": "2022-09-15T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Evalir/euler-poc",
+            "url": "https://github.com/Evalir/euler-poc",
+            "snippet": "# Repository: Evalir/euler-poc\n\nA documented PoC of the Euler Finance hack.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Solidity\n- Languages: Solidity\n- Default branch: m",
+            "published": "2023-03-13T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Technical Description of Critical Vulnerability in MakerDAO Governance | by Zeppelin | Medium",
+            "url": "https://medium.com/zeppelin-blog/technical-description-of-makerdao-governance-critical-vulnerability-facce6bf5d5e",
+            "snippet": "Technical Description of Critical Vulnerability in MakerDAO Governance | by Zeppelin | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Technica",
+            "published": "2019-05-09T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Postmortem: Oasis Contract Upgrade | by MakerDAO | Medium",
+            "url": "https://medium.com/@MakerDAO/postmortem-oasis-contract-upgrade-71b11595976c",
+            "snippet": "Postmortem: Oasis Contract Upgrade | by MakerDAO | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Postmortem: Oasis Contract Upgrade\n\nMakerDAO",
+            "published": "2019-03-03T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "MakerDAO Authentication Vulnerability Bugfix Review | by Joshua Pritikin | Medium",
+            "url": "https://medium.com/@joshua_24955/makerdao-authentication-vulnerability-bugfix-review-e9cf42c7402f",
+            "snippet": "MakerDAO Authentication Vulnerability Bugfix Review | by Joshua Pritikin | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nJoshua Pritikin\n\n5 min",
+            "published": "2022-07-01T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:52:54.874Z"
+      },
+      "timestamp": "2026-03-29T01:52:55.897Z"
+    },
+    "sparklend": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "[SPARK-52122] Fix DefaultParamsReader RCE vulnerability - ASF Jira",
+            "url": "https://issues.apache.org/jira/browse/SPARK-52122",
+            "snippet": "[SPARK-52122] Fix DefaultParamsReader RCE vulnerability - ASF Jira\n\nPublic signup for this instance is disabled. Go to our Self serve sign up page to request an account. Report potential security issu",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "oss-security - CVE-2025-54920: Apache Spark: Spark History Server Code Execution\n Vulnerability",
+            "url": "https://www.openwall.com/lists/oss-security/2026/03/13/4",
+            "snippet": "oss-security - CVE-2025-54920: Apache Spark: Spark History Server Code Execution Vulnerability\n\nProducts\n\nJohn the Ripper password cracker\n\n- Pro for macOS\n- Pro for Linux\n- in the cloud\n- Free & Open",
+            "published": "2026-03-13T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "[SPARK-20922] Unsafe deserialization in Spark LauncherConnection - ASF Jira",
+            "url": "https://issues.apache.org/jira/browse/SPARK-20922",
+            "snippet": "[SPARK-20922] Unsafe deserialization in Spark LauncherConnection - ASF Jira\n\nPublic signup for this instance is disabled. Go to our Self serve sign up page to request an account. Report potential secu",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "CVE-2025-54920: Apache Spark: Spark History Server Code Execution Vulnerability",
+            "url": "http://www.mail-archive.com/announce@apache.org/msg10812.html",
+            "snippet": "CVE-2025-54920: Apache Spark: Spark History Server Code Execution Vulnerability\n\nSkip to site navigation (Press enter)\n\n# CVE-2025-54920: Apache Spark: Spark History Server Code Execution Vulnerabilit",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "CVE-2025-54920 - Apache Spark - Remote Code Execution | LeakyCreds",
+            "url": "https://leakycreds.com/vulnerability/CVE-2025-54920",
+            "snippet": "CVE-2025-54920 - Apache Spark - Remote Code Execution | LeakyCreds\n\nNewInstant webhook alerts now available — notified within seconds of any credential detection. Learn more →\n\nHome/ Vulnerability Int",
+            "published": "2026-03-16T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "[SPARK-52122] Fix DefaultParamsReader RCE vulnerability - ASF Jira",
+            "url": "https://issues.apache.org/jira/browse/SPARK-52122",
+            "snippet": "[SPARK-52122] Fix DefaultParamsReader RCE vulnerability - ASF Jira\n\nPublic signup for this instance is disabled. Go to our Self serve sign up page to request an account. Report potential security issu",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "K3ysTr0K3R/CVE-2022-33891-EXPLOIT",
+            "url": "https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT",
+            "snippet": "# Repository: K3ysTr0K3R/CVE-2022-33891-EXPLOIT\n\nA PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE)\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Primary language",
+            "published": "2024-02-22T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "GitHub - AkbarTrilaksana/cve-2022-33891",
+            "url": "https://github.com/AkbarTrilaksana/cve-2022-33891",
+            "snippet": "GitHub - AkbarTrilaksana/cve-2022-33891\nSkip to content\n## Navigation Menu\nToggle navigation\n\n\n\nSign in\n\nSearch or jump to...\n# Search code, repositories, users, issues, pull requests...\n \nSearch\nClea",
+            "published": "2022-07-20T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "GitHub - west-wind/CVE-2022-33891: Apache Spark Command Injection PoC Exploit for CVE-2022-33891",
+            "url": "https://github.com/west-wind/CVE-2022-33891",
+            "snippet": "GitHub - west-wind/CVE-2022-33891: Apache Spark Command Injection PoC Exploit for CVE-2022-33891\nSkip to content\n## Navigation Menu\nToggle navigation\n\n\n\nSign in\n\nSearch or jump to...\n# Search code, re",
+            "published": "2022-07-19T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Analysis of SparkDEX Perpetual Exchange Hack | by Amber Group | Medium",
+            "url": "https://ambergroup.medium.com/analysis-of-sparkdex-perpetual-exchange-hack-e931f69f4078",
+            "snippet": "Analysis of SparkDEX Perpetual Exchange Hack | by Amber Group | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Analysis of SparkDEX Perpetual ",
+            "published": "2025-09-10T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2025-03-starknet-perpetual",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionStarknet Perpetual\n\n \n\n# Starknet Perpetual Findings & Analysis Report\n\n#### 2025-06-18\n\n## Table of contents\n\nOverview\n\n- About C4\n\nHigh Risk F",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Sparkle Smart Contracts Audit Report",
+            "url": "https://medium.com/quillhash/sparkle-smart-contracts-audit-report-5ae7e9df59c",
+            "snippet": "Sparkle Smart Contracts Audit Report | by Abhishek Sharma | QuillAudits | Medium\nSitemap\nOpen in app\nSign up\nSign in\nMedium Logo\n\nWrite\n\n\nSearch\n\nSign up\nSign in\n\n## QuillAudits\n\n·\nQuillAudits\n\nDelive",
+            "published": "2019-04-08T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:52:55.897Z"
+      },
+      "timestamp": "2026-03-29T01:52:56.891Z"
+    },
+    "gmx": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Full Disclosure: gmx.de /webmail  xss vuln",
+            "url": "https://seclists.org/fulldisclosure/2007/Jan/101",
+            "snippet": "Full Disclosure: gmx.de /webmail xss vuln \n\n \n\n## Full Disclosure mailing list archives\n\n \n\nBy Date\n\nBy Thread\n\n \n\n# gmx.de /webmail xss vuln\n\n---\n\n From: commander_keen () gmx de Date: Thu, 04 Jan 20",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "GMX – so einfach geht's",
+            "url": "https://bugbounty.gmx.net/",
+            "snippet": "GMX – so einfach geht's\n\nGMX BugBounty\n\n- Regeln\n- Hall of Fame\n\nBug-Bounty GMX Startseite\n\n1. GMX\n2. Bug-Bounty\n3. Regeln\n\n- Deutsch\n- Englisch\n\nDie Sicherheit von Daten, die uns unsere Kunden anvert",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Bypassing GMX Virus Scanning using Conflicting MIME Boundaries",
+            "url": "https://noxxi.de/research/gmx-mime-conflicting-boundary.html",
+            "snippet": "Bypassing GMX Virus Scanning using Conflicting MIME Boundaries\n\n---\n\nJuly 2015\n\nPlease note that republishing this article in full or in part is only allowed under the conditions described here.\n\n# By",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Bypassing GMX Virus Scanning using Conflicting MIME Boundaries",
+            "url": "https://noxxi.de/research/gmx-mime-conflicting-boundary.html",
+            "snippet": "Bypassing GMX Virus Scanning using Conflicting MIME Boundaries\n\n---\n\nJuly 2015\n\nPlease note that republishing this article in full or in part is only allowed under the conditions described here.\n\n# By",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Full Disclosure: gmx.de /webmail  xss vuln",
+            "url": "https://seclists.org/fulldisclosure/2007/Jan/101",
+            "snippet": "Full Disclosure: gmx.de /webmail xss vuln \n\n \n\n## Full Disclosure mailing list archives\n\n \n\nBy Date\n\nBy Thread\n\n \n\n# gmx.de /webmail xss vuln\n\n---\n\n From: commander_keen () gmx de Date: Thu, 04 Jan 20",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Rekt - <!-- -->GMX - Rekt",
+            "url": "https://www.rekt.news/gmx-rekt",
+            "snippet": "Rekt - GMX - Rekt\n\nSometimes the oldest vulnerabilities cut the deepest.\n\n$42 million vanished from GMX V1 on July 9th when someone remembered that reentrancy guards actually matter.\n\nTwo years of pro",
+            "published": "2026-02-04T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "geniuszly/GenVMNSXDeserExec",
+            "url": "https://github.com/geniuszly/genvmnsxdeserexec",
+            "snippet": "# Repository: geniuszly/GenVMNSXDeserExec\n\nis a PoC exploit targeting the XStream deserialization vulnerability in VMware NSX Manager\n\n- Stars: 8\n- Forks: 2\n- Watchers: 8\n- Open issues: 0\n- Primary la",
+            "published": "2024-10-03T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "ShadowTheBan/gmx-account-generator",
+            "url": "https://github.com/ShadowTheBan/gmx-account-generator",
+            "snippet": "# Repository: ShadowTheBan/gmx-account-generator\n\nFresh generated GMX.com, GMX.us, GMX.fr, GMX.co.uk Accounts\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Primary language: Python\n- Languag",
+            "published": "2025-05-24T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "bartfroklage/CVE-2024-37383-POC",
+            "url": "https://github.com/bartfroklage/CVE-2024-37383-POC",
+            "snippet": "# Repository: bartfroklage/CVE-2024-37383-POC\n\nProof of concept for CVE-2024-37383\n\n- Stars: 5\n- Forks: 1\n- Watchers: 5\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (79.4%), Shell (",
+            "published": "2024-10-24T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Rekt - <!-- -->GMX - Rekt",
+            "url": "https://www.rekt.news/gmx-rekt",
+            "snippet": "Rekt - GMX - Rekt\n\nSometimes the oldest vulnerabilities cut the deepest.\n\n$42 million vanished from GMX V1 on July 9th when someone remembered that reentrancy guards actually matter.\n\nTwo years of pro",
+            "published": "2026-02-04T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Inside the GMX Exploit: When Modular Design Becomes an Attack Surface | by Olympix | Medium",
+            "url": "https://olympixai.medium.com/inside-the-gmx-exploit-when-modular-design-becomes-an-attack-surface-9a31baedd7b1",
+            "snippet": "Inside the GMX Exploit: When Modular Design Becomes an Attack Surface | by Olympix | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Inside the",
+            "published": "2025-07-24T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "GMX V1 Hack analysis:. Overview: | by Kushagra Raghuwanshi | Medium",
+            "url": "https://medium.com/@kushagra_Raghuwanshi/gmx-v1-hack-analysis-577d880eb46c",
+            "snippet": "GMX V1 Hack analysis:. Overview: | by Kushagra Raghuwanshi | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# GMX V1 Hack analysis:\n\nKushagra Ra",
+            "published": "2025-08-05T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:52:56.891Z"
+      },
+      "timestamp": "2026-03-29T01:52:57.873Z"
+    },
+    "olympus": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Global Product Security (Report a Product Vulnerability) : OLYMPUS",
+            "url": "https://www.olympus-global.com/products/productsecurity/report.html",
+            "snippet": "Global Product Security (Report a Product Vulnerability) : OLYMPUS \n\n \n\n \n\n# Global Product Security\n\n- Product Security Policies and other Product Security information\n- Report a Product Vulnerabilit",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Olympus Response to Apache Log4j Vulnerability (CVE-2021-44228) : OLYMPUS",
+            "url": "https://www.olympus-global.com/products/productsecurity/sa20220215/",
+            "snippet": "Olympus Response to Apache Log4j Vulnerability (CVE-2021-44228) : OLYMPUS\n\n# Olympus Response to Apache Log4j Vulnerability (CVE-2021-44228)\n\nOriginal Release Date: February 15, 2022\n\nOn December 9, 2",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Product Security | Olympus",
+            "url": "http://olympus.co.uk/medical/en/Contact-and-support/Product-Security.html",
+            "snippet": "Product Security | Olympus\n\n# Product Security\n\nOlympus’s Commitment to Product Security\n\nHealthcare industry stakeholders are collectively responsible for ensuring the security of medical devices and",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "WordPress Plugin: olympus-google-fonts: CVE-2024-43302: Missing Authorization",
+            "url": "https://rapid7.com/db/vulnerabilities/olympus-google-fonts-plugin-cve-2024-43302",
+            "snippet": "Rapid7 Vulnerability Database\nRapid7\nvulnerability\n# WordPress Plugin: olympus-google-fonts: CVE-2024-43302: Missing Authorization\nTry Surface Command\nBack to search\n|Severity|CVSS|Published|Added|Mod",
+            "published": "2025-09-10T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "WordPress Plugin: olympus-google-fonts: CVE-2024-43301: Cross-Site Request Forgery (CSRF)",
+            "url": "https://rapid7.com/db/vulnerabilities/olympus-google-fonts-plugin-cve-2024-43301",
+            "snippet": "Rapid7 Vulnerability Database\nRapid7\nvulnerability\n# WordPress Plugin: olympus-google-fonts: CVE-2024-43301: Cross-Site Request Forgery (CSRF)\nTry Surface Command\nBack to search\n|Severity|CVSS|Publish",
+            "published": "2025-09-10T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Olympus Response to Apache Log4j Vulnerability (CVE-2021-44228) : OLYMPUS",
+            "url": "https://www.olympus-global.com/products/productsecurity/sa20220215/",
+            "snippet": "Olympus Response to Apache Log4j Vulnerability (CVE-2021-44228) : OLYMPUS\n\n# Olympus Response to Apache Log4j Vulnerability (CVE-2021-44228)\n\nOriginal Release Date: February 15, 2022\n\nOn December 9, 2",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "GitHub - 0vercl0k/paracosme: Paracosme is a zero-click remote memory corruption exploit that compromises ICONICS Genesis64 which was demonstrated successfully on stage during the Pwn2Own Miami 2022 competition.",
+            "url": "https://github.com/0vercl0k/paracosme",
+            "snippet": "GitHub - 0vercl0k/paracosme: Paracosme is a zero-click remote memory corruption exploit that compromises ICONICS Genesis64 which was demonstrated successfully on stage during the Pwn2Own Miami 2022 co",
+            "published": "2021-12-31T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "ZeusBox/CVE-2021-21017",
+            "url": "https://github.com/ZeusBox/CVE-2021-21017",
+            "snippet": "# Repository: ZeusBox/CVE-2021-21017\n\n- Stars: 43\n- Forks: 12\n- Watchers: 43\n- Open issues: 1\n- Primary language: JavaScript\n- Languages: JavaScript\n- Default branch: main\n- Created: 2021-02-26T14:18:",
+            "published": "2021-02-26T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "GitHub - cerealwithmilk/olympia: i love doing leaks against people :3",
+            "url": "https://github.com/cerealwithmilk/olympia",
+            "snippet": "GitHub - cerealwithmilk/olympia: i love doing leaks against people :3\nSkip to content\n## Navigation Menu\nToggle navigation\n\n\n\nSign in\n\nSearch or jump to...\n# Search code, repositories, users, issues, ",
+            "published": "2024-01-13T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2022-08-olympus",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionOlympus DAO contest\n\n \n\n# Olympus DAO contest Findings & Analysis Report\n\n#### 2022-10-26\n\n## Table of contents\n\nOverview\n\n- About C4\n- Wardens\n",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Resupply Exploit Post-Mortem: How $9.56M Was Stolen in 90 Minutes | by Olympix | Medium",
+            "url": "https://olympixai.medium.com/resupply-exploit-post-mortem-how-9-56m-was-stolen-in-90-minutes-75eced577077",
+            "snippet": "Resupply Exploit Post-Mortem: How $9.56M Was Stolen in 90 Minutes | by Olympix | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Resupply Explo",
+            "published": "2025-11-19T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Olympus DAO contest Audit | Code4rena",
+            "url": "https://code4rena.com/audits/2022-08-olympus-dao-contest",
+            "snippet": "Olympus DAO contest Audit | Code4rena\n\nCompleted\n\n# Olympus DAO contest\n\nVersion 3 of Olympus protocol, a decentralized floating currency.\n\nView repo View report\n\n- Duration7 days\n- Total awards$75,00",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:52:57.873Z"
+      },
+      "timestamp": "2026-03-29T01:52:58.860Z"
+    },
+    "opensea": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2022-05-opensea-seaport/",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionOpenSea Seaport contest\n\n# OpenSea Seaport contest Findings & Analysis Report\n\n#### 2022-08-30\n\n## Table of contents\n\nOverview\n\n- About C4\n- War",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Deanonymizing OpenSea NFT Owners via Cross-Site Search Vulnerability | Imperva",
+            "url": "https://www.imperva.com/blog/deanonymizing-opensea-nft-owners-via-xs-leaks-vulnerability/",
+            "snippet": "Deanonymizing OpenSea NFT Owners via Cross-Site Search Vulnerability | Imperva \n\n \n\nHome> Blog> Deanonymizing OpenSea NFT Owners via Cross-Site Search Vulnerability\n\nRon Masas\n\n \n\n \n\n \n\n# Deanonymizin",
+            "published": "2023-03-09T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Reentrancy Vulnerability in `_performFinalChecksAndExecuteOrders` function · Issue #33 · code-423n4/2023-01-opensea-findings",
+            "url": "https://github.com/code-423n4/2023-01-opensea-findings/issues/33",
+            "snippet": "# Issue: code-423n4/2023-01-opensea-findings #33\n\n- Repository: code-423n4/2023-01-opensea-findings | 0 stars\n\n## Reentrancy Vulnerability in `_performFinalChecksAndExecuteOrders` function\n\n- Author: ",
+            "published": "2023-01-21T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "OpenSea Zero-Day Exploit Chain Targets Seaport Protocol and NFT Assets",
+            "url": "https://www.varutra.com/ctp/threatpost/postDetails/OpenSea-Zero-Day-Exploit-Chain-Targets-Seaport-Protocol-and-NFT-Assets/NWlMQ3VsWDh5L083Z3FhRnJHSDBPUT09",
+            "snippet": "-- OpenSea Zero-Day Exploit Chain Targets Seaport Protocol and NFT Assets\n\nFCC Ban on Foreign-Made Routers Over Cybersecurity and Supply Chain Risks *\n\nAI-Driven GitHub Campaign Uses Trojanized OpenCl",
+            "published": "2026-02-16T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Threat actor Allegedly Selling Critical Severity OpenSea 0-day Exploit Chain on Hacking Forums",
+            "url": "https://cybersecuritynews.com/opensea-0-day-exploit-chain/amp/",
+            "snippet": "Threat actor Allegedly Selling Critical Severity OpenSea 0-day Exploit Chain on Hacking Forums\n\nCyber Security News\n\n# Threat Actor Allegedly Selling Critical Severity OpenSea 0-day Exploit Chain on H",
+            "published": "2026-02-14T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Threat actor Allegedly Selling Critical Severity OpenSea 0-day Exploit Chain on Hacking Forums",
+            "url": "https://cybersecuritynews.com/opensea-0-day-exploit-chain/",
+            "snippet": "Threat actor Allegedly Selling Critical Severity OpenSea 0-day Exploit Chain on Hacking Forums \n\n \n\n \n\nLinkedin Naver RSS Twitter\n\n \n\n \n\n- Home\n- Threats\n- Cyber Attacks\n- Vulnerabilities\n- Breaches\n-",
+            "published": "2026-02-14T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "fulldecent/opensea-shared-storefront-backdoor",
+            "url": "https://github.com/fulldecent/opensea-shared-storefront-backdoor",
+            "snippet": "# Repository: fulldecent/opensea-shared-storefront-backdoor\n\nDemonstration of a backdoor in OpenSea Shared Storefront\n\n- Stars: 31\n- Forks: 3\n- Watchers: 31\n- Open issues: 0\n- Primary language: JavaSc",
+            "published": "2022-11-04T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Reentrancy Vulnerability in `_performFinalChecksAndExecuteOrders` function · Issue #33 · code-423n4/2023-01-opensea-findings",
+            "url": "https://github.com/code-423n4/2023-01-opensea-findings/issues/33",
+            "snippet": "# Issue: code-423n4/2023-01-opensea-findings #33\n\n- Repository: code-423n4/2023-01-opensea-findings | 0 stars\n\n## Reentrancy Vulnerability in `_performFinalChecksAndExecuteOrders` function\n\n- Author: ",
+            "published": "2023-01-21T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "`_aggregateValidFulfillmentOfferItems()` can be tricked to accept invalid inputs · Issue #75 · code-423n4/2022-05-opensea-seaport-findings",
+            "url": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/75",
+            "snippet": "# Issue: code-423n4/2022-05-opensea-seaport-findings #75\n\n- Repository: code-423n4/2022-05-opensea-seaport-findings | 1 stars\n\n## `_aggregateValidFulfillmentOfferItems()` can be tricked to accept inva",
+            "published": "2022-06-02T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2023-01-opensea",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionOpenSea Seaport 1.2 contest\n\n# OpenSea Seaport 1.2 contest Findings & Analysis Report\n\n#### 2023-03-21\n\n## Table of contents\n\nOverview\n\n- Warden",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2022-05-opensea-seaport/",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionOpenSea Seaport contest\n\n# OpenSea Seaport contest Findings & Analysis Report\n\n#### 2022-08-30\n\n## Table of contents\n\nOverview\n\n- About C4\n- War",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "OpenSea Seaport 1.2 contest Audit | Code4rena",
+            "url": "https://code4rena.com/audits/2023-01-opensea-seaport-12-contest",
+            "snippet": "OpenSea Seaport 1.2 contest Audit | Code4rena\n\nCompleted\n\n# OpenSea Seaport 1.2 contest\n\nA marketplace protocol for safely and efficiently buying and selling NFTs.\n\nView repo View report\n\n- Duration10",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:52:58.860Z"
+      },
+      "timestamp": "2026-03-29T01:52:59.878Z"
+    },
+    "ethena": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Ethena Labs Invitational Audit | Code4rena",
+            "url": "https://code4rena.com/audits/2024-11-ethena-labs-invitational",
+            "snippet": "Ethena Labs Invitational Audit | Code4rena\n\n \n\nCompleted\n\n# Ethena Labs Invitational\n\nEnabling The Internet Bond.\n\nView report\n\n- Start date4 Nov 2024\n- End date11 Nov 2024\n- Total awards$20,000 in US",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2023-10-ethena",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionEthena Labs\n\n \n\n# Ethena Labs Findings & Analysis Report\n\n#### 2023-12-21\n\n## Table of contents\n\nOverview\n\n- About C4\n- Wardens\n\nMedium Risk Fin",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Ethena Labs Audit | Code4rena",
+            "url": "https://code4rena.com/audits/2023-10-ethena-labs",
+            "snippet": "Ethena Labs Audit | Code4rena\n\n# Ethena Labs\n\nEnabling The Internet Bond\n\nView repo View report\n\n- Duration6 days\n- Total awards$36,500 USDC\n- End date30 Oct 2023\n- Start date24 Oct 2023\n\n- Details\n- ",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Ethena Labs Invitational Audit | Code4rena",
+            "url": "https://code4rena.com/audits/2024-11-ethena-labs-invitational",
+            "snippet": "Ethena Labs Invitational Audit | Code4rena\n\n \n\nCompleted\n\n# Ethena Labs Invitational\n\nEnabling The Internet Bond.\n\nView report\n\n- Start date4 Nov 2024\n- End date11 Nov 2024\n- Total awards$20,000 in US",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Ethena $ENA Token Audit by Veritas Protocol",
+            "url": "https://www.veritasprotocol.com/audits/ethena-ena-audit",
+            "snippet": "Ethena $ENA Token Audit by Veritas Protocol \n\nScroll\n\n[\n\n# Ethena $ENA\n\n]\n\n## Ethena (Ethereum Mainnet)\n\n0x57e114b691db790c35207b2e685d4a43181e6061\n\nSecurity Score:\n\nAVERAGE\n\nThe score is calculated b",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "What are the security risks and smart contract vulnerabilities in Ethena and ENA crypto?",
+            "url": "https://web3.gate.com/crypto-wiki/article/what-are-the-security-risks-and-smart-contract-vulnerabilities-in-ethena-and-ena-crypto-20260130",
+            "snippet": "What are the security risks and smart contract vulnerabilities in Ethena and ENA crypto?\n\nCrypto Wiki\n\nWhat are the security risks and smart contract vulnerabilities in Ethena and ENA crypto?\n\n# What ",
+            "published": "2026-01-30T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "code-423n4/2023-10-ethena-findings",
+            "url": "https://github.com/code-423n4/2023-10-ethena-findings",
+            "snippet": "# Repository: code-423n4/2023-10-ethena-findings\n\n- Stars: 5\n- Forks: 3\n- Watchers: 5\n- Open issues: 171\n- Default branch: main\n- Created: 2023-10-19T15:13:02Z\n- Last push: 2023-12-21T20:57:55Z\n- Cont",
+            "published": "2023-10-19T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Nice Carbon Squid - Users will lose funds during Ethena withdrawals when cooldown duration is zero · Issue #179 · sherlock-audit/2025-06-notional-exponent-judging",
+            "url": "https://github.com/sherlock-audit/2025-06-notional-exponent-judging/issues/179",
+            "snippet": "# Issue: sherlock-audit/2025-06-notional-exponent-judging #179\n\n- Repository: sherlock-audit/2025-06-notional-exponent-judging | 0 stars | Python\n\n## Nice Carbon Squid - Users will lose funds during E",
+            "published": "2025-07-18T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "ironblocks/ethena-smart-contracts",
+            "url": "https://github.com/ironblocks/ethena-smart-contracts",
+            "snippet": "# Repository: ironblocks/ethena-smart-contracts (fork of ethena-labs/bbp-public-assets)\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Solidity\n- Languages: Solidity (99.4%)",
+            "published": "2024-11-04T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Ethena Labs Invitational Audit | Code4rena",
+            "url": "https://code4rena.com/audits/2024-11-ethena-labs-invitational",
+            "snippet": "Ethena Labs Invitational Audit | Code4rena\n\n \n\nCompleted\n\n# Ethena Labs Invitational\n\nEnabling The Internet Bond.\n\nView report\n\n- Start date4 Nov 2024\n- End date11 Nov 2024\n- Total awards$20,000 in US",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2023-10-ethena",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionEthena Labs\n\n \n\n# Ethena Labs Findings & Analysis Report\n\n#### 2023-12-21\n\n## Table of contents\n\nOverview\n\n- About C4\n- Wardens\n\nMedium Risk Fin",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Ethena Labs Audit | Code4rena",
+            "url": "https://code4rena.com/audits/2023-10-ethena-labs",
+            "snippet": "Ethena Labs Audit | Code4rena\n\n# Ethena Labs\n\nEnabling The Internet Bond\n\nView repo View report\n\n- Duration6 days\n- Total awards$36,500 USDC\n- End date30 Oct 2023\n- Start date24 Oct 2023\n\n- Details\n- ",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:52:59.878Z"
+      },
+      "timestamp": "2026-03-29T01:53:00.869Z"
+    },
+    "hyperlane": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Protect against underflow in relayer · Pull Request #1508 · hyperlane-xyz/hyperlane-monorepo",
+            "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/1508",
+            "snippet": "# Pull Request: hyperlane-xyz/hyperlane-monorepo #1508\n\n- Repository: hyperlane-xyz/hyperlane-monorepo | The home for Hyperlane core contracts, sdk packages, and other infrastructure | 50 stars | Type",
+            "published": "2023-01-04T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Hyperlane Bug Bounties | Immunefi",
+            "url": "https://immunefi.com/bug-bounty/hyperlane/information/",
+            "snippet": "Hyperlane Bug Bounties | Immunefi\n\nBack to Explore\n\n# Hyperlane\n\nHyperlane is the modular interoperability platform, empowering developers to build interchain applications, apps that can easily and se",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "fix: add replay protection to `AbstractMessageIdAuthHook` and `AbstractMessageIdAuthorizedIsm` · Pull Request #4476 · hyperlane-xyz/hyperlane-monorepo",
+            "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/4476",
+            "snippet": "# Pull Request: hyperlane-xyz/hyperlane-monorepo #4476\n\n- Repository: hyperlane-xyz/hyperlane-monorepo | The home for Hyperlane core contracts, sdk packages, and other infrastructure | 50 stars | Type",
+            "published": "2024-09-11T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Hyperlane: Permissionless Bridge Security Prevents $3.5B+ Exploits",
+            "url": "https://hyprelane.com/",
+            "snippet": "Hyperlane: Modular Bridge Security Prevents $3.5B+ Exploits\n# Hyperlane: Permissionless Bridge Security Prevents $3.5B+ Exploits\nThe blockchain ecosystem has lost over**$3.5 billion**frombridge exploi",
+            "published": "2025-09-01T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "fix: add replay protection to `AbstractMessageIdAuthHook` and `AbstractMessageIdAuthorizedIsm` · Pull Request #4476 · hyperlane-xyz/hyperlane-monorepo",
+            "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/4476",
+            "snippet": "# Pull Request: hyperlane-xyz/hyperlane-monorepo #4476\n\n- Repository: hyperlane-xyz/hyperlane-monorepo | The home for Hyperlane core contracts, sdk packages, and other infrastructure | 50 stars | Type",
+            "published": "2024-09-11T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "fix: CCIP messages should not be DoSable · Pull Request #5448 · hyperlane-xyz/hyperlane-monorepo",
+            "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/5448",
+            "snippet": "# Pull Request: hyperlane-xyz/hyperlane-monorepo #5448\n\n- Repository: hyperlane-xyz/hyperlane-monorepo | The home for Hyperlane core contracts, sdk packages, and other infrastructure | 49 stars | Type",
+            "published": "2025-02-12T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "fix: add replay protection to `AbstractMessageIdAuthHook` and `AbstractMessageIdAuthorizedIsm` · Pull Request #4476 · hyperlane-xyz/hyperlane-monorepo",
+            "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/4476",
+            "snippet": "# Pull Request: hyperlane-xyz/hyperlane-monorepo #4476\n\n- Repository: hyperlane-xyz/hyperlane-monorepo | The home for Hyperlane core contracts, sdk packages, and other infrastructure | 50 stars | Type",
+            "published": "2024-09-11T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "fix: CCIP messages should not be DoSable · Pull Request #5448 · hyperlane-xyz/hyperlane-monorepo",
+            "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/5448",
+            "snippet": "# Pull Request: hyperlane-xyz/hyperlane-monorepo #5448\n\n- Repository: hyperlane-xyz/hyperlane-monorepo | The home for Hyperlane core contracts, sdk packages, and other infrastructure | 49 stars | Type",
+            "published": "2025-02-12T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "feat(contract): implement `FraudProofRouter` · Pull Request #4927 · hyperlane-xyz/hyperlane-monorepo",
+            "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/4927",
+            "snippet": "# Pull Request: hyperlane-xyz/hyperlane-monorepo #4927\n\n- Repository: hyperlane-xyz/hyperlane-monorepo | The home for Hyperlane core contracts, sdk packages, and other infrastructure | 50 stars | Type",
+            "published": "2024-12-02T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "HYPERLIQUID (HYPE)| Critical Infrastructure Risk Assessment Subtitle | Independent Technical Report February 2026 | by Mefai | Feb, 2026 | Medium",
+            "url": "https://medium.com/@mefai/hyperliquid-hype-critical-infrastructure-risk-assessment-subtitle-independent-technical-report-4ce3516f3df7",
+            "snippet": "HYPERLIQUID (HYPE)| Critical Infrastructure Risk Assessment Subtitle | Independent Technical Report February 2026 | by Mefai | Feb, 2026 | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\n",
+            "published": "2026-02-01T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Introducing Hyperlane V2. The permissionless and modular future… | by Nosleepjon | Hyperlane | Medium",
+            "url": "https://medium.com/hyperlane/introducing-hyperlane-v2-ecaeca0b8b1",
+            "snippet": "Introducing Hyperlane V2. The permissionless and modular future… | by Nosleepjon | Hyperlane | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n##",
+            "published": "2024-01-05T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2025-06-panoptic-hypovault",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionPanoptic Hypovault\n\n# Panoptic Hypovault Findings & Analysis Report\n\n#### 2025-08-13\n\n## Table of contents\n\nOverview\n\n- About C4\n\nHigh Risk Find",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:53:00.869Z"
+      },
+      "timestamp": "2026-03-29T01:53:01.857Z"
     }
   },
-  "lastRun": "2026-03-29T01:13:15.712Z"
+  "lastRun": "2026-03-29T01:53:01.857Z"
 }
