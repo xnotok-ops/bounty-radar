@@ -1,5 +1,5 @@
 /**
- * Bounty Radar v3.1 - With Intel Tab
+ * Bounty Radar v3.2 - With Intel Tab
  * Sources:
  * - Exa API: https://exa.ai
  * - Agent-Reach: https://github.com/Panniantong/Agent-Reach
@@ -39,7 +39,7 @@ function buildHtml() {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bounty Radar v3.1</title>
+<title>Bounty Radar v3.2</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:system-ui,sans-serif;background:#0a0f1a;color:#e2e8f0;min-height:100vh}
@@ -116,7 +116,7 @@ a{color:#fbbf24;text-decoration:none}a:hover{text-decoration:underline}
 </head>
 <body>
 <div class="header">
-<h1>🔍 Bounty Radar v3.1</h1>
+<h1>🔍 Bounty Radar v3.2</h1>
 <p>Interactive bug bounty research — click any item to expand details and access source links</p>
 <p style="font-size:10px;color:#334155;margin-top:4px">Updated: ${updatedAt}</p>
 <div class="stats">
