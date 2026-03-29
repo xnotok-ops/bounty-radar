@@ -1,40 +1,28 @@
-# Bounty Radar v3.1 - Daily Scan Workflow
-# 
-# Runs at 08:00 WIB (01:00 UTC) daily
-# 
-# Required Secrets:
-# - GITHUB_TOKEN (auto-provided)
-# - TELEGRAM_BOT_TOKEN
-# - TELEGRAM_CHAT_ID
-# - EXA_API_KEY (optional, free at https://exa.ai)
-# - SOLODIT_API_KEY (optional)
-
 name: Daily Bounty Scan
 
 on:
   schedule:
-    # 08:00 WIB = 01:00 UTC
-    - cron: '0 1 * * *'
+    - cron: "0 1 * * *"
   workflow_dispatch:
-    inputs:
-      skip_telegram:
-        description: 'Skip Telegram notification'
-        required: false
-        default: 'false'
-        type: boolean
+
+permissions:
+  contents: write
 
 jobs:
   scan:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Install dependencies
         run: npm install
@@ -52,9 +40,12 @@ jobs:
         run: node src/build-ui.js
 
       - name: Commit and push data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --staged --quiet || git commit -m "📊 Daily bounty scan $(date +'%Y-%m-%d')"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git add data/ docs/
+          git diff --staged --quiet || git commit -m "🔍 Daily bounty scan $(date -u +%Y-%m-%d)"
           git push
