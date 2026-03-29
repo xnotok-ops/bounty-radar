@@ -1,0 +1,60 @@
+# Bounty Radar v3.1 - Daily Scan Workflow
+# 
+# Runs at 08:00 WIB (01:00 UTC) daily
+# 
+# Required Secrets:
+# - GITHUB_TOKEN (auto-provided)
+# - TELEGRAM_BOT_TOKEN
+# - TELEGRAM_CHAT_ID
+# - EXA_API_KEY (optional, free at https://exa.ai)
+# - SOLODIT_API_KEY (optional)
+
+name: Daily Bounty Scan
+
+on:
+  schedule:
+    # 08:00 WIB = 01:00 UTC
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      skip_telegram:
+        description: 'Skip Telegram notification'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run bounty scan
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          SOLODIT_API_KEY: ${{ secrets.SOLODIT_API_KEY }}
+        run: node src/index.js
+
+      - name: Build UI
+        run: node src/build-ui.js
+
+      - name: Commit and push data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "📊 Daily bounty scan $(date +'%Y-%m-%d')"
+          git push

@@ -1,6 +1,16 @@
 /**
- * Bounty Radar v3 - Main Entry Point
+ * Bounty Radar v3.1 - Main Entry Point
  * Bug bounty research tool with CVE hunting, exploits, audit findings, vuln patterns
+ * 
+ * NEW in v3.1: Exa Intel Enrichment
+ * - Writeups related to each program
+ * - Twitter mentions from security researchers
+ * - GitHub PoCs
+ * - DeFi audit findings
+ * 
+ * Sources:
+ * - Exa Search API: https://exa.ai (free 1,000/month)
+ * - Inspired by: https://github.com/Panniantong/Agent-Reach
  */
 
 const fs = require("fs");
@@ -12,14 +22,16 @@ const { fetchH1Programs } = require("./fetch-h1-programs");
 const { fetchCVEHuntingFeed } = require("./fetch-cve-hunting");
 const { fetchDeFiHackLabsExploits } = require("./fetch-defihacklabs");
 const { fetchSoloditFindings } = require("./fetch-solodit");
+const { enrichWithExa } = require("./enrich-with-exa");
 const { sendTelegram } = require("./telegram");
 
 async function main() {
-  console.log("🔐 Bounty Radar v3 — Starting daily scan...\n");
+  console.log("🔍 Bounty Radar v3.1 — Starting daily scan...\n");
   const startTime = Date.now();
 
   const token = process.env.GITHUB_TOKEN || null;
   const soloditKey = process.env.SOLODIT_API_KEY || null;
+  const exaKey = process.env.EXA_API_KEY || null;
 
   // 1. Fetch HackerOne disclosed reports
   console.log("📋 Fetching HackerOne disclosed reports...");
@@ -53,15 +65,15 @@ async function main() {
   console.log("\n🎯 Fetching CVE Hunting Feed...");
   const cveHunting = await fetchCVEHuntingFeed(allPrograms, 7);
 
-  // 8. Fetch DeFiHackLabs Exploits (NEW)
+  // 8. Fetch DeFiHackLabs Exploits
   console.log("\n💀 Fetching DeFiHackLabs exploits...");
   const exploits = await fetchDeFiHackLabsExploits();
 
-  // 9. Fetch Solodit Audit Findings (NEW)
-  console.log("\n📚 Fetching Solodit audit findings...");
+  // 9. Fetch Solodit Audit Findings
+  console.log("\n📖 Fetching Solodit audit findings...");
   const auditFindings = await fetchSoloditFindings(soloditKey, 3);
 
-  // 10. Load Vulnerability Patterns (NEW)
+  // 10. Load Vulnerability Patterns
   const patternsPath = path.join(__dirname, "..", "data", "vuln-patterns.json");
   let vulnPatterns = { patterns: [] };
   if (fs.existsSync(patternsPath)) {
@@ -69,12 +81,18 @@ async function main() {
     console.log(`\n📋 Loaded ${vulnPatterns.patterns.length} vulnerability patterns`);
   }
 
-  // 11. Save data
+  // ============================================
+  // 11. NEW: Exa Intel Enrichment
+  // ============================================
+  console.log("\n🔍 Running Exa Intel Enrichment...");
+  const exaResults = await enrichWithExa(allPrograms, exaKey);
+
+  // 12. Save data
   const dataDir = path.join(__dirname, "..", "data");
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
 
   const data = {
-    version: 3,
+    version: "3.1",
     updated_at: new Date().toISOString(),
     hackerone: {
       total: h1Reports.length,
@@ -108,6 +126,13 @@ async function main() {
       total: vulnPatterns.patterns?.length || 0,
       data: vulnPatterns.patterns || [],
     },
+    // NEW: Exa Intel
+    intel: {
+      total_enriched: exaResults.enriched,
+      total_cached: exaResults.skipped,
+      last_updated: new Date().toISOString(),
+      programs: exaResults.intel || {},
+    },
     all_programs: {
       total: allPrograms.length,
       active: allPrograms.filter(p => p.status === "active").length,
@@ -121,7 +146,7 @@ async function main() {
   fs.writeFileSync(dataPath, JSON.stringify(data, null, 2), "utf-8");
   console.log(`\n💾 Data saved: ${dataPath}`);
 
-  // 12. Stats
+  // 13. Stats
   const stats = {
     h1Reports: h1Reports.length,
     h1Programs: h1Programs.stats,
@@ -133,6 +158,9 @@ async function main() {
     exploitLoss: exploits.stats?.total_loss_usd || 0,
     auditFindings: auditFindings.findings?.length || 0,
     vulnPatterns: vulnPatterns.patterns?.length || 0,
+    // NEW
+    intelEnriched: exaResults.enriched,
+    intelCached: exaResults.skipped,
     topPaid: h1Reports.filter(r => r.bounty > 0).sort((a, b) => b.bounty - a.bounty).slice(0, 5),
     topImmunefi: immunefiPrograms.sort((a, b) => b.max_bounty - a.max_bounty).slice(0, 5),
     topExploits: (exploits.exploits || []).slice(0, 5),
@@ -147,8 +175,9 @@ async function main() {
   console.log(`  DeFiHackLabs: ${stats.exploits} exploits ($${(stats.exploitLoss / 1e9).toFixed(2)}B total loss)`);
   console.log(`  Audit Findings: ${stats.auditFindings}`);
   console.log(`  Vuln Patterns: ${stats.vulnPatterns}`);
+  console.log(`  🔍 Intel Enriched: ${stats.intelEnriched} (Cached: ${stats.intelCached})`);
 
-  // 13. Telegram notification
+  // 14. Telegram notification
   const botToken = process.env.TELEGRAM_BOT_TOKEN;
   const chatId = process.env.TELEGRAM_CHAT_ID;
 
@@ -208,17 +237,23 @@ function mergePrograms(h1Programs, immunefiPrograms, manualPrograms) {
 }
 
 function generateTelegramMsg(stats) {
-  let msg = `🔐 <b>Bounty Radar v3 — Daily Update</b>\n\n`;
+  let msg = `🔍 <b>Bounty Radar v3.1 — Daily Update</b>\n\n`;
 
   msg += `📋 <b>HackerOne:</b> ${stats.h1Reports} reports\n`;
   msg += `🛡️ <b>Immunefi:</b> ${stats.immunefi} programs\n`;
   msg += `🐙 <b>GitHub:</b> ${stats.github} repos\n\n`;
 
-  // New sections
+  // CVE & Exploits
   msg += `🎯 <b>CVE Hunting:</b> ${stats.totalOpportunities} opportunities\n`;
   msg += `💀 <b>Exploits:</b> ${stats.exploits} ($${(stats.exploitLoss / 1e9).toFixed(2)}B loss)\n`;
-  msg += `📚 <b>Audit Findings:</b> ${stats.auditFindings}\n`;
-  msg += `📋 <b>Patterns:</b> ${stats.vulnPatterns}\n\n`;
+  msg += `📖 <b>Audit Findings:</b> ${stats.auditFindings}\n`;
+  msg += `📋 <b>Patterns:</b> ${stats.vulnPatterns}\n`;
+
+  // NEW: Intel stats
+  if (stats.intelEnriched > 0) {
+    msg += `🔍 <b>Intel:</b> ${stats.intelEnriched} enriched\n`;
+  }
+  msg += `\n`;
 
   if (stats.topExploits && stats.topExploits.length > 0) {
     msg += `💀 <b>Recent Exploits:</b>\n`;
@@ -237,7 +272,7 @@ function generateTelegramMsg(stats) {
     msg += `\n`;
   }
 
-  msg += `📄 https://xnotok-ops.github.io/bounty-radar`;
+  msg += `📊 https://xnotok-ops.github.io/bounty-radar`;
   msg += `\n\n<i>by @xnotok</i>`;
   return msg;
 }

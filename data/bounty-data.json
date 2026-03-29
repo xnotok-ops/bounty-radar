@@ -56342,5 +56342,683 @@
         "url": "https://immunefi.com/bug-bounty/polkastarter/"
       }
     ]
+  },
+  "intel": {
+    "total_enriched": 7,
+    "last_updated": "2026-03-29T01:13:15.716Z",
+    "programs": {
+      "layerzero": {
+        "writeups": [
+          {
+            "title": "LayerZero’s Cross-Chain Messaging Vulnerability | by Heuss | Medium",
+            "url": "https://medium.com/%40Heuss/layerzeros-cross-chain-messaging-vulnerability-e5ef48c5ccec",
+            "snippet": "LayerZero’s Cross-Chain Messaging Vulnerability | by Heuss | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# LayerZero’s Cross-Chain Messaging ",
+            "published": "2023-11-09T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Learning by Breaking - A LayerZero Case Study - Part One",
+            "url": "https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-one",
+            "snippet": "-- Learning by Breaking - A LayerZero Case Study - Part One\n\ntop of page\n\nSearch\n\nCross-chain messaging has always fascinated us at Trust Security, so we've jumped on the opportunity when LayerZero an",
+            "published": "2024-02-28T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Blackboxing LayerZero Labs’ off-chain Relayer for 25,000$ | by Blockian | Medium",
+            "url": "https://medium.com/@blockian/blackboxing-layerzero-labs-off-chain-relayer-954aecab0f62",
+            "snippet": "Blackboxing LayerZero Labs’ off-chain Relayer for 25,000$ | by Blockian | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Blackboxing LayerZero",
+            "published": "2023-05-08T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "ZeroValidation - by James Prestwich - Proof of James",
+            "url": "https://prestwich.substack.com/p/zero-validation",
+            "snippet": "ZeroValidation - by James Prestwich - Proof of James\n\n# Proof of James\n\nSubscribeSign in\n\n# ZeroValidation\n\n### Admin Forgery in LayerZero\n\nJames Prestwich\n\nJan 30, 2023\n\n11\n\nShare\n\n### Executive Summ",
+            "published": "2023-01-30T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "BUG: Backdoor Execution possible · Issue #72 · LayerZero-Labs/LayerZero-v2",
+            "url": "https://github.com/LayerZero-Labs/LayerZero-v2/issues/72",
+            "snippet": "# Issue: LayerZero-Labs/LayerZero-v2 #72\n\n- Repository: LayerZero-Labs/LayerZero-v2 | 764 stars | Move\n\n## BUG: Backdoor Execution possible\n\n- Author: @abhi3700\n- State: closed (completed)\n- Created: ",
+            "published": "2024-05-03T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "LayerZero’s Cross-Chain Messaging Vulnerability | by Heuss | Medium",
+            "url": "https://medium.com/@Heuss/layerzeros-cross-chain-messaging-vulnerability-e5ef48c5ccec",
+            "snippet": "LayerZero’s Cross-Chain Messaging Vulnerability | by Heuss | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# LayerZero’s Cross-Chain Messaging ",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "BUG: Backdoor Execution possible · Issue #72 · LayerZero-Labs/LayerZero-v2",
+            "url": "https://github.com/LayerZero-Labs/LayerZero-v2/issues/72",
+            "snippet": "# Issue: LayerZero-Labs/LayerZero-v2 #72\n\n- Repository: LayerZero-Labs/LayerZero-v2 | 764 stars | Move\n\n## BUG: Backdoor Execution possible\n\n- Author: @abhi3700\n- State: closed (completed)\n- Created: ",
+            "published": "2024-05-03T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Example \"exploit\" showing how the Layer Zero multisig can rug StarGate by itself",
+            "url": "https://gist.github.com/trayvox/c8aad4710ef6e3b1ad92cd1680379c49",
+            "snippet": "# Gist: Example \"exploit\" showing how the Layer Zero multisig can rug StarGate by itself\n\n- Author: @trayvox\n- Public gist (1 file)\n- Created: 2022-03-28T23:31:13Z\n- Updated: 2022-07-21T19:49:41Z\n\n## ",
+            "published": "2022-07-21T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Attacker can block LayerZero channel   · Issue #83 · code-423n4/2022-05-velodrome-findings",
+            "url": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/83",
+            "snippet": "# Issue: code-423n4/2022-05-velodrome-findings #83\n\n- Repository: code-423n4/2022-05-velodrome-findings | 0 stars\n\n## Attacker can block LayerZero channel\n\n- Author: @code423n4\n- Association: CONTRIBU",
+            "published": "2022-05-29T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2025-10-layerzero-starknet-endpoint",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionLayerZero: Starknet Endpoint\n\n# LayerZero: Starknet Endpoint Findings & Analysis Report\n\n#### 2026-01-29\n\n## Table of contents\n\nOverview\n\n- Abou",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2025-09-layerzero-endpoint-v2-sui",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionLayerZero Endpoint V2 - Sui\n\n# LayerZero Endpoint V2 - Sui Findings & Analysis Report\n\n#### 2025-11-05\n\n## Table of contents\n\nOverview\n\n- About ",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "LayerZero’s Cross-Chain Messaging Vulnerability | by Heuss | Medium",
+            "url": "https://medium.com/@Heuss/layerzeros-cross-chain-messaging-vulnerability-e5ef48c5ccec",
+            "snippet": "LayerZero’s Cross-Chain Messaging Vulnerability | by Heuss | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# LayerZero’s Cross-Chain Messaging ",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:12:51.619Z"
+      },
+      "stargate": {
+        "writeups": [
+          {
+            "title": "Learning by Breaking - A LayerZero Case Study - Part 2",
+            "url": "https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-2",
+            "snippet": "-- Learning by Breaking - A LayerZero Case Study - Part 2\n\ntop of page\n\nSearch\n\nIn part one we introduced LayerZero, its anatomy and key components, and showed the critical flaw of ULNv1. Be sure to r",
+            "published": "2024-03-01T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Uncontrolled Recursion in stargate | CVE-2023-1370 | Snyk",
+            "url": "https://security.snyk.io/vuln/SNYK-CHAINGUARDLATEST-STARGATE-6591113",
+            "snippet": "Uncontrolled Recursion in stargate | CVE-2023-1370 | Snyk\n\n# Uncontrolled Recursion Affecting stargate package, versions <1.0.79-r2\n\n---\n\n### Severity\n\nRecommended\n\n0.0\n\nhigh\n\n0\n\n10\n\nSnyk's Security T",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2024-43414 - CVE Details, Severity, and Analysis | Strobes VI",
+            "url": "https://strobes.co/vi/cve/CVE-2024-43414",
+            "snippet": "Agentic AI · Pentesting\n\n## Ready for Agentic Automated Testing?\n\nDeploy autonomous AI agents that reason, exploit, and validate complex vulnerability chains — not another scanner, an agentic system t",
+            "published": "2026-03-20T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Uncontrolled Recursion in stargate | CVE-2023-1370 | Snyk",
+            "url": "https://security.snyk.io/vuln/SNYK-CHAINGUARDLATEST-STARGATE-6591113",
+            "snippet": "Uncontrolled Recursion in stargate | CVE-2023-1370 | Snyk\n\n# Uncontrolled Recursion Affecting stargate package, versions <1.0.79-r2\n\n---\n\n### Severity\n\nRecommended\n\n0.0\n\nhigh\n\n0\n\n10\n\nSnyk's Security T",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Pickling the Mailbox: A Deep Dive into CVE-2025-20393 | STAR Labs",
+            "url": "https://starlabs.sg/blog/2026/01-pickling-the-mailbox-a-deep-dive-into-cve-2025-20393/",
+            "snippet": "Pickling the Mailbox: A Deep Dive into CVE-2025-20393 | STAR Labs\n\n## TL;DR\n\nIn December 2025, Cisco published https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sm",
+            "published": "2026-02-05T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "GitHub - 0x3a/stargate: Stargate",
+            "url": "https://github.com/0x3a/stargate",
+            "snippet": "GitHub - 0x3a/stargate: Stargate\nSkip to content\n## Navigation Menu\nToggle navigation\n\n\n\nSign in\n\nSearch or jump to...\n# Search code, repositories, users, issues, pull requests...\n \nSearch\nClear\n\nSear",
+            "published": "2016-02-14T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "GitHub - 0x3a/stargate: Stargate",
+            "url": "https://github.com/0x3a/stargate",
+            "snippet": "GitHub - 0x3a/stargate: Stargate\nSkip to content\n## Navigation Menu\nToggle navigation\n\n\n\nSign in\n\nSearch or jump to...\n# Search code, repositories, users, issues, pull requests...\n \nSearch\nClear\n\nSear",
+            "published": "2016-02-14T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "p3Nt3st3r-sTAr/CVE-2026-20131-POC",
+            "url": "https://github.com/p3Nt3st3r-sTAr/CVE-2026-20131-POC",
+            "snippet": "# Repository: p3Nt3st3r-sTAr/CVE-2026-20131-POC\n\n- Stars: 0\n- Forks: 3\n- Watchers: 0\n- Open issues: 1\n- Primary language: Python\n- Languages: Python (95.4%), Java (4.6%)\n- Default branch: main\n- Creat",
+            "published": "2026-03-06T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Example \"exploit\" showing how the Layer Zero multisig can rug StarGate by itself",
+            "url": "https://gist.github.com/trayvox/c8aad4710ef6e3b1ad92cd1680379c49",
+            "snippet": "# Gist: Example \"exploit\" showing how the Layer Zero multisig can rug StarGate by itself\n\n- Author: @trayvox\n- Public gist (1 file)\n- Created: 2022-03-28T23:31:13Z\n- Updated: 2022-07-21T19:49:41Z\n\n## ",
+            "published": "2022-07-21T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2025-01-next-generation",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionNext Generation\n\n \n\n# Next Generation Findings & Analysis Report\n\n#### 2025-05-12\n\n## Table of contents\n\nOverview\n\n- About C4\n\nSummary\n\n- Truste",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2025-03-starknet-perpetual",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionStarknet Perpetual\n\n \n\n# Starknet Perpetual Findings & Analysis Report\n\n#### 2025-06-18\n\n## Table of contents\n\nOverview\n\n- About C4\n\nHigh Risk F",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Cobo Blockchain Security Team’s take on the vulnerability in Stargate’s underlying protocol LayerZero | by Cobo Global | Medium",
+            "url": "https://medium.com/@Cobo_Global/cobo-blockchain-security-teams-take-on-the-vulnerability-in-stargate-s-underlying-protocol-b993d36ffdb6",
+            "snippet": "Cobo Blockchain Security Team’s take on the vulnerability in Stargate’s underlying protocol LayerZero | by Cobo Global | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSe",
+            "published": "2022-03-29T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:12:55.539Z"
+      },
+      "reserve": {
+        "writeups": [
+          {
+            "title": "Deprecating Yield DTF Batch Auctions: EasyAuction.sol Division-by-Zero | Reserve",
+            "url": "https://blog.reserve.org/deprecating-yield-dtf-batch-auctions-easyauction-sol-division-by-zero-85fd10212c97",
+            "snippet": "Deprecating Yield DTF Batch Auctions: EasyAuction.sol Division-by-Zero | Reserve\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n## Reserve\n\nFollow publ",
+            "published": "2026-02-26T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2024-07-reserve",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionReserve Core\n\n# Reserve Core Findings & Analysis Report\n\n#### 2024-10-03\n\n## Table of contents\n\nOverview\n\n- About C4\n- Wardens\n\nMedium Risk Find",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2023-06-reserve",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionReserve Protocol - Invitational\n\n# Reserve Protocol - Invitational Findings & Analysis Report\n\n#### 2023-11-13\n\n## Table of contents\n\nOverview\n\n",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "The Resolv Hack: How One Compromised Key Printed $23 Million",
+            "url": "https://www.recentic.net/the-resolv-hack-how-one-compromised-key-printed-23m/",
+            "snippet": "The Resolv Hack: How One Compromised Key Printed $23 Million \n\nCrime\n\n# The Resolv Hack: How One Compromised Key Printed $23 Million\n\nShare\n\n \n\n \n\nOn March 22, 2026, the Resolv DeFi protocol became th",
+            "published": "2026-03-22T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Reflections on the Resolv Protocol Exploit | Four Pillars",
+            "url": "https://4pillars.io/en/issues/reflections-on-the-resolv-protocol-exploit",
+            "snippet": "Reflections on the Resolv Protocol Exploit | Four Pillars \n\n \n\nReflections on the Resolv Protocol Exploit | Four Pillars\nlogo\nSearch\nFP Research\n\nComment\n\nIssue\n\nArticle\n\nReport\n\n\nFP ValidatedAbout Us",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Deprecating Yield DTF Batch Auctions: EasyAuction.sol Division-by-Zero | Reserve",
+            "url": "https://blog.reserve.org/deprecating-yield-dtf-batch-auctions-easyauction-sol-division-by-zero-85fd10212c97",
+            "snippet": "Deprecating Yield DTF Batch Auctions: EasyAuction.sol Division-by-Zero | Reserve\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n## Reserve\n\nFollow publ",
+            "published": "2026-02-26T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "CVE-2025-55182 React Server Components RCE POC",
+            "url": "https://gist.github.com/maple3142/48bc9393f45e068cf8c90ab865c0f5f3",
+            "snippet": "# Gist: CVE-2025-55182 React Server Components RCE POC\n\n- Author: @maple3142\n- Public gist (2 files)\n- Created: 2025-12-04T21:02:48Z\n- Updated: 2026-03-22T18:14:02Z\n- Forks: 113\n\n## CVE-2025-55182.htt",
+            "published": "2025-12-04T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "MichaelVenturella/CVE-2025-6018-6019-PoC",
+            "url": "https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC",
+            "snippet": "# Repository: MichaelVenturella/CVE-2025-6018-6019-PoC\n\nA Proof of Concept for chaining CVE-2025-6018 (PAM/Polkit Active Session Bypass) and CVE-2025-6019 (libblockdev SUID Mount Flaw) to achieve Loca",
+            "published": "2026-02-09T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "USR_HACK_TRACKER",
+            "url": "https://gist.github.com/andrewhong5297/cace9842972a09c9ea7371da6a3486ab",
+            "snippet": "# Gist: USR_HACK_TRACKER\n\n- Author: @andrewhong5297\n- Public gist (1 file)\n- Created: 2026-03-22T04:53:21Z\n- Updated: 2026-03-26T21:08:04Z\n\n## USR_HACK_TRACKER.md\n\n```md\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "published": "2026-03-22T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2024-07-reserve",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionReserve Core\n\n# Reserve Core Findings & Analysis Report\n\n#### 2024-10-03\n\n## Table of contents\n\nOverview\n\n- About C4\n- Wardens\n\nMedium Risk Find",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2023-06-reserve",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionReserve Protocol - Invitational\n\n# Reserve Protocol - Invitational Findings & Analysis Report\n\n#### 2023-11-13\n\n## Table of contents\n\nOverview\n\n",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Reserve Protocol - Invitational Audit | Code4rena",
+            "url": "https://code4rena.com/audits/2023-07-reserve-protocol-invitational",
+            "snippet": "Reserve Protocol - Invitational Audit | Code4rena\n\n# Reserve Protocol - Invitational\n\nA permissionless platform to launch and govern asset-backed stable currencies.\n\nView report\n\n- Duration10 days\n- T",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:12:59.407Z"
+      },
+      "sky": {
+        "writeups": [
+          {
+            "title": "Full-Blown SSRF to Gain Access to Millions of Users’ Records and Multiple Internal Panels | by Skyer | Medium",
+            "url": "https://medium.com/%40skycer_00/full-blown-ssrf-to-gain-access-to-millions-of-users-records-and-multiple-internal-panels-3719d9b802e9",
+            "snippet": "Full-Blown SSRF to Gain Access to Millions of Users’ Records and Multiple Internal Panels | by Skyer | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSig",
+            "published": "2025-05-20T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Sky - Plain Text Data Transmission (CVE-2018-18908 )",
+            "url": "https://blog.sean-wright.com/sky/",
+            "snippet": "Sky - Plain Text Data Transmission (CVE-2018-18908 )\n\nPlease enter at least 3 characters 0results found\n\nhttps vulnerability certificate tls password dns\n\n# Sky - Plain Text Data Transmission (CVE-201",
+            "published": "2019-01-19T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "2024/01/14 Skyname Incident",
+            "url": "https://darn.blog/2024-01-14-skyname-incident/",
+            "snippet": "2024/01/14 Skyname Incident\n\n# 2024/01/14 Skyname Incident\n\nPosted January 15, 2024\n\nOn January 14, 2024, Skyname experienced an incident where a malicious actor was able to release and re-register us",
+            "published": "2024-01-15T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Skyvern 0.1.85 - Remote Code Execution (RCE) via SSTI - Multiple webapps Exploit",
+            "url": "https://www.exploit-db.com/exploits/52335",
+            "snippet": "Skyvern 0.1.85 - Remote Code Execution (RCE) via SSTI - Multiple webapps Exploit\n\n# Skyvern 0.1.85 - Remote Code Execution (RCE) via SSTI\n\n#### EDB-ID:\n\n###### 52335\n\n#### CVE:\n\n###### 2025-49619\n\n---",
+            "published": "2025-06-15T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "WordPress Plugin: sky-login-redirect: CVE-2022-4974: Missing Authorization",
+            "url": "https://rapid7.com/db/vulnerabilities/sky-login-redirect-plugin-cve-2022-4974",
+            "snippet": "Rapid7 Vulnerability Database\nRapid7\nvulnerability\n# WordPress Plugin: sky-login-redirect: CVE-2022-4974: Missing Authorization\nTry Surface Command\nBack to search\n|Severity|CVSS|Published|Added|Modifi",
+            "published": "2025-09-10T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "2024/01/14 Skyname Incident",
+            "url": "https://darn.blog/2024-01-14-skyname-incident/",
+            "snippet": "2024/01/14 Skyname Incident\n\n# 2024/01/14 Skyname Incident\n\nPosted January 15, 2024\n\nOn January 14, 2024, Skyname experienced an incident where a malicious actor was able to release and re-register us",
+            "published": "2024-01-15T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "cristibtz/CVE-2025-49619",
+            "url": "https://github.com/cristibtz/CVE-2025-49619",
+            "snippet": "# Repository: cristibtz/CVE-2025-49619\n\nThis script exploits CVE-2025-49619 in Skyvern to execute a reverse shell command.\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Primary language: Pyt",
+            "published": "2025-06-09T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "SkyGodling/exploit-cve-2024-47575",
+            "url": "https://github.com/SkyGodling/exploit-cve-2024-47575",
+            "snippet": "# Repository: SkyGodling/exploit-cve-2024-47575\n\nFortiManager Unauthenticated Remote Code Execution (CVE-2024-47575)\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- ",
+            "published": "2024-11-15T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "PoC/CVE-2020-5617 at master · acru3l/PoC",
+            "url": "https://github.com/acru3l/PoC/tree/master/CVE-2020-5617",
+            "snippet": "PoC/CVE-2020-5617 at master · acru3l/PoC · GitHub\nSkip to content\n## Navigation Menu\nToggle navigation\n\n\n\nSign in\n\nSearch or jump to...\n# Search code, repositories, users, issues, pull requests...\n \nS",
+            "published": "2020-08-03T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Decoding Skyward Finance Smart Contract Vulnerability | by Neptune Mutual | Neptune Mutual | Medium",
+            "url": "https://medium.com/neptune-mutual/decoding-skyward-finance-smart-contract-vulnerability-3e38c5d0e312",
+            "snippet": "Decoding Skyward Finance Smart Contract Vulnerability | by Neptune Mutual | Neptune Mutual | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n## N",
+            "published": "2023-02-19T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "SkyBridge Audit Report for Dummies | by Aviator | Medium",
+            "url": "https://medium.com/@aviator_ac/skybridge-audit-report-for-dummies-bf2609df2155",
+            "snippet": "SkyBridge Audit Report for Dummies | by Aviator | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# SkyBridge Audit Report for Dummies\n\nAviator\n\n",
+            "published": "2024-09-15T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Skybridge Contract Internal Security Audit | by Swingby Protocol | Medium",
+            "url": "https://swingby.medium.com/skybridge-contract-internal-security-audit-16cdbe62d2b",
+            "snippet": "Skybridge Contract Internal Security Audit | by Swingby Protocol | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Skybridge Contract Internal ",
+            "published": "2021-01-06T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:13:02.884Z"
+      },
+      "usdt0": {
+        "writeups": [
+          {
+            "title": "USDT0 Audit",
+            "url": "https://blog.openzeppelin.com/usdt0-audit",
+            "snippet": "USDT0 Audit\n\nResearch/ Security Audits/\n\nUSDT0 Audit\n\n# USDT0 Audit\n\nTable of Content\n\n## Table of Contents\n\n## Summary\n\nType DeFi Timeline From 2025-01-21 To 2025-01-24 Languages Solidity Total Issue",
+            "published": "2025-01-29T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Fun Tan Python - USDT token can be drain via manipulating the usdt/usda price · Issue #466 · sherlock-audit/2024-11-autonomint-judging",
+            "url": "https://github.com/sherlock-audit/2024-11-autonomint-judging/issues/466",
+            "snippet": "# Issue: sherlock-audit/2024-11-autonomint-judging #466\n\n- Repository: sherlock-audit/2024-11-autonomint-judging | 3 stars | Python\n\n## Fun Tan Python - USDT token can be drain via manipulating the us",
+            "published": "2024-12-30T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析 - 腾讯云开发者社区-腾讯云",
+            "url": "https://cloud.tencent.com/developer/news/270403",
+            "snippet": "空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析 - 腾讯云开发者社区-腾讯云\n\n腾讯云\n\n开发者社区\n\n文档 建议反馈 控制台\n\n登录/注册\n\n首页\n\n学习\n\n活动\n\n专区\n\n圈层\n\n工具\n\nMCP广场\n\n文章/答案/技术大牛搜索\n\n搜索关闭\n\n发布\n\n# 空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析\n\n文章来源：企鹅号 - 疯猫网络\n\n举报\n\n前言\n\n6月28日，慢雾科技发布了一条针对 U",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Tether Loophole Enables Swift $78 Milllion USDT Escape: Report",
+            "url": "https://coincentral.com/tether-wallet-loophole-enables-swift-78m-usdt-escape-whats-next-for-tethers-security/",
+            "snippet": " Close Menu \n\n Facebook   X (Twitter)   Instagram   YouTube \n\n Facebook   X (Twitter)   Instagram   YouTube \n\n \n\n \n\nHome / Contact\n\n \n\n \n\n\n\nNews Security\n\n# Tether Loophole Enables Swift $78 Milllion ",
+            "published": "2025-05-15T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "USDT0 Audit",
+            "url": "https://blog.openzeppelin.com/usdt0-audit",
+            "snippet": "USDT0 Audit\n\nResearch/ Security Audits/\n\nUSDT0 Audit\n\n# USDT0 Audit\n\nTable of Content\n\n## Table of Contents\n\n## Summary\n\nType DeFi Timeline From 2025-01-21 To 2025-01-24 Languages Solidity Total Issue",
+            "published": "2025-01-29T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "$215M USDT Escaped Tether Freeze: 8,310 Blacklist Proposals Exposed the Gap | BlockSec AI Blog",
+            "url": "https://blocksec.ai/en/blog/usdt-freeze-escape-215m-tether-blacklist-8310-proposals/",
+            "snippet": "$215M USDT Escaped Tether Freeze: 8,310 Blacklist Proposals Exposed the Gap | BlockSec AI Blog\n\nTL;DR: A widely cited report put USDT freeze escapes at $78M. We analyzed all 8,310 executed freeze prop",
+            "published": "2026-02-19T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "Fun Tan Python - USDT token can be drain via manipulating the usdt/usda price · Issue #466 · sherlock-audit/2024-11-autonomint-judging",
+            "url": "https://github.com/sherlock-audit/2024-11-autonomint-judging/issues/466",
+            "snippet": "# Issue: sherlock-audit/2024-11-autonomint-judging #466\n\n- Repository: sherlock-audit/2024-11-autonomint-judging | 3 stars | Python\n\n## Fun Tan Python - USDT token can be drain via manipulating the us",
+            "published": "2024-12-30T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Search code, repositories, users, issues, pull requests...",
+            "url": "https://github.com/yajin/tgoldpoc",
+            "snippet": "GitHub - yajin/TGoldPoc: The PoC of the TGold public transfer vulnerability\nSkip to content\n## Navigation Menu\nToggle navigation\n\nSign in\nSearch or jump to...\n# Search code, repositories, users, issue",
+            "published": "2023-05-26T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Jonah246/tfusd-flashloan-attack-write-up",
+            "url": "https://github.com/Jonah246/tfusd-flashloan-attack-write-up",
+            "snippet": "# Repository: Jonah246/tfusd-flashloan-attack-write-up\n\nWrite-up and exploit of tfUSD (TrueFi ) 50M worth of bug.\n\n- Stars: 25\n- Forks: 13\n- Watchers: 25\n- Open issues: 0\n- Primary language: Solidity\n",
+            "published": "2021-07-19T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "TrueUSD ↔ Compound Vulnerability. TrueUSD (TUSD) is a stablecoin on the… | by ChainSecurity | ChainSecurity | Medium",
+            "url": "https://medium.com/chainsecurity/trueusd-compound-vulnerability-bc5b696d29e2",
+            "snippet": "TrueUSD ↔ Compound Vulnerability. TrueUSD (TUSD) is a stablecoin on the… | by ChainSecurity | ChainSecurity | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign ",
+            "published": "2022-03-21T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Public transfer vulnerability of the Tether Gold smart contract",
+            "url": "https://blocksecteam.medium.com/public-transfer-vulnerability-of-the-tether-gold-smart-contract-662694607d35",
+            "snippet": "Public transfer vulnerability of the Tether Gold smart contract | by BlockSec | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Public transfer vulnerab",
+            "published": "2023-05-26T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Tether Token Audit. The Tether team asked us to review and… | by Zeppelin | Medium",
+            "url": "https://medium.com/@ZeppelinOrg/tether-token-audit-438d561a380",
+            "snippet": "Tether Token Audit. The Tether team asked us to review and… | by Zeppelin | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Tether Token Audit\n",
+            "published": "2019-02-13T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:13:06.071Z"
+      },
+      "spark": {
+        "writeups": [
+          {
+            "title": "[SPARK-52122] Fix DefaultParamsReader RCE vulnerability - ASF Jira",
+            "url": "https://issues.apache.org/jira/browse/SPARK-52122",
+            "snippet": "[SPARK-52122] Fix DefaultParamsReader RCE vulnerability - ASF Jira\n\nPublic signup for this instance is disabled. Go to our Self serve sign up page to request an account. Report potential security issu",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "oss-security - CVE-2025-54920: Apache Spark: Spark History Server Code Execution\n Vulnerability",
+            "url": "https://www.openwall.com/lists/oss-security/2026/03/13/4",
+            "snippet": "oss-security - CVE-2025-54920: Apache Spark: Spark History Server Code Execution Vulnerability\n\nProducts\n\nJohn the Ripper password cracker\n\n- Pro for macOS\n- Pro for Linux\n- in the cloud\n- Free & Open",
+            "published": "2026-03-13T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "[SPARK-20922] Unsafe deserialization in Spark LauncherConnection - ASF Jira",
+            "url": "https://issues.apache.org/jira/browse/SPARK-20922",
+            "snippet": "[SPARK-20922] Unsafe deserialization in Spark LauncherConnection - ASF Jira\n\nPublic signup for this instance is disabled. Go to our Self serve sign up page to request an account. Report potential secu",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "CVE-2025-54920: Apache Spark: Spark History Server Code Execution Vulnerability",
+            "url": "http://www.mail-archive.com/announce@apache.org/msg10812.html",
+            "snippet": "CVE-2025-54920: Apache Spark: Spark History Server Code Execution Vulnerability\n\nSkip to site navigation (Press enter)\n\n# CVE-2025-54920: Apache Spark: Spark History Server Code Execution Vulnerabilit",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "CVE-2025-54920 - Apache Spark - Remote Code Execution | LeakyCreds",
+            "url": "https://leakycreds.com/vulnerability/CVE-2025-54920",
+            "snippet": "CVE-2025-54920 - Apache Spark - Remote Code Execution | LeakyCreds\n\nNewInstant webhook alerts now available — notified within seconds of any credential detection. Learn more →\n\nHome/ Vulnerability Int",
+            "published": "2026-03-16T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "[SPARK-52122] Fix DefaultParamsReader RCE vulnerability - ASF Jira",
+            "url": "https://issues.apache.org/jira/browse/SPARK-52122",
+            "snippet": "[SPARK-52122] Fix DefaultParamsReader RCE vulnerability - ASF Jira\n\nPublic signup for this instance is disabled. Go to our Self serve sign up page to request an account. Report potential security issu",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "K3ysTr0K3R/CVE-2022-33891-EXPLOIT",
+            "url": "https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT",
+            "snippet": "# Repository: K3ysTr0K3R/CVE-2022-33891-EXPLOIT\n\nA PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE)\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Primary language",
+            "published": "2024-02-22T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "GitHub - AkbarTrilaksana/cve-2022-33891",
+            "url": "https://github.com/AkbarTrilaksana/cve-2022-33891",
+            "snippet": "GitHub - AkbarTrilaksana/cve-2022-33891\nSkip to content\n## Navigation Menu\nToggle navigation\n\n\n\nSign in\n\nSearch or jump to...\n# Search code, repositories, users, issues, pull requests...\n \nSearch\nClea",
+            "published": "2022-07-20T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "GitHub - west-wind/CVE-2022-33891: Apache Spark Command Injection PoC Exploit for CVE-2022-33891",
+            "url": "https://github.com/west-wind/CVE-2022-33891",
+            "snippet": "GitHub - west-wind/CVE-2022-33891: Apache Spark Command Injection PoC Exploit for CVE-2022-33891\nSkip to content\n## Navigation Menu\nToggle navigation\n\n\n\nSign in\n\nSearch or jump to...\n# Search code, re",
+            "published": "2022-07-19T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Analysis of SparkDEX Perpetual Exchange Hack | by Amber Group | Medium",
+            "url": "https://ambergroup.medium.com/analysis-of-sparkdex-perpetual-exchange-hack-e931f69f4078",
+            "snippet": "Analysis of SparkDEX Perpetual Exchange Hack | by Amber Group | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Analysis of SparkDEX Perpetual ",
+            "published": "2025-09-10T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Code4rena | Keeping high severity bugs out of production",
+            "url": "https://code4rena.com/reports/2025-03-starknet-perpetual",
+            "snippet": "Code4rena | Keeping high severity bugs out of productionStarknet Perpetual\n\n \n\n# Starknet Perpetual Findings & Analysis Report\n\n#### 2025-06-18\n\n## Table of contents\n\nOverview\n\n- About C4\n\nHigh Risk F",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Sparkle Smart Contracts Audit Report",
+            "url": "https://medium.com/quillhash/sparkle-smart-contracts-audit-report-5ae7e9df59c",
+            "snippet": "Sparkle Smart Contracts Audit Report | by Abhishek Sharma | QuillAudits | Medium\nSitemap\nOpen in app\nSign up\nSign in\nMedium Logo\n\nWrite\n\n\nSearch\n\nSign up\nSign in\n\n## QuillAudits\n\n·\nQuillAudits\n\nDelive",
+            "published": "2019-04-08T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:13:09.350Z"
+      },
+      "wormhole": {
+        "writeups": [
+          {
+            "title": "Wormhole Incident Report — 02/02/22 | by Wormhole | Medium",
+            "url": "https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6",
+            "snippet": "Wormhole Incident Report — 02/02/22 | by Wormhole | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Wormhole Incident Report — 02/02/22\n\nWormho",
+            "published": "2022-02-04T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Wormhole Bridge Hack: Complete Post-Mortem Analysis",
+            "url": "https://nomoslabs.io/blog/wormhole-bridge-hack-complete-post-mortem-analysis",
+            "snippet": "Wormhole Bridge Hack: Complete Post-Mortem Analysis\n\nThe Wormhole bridge hack of February 2, 2022 remains the second-largest DeFi exploit in history — 120,000 wETH ($326 million at the time) stolen fr",
+            "published": "2026-03-10T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "One Key to Rule the Wormchain: Wormhole Vulnerability Disclosure | Marco Hextor",
+            "url": "https://marcohextor.com/wormhole-one-key-vulnerability/",
+            "snippet": "One Key to Rule the Wormchain: Wormhole Vulnerability Disclosure | Marco Hextor\n\nDisclaimer: This article discusses a vulnerability disclosure related to Wormhole. Marco Hextor is publishing this info",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Magic Wormhole: \"wormhole receive\" allows arbitrary local file overwrite | GitLab Advisory Database",
+            "url": "https://advisories.gitlab.com/pkg/pypi/magic-wormhole/CVE-2026-32116/",
+            "snippet": "Magic Wormhole: \"wormhole receive\" allows arbitrary local file overwrite | GitLab Advisory Database\n\nWhat kind of vulnerability is it? Who is impacted?\n\nReceiving a file (`wormhole receive`) from a ma",
+            "published": "2026-03-13T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "CVE-2026-32116: Magic Wormhole Path Traversal Vulnerability",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-32116/",
+            "snippet": "CVE-2026-32116: Magic Wormhole Path Traversal Vulnerability\n\n \n\nVulnerability Database/CVE-2026-32116\n\n# CVE-2026-32116: Magic Wormhole Path Traversal Vulnerability\n\nCVE-2026-32116 is a path traversal",
+            "published": "2026-03-12T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Wormhole Bridge Hack: Complete Post-Mortem Analysis",
+            "url": "https://nomoslabs.io/blog/wormhole-bridge-hack-complete-post-mortem-analysis",
+            "snippet": "Wormhole Bridge Hack: Complete Post-Mortem Analysis\n\nThe Wormhole bridge hack of February 2, 2022 remains the second-largest DeFi exploit in history — 120,000 wETH ($326 million at the time) stolen fr",
+            "published": "2026-03-10T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "immunefi-team/wormhole-uninitialized",
+            "url": "https://github.com/immunefi-team/wormhole-uninitialized",
+            "snippet": "# Repository: immunefi-team/wormhole-uninitialized\n\nThe repository contains a runnable POC for uninitialized wormhole implementation contract\n\n- Stars: 73\n- Forks: 17\n- Watchers: 73\n- Open issues: 7\n-",
+            "published": "2022-04-18T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "w2hcorp/CVE-2025-29927-PoC",
+            "url": "https://github.com/w2hcorp/cve-2025-29927-poc",
+            "snippet": "# Repository: w2hcorp/CVE-2025-29927-PoC\n\nHere is a simple but effective exploit for CVE-2025-29927.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Pytho",
+            "published": "2025-03-29T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "On Windows a large directory transfers onto a network share directly is reproducibly interrupted/crashes · Issue #697 · magic-wormhole/magic-wormhole",
+            "url": "https://github.com/magic-wormhole/magic-wormhole/issues/697",
+            "snippet": "# Issue: magic-wormhole/magic-wormhole #697\n\n- Repository: magic-wormhole/magic-wormhole | get things from one computer to another, safely | 22K stars | Python\n\n## On Windows a large directory transfe",
+            "published": "2026-01-30T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [
+          {
+            "title": "Wormhole Incident Report — 02/02/22 | by Wormhole | Medium",
+            "url": "https://wormholecrypto.medium.com/wormhole-incident-report-02-02-22-ad9b8f21eec6",
+            "snippet": "Wormhole Incident Report — 02/02/22 | by Wormhole | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Wormhole Incident Report — 02/02/22\n\nWormho",
+            "published": "2022-02-04T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Wormhole Uninitialized Proxy Bugfix Review | by Immunefi | Immunefi | Medium",
+            "url": "https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a",
+            "snippet": "Wormhole Uninitialized Proxy Bugfix Review | by Immunefi | Immunefi | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n## Immunefi\n\nImmunefi is th",
+            "published": "2022-05-20T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Rekt - <!-- -->Wormhole - REKT",
+            "url": "https://rekt.news/wormhole-rekt",
+            "snippet": "Rekt - Wormhole - REKT\n\nWormhole had a loophole…\n\nA hacker distorted the fabric of Solana's space-time, netting $326M in the process.\n\nIn the second bridge exploit in less than a week, Solana's Wormho",
+            "published": "2025-05-27T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "total_results": 12,
+        "enriched_at": "2026-03-29T01:13:12.540Z"
+      }
+    }
   }
 }
