@@ -1,17 +1,35 @@
 {
   "name": "bounty-radar",
-  "version": "1.0.0",
-  "description": "Bug bounty research tool — search HackerOne disclosed reports, Immunefi Web3 programs, and GitHub security resources. Searchable web UI with daily auto-updates.",
+  "version": "3.2.0",
+  "description": "Bug bounty research tool — search HackerOne reports, Immunefi Web3 programs, GitHub security resources, with Git Intel Scanner",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "build": "node src/build-ui.js",
-    "radar": "node src/index.js && node src/build-ui.js"
+    "build-ui": "node src/build-ui.js",
+    "git-intel": "node src/git-intel.js",
+    "test": "echo \"No tests yet\""
   },
+  "keywords": [
+    "bug-bounty",
+    "security",
+    "hackerone",
+    "immunefi",
+    "web3",
+    "defi",
+    "vulnerability-research",
+    "git-intel"
+  ],
   "author": "@xnotok",
   "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "simple-git": "^3.27.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xnotok-ops/bounty-radar"
+    "url": "https://github.com/xnotok-ops/bounty-radar.git"
   }
 }
