@@ -2904,7 +2904,770 @@
         "enriched_at": "2026-04-01T04:13:10.290Z"
       },
       "timestamp": "2026-04-01T04:13:12.211Z"
+    },
+    "starbucks_china": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露 - 信息安全知识库",
+            "url": "https://www.gm7.org/archives/1062",
+            "snippet": "星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露 - 信息安全知识库\n\n首页» 星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露\n\n文章总结： 文章讲述了一个安全研究员在星巴克网站发现严重漏洞，通过路径遍历攻击绕过WAF，访问内部API，最终获取近一亿客户的敏感信息。漏洞位于/bff/proxy/端点，允许攻击者访问内部MicrosoftGraph实例，获取用户姓名、电子邮件、电话",
+            "published": "2025-12-18T16:11:05.000Z",
+            "score": 1
+          },
+          {
+            "title": "入侵星巴克并获取近1亿客户记录 | CN-SEC 中文网",
+            "url": "https://cn-sec.com/archives/4129290.html",
+            "snippet": "入侵星巴克并获取近1亿客户记录 | CN-SEC 中文网\n\n点赞\n\nhttps://cn-sec.com/archives/4129290.html\n\nadmin166630文章130评论\n\n2025年6月4日09:05:40 评论 90 views字数 5762阅读19分12秒阅读模式\n\n本文所述漏洞均已修复，未经授权请勿进行非法渗透测试。\n\n在Verizon Media的漏洞赏金项目上尝试了一",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "网络安全-星巴克漏洞挖掘-从绕过 WAF到上亿客户信息泄露",
+            "url": "https://blog.csdn.net/zkaqlaoniao/article/details/149976651",
+            "snippet": "网络安全-星巴克漏洞挖掘-从绕过 WAF到上亿客户信息泄露-CSDN博客\n# 网络安全-星巴克漏洞挖掘-从绕过 WAF到上亿客户信息泄露\n星巴克网络漏洞挖掘：绕过WAF致信息泄露\n\n渗透测试老鸟-九青已于2025-08-06 17:38:23修改\n阅读量819收藏9\n点赞数\n29\nCC 4.0 BY-SA版权\n分类专栏：0基础学习渗透＋zkanzz漏洞挖掘渗透测试文章标签：网络安全网络安全学习路线",
+            "published": "2025-08-06T09:33:42.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "星巴克员工门户钓鱼攻击与敏感数据泄露防御研究-腾讯云开发者社区-腾讯云",
+            "url": "https://cloud.tencent.com/developer/article/2640474",
+            "snippet": "星巴克员工门户钓鱼攻击与敏感数据泄露防御研究-腾讯云开发者社区-腾讯云\n\n\n\n## 星巴克员工门户钓鱼攻击与敏感数据泄露防御研究\n\n原创\n\n关注作者\n\n腾讯云\n\n开发者社区\n\n文档 建议反馈 控制台\n\n登录/注册\n\n首页\n\n学习\n\n活动\n\n专区\n\n圈层\n\n工具\n\nMCP广场\n\n文章/答案/技术大牛搜索\n\n搜索关闭\n\n发布\n\n芦笛\n\n社区首页> 专栏>星巴克员工门户钓鱼攻击与敏感数据泄露防御研究\n\n",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露 - 信息安全知识库",
+            "url": "https://www.gm7.org/archives/1062",
+            "snippet": "星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露 - 信息安全知识库\n\n首页» 星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露\n\n文章总结： 文章讲述了一个安全研究员在星巴克网站发现严重漏洞，通过路径遍历攻击绕过WAF，访问内部API，最终获取近一亿客户的敏感信息。漏洞位于/bff/proxy/端点，允许攻击者访问内部MicrosoftGraph实例，获取用户姓名、电子邮件、电话",
+            "published": "2025-12-18T16:11:05.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "星巴克披露数据泄露事件，数百名员工信息遭窃 - 安全星图平台",
+            "url": "https://starmap.dbappsecurity.com.cn/info/14531",
+            "snippet": "星巴克披露数据泄露事件，数百名员工信息遭窃 - 安全星图平台\n\n# 【安全资讯】星巴克披露数据泄露事件，数百名员工信息遭窃\n\n安恒恒脑 2026-03-13 19:11:38 335人浏览\n\n### 概要：\n\n全球咖啡连锁巨头星巴克近日披露了一起影响数百名员工的内部数据泄露事件。攻击者通过仿冒网站窃取员工凭证，非法访问了用于管理人事信息的内部系统。此次事件不仅暴露了员工的敏感个人信息，也再次凸显了",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "tops_by_program/TOPSTARBUCKS.md at master · reddelexc/hackerone-reports",
+            "url": "https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_program/TOPSTARBUCKS.md",
+            "snippet": "# File: reddelexc/hackerone-reports/tops_by_program/TOPSTARBUCKS.md\n\n- Repository: reddelexc/hackerone-reports | Top disclosed reports from HackerOne | 5K stars | Python\n- Branch: master\n\n```md\nTop re",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "source/incidences/starbucks.rst at master · miohtama/opsec",
+            "url": "https://github.com/miohtama/opsec/blob/master/source/incidences/starbucks.rst",
+            "snippet": "# File: miohtama/opsec/source/incidences/starbucks.rst\n\n- Repository: miohtama/opsec | OPSEC - Operations Security | 18 stars | CSS\n- Branch: master\n\n```rst\n\n.. This is a generated file from data/. DO",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "sgInnora/alipay-deeplink-research",
+            "url": "https://github.com/sgInnora/alipay-deeplink-research",
+            "snippet": "# Repository: sgInnora/alipay-deeplink-research\n\nAlipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb\n\n- Stars: 182\n- Forks: 168\n- ",
+            "published": "2026-03-11T09:41:51.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-02T03:44:43.602Z"
+      },
+      "timestamp": "2026-04-02T03:44:45.991Z"
+    },
+    "syfe_bbp": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Syfe Bug Bounty Program",
+            "url": "https://www.bugbountydirectory.com/programs/syfe",
+            "snippet": "Syfe Bug Bounty Program\n\nYour Brand Here — Reach a focused audience of ethical hackers and security researchers\n\n---\n\nRecommended Blogs\n\nAccount Takeover - Smoking with 'null'Jerry Shah•Feb 25, 2021\n\n",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Bug Bounty",
+            "url": "https://www.syfe.com/bug-bounty",
+            "snippet": "Bug Bounty \n\n \n\nNew : Equity Alpha, expertly designed to beat the market. Read more\n\n# BUG BOUNTY\n\nOverviewHow it worksThe Syfe PromiseRewardsHall of Fameoverviewoverviewoverview\n\noverviewoverviewover",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Syfe Simplifies Compliance and Threat Detection with Sysdig | Sysdig",
+            "url": "http://www.sysdig.com/customers/syfe/",
+            "snippet": "Syfe Simplifies Compliance and Threat Detection with Sysdig | Sysdig\n\nAPAC\n\n\n\n< back to customer stories\n\nVIEW PDF\n\nFrom Falco to Sysdig: How Financial Firm Syfe Simplified Complianceand Threat Detect",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Syfe Bug Bounty Program",
+            "url": "https://www.bugbountydirectory.com/programs/syfe",
+            "snippet": "Syfe Bug Bounty Program\n\nYour Brand Here — Reach a focused audience of ethical hackers and security researchers\n\n---\n\nRecommended Blogs\n\nAccount Takeover - Smoking with 'null'Jerry Shah•Feb 25, 2021\n\n",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Bug Bounty",
+            "url": "https://www.syfe.com/bug-bounty",
+            "snippet": "Bug Bounty \n\n \n\nNew : Equity Alpha, expertly designed to beat the market. Read more\n\n# BUG BOUNTY\n\nOverviewHow it worksThe Syfe PromiseRewardsHall of Fameoverviewoverviewoverview\n\noverviewoverviewover",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Security | Syfe",
+            "url": "http://www.syfe.com/security",
+            "snippet": "Security | Syfe (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "exploit.py at main · synacktiv/CVE-2025-59712_CVE-2025-59713",
+            "url": "https://github.com/synacktiv/CVE-2025-59712_CVE-2025-59713/blob/main/exploit.py",
+            "snippet": "# File: synacktiv/CVE-2025-59712_CVE-2025-59713/exploit.py\n\n- Repository: synacktiv/CVE-2025-59712_CVE-2025-59713 | Snipe-IT PoC exploit for CVE-2025-59712 and CVE-2025-59713 | 2 stars | Python\n- Bran",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Symbolexe/CVE-2024-6387",
+            "url": "https://github.com/Symbolexe/CVE-2024-6387",
+            "snippet": "# Repository: Symbolexe/CVE-2024-6387\n\nSSH Exploit for CVE-2024-6387 : RCE in OpenSSH's server, on glibc-based Linux systems\n\n- Stars: 2\n- Forks: 6\n- Watchers: 2\n- Open issues: 1\n- Primary language: P",
+            "published": "2024-07-03T08:22:57.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "syphonetic/CVE-2026-30345",
+            "url": "https://github.com/syphonetic/CVE-2026-30345",
+            "snippet": "# Repository: syphonetic/CVE-2026-30345\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-03-17T14:32:24Z\n- La",
+            "published": "2026-03-17T14:32:24.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-02T03:44:45.991Z"
+      },
+      "timestamp": "2026-04-02T03:44:48.143Z"
+    },
+    "nba-public": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "CVE-2023-45803 - Nba-Api Vulnerability - Safety #62257",
+            "url": "https://data.safetycli.com/vulnerabilities/CVE-2023-45803/62257/",
+            "snippet": "CVE-2023-45803 - Nba-Api Vulnerability - Safety #62257\n\n## PyPi: Nba-Api\n\n# CVE-2023-45803\n\nTransitive\n\nSafety vulnerability ID: 62257\n\n### This vulnerability was reviewed by experts\n\nThe information ",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Deep Dive into High-Profile Crypto Exploits — Part II: NBA’s The Association",
+            "url": "https://solidgroup-68170.medium.com/deep-dive-into-high-profile-crypto-exploits-part-ii-nbas-the-association-103fdda9c811",
+            "snippet": "Deep Dive into High-Profile Crypto Exploits —Part II: NBA’s The Association | by Solidgroup | Medium\nOpen in app\nSign up\nSign in\n\n\nWrite\n\n\n\nSign up\nSign in\n\n# Deep Dive into High-Profile Crypto Exploi",
+            "published": "2022-04-27T09:24:45.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "NBA Pauses Minting of The Association NFT Collections After Spotting Serious Vunerability",
+            "url": "https://cryptopotato.com/nba-pauses-minting-of-the-association-nft-collections-after-spotting-serious-vunerability/",
+            "snippet": "-- NBA Pauses Minting of The Association NFT Collections After Spotting Serious Vunerability\n\n# NBA Pauses Minting of The Association NFT Collections After Spotting Serious Vunerability\n\nBlockSec reve",
+            "published": "2022-04-21T21:10:59.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "CVE-2023-45803 - Nba-Api Vulnerability - Safety #62257",
+            "url": "https://data.safetycli.com/vulnerabilities/CVE-2023-45803/62257/",
+            "snippet": "CVE-2023-45803 - Nba-Api Vulnerability - Safety #62257\n\n## PyPi: Nba-Api\n\n# CVE-2023-45803\n\nTransitive\n\nSafety vulnerability ID: 62257\n\n### This vulnerability was reviewed by experts\n\nThe information ",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Personal information exposed in NBA data breach - Galaxkey",
+            "url": "https://www.galaxkey.com/blog/personal-information-exposed-in-nba-data-breach/",
+            "snippet": "Personal information exposed in NBA data breach - Galaxkey\n\nProducts\n\n- Secure Shield\n- LockChat\n- Secure Signatures\n- Secure Files & Digital Rights Management\n- Secure Workspace\n- Secure Emails\n\nSolu",
+            "published": "2023-03-24T21:15:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Securing NBA Data with Network Security",
+            "url": "https://www.numberanalytics.com/blog/securing-nba-data-network-security",
+            "snippet": "Securing NBA Data with Network Security \n\n \n\n \n\n \n\n \n\n# Securing NBA Data with Network Security\n\nA Comprehensive Guide to Protecting Sensitive Information in the NBA\n\n \n\n \n\n \n\n \n\nSarah Lee AI generate",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "Direct SQL Injection via `update_sql` Endpoint Bypasses `is_sql_valid()` and Allows Arbitrary Query Execution",
+            "url": "https://gist.github.com/YLChen-007/48b86c2365e5ebf6923d5f14491b4329",
+            "snippet": "# Gist: Direct SQL Injection via `update_sql` Endpoint Bypasses `is_sql_valid()` and Allows Arbitrary Query Execution\n\n- Author: @YLChen-007\n- Public gist (1 file)\n- Created: 2026-02-27T05:41:46Z\n- Up",
+            "published": "2026-02-27T05:41:46.000Z",
+            "score": 1
+          },
+          {
+            "title": "[Bug]: BoxScoreDefensiveV2 endpoint broken after last release · Issue #589 · swar/nba_api",
+            "url": "https://github.com/swar/nba_api/issues/589",
+            "snippet": "# Issue: swar/nba_api #589\n\n- Repository: swar/nba_api | An API Client package to access the APIs for NBA.com | 4K stars | Python\n\n## [Bug]: BoxScoreDefensiveV2 endpoint broken after last release\n\n- A",
+            "published": "2025-11-12T20:25:02.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Insecure Direct Object Reference (IDOR) on `/ws/replay/` Endpoint Allows Any Authenticated User to Steal Third-Party API Keys from Other Users' Interactions",
+            "url": "https://gist.github.com/YLChen-007/dc46c2a710ecb9e855695f32da8bcab5",
+            "snippet": "# Gist: Insecure Direct Object Reference (IDOR) on `/ws/replay/` Endpoint Allows Any Authenticated User to Steal Third-Party API Keys from Other Users' Interactions\n\n- Author: @YLChen-007\n- Public gis",
+            "published": "2026-02-26T05:20:45.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-02T03:44:48.143Z"
+      },
+      "timestamp": "2026-04-02T03:44:50.096Z"
+    },
+    "circle-bbp": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Circle's CCTP Noble Mint Bug",
+            "url": "https://blog.asymmetric.re/circles-cctp-noble-mint-bug/",
+            "snippet": "Circle's CCTP Noble Mint Bug { document.querySelector('[data-progress-bar]').setAttribute('value',getScrollPercent()) })\" @scroll.window=\"document.querySelector('[data-progress-bar]').setAttribute('va",
+            "published": "2024-08-27T15:41:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Circle fixed a critical vulnerability in Noble-CCTP, with no loss of user funds or malicious attacks occurring - ChainCatcher",
+            "url": "https://www.chaincatcher.com/en/article/2140587",
+            "snippet": "Circle fixed a critical vulnerability in Noble-CCTP, with no loss of user funds or malicious attacks occurring - ChainCatcher\n\nShare\n\nScan with WeChat\n\n\n\n# Circle fixed a critical vulnerability in Nob",
+            "published": "2024-08-28T06:59:01.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Security Flaw in Circle’s Noble-CCTP Identified and Fixed by Asymmetric Research",
+            "url": "https://digitalmarketreports.com/news/24806/security-flaw-in-circles-noble-cctp-identified-and-fixed-by-asymmetric-research",
+            "snippet": "Security Flaw in Circle’s Noble-CCTP Identified and Fixed by Asymmetric Research\n\nNews Americas Blockchain Latest\n\n# Security Flaw in Circle’s Noble-CCTP Identified and Fixed by Asymmetric Research\n\n\n",
+            "published": "2024-08-29T22:32:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "[CCTPE-2158] Resolve security vulnerabilities in dependencies (#75) · 4061786 · circlefin/evm-cctp-contracts",
+            "url": "https://github.com/circlefin/evm-cctp-contracts/commit/4061786a5726bc05f99fcdb53b0985599f0dbaf7",
+            "snippet": "# Commit: circlefin/evm-cctp-contracts@4061786\n\n- Repository: circlefin/evm-cctp-contracts | Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol | 198 ",
+            "published": "2025-10-01T15:20:38.000Z",
+            "score": 1
+          },
+          {
+            "title": "Circle's CCTP Noble Mint Bug",
+            "url": "https://blog.asymmetric.re/circles-cctp-noble-mint-bug/",
+            "snippet": "Circle's CCTP Noble Mint Bug { document.querySelector('[data-progress-bar]').setAttribute('value',getScrollPercent()) })\" @scroll.window=\"document.querySelector('[data-progress-bar]').setAttribute('va",
+            "published": "2024-08-27T15:41:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Robust Thresholds ECDSA Signatures for Identifying Misbehaving Signers | Circle",
+            "url": "https://www.circle.com/blog/circle-research-releases-robust-thresholds-ecdsa-signatures-whitepaper-to-identify-misbehaving-signers-in-real-time",
+            "snippet": "Robust Thresholds ECDSA Signatures for Identifying Misbehaving Signers | Circle\n\nCircle Internet Financial\n\nNov 10, 2023\n\nSep 16, 2024\n\nwhat you’ll learn\n\nCircle Research has improved security by comb",
+            "published": "2023-11-10T16:42:49.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "[CCTPE-2158] Resolve security vulnerabilities in dependencies (#75) · 4061786 · circlefin/evm-cctp-contracts",
+            "url": "https://github.com/circlefin/evm-cctp-contracts/commit/4061786a5726bc05f99fcdb53b0985599f0dbaf7",
+            "snippet": "# Commit: circlefin/evm-cctp-contracts@4061786\n\n- Repository: circlefin/evm-cctp-contracts | Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol | 198 ",
+            "published": "2025-10-01T15:20:38.000Z",
+            "score": 1
+          },
+          {
+            "title": "README.md at main · DK27ss/BalancerV2-128M-PoC",
+            "url": "https://github.com/DK27ss/BalancerV2-128M-PoC/blob/main/README.md",
+            "snippet": "# File: DK27ss/BalancerV2-128M-PoC/README.md\n\n- Repository: DK27ss/BalancerV2-128M-PoC | Balancer Rounding Exploit PoC | 15 stars | Solidity\n- Branch: main\n\n```md\n# BalancerV2 Rounding Exploit - Post-",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "ecc/p384: Point addition must handle point doubling case. · Pull Request #583 · cloudflare/circl",
+            "url": "https://github.com/cloudflare/circl/pull/583",
+            "snippet": "# Pull Request: cloudflare/circl #583\n\n- Repository: cloudflare/circl | CIRCL: Cloudflare Interoperable Reusable Cryptographic Library | 2K stars | Go\n\n## ecc/p384: Point addition must handle point do",
+            "published": "2026-01-20T21:13:32.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-02T03:44:50.097Z"
+      },
+      "timestamp": "2026-04-02T03:44:52.041Z"
+    },
+    "varonis": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Hidden in Plain Sight: A Misconfigured Upload Path That Invited Trouble",
+            "url": "https://www.varonis.com/blog/misconfigured-upload-path",
+            "snippet": "Hidden in Plain Sight: A Misconfigured Upload Path That Invited Trouble\n\nVaronis is acquiring AllTrue.ai to manage and secure AI across the enterprise. Learn more\n\nBlog Threat Research\n\n# Hidden in Pl",
+            "published": "2025-08-29T16:50:33.000Z",
+            "score": 1
+          },
+          {
+            "title": "The Silent Attackers: Exploiting VPC Endpoints to Expose AWS Accounts of S3 Buckets Without a Trace",
+            "url": "https://www.varonis.com/blog/exploiting-vpc-endpoints-for-s3buckets",
+            "snippet": "The Silent Attackers: Exploiting VPC Endpoints to Expose AWS Accounts of S3 Buckets Without a Trace \n\nIntroducing Varonis Atlas: Secure everything you build and run with AI Learn more\n\nBlog Threat Res",
+            "published": "2025-10-30T13:23:57.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Count(er) Strike – Data Inference Vulnerability in ServiceNow",
+            "url": "https://www.varonis.com/blog/counter-strike-servicenow",
+            "snippet": "Count(er) Strike – Data Inference Vulnerability in ServiceNow \n\nIntroducing Varonis Atlas: Secure everything you build and run with AI Learn more\n\nBlog Threat Research\n\n# Count(er) Strike – Data Infer",
+            "published": "2025-07-09T12:59:33.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Hidden in Plain Sight: A Misconfigured Upload Path That Invited Trouble",
+            "url": "https://www.varonis.com/blog/misconfigured-upload-path",
+            "snippet": "Hidden in Plain Sight: A Misconfigured Upload Path That Invited Trouble\n\nVaronis is acquiring AllTrue.ai to manage and secure AI across the enterprise. Learn more\n\nBlog Threat Research\n\n# Hidden in Pl",
+            "published": "2025-08-29T16:50:33.000Z",
+            "score": 1
+          },
+          {
+            "title": "Exfil Out&Look for Logs: Weaponizing Outlook Add-ins for Zero-Trace Email Exfiltration",
+            "url": "https://www.varonis.com/blog/outlook-add-in-exfiltration",
+            "snippet": "Exfil Out&Look for Logs: Weaponizing Outlook Add-ins for Zero-Trace Email Exfiltration \n\nIntroducing Varonis Atlas: Secure everything you build and run with AI Learn more\n\nBlog Threat Research\n\n# Exfi",
+            "published": "2026-01-27T14:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "The Silent Attackers: Exploiting VPC Endpoints to Expose AWS Accounts of S3 Buckets Without a Trace",
+            "url": "https://www.varonis.com/blog/exploiting-vpc-endpoints-for-s3buckets",
+            "snippet": "The Silent Attackers: Exploiting VPC Endpoints to Expose AWS Accounts of S3 Buckets Without a Trace \n\nIntroducing Varonis Atlas: Secure everything you build and run with AI Learn more\n\nBlog Threat Res",
+            "published": "2025-10-30T13:23:57.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "rimbadirgantara/CVE-2025-52691-poc",
+            "url": "https://github.com/rimbadirgantara/CVE-2025-52691-poc",
+            "snippet": "# Repository: rimbadirgantara/CVE-2025-52691-poc\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-01-11T02:00",
+            "published": "2026-01-11T02:00:39.000Z",
+            "score": 1
+          },
+          {
+            "title": "verylazytech/CVE-2025-64446",
+            "url": "https://github.com/verylazytech/CVE-2025-64446",
+            "snippet": "# Repository: verylazytech/CVE-2025-64446\n\nCVE-2025-64446 - A relative path traversal vulnerability in Fortinet FortiWeb 8.0.0 through 8.0.1, FortiWeb 7.6.0 through 7.6.4, FortiWeb 7.4.0 through 7.4.9",
+            "published": "2025-11-17T18:28:46.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "verylazytech/CVE-2024-24919",
+            "url": "https://github.com/verylazytech/CVE-2024-24919",
+            "snippet": "# Repository: verylazytech/CVE-2024-24919\n\nPOC - CVE-2024–24919 - Check Point Security Gateways\n\n- Stars: 9\n- Forks: 3\n- Watchers: 9\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- L",
+            "published": "2024-06-09T06:54:51.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-02T03:44:52.042Z"
+      },
+      "timestamp": "2026-04-02T03:44:54.096Z"
+    },
+    "klarna": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Klarna Bug Enabled 90 000 Users to See the Account Details of Other Customers",
+            "url": "https://heimdalsecurity.com/blog/klarna-vulnerability-allowed-90-000-users-to-see-the-account-details-of-other-customers/",
+            "snippet": "Klarna Bug Enabled 90 000 Users to See the Account Details of Other Customers\n\nContents:\n\nThe mobile banking service Klarna recently suffered a serious security issue that enabled users of its app to ",
+            "published": "2021-05-28T09:51:15.000Z",
+            "score": 1
+          },
+          {
+            "title": "Web Application Security, Testing, & Scanning - PortSwigger",
+            "url": "https://portswigger.net/daily-swig/klarna-privacy-clanger-blamed-on-buggy-software-update",
+            "snippet": "Web Application Security, Testing, & Scanning - PortSwigger\n\n# Trusted by security professionals\n\nBest-in-class software and learning for security engineers and penetration testers.\n\nFIND OUT MORE\n\n##",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "CVE-2024-13925 - Exploits & Severity - Feedly",
+            "url": "https://feedly.com/cve/CVE-2024-13925",
+            "snippet": "CVE-2024-13925 - Exploits & Severity - Feedly\n\n# CVE-2024-13925 Published: Apr 17, 2025 / Updated: 11mo ago\n\nTrack UpdatesTrack Exploits \n\n010\n\nCVSS 7.5EPSS 0.02%High\n\nCVSS v3.1\n\nCVE info copied to cl",
+            "published": "2025-04-17T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Internal Messages Show How Klarna Scrambled to Fix a Data Leak Glitch - Business Insider",
+            "url": "https://www.businessinsider.com/klarna-data-leak-exposed-customer-logins-2025-11?op=1",
+            "snippet": "Internal Messages Show How Klarna Scrambled to Fix a Data Leak Glitch - Business Insider \n\nExclusive\n\nBy Jyoti Mann\n\nYou're currently following this author! Want to unfollow? Unsubscribe via the link ",
+            "published": "2025-11-06T22:46:26.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "An update on the recent incident reported in the media | Klarna International",
+            "url": "https://www.klarna.com/international/press/an-update-on-the-recent-incident-reported-in-the-media/",
+            "snippet": "An update on the recent incident reported in the media | Klarna International\n\n- Discover Klarna\n- For Business\n\n## An update on the recent incident reported in the media\n\nNovember 7, 2025 - 2 min rea",
+            "published": "2025-11-28T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "exp.py at master · kjdfklha/CVE-2024-2961_poc",
+            "url": "https://github.com/kjdfklha/CVE-2024-2961_poc/blob/master/exp.py",
+            "snippet": "# File: kjdfklha/CVE-2024-2961_poc/exp.py\n\n- Repository: kjdfklha/CVE-2024-2961_poc | 2 stars | Python\n- Branch: master\n\n```py\nfrom __future__ import annotations\n\nimport base64\nimport zlib\nfrom datacl",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "kondukto-io/vulnerable-next-js-poc",
+            "url": "https://github.com/kondukto-io/vulnerable-next-js-poc",
+            "snippet": "# Repository: kondukto-io/vulnerable-next-js-poc\n\nPOC for React2Shell (CVE-2025-55182)\n\n- Stars: 5\n- Forks: 1\n- Watchers: 5\n- Open issues: 1\n- Primary language: Shell\n- Languages: Shell (36.2%), Makef",
+            "published": "2025-12-09T14:05:47.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation",
+            "url": "https://github.com/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation",
+            "snippet": "# Repository: ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation\n\nCVE-2026-1529 (PoC) is a critical vulnerability in Keycloak that allows unautho",
+            "published": "2026-02-10T14:31:22.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 8,
+        "enriched_at": "2026-04-02T03:44:54.096Z"
+      },
+      "timestamp": "2026-04-02T03:44:55.977Z"
+    },
+    "unico_idtech": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/unico_idtech/thanks",
+            "snippet": "HackerOne\n\nHackerOne",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Unico Idtech",
+            "url": "https://www.swotanalysis.com/unico%20idtech",
+            "snippet": "Unico Idtech SWOT Analysis & Strategic Plan 2025-Q4 -- window[(function(_kez,_ey){var _CuSqs='';for(var _dUC8Tg=0;_dUC8Tg4;_OFjK%=94;_OFjK+=33;_CuSqs+=String.fromCharCode(_OFjK)}return _CuSqs})(atob('",
+            "published": "2025-10-05T12:39:08.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Unico IDTech Case Study",
+            "url": "https://hoop.dev/blog/unico-idtech-case-study-streamlining-sre-operations-and-enhancing-security-with-hoop-dev/",
+            "snippet": "Unico IDTech Case Study\n\nStreamlining SRE Operations and Enhancing Security with Hoop.dev\n\n### Background and Challenges\n\nUnico is the leading digital identity solutions provider that simplifies the l",
+            "published": "2024-03-05T18:36:29.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Unico Idtech",
+            "url": "https://www.swotanalysis.com/unico%20idtech",
+            "snippet": "Unico Idtech SWOT Analysis & Strategic Plan 2025-Q4 -- window[(function(_kez,_ey){var _CuSqs='';for(var _dUC8Tg=0;_dUC8Tg4;_OFjK%=94;_OFjK+=33;_CuSqs+=String.fromCharCode(_OFjK)}return _CuSqs})(atob('",
+            "published": "2025-10-05T12:39:08.000Z",
+            "score": 1
+          },
+          {
+            "title": "Unico Purchases OwnID to Expand in Passkey Authentication",
+            "url": "https://www.databreachtoday.com/unico-purchases-ownid-to-expand-in-passkey-authentication-a-29543",
+            "snippet": "Unico Purchases OwnID to Expand in Passkey Authentication Identity & Access Management,Security Operations > Multi-factor & Risk-based Authentication,Security Operations'> \n\n \n\nTRENDING:\n\n- CyberEd.io",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Home - Unico ID",
+            "url": "https://www.unico.global/",
+            "snippet": "Home - Unico ID\n\n# The ultimate biometric solution to outsmart fraud at every stage of the user journey​\n\nSafer and frictionless identity verification experiences in the GenAI era​.\n\nContact usOur Sol",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "Security Vulnerability Report: Unauthenticated SSRF via URL Unfurl Endpoint in Idno · Advisory · idno/idno · GitHub",
+            "url": "https://github.com/idno/idno/security/advisories/GHSA-fcrh-fqxh-6fx6",
+            "snippet": "Security Vulnerability Report: Unauthenticated SSRF via URL Unfurl Endpoint in Idno · Advisory · idno/idno · GitHub\n\n/ idno Public\n\nStar 1.1k\n\n- Pricing\n- Notifications\n- Fork 197\n\n# Security Vulnerab",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "unico-labs/unico-cbu-poc-angular",
+            "url": "https://github.com/unico-labs/unico-cbu-poc-angular",
+            "snippet": "# Repository: unico-labs/unico-cbu-poc-angular\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 12\n- Primary language: CSS\n- Languages: CSS (54.9%), TypeScript (27.6%), HTML (17.5%)\n- Default branc",
+            "published": "2025-01-30T13:00:59.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "UNICORDev/exploit-CVE-2025-29927",
+            "url": "https://github.com/UNICORDev/exploit-CVE-2025-29927",
+            "snippet": "# Repository: UNICORDev/exploit-CVE-2025-29927\n\nExploit for CVE-2025-29927 (Next.js) - Authorization Bypass\n\n- Stars: 8\n- Forks: 2\n- Watchers: 8\n- Open issues: 0\n- Primary language: Python\n- Languages",
+            "published": "2025-04-14T15:12:13.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-02T03:44:55.977Z"
+      },
+      "timestamp": "2026-04-02T03:44:58.019Z"
+    },
+    "wallet_on_telegram": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Telegram Wallet Users Fall Victim to Phishing Scam | ForkLog",
+            "url": "https://forklog.com/en/telegram-wallet-users-fall-victim-to-phishing-scam/",
+            "snippet": "Telegram Wallet Users Fall Victim to Phishing Scam | ForkLog\n\nTelegram (AI) YouTube Facebook X\n\nРу\n\nРу\n\n--\n\nКультовый журнал о биткоине, технологии блокчейн и цифровой экономике. Площадка для общения ",
+            "published": "2024-08-24T16:11:54.000Z",
+            "score": 1
+          },
+          {
+            "title": "TON Wallet Security Threat: Malicious npm Package Steals Cry...",
+            "url": "https://socket.dev/blog/ton-wallet-security-threat-malicious-npm-package-steals-cryptocurrency-wallet-keys",
+            "snippet": "Blog\n\nResearch\n\n# TON Wallet Security Threat: Malicious npm Package Steals Cryptocurrency Wallet Keys\n\n## The Socket Research Team discovered a malicious npm package, '@ton-wallet/create', stealing cr",
+            "published": "2026-03-22T23:44:03.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Telegram Web app XSS/Session Hijacking 1-click [CVE-2024–33905] | by pedbap | Medium",
+            "url": "https://medium.com/@pedbap/telegram-web-app-xss-session-hijacking-1-click-95acccdc8d90",
+            "snippet": "Telegram Web app XSS/Session Hijacking 1-click [CVE-2024–33905] | by pedbap | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Telegram Web app ",
+            "published": "2024-04-28T04:27:08.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Telegram Wallet Users Fall Victim to Phishing Scam | ForkLog",
+            "url": "https://forklog.com/en/telegram-wallet-users-fall-victim-to-phishing-scam/",
+            "snippet": "Telegram Wallet Users Fall Victim to Phishing Scam | ForkLog\n\nTelegram (AI) YouTube Facebook X\n\nРу\n\nРу\n\n--\n\nКультовый журнал о биткоине, технологии блокчейн и цифровой экономике. Площадка для общения ",
+            "published": "2024-08-24T16:11:54.000Z",
+            "score": 1
+          },
+          {
+            "title": "Warning: The Telegram Verification Bot Could Empty Your Crypto Wallet - Blockonomi",
+            "url": "https://blockonomi.com/warning-the-telegram-verification-bot-could-empty-your-crypto-wallet/",
+            "snippet": " Facebook   X (Twitter)   LinkedIn   Telegram \n\n Facebook   X (Twitter)   LinkedIn   Telegram \n\n \n\n \n\nHome / Contact / Advertise / Submit Press Release\n\n \n\n \n\n\n\nSecurity\n\n# Warning: The Telegram Verif",
+            "published": "2025-01-16T07:59:41.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Ongoing Telegram Scam: How Attackers Drain Crypto Wallets Using Fake Username Sales | by Steve Matindi | Medium",
+            "url": "https://stevemats.medium.com/ongoing-telegram-scam-how-attackers-drain-crypto-wallets-using-fake-username-sales-d72b6b7d473f",
+            "snippet": "Ongoing Telegram Scam: How Attackers Drain Crypto Wallets Using Fake Username Sales | by Steve Matindi | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nS",
+            "published": "2025-03-20T23:05:36.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "README.md at master · Web3-Serializer/Exodus-Stealer-PoC",
+            "url": "https://github.com/Web3-Serializer/Exodus-Stealer-PoC/blob/master/README.md",
+            "snippet": "# File: Web3-Serializer/Exodus-Stealer-PoC/README.md\n\n- Repository: Web3-Serializer/Exodus-Stealer-PoC | A proof-of-concept Exodus Stealer that extracts the mnemonic phrase and passphrase, then sends ",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "nicolocarcagni/sole-telegram-wallet",
+            "url": "https://github.com/nicolocarcagni/sole-telegram-wallet",
+            "snippet": "# Repository: nicolocarcagni/sole-telegram-wallet\n\nA secure, custodial mobile wallet for the SOLE Blockchain built on Telegram. Features AES encryption, QR code scanning (Computer Vision), and real-ti",
+            "published": "2026-01-26T00:08:29.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "[Bug]: Telegram sent message cache leaks per-chat entries when messages expire · Issue #6764 · openclaw/openclaw",
+            "url": "https://github.com/openclaw/openclaw/issues/6764",
+            "snippet": "# Issue: openclaw/openclaw #6764\n\n- Repository: openclaw/openclaw | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | 344K stars | TypeScript\n\n## [Bug]: Telegram sent message",
+            "published": "2026-02-02T01:37:01.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-02T03:44:58.019Z"
+      },
+      "timestamp": "2026-04-02T03:44:59.885Z"
+    },
+    "chia_network": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Chia 2.7.0: Combatting the AI Siege - Chia Network",
+            "url": "https://www.chia.net/2026/03/26/chia-2-7-0-combatting-the-ai-siege/",
+            "snippet": "Chia 2.7.0: Combatting the AI Siege - Chia Network\n\n##### Chia Blog\n\n# Chia 2.7.0: Combatting the AI Siege\n\n###### March 26, 2026\n\n###### by Justin England\n\nI’ve often referenced the notion of the “th",
+            "published": "2026-03-26T19:38:22.000Z",
+            "score": 1
+          },
+          {
+            "title": "Untitled",
+            "url": "https://leastauthority.com/chia-network-offers-primitive-final-audit-report/",
+            "snippet": "Offers Primitive\nSecurity Audit Report\nChia Network\nFinal Audit Report: 20 September 2023\nTable of Contents\nOverview\nBackground\nProject Dates\nReview Team\nCoverage\nTarget Code and Revision\nSupporting D",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "CAT1 Vulnerability Explained - CVE and CWE - Chia Network",
+            "url": "https://www.chia.net/2022/07/29/cat1-vulnerability-explained-cve-and-cwe.en.html",
+            "snippet": "CAT1 Vulnerability Explained - CVE and CWE - Chia Network\n\n##### Chia Blog\n\n# CAT1 Vulnerability Explained – CVE and CWE\n\n###### July 29, 2022\n\n###### by Chia Team\n\nPart of our commitment to the secur",
+            "published": "2022-07-29T19:55:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Chia 2.7.0: Combatting the AI Siege - Chia Network",
+            "url": "https://www.chia.net/2026/03/26/chia-2-7-0-combatting-the-ai-siege/",
+            "snippet": "Chia 2.7.0: Combatting the AI Siege - Chia Network\n\n##### Chia Blog\n\n# Chia 2.7.0: Combatting the AI Siege\n\n###### March 26, 2026\n\n###### by Justin England\n\nI’ve often referenced the notion of the “th",
+            "published": "2026-03-26T19:38:22.000Z",
+            "score": 1
+          },
+          {
+            "title": "CVE-2026-3192<!-- --> | Tenable®",
+            "url": "https://www.tenable.com/cve/CVE-2026-3192",
+            "snippet": "CVE-2026-3192 | Tenable®\n\n###### Detections\n\n- Release Notes\n- Indicators of Exposure\n- Indicators of Attack\n- Search\n- Overview\n- Indicators\n- Download All Audit Files\n- Documentation\n- Authorities\n-",
+            "published": "2026-03-14T13:10:17.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "NVD - CVE-2026-3193",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-3193",
+            "snippet": "NVD - CVE-2026-3193\n\n## CVE-2026-3193 Detail\n\n### Description\n\nA vulnerability was detected in Chia Blockchain 2.1.0. Impacted is an unknown function of the file /send_transaction. The manipulation re",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "Update Patched Fix HTTP parser (HTTP Request Smuggling) still overly lenient about separators · Pull Request #17776 · Chia-Network/chia-blockchain",
+            "url": "https://github.com/Chia-Network/chia-blockchain/pull/17776",
+            "snippet": "# Pull Request: Chia-Network/chia-blockchain #17776\n\n- Repository: Chia-Network/chia-blockchain | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) | 11K stars",
+            "published": "2024-03-25T17:08:21.000Z",
+            "score": 1
+          },
+          {
+            "title": "recover chiabip tgz in poetry lock · Pull Request #19805 · Chia-Network/chia-blockchain",
+            "url": "https://github.com/Chia-Network/chia-blockchain/pull/19805",
+            "snippet": "# Pull Request: Chia-Network/chia-blockchain #19805\n\n- Repository: Chia-Network/chia-blockchain | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) | 11K stars",
+            "published": "2025-07-11T15:00:15.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Minimal smart coin example on Chia blockchain",
+            "url": "https://gist.github.com/trepca/d6a0d7f761de7459643422eb73c435e6",
+            "snippet": "# Gist: Minimal smart coin example on Chia blockchain\n\n- Author: @trepca\n- Public gist (1 file)\n- Created: 2024-03-02T06:27:10Z\n- Updated: 2024-03-18T11:46:46Z\n\n## smart_coin.py\n\n```py\nimport time\n\nfr",
+            "published": "2024-03-02T06:27:10.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-02T03:44:59.885Z"
+      },
+      "timestamp": "2026-04-02T03:45:01.800Z"
+    },
+    "3cx": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "3CX Phone System Local Privilege Escalation Vulnerability",
+            "url": "https://praetorian.com/blog/3cx-phone-system-local-privilege-escalation-vulnerability",
+            "snippet": "3CX Phone System Local Privilege Escalation Vulnerability | PraetorianSkip to content\nPraetorian Logo\n* Vulnerability Research\n# 3CX Phone System Local Privilege Escalation Vulnerability\n* Adam Crosse",
+            "published": "2024-08-28T22:37:19.000Z",
+            "score": 1
+          },
+          {
+            "title": "3CX Phone System Local Privilege Escalation Vulnerability - Security Boulevard",
+            "url": "https://securityboulevard.com/2024/08/3cx-phone-system-local-privilege-escalation-vulnerability/",
+            "snippet": "3CX Phone System Local Privilege Escalation Vulnerability - Security Boulevard\n\n--\n\nSecurity Bloggers Network Vulnerabilities\n\n## Overview\n\nIn an effort to safeguard our customers, we perform proactiv",
+            "published": "2024-08-28T22:37:19.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "3CX Phone System Web console affected by XXE - Logically Secure Ltd",
+            "url": "https://www.logicallysecure.com/blog/3cx-phone-system-web-console-affected-by-xxe/",
+            "snippet": "3CX Phone System Web console affected by XXE - Logically Secure Ltd\n\nXXE vulnerability in 3CX Phone System\n\nAnother vulnerability discovered by Logically Secure. This time it is XXE (XML External Enti",
+            "published": "2019-08-01T05:50:48.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "3CX Phone System Local Privilege Escalation Vulnerability - Security Boulevard",
+            "url": "https://securityboulevard.com/2024/08/3cx-phone-system-local-privilege-escalation-vulnerability/",
+            "snippet": "3CX Phone System Local Privilege Escalation Vulnerability - Security Boulevard\n\n--\n\nSecurity Bloggers Network Vulnerabilities\n\n## Overview\n\nIn an effort to safeguard our customers, we perform proactiv",
+            "published": "2024-08-28T22:37:19.000Z",
+            "score": 1
+          },
+          {
+            "title": "3CX Phone System Local Privilege Escalation Vulnerability",
+            "url": "https://praetorian.com/blog/3cx-phone-system-local-privilege-escalation-vulnerability",
+            "snippet": "3CX Phone System Local Privilege Escalation Vulnerability | PraetorianSkip to content\nPraetorian Logo\n* Vulnerability Research\n# 3CX Phone System Local Privilege Escalation Vulnerability\n* Adam Crosse",
+            "published": "2024-08-28T22:37:19.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2023-27362 Impact, Exploitability, and Mitigation Steps | Wiz",
+            "url": "https://wiz.io/vulnerability-database/cve/cve-2023-27362",
+            "snippet": "CVE-2023-27362 Impact, Exploitability, and Mitigation Steps | Wiz\n\nWiz is now part of Google Cloud\n\nPricing Get a demo\n\nGet a demo\n\nVulnerability Database CVE-2023-27362\n\n# CVE-2023-27362: 3CX 3CXPhon",
+            "published": "2024-05-19T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "X3RX3SSec/CVE-2023-5360",
+            "url": "https://github.com/X3RX3SSec/CVE-2023-5360",
+            "snippet": "# Repository: X3RX3SSec/CVE-2023-5360\n\nRoyal Elementor Addons - Unauthenticated Remote Code Execution\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Primary language: Python\n- Languages: Pyth",
+            "published": "2025-07-14T18:09:35.000Z",
+            "score": 1
+          },
+          {
+            "title": "xV4nd3Rx/CVE-2025-57819_FreePBX-PoC",
+            "url": "https://github.com/xV4nd3Rx/CVE-2025-57819_FreePBX-PoC",
+            "snippet": "# Repository: xV4nd3Rx/CVE-2025-57819_FreePBX-PoC\n\nSafe, read-only SQL Injection checker for FreePBX (CVE-2025-57819), using error/boolean/time-based techniques with per-parameter verdicts and JSON re",
+            "published": "2025-09-14T14:26:33.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "exploit.py at master · Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc",
+            "url": "https://github.com/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc/blob/master/exploit.py",
+            "snippet": "# File: Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc/exploit.py\n\n- Repository: Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-2997",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-02T03:45:01.800Z"
+      },
+      "timestamp": "2026-04-02T03:45:03.718Z"
     }
   },
-  "lastRun": "2026-04-01T04:13:12.211Z"
+  "lastRun": "2026-04-02T03:45:03.718Z"
 }
