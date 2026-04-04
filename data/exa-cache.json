@@ -4423,7 +4423,763 @@
         "enriched_at": "2026-04-03T03:46:21.456Z"
       },
       "timestamp": "2026-04-03T03:46:23.234Z"
+    },
+    "visa": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Visa Security Alert:  New JavaScript Skimmer 'Pipka' Targeting eCommerce Merchants Identified",
+            "url": "https://usa.visa.com/dam/VCOM/global/support-legal/documents/pfd-identifies-new-javascript-skimmer.pdf",
+            "snippet": "Visa Public\nVisa Payment Fraud Disruption \n1 \nPFD-19-045 Visa Public\nVisa Security Alert NOVEMBER 2019\nNew JavaScript Skimmer ‘Pipka’ Targeting eCommerce Merchants\nIdentified\nDistribution: Issuers, Ac",
+            "published": "2019-11-04T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Visa warns of Baka JavaScript skimmer capable of evading detection",
+            "url": "https://hackread.com/visa-baka-javascript-skimmer-evading-detection",
+            "snippet": "Visa warns of Baka JavaScript skimmer capable of evading detection\n* Hacking News\n* Leaks\n* WikiLeaks\n* Anonymous\n* Technology\n* Android\n* Apple\n* Google\n* Microsoft\n* Samsung\n* 3D\n* How To\n* Artifici",
+            "published": "2020-09-07T14:30:02.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Malicious Code Detected in Visa Package: A Critical Security Alert",
+            "url": "https://vulert.com/vuln-db/npm-visa-226741",
+            "snippet": "Malicious Code Detected in Visa Package: A Critical Security Alert\n\n# Malicious Code Detected in Visa Package: A Critical Security Alert\n\nAffected Package: visa(Click to see all vulnerabilities of thi",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Visa Security Alert:  New JavaScript Skimmer 'Pipka' Targeting eCommerce Merchants Identified",
+            "url": "https://usa.visa.com/dam/VCOM/global/support-legal/documents/pfd-identifies-new-javascript-skimmer.pdf",
+            "snippet": "Visa Public\nVisa Payment Fraud Disruption \n1 \nPFD-19-045 Visa Public\nVisa Security Alert NOVEMBER 2019\nNew JavaScript Skimmer ‘Pipka’ Targeting eCommerce Merchants\nIdentified\nDistribution: Issuers, Ac",
+            "published": "2019-11-04T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "visa/trusted-agent-protocol",
+            "url": "https://github.com/visa/trusted-agent-protocol",
+            "snippet": "# Repository: visa/trusted-agent-protocol\n\nEstablishing a universal standard of trust between AI agents and merchants for the next phase of agentic commerce.\n\n- Stars: 142\n- Forks: 24\n- Watchers: 142\n",
+            "published": "2025-10-10T02:05:59.000Z",
+            "score": 1
+          },
+          {
+            "title": "Cherry pick POC of emv simulation · Pull Request #2652 · RfidResearchGroup/proxmark3",
+            "url": "https://github.com/RfidResearchGroup/proxmark3/pull/2652",
+            "snippet": "# Pull Request: RfidResearchGroup/proxmark3 #2652\n\n- Repository: RfidResearchGroup/proxmark3 | Iceman Fork - Proxmark3 | 5K stars | C\n\n## Cherry pick POC of emv simulation\n\n- Author: @n-hutton\n- Assoc",
+            "published": "2024-11-21T19:51:16.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "MichaelVenturella/CVE-2025-6018-6019-PoC",
+            "url": "https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC",
+            "snippet": "# Repository: MichaelVenturella/CVE-2025-6018-6019-PoC\n\nA Proof of Concept for chaining CVE-2025-6018 (PAM/Polkit Active Session Bypass) and CVE-2025-6019 (libblockdev SUID Mount Flaw) to achieve Loca",
+            "published": "2026-02-09T19:17:23.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 7,
+        "enriched_at": "2026-04-04T03:34:42.696Z"
+      },
+      "timestamp": "2026-04-04T03:34:44.553Z"
+    },
+    "toolsforhumanity": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "(Web-)Insecurity Blog",
+            "url": "http://security.lauritz-holtmann.de/tags/tools-for-humanity",
+            "snippet": "(Web-)Insecurity Blog\n\nBelow you will find pages that utilize the taxonomy term “Tools for Humanity”.\n\nJun 19, 2024 Advisories\n\n## Sign-in with World ID: XSS and ATO via OIDC Form Post Response Mode\n\n",
+            "published": "2024-06-18T22:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "(Web-)Insecurity Blog | Sign-in with World ID: XSS and ATO via OIDC Form Post Response Mode",
+            "url": "http://security.lauritz-holtmann.de/advisories/tfh-form_post-xss-ato/",
+            "snippet": "(Web-)Insecurity Blog | Sign-in with World ID: XSS and ATO via OIDC Form Post Response Mode\n\nADVISORIES June 19, 2024 4 min read 691 words\n\nRecently, Tools for Humanity partnered with the German Hacke",
+            "published": "2024-06-18T22:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/toolsforhumanity/policy_versions?type=team&change=3768338",
+            "snippet": "HackerOne\n\nHackerOne",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "protectai/vulnhuntr",
+            "url": "https://github.com/protectai/vulnhuntr",
+            "snippet": "# Repository: protectai/vulnhuntr\n\nZero shot vulnerability discovery using LLMs\n\n- Stars: 2611\n- Forks: 293\n- Watchers: 2611\n- Open issues: 15\n- Primary language: Python\n- Languages: Python (99.8%), D",
+            "published": "2024-10-15T19:44:25.000Z",
+            "score": 1
+          },
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/toolsforhumanity/policy_versions?type=team&change=3768338",
+            "snippet": "HackerOne\n\nHackerOne",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Hex Security | AI-Powered Autonomous Penetration Testing",
+            "url": "https://www.anytool.sh/",
+            "snippet": "Hex Security | AI-Powered Autonomous Penetration Testing\n\n0\n\n50\n\n100\n\n150\n\n200\n\n250\n\n300\n\n350\n\n400\n\n450\n\n500\n\n550\n\n600\n\n650\n\n700\n\n750\n\n0\n\n50\n\n100\n\n150\n\n200\n\n250\n\n300\n\n350\n\n400\n\n450\n\n500\n\n550\n\n600\n\n650",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "LuemmelSec/ToolShell",
+            "url": "https://github.com/LuemmelSec/ToolShell",
+            "snippet": "# Repository: LuemmelSec/ToolShell\n\n- Stars: 29\n- Forks: 2\n- Watchers: 29\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-01-06T08:33:45Z\n- Last ",
+            "published": "2026-01-06T08:33:45.000Z",
+            "score": 1
+          },
+          {
+            "title": "[SECURITY] Edit tool reads file content before PreToolUse hook validation, allowing content probing · Issue #604 · anthropics/claude-agent-sdk-python",
+            "url": "https://github.com/anthropics/claude-agent-sdk-python/issues/604",
+            "snippet": "# Issue: anthropics/claude-agent-sdk-python #604\n\n- Repository: anthropics/claude-agent-sdk-python | 6K stars | Python\n\n## [SECURITY] Edit tool reads file content before PreToolUse hook validation, al",
+            "published": "2026-02-23T07:12:33.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "AdnaneKhan/ActionsTOCTOU",
+            "url": "https://github.com/AdnaneKhan/ActionsTOCTOU",
+            "snippet": "# Repository: AdnaneKhan/ActionsTOCTOU\n\nExample repository for GitHub Actions Time of Check to Time of Use (TOCTOU vulnerabilities)\n\n- Stars: 37\n- Forks: 8\n- Watchers: 37\n- Open issues: 3\n- Primary la",
+            "published": "2024-04-07T22:11:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-04T03:34:44.553Z"
+      },
+      "timestamp": "2026-04-04T03:34:46.098Z"
+    },
+    "ring": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "My First Duplicate on a Bug Bounty Program! (Ring) | ~root@clover:",
+            "url": "https://www.ahackersblog.com/p/my-first-duplicate",
+            "snippet": "My First Duplicate on a Bug Bounty Program! (Ring) | ~root@clover:\n\n- My First Duplicate on a Bug Bounty Program! (Ring) | ~root@clover:\n- Posts\n- AHB | ~root@clover:\n\n# My First Duplicate on a Bug Bo",
+            "published": "2024-09-17T00:55:40.000Z",
+            "score": 1
+          },
+          {
+            "title": "Amazon Quickly Fixed a Vulnerability in Ring Android App That Could Expose Users’ Camera Recordings",
+            "url": "https://checkmarx.com/blog/amazon-quickly-fixed-a-vulnerability-in-ring-android-app-that-could-expose-users-camera-recordings",
+            "snippet": "Amazon Quickly Fixed a Vulnerability in Ring Android App\n\nGet a Demo\n********\n**\n* Home**\n* Amazon Quickly Fixed a Vulnerability in Ring Android App That Could Expose Users’ Camera Recordings**\n# Amaz",
+            "published": "2022-08-18T10:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "One Ring to rule them all, and in darkness bind them",
+            "url": "https://web.archive.org/web/20190918024432/https://dojo.bullguard.com/dojo-by-bullguard/blog/ring/",
+            "snippet": "One Ring to rule them all, and in darkness bind them\nWayback Machine\n32 captures\n11 Apr 2019 - 05 May 2024\n\n\n**Apr**|SEP|**Dec**|\nPrevious capture|18|Next capture|\n2018|2019|**2020**|\nsuccess\nfail\n\n\nA",
+            "published": "2019-04-11T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "CVE-2025-7955: RingCentral WordPress Auth Bypass Flaw",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2025-7955/",
+            "snippet": "CVE-2025-7955: RingCentral WordPress Auth Bypass Flaw\n\n \n\nVulnerability Database/CVE-2025-7955\n\n# CVE-2025-7955: RingCentral WordPress Auth Bypass Flaw\n\nCVE-2025-7955 is an authentication bypass vulne",
+            "published": "2025-08-28T06:15:31.000Z",
+            "score": 1
+          },
+          {
+            "title": "Unauthenticated Cluster Takeover in AWS ROSA",
+            "url": "https://blog.ryanjarv.sh/2026/01/05/unauth-aws-rosa-cluster-takeover.html",
+            "snippet": "Unauthenticated Cluster Takeover in AWS ROSA try{Typekit.load();}catch(e){} --\n\nRyan Gerstenkorn home\n\n# Unauthenticated Cluster Takeover in AWS ROSA\n\nRecently, I discovered a critical vulnerability i",
+            "published": "2026-01-05T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2025-64983 - Ring Video Doorbell Debug Code Remote Code Execution | Kenya Education Network",
+            "url": "https://cert.kenet.or.ke/cve-2025-64983-ring-video-doorbell-debug-code-remote-code-execution",
+            "snippet": "CVE-2025-64983 - Ring Video Doorbell Debug Code Remote Code Execution | Kenya Education Network\n\n \n\n# CVE-2025-64983 - Ring Video Doorbell Debug Code Remote Code Execution\n\nSubmitted by admin on Novem",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "aegistudio/RingBufferDetonator",
+            "url": "https://github.com/aegistudio/RingBufferDetonator",
+            "snippet": "# Repository: aegistudio/RingBufferDetonator\n\nExploitation for CVE-2021-3679 and document for its fix\n\n- Stars: 9\n- Forks: 1\n- Watchers: 9\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell",
+            "published": "2021-07-20T07:42:25.000Z",
+            "score": 1
+          },
+          {
+            "title": "Nxploited/CVE-2025-7955",
+            "url": "https://github.com/Nxploited/CVE-2025-7955",
+            "snippet": "# Repository: Nxploited/CVE-2025-7955\n\nRingCentral Communications 1.5 - 1.6.8 - Missing Server‑Side Verification to Authentication Bypass via ringcentral_admin_login_2fa_verify Function\n\n- Stars: 1\n- ",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "MrAle98/CVE-2025-21333-POC",
+            "url": "https://github.com/MrAle98/CVE-2025-21333-POC",
+            "snippet": "# Repository: MrAle98/CVE-2025-21333-POC\n\nPOC exploit for CVE-2025-21333 heap-based buffer overflow. It leverages WNF state data and I/O ring IOP_MC_BUFFER_ENTRY\n\n- Stars: 231\n- Forks: 35\n- Watchers: ",
+            "published": "2025-02-27T12:36:55.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-04T03:34:46.098Z"
+      },
+      "timestamp": "2026-04-04T03:34:47.651Z"
+    },
+    "six-group": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "A Bug Bounty Program for SIX  | SIX",
+            "url": "https://www.six-group.com/en/blog/six-bug-bounty-program.html",
+            "snippet": "A Bug Bounty Program for SIX | SIX \n\nTable of Contents\n\n- What Is an Ethical Hacker?\n- What Is Offensive Cybersecurity?\n- Dream Job: Gang Leader\n- The World’s First Bug Bounty Program\n- A Bug Bounty P",
+            "published": "2024-10-01T04:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Untitled",
+            "url": "https://six-group.com/dam/download/market-data/news/exfeed-messages/2024/exfeed-message-10-2024.pdf",
+            "snippet": "SIX Exfeed Ltd\nPfingstweidstrasse 110\nP.O. Box\nCH-8021 Zurich\nBusiness Support\nT +41 58 399 2977\nexfeed.admin@six-group.com\nTechnical Support\nGeneva\nLondon\nZurich\n+41 58 399 5642\n+44 20 7864 4364\n+41 ",
+            "published": "2024-08-02T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Corporate Security at SIX",
+            "url": "https://six-group.com/en/company/governance/security.html",
+            "snippet": "Corporate Security at SIX\n# Security\nSecurity Is Our Business\nSIX connects financial market participants in Switzerland, Spain, and around the world. We are owned by more than 120 national and interna",
+            "published": "2020-09-21T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Untitled",
+            "url": "https://six-group.com/dam/download/market-data/news/exfeed-messages/2024/exfeed-message-10-2024.pdf",
+            "snippet": "SIX Exfeed Ltd\nPfingstweidstrasse 110\nP.O. Box\nCH-8021 Zurich\nBusiness Support\nT +41 58 399 2977\nexfeed.admin@six-group.com\nTechnical Support\nGeneva\nLondon\nZurich\n+41 58 399 5642\n+44 20 7864 4364\n+41 ",
+            "published": "2024-08-02T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Corporate Security at SIX",
+            "url": "https://six-group.com/en/company/governance/security.html",
+            "snippet": "Corporate Security at SIX\n# Security\nSecurity Is Our Business\nSIX connects financial market participants in Switzerland, Spain, and around the world. We are owned by more than 120 national and interna",
+            "published": "2020-09-21T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "SIX Cyber Security Report 2020 – Threats Observed within the (Swiss) Financial Sector",
+            "url": "https://six-group.com/en/newsroom/media-releases/2020/20201110-six-cyber-security-report-2020.html",
+            "snippet": "SIX Cyber Security Report 2020 –Threats Observed within the (Swiss) Financial Sector\n# SIX Cyber Security Report 2020 –Threats Observed within the (Swiss) Financial Sector\nComparing the cyber-attacks ",
+            "published": "2020-11-10T16:45:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "SIX Group AG",
+            "url": "https://github.com/six-group",
+            "snippet": "# Organization: SIX Group AG (@six-group)\n\n- Website: https://six-group.com/\n- Location: Switzerland\n- Followers: 25\n- Public Repos: 9\n- Created: 2022-11-02\n\n---\n\n## Top Repositories\n\n| Repository | D",
+            "published": "2022-11-02T14:56:37.000Z",
+            "score": 1
+          },
+          {
+            "title": "MichaelVenturella/CVE-2025-6018-6019-PoC",
+            "url": "https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC",
+            "snippet": "# Repository: MichaelVenturella/CVE-2025-6018-6019-PoC\n\nA Proof of Concept for chaining CVE-2025-6018 (PAM/Polkit Active Session Bypass) and CVE-2025-6019 (libblockdev SUID Mount Flaw) to achieve Loca",
+            "published": "2026-02-09T19:17:23.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "exploit.py at main · synacktiv/CVE-2025-59712_CVE-2025-59713",
+            "url": "https://github.com/synacktiv/CVE-2025-59712_CVE-2025-59713/blob/main/exploit.py",
+            "snippet": "# File: synacktiv/CVE-2025-59712_CVE-2025-59713/exploit.py\n\n- Repository: synacktiv/CVE-2025-59712_CVE-2025-59713 | Snipe-IT PoC exploit for CVE-2025-59712 and CVE-2025-59713 | 2 stars | Python\n- Bran",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-04T03:34:47.651Z"
+      },
+      "timestamp": "2026-04-04T03:34:49.234Z"
+    },
+    "eufy_security": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Demo: Backdoor Through the Front Door: Demonstrating Security Flaws in the Eufy Ecosystem | IEEE Conference Publication | IEEE Xplore",
+            "url": "https://ieeexplore.ieee.org/document/10818042/",
+            "snippet": "Demo: Backdoor Through the Front Door: Demonstrating Security Flaws in the Eufy Ecosystem | IEEE Conference Publication | IEEE Xplore\n\n--\n\n--\n\n### IEEE Account\n\n- Update Address\n- Change Username/Pass",
+            "published": "2025-04-07T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Untitled",
+            "url": "https://www.usenix.org/system/files/woot24-goeman.pdf",
+            "snippet": "This paper is included in the Proceedings of the\n18th USENIX WOOT Conference on Offensive Technologies.\nAugust 12–13, 2024 • Philadelphia, PA, USA\nISBN 978-1-939133-43-4\nOpen access to the\nProceedings",
+            "published": "2024-07-18T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "CVE Record: CVE-2021-3555",
+            "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3555",
+            "snippet": "CVE Record: CVE-2021-3555\n\nSkip to main content\n\nPlease wait. Loading...",
+            "published": "2024-06-04T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Demo: Backdoor Through the Front Door: Demonstrating Security Flaws in the Eufy Ecosystem | IEEE Conference Publication | IEEE Xplore",
+            "url": "https://ieeexplore.ieee.org/document/10818042/",
+            "snippet": "Demo: Backdoor Through the Front Door: Demonstrating Security Flaws in the Eufy Ecosystem | IEEE Conference Publication | IEEE Xplore\n\n--\n\n--\n\n### IEEE Account\n\n- Update Address\n- Change Username/Pass",
+            "published": "2025-04-07T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "CVE Record: CVE-2021-3555",
+            "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3555",
+            "snippet": "CVE Record: CVE-2021-3555\n\nSkip to main content\n\nPlease wait. Loading...",
+            "published": "2024-06-04T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Untitled",
+            "url": "https://www.usenix.org/system/files/woot24-goeman.pdf",
+            "snippet": "This paper is included in the Proceedings of the\n18th USENIX WOOT Conference on Offensive Technologies.\nAugust 12–13, 2024 • Philadelphia, PA, USA\nISBN 978-1-939133-43-4\nOpen access to the\nProceedings",
+            "published": "2024-07-18T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "Discover local key from Eufy login details · Issue #1 · mitchellrj/eufy_robovac",
+            "url": "https://github.com/mitchellrj/eufy_robovac/issues/1",
+            "snippet": "# Issue: mitchellrj/eufy_robovac #1\n\n- Repository: mitchellrj/eufy_robovac | 110 stars | Python\n\n## Discover local key from Eufy login details\n\n- Author: @mitchellrj\n- Association: OWNER\n- State: open",
+            "published": "2019-04-22T15:52:08.000Z",
+            "score": 1
+          },
+          {
+            "title": "blasty/unwyze",
+            "url": "https://github.com/blasty/unwyze",
+            "snippet": "# Repository: blasty/unwyze\n\n- Stars: 133\n- Forks: 22\n- Watchers: 133\n- Open issues: 1\n- Primary language: C\n- Languages: C (99.4%), Makefile (0.6%)\n- Default branch: main\n- Created: 2023-10-28T19:55:",
+            "published": "2023-10-28T19:55:50.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "FuzzyMistborn/python-eufy-security",
+            "url": "https://github.com/FuzzyMistborn/python-eufy-security",
+            "snippet": "# Repository: FuzzyMistborn/python-eufy-security\n\nPython library for Eufy Security cameras\n\n- Stars: 209\n- Forks: 48\n- Watchers: 209\n- Open issues: 7\n- Primary language: Python\n- Languages: Python (95",
+            "published": "2019-10-25T13:13:13.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-04T03:34:49.234Z"
+      },
+      "timestamp": "2026-04-04T03:34:50.738Z"
+    },
+    "eero": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "The Download",
+            "url": "https://blog.eero.com/security-eero%E2%80%8A-%E2%80%8Aannouncing-coordinated-disclosure-program/",
+            "snippet": "Security at eero  — announcing our Coordinated Disclosure Program &#8211; The Download\nSHOP HOLIDAY DEALS\n\nSHOP HOLIDAY DEALS\n\n\nShop\nMenu\n# The Download\n\nThe latest in home technology, trends, and new",
+            "published": "2017-08-23T17:00:29.000Z",
+            "score": 1
+          },
+          {
+            "title": "“FragAttacks (fragmentation and aggregation attacks)” update for all eero customers – The Download",
+            "url": "https://blog.eero.com/fragattacks-fragmentation-aggregation-and-attacks-update-available-for-all-eero-customers/",
+            "snippet": "“FragAttacks (fragmentation and aggregation attacks)” update for all eero customers – The Download \n\nSHOP HOLIDAY DEALS\n\nSHOP HOLIDAY DEALS\n\n \n\n \n\n \n\nAt eero, the security of our devices and services ",
+            "published": "2021-05-11T18:23:10.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "How Amazon and eero continue to keep customers secure – The Download",
+            "url": "https://blog.eero.com/how-amazon-and-eero-continue-to-keep-customers-secure/",
+            "snippet": "How Amazon and eero continue to keep customers secure – The Download \n\nSHOP HOLIDAY DEALS\n\nSHOP HOLIDAY DEALS\n\n \n\n \n\n \n\nDiscovering and patching a global 0-day vulnerability\n\nSince our founding in 201",
+            "published": "2025-12-09T23:12:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "NVD - CVE-2023-5324",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5324",
+            "snippet": "NVD - CVE-2023-5324 \n\n## CVE-2023-5324 Detail\n\nModified\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may require amendment du",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "“FragAttacks (fragmentation and aggregation attacks)” update for all eero customers – The Download",
+            "url": "https://blog.eero.com/fragattacks-fragmentation-aggregation-and-attacks-update-available-for-all-eero-customers/",
+            "snippet": "“FragAttacks (fragmentation and aggregation attacks)” update for all eero customers – The Download \n\nSHOP HOLIDAY DEALS\n\nSHOP HOLIDAY DEALS\n\n \n\n \n\n \n\nAt eero, the security of our devices and services ",
+            "published": "2021-05-11T18:23:10.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2023-5324 eeroOS Ethernet denial of service",
+            "url": "https://vuldb.com/?id.241024=",
+            "snippet": "CVE-2023-5324 eeroOS Ethernet denial of service\n\nVDB-241024· CVE-2023-5324· GCVE-100-241024\n\n# eeroOS up to 6.16.4-11 Ethernet Interface denial of service\n\nHistory Diff relate json xml CTI\n\n## Summary",
+            "published": "2023-10-01T06:05:11.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "V33RU/CommandInWiFi-Zeroclick",
+            "url": "https://github.com/V33RU/CommandInWiFi",
+            "snippet": "# Repository: V33RU/CommandInWiFi-Zeroclick\n\nCommandInWiFi: Exploiting SSID Storage in WiFi Scanning for Command Injection\n\n- Stars: 38\n- Forks: 3\n- Watchers: 38\n- Open issues: 0\n- Primary language: P",
+            "published": "2024-01-03T16:43:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "adhikara13/CVE-2024-9441",
+            "url": "https://github.com/adhikara13/CVE-2024-9441",
+            "snippet": "# Repository: adhikara13/CVE-2024-9441\n\nNortek Linear eMerge E3 Pre-Auth RCE PoC (CVE-2024-9441)\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- ",
+            "published": "2024-10-03T11:28:46.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE",
+            "url": "https://github.com/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE",
+            "snippet": "# Repository: mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Creat",
+            "published": "2026-02-19T16:10:49.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-04T03:34:50.739Z"
+      },
+      "timestamp": "2026-04-04T03:34:52.292Z"
+    },
+    "mozilla": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "From an Out-of-Scope Bug to Unlocking Lifetime Premium Accounts in Mozilla",
+            "url": "https://0d-amr.medium.com/from-an-out-of-scope-bug-to-unlocking-lifetime-premium-accounts-in-mozilla-fe96371d814c",
+            "snippet": "From an Out-of-Scope Bug to Unlocking Lifetime Premium Accounts in Mozilla | by Amr | Medium\nOpen in app\nSign up\nSign in\n\n\nWrite\n\n\n\nSign up\nSign in\n\n# From an Out-of-Scope Bug to Unlocking Lifetime Pr",
+            "published": "2024-11-07T16:55:49.000Z",
+            "score": 1
+          },
+          {
+            "title": "Guest Blog Post: Leaking silhouettes of cross-origin images – Attack & Defense (Archive)",
+            "url": "https://blog.mozilla.org/attack-and-defense/2021/01/11/leaking-silhouettes-of-cross-origin-images/",
+            "snippet": "Guest Blog Post: Leaking silhouettes of cross-origin images – Attack & Defense (Archive)\n\nThis blog post is one of several guest blog posts, where we invite participants of our bug bounty program to w",
+            "published": "2021-01-11T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "292691 - Full Remote Compromise using some of my previous vulns",
+            "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=292691",
+            "snippet": "292691 - Full Remote Compromise using some of my previous vulns\n\nCopy Summary\n\n▾\n\n- Markdown\n- Markdown (bug number)\n- Plain Text\n- HTML\n\nView ▾\n\n- Reset Sections\n- Expand All Sections\n- Collapse All ",
+            "published": "2024-06-10T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "CVE-2026-4721: Mozilla Firefox RCE Vulnerability",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4721/",
+            "snippet": "CVE-2026-4721: Mozilla Firefox RCE Vulnerability\n\n \n\nVulnerability Database/CVE-2026-4721\n\n# CVE-2026-4721: Mozilla Firefox RCE Vulnerability\n\nCVE-2026-4721 is a remote code execution flaw in Mozilla ",
+            "published": "2026-03-24T13:16:07.000Z",
+            "score": 1
+          },
+          {
+            "title": "CVE-2026-4715: Mozilla Firefox Use-After-Free Vulnerability",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4715/",
+            "snippet": "CVE-2026-4715: Mozilla Firefox Use-After-Free Vulnerability\n\n \n\nVulnerability Database/CVE-2026-4715\n\n# CVE-2026-4715: Mozilla Firefox Use-After-Free Vulnerability\n\nCVE-2026-4715 is a use-after-free v",
+            "published": "2026-03-24T13:16:07.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2026-4716: Mozilla Firefox Buffer Overflow Vulnerability",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4716/",
+            "snippet": "CVE-2026-4716: Mozilla Firefox Buffer Overflow Vulnerability\n\n \n\nVulnerability Database/CVE-2026-4716\n\n# CVE-2026-4716: Mozilla Firefox Buffer Overflow Vulnerability\n\nCVE-2026-4716 is a buffer overflo",
+            "published": "2026-03-24T13:16:07.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "0vercl0k/CVE-2019-9810",
+            "url": "https://github.com/0vercl0k/CVE-2019-9810",
+            "snippet": "# Repository: 0vercl0k/CVE-2019-9810\n\nExploit for CVE-2019-9810 Firefox on Windows 64-bit.\n\n- Stars: 228\n- Forks: 52\n- Watchers: 228\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaSc",
+            "published": "2019-05-05T17:19:02.000Z",
+            "score": 1
+          },
+          {
+            "title": "moscovium-mc/Tor-0day-JavaScript-Exploit",
+            "url": "https://github.com/moscovium-mc/Tor-0day-JavaScript-Exploit",
+            "snippet": "# Repository: moscovium-mc/Tor-0day-JavaScript-Exploit\n\nFirefox/Tor Browser 0day exploit analysis (CVE-2024-9680) A UAF in animation timelines leading to RCE. Patched.\n\n- Stars: 9\n- Forks: 1\n- Watcher",
+            "published": "2025-11-07T04:36:11.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "LOURC0D3/CVE-2024-4367-PoC",
+            "url": "https://github.com/LOURC0D3/CVE-2024-4367-PoC",
+            "snippet": "# Repository: LOURC0D3/CVE-2024-4367-PoC\n\nCVE-2024-4367 & CVE-2024-34342 Proof of Concept\n\n- Stars: 192\n- Forks: 26\n- Watchers: 192\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- De",
+            "published": "2024-05-20T10:02:23.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-04T03:34:52.292Z"
+      },
+      "timestamp": "2026-04-04T03:34:53.913Z"
+    },
+    "stripchat": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Sex cam site Stripchat exposes user, model info on the web: report - Comparitech",
+            "url": "https://www.comparitech.com/blog/information-security/stripchat-data-leak/",
+            "snippet": "Sex cam site Stripchat exposes user, model info on the web: report - Comparitech \n\n \n\nMenu Close\n\n# Sex cam site Stripchat exposes user, model info on the web: report\n\n \n\nWriter: Paul Bischoff\n\nTech W",
+            "published": "2021-11-15T09:00:28.000Z",
+            "score": 1
+          },
+          {
+            "title": "Stripchat database mess up exposes 200M adult cam models, users’ data",
+            "url": "https://hackread.com/stripchat-database-adult-cam-models-users",
+            "snippet": "Stripchat database mess up exposes 200M adult cam models, users’ data\n\n\n\n###### Why Your Weather-Powered Design Tool Needs More Than Just an API Key\n\n\n\n###### Global Crackdown Dismantles 4 Botnets Beh",
+            "published": "2021-11-17T11:29:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Adult cam site StripChat exposes the data of millions of users and cam models - RedPacket Security",
+            "url": "https://www.redpacketsecurity.com/adult-cam-site-stripchat-exposes-the-data-of-millions-of-users-and-cam-models/",
+            "snippet": "Adult cam site StripChat exposes the data of millions of users and cam models - RedPacket Security\n\n## The popular adult cam site StripChat has suffered a security breach, the personal data of million",
+            "published": "2021-11-16T15:03:02.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Sex cam site Stripchat exposes user, model info on the web: report - Comparitech",
+            "url": "https://www.comparitech.com/blog/information-security/stripchat-data-leak/",
+            "snippet": "Sex cam site Stripchat exposes user, model info on the web: report - Comparitech \n\n \n\nMenu Close\n\n# Sex cam site Stripchat exposes user, model info on the web: report\n\n \n\nWriter: Paul Bischoff\n\nTech W",
+            "published": "2021-11-15T09:00:28.000Z",
+            "score": 1
+          },
+          {
+            "title": "Adult cam site StripChat exposes the data of millions of users and cam models - Security Affairs",
+            "url": "https://securityaffairs.co/wordpress/124665/data-breach/adult-cam-site-stripchat-exposes-the-data-of-millions-of-users-and-cam-models.html",
+            "snippet": "Adult cam site StripChat exposes the data of millions of users and cam models - Security Affairs\n\n## Adult cam site StripChat exposes the data of millions of users and cam models\n\nPierluigi Paganini N",
+            "published": "2021-11-16T14:58:56.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Massive data breach in StripChat, a well-known adult webcam platform",
+            "url": "https://exploitone.com/data-breach/massive-data-breach-in-stripchat-a-well-known-adult-webcam-platform",
+            "snippet": "Massive data breach in StripChat, a well-known adult webcam platform\n\n# Massive data breach in StripChat, a well-known adult webcam platform\n\n© 2026 All Rights Reserved info@iicybersecurity.com\n\nPosti",
+            "published": "2021-11-18T22:01:33.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "scp-standalone-v2.py at main · aitschti/scp-standalone",
+            "url": "https://github.com/aitschti/scp-standalone/blob/main/scp-standalone-v2.py",
+            "snippet": "# File: aitschti/scp-standalone/scp-standalone-v2.py\n\n- Repository: aitschti/scp-standalone | A Stripchat Url Proxy as a standalone version | 33 stars | Python\n- Branch: main\n\n```py\nimport sys\nimport ",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Damianonymous/StripchatRecorder",
+            "url": "https://github.com/Damianonymous/StripchatRecorder",
+            "snippet": "# Repository: Damianonymous/StripchatRecorder\n\n- Stars: 67\n- Forks: 11\n- Watchers: 67\n- Open issues: 12\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2021-08-07T23:2",
+            "published": "2021-08-07T23:20:05.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "streamonitor/sites/stripchat.py at master · lossless1024/StreaMonitor",
+            "url": "https://github.com/lossless1024/StreaMonitor/blob/master/streamonitor/sites/stripchat.py",
+            "snippet": "# File: lossless1024/StreaMonitor/streamonitor/sites/stripchat.py\n\n- Repository: lossless1024/StreaMonitor | Adult live stream downloader for advanced people. I could have chosen a better name. | 472 ",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-04T03:34:53.913Z"
+      },
+      "timestamp": "2026-04-04T03:34:55.544Z"
+    },
+    "redox_bbp": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Redox launches public bug bounty program with Bugcrowd to help keep health data secure",
+            "url": "https://redoxengine.com/blog/bugcrowd-bounty-program/",
+            "snippet": "Redox launches public bug bounty program with Bugcrowd to help keep health data secure\n* Skip to main content\nRedox logo\n* \nSolutions\n* For vendors\n* For providers\n* For payers\n* Platform overview\n* P",
+            "published": "2024-10-27T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Redox Bug Bounty",
+            "url": "https://www.bountytalk.org/index.php?topic=24283.0",
+            "snippet": "Redox Bug Bounty\n\nForums Advertising & Bounty Hub\n\nWelcome, Guest. Please login or register.\n\n1 Hour 1 Day 1 Week 1 Month Forever\n\nLogin with username, password and session length\n\n## News:\n\nBountytal",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Responsible disclosure",
+            "url": "https://docs.redoxengine.com/basics/security/responsible-disclosure/",
+            "snippet": "Responsible disclosure\n\nHome\n\nBasics\n\nSecurity\n\nResponsible disclosure\n\n# Responsible disclosure\n\nLast updated: Nov 14, 2025\n\nHEALTH TECH VENDOR\n\nHCO\n\nAs part of our responsible disclosure policy, we ",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "CVE-2026-25938: FUXA RCE: When the Dashboard Becomes a Command Prompt | CVEReports",
+            "url": "https://cvereports.com/reports/CVE-2026-25938",
+            "snippet": "CVE-2026-25938: FUXA RCE: When the Dashboard Becomes a Command Prompt | CVEReports\n\n \n\n \n\nCVE-2026-25938: FUXA RCE: When the Dashboard Becomes a Command Prompt | CVEReports\nCVE-2026-25938\n9.5\n# FUXA R",
+            "published": "2026-02-10T00:27:31.000Z",
+            "score": 1
+          },
+          {
+            "title": "React2Shell: When Frameworks Become Attack Vectors | Xoel Rodriguez",
+            "url": "https://xoelrdgz.github.io/2026/01/02/react2shell-vulnerability.html",
+            "snippet": "React2Shell: When Frameworks Become Attack Vectors | Xoel Rodriguez\n\nBack to blog\n\n## The Framework We Trust\n\nReact dominates modern web development. Millions of applications, from small startups to e",
+            "published": "2026-01-02T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Vulnerability management",
+            "url": "https://docs.redoxengine.com/basics/security/vulnerability-management/",
+            "snippet": "Vulnerability management\n\nHome\n\nBasics\n\nSecurity\n\nVulnerability management\n\n# Vulnerability management\n\nLast updated: Nov 14, 2025\n\nHEALTH TECH VENDOR\n\nSUPPORT\n\nOur Security team identifies, evaluates",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "gabriellandau/Redux",
+            "url": "https://github.com/gabriellandau/Redux",
+            "snippet": "# Repository: gabriellandau/Redux\n\n- Stars: 12\n- Forks: 1\n- Watchers: 12\n- Open issues: 0\n- Primary language: C\n- Languages: C (93.4%), C++ (6.6%)\n- License: Other (NOASSERTION)\n- Default branch: main",
+            "published": "2026-02-11T20:36:05.000Z",
+            "score": 1
+          },
+          {
+            "title": "REDAXO%20File%20Download%20Exploit.md at main · Purposex7/Vulns4Study",
+            "url": "https://github.com/Purposex7/Vulns4Study/blob/main/REDAXO%20File%20Download%20Exploit.md",
+            "snippet": "# File: Purposex7/Vulns4Study/REDAXO%20File%20Download%20Exploit.md\n\n- Repository: Purposex7/Vulns4Study | 0 stars\n- Branch: main\n\n```md\n# REDAXO Directory Traversal Exploit\r\n\r\n## Basic Info\r\n\r\n- **Ex",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "metaredteam/rtx-cve-2023-45779",
+            "url": "https://github.com/metaredteam/rtx-cve-2023-45779",
+            "snippet": "# Repository: metaredteam/rtx-cve-2023-45779\n\nProof-of-concept code for Android APEX key reuse vulnerability\n\n- Stars: 108\n- Forks: 8\n- Watchers: 108\n- Open issues: 0\n- Primary language: Shell\n- Langu",
+            "published": "2024-01-26T21:17:38.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-04T03:34:55.544Z"
+      },
+      "timestamp": "2026-04-04T03:34:57.115Z"
+    },
+    "okg": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty | by Kayra Öksüz | Medium",
+            "url": "https://medium.com/%40oksuzkayra16/how-i-took-down-an-entire-application-using-google-com-and-earned-a-2-000-bounty-4f23c626b06e",
+            "snippet": "How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty | by Kayra Öksüz | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign ",
+            "published": "2025-12-02T19:53:39.000Z",
+            "score": 1
+          },
+          {
+            "title": "bugs found in ok_jpg_convert_data_unit_grayscale and ok_jpg_convert_YCbCr_to_RGB via honggfuzz · Issue #20 · brackeen/ok-file-formats",
+            "url": "https://github.com/brackeen/ok-file-formats/issues/20",
+            "snippet": "# Issue: brackeen/ok-file-formats #20\n\n- Repository: brackeen/ok-file-formats | Decoders for PNG, JPEG, WAV, and a few other file formats | 116 stars | C\n\n## bugs found in ok_jpg_convert_data_unit_gra",
+            "published": "2021-09-10T01:15:24.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Okta vulnerability explained (bcrypt auth bypass)",
+            "url": "https://kondukto.io/blog/okta-vulnerability-bcrypt-auth",
+            "snippet": "Okta vulnerability explained (bcrypt auth bypass)\n\nBlog\n\nAppSec Blog\n\nSecurity Research\n\nNews\n\nProduct Docs & FAQs\n\nAppSec Blog\n\n# Okta vulnerability explained (bcrypt auth bypass)\n\n-\n\nNovember 5, 202",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "g0w6y/CVE-2026-21994",
+            "url": "https://github.com/g0w6y/CVE-2026-21994",
+            "snippet": "# Repository: g0w6y/CVE-2026-21994\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-21T15:47:53Z\n- Last push: 2026-03-21T16:22:00Z\n- Contributors: 1 (top",
+            "published": "2026-03-21T15:47:53.000Z",
+            "score": 1
+          },
+          {
+            "title": "apko is vulnerable to unbounded resource consumption in expandapk.Split on attacker-controlled .apk streams · Issue #487282 · NixOS/nixpkgs",
+            "url": "https://github.com/NixOS/nixpkgs/issues/487282",
+            "snippet": "# Issue: NixOS/nixpkgs #487282\n\n- Repository: NixOS/nixpkgs | Nix Packages collection & NixOS | 24K stars | Nix\n\n## apko is vulnerable to unbounded resource consumption in expandapk.Split on attacker-",
+            "published": "2026-02-05T15:16:02.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Critical RCE Vulnerabilities in SGLang LLM Framework | Orca Security",
+            "url": "https://orca.security/resources/blog/sglang-llm-framework-rce-vulnerabilities/",
+            "snippet": "## Table of contents\n\n- Quick Overview\n- CVSS Rationale\n- What Is SGLang?\n- Technical Analysis Root Cause: Python’s pickle on Untrusted Network Data How Pickle Deserialization Becomes Code Execution P",
+            "published": "2026-03-12T00:42:03.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "shakilofficial0/Hack_Speedtest_Ookla",
+            "url": "https://github.com/shakilofficial0/Hack_Speedtest_Ookla",
+            "snippet": "# Repository: shakilofficial0/Hack_Speedtest_Ookla\n\nCritical vulnerability POC for Ookla SpeedTest - demonstrates result manipulation via insufficient validation & auth bypass. Educational security re",
+            "published": "2026-01-24T15:11:02.000Z",
+            "score": 1
+          },
+          {
+            "title": "DK27ss/0x0689a-330K-PoC",
+            "url": "https://github.com/DK27ss/0x0689a-330K-PoC",
+            "snippet": "# Repository: DK27ss/0x0689a-330K-PoC\n\ncritical access control vulnerability in the `collectInterestRepayment()` function\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Primary language: Coff",
+            "published": "2025-12-02T21:17:33.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "g0w6y/CVE-2026-21994",
+            "url": "https://github.com/g0w6y/CVE-2026-21994",
+            "snippet": "# Repository: g0w6y/CVE-2026-21994\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-21T15:47:53Z\n- Last push: 2026-03-21T16:22:00Z\n- Contributors: 1 (top",
+            "published": "2026-03-21T15:47:53.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-04T03:34:57.116Z"
+      },
+      "timestamp": "2026-04-04T03:34:58.672Z"
     }
   },
-  "lastRun": "2026-04-03T03:46:23.234Z"
+  "lastRun": "2026-04-04T03:34:58.672Z"
 }
