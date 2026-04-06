@@ -5942,7 +5942,777 @@
         "enriched_at": "2026-04-05T03:55:32.602Z"
       },
       "timestamp": "2026-04-05T03:55:34.085Z"
+    },
+    "indrive": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program | HackerNoon",
+            "url": "https://hackernoon.com/strengthening-cybersecurity-breaking-down-indrives-bug-bounty-program",
+            "snippet": "20,409 reads\n\n# Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program\n\nby\n\ninDrive.Tech\n\nbyinDrive.Tech@indrivetech\n\nTeam of inDrive developers who know how to experiment and learn f",
+            "published": "2024-12-11T02:25:30.000Z",
+            "score": 1
+          },
+          {
+            "title": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium",
+            "url": "https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047",
+            "snippet": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nMastodon\n\nMember-only story\n\n",
+            "published": "2024-10-14T19:32:07.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
+            "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
+            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm System.Exit, and today we're unraveling a recent bug bounty discovery by cyp",
+            "published": "2024-01-17T15:09:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium",
+            "url": "https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047",
+            "snippet": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nMastodon\n\nMember-only story\n\n",
+            "published": "2024-10-14T19:32:07.000Z",
+            "score": 1
+          },
+          {
+            "title": "Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive | by Kareem Husein Abdelhameed | Medium",
+            "url": "https://medium.com/@huseinabdo1974/sensitive-information-disclosure-via-publicly-accessible-user-ini-at-indrive-51b83f9a90f4",
+            "snippet": "Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive | by Kareem Husein Abdelhameed | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign",
+            "published": "2025-12-30T19:56:18.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
+            "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
+            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm System.Exit, and today we're unraveling a recent bug bounty discovery by cyp",
+            "published": "2024-01-17T15:09:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "getdrive/PoC",
+            "url": "https://github.com/getdrive/PoC",
+            "snippet": "# Repository: getdrive/PoC\n\nPoC. Severity critical.\n\n- Stars: 71\n- Forks: 15\n- Watchers: 71\n- Open issues: 0\n- Primary language: Ruby\n- Languages: Ruby (51.7%), Python (44.8%), Shell (3.3%), PHP (0.2%",
+            "published": "2023-08-05T11:02:23.000Z",
+            "score": 1
+          },
+          {
+            "title": "iluaster/getdrive_PoC",
+            "url": "https://github.com/iluaster/getdrive_PoC",
+            "snippet": "# Repository: iluaster/getdrive_PoC\n\nPoC. Severity critical.\n\n- Stars: 0\n- Forks: 1\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (63.4%), Ruby (28.0%), Shell (8.0%), P",
+            "published": "2023-08-10T20:31:23.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "InvoiceShelf unauthenticated PHP deserialization vulnerability [CVE-2024-55556] · Pull Request #19950 · rapid7/metasploit-framework",
+            "url": "https://github.com/rapid7/metasploit-framework/pull/19950",
+            "snippet": "# Pull Request: rapid7/metasploit-framework #19950\n\n- Repository: rapid7/metasploit-framework | Metasploit Framework | 38K stars | Ruby\n\n## InvoiceShelf unauthenticated PHP deserialization vulnerabili",
+            "published": "2025-03-07T17:44:17.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:02.432Z"
+      },
+      "timestamp": "2026-04-06T04:08:04.726Z"
+    },
+    "amazonvrp-devices": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "[CVE-2015-7292] Amazon Fire Phone kernel stack based buffer overflow",
+            "url": "https://marcograss.github.io/security/android/cve/2016/01/15/cve-2015-7292-amazon-kernel-stack-buffer-overflow.html",
+            "snippet": "[CVE-2015-7292] Amazon Fire Phone kernel stack based buffer overflow\n\nToday I would like to share some insights on the bug`CVE-2015-7292` affecting Amazon Fire Phone that I discovered some months ago ",
+            "published": "2016-01-15T02:05:38.000Z",
+            "score": 1
+          },
+          {
+            "title": "Amazon.com Stored XSS via Kindle Device Name",
+            "url": "https://b.fl7.de/2014/08/amazon-stored-xss-kindle.html",
+            "snippet": "Amazon.com Stored XSS via Kindle Device Name &#8211; Benjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\nBenjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\nAmazon.com Stored XSS via Kindle Device Name fe",
+            "published": "2014-08-01T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Amazon Echo Rooting | WithSecure™ Labs",
+            "url": "https://labs.withsecure.com/advisories/amazon-echo-rooting",
+            "snippet": "Amazon Echo Rooting | WithSecure™ Labs \n\nType\n\nSeverity\n\nAffected products\n\nCVE Reference\n\n- Hardware\n- Medium\n- Amazon Echo\n- N/A\n\n##### Timeline\n\nIssue reported to Amazon Security\n\nAmazon responded ",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "FireBounty Amazon Vulnerability Research Program Vulnerability Disclosure Program",
+            "url": "https://firebounty.com/2872-amazon-vulnerability-research-program/",
+            "snippet": "FireBounty Amazon Vulnerability Research Program Vulnerability Disclosure Program\n\nName\n\n- Name\n- Rules\n- Scopes\n\nSearch\n\n176671 policies in database\n\nLink to program\n\n2020-04-22\n\n2020-04-24\n\nThank\n\nG",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Bug Bounty Hunter",
+            "url": "https://www.bugbountyhunter.com/program?id=amazonvrp-devices",
+            "snippet": "Amazon Vulnerability Research Program - Devices Bug Bounty Program Statistics | BugBountyHunter.com\n# BugBountyHunter\n\n**Access your account\n* Getting started\nLearn about vulnerability typesGetting st",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "[CVE-2015-7292] Amazon Fire Phone kernel stack based buffer overflow",
+            "url": "https://marcograss.github.io/security/android/cve/2016/01/15/cve-2015-7292-amazon-kernel-stack-buffer-overflow.html",
+            "snippet": "[CVE-2015-7292] Amazon Fire Phone kernel stack based buffer overflow\n\nToday I would like to share some insights on the bug`CVE-2015-7292` affecting Amazon Fire Phone that I discovered some months ago ",
+            "published": "2016-01-15T02:05:38.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "CVE-2018-11019.md at master · datadancer/HIAFuzz",
+            "url": "https://github.com/datadancer/HIAFuzz/blob/master/CVE-2018-11019.md",
+            "snippet": "# File: datadancer/HIAFuzz/CVE-2018-11019.md\n\n- Repository: datadancer/HIAFuzz | Hybrid Interface Aware Fuzz for Android Kernel Drivers | 31 stars | Python\n- Branch: master\n\n```md\n# CVE-2018-11019\nThe",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "tencentbladeteam/Exploit-Amazon-Echo",
+            "url": "https://github.com/tencentbladeteam/Exploit-Amazon-Echo",
+            "snippet": "# Repository: tencentbladeteam/Exploit-Amazon-Echo\n\nShellcode, reports of Amazon Echo, which we have presented on Defcon26\n\n- Stars: 39\n- Forks: 13\n- Watchers: 39\n- Open issues: 0\n- Primary language: ",
+            "published": "2018-08-12T21:39:05.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Pro-me3us/CVE_2022_46395_Raven",
+            "url": "https://github.com/Pro-me3us/CVE_2022_46395_Raven",
+            "snippet": "# Repository: Pro-me3us/CVE_2022_46395_Raven\n\nCVE-2022-46395 POC for FireTV 2nd gen Cube (raven)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default br",
+            "published": "2023-06-29T18:56:04.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:04.727Z"
+      },
+      "timestamp": "2026-04-06T04:08:06.468Z"
+    },
+    "rei_bbp": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "A Leaky API at REI",
+            "url": "https://medium.com/@ianmeyers/a-leaky-api-at-rei-a28e8460e722",
+            "snippet": "A Leaky API at REI. From time to time I will proxy traffic… | by Ian Meyers | Medium\nSitemap\nOpen in app\nSign up\nSign in\nMedium Logo\n\nWrite\n\n\nSearch\n\nSign up\nSign in\n\n# A Leaky API at REI\n\nIan Meyers\n",
+            "published": "2019-02-08T05:45:24.000Z",
+            "score": 1
+          },
+          {
+            "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
+            "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
+            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\nHackerOne Blog\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHa",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "How We Made Managing CSP Less Annoying | REI Co-op Engineering",
+            "url": "https://engineering.rei.com/security/making-csp-less-annoying.html",
+            "snippet": "How We Made Managing CSP Less Annoying | REI Co-op Engineering\n\nAt REI, the Cybersecurity Engineering teams constantly work hand in hand with our application and infrastructure teams. The outdoor anal",
+            "published": "2023-01-23T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
+            "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
+            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\nHackerOne Blog\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHa",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "A Leaky API at REI",
+            "url": "https://medium.com/@ianmeyers/a-leaky-api-at-rei-a28e8460e722",
+            "snippet": "A Leaky API at REI. From time to time I will proxy traffic… | by Ian Meyers | Medium\nSitemap\nOpen in app\nSign up\nSign in\nMedium Logo\n\nWrite\n\n\nSearch\n\nSign up\nSign in\n\n# A Leaky API at REI\n\nIan Meyers\n",
+            "published": "2019-02-08T05:45:24.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "How We Made Managing CSP Less Annoying | REI Co-op Engineering",
+            "url": "https://engineering.rei.com/security/making-csp-less-annoying.html",
+            "snippet": "How We Made Managing CSP Less Annoying | REI Co-op Engineering\n\nAt REI, the Cybersecurity Engineering teams constantly work hand in hand with our application and infrastructure teams. The outdoor anal",
+            "published": "2023-01-23T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "byteReaper77/CVE-2025-8550",
+            "url": "https://github.com/byteReaper77/CVE-2025-8550",
+            "snippet": "# Repository: byteReaper77/CVE-2025-8550\n\nXSS exploit for CVE-2025-8550 in atjiu pybbs ≤6.0.0\n\n- Stars: 3\n- Forks: 1\n- Watchers: 3\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- License: MIT ",
+            "published": "2025-08-05T19:31:11.000Z",
+            "score": 1
+          },
+          {
+            "title": "CVE-2025-55182 React Server Components RCE POC",
+            "url": "https://gist.github.com/maple3142/48bc9393f45e068cf8c90ab865c0f5f3",
+            "snippet": "# Gist: CVE-2025-55182 React Server Components RCE POC\n\n- Author: @maple3142\n- Public gist (2 files)\n- Created: 2025-12-04T21:02:48Z\n- Updated: 2026-03-22T18:14:02Z\n- Forks: 113\n\n## CVE-2025-55182.htt",
+            "published": "2025-12-04T21:02:48.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "ff0cae0aa0d20965d502e7a97cbde3e3",
+            "url": "https://gist.github.com/joe-desimone/ff0cae0aa0d20965d502e7a97cbde3e3",
+            "snippet": "# Gist: CVE-2025-55182.py\n\n- Author: @joe-desimone\n- Private gist (1 file)\n- Created: 2025-12-04T23:17:08Z\n- Updated: 2026-03-14T08:18:01Z\n- Forks: 21\n\n## CVE-2025-55182.py\n\n```py\n#!/usr/bin/env pytho",
+            "published": "2025-12-04T23:17:08.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:06.469Z"
+      },
+      "timestamp": "2026-04-06T04:08:08.180Z"
+    },
+    "mergify": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Mergify Bug Bounty Program: Ready To Hack Us?",
+            "url": "https://blog.mergify.com/mergify-bug-bounty-program-hack-us/",
+            "snippet": "Mergify Bug Bounty Program: Ready To Hack Us?\n\nWith cyberattacks becoming increasingly sophisticated and pervasive, organizations are compelled to fortify their digital defenses.\n\nOne powerful weapon ",
+            "published": "2023-10-23T10:25:37.000Z",
+            "score": 1
+          },
+          {
+            "title": "(Un)signed commits: how we found a (non) security bug in GitHub",
+            "url": "https://blog.mergify.com/un-signed-commits-how-we-found-a-non-security-bug-in-github/",
+            "snippet": "(Un)signed commits: how we found a (non) security bug in GitHub\n\nWhen you build an entire software around someone else API, you tend to know everything about it. We made Mergify on top of GitHub API, ",
+            "published": "2021-03-29T07:20:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Post Mortem of Incident 2024-09-17",
+            "url": "https://blog.mergify.com/post-mortem-of-incident-2024-09-17/",
+            "snippet": "Post Mortem of Incident 2024-09-17\n\nOn September 17th, 2024, Mergify service went down from 07:45 UTC to 09:35 UTC. Due to the nature of the incident, we think it would be interesting to share with ou",
+            "published": "2024-09-18T08:14:36.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Critical Malicious Code Vulnerability in mergify-browser-extension",
+            "url": "https://vulert.com/vuln-db/npm-mergify-browser-extension-192103",
+            "snippet": "Critical Malicious Code Vulnerability in mergify-browser-extension\n\n# Critical Malicious Code Vulnerability in mergify-browser-extension\n\nAffected Package: mergify-browser-extension(Click to see all v",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Security",
+            "url": "https://docs.mergify.com/security/",
+            "snippet": "At Mergify, security is of utmost importance to us. We understand the crucial\nrole we play in the software development process and are fully committed to\nearning and maintaining the trust of our users",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Using Snyk with Mergify",
+            "url": "https://docs.mergify.com/integrations/snyk/",
+            "snippet": "Dependency management is pivotal for maintaining a robust and secure project.\nBut with regular updates, security patches, and version changes, it can become\noverwhelming. Snyk and Mergify combined, of",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "[Critical] Active Exploitation of RCE (Miner + Backdoor) & please re-tag v1.10.1-fix.1 to ensure the image is updated. · Issue #29278 · langgenius/dify",
+            "url": "https://github.com/langgenius/dify/issues/29278",
+            "snippet": "# Issue: langgenius/dify #29278\n\n- Repository: langgenius/dify | Production-ready platform for agentic workflow development. | 136K stars | TypeScript\n\n## [Critical] Active Exploitation of RCE (Miner ",
+            "published": "2025-12-08T08:39:45.000Z",
+            "score": 1
+          },
+          {
+            "title": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-053_Hedy/",
+            "snippet": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27: R",
+            "published": "2024-05-14T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "GHSL-2024-051: GitHub Actions expression injection in Misskey | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-051_Misskey/",
+            "snippet": "GHSL-2024-051: GitHub Actions expression injection in Misskey | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-25",
+            "published": "2024-05-14T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:08.180Z"
+      },
+      "timestamp": "2026-04-06T04:08:10.021Z"
+    },
+    "coinhako": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "21st February 2020 Updates: Coinhako’s Commitment to Your Security",
+            "url": "https://blog.coinhako.com/21st-february-2020-updates-coinhakos-commitment-to-your-security/",
+            "snippet": "21st February 2020 Updates: Coinhako’s Commitment to Your Security\n\nIn response to the security incident that occured on 21st February 2020, we will be implementing extra measures to bolster our exist",
+            "published": "2020-03-12T10:30:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "21st Feb 20 Unauthorized Transactions Update: All Funds Safe, Restored and Services Reinstated - All Services Back in Action at Coinhako",
+            "url": "https://blog.coinhako.com/21st-feb-20-unauthorized-transactions-update-all-funds-safe-restored-and-services-reinstated-all-services-back-in-action-at-coinhako/",
+            "snippet": "21st Feb 20 Unauthorized Transactions Update: All Funds Safe, Restored and Services Reinstated - All Services Back in Action at Coinhako\n\nWe are glad to share that Coinhako is back to full operational",
+            "published": "2020-02-29T10:25:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Singaporean exchange Coinhako halts withdrawals following hack",
+            "url": "https://coingeek.com/singaporean-exchange-coinhako-halts-withdrawals-following-hack/",
+            "snippet": "Singaporean exchange Coinhako halts withdrawals following hack \n\n \n\nBusiness\n\n# Singaporean exchange Coinhako halts withdrawals following hack\n\n28 February 2020\n\n1. Homepage\n2. >\n3. News\n4. >\n5. Busin",
+            "published": "2025-09-10T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "21st February 2020 Updates: Coinhako’s Commitment to Your Security",
+            "url": "https://blog.coinhako.com/21st-february-2020-updates-coinhakos-commitment-to-your-security/",
+            "snippet": "21st February 2020 Updates: Coinhako’s Commitment to Your Security\n\nIn response to the security incident that occured on 21st February 2020, we will be implementing extra measures to bolster our exist",
+            "published": "2020-03-12T10:30:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "21st Feb 20 Unauthorized Transactions Update: All Funds Safe, Restored and Services Reinstated - All Services Back in Action at Coinhako",
+            "url": "https://blog.coinhako.com/21st-feb-20-unauthorized-transactions-update-all-funds-safe-restored-and-services-reinstated-all-services-back-in-action-at-coinhako/",
+            "snippet": "21st Feb 20 Unauthorized Transactions Update: All Funds Safe, Restored and Services Reinstated - All Services Back in Action at Coinhako\n\nWe are glad to share that Coinhako is back to full operational",
+            "published": "2020-02-29T10:25:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Singaporean exchange Coinhako halts withdrawals following hack",
+            "url": "https://coingeek.com/singaporean-exchange-coinhako-halts-withdrawals-following-hack/",
+            "snippet": "Singaporean exchange Coinhako halts withdrawals following hack \n\n \n\nBusiness\n\n# Singaporean exchange Coinhako halts withdrawals following hack\n\n28 February 2020\n\n1. Homepage\n2. >\n3. News\n4. >\n5. Busin",
+            "published": "2025-09-10T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "hakaioffsec/CVE-2025-49113-exploit",
+            "url": "https://github.com/hakaioffsec/CVE-2025-49113-exploit",
+            "snippet": "# Repository: hakaioffsec/CVE-2025-49113-exploit\n\nProof of Concept demonstrating Remote Code Execution through insecure deserialization in Roundcube (CVE-2025-49113).\n\n- Stars: 89\n- Forks: 17\n- Watche",
+            "published": "2025-06-06T06:31:13.000Z",
+            "score": 1
+          },
+          {
+            "title": "hakaioffsec/CVE-2026-25769",
+            "url": "https://github.com/hakaioffsec/CVE-2026-25769",
+            "snippet": "# Repository: hakaioffsec/CVE-2026-25769\n\nRemote Code Execution via Insecure Deserialization in Wazuh Cluster\n\n- Stars: 31\n- Forks: 7\n- Watchers: 31\n- Open issues: 0\n- Primary language: Python\n- Langu",
+            "published": "2026-02-11T18:29:02.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "exploit.py at main · Chocapikk/CVE-2024-5084",
+            "url": "https://github.com/Chocapikk/CVE-2024-5084/blob/main/exploit.py",
+            "snippet": "# File: Chocapikk/CVE-2024-5084/exploit.py\n\n- Repository: Chocapikk/CVE-2024-5084 | Hash Form – Drag & Drop Form Builder <= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 8 s",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:10.022Z"
+      },
+      "timestamp": "2026-04-06T04:08:11.868Z"
+    },
+    "arkose_labs": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Bug Bounty Programs Elevate SaaS Security | Arkose Labs",
+            "url": "https://www.arkoselabs.com/blog/elevating-saas-security-strategic-role-bug-bounty-programs/",
+            "snippet": "Bug Bounty Programs Elevate SaaS Security | Arkose Labs \n\nAccount Security\n\n# Elevating SaaS Security: The Strategic Role of Bug Bounty Programs\n\nFor engineers and security professionals working withi",
+            "published": "2024-10-22T17:22:49.000Z",
+            "score": 1
+          },
+          {
+            "title": "Bug Bounty: Arkose Labs - Bugcrowd",
+            "url": "https://bugcrowd.com/engagements/arkose-labs/hall_of_fames",
+            "snippet": "Bug Bounty: Arkose Labs - Bugcrowd\n\nelements. --",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Private Bug Bounty Program with Bugcrowd | Arkose Labs",
+            "url": "https://www.arkoselabs.com/latest-news/arkose-labs-announces-private-bug-bounty-program-with-bugcrowd-to-strengthen-fraud-prevention-system/",
+            "snippet": "Private Bug Bounty Program with Bugcrowd | Arkose Labs\n\nPress Release\n\n# Arkose Labs Announces Private Bug Bounty Program with Bugcrowd to Strengthen Fraud Prevention System\n\nArkose Labs the leading p",
+            "published": "2019-07-24T19:52:50.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Arkose Labs Report Reveals Explosive Growth in SMS Toll Fraud and Precision-Targeted Attacks",
+            "url": "https://www.businesswire.com/news/home/20251217521684/en/Arkose-Labs-Report-Reveals-Explosive-Growth-in-SMS-Toll-Fraud-and-Precision-Targeted-Attacks",
+            "snippet": "Arkose Labs Report Reveals Explosive Growth in SMS Toll Fraud and Precision-Targeted Attacks\n\nDec 17, 2025 9:35 AM Eastern Standard Time\n\n# Arkose Labs Report Reveals Explosive Growth in SMS Toll Frau",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Untitled",
+            "url": "https://www.arkoselabs.com/resource/arkose-phishing-protection/",
+            "snippet": "Defending against MFA compromise and other advanced phishing tactics\nMultifactor authentication used to be the gold standard for enhancing enterprise security. But\ncybercriminals have upped their game",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Platform | Arkose Labs",
+            "url": "https://www.arkoselabs.com/blog/recaptcha-is-still-vulnerable-perhaps-more-than-ever-before/",
+            "snippet": "Platform | Arkose Labs\n\n# Unified Platform to Stop Malicious Bots, AI Agents and Human Fraud Networks\n\nDisrupt Attack Economics Across Every Touchpoint\n\nArkose Titan™ delivers end-to-end fraud prevent",
+            "published": "2024-10-31T17:13:42.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "Neverlow512/Breaking-the-Unbreakable-iOS-Captcha-Research",
+            "url": "https://github.com/Neverlow512/Breaking-the-Unbreakable-iOS-Captcha-Research",
+            "snippet": "# Repository: Neverlow512/Breaking-the-Unbreakable-iOS-Captcha-Research\n\nBreaking the Unbreakable: A Practical Analysis of Arkose Labs' CAPTCHA Resilience via Orchestrated Visual Relay on iOS\n\n- Stars",
+            "published": "2025-04-03T13:28:20.000Z",
+            "score": 1
+          },
+          {
+            "title": "breaker.html at main · AzureFlow/arkose-fp-docs",
+            "url": "https://github.com/AzureFlow/arkose-fp-docs/blob/main/breaker.html",
+            "snippet": "# File: AzureFlow/arkose-fp-docs/breaker.html\n\n- Repository: AzureFlow/arkose-fp-docs | ArkoseLabs FunCaptcha fingerprint documentation. | 89 stars | HTML\n- Branch: main\n\n```html\n<html lang=\"en\">\n<hea",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "shakilofficial0/Hack_Speedtest_Ookla",
+            "url": "https://github.com/shakilofficial0/Hack_Speedtest_Ookla",
+            "snippet": "# Repository: shakilofficial0/Hack_Speedtest_Ookla\n\nCritical vulnerability POC for Ookla SpeedTest - demonstrates result manipulation via insufficient validation & auth bypass. Educational security re",
+            "published": "2026-01-24T15:11:02.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:11.868Z"
+      },
+      "timestamp": "2026-04-06T04:08:13.629Z"
+    },
+    "alsco": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Bug Bounty Program- ALSCO",
+            "url": "https://alscotoday.com/go/bug",
+            "snippet": "Bug Bounty Program- ALSCO \n\n \n\n \n\n \n\n### Bug Bounty Program\n\n#### Bug Bounty Program\n\nSecure Gateway®️ Engineering committed to working with security experts across the world to stay up to date with t",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/alsco/scope_versions?type=team",
+            "snippet": "HackerOne\n\nHackerOne",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/alsco/scope_versions",
+            "snippet": "HackerOne",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Alsco Security Rating, Vendor Risk Report, and Data Breaches",
+            "url": "https://www.upguard.com/security-report/alsco",
+            "snippet": "Alsco Security Rating, Vendor Risk Report, and Data Breaches -- --\n\nStop manual bottlenecks. Start your machine-speed defense | Join UpGuard Summit on March 3 & 5Register now\n\n##### Last updated today",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Cloud Secure Gateway- ALSCO",
+            "url": "https://alscotoday.com/go/cloud-secure-gateway",
+            "snippet": "Cloud Secure Gateway- ALSCO \n\n \n\n \n\n \n\n### Cloud Secure Gateway\n\nOur system performs active scanning of files as they are uploaded to the server.Our system Actively scans all modified files within use",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/alsco/scope_versions?type=team",
+            "snippet": "HackerOne\n\nHackerOne",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "Alchemist3dot14/CVE-2024-30270-PoC",
+            "url": "https://github.com/Alchemist3dot14/CVE-2024-30270-PoC",
+            "snippet": "# Repository: Alchemist3dot14/CVE-2024-30270-PoC\n\nThe script exploits Mailcow vulnerabilities via XSS and RCE, emphasizing the need for robust security measures and responsible usage to enhance web ap",
+            "published": "2024-06-21T04:47:48.000Z",
+            "score": 1
+          },
+          {
+            "title": "Alucard0x1/CVE-2024-28000",
+            "url": "https://github.com/Alucard0x1/CVE-2024-28000",
+            "snippet": "# Repository: Alucard0x1/CVE-2024-28000\n\nLiteSpeed Cache Privilege Escalation PoC\n\n- Stars: 21\n- Forks: 9\n- Watchers: 21\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- Default branc",
+            "published": "2024-08-24T05:12:56.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "0xBlackash/CVE-2026-28289",
+            "url": "https://github.com/0xAshwesker/CVE-2026-28289",
+            "snippet": "# Repository: 0xBlackash/CVE-2026-28289\n\nCVE-2026-28289\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-03-0",
+            "published": "2026-03-05T17:48:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:13.629Z"
+      },
+      "timestamp": "2026-04-06T04:08:15.403Z"
+    },
+    "dynamic_labs": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-055_DuckDB/",
+            "snippet": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27:",
+            "published": "2024-05-14T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-145_Discord_js/",
+            "snippet": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-07-02: Is",
+            "published": "2024-07-17T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI",
+            "url": "https://hiddenlayer.com/sai-security-advisory/2024-09-cleanlab/",
+            "snippet": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI (function () { const params = new URLSearchParams(window.location.search); for (const key of params.keys()) { if (key.endsWith('_page')) {",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "dynaconf Affected by Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver | GitLab Advisory Database (GLAD)",
+            "url": "https://advisories.gitlab.com/pkg/pypi/dynaconf/CVE-2026-33154/",
+            "snippet": "dynaconf Affected by Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver | GitLab Advisory Database (GLAD)\n\nDynaconf is vulnerable to Server-Side Template Injection (SSTI) ",
+            "published": "2026-03-18T08:00:30.000Z",
+            "score": 1
+          },
+          {
+            "title": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI",
+            "url": "https://hiddenlayer.com/sai-security-advisory/2024-09-cleanlab/",
+            "snippet": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI (function () { const params = new URLSearchParams(window.location.search); for (const key of params.keys()) { if (key.endsWith('_page')) {",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-055_DuckDB/",
+            "snippet": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27:",
+            "published": "2024-05-14T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-055_DuckDB/",
+            "snippet": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27:",
+            "published": "2024-05-14T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-145_Discord_js/",
+            "snippet": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-07-02: Is",
+            "published": "2024-07-17T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "ctxis/DynamicLabs",
+            "url": "https://github.com/ctxis/DynamicLabs",
+            "snippet": "# Repository: ctxis/DynamicLabs\n\nDynamic Labs is an open source tool aimed at red teamers and pentesters for the quick deployment of flexible, transient and cloud-hosted lab environments.\n\n- Stars: 63",
+            "published": "2020-08-03T13:22:01.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:15.403Z"
+      },
+      "timestamp": "2026-04-06T04:08:17.147Z"
+    },
+    "modern_treasury": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Network Security at Modern Treasury",
+            "url": "https://www.moderntreasury.com/journal/network-security-at-modern-treasury",
+            "snippet": "Network Security at Modern Treasury\n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nJournal\n\n•March 10, 2022\n\n# Network Security at Modern Treasur",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Behind The Scenes: How Modern Treasury Ensures Payment Security",
+            "url": "https://www.moderntreasury.com/journal/how-modern-treasury-ensures-payment-security",
+            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nJournal\n\n•January 17, 2024\n\n# Behi",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Is Modern Treasury safe?",
+            "url": "https://businessdigitalindex.com/cybersecurity-rankings/modern-treasury/",
+            "snippet": "Is Modern Treasury safe?\n\nGet Your Free Report\n\nNeed help in fixing issues? Contact us and we will help you prepare an action plan to improve your risk rating.\n\nFull name *\n\nWork email *\n\nOrganization",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Network Security at Modern Treasury",
+            "url": "https://www.moderntreasury.com/journal/network-security-at-modern-treasury",
+            "snippet": "Network Security at Modern Treasury\n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nJournal\n\n•March 10, 2022\n\n# Network Security at Modern Treasur",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Behind The Scenes: How Modern Treasury Ensures Payment Security",
+            "url": "https://www.moderntreasury.com/journal/how-modern-treasury-ensures-payment-security",
+            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nJournal\n\n•January 17, 2024\n\n# Behi",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Security Policy | Modern Treasury",
+            "url": "https://www.moderntreasury.com/legal/security-policy",
+            "snippet": "Security Policy | Modern Treasury\n\n \n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nLegal Center•January 28, 2025\n\n# Security Policy\n\nEncryption ",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "Modern-Treasury/modern-treasury-python",
+            "url": "https://github.com/Modern-Treasury/modern-treasury-python",
+            "snippet": "# Repository: Modern-Treasury/modern-treasury-python\n\nPython library for the Modern Treasury API\n\n- Stars: 46\n- Forks: 4\n- Watchers: 46\n- Open issues: 2\n- Primary language: Python\n- Languages: Python ",
+            "published": "2022-08-04T18:40:26.000Z",
+            "score": 1
+          },
+          {
+            "title": "Modern-Treasury/modern-treasury-ruby",
+            "url": "https://github.com/Modern-Treasury/modern-treasury-ruby",
+            "snippet": "# Repository: Modern-Treasury/modern-treasury-ruby\n\nRuby library for the Modern Treasury API.\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 1\n- Primary language: Ruby\n- Languages: Ruby (99.8%), ",
+            "published": "2024-04-23T22:13:07.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Overview · Modern-Treasury/modern-treasury-node · GitHub",
+            "url": "https://github.com/Modern-Treasury/modern-treasury-node/security",
+            "snippet": "Overview · Modern-Treasury/modern-treasury-node · GitHub\n\n/ modern-treasury-node Public\n\nStar 43\n\n- Pricing\n- Notifications\n- Fork 21\n\n## Security\n\n### SECURITY.md\n\n# Security Policy\n\n## Reporting Sec",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:17.148Z"
+      },
+      "timestamp": "2026-04-06T04:08:18.841Z"
+    },
+    "notion": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Files to Notion: How I Won $2,000 in the Notion Bug Bounty Program",
+            "url": "https://www.files2notion.com/blog/how-i-won-in-the-notion-bug-bounty-program",
+            "snippet": "Files to Notion: How I Won $2,000 in the Notion Bug Bounty Program\n\n← Back to blog\n\n# How I Won $2,000 in the Notion Bug Bounty Program\n\n## TLDR\n\nThe bug allowed downloading paid Notion Templates for ",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Notion AI: Data Exfiltration",
+            "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
+            "snippet": "[Solutions]\n\n[Industries]\n\nPartners\n\n[Resources]\n\nBook a Demo\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team be",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Notion AI: Data Exfiltration",
+            "url": "https://readhacker.news/s/6JXSP",
+            "snippet": "[Solutions]\n\n[Industries]\n\nPartners\n\n[Resources]\n\nBook a Demo\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team be",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Notion AI: Data Exfiltration",
+            "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
+            "snippet": "[Solutions]\n\n[Industries]\n\nPartners\n\n[Resources]\n\nBook a Demo\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team be",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Notion AI: Data Exfiltration",
+            "url": "https://readhacker.news/s/6JXSP",
+            "snippet": "[Solutions]\n\n[Industries]\n\nPartners\n\n[Resources]\n\nBook a Demo\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team be",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub",
+            "url": "https://github.com/khoj-ai/khoj/security/advisories/GHSA-6whj-7qmg-86qj",
+            "snippet": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub\n\n/ khoj Public\n\nStar 33.8k\n\n- Pricing\n- Sponsor\n- Notifications\n- Fork 2.1k\n\n# IDOR in Notion OAuth Flow Enables In",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub",
+            "url": "https://github.com/khoj-ai/khoj/security/advisories/GHSA-6whj-7qmg-86qj",
+            "snippet": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub\n\n/ khoj Public\n\nStar 33.8k\n\n- Pricing\n- Sponsor\n- Notifications\n- Fork 2.1k\n\n# IDOR in Notion OAuth Flow Enables In",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Security Advisory: Prompt Injection Risk via Notion Page Content · Issue #238 · makenotion/notion-mcp-server",
+            "url": "https://github.com/makenotion/notion-mcp-server/issues/238",
+            "snippet": "# Issue: makenotion/notion-mcp-server #238\n\n- Repository: makenotion/notion-mcp-server | Official Notion MCP Server | 4K stars | TypeScript\n\n## Security Advisory: Prompt Injection Risk via Notion Page",
+            "published": "2026-03-25T08:26:12.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "[SECURITY] Path Traversal in file upload allows reading arbitrary server files (CWE-22) · Issue #237 · makenotion/notion-mcp-server",
+            "url": "https://github.com/makenotion/notion-mcp-server/issues/237",
+            "snippet": "# Issue: makenotion/notion-mcp-server #237\n\n- Repository: makenotion/notion-mcp-server | Official Notion MCP Server | 4K stars | TypeScript\n\n## [SECURITY] Path Traversal in file upload allows reading ",
+            "published": "2026-03-19T09:50:36.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-06T04:08:18.842Z"
+      },
+      "timestamp": "2026-04-06T04:08:20.686Z"
     }
   },
-  "lastRun": "2026-04-05T03:55:34.085Z"
+  "lastRun": "2026-04-06T04:08:20.687Z"
 }
