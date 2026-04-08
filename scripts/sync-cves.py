@@ -35,12 +35,11 @@ OUTPUT_DIR = ROOT_DIR
 GRAPHQL_URL = "https://api.github.com/graphql"
 
 QUERY = """
-query($severity: SecurityAdvisorySeverity, $after: String, $publishedSince: DateTime) {
+query($after: String, $publishedSince: DateTime) {
   securityAdvisories(
     first: 100,
     after: $after,
     publishedSince: $publishedSince,
-    severity: $severity,
     orderBy: {field: PUBLISHED_AT, direction: DESC}
   ) {
     pageInfo {
@@ -114,7 +113,7 @@ def get_token():
     return token
 
 
-def fetch_advisories(token, severity, published_since, max_results=100):
+def fetch_advisories(token, published_since, max_results=100):
     """Fetch advisories from GitHub GraphQL API with pagination."""
     headers = {
         "Authorization": f"bearer {token}",
@@ -128,7 +127,6 @@ def fetch_advisories(token, severity, published_since, max_results=100):
 
     while pages < max_pages:
         variables = {
-            "severity": severity,
             "publishedSince": published_since,
             "after": cursor
         }
@@ -182,7 +180,14 @@ def extract_cve_id(advisory):
 
 
 def matches_filters(advisory, config, cwe_override=None):
-    """Check if advisory matches our CWE and CVSS filters."""
+    """Check if advisory matches our CWE, CVSS, and severity filters."""
+    # Severity filter
+    target_sevs = [s.upper() for s in config.get("severities", [])]
+    if target_sevs:
+        adv_sev = (advisory.get("severity") or "").upper()
+        if adv_sev not in target_sevs:
+            return False
+
     # CVSS filter
     cvss_score = advisory.get("cvss", {}).get("score", 0) or 0
     if cvss_score < config["min_cvss"]:
@@ -299,24 +304,23 @@ def main():
 
     all_results = []
 
-    for severity in config["severities"]:
-        print(f"\n[*] Fetching {severity} advisories...")
-        advisories = fetch_advisories(
-            token, severity, published_since, config["max_results"]
-        )
-        print(f"    Raw results: {len(advisories)}")
+    print(f"\n[*] Fetching advisories...")
+    advisories = fetch_advisories(
+        token, published_since, config["max_results"]
+    )
+    print(f"    Raw results: {len(advisories)}")
 
-        matched = 0
-        for adv in advisories:
-            if matches_filters(adv, config, args.cwe):
-                formatted = format_advisory(adv)
-                all_results.append(formatted)
-                matched += 1
+    matched = 0
+    for adv in advisories:
+        if matches_filters(adv, config, args.cwe):
+            formatted = format_advisory(adv)
+            all_results.append(formatted)
+            matched += 1
 
-                if args.verbose:
-                    print(f"    [+] {formatted['id']} [{formatted['cvss_score']}] {formatted['summary'][:70]}")
+            if args.verbose:
+                print(f"    [+] {formatted['id']} [{formatted['cvss_score']}] {formatted['summary'][:70]}")
 
-        print(f"    After filter: {matched}")
+    print(f"    After filter: {matched}")
 
     # Deduplicate by CVE ID
     seen = set()
