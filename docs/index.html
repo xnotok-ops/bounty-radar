@@ -92,7 +92,7 @@ a{color:#fbbf24;text-decoration:none}a:hover{text-decoration:underline}
 <div class="header">
 <h1>&#x1F4E1; Bounty Radar v3.2</h1>
 <p>Interactive bug bounty research &#8212; click any item to expand details and access source links</p>
-<p style="font-size:10px;color:#334155;margin-top:4px">Updated: Never</p>
+<p style="font-size:10px;color:#334155;margin-top:4px" id="updatedAt">Updated: Never</p>
 <div class="stats">
 <div class="stat cvefeed">&#9760; CVE Feed<br><span id="cveFeedCount">0</span></div>
 <div class="stat highlight">&#128027; Exploits<br><span>0</span></div>
@@ -160,6 +160,44 @@ a{color:#fbbf24;text-decoration:none}a:hover{text-decoration:underline}
 <script>
 var currentTab="cvefeed";
 var cveFeedData=null;
+
+// Adapt DATA structure for UI
+(function adaptData(){
+if(!window.DATA)window.DATA={};
+var D=DATA;
+// hackerone: could be array (raw) or {reports:[...]}
+if(Array.isArray(D.hackerone)){D.hackerone={reports:D.hackerone}}
+// immunefi: could be array or {programs:[...]}
+if(Array.isArray(D.immunefi)){D.immunefi={programs:D.immunefi}}
+// exploits: {exploits:[...]} -> also set .data
+if(D.exploits&&D.exploits.exploits&&!D.exploits.data){D.exploits.data=D.exploits.exploits}
+// github: could be array or {repos:[...]}
+if(Array.isArray(D.github)){D.github={repos:D.github}}
+// all_programs: fallback to h1_programs
+if(!D.all_programs&&D.h1_programs){D.all_programs=D.h1_programs}
+// audit_findings: fallback to solodit
+if(!D.audit_findings&&D.solodit&&D.solodit.findings){D.audit_findings={data:D.solodit.findings,total:D.solodit.total||D.solodit.findings.length}}
+
+// Update timestamp
+if(D.generated_at){document.getElementById("updatedAt").textContent="Updated: "+new Date(D.generated_at).toLocaleDateString()}
+
+// Populate stat counters
+var stats=document.querySelectorAll(".stat");
+var counts=[
+  0, // CVE Feed (set by fetch)
+  (D.exploits&&(D.exploits.data||D.exploits.exploits)||[]).length,
+  (D.audit_findings&&D.audit_findings.data||D.solodit&&D.solodit.findings||[]).length,
+  (D.vuln_patterns&&D.vuln_patterns.data||[]).length,
+  (D.hackerone&&D.hackerone.reports||[]).length,
+  (D.immunefi&&D.immunefi.programs||[]).length,
+  (D.all_programs&&D.all_programs.programs||D.h1_programs&&D.h1_programs.programs||[]).length,
+  (D.intel&&D.intel.total_enriched||0)
+];
+for(var i=0;i<stats.length&&i<counts.length;i++){
+  var sp=stats[i].querySelector("span");
+  if(sp&&counts[i]>0)sp.textContent=counts[i];
+}
+})();
 
 // Load CVE Feed data
 (function loadCveFeed(){
