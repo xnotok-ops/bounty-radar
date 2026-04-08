@@ -39,6 +39,13 @@ jobs:
       - name: Build UI
         run: node src/build-ui.js
 
+      - name: Sync CVE Feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install requests --quiet
+          python scripts/sync-cves.py --days 90
+
       - name: Commit and push data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

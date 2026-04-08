@@ -17,409 +17,47 @@ function buildHtml() {
     data = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
   }
 
-  // Write data as separate JS file
+  // Transform data to match what index.html expects
+  const uiData = { ...data };
+
+  // hackerone: array -> {reports: [...]}
+  if (Array.isArray(uiData.hackerone)) {
+    uiData.hackerone = { reports: uiData.hackerone };
+  }
+  // immunefi: array -> {programs: [...]}
+  if (Array.isArray(uiData.immunefi)) {
+    uiData.immunefi = { programs: uiData.immunefi };
+  }
+  // exploits: set .data alias
+  if (uiData.exploits && uiData.exploits.exploits && !uiData.exploits.data) {
+    uiData.exploits.data = uiData.exploits.exploits;
+  }
+  // github: array -> {repos: [...]}
+  if (Array.isArray(uiData.github)) {
+    uiData.github = { repos: uiData.github };
+  }
+  // all_programs: fallback to h1_programs
+  if (!uiData.all_programs && uiData.h1_programs) {
+    uiData.all_programs = uiData.h1_programs;
+  }
+  // audit_findings: fallback to solodit
+  if (!uiData.audit_findings && uiData.solodit && uiData.solodit.findings) {
+    uiData.audit_findings = { data: uiData.solodit.findings, total: uiData.solodit.total || 0 };
+  }
+
+  // Write data as separate JS file (index.html is manually maintained)
   fs.writeFileSync(
     path.join(docsDir, "data.js"),
-    "var DATA = " + JSON.stringify(data) + ";",
+    "var DATA = " + JSON.stringify(uiData) + ";",
     "utf-8"
   );
 
-  const updatedAt = data.updated_at ? new Date(data.updated_at).toLocaleDateString() : "Never";
-  const cveCount = data.cve_hunting?.total_opportunities || 0;
-  const exploitCount = data.exploits?.total || 0;
-  const findingsCount = data.audit_findings?.total || 0;
-  const patternsCount = data.vuln_patterns?.total || 0;
-  const h1Count = (data.hackerone?.reports?.length || 0).toLocaleString();
-  const imCount = data.immunefi?.programs?.length || 0;
-  const programCount = data.all_programs?.total || 0;
-  const intelCount = data.intel?.total_enriched || 0;
-
-  const html = `<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bounty Radar v3.2</title>
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:system-ui,sans-serif;background:#0a0f1a;color:#e2e8f0;min-height:100vh}
-.header{background:#0d1117;border-bottom:1px solid #1e2130;padding:20px 24px}
-.header h1{font-family:monospace;font-size:20px;color:#f8fafc}
-.header p{font-size:12px;color:#475569;margin-top:4px}
-.stats{display:flex;gap:10px;margin-top:12px;flex-wrap:wrap}
-.stat{background:#12141a;border:1px solid #1e2130;border-radius:8px;padding:8px 12px;font-size:10px}
-.stat span{color:#fbbf24;font-weight:700;font-size:14px}
-.stat.highlight{border-color:#ef4444;background:#1a1214}
-.stat.intel{border-color:#3b82f6;background:#0c1929}
-.tabs{display:flex;gap:0;border-bottom:1px solid #1e2130;background:#0d1117;padding:0 16px;overflow-x:auto}
-.tab{padding:10px 14px;cursor:pointer;color:#64748b;font-size:11px;font-weight:600;border-bottom:2px solid transparent;white-space:nowrap}
-.tab.active{color:#fbbf24;border-bottom-color:#fbbf24}
-.tab:hover{color:#fbbf24}
-.controls{padding:12px 24px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
-.search{background:#12141a;border:1px solid #1e2130;border-radius:6px;padding:8px 12px;color:#e2e8f0;font-size:12px;width:240px;outline:none}
-.search:focus{border-color:#fbbf24}
-select{background:#12141a;border:1px solid #1e2130;border-radius:6px;padding:6px 10px;color:#e2e8f0;font-size:11px;outline:none}
-.content{padding:0 24px 40px}
-table{width:100%;border-collapse:collapse;font-size:11px;margin-top:8px}
-th{text-align:left;padding:8px;background:#12141a;color:#94a3b8;font-weight:600;border-bottom:1px solid #1e2130}
-td{padding:8px;border-bottom:1px solid #0d1117;color:#cbd5e1}
-a{color:#fbbf24;text-decoration:none}a:hover{text-decoration:underline}
-.money{color:#22c55e;font-weight:700}
-.loss{color:#ef4444;font-weight:700}
-.badge{display:inline-block;padding:2px 6px;border-radius:4px;font-size:9px;font-weight:600;margin-right:3px}
-.badge.critical{background:#dc262640;color:#fca5a5}
-.badge.high{background:#f9731640;color:#fdba74}
-.badge.medium{background:#eab30840;color:#fde047}
-.badge.low{background:#22c55e40;color:#86efac}
-.badge.active{background:#22c55e30;color:#86efac}
-.badge.writeup{background:#8b5cf640;color:#c4b5fd}
-.badge.twitter{background:#1d9bf040;color:#7dd3fc}
-.badge.github{background:#23863640;color:#86efac}
-.badge.audit{background:#f9731640;color:#fdba74}
-.count{color:#64748b;font-size:11px;margin-left:8px}
-.empty{text-align:center;padding:60px 20px;color:#475569}
-.item{padding:12px 16px;border-bottom:1px solid #1e2130;cursor:pointer;transition:background 0.15s}
-.item:hover{background:#12141a}
-.item-row{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
-.item-left{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-.detail{background:#0d1117;border-left:3px solid #fbbf24;padding:16px 20px;margin:0 0 8px 20px;border-radius:0 8px 8px 0;display:none}
-.detail.show{display:block}
-.detail h4{color:#f8fafc;font-size:14px;margin-bottom:10px}
-.detail p{color:#94a3b8;font-size:12px;line-height:1.6;margin-bottom:8px}
-.detail pre{background:#1e293b;padding:12px;border-radius:6px;font-size:11px;color:#fbbf24;margin:8px 0;white-space:pre-wrap;font-family:monospace}
-.detail-actions{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
-.btn{padding:6px 12px;border-radius:6px;font-size:11px;font-weight:600;cursor:pointer;border:none;text-decoration:none;display:inline-block}
-.btn-primary{background:#fbbf24;color:#0a0f1a}
-.btn-secondary{background:#1e293b;color:#e2e8f0}
-.btn-blue{background:#3b82f6;color:#fff}
-.btn-green{background:#22c55e;color:#fff}
-.btn-purple{background:#8b5cf6;color:#fff}
-.btn-sm{padding:4px 10px;font-size:10px}
-.keywords{display:flex;flex-wrap:wrap;gap:4px;margin-top:8px}
-.keyword{background:#1e293b;padding:3px 8px;border-radius:4px;font-size:10px;color:#94a3b8;cursor:pointer}
-.keyword:hover{background:#334155;color:#fbbf24}
-.section-label{font-size:10px;color:#64748b;text-transform:uppercase;margin:12px 0 6px;font-weight:600}
-.toast{position:fixed;bottom:20px;right:20px;background:#22c55e;color:#fff;padding:12px 20px;border-radius:8px;font-size:12px;font-weight:600;opacity:0;transition:opacity 0.3s;z-index:1000}
-.toast.show{opacity:1}
-.intel-card{background:#12141a;border:1px solid #1e2130;border-radius:8px;padding:16px;margin-bottom:12px}
-.intel-card h3{color:#f8fafc;font-size:14px;margin-bottom:12px;display:flex;align-items:center;gap:8px}
-.intel-section{margin-bottom:12px}
-.intel-section h4{font-size:11px;color:#64748b;text-transform:uppercase;margin-bottom:6px}
-.intel-item{background:#0d1117;border-radius:6px;padding:10px 12px;margin-bottom:6px;font-size:11px}
-.intel-item a{color:#7dd3fc}
-.intel-item .snippet{color:#94a3b8;font-size:10px;margin-top:4px;line-height:1.4}
-.intel-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(400px,1fr));gap:16px}
-.intel-empty{color:#475569;font-size:11px;font-style:italic}
-.source-link{font-size:9px;color:#475569;margin-top:16px;padding-top:12px;border-top:1px solid #1e2130}
-.source-link a{color:#64748b}
-</style>
-</head>
-<body>
-<div class="header">
-<h1>🔍 Bounty Radar v3.2</h1>
-<p>Interactive bug bounty research — click any item to expand details and access source links</p>
-<p style="font-size:10px;color:#334155;margin-top:4px">Updated: ${updatedAt}</p>
-<div class="stats">
-<div class="stat highlight">🎯 CVE<br><span>${cveCount}</span></div>
-<div class="stat highlight">💀 Exploits<br><span>${exploitCount}</span></div>
-<div class="stat">📖 Findings<br><span>${findingsCount}</span></div>
-<div class="stat">📋 Patterns<br><span>${patternsCount}</span></div>
-<div class="stat">📋 H1<br><span>${h1Count}</span></div>
-<div class="stat">🛡 Immunefi<br><span>${imCount}</span></div>
-<div class="stat">🔗 Programs<br><span>${programCount}</span></div>
-<div class="stat intel">🔍 Intel<br><span>${intelCount}</span></div>
-</div>
-</div>
-<div class="tabs">
-<div class="tab active" data-tab="cve">🎯 CVE Hunting</div>
-<div class="tab" data-tab="exploits">💀 Exploits</div>
-<div class="tab" data-tab="findings">📖 Audit Findings</div>
-<div class="tab" data-tab="patterns">📋 Vuln Patterns</div>
-<div class="tab" data-tab="h1">📋 HackerOne</div>
-<div class="tab" data-tab="immunefi">🛡 Immunefi</div>
-<div class="tab" data-tab="programs">🔗 Programs</div>
-<div class="tab" data-tab="github">🐙 GitHub</div>
-<div class="tab" data-tab="intel">🔍 Intel</div>
-</div>
-<div class="controls">
-<input class="search" type="text" id="searchInput" placeholder="Search...">
-<select id="severityFilter"><option value="">All Severity</option><option value="critical">Critical</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
-<select id="categoryFilter"><option value="">All Categories</option></select>
-<select id="sortBy"><option value="newest">Newest</option><option value="loss">Biggest Loss</option><option value="bounty">Bounty</option><option value="results">Most Intel</option></select>
-<span class="count" id="resultCount"></span>
-</div>
-<div class="content">
-<div id="cveTable"></div>
-<div id="exploitsTable" style="display:none"></div>
-<div id="findingsTable" style="display:none"></div>
-<div id="patternsTable" style="display:none"></div>
-<div id="h1Table" style="display:none"></div>
-<div id="immunefiTable" style="display:none"></div>
-<div id="programsTable" style="display:none"></div>
-<div id="githubTable" style="display:none"></div>
-<div id="intelTable" style="display:none"></div>
-</div>
-<div class="toast" id="toast">Copied!</div>
-<script src="data.js"></script>
-<script>
-var currentTab="cve";
-(function(){
-var cats=new Set();
-(DATA.exploits&&DATA.exploits.data||[]).forEach(function(e){if(e.category)cats.add(e.category)});
-(DATA.vuln_patterns&&DATA.vuln_patterns.data||[]).forEach(function(p){if(p.category)cats.add(p.category)});
-(DATA.audit_findings&&DATA.audit_findings.data||[]).forEach(function(f){if(f.category)cats.add(f.category)});
-var sel=document.getElementById("categoryFilter");
-Array.from(cats).sort().forEach(function(c){var o=document.createElement("option");o.value=c;o.textContent=c;sel.appendChild(o)});
-})();
-document.querySelectorAll(".tab").forEach(function(t){
-t.addEventListener("click",function(){
-document.querySelectorAll(".tab").forEach(function(x){x.classList.remove("active")});
-t.classList.add("active");
-currentTab=t.getAttribute("data-tab");
-["cve","exploits","findings","patterns","h1","immunefi","programs","github","intel"].forEach(function(x){
-document.getElementById(x+"Table").style.display=x===currentTab?"":"none"});
-render()})});
-document.getElementById("searchInput").addEventListener("input",render);
-document.getElementById("severityFilter").addEventListener("change",render);
-document.getElementById("categoryFilter").addEventListener("change",render);
-document.getElementById("sortBy").addEventListener("change",render);
-function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
-function sevBadge(s){var v=(s||"medium").toLowerCase();return'<span class="badge '+v+'">'+v.toUpperCase()+'</span>'}
-function catBadge(c){if(!c)return"";return'<span class="badge">'+esc(c)+'</span>'}
-function fmtMoney(n){if(!n)return"-";if(n>=1e9)return"$"+(n/1e9).toFixed(2)+"B";if(n>=1e6)return"$"+(n/1e6).toFixed(1)+"M";if(n>=1e3)return"$"+(n/1e3).toFixed(0)+"K";return"$"+n}
-function showToast(m){var t=document.getElementById("toast");t.textContent=m;t.classList.add("show");setTimeout(function(){t.classList.remove("show")},1500)}
-function copyText(t){navigator.clipboard.writeText(t).then(function(){showToast("Copied!")})}
-function copyEl(id){var el=document.getElementById(id);if(el)copyText(el.textContent)}
-function toggleDetail(id){var el=document.getElementById(id);if(el)el.classList.toggle("show")}
-function render(){
-var q=document.getElementById("searchInput").value.toLowerCase();
-var sev=document.getElementById("severityFilter").value.toLowerCase();
-var cat=document.getElementById("categoryFilter").value;
-var sort=document.getElementById("sortBy").value;
-if(currentTab==="cve")renderCVE(q,sev,sort);
-else if(currentTab==="exploits")renderExploits(q,cat,sort);
-else if(currentTab==="findings")renderFindings(q,sev,cat);
-else if(currentTab==="patterns")renderPatterns(q,sev,cat);
-else if(currentTab==="h1")renderH1(q,sort);
-else if(currentTab==="immunefi")renderImmunefi(q,sort);
-else if(currentTab==="programs")renderPrograms(q,sort);
-else if(currentTab==="github")renderGithub(q);
-else if(currentTab==="intel")renderIntel(q,sort)}
-function renderCVE(q,sev,sort){
-var items=(DATA.cve_hunting&&DATA.cve_hunting.opportunities||[]).filter(function(o){
-if(sev&&o.severity.toLowerCase()!==sev)return false;
-if(q&&(o.id+" "+o.description).toLowerCase().indexOf(q)<0)return false;
-return true});
-document.getElementById("resultCount").textContent=items.length+" opportunities";
-var h='<table><tr><th>CVE</th><th>Severity</th><th>Ecosystem</th><th>Published</th><th>Programs</th><th>Bounty</th></tr>';
-items.slice(0,100).forEach(function(o){
-var progs=(o.affected_programs||[]).slice(0,2).map(function(p){return p.name}).join(", ");
-h+='<tr><td><a href="'+esc(o.url)+'" target="_blank">'+esc(o.id)+'</a></td>';
-h+='<td>'+sevBadge(o.severity)+'</td>';
-h+='<td>'+esc(o.ecosystem||"-")+'</td>';
-h+='<td>'+esc(o.published||"-")+'</td>';
-h+='<td>'+esc(progs||"-")+'</td>';
-h+='<td class="money">'+fmtMoney(o.max_potential_bounty)+'</td></tr>'});
-h+='</table>';
-if(items.length===0)h='<div class="empty">No CVE opportunities found</div>';
-document.getElementById("cveTable").innerHTML=h}
-function renderExploits(q,cat,sort){
-var items=(DATA.exploits&&DATA.exploits.data||[]).filter(function(e){
-if(cat&&e.category!==cat)return false;
-if(q&&(e.protocol+" "+e.description+" "+e.category).toLowerCase().indexOf(q)<0)return false;
-return true});
-if(sort==="loss")items.sort(function(a,b){return(b.loss_usd||0)-(a.loss_usd||0)});
-else items.sort(function(a,b){return(b.date||"").localeCompare(a.date||"")});
-var total=items.reduce(function(s,e){return s+(e.loss_usd||0)},0);
-document.getElementById("resultCount").textContent=items.length+" exploits ($"+(total/1e9).toFixed(2)+"B)";
-var h="";
-items.forEach(function(e,i){
-var id="exp"+i;
-var poc=e.poc_url||"https://github.com/SunWeb3Sec/DeFiHackLabs";
-h+='<div class="item" onclick="toggleDetail(\\''+id+'\\')"><div class="item-row">';
-h+='<div class="item-left">';
-h+='<span style="color:#64748b;min-width:80px">'+esc(e.date)+'</span>';
-h+='<b style="color:#f8fafc">'+esc(e.protocol)+'</b>';
-h+='<span class="loss">'+fmtMoney(e.loss_usd)+'</span>';
-h+=catBadge(e.category);
-h+='</div>';
-h+='<a href="'+esc(poc)+'" target="_blank" class="btn btn-primary btn-sm" onclick="event.stopPropagation()">View PoC →</a>';
-h+='</div></div>';
-h+='<div id="'+id+'" class="detail">';
-h+='<h4>💀 '+esc(e.protocol)+'</h4>';
-h+='<p><b>Date:</b> '+esc(e.date)+' | <b>Loss:</b> <span class="loss">'+fmtMoney(e.loss_usd)+'</span> | <b>Category:</b> '+catBadge(e.category)+'</p>';
-h+='<p class="section-label">What Happened</p><p>'+esc(e.description)+'</p>';
-h+='<div class="detail-actions">';
-h+='<a href="'+esc(poc)+'" target="_blank" class="btn btn-primary">🔗 View PoC</a>';
-h+='<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\\''+esc(e.protocol)+" - "+esc(e.category)+'\\')">📋 Copy</button>';
-h+='</div></div>'});
-if(items.length===0)h='<div class="empty">No exploits found</div>';
-document.getElementById("exploitsTable").innerHTML=h}
-function renderFindings(q,sev,cat){
-var items=(DATA.audit_findings&&DATA.audit_findings.data||[]).filter(function(f){
-if(sev&&(f.severity||"").toLowerCase()!==sev)return false;
-if(cat&&f.category!==cat)return false;
-if(q&&(f.title+" "+f.protocol).toLowerCase().indexOf(q)<0)return false;
-return true});
-var sevOrder={critical:0,high:1,medium:2,low:3,info:4};
-items.sort(function(a,b){return(sevOrder[a.severity]||5)-(sevOrder[b.severity]||5)});
-document.getElementById("resultCount").textContent=items.length+" findings";
-var h="";
-items.forEach(function(f,i){
-var id="find"+i;
-var link=f.url||"https://solodit.xyz/";
-h+='<div class="item" onclick="toggleDetail(\\''+id+'\\')"><div class="item-row">';
-h+='<div class="item-left">';
-h+=sevBadge(f.severity);
-h+='<b style="color:#f8fafc">'+esc((f.title||"").substring(0,50))+'</b>';
-h+='<span style="color:#64748b">'+esc(f.protocol)+'</span>';
-h+=catBadge(f.category);
-h+='</div>';
-h+='<a href="'+esc(link)+'" target="_blank" class="btn btn-blue btn-sm" onclick="event.stopPropagation()">Report →</a>';
-h+='</div></div>';
-h+='<div id="'+id+'" class="detail">';
-h+='<h4>📖 '+esc(f.title)+'</h4>';
-h+='<p>'+sevBadge(f.severity)+' | <b>Protocol:</b> '+esc(f.protocol)+' | <b>Auditor:</b> '+esc(f.auditor)+'</p>';
-h+='<p class="section-label">Description</p><p>'+esc(f.description||f.title)+'</p>';
-h+='<div class="detail-actions">';
-h+='<a href="'+esc(link)+'" target="_blank" class="btn btn-blue">🔗 Full Report</a>';
-h+='<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\\''+esc(f.title)+'\\')">📋 Copy</button>';
-h+='</div></div>'});
-if(items.length===0)h='<div class="empty">No findings found</div>';
-document.getElementById("findingsTable").innerHTML=h}
-function renderPatterns(q,sev,cat){
-var items=(DATA.vuln_patterns&&DATA.vuln_patterns.data||[]).filter(function(p){
-if(sev&&p.severity!==sev)return false;
-if(cat&&p.category!==cat)return false;
-if(q&&(p.name+" "+p.description).toLowerCase().indexOf(q)<0)return false;
-return true});
-document.getElementById("resultCount").textContent=items.length+" patterns";
-var h="";
-items.forEach(function(p,i){
-var id="pat"+i;
-h+='<div class="item" onclick="toggleDetail(\\''+id+'\\')"><div class="item-row">';
-h+='<div class="item-left">';
-h+=sevBadge(p.severity);
-h+='<b style="color:#f8fafc">'+esc(p.name)+'</b>';
-h+=catBadge(p.category);
-h+='</div>';
-h+='<span style="color:#64748b;font-size:10px">Click to expand</span>';
-h+='</div></div>';
-h+='<div id="'+id+'" class="detail">';
-h+='<h4>📋 '+esc(p.name)+'</h4>';
-h+='<p>'+sevBadge(p.severity)+' '+catBadge(p.category)+'</p>';
-h+='<p class="section-label">Description</p><p>'+esc(p.description)+'</p>';
-h+='<p class="section-label">How to Find</p><p>'+esc(p.how_to_find)+'</p>';
-if(p.example_vulnerable){h+='<p class="section-label">❌ Vulnerable Code</p><pre id="vuln'+i+'">'+esc(p.example_vulnerable)+'</pre>';
-h+='<button class="btn btn-secondary btn-sm" onclick="event.stopPropagation();copyEl(\\'vuln'+i+'\\')">Copy Vulnerable</button>'}
-if(p.example_fix){h+='<p class="section-label">✅ Fixed Code</p><pre id="fix'+i+'">'+esc(p.example_fix)+'</pre>';
-h+='<button class="btn btn-green btn-sm" onclick="event.stopPropagation();copyEl(\\'fix'+i+'\\')">Copy Fix</button>'}
-if(p.keywords&&p.keywords.length){h+='<p class="section-label">🔑 Keywords</p><div class="keywords">';
-p.keywords.forEach(function(k){h+='<span class="keyword" onclick="event.stopPropagation();copyText(\\''+esc(k)+'\\')">'+esc(k)+'</span>'});
-h+='</div>'}
-h+='</div>'});
-if(items.length===0)h='<div class="empty">No patterns found</div>';
-document.getElementById("patternsTable").innerHTML=h}
-function renderH1(q,sort){
-var items=(DATA.hackerone&&DATA.hackerone.reports||[]).filter(function(r){
-if(q&&(r.title+" "+r.program).toLowerCase().indexOf(q)<0)return false;return true});
-if(sort==="bounty")items.sort(function(a,b){return(b.bounty||0)-(a.bounty||0)});
-document.getElementById("resultCount").textContent=items.length+" reports";
-var h='<table><tr><th>#</th><th>Title</th><th>Program</th><th>Bounty</th><th>Upvotes</th></tr>';
-items.slice(0,200).forEach(function(r,i){
-h+='<tr><td>'+(i+1)+'</td>';
-h+='<td><a href="'+esc(r.url)+'" target="_blank">'+esc((r.title||"").substring(0,60))+'</a></td>';
-h+='<td>'+esc(r.program)+'</td>';
-h+='<td class="money">'+(r.bounty?"$"+r.bounty.toLocaleString():"-")+'</td>';
-h+='<td>'+r.upvotes+'</td></tr>'});
-h+='</table>';document.getElementById("h1Table").innerHTML=h}
-function renderImmunefi(q,sort){
-var items=(DATA.immunefi&&DATA.immunefi.programs||[]).filter(function(p){
-if(q&&(p.name+" "+p.technologies).toLowerCase().indexOf(q)<0)return false;return true});
-if(sort==="bounty")items.sort(function(a,b){return(b.max_bounty||0)-(a.max_bounty||0)});
-document.getElementById("resultCount").textContent=items.length+" programs";
-var h='<table><tr><th>#</th><th>Program</th><th>Max Bounty</th><th>Tech</th><th>Link</th></tr>';
-items.slice(0,100).forEach(function(p,i){
-h+='<tr><td>'+(i+1)+'</td>';
-h+='<td><b>'+esc(p.name)+'</b></td>';
-h+='<td class="money">'+fmtMoney(p.max_bounty)+'</td>';
-h+='<td>'+esc(p.technologies||"-")+'</td>';
-h+='<td><a href="'+esc(p.url)+'" target="_blank">View →</a></td></tr>'});
-h+='</table>';document.getElementById("immunefiTable").innerHTML=h}
-function renderPrograms(q,sort){
-var items=(DATA.all_programs&&DATA.all_programs.programs||[]).filter(function(p){
-if(q&&(p.name+" "+(p.technologies||"")).toLowerCase().indexOf(q)<0)return false;return true});
-if(sort==="bounty")items.sort(function(a,b){return(b.bounty_max||0)-(a.bounty_max||0)});
-document.getElementById("resultCount").textContent=items.length+" programs";
-var h='<table><tr><th>Program</th><th>Platform</th><th>Status</th><th>Max Bounty</th></tr>';
-items.slice(0,150).forEach(function(p){
-h+='<tr><td><b>'+esc(p.name)+'</b></td>';
-h+='<td>'+esc(p.platform||"-")+'</td>';
-h+='<td><span class="badge active">'+(p.status||"active")+'</span></td>';
-h+='<td class="money">'+fmtMoney(p.bounty_max)+'</td></tr>'});
-h+='</table>';document.getElementById("programsTable").innerHTML=h}
-function renderGithub(q){
-var items=(DATA.github&&DATA.github.repos||[]).filter(function(r){
-if(q&&(r.full_name+" "+r.description).toLowerCase().indexOf(q)<0)return false;return true});
-document.getElementById("resultCount").textContent=items.length+" repos";
-var h='<table><tr><th>Repo</th><th>Stars</th><th>Lang</th><th>Description</th></tr>';
-items.forEach(function(r){
-h+='<tr><td><a href="'+esc(r.url)+'" target="_blank">'+esc(r.full_name)+'</a></td>';
-h+='<td>⭐ '+r.stars+'</td>';
-h+='<td>'+esc(r.language||"-")+'</td>';
-h+='<td>'+esc((r.description||"").substring(0,50))+'</td></tr>'});
-h+='</table>';document.getElementById("githubTable").innerHTML=h}
-function renderIntel(q,sort){
-var intel=DATA.intel&&DATA.intel.programs||{};
-var items=Object.keys(intel).map(function(k){
-var d=intel[k];
-return{name:k,data:d,total:d.total_results||0,enriched_at:d.enriched_at}
-}).filter(function(i){
-if(q&&i.name.toLowerCase().indexOf(q)<0)return false;
-return i.total>0});
-if(sort==="results")items.sort(function(a,b){return b.total-a.total});
-else items.sort(function(a,b){return(b.enriched_at||"").localeCompare(a.enriched_at||"")});
-document.getElementById("resultCount").textContent=items.length+" programs with intel";
-var h='<div class="intel-grid">';
-items.forEach(function(item){
-var d=item.data;
-h+='<div class="intel-card">';
-h+='<h3>🔍 '+esc(item.name)+' <span style="font-size:10px;color:#64748b;font-weight:400">'+item.total+' results</span></h3>';
-if(d.writeups&&d.writeups.length>0){
-h+='<div class="intel-section"><h4><span class="badge writeup">📚</span> Writeups ('+d.writeups.length+')</h4>';
-d.writeups.slice(0,3).forEach(function(w){
-h+='<div class="intel-item"><a href="'+esc(w.url)+'" target="_blank">'+esc(w.title||"Untitled")+'</a>';
-if(w.snippet)h+='<div class="snippet">'+esc(w.snippet.substring(0,120))+'...</div>';
-h+='</div>'});
-h+='</div>'}
-if(d.twitter&&d.twitter.length>0){
-h+='<div class="intel-section"><h4><span class="badge twitter">🐦</span> Twitter ('+d.twitter.length+')</h4>';
-d.twitter.slice(0,2).forEach(function(t){
-h+='<div class="intel-item"><a href="'+esc(t.url)+'" target="_blank">'+esc(t.title||"Tweet")+'</a></div>'});
-h+='</div>'}
-if(d.github&&d.github.length>0){
-h+='<div class="intel-section"><h4><span class="badge github">📦</span> GitHub PoCs ('+d.github.length+')</h4>';
-d.github.slice(0,2).forEach(function(g){
-h+='<div class="intel-item"><a href="'+esc(g.url)+'" target="_blank">'+esc(g.title||"Repository")+'</a></div>'});
-h+='</div>'}
-if(d.defi_audit&&d.defi_audit.length>0){
-h+='<div class="intel-section"><h4><span class="badge audit">📖</span> DeFi Audits ('+d.defi_audit.length+')</h4>';
-d.defi_audit.slice(0,2).forEach(function(a){
-h+='<div class="intel-item"><a href="'+esc(a.url)+'" target="_blank">'+esc(a.title||"Audit Report")+'</a></div>'});
-h+='</div>'}
-h+='</div>'});
-h+='</div>';
-h+='<div class="source-link">Data powered by <a href="https://exa.ai" target="_blank">Exa AI</a> | Inspired by <a href="https://github.com/Panniantong/Agent-Reach" target="_blank">Agent-Reach</a></div>';
-if(items.length===0)h='<div class="empty">No intel data yet. Run the daily scan to enrich programs with writeups, Twitter mentions, and GitHub PoCs.</div>';
-document.getElementById("intelTable").innerHTML=h}
-render();
-</script>
-</body>
-</html>`;
-
-  if (!fs.existsSync(docsDir)) fs.mkdirSync(docsDir, { recursive: true });
-  fs.writeFileSync(path.join(docsDir, "index.html"), html, "utf-8");
-  console.log("✅ Built: docs/index.html + docs/data.js");
+  console.log("✅ docs/data.js updated");
+  console.log("   hackerone.reports:", (uiData.hackerone?.reports?.length || 0));
+  console.log("   immunefi.programs:", (uiData.immunefi?.programs?.length || 0));
+  console.log("   exploits.data:", (uiData.exploits?.data?.length || 0));
+  console.log("   all_programs.programs:", (uiData.all_programs?.programs?.length || 0));
+  console.log("   ℹ️  index.html is manually maintained — not overwritten");
 }
 
 buildHtml();
