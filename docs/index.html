@@ -15,6 +15,7 @@ body{font-family:system-ui,sans-serif;background:#0a0f1a;color:#e2e8f0;min-heigh
 .stat span{color:#fbbf24;font-weight:700;font-size:14px}
 .stat.highlight{border-color:#ef4444;background:#1a1214}
 .stat.intel{border-color:#3b82f6;background:#0c1929}
+.stat.cvefeed{border-color:#a855f7;background:#1a0f29}
 .tabs{display:flex;gap:0;border-bottom:1px solid #1e2130;background:#0d1117;padding:0 16px;overflow-x:auto}
 .tab{padding:10px 14px;cursor:pointer;color:#64748b;font-size:11px;font-weight:600;border-bottom:2px solid transparent;white-space:nowrap}
 .tab.active{color:#fbbf24;border-bottom-color:#fbbf24}
@@ -40,6 +41,9 @@ a{color:#fbbf24;text-decoration:none}a:hover{text-decoration:underline}
 .badge.twitter{background:#1d9bf040;color:#7dd3fc}
 .badge.github{background:#23863640;color:#86efac}
 .badge.audit{background:#f9731640;color:#fdba74}
+.badge.cwe{background:#a855f640;color:#d8b4fe}
+.badge.patched{background:#22c55e30;color:#86efac}
+.badge.unpatched{background:#dc262640;color:#fca5a5}
 .count{color:#64748b;font-size:11px;margin-left:8px}
 .empty{text-align:center;padding:60px 20px;color:#475569}
 .item{padding:12px 16px;border-bottom:1px solid #1e2130;cursor:pointer;transition:background 0.15s}
@@ -76,44 +80,64 @@ a{color:#fbbf24;text-decoration:none}a:hover{text-decoration:underline}
 .intel-empty{color:#475569;font-size:11px;font-style:italic}
 .source-link{font-size:9px;color:#475569;margin-top:16px;padding-top:12px;border-top:1px solid #1e2130}
 .source-link a{color:#64748b}
+.cvss-bar{display:inline-block;width:40px;height:6px;background:#1e293b;border-radius:3px;overflow:hidden;vertical-align:middle;margin-left:4px}
+.cvss-fill{height:100%;border-radius:3px}
+.feed-meta{padding:12px 0;font-size:11px;color:#64748b;border-bottom:1px solid #1e2130;margin-bottom:12px}
+.feed-meta span{color:#a855f7;font-weight:600}
+.cwe-filter-btn{background:#1e293b;border:1px solid #334155;padding:4px 10px;border-radius:4px;font-size:10px;color:#94a3b8;cursor:pointer;transition:all 0.15s}
+.cwe-filter-btn:hover,.cwe-filter-btn.active{background:#a855f640;color:#d8b4fe;border-color:#a855f6}
 </style>
 </head>
 <body>
 <div class="header">
-<h1>🔍 Bounty Radar v3.2</h1>
-<p>Interactive bug bounty research — click any item to expand details and access source links</p>
+<h1>&#x1F4E1; Bounty Radar v3.2</h1>
+<p>Interactive bug bounty research &#8212; click any item to expand details and access source links</p>
 <p style="font-size:10px;color:#334155;margin-top:4px">Updated: Never</p>
 <div class="stats">
-<div class="stat highlight">🎯 CVE<br><span>55</span></div>
-<div class="stat highlight">💀 Exploits<br><span>0</span></div>
-<div class="stat">📖 Findings<br><span>0</span></div>
-<div class="stat">📋 Patterns<br><span>0</span></div>
-<div class="stat">📋 H1<br><span>0</span></div>
-<div class="stat">🛡 Immunefi<br><span>0</span></div>
-<div class="stat">🔗 Programs<br><span>0</span></div>
-<div class="stat intel">🔍 Intel<br><span>0</span></div>
+<div class="stat cvefeed">&#9760; CVE Feed<br><span id="cveFeedCount">0</span></div>
+<div class="stat highlight">&#128027; Exploits<br><span>0</span></div>
+<div class="stat">&#128203; Findings<br><span>0</span></div>
+<div class="stat">&#128207; Patterns<br><span>0</span></div>
+<div class="stat">&#128209; H1<br><span>0</span></div>
+<div class="stat">&#9889; Immunefi<br><span>0</span></div>
+<div class="stat">&#128281; Programs<br><span>0</span></div>
+<div class="stat intel">&#128225; Intel<br><span>0</span></div>
 </div>
 </div>
 <div class="tabs">
-<div class="tab active" data-tab="cve">🎯 CVE Hunting</div>
-<div class="tab" data-tab="exploits">💀 Exploits</div>
-<div class="tab" data-tab="findings">📖 Audit Findings</div>
-<div class="tab" data-tab="patterns">📋 Vuln Patterns</div>
-<div class="tab" data-tab="h1">📋 HackerOne</div>
-<div class="tab" data-tab="immunefi">🛡 Immunefi</div>
-<div class="tab" data-tab="programs">🔗 Programs</div>
-<div class="tab" data-tab="github">🐙 GitHub</div>
-<div class="tab" data-tab="intel">🔍 Intel</div>
+<div class="tab active" data-tab="cvefeed">&#9760; CVE Feed</div>
+<div class="tab" data-tab="exploits">&#128027; Exploits</div>
+<div class="tab" data-tab="findings">&#128203; Audit Findings</div>
+<div class="tab" data-tab="patterns">&#128207; Vuln Patterns</div>
+<div class="tab" data-tab="h1">&#128209; HackerOne</div>
+<div class="tab" data-tab="immunefi">&#9889; Immunefi</div>
+<div class="tab" data-tab="programs">&#128281; Programs</div>
+<div class="tab" data-tab="github">&#128025; GitHub</div>
+<div class="tab" data-tab="intel">&#128225; Intel</div>
 </div>
 <div class="controls">
 <input class="search" type="text" id="searchInput" placeholder="Search...">
 <select id="severityFilter"><option value="">All Severity</option><option value="critical">Critical</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
-<select id="categoryFilter"><option value="">All Categories</option></select>
-<select id="sortBy"><option value="newest">Newest</option><option value="loss">Biggest Loss</option><option value="bounty">Bounty</option><option value="results">Most Intel</option></select>
+<select id="categoryFilter" style="display:none"><option value="">All Categories</option></select>
+<select id="cweFilter"><option value="">All CWEs</option>
+<option value="CWE-639">CWE-639 IDOR</option>
+<option value="CWE-918">CWE-918 SSRF</option>
+<option value="CWE-362">CWE-362 Race Condition</option>
+<option value="CWE-434">CWE-434 File Upload</option>
+<option value="CWE-287">CWE-287 Auth Bypass</option>
+<option value="CWE-345">CWE-345 Sig Replay</option>
+<option value="CWE-294">CWE-294 Capture Replay</option>
+<option value="CWE-841">CWE-841 Reentrancy</option>
+<option value="CWE-682">CWE-682 Math Error</option>
+<option value="CWE-284">CWE-284 Access Control</option>
+<option value="CWE-829">CWE-829 Oracle</option>
+<option value="CWE-863">CWE-863 Incorrect AuthZ</option>
+</select>
+<select id="sortBy"><option value="newest">Newest</option><option value="loss">Biggest Loss</option><option value="bounty">Bounty</option><option value="results">Most Intel</option><option value="cvss">CVSS Score</option></select>
 <span class="count" id="resultCount"></span>
 </div>
 <div class="content">
-<div id="cveTable"></div>
+<div id="cvefeedTable"></div>
 <div id="exploitsTable" style="display:none"></div>
 <div id="findingsTable" style="display:none"></div>
 <div id="patternsTable" style="display:none"></div>
@@ -126,7 +150,18 @@ a{color:#fbbf24;text-decoration:none}a:hover{text-decoration:underline}
 <div class="toast" id="toast">Copied!</div>
 <script src="data.js"></script>
 <script>
-var currentTab="cve";
+var currentTab="cvefeed";
+var cveFeedData=null;
+
+// Load CVE Feed data
+(function loadCveFeed(){
+fetch("cve-feed.json").then(function(r){return r.json()}).then(function(d){
+cveFeedData=d;
+document.getElementById("cveFeedCount").textContent=d.count||0;
+if(currentTab==="cvefeed")render();
+}).catch(function(){cveFeedData=null})
+})();
+
 (function(){
 var cats=new Set();
 (DATA.exploits&&DATA.exploits.data||[]).forEach(function(e){if(e.category)cats.add(e.category)});
@@ -135,32 +170,49 @@ var cats=new Set();
 var sel=document.getElementById("categoryFilter");
 Array.from(cats).sort().forEach(function(c){var o=document.createElement("option");o.value=c;o.textContent=c;sel.appendChild(o)});
 })();
+
 document.querySelectorAll(".tab").forEach(function(t){
 t.addEventListener("click",function(){
 document.querySelectorAll(".tab").forEach(function(x){x.classList.remove("active")});
 t.classList.add("active");
 currentTab=t.getAttribute("data-tab");
-["cve","exploits","findings","patterns","h1","immunefi","programs","github","intel"].forEach(function(x){
+["cvefeed","exploits","findings","patterns","h1","immunefi","programs","github","intel"].forEach(function(x){
 document.getElementById(x+"Table").style.display=x===currentTab?"":"none"});
+// Show/hide CWE filter only on cvefeed tab
+document.getElementById("cweFilter").style.display=currentTab==="cvefeed"?"":"none";
+document.getElementById("categoryFilter").style.display=currentTab==="cvefeed"?"none":"";
 render()})});
+
 document.getElementById("searchInput").addEventListener("input",render);
 document.getElementById("severityFilter").addEventListener("change",render);
 document.getElementById("categoryFilter").addEventListener("change",render);
+document.getElementById("cweFilter").addEventListener("change",render);
 document.getElementById("sortBy").addEventListener("change",render);
+
 function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
 function sevBadge(s){var v=(s||"medium").toLowerCase();return'<span class="badge '+v+'">'+v.toUpperCase()+'</span>'}
 function catBadge(c){if(!c)return"";return'<span class="badge">'+esc(c)+'</span>'}
+function cweBadge(c){if(!c)return"";return'<span class="badge cwe">'+esc(c)+'</span>'}
 function fmtMoney(n){if(!n)return"-";if(n>=1e9)return"$"+(n/1e9).toFixed(2)+"B";if(n>=1e6)return"$"+(n/1e6).toFixed(1)+"M";if(n>=1e3)return"$"+(n/1e3).toFixed(0)+"K";return"$"+n}
+function fmtDate(d){if(!d)return"-";return d.substring(0,10)}
+function cvssColor(score){if(score>=9)return"#ef4444";if(score>=7)return"#f97316";if(score>=4)return"#eab308";return"#22c55e"}
+function cvssBar(score){
+if(!score)return"-";
+var pct=Math.min(score/10*100,100);
+var color=cvssColor(score);
+return'<b style="color:'+color+'">'+score.toFixed(1)+'</b><span class="cvss-bar"><span class="cvss-fill" style="width:'+pct+'%;background:'+color+'"></span></span>'
+}
 function showToast(m){var t=document.getElementById("toast");t.textContent=m;t.classList.add("show");setTimeout(function(){t.classList.remove("show")},1500)}
 function copyText(t){navigator.clipboard.writeText(t).then(function(){showToast("Copied!")})}
 function copyEl(id){var el=document.getElementById(id);if(el)copyText(el.textContent)}
 function toggleDetail(id){var el=document.getElementById(id);if(el)el.classList.toggle("show")}
+
 function render(){
 var q=document.getElementById("searchInput").value.toLowerCase();
 var sev=document.getElementById("severityFilter").value.toLowerCase();
 var cat=document.getElementById("categoryFilter").value;
 var sort=document.getElementById("sortBy").value;
-if(currentTab==="cve")renderCVE(q,sev,sort);
+if(currentTab==="cvefeed")renderCveFeed(q,sev,sort);
 else if(currentTab==="exploits")renderExploits(q,cat,sort);
 else if(currentTab==="findings")renderFindings(q,sev,cat);
 else if(currentTab==="patterns")renderPatterns(q,sev,cat);
@@ -169,24 +221,95 @@ else if(currentTab==="immunefi")renderImmunefi(q,sort);
 else if(currentTab==="programs")renderPrograms(q,sort);
 else if(currentTab==="github")renderGithub(q);
 else if(currentTab==="intel")renderIntel(q,sort)}
-function renderCVE(q,sev,sort){
-var items=(DATA.cve_hunting&&DATA.cve_hunting.opportunities||[]).filter(function(o){
-if(sev&&o.severity.toLowerCase()!==sev)return false;
-if(q&&(o.id+" "+o.description).toLowerCase().indexOf(q)<0)return false;
+
+function renderCveFeed(q,sev,sort){
+if(!cveFeedData||!cveFeedData.advisories){
+document.getElementById("cvefeedTable").innerHTML='<div class="empty">No CVE feed data yet.<br><br><span style="font-size:12px;color:#64748b">Run: <code style="color:#fbbf24">python scripts/sync-cves.py</code> then push cve-feed.json</span></div>';
+document.getElementById("resultCount").textContent="0 advisories";
+return}
+
+var cweFilter=document.getElementById("cweFilter").value;
+
+var items=cveFeedData.advisories.filter(function(a){
+if(sev){
+var aSev=(a.severity||"").toLowerCase();
+if(aSev!==sev)return false}
+if(cweFilter){
+if(!a.cwes||a.cwes.indexOf(cweFilter)<0)return false}
+if(q){
+var searchStr=(a.id+" "+a.ghsa+" "+a.summary+" "+(a.cwes||[]).join(" ")+" "+(a.packages||[]).map(function(p){return p.name+" "+p.ecosystem}).join(" ")).toLowerCase();
+if(searchStr.indexOf(q)<0)return false}
 return true});
-document.getElementById("resultCount").textContent=items.length+" opportunities";
-var h='<table><tr><th>CVE</th><th>Severity</th><th>Ecosystem</th><th>Published</th><th>Programs</th><th>Bounty</th></tr>';
-items.slice(0,100).forEach(function(o){
-var progs=(o.affected_programs||[]).slice(0,2).map(function(p){return p.name}).join(", ");
-h+='<tr><td><a href="'+esc(o.url)+'" target="_blank">'+esc(o.id)+'</a></td>';
-h+='<td>'+sevBadge(o.severity)+'</td>';
-h+='<td>'+esc(o.ecosystem||"-")+'</td>';
-h+='<td>'+esc(o.published||"-")+'</td>';
-h+='<td>'+esc(progs||"-")+'</td>';
-h+='<td class="money">'+fmtMoney(o.max_potential_bounty)+'</td></tr>'});
-h+='</table>';
-if(items.length===0)h='<div class="empty">No CVE opportunities found</div>';
-document.getElementById("cveTable").innerHTML=h}
+
+if(sort==="cvss")items.sort(function(a,b){return(b.cvss_score||0)-(a.cvss_score||0)});
+else items.sort(function(a,b){return(b.published||"").localeCompare(a.published||"")});
+
+document.getElementById("resultCount").textContent=items.length+" advisories";
+
+// Meta info
+var meta='<div class="feed-meta">';
+meta+='Last sync: <span>'+esc(fmtDate(cveFeedData.last_sync))+'</span>';
+meta+=' | Filters: CVSS '+esc(String(cveFeedData.filters&&cveFeedData.filters.min_cvss||"?"))+'+';
+meta+=', '+esc(String(cveFeedData.filters&&cveFeedData.filters.days_back||"?"))+'d back';
+meta+=' | Source: <a href="https://github.com/advisories" target="_blank">GitHub Advisory Database</a>';
+meta+='</div>';
+
+var h=meta;
+
+items.forEach(function(a,i){
+var id="cvef"+i;
+var pkgs=(a.packages||[]).map(function(p){return p.name}).filter(Boolean).join(", ");
+var ecosystems=(a.packages||[]).map(function(p){return p.ecosystem}).filter(Boolean);
+var ecoUniq=ecosystems.filter(function(v,idx,arr){return arr.indexOf(v)===idx}).join(", ");
+var cwes=(a.cwes||[]);
+var patched=(a.packages||[]).some(function(p){return p.patched_version});
+
+h+='<div class="item" onclick="toggleDetail(\''+id+'\')">';
+h+='<div class="item-row">';
+h+='<div class="item-left">';
+h+=sevBadge(a.severity);
+h+='<b style="color:#f8fafc">'+esc(a.id||a.ghsa)+'</b>';
+h+='<span style="color:#94a3b8;font-size:10px;max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;display:inline-block">'+esc((a.summary||"").substring(0,60))+'</span>';
+cwes.forEach(function(c){h+=cweBadge(c)});
+h+='</div>';
+h+='<div style="display:flex;align-items:center;gap:10px">';
+h+=cvssBar(a.cvss_score);
+if(patched)h+='<span class="badge patched">PATCHED</span>';
+else h+='<span class="badge unpatched">UNPATCHED</span>';
+h+='</div>';
+h+='</div></div>';
+
+// Detail panel
+h+='<div id="'+id+'" class="detail">';
+h+='<h4>'+esc(a.id||a.ghsa)+'</h4>';
+h+='<p>'+sevBadge(a.severity)+' '+cvssBar(a.cvss_score)+'</p>';
+h+='<p class="section-label">Summary</p><p>'+esc(a.summary)+'</p>';
+
+if(cwes.length){
+h+='<p class="section-label">Weaknesses</p><p>';
+cwes.forEach(function(c){h+=cweBadge(c)+' '});
+h+='</p>'}
+
+if(a.packages&&a.packages.length){
+h+='<p class="section-label">Affected Packages</p>';
+a.packages.forEach(function(p){
+h+='<p style="font-size:11px"><b>'+esc(p.ecosystem)+'</b> / <span style="color:#fbbf24">'+esc(p.name)+'</span>';
+if(p.vulnerable_range)h+=' <span style="color:#ef4444">'+esc(p.vulnerable_range)+'</span>';
+if(p.patched_version)h+=' &#8594; <span style="color:#22c55e">'+esc(p.patched_version)+'</span>';
+h+='</p>'})}
+
+h+='<p style="font-size:10px;color:#475569;margin-top:8px">Published: '+esc(fmtDate(a.published))+' | Updated: '+esc(fmtDate(a.updated))+'</p>';
+
+h+='<div class="detail-actions">';
+if(a.permalink)h+='<a href="'+esc(a.permalink)+'" target="_blank" class="btn btn-purple">GitHub Advisory</a>';
+(a.references||[]).slice(0,3).forEach(function(r,ri){
+h+='<a href="'+esc(r)+'" target="_blank" class="btn btn-secondary">Ref '+(ri+1)+'</a>'});
+h+='<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\''+esc(a.id||a.ghsa)+' - '+esc((a.summary||"").replace(/'/g,""))+'\')">Copy</button>';
+h+='</div></div>'});
+
+if(items.length===0)h+=meta+'<div class="empty">No advisories match filters</div>';
+document.getElementById("cvefeedTable").innerHTML=h}
+
 function renderExploits(q,cat,sort){
 var items=(DATA.exploits&&DATA.exploits.data||[]).filter(function(e){
 if(cat&&e.category!==cat)return false;
@@ -207,15 +330,15 @@ h+='<b style="color:#f8fafc">'+esc(e.protocol)+'</b>';
 h+='<span class="loss">'+fmtMoney(e.loss_usd)+'</span>';
 h+=catBadge(e.category);
 h+='</div>';
-h+='<a href="'+esc(poc)+'" target="_blank" class="btn btn-primary btn-sm" onclick="event.stopPropagation()">View PoC →</a>';
+h+='<a href="'+esc(poc)+'" target="_blank" class="btn btn-primary btn-sm" onclick="event.stopPropagation()">View PoC &#8594;</a>';
 h+='</div></div>';
 h+='<div id="'+id+'" class="detail">';
-h+='<h4>💀 '+esc(e.protocol)+'</h4>';
+h+='<h4>&#128027; '+esc(e.protocol)+'</h4>';
 h+='<p><b>Date:</b> '+esc(e.date)+' | <b>Loss:</b> <span class="loss">'+fmtMoney(e.loss_usd)+'</span> | <b>Category:</b> '+catBadge(e.category)+'</p>';
 h+='<p class="section-label">What Happened</p><p>'+esc(e.description)+'</p>';
 h+='<div class="detail-actions">';
-h+='<a href="'+esc(poc)+'" target="_blank" class="btn btn-primary">🔗 View PoC</a>';
-h+='<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\''+esc(e.protocol)+" - "+esc(e.category)+'\')">📋 Copy</button>';
+h+='<a href="'+esc(poc)+'" target="_blank" class="btn btn-primary">&#128281; View PoC</a>';
+h+='<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\''+esc(e.protocol)+" - "+esc(e.category)+'\')">&#128203; Copy</button>';
 h+='</div></div>'});
 if(items.length===0)h='<div class="empty">No exploits found</div>';
 document.getElementById("exploitsTable").innerHTML=h}
@@ -239,15 +362,15 @@ h+='<b style="color:#f8fafc">'+esc((f.title||"").substring(0,50))+'</b>';
 h+='<span style="color:#64748b">'+esc(f.protocol)+'</span>';
 h+=catBadge(f.category);
 h+='</div>';
-h+='<a href="'+esc(link)+'" target="_blank" class="btn btn-blue btn-sm" onclick="event.stopPropagation()">Report →</a>';
+h+='<a href="'+esc(link)+'" target="_blank" class="btn btn-blue btn-sm" onclick="event.stopPropagation()">Report &#8594;</a>';
 h+='</div></div>';
 h+='<div id="'+id+'" class="detail">';
-h+='<h4>📖 '+esc(f.title)+'</h4>';
+h+='<h4>&#128203; '+esc(f.title)+'</h4>';
 h+='<p>'+sevBadge(f.severity)+' | <b>Protocol:</b> '+esc(f.protocol)+' | <b>Auditor:</b> '+esc(f.auditor)+'</p>';
 h+='<p class="section-label">Description</p><p>'+esc(f.description||f.title)+'</p>';
 h+='<div class="detail-actions">';
-h+='<a href="'+esc(link)+'" target="_blank" class="btn btn-blue">🔗 Full Report</a>';
-h+='<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\''+esc(f.title)+'\')">📋 Copy</button>';
+h+='<a href="'+esc(link)+'" target="_blank" class="btn btn-blue">&#128281; Full Report</a>';
+h+='<button class="btn btn-secondary" onclick="event.stopPropagation();copyText(\''+esc(f.title)+'\')">&#128203; Copy</button>';
 h+='</div></div>'});
 if(items.length===0)h='<div class="empty">No findings found</div>';
 document.getElementById("findingsTable").innerHTML=h}
@@ -270,15 +393,15 @@ h+='</div>';
 h+='<span style="color:#64748b;font-size:10px">Click to expand</span>';
 h+='</div></div>';
 h+='<div id="'+id+'" class="detail">';
-h+='<h4>📋 '+esc(p.name)+'</h4>';
+h+='<h4>&#128207; '+esc(p.name)+'</h4>';
 h+='<p>'+sevBadge(p.severity)+' '+catBadge(p.category)+'</p>';
 h+='<p class="section-label">Description</p><p>'+esc(p.description)+'</p>';
 h+='<p class="section-label">How to Find</p><p>'+esc(p.how_to_find)+'</p>';
-if(p.example_vulnerable){h+='<p class="section-label">❌ Vulnerable Code</p><pre id="vuln'+i+'">'+esc(p.example_vulnerable)+'</pre>';
+if(p.example_vulnerable){h+='<p class="section-label">&#10060; Vulnerable Code</p><pre id="vuln'+i+'">'+esc(p.example_vulnerable)+'</pre>';
 h+='<button class="btn btn-secondary btn-sm" onclick="event.stopPropagation();copyEl(\'vuln'+i+'\')">Copy Vulnerable</button>'}
-if(p.example_fix){h+='<p class="section-label">✅ Fixed Code</p><pre id="fix'+i+'">'+esc(p.example_fix)+'</pre>';
+if(p.example_fix){h+='<p class="section-label">&#9989; Fixed Code</p><pre id="fix'+i+'">'+esc(p.example_fix)+'</pre>';
 h+='<button class="btn btn-green btn-sm" onclick="event.stopPropagation();copyEl(\'fix'+i+'\')">Copy Fix</button>'}
-if(p.keywords&&p.keywords.length){h+='<p class="section-label">🔑 Keywords</p><div class="keywords">';
+if(p.keywords&&p.keywords.length){h+='<p class="section-label">&#128270; Keywords</p><div class="keywords">';
 p.keywords.forEach(function(k){h+='<span class="keyword" onclick="event.stopPropagation();copyText(\''+esc(k)+'\')">'+esc(k)+'</span>'});
 h+='</div>'}
 h+='</div>'});
@@ -308,7 +431,7 @@ h+='<tr><td>'+(i+1)+'</td>';
 h+='<td><b>'+esc(p.name)+'</b></td>';
 h+='<td class="money">'+fmtMoney(p.max_bounty)+'</td>';
 h+='<td>'+esc(p.technologies||"-")+'</td>';
-h+='<td><a href="'+esc(p.url)+'" target="_blank">View →</a></td></tr>'});
+h+='<td><a href="'+esc(p.url)+'" target="_blank">View &#8594;</a></td></tr>'});
 h+='</table>';document.getElementById("immunefiTable").innerHTML=h}
 function renderPrograms(q,sort){
 var items=(DATA.all_programs&&DATA.all_programs.programs||[]).filter(function(p){
@@ -329,7 +452,7 @@ document.getElementById("resultCount").textContent=items.length+" repos";
 var h='<table><tr><th>Repo</th><th>Stars</th><th>Lang</th><th>Description</th></tr>';
 items.forEach(function(r){
 h+='<tr><td><a href="'+esc(r.url)+'" target="_blank">'+esc(r.full_name)+'</a></td>';
-h+='<td>⭐ '+r.stars+'</td>';
+h+='<td>&#11088; '+r.stars+'</td>';
 h+='<td>'+esc(r.language||"-")+'</td>';
 h+='<td>'+esc((r.description||"").substring(0,50))+'</td></tr>'});
 h+='</table>';document.getElementById("githubTable").innerHTML=h}
@@ -348,26 +471,26 @@ var h='<div class="intel-grid">';
 items.forEach(function(item){
 var d=item.data;
 h+='<div class="intel-card">';
-h+='<h3>🔍 '+esc(item.name)+' <span style="font-size:10px;color:#64748b;font-weight:400">'+item.total+' results</span></h3>';
+h+='<h3>&#128225; '+esc(item.name)+' <span style="font-size:10px;color:#64748b;font-weight:400">'+item.total+' results</span></h3>';
 if(d.writeups&&d.writeups.length>0){
-h+='<div class="intel-section"><h4><span class="badge writeup">📚</span> Writeups ('+d.writeups.length+')</h4>';
+h+='<div class="intel-section"><h4><span class="badge writeup">&#128214;</span> Writeups ('+d.writeups.length+')</h4>';
 d.writeups.slice(0,3).forEach(function(w){
 h+='<div class="intel-item"><a href="'+esc(w.url)+'" target="_blank">'+esc(w.title||"Untitled")+'</a>';
 if(w.snippet)h+='<div class="snippet">'+esc(w.snippet.substring(0,120))+'...</div>';
 h+='</div>'});
 h+='</div>'}
 if(d.twitter&&d.twitter.length>0){
-h+='<div class="intel-section"><h4><span class="badge twitter">🐦</span> Twitter ('+d.twitter.length+')</h4>';
+h+='<div class="intel-section"><h4><span class="badge twitter">&#128038;</span> Twitter ('+d.twitter.length+')</h4>';
 d.twitter.slice(0,2).forEach(function(t){
 h+='<div class="intel-item"><a href="'+esc(t.url)+'" target="_blank">'+esc(t.title||"Tweet")+'</a></div>'});
 h+='</div>'}
 if(d.github&&d.github.length>0){
-h+='<div class="intel-section"><h4><span class="badge github">📦</span> GitHub PoCs ('+d.github.length+')</h4>';
+h+='<div class="intel-section"><h4><span class="badge github">&#128218;</span> GitHub PoCs ('+d.github.length+')</h4>';
 d.github.slice(0,2).forEach(function(g){
 h+='<div class="intel-item"><a href="'+esc(g.url)+'" target="_blank">'+esc(g.title||"Repository")+'</a></div>'});
 h+='</div>'}
 if(d.defi_audit&&d.defi_audit.length>0){
-h+='<div class="intel-section"><h4><span class="badge audit">📖</span> DeFi Audits ('+d.defi_audit.length+')</h4>';
+h+='<div class="intel-section"><h4><span class="badge audit">&#128203;</span> DeFi Audits ('+d.defi_audit.length+')</h4>';
 d.defi_audit.slice(0,2).forEach(function(a){
 h+='<div class="intel-item"><a href="'+esc(a.url)+'" target="_blank">'+esc(a.title||"Audit Report")+'</a></div>'});
 h+='</div>'}
