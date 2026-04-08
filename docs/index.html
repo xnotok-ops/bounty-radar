@@ -176,7 +176,9 @@ if(Array.isArray(D.github)){D.github={repos:D.github}}
 // all_programs: fallback to h1_programs
 if(!D.all_programs&&D.h1_programs){D.all_programs=D.h1_programs}
 // audit_findings: fallback to solodit
-if(!D.audit_findings&&D.solodit&&D.solodit.findings){D.audit_findings={data:D.solodit.findings,total:D.solodit.total||D.solodit.findings.length}}
+if(!D.audit_findings&&D.solodit&&D.solodit.findings&&D.solodit.findings.length){D.audit_findings={data:D.solodit.findings,total:D.solodit.total||D.solodit.findings.length}}
+// intel: intel.intel -> intel.programs
+if(D.intel&&D.intel.intel&&!D.intel.programs){D.intel.programs=D.intel.intel}
 
 // Update timestamp
 if(D.generated_at){document.getElementById("updatedAt").textContent="Updated: "+new Date(D.generated_at).toLocaleDateString()}
@@ -191,7 +193,7 @@ var counts=[
   (D.hackerone&&D.hackerone.reports||[]).length,
   (D.immunefi&&D.immunefi.programs||[]).length,
   (D.all_programs&&D.all_programs.programs||D.h1_programs&&D.h1_programs.programs||[]).length,
-  (D.intel&&D.intel.total_enriched||0)
+  (D.intel&&D.intel.programs?Object.keys(D.intel.programs).length:0)
 ];
 for(var i=0;i<stats.length&&i<counts.length;i++){
   var sp=stats[i].querySelector("span");

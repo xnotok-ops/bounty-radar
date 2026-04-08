@@ -44,6 +44,10 @@ function buildHtml() {
   if (!uiData.audit_findings && uiData.solodit && uiData.solodit.findings) {
     uiData.audit_findings = { data: uiData.solodit.findings, total: uiData.solodit.total || 0 };
   }
+  // intel: intel.intel -> intel.programs
+  if (uiData.intel && uiData.intel.intel && !uiData.intel.programs) {
+    uiData.intel.programs = uiData.intel.intel;
+  }
 
   // Write data as separate JS file (index.html is manually maintained)
   fs.writeFileSync(
@@ -57,6 +61,7 @@ function buildHtml() {
   console.log("   immunefi.programs:", (uiData.immunefi?.programs?.length || 0));
   console.log("   exploits.data:", (uiData.exploits?.data?.length || 0));
   console.log("   all_programs.programs:", (uiData.all_programs?.programs?.length || 0));
+  console.log("   intel.programs:", Object.keys(uiData.intel?.programs || {}).length);
   console.log("   ℹ️  index.html is manually maintained — not overwritten");
 }
 
