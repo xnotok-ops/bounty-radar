@@ -119,19 +119,27 @@ a{color:#fbbf24;text-decoration:none}a:hover{text-decoration:underline}
 <input class="search" type="text" id="searchInput" placeholder="Search...">
 <select id="severityFilter"><option value="">All Severity</option><option value="critical">Critical</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
 <select id="categoryFilter" style="display:none"><option value="">All Categories</option></select>
-<select id="cweFilter"><option value="">All CWEs</option>
-<option value="CWE-639">CWE-639 IDOR</option>
-<option value="CWE-918">CWE-918 SSRF</option>
-<option value="CWE-362">CWE-362 Race Condition</option>
-<option value="CWE-434">CWE-434 File Upload</option>
-<option value="CWE-287">CWE-287 Auth Bypass</option>
-<option value="CWE-345">CWE-345 Sig Replay</option>
-<option value="CWE-294">CWE-294 Capture Replay</option>
-<option value="CWE-841">CWE-841 Reentrancy</option>
-<option value="CWE-682">CWE-682 Math Error</option>
-<option value="CWE-284">CWE-284 Access Control</option>
-<option value="CWE-829">CWE-829 Oracle</option>
-<option value="CWE-863">CWE-863 Incorrect AuthZ</option>
+<select id="cweFilter"><option value="">All Categories</option>
+<optgroup label="Web">
+<option value="idor">IDOR / Broken AuthZ</option>
+<option value="ssrf">SSRF</option>
+<option value="race-condition">Race Condition</option>
+<option value="file-upload">File Upload</option>
+<option value="auth-bypass">Auth Bypass</option>
+<option value="sig-replay">Signature / Replay</option>
+<option value="xss">XSS</option>
+<option value="injection">SQL / Code Injection</option>
+<option value="path-traversal">Path Traversal / LFI</option>
+<option value="http-smuggling">HTTP Smuggling / Cache</option>
+<option value="jwt-session">JWT / Session</option>
+<option value="deser-rce">Deserialization / RCE</option>
+</optgroup>
+<optgroup label="Smart Contract">
+<option value="reentrancy">Reentrancy</option>
+<option value="math-rounding">Math / Rounding</option>
+<option value="access-control">SC Access Control</option>
+<option value="oracle">Oracle Manipulation</option>
+</optgroup>
 </select>
 <select id="sortBy"><option value="newest">Newest</option><option value="loss">Biggest Loss</option><option value="bounty">Bounty</option><option value="results">Most Intel</option><option value="cvss">CVSS Score</option></select>
 <span class="count" id="resultCount"></span>
@@ -235,9 +243,9 @@ if(sev){
 var aSev=(a.severity||"").toLowerCase();
 if(aSev!==sev)return false}
 if(cweFilter){
-if(!a.cwes||a.cwes.indexOf(cweFilter)<0)return false}
+if(a.category!==cweFilter)return false}
 if(q){
-var searchStr=(a.id+" "+a.ghsa+" "+a.summary+" "+(a.cwes||[]).join(" ")+" "+(a.packages||[]).map(function(p){return p.name+" "+p.ecosystem}).join(" ")).toLowerCase();
+var searchStr=(a.id+" "+a.ghsa+" "+a.summary+" "+(a.cwes||[]).join(" ")+" "+(a.category_label||"")+" "+(a.packages||[]).map(function(p){return p.name+" "+p.ecosystem}).join(" ")).toLowerCase();
 if(searchStr.indexOf(q)<0)return false}
 return true});
 
@@ -271,6 +279,7 @@ h+=sevBadge(a.severity);
 h+='<b style="color:#f8fafc">'+esc(a.id||a.ghsa)+'</b>';
 h+='<span style="color:#94a3b8;font-size:10px;max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;display:inline-block">'+esc((a.summary||"").substring(0,60))+'</span>';
 cwes.forEach(function(c){h+=cweBadge(c)});
+if(a.category_label)h+='<span style="background:#a855f620;color:#d8b4fe;padding:2px 6px;border-radius:3px;font-size:9px;margin-left:4px">'+esc(a.category_label)+'</span>';
 h+='</div>';
 h+='<div style="display:flex;align-items:center;gap:10px">';
 h+=cvssBar(a.cvss_score);
