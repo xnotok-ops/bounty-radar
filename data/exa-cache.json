@@ -4488,18 +4488,18 @@
             "score": 0.5
           },
           {
-            "title": "MichaelVenturella/CVE-2025-6018-6019-PoC",
-            "url": "https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC",
-            "snippet": "# Repository: MichaelVenturella/CVE-2025-6018-6019-PoC\n\nA Proof of Concept for chaining CVE-2025-6018 (PAM/Polkit Active Session Bypass) and CVE-2025-6019 (libblockdev SUID Mount Flaw) to achieve Loca",
-            "published": "2026-02-09T19:17:23.000Z",
+            "title": "README.md at main · visa/trusted-agent-protocol",
+            "url": "https://github.com/visa/trusted-agent-protocol/blob/main/README.md",
+            "snippet": "# File: visa/trusted-agent-protocol/README.md\n\n- Repository: visa/trusted-agent-protocol | Establishing a universal standard of trust between AI agents and merchants for the next phase of agentic comm",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 7,
-        "enriched_at": "2026-04-04T03:34:42.696Z"
+        "enriched_at": "2026-04-12T04:11:42.219Z"
       },
-      "timestamp": "2026-04-04T03:34:44.553Z"
+      "timestamp": "2026-04-12T04:11:43.899Z"
     },
     "toolsforhumanity": {
       "intel": {
@@ -4558,25 +4558,25 @@
             "score": 1
           },
           {
-            "title": "[SECURITY] Edit tool reads file content before PreToolUse hook validation, allowing content probing · Issue #604 · anthropics/claude-agent-sdk-python",
-            "url": "https://github.com/anthropics/claude-agent-sdk-python/issues/604",
-            "snippet": "# Issue: anthropics/claude-agent-sdk-python #604\n\n- Repository: anthropics/claude-agent-sdk-python | 6K stars | Python\n\n## [SECURITY] Edit tool reads file content before PreToolUse hook validation, al",
-            "published": "2026-02-23T07:12:33.000Z",
+            "title": "Dh4v4l8/CVE-2025-55182-poc-tool",
+            "url": "https://github.com/Dh4v4l8/CVE-2025-55182-poc-tool",
+            "snippet": "# Repository: Dh4v4l8/CVE-2025-55182-poc-tool\n\n- Stars: 3\n- Forks: 1\n- Watchers: 3\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell\n- Default branch: main\n- Created: 2025-12-07T15:22:50Z\n",
+            "published": "2025-12-07T15:22:50.000Z",
             "score": 0.5
           },
           {
             "title": "AdnaneKhan/ActionsTOCTOU",
             "url": "https://github.com/AdnaneKhan/ActionsTOCTOU",
-            "snippet": "# Repository: AdnaneKhan/ActionsTOCTOU\n\nExample repository for GitHub Actions Time of Check to Time of Use (TOCTOU vulnerabilities)\n\n- Stars: 37\n- Forks: 8\n- Watchers: 37\n- Open issues: 3\n- Primary la",
+            "snippet": "# Repository: AdnaneKhan/ActionsTOCTOU\n\nExample repository for GitHub Actions Time of Check to Time of Use (TOCTOU vulnerabilities)\n\n- Stars: 38\n- Forks: 8\n- Watchers: 38\n- Open issues: 3\n- Primary la",
             "published": "2024-04-07T22:11:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-04T03:34:44.553Z"
+        "enriched_at": "2026-04-12T04:11:43.900Z"
       },
-      "timestamp": "2026-04-04T03:34:46.098Z"
+      "timestamp": "2026-04-12T04:11:45.633Z"
     },
     "ring": {
       "intel": {
@@ -4612,17 +4612,17 @@
             "score": 1
           },
           {
-            "title": "Unauthenticated Cluster Takeover in AWS ROSA",
-            "url": "https://blog.ryanjarv.sh/2026/01/05/unauth-aws-rosa-cluster-takeover.html",
-            "snippet": "Unauthenticated Cluster Takeover in AWS ROSA try{Typekit.load();}catch(e){} --\n\nRyan Gerstenkorn home\n\n# Unauthenticated Cluster Takeover in AWS ROSA\n\nRecently, I discovered a critical vulnerability i",
-            "published": "2026-01-05T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "CVE-2025-64983 - Ring Video Doorbell Debug Code Remote Code Execution | Kenya Education Network",
             "url": "https://cert.kenet.or.ke/cve-2025-64983-ring-video-doorbell-debug-code-remote-code-execution",
             "snippet": "CVE-2025-64983 - Ring Video Doorbell Debug Code Remote Code Execution | Kenya Education Network\n\n \n\n# CVE-2025-64983 - Ring Video Doorbell Debug Code Remote Code Execution\n\nSubmitted by admin on Novem",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Unauthenticated Cluster Takeover in AWS ROSA",
+            "url": "https://blog.ryanjarv.sh/2026/01/05/unauth-aws-rosa-cluster-takeover.html",
+            "snippet": "Unauthenticated Cluster Takeover in AWS ROSA\n\n# Unauthenticated Cluster Takeover in AWS ROSA\n\nRecently, I discovered a critical vulnerability in Red Hat OpenShift Service affecting AWS ROSA Classic Cl",
+            "published": "2026-01-05T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -4642,18 +4642,18 @@
             "score": 0.5
           },
           {
-            "title": "MrAle98/CVE-2025-21333-POC",
-            "url": "https://github.com/MrAle98/CVE-2025-21333-POC",
-            "snippet": "# Repository: MrAle98/CVE-2025-21333-POC\n\nPOC exploit for CVE-2025-21333 heap-based buffer overflow. It leverages WNF state data and I/O ring IOP_MC_BUFFER_ENTRY\n\n- Stars: 231\n- Forks: 35\n- Watchers: ",
-            "published": "2025-02-27T12:36:55.000Z",
+            "title": "modules/exploits/linux/local/af_packet_packet_set_ring_priv_esc.rb at master · rapid7/metasploit-framework",
+            "url": "https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/local/af_packet_packet_set_ring_priv_esc.rb",
+            "snippet": "# File: rapid7/metasploit-framework/modules/exploits/linux/local/af_packet_packet_set_ring_priv_esc.rb\n\n- Repository: rapid7/metasploit-framework | Metasploit Framework | 38K stars | Ruby\n- Branch: ma",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-04T03:34:46.098Z"
+        "enriched_at": "2026-04-12T04:11:45.633Z"
       },
-      "timestamp": "2026-04-04T03:34:47.651Z"
+      "timestamp": "2026-04-12T04:11:47.310Z"
     },
     "six-group": {
       "intel": {
@@ -4661,7 +4661,7 @@
           {
             "title": "A Bug Bounty Program for SIX  | SIX",
             "url": "https://www.six-group.com/en/blog/six-bug-bounty-program.html",
-            "snippet": "A Bug Bounty Program for SIX | SIX \n\nTable of Contents\n\n- What Is an Ethical Hacker?\n- What Is Offensive Cybersecurity?\n- Dream Job: Gang Leader\n- The World’s First Bug Bounty Program\n- A Bug Bounty P",
+            "snippet": "A Bug Bounty Program for SIX | SIX\n\nTable of Contents\n\n- What Is an Ethical Hacker?\n- What Is Offensive Cybersecurity?\n- Dream Job: Gang Leader\n- The World’s First Bug Bounty Program\n- A Bug Bounty Pr",
             "published": "2024-10-01T04:00:00.000Z",
             "score": 1
           },
@@ -4705,32 +4705,32 @@
         ],
         "github": [
           {
+            "title": "SIX Group // Security",
+            "url": "https://github.com/sixgroup-security",
+            "snippet": "# Organization: SIX Group // Security (@sixgroup-security)\n\n- Website: https://six-group.com\n- Location: Zurich, Switzerland\n- Followers: 4\n- Public Repos: 4\n- Created: 2021-11-11\n\n---\n\n## Top Reposit",
+            "published": "2021-11-11T15:30:03.000Z",
+            "score": 1
+          },
+          {
             "title": "SIX Group AG",
             "url": "https://github.com/six-group",
             "snippet": "# Organization: SIX Group AG (@six-group)\n\n- Website: https://six-group.com/\n- Location: Switzerland\n- Followers: 25\n- Public Repos: 9\n- Created: 2022-11-02\n\n---\n\n## Top Repositories\n\n| Repository | D",
             "published": "2022-11-02T14:56:37.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "MichaelVenturella/CVE-2025-6018-6019-PoC",
             "url": "https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC",
             "snippet": "# Repository: MichaelVenturella/CVE-2025-6018-6019-PoC\n\nA Proof of Concept for chaining CVE-2025-6018 (PAM/Polkit Active Session Bypass) and CVE-2025-6019 (libblockdev SUID Mount Flaw) to achieve Loca",
             "published": "2026-02-09T19:17:23.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "exploit.py at main · synacktiv/CVE-2025-59712_CVE-2025-59713",
-            "url": "https://github.com/synacktiv/CVE-2025-59712_CVE-2025-59713/blob/main/exploit.py",
-            "snippet": "# File: synacktiv/CVE-2025-59712_CVE-2025-59713/exploit.py\n\n- Repository: synacktiv/CVE-2025-59712_CVE-2025-59713 | Snipe-IT PoC exploit for CVE-2025-59712 and CVE-2025-59713 | 2 stars | Python\n- Bran",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-04T03:34:47.651Z"
+        "enriched_at": "2026-04-12T04:11:47.311Z"
       },
-      "timestamp": "2026-04-04T03:34:49.234Z"
+      "timestamp": "2026-04-12T04:11:48.969Z"
     },
     "eufy_security": {
       "intel": {
@@ -4743,17 +4743,17 @@
             "score": 1
           },
           {
-            "title": "Untitled",
-            "url": "https://www.usenix.org/system/files/woot24-goeman.pdf",
-            "snippet": "This paper is included in the Proceedings of the\n18th USENIX WOOT Conference on Offensive Technologies.\nAugust 12–13, 2024 • Philadelphia, PA, USA\nISBN 978-1-939133-43-4\nOpen access to the\nProceedings",
-            "published": "2024-07-18T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "CVE Record: CVE-2021-3555",
             "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3555",
             "snippet": "CVE Record: CVE-2021-3555\n\nSkip to main content\n\nPlease wait. Loading...",
             "published": "2024-06-04T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Untitled",
+            "url": "https://www.usenix.org/system/files/woot24-goeman.pdf",
+            "snippet": "This paper is included in the Proceedings of the\n18th USENIX WOOT Conference on Offensive Technologies.\nAugust 12–13, 2024 • Philadelphia, PA, USA\nISBN 978-1-939133-43-4\nOpen access to the\nProceedings",
+            "published": "2024-07-18T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -4773,10 +4773,10 @@
             "score": 0.5
           },
           {
-            "title": "Untitled",
-            "url": "https://www.usenix.org/system/files/woot24-goeman.pdf",
-            "snippet": "This paper is included in the Proceedings of the\n18th USENIX WOOT Conference on Offensive Technologies.\nAugust 12–13, 2024 • Philadelphia, PA, USA\nISBN 978-1-939133-43-4\nOpen access to the\nProceedings",
-            "published": "2024-07-18T00:00:00.000Z",
+            "title": "NVD - CVE-2023-37822",
+            "url": "https://nvd.nist.gov/nvd.cfm?cvename=CVE-2023-37822",
+            "snippet": "NVD - CVE-2023-37822\n\n## CVE-2023-37822 Detail\n\nModified\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may require amendment d",
+            "published": null,
             "score": 0
           }
         ],
@@ -4805,18 +4805,18 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-04T03:34:49.234Z"
+        "enriched_at": "2026-04-12T04:11:48.969Z"
       },
-      "timestamp": "2026-04-04T03:34:50.738Z"
+      "timestamp": "2026-04-12T04:11:50.673Z"
     },
     "eero": {
       "intel": {
         "writeups": [
           {
-            "title": "The Download",
-            "url": "https://blog.eero.com/security-eero%E2%80%8A-%E2%80%8Aannouncing-coordinated-disclosure-program/",
-            "snippet": "Security at eero  — announcing our Coordinated Disclosure Program &#8211; The Download\nSHOP HOLIDAY DEALS\n\nSHOP HOLIDAY DEALS\n\n\nShop\nMenu\n# The Download\n\nThe latest in home technology, trends, and new",
-            "published": "2017-08-23T17:00:29.000Z",
+            "title": "Vulnerability Disclosure: eero - Bugcrowd",
+            "url": "https://bugcrowd.com/engagements/eero/crowdstream",
+            "snippet": "Vulnerability Disclosure: eero - Bugcrowd\n\n \n\n",
+            "published": null,
             "score": 1
           },
           {
@@ -4882,9 +4882,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-04T03:34:50.739Z"
+        "enriched_at": "2026-04-12T04:11:50.674Z"
       },
-      "timestamp": "2026-04-04T03:34:52.292Z"
+      "timestamp": "2026-04-12T04:11:52.296Z"
     },
     "mozilla": {
       "intel": {
@@ -4913,24 +4913,24 @@
         ],
         "twitter": [
           {
-            "title": "CVE-2026-4721: Mozilla Firefox RCE Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4721/",
-            "snippet": "CVE-2026-4721: Mozilla Firefox RCE Vulnerability\n\n \n\nVulnerability Database/CVE-2026-4721\n\n# CVE-2026-4721: Mozilla Firefox RCE Vulnerability\n\nCVE-2026-4721 is a remote code execution flaw in Mozilla ",
-            "published": "2026-03-24T13:16:07.000Z",
+            "title": "Multiple Vulnerabilities in Mozilla Products Could Allow for Arbitrary Code Execution",
+            "url": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla-products-could-allow-for-arbitrary-code-execution_2026-032",
+            "snippet": "Multiple Vulnerabilities in Mozilla Products Could Allow for Arbitrary Code ExecutionMultiple vulnerabilities have been discovered in Mozilla products, the most severe of which could allow for arbitra",
+            "published": null,
             "score": 1
           },
           {
-            "title": "CVE-2026-4715: Mozilla Firefox Use-After-Free Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4715/",
-            "snippet": "CVE-2026-4715: Mozilla Firefox Use-After-Free Vulnerability\n\n \n\nVulnerability Database/CVE-2026-4715\n\n# CVE-2026-4715: Mozilla Firefox Use-After-Free Vulnerability\n\nCVE-2026-4715 is a use-after-free v",
-            "published": "2026-03-24T13:16:07.000Z",
+            "title": "Multiple Vulnerabilities in Mozilla Products Could Allow for Arbitrary Code Execution",
+            "url": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla-products-could-allow-for-arbitrary-code-execution_2026-001",
+            "snippet": "Multiple Vulnerabilities in Mozilla Products Could Allow for Arbitrary Code ExecutionMultiple vulnerabilities have been discovered in Mozilla products, the most severe of which could allow for arbitra",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "CVE-2026-4716: Mozilla Firefox Buffer Overflow Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4716/",
-            "snippet": "CVE-2026-4716: Mozilla Firefox Buffer Overflow Vulnerability\n\n \n\nVulnerability Database/CVE-2026-4716\n\n# CVE-2026-4716: Mozilla Firefox Buffer Overflow Vulnerability\n\nCVE-2026-4716 is a buffer overflo",
-            "published": "2026-03-24T13:16:07.000Z",
+            "title": "CVE-2026-4721: Mozilla Firefox RCE Vulnerability",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4721/",
+            "snippet": "CVE-2026-4721: Mozilla Firefox RCE Vulnerability\n\nCVE-2026-4721: Mozilla Firefox RCE Vulnerability\n\nThe SentinelOne Annual Threat Report - A Defenders Guide from the FrontlinesThe SentinelOne Annual T",
+            "published": null,
             "score": 0
           }
         ],
@@ -4959,9 +4959,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-04T03:34:52.292Z"
+        "enriched_at": "2026-04-12T04:11:52.297Z"
       },
-      "timestamp": "2026-04-04T03:34:53.913Z"
+      "timestamp": "2026-04-12T04:11:54.114Z"
     },
     "stripchat": {
       "intel": {
@@ -5036,31 +5036,31 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-04T03:34:53.913Z"
+        "enriched_at": "2026-04-12T04:11:54.114Z"
       },
-      "timestamp": "2026-04-04T03:34:55.544Z"
+      "timestamp": "2026-04-12T04:11:55.845Z"
     },
     "redox_bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "Redox launches public bug bounty program with Bugcrowd to help keep health data secure",
-            "url": "https://redoxengine.com/blog/bugcrowd-bounty-program/",
-            "snippet": "Redox launches public bug bounty program with Bugcrowd to help keep health data secure\n* Skip to main content\nRedox logo\n* \nSolutions\n* For vendors\n* For providers\n* For payers\n* Platform overview\n* P",
-            "published": "2024-10-27T00:00:00.000Z",
-            "score": 1
-          },
-          {
             "title": "Redox Bug Bounty",
             "url": "https://www.bountytalk.org/index.php?topic=24283.0",
             "snippet": "Redox Bug Bounty\n\nForums Advertising & Bounty Hub\n\nWelcome, Guest. Please login or register.\n\n1 Hour 1 Day 1 Week 1 Month Forever\n\nLogin with username, password and session length\n\n## News:\n\nBountytal",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "Arbitrary File Disclosure with root Privileges via RdxEngine-API in REDDOXX Appliance - RedTeam Pentesting",
+            "url": "http://www.redteam-pentesting.de/en/advisories/rt-sa-2017-006",
+            "snippet": "Arbitrary File Disclosure with root Privileges via RdxEngine-API in REDDOXX Appliance - RedTeam Pentesting\n\nnewer\n\nback to overview\n\nolder\n\n# Arbitrary File Disclosure with root Privileges via RdxEngi",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Responsible disclosure",
-            "url": "https://docs.redoxengine.com/basics/security/responsible-disclosure/",
-            "snippet": "Responsible disclosure\n\nHome\n\nBasics\n\nSecurity\n\nResponsible disclosure\n\n# Responsible disclosure\n\nLast updated: Nov 14, 2025\n\nHEALTH TECH VENDOR\n\nHCO\n\nAs part of our responsible disclosure policy, we ",
+            "title": "Vulnerability management",
+            "url": "https://docs.redoxengine.com/basics/security/vulnerability-management/",
+            "snippet": "Vulnerability management\n\nHome\n\nBasics\n\nSecurity\n\nVulnerability management\n\n# Vulnerability management\n\nLast updated: Nov 14, 2025\n\nHEALTH TECH VENDOR\n\nSUPPORT\n\nOur Security team identifies, evaluates",
             "published": null,
             "score": 0
           }
@@ -5076,7 +5076,7 @@
           {
             "title": "React2Shell: When Frameworks Become Attack Vectors | Xoel Rodriguez",
             "url": "https://xoelrdgz.github.io/2026/01/02/react2shell-vulnerability.html",
-            "snippet": "React2Shell: When Frameworks Become Attack Vectors | Xoel Rodriguez\n\nBack to blog\n\n## The Framework We Trust\n\nReact dominates modern web development. Millions of applications, from small startups to e",
+            "snippet": "React2Shell: When Frameworks Become Attack Vectors | Xoel Rodriguez\n\n## The Framework We Trust\n\nReact dominates modern web development. Millions of applications, from small startups to enterprise plat",
             "published": "2026-01-02T00:00:00.000Z",
             "score": 0.5
           },
@@ -5090,32 +5090,32 @@
         ],
         "github": [
           {
-            "title": "gabriellandau/Redux",
-            "url": "https://github.com/gabriellandau/Redux",
-            "snippet": "# Repository: gabriellandau/Redux\n\n- Stars: 12\n- Forks: 1\n- Watchers: 12\n- Open issues: 0\n- Primary language: C\n- Languages: C (93.4%), C++ (6.6%)\n- License: Other (NOASSERTION)\n- Default branch: main",
-            "published": "2026-02-11T20:36:05.000Z",
+            "title": "pocs/redox at master · Marsman1996/pocs · GitHub",
+            "url": "https://github.com/Marsman1996/pocs/tree/master/redox",
+            "snippet": "## Files\n\n# redox\n\n# redox\n\nTop\n\nLast commit message\n\nLast commit date\n\nView all files\n\npocs/redox at master · Marsman1996/pocs · GitHub\nSkip to content\n## Navigation Menu\nToggle navigation\n\n\n\nSign in",
+            "published": "2018-08-14T01:49:12.000Z",
             "score": 1
           },
           {
-            "title": "REDAXO%20File%20Download%20Exploit.md at main · Purposex7/Vulns4Study",
-            "url": "https://github.com/Purposex7/Vulns4Study/blob/main/REDAXO%20File%20Download%20Exploit.md",
-            "snippet": "# File: Purposex7/Vulns4Study/REDAXO%20File%20Download%20Exploit.md\n\n- Repository: Purposex7/Vulns4Study | 0 stars\n- Branch: main\n\n```md\n# REDAXO Directory Traversal Exploit\r\n\r\n## Basic Info\r\n\r\n- **Ex",
-            "published": null,
+            "title": "pocs/redox/CVE-2024-57493 at master · Marsman1996/pocs · GitHub",
+            "url": "https://github.com/Marsman1996/pocs/tree/master/redox/CVE-2024-57493",
+            "snippet": "pocs/redox/CVE-2024-57493 at master · Marsman1996/pocs · GitHub\n\n/ pocs Public\n\nStar 10\n\n- Pricing\n- Notifications\n- Fork 2\n\n \n\n## Files\n\n master\n\n# CVE-2024-57493\n\nHistory\n\n master\n\n# CVE-2024-57493\n",
+            "published": "2018-08-14T01:49:12.000Z",
             "score": 0.5
           },
           {
-            "title": "metaredteam/rtx-cve-2023-45779",
-            "url": "https://github.com/metaredteam/rtx-cve-2023-45779",
-            "snippet": "# Repository: metaredteam/rtx-cve-2023-45779\n\nProof-of-concept code for Android APEX key reuse vulnerability\n\n- Stars: 108\n- Forks: 8\n- Watchers: 108\n- Open issues: 0\n- Primary language: Shell\n- Langu",
-            "published": "2024-01-26T21:17:38.000Z",
+            "title": "pocs/redox/CVE-2025-46158 at master · Marsman1996/pocs · GitHub",
+            "url": "https://github.com/Marsman1996/pocs/tree/master/redox/CVE-2025-46158",
+            "snippet": "pocs/redox/CVE-2025-46158 at master · Marsman1996/pocs · GitHub\n\n/ pocs Public\n\nStar 10\n\n- Pricing\n- Notifications\n- Fork 2\n\n \n\n## Files\n\n master\n\n# CVE-2025-46158\n\nHistory\n\n master\n\n# CVE-2025-46158\n",
+            "published": "2018-08-14T01:49:12.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-04T03:34:55.544Z"
+        "enriched_at": "2026-04-12T04:11:55.845Z"
       },
-      "timestamp": "2026-04-04T03:34:57.115Z"
+      "timestamp": "2026-04-12T04:11:57.589Z"
     },
     "okg": {
       "intel": {
@@ -5207,7 +5207,7 @@
           {
             "title": "1Win | Search the Data Breach",
             "url": "https://databreach.com/breach/1win-2024",
-            "snippet": "1Win | Search the Data Breach\n\nHome News Breaches About\n\nAccount\n\nHome News Breaches About\n\nAccount\n\n# 1Win Breach\n\n### Jan 1, 2024\n\n### 96,544,764 rows\n\nAdded on Jan 13, 2025\n\nData Found in the Breac",
+            "snippet": "1Win | Search the Data Breach\n\n# 1Win Breach\n\n### Jan 1, 2024\n\n### 96,544,764 rows\n\nAdded on Jan 13, 2025\n\nData Found in the BreachIP AddressEmailPhone NumberPassport\n\n## Search the Leak\n\nEmail\n\nOR\n\nP",
             "published": "2025-01-13T00:00:00.000Z",
             "score": 0.5
           },
@@ -5223,7 +5223,7 @@
           {
             "title": "1Win | Search the Data Breach",
             "url": "https://databreach.com/breach/1win-2024",
-            "snippet": "1Win | Search the Data Breach\n\nHome News Breaches About\n\nAccount\n\nHome News Breaches About\n\nAccount\n\n# 1Win Breach\n\n### Jan 1, 2024\n\n### 96,544,764 rows\n\nAdded on Jan 13, 2025\n\nData Found in the Breac",
+            "snippet": "1Win | Search the Data Breach\n\n# 1Win Breach\n\n### Jan 1, 2024\n\n### 96,544,764 rows\n\nAdded on Jan 13, 2025\n\nData Found in the BreachIP AddressEmailPhone NumberPassport\n\n## Search the Leak\n\nEmail\n\nOR\n\nP",
             "published": "2025-01-13T00:00:00.000Z",
             "score": 1
           },
@@ -5235,10 +5235,10 @@
             "score": 0.5
           },
           {
-            "title": "1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Leaked; High Risk of BEC & Supply-Chain Attacks",
-            "url": "https://www.brinztech.com/breach-alerts/brinztech-alert-1win-betting-site-28gb-sql-db-96m-users-partners-employees-leaked-high-risk-of-bec-supply-chain-attacks/",
-            "snippet": "1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Leaked; High Risk of BEC & Supply-Chain Attacks\n\n###### perm_phone_msgCall & WhatsApp : +971 52 603 9711\n\nsearch menu call Free quote\n\n",
-            "published": "2025-10-31T20:19:46.000Z",
+            "title": "1win Data Breach - LeakedSource",
+            "url": "https://leakedsource.com/breaches/1win-data-breach-3418f560",
+            "snippet": "1win Data Breach - LeakedSource \n\n# 1win\n\nData Breach\n\n1win.com\n\n210,627\n\nRecords Exposed\n\nApr 2021\n\nDate of Breach\n\nDatabase\n\nBreach Type\n\nSep 2024\n\nAdded to Database\n\n## About This Breach\n\nIn April ",
+            "published": "2021-04-01T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5251,25 +5251,25 @@
             "score": 1
           },
           {
+            "title": "cucumber-pickle/1winCum",
+            "url": "https://github.com/cucumber-pickle/1winCum",
+            "snippet": "# Repository: cucumber-pickle/1winCum\n\n1win automation scripts that uses no API. Special thanks to @HPV-CLOUD\n\n- Stars: 6\n- Forks: 1\n- Watchers: 6\n- Open issues: 1\n- Primary language: Python\n- Languag",
+            "published": "2024-11-04T14:56:02.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Win5X-Team/win5x-1.5",
             "url": "https://github.com/Win5X-Team/win5x-1.5",
             "snippet": "# Repository: Win5X-Team/win5x-1.5\n\n- Stars: 8\n- Forks: 2\n- Watchers: 8\n- Open issues: 1\n- Primary language: JavaScript\n- Languages: JavaScript (52.6%), PHP (27.1%), Blade (19.9%), HTML (0.4%), Shell\n",
             "published": "2020-11-01T17:08:37.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "E1A/CVE-2023-4596",
-            "url": "https://github.com/E1A/CVE-2023-4596",
-            "snippet": "# Repository: E1A/CVE-2023-4596\n\nPoC Script for CVE-2023-4596, unauthenticated Remote Command Execution through arbitrary file uploads.\n\n- Stars: 24\n- Forks: 5\n- Watchers: 24\n- Open issues: 2\n- Primar",
-            "published": "2023-08-30T22:40:10.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-05T03:55:18.385Z"
+        "enriched_at": "2026-04-12T04:11:39.978Z"
       },
-      "timestamp": "2026-04-05T03:55:20.298Z"
+      "timestamp": "2026-04-12T04:11:42.219Z"
     },
     "wisdomtree": {
       "intel": {
@@ -7491,5 +7491,5 @@
       "timestamp": "2026-04-07T03:50:19.397Z"
     }
   },
-  "lastRun": "2026-04-11T03:38:34.295Z"
+  "lastRun": "2026-04-12T04:11:57.589Z"
 }
