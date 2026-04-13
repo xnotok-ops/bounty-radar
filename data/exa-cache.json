@@ -5121,47 +5121,47 @@
       "intel": {
         "writeups": [
           {
-            "title": "How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty | by Kayra Öksüz | Medium",
-            "url": "https://medium.com/%40oksuzkayra16/how-i-took-down-an-entire-application-using-google-com-and-earned-a-2-000-bounty-4f23c626b06e",
-            "snippet": "How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty | by Kayra Öksüz | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign ",
-            "published": "2025-12-02T19:53:39.000Z",
+            "title": "OKC Project Hack Analysis. Incident Background | by lunaray | Medium",
+            "url": "https://lunaray.medium.com/okc-project-hack-analysis-0907312f519b",
+            "snippet": "OKC Project Hack Analysis. Incident Background | by lunaray | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# OKC Project Hack Analysis\n\n5 min read\n\nDec 15, 2023\n\n--\n\n1\n\nShare\n\n## Incident Background\n\nOn Novembe",
+            "published": "2023-12-15T08:49:22.000Z",
             "score": 1
+          },
+          {
+            "title": "How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty",
+            "url": "https://medium.com/@oksuzkayra16/how-i-took-down-an-entire-application-using-google-com-and-earned-a-2-000-bounty-4f23c626b06e",
+            "snippet": "How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty | by Kayra Öksüz | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# How",
+            "published": "2025-12-02T19:53:39.000Z",
+            "score": 0.5
           },
           {
             "title": "bugs found in ok_jpg_convert_data_unit_grayscale and ok_jpg_convert_YCbCr_to_RGB via honggfuzz · Issue #20 · brackeen/ok-file-formats",
             "url": "https://github.com/brackeen/ok-file-formats/issues/20",
             "snippet": "# Issue: brackeen/ok-file-formats #20\n\n- Repository: brackeen/ok-file-formats | Decoders for PNG, JPEG, WAV, and a few other file formats | 116 stars | C\n\n## bugs found in ok_jpg_convert_data_unit_gra",
             "published": "2021-09-10T01:15:24.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Okta vulnerability explained (bcrypt auth bypass)",
-            "url": "https://kondukto.io/blog/okta-vulnerability-bcrypt-auth",
-            "snippet": "Okta vulnerability explained (bcrypt auth bypass)\n\nBlog\n\nAppSec Blog\n\nSecurity Research\n\nNews\n\nProduct Docs & FAQs\n\nAppSec Blog\n\n# Okta vulnerability explained (bcrypt auth bypass)\n\n-\n\nNovember 5, 202",
-            "published": null,
             "score": 0
           }
         ],
         "twitter": [
           {
+            "title": "OKC Project Hack Analysis. Incident Background | by lunaray | Medium",
+            "url": "https://lunaray.medium.com/okc-project-hack-analysis-0907312f519b",
+            "snippet": "OKC Project Hack Analysis. Incident Background | by lunaray | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# OKC Project Hack Analysis\n\n5 min read\n\nDec 15, 2023\n\n--\n\n1\n\nShare\n\n## Incident Background\n\nOn Novembe",
+            "published": "2023-12-15T08:49:22.000Z",
+            "score": 1
+          },
+          {
+            "title": "apko affected by potential unbounded resource consumption in expandapk.ExpandApk on attacker-controlled .apk streams · Issue #487279 · NixOS/nixpkgs",
+            "url": "https://github.com/NixOS/nixpkgs/issues/487279",
+            "snippet": "# Issue: NixOS/nixpkgs #487279\n\n- Repository: NixOS/nixpkgs | Nix Packages collection & NixOS | 24K stars | Nix\n\n## apko affected by potential unbounded resource consumption in expandapk.ExpandApk on ",
+            "published": "2026-02-05T15:15:55.000Z",
+            "score": 0.5
+          },
+          {
             "title": "g0w6y/CVE-2026-21994",
             "url": "https://github.com/g0w6y/CVE-2026-21994",
             "snippet": "# Repository: g0w6y/CVE-2026-21994\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-21T15:47:53Z\n- Last push: 2026-03-21T16:22:00Z\n- Contributors: 1 (top",
             "published": "2026-03-21T15:47:53.000Z",
-            "score": 1
-          },
-          {
-            "title": "apko is vulnerable to unbounded resource consumption in expandapk.Split on attacker-controlled .apk streams · Issue #487282 · NixOS/nixpkgs",
-            "url": "https://github.com/NixOS/nixpkgs/issues/487282",
-            "snippet": "# Issue: NixOS/nixpkgs #487282\n\n- Repository: NixOS/nixpkgs | Nix Packages collection & NixOS | 24K stars | Nix\n\n## apko is vulnerable to unbounded resource consumption in expandapk.Split on attacker-",
-            "published": "2026-02-05T15:16:02.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Critical RCE Vulnerabilities in SGLang LLM Framework | Orca Security",
-            "url": "https://orca.security/resources/blog/sglang-llm-framework-rce-vulnerabilities/",
-            "snippet": "## Table of contents\n\n- Quick Overview\n- CVSS Rationale\n- What Is SGLang?\n- Technical Analysis Root Cause: Python’s pickle on Untrusted Network Data How Pickle Deserialization Becomes Code Execution P",
-            "published": "2026-03-12T00:42:03.000Z",
             "score": 0
           }
         ],
@@ -5190,9 +5190,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-04T03:34:57.116Z"
+        "enriched_at": "2026-04-13T04:21:23.038Z"
       },
-      "timestamp": "2026-04-04T03:34:58.672Z"
+      "timestamp": "2026-04-13T04:21:25.063Z"
     },
     "1win_com": {
       "intel": {
@@ -5299,22 +5299,22 @@
         "twitter": [
           {
             "title": "R9.htm",
-            "url": "https://www.sec.gov/Archives/edgar/data/880631/000121465926002458/R9.htm",
-            "snippet": "XML 32 R9.htm IDEA: XBRL DOCUMENT v3.25.4\n\nOrganization and Description of Business\n\nDec. 31, 2025\n\n1. Organization and Description of Business\n\nWisdomTree, Inc., through its subsidiaries in the U.S. ",
+            "url": "https://www.sec.gov/Archives/edgar/data/880631/000121465925003503/R9.htm",
+            "snippet": "v3.25.0.1\n\nOrganization and Description of Business\n\nDec. 31, 2024\n\n1. Organization and Description of Business\n\nWisdomTree, Inc., through its global subsidiaries (collectively, “WisdomTree” or the “C",
             "published": null,
             "score": 1
           },
           {
-            "title": "Defc14a13246002 05032024.htm",
-            "url": "https://www.sec.gov/Archives/edgar/data/880631/000092189524001009/defc14a13246002_05032024.htm",
-            "snippet": "DEFC14A 1 defc14a13246002_05032024.htm\n\nUNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nSCHEDULE 14A\n\n(Rule 14a-101)\n\nINFORMATION REQUIRED IN PROXY STATEMENT\n\nSCHEDULE 14A I",
+            "title": "R11.htm",
+            "url": "https://www.sec.gov/Archives/edgar/data/880631/000119312523204008/R11.htm",
+            "snippet": "v3.23.2\n\nOrganization and Description of Business\n\nJun. 30, 2023\n\n1. Organization and Description of Business\n\nWisdomTree, Inc., through its global subsidiaries (collectively, “WisdomTree” or the “Com",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Untitled",
-            "url": "http://ir.wisdomtree.com/company-information/corporate-responsibility",
-            "snippet": "WisdomTree 2024 CORPORATE RESPONSIBILITY 1\n© 2025 WisdomTree, Inc. All Rights Reserved.\n2024 Report\nCorporate Responsibility at WisdomTree\nApril 2025\nWisdomTree 2024 CORPORATE RESPONSIBILITY 2\n© 2025 ",
+            "title": "Defc14a13246002 05032024.htm",
+            "url": "https://www.sec.gov/Archives/edgar/data/880631/000092189524001009/defc14a13246002_05032024.htm",
+            "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nSCHEDULE 14A\n\n(Rule 14a-101)\n\nINFORMATION REQUIRED IN PROXY STATEMENT\n\nSCHEDULE 14A INFORMATION\n\nProxy Statement Pursuant to ",
             "published": null,
             "score": 0
           }
@@ -5328,25 +5328,25 @@
             "score": 1
           },
           {
+            "title": "mstpr-brainbot - Pool can be drained · Issue #68 · sherlock-audit/2024-03-woofi-swap-judging",
+            "url": "https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/68",
+            "snippet": "# Issue: sherlock-audit/2024-03-woofi-swap-judging #68\n\n- Repository: sherlock-audit/2024-03-woofi-swap-judging | 3 stars | Python\n\n## mstpr-brainbot - Pool can be drained\n\n- Author: @sherlock-admin2\n",
+            "published": "2024-03-20T15:19:54.000Z",
+            "score": 0.5
+          },
+          {
             "title": "nican0r - Attacker can steal stuck tokens via swap · Issue #153 · sherlock-audit/2024-03-woofi-swap-judging",
             "url": "https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/153",
             "snippet": "# Issue: sherlock-audit/2024-03-woofi-swap-judging #153\n\n- Repository: sherlock-audit/2024-03-woofi-swap-judging | 3 stars | Python\n\n## nican0r - Attacker can steal stuck tokens via swap\n\n- Author: @s",
             "published": "2024-03-20T15:27:32.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Spicy Rose Stork - Oracle Manipulation Risk in `Strategy::twapTick` Due to Single TWAP Window · Issue #615 · sherlock-audit/2025-02-yieldoor-judging",
-            "url": "https://github.com/sherlock-audit/2025-02-yieldoor-judging/issues/615",
-            "snippet": "# Issue: sherlock-audit/2025-02-yieldoor-judging #615\n\n- Repository: sherlock-audit/2025-02-yieldoor-judging | 3 stars | Python\n\n## Spicy Rose Stork - Oracle Manipulation Risk in `Strategy::twapTick` ",
-            "published": "2025-03-03T16:32:04.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-05T03:55:20.299Z"
+        "enriched_at": "2026-04-13T04:21:25.064Z"
       },
-      "timestamp": "2026-04-05T03:55:21.788Z"
+      "timestamp": "2026-04-13T04:21:26.786Z"
     },
     "pornbox": {
       "intel": {
@@ -5406,7 +5406,7 @@
           },
           {
             "title": "Adversis/PandorasBox",
-            "url": "https://github.com/adversis/PandorasBox",
+            "url": "https://github.com/Adversis/PandorasBox",
             "snippet": "# Repository: Adversis/PandorasBox\n\nSecurity tool to quickly audit Public Box files and folders.\n\n- Stars: 54\n- Forks: 22\n- Watchers: 54\n- Open issues: 4\n- Primary language: Python\n- Languages: Python",
             "published": "2019-03-09T02:37:23.000Z",
             "score": 0.5
@@ -5421,9 +5421,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-05T03:55:21.788Z"
+        "enriched_at": "2026-04-13T04:21:26.786Z"
       },
-      "timestamp": "2026-04-05T03:55:23.267Z"
+      "timestamp": "2026-04-13T04:21:28.524Z"
     },
     "tron_dao": {
       "intel": {
@@ -5498,9 +5498,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-05T03:55:23.267Z"
+        "enriched_at": "2026-04-13T04:21:28.524Z"
       },
-      "timestamp": "2026-04-05T03:55:24.777Z"
+      "timestamp": "2026-04-13T04:21:30.193Z"
     },
     "superbet": {
       "intel": {
@@ -5559,25 +5559,25 @@
             "score": 1
           },
           {
-            "title": "simonemastella/SureBetFinder",
-            "url": "https://github.com/simonemastella/SureBetFinder",
-            "snippet": "# Repository: simonemastella/SureBetFinder\n\nA python script that scans various football betting sites to find what are called surebets in jargon.\n\n- Stars: 32\n- Forks: 10\n- Watchers: 32\n- Open issues:",
-            "published": "2020-12-07T19:34:28.000Z",
+            "title": "danielcardeenas/surebet",
+            "url": "https://github.com/danielcardeenas/surebet",
+            "snippet": "# Repository: danielcardeenas/surebet\n\n💵 Real-time arbitrage software\n\n- Stars: 44\n- Forks: 19\n- Watchers: 44\n- Open issues: 1\n- Primary language: TypeScript\n- Languages: TypeScript\n- License: MIT Li",
+            "published": "2024-08-15T22:00:28.000Z",
             "score": 0.5
           },
           {
-            "title": "MartinFabianIonut/CVE-2025-55315",
-            "url": "https://github.com/MartinFabianIonut/CVE-2025-55315",
-            "snippet": "# Repository: MartinFabianIonut/CVE-2025-55315\n\nProof-of-concept exploit for CVE-2025-55315 (.NET HTTP Request Smuggling). Demonstrates how improperly parsed chunked encoding lets attackers smuggle re",
-            "published": "2025-11-27T09:09:28.000Z",
+            "title": "exploit.py at main · jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
+            "url": "https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE/blob/main/exploit.py",
+            "snippet": "# File: jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE/exploit.py\n\n- Repository: jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | 28 stars | Python\n- Branch: main\n\n```py\n# ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-05T03:55:24.777Z"
+        "enriched_at": "2026-04-13T04:21:30.193Z"
       },
-      "timestamp": "2026-04-05T03:55:26.341Z"
+      "timestamp": "2026-04-13T04:21:31.893Z"
     },
     "magic-eden": {
       "intel": {
@@ -5636,25 +5636,25 @@
             "score": 1
           },
           {
-            "title": "camerodev/solana-nft-sniper",
-            "url": "https://github.com/camerodev/solana-nft-sniper",
-            "snippet": "# Repository: camerodev/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (93.3%), CSS (3.5",
-            "published": null,
-            "score": 0.5
-          },
-          {
             "title": "fidesy/me-sniper",
             "url": "https://github.com/fidesy/me-sniper",
             "snippet": "# Repository: fidesy/me-sniper\n\nMagicEden on-chain NFT sniper bot\n\n- Stars: 52\n- Forks: 6\n- Watchers: 52\n- Open issues: 0\n- Primary language: Go\n- Languages: Go\n- License: MIT License (MIT)\n- Topics: ",
             "published": "2022-12-19T18:14:21.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "camerodev/solana-nft-sniper",
+            "url": "https://github.com/camerodev/solana-nft-sniper",
+            "snippet": "# Repository: camerodev/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (93.3%), CSS (3.5",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-05T03:55:26.341Z"
+        "enriched_at": "2026-04-13T04:21:31.894Z"
       },
-      "timestamp": "2026-04-05T03:55:27.830Z"
+      "timestamp": "2026-04-13T04:21:33.598Z"
     },
     "boozt": {
       "intel": {
@@ -5706,32 +5706,32 @@
         ],
         "github": [
           {
+            "title": "inventory/Boozt Fashion AB at main · trickest/inventory · GitHub",
+            "url": "https://github.com/trickest/inventory/tree/main/Boozt%20Fashion%20AB",
+            "snippet": "inventory/Boozt Fashion AB at main · trickest/inventory · GitHub\n\n/ inventory Public\n\nStar 1.5k\n\n- Pricing\n- Notifications\n- Fork 272\n\n \n\n## Files\n\n main\n\n# Boozt Fashion AB\n\nHistory\n\n main\n\n# Boozt F",
+            "published": "2022-02-28T13:58:05.000Z",
+            "score": 1
+          },
+          {
             "title": "Boozt Platform",
             "url": "https://github.com/boozt-platform",
             "snippet": "# Organization: Boozt Platform (@boozt-platform)\n\nNordic technology company selling fashion and lifestyle online.\n\n- Website: https://www.boozt.com\n- Email: opensource@boozt.com\n- Location: Sweden\n- F",
             "published": "2018-08-28T12:13:55.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "a55f125a55de1c0d4f41e66236027e01",
             "url": "https://gist.github.com/KhanMarshaI/a55f125a55de1c0d4f41e66236027e01",
             "snippet": "# Gist: OpenCart v4.1.0.3 - Time-of-check Time-of-use.md\n\n- Author: @KhanMarshaI\n- Private gist (1 file)\n- Created: 2025-12-10T10:26:48Z\n- Updated: 2025-12-28T03:51:47Z\n\n## OpenCart v4.1.0.3 - Time-of",
             "published": "2025-12-10T10:26:48.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "g0vguy/CVE-2025-61922-PoC",
-            "url": "https://github.com/g0vguy/CVE-2025-61922-PoC",
-            "snippet": "# Repository: g0vguy/CVE-2025-61922-PoC\n\nA simple, educational proof-of-concept script demonstrating the zero-click account takeover vulnerability in the PrestaShop Checkout module (CVE-2025-61922).\n\n",
-            "published": "2026-01-02T17:29:29.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-05T03:55:27.830Z"
+        "enriched_at": "2026-04-13T04:21:33.599Z"
       },
-      "timestamp": "2026-04-05T03:55:29.399Z"
+      "timestamp": "2026-04-13T04:21:35.267Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -5740,7 +5740,7 @@
             "title": "$2,000 Logic Flaw: Free Products via URL Tampering | Herish Blog",
             "url": "https://herish.me/blog/parameter-tampering-zero-eur-bug/",
             "snippet": "$2,000 Logic Flaw: Free Products via URL Tampering | Herish Blog \n\n \n\n \n\n# How a Simple URL Parameter Made Products Free - The $2,000 Logic Flaw That Broke an E-Commerce Site\n\nNovember 6, 2025 • 9 min",
-            "published": "2025-11-06T06:03:39.000Z",
+            "published": "2025-11-06T06:04:58.000Z",
             "score": 1
           },
           {
@@ -5751,10 +5751,10 @@
             "score": 0.5
           },
           {
-            "title": "My Experience Reporting an XSS Vulnerability on Shein to HackerOne | by 24BkDoor | Medium",
-            "url": "https://medium.com/%4024bkdoor/my-experience-reporting-an-xss-vulnerability-on-shein-to-hackerone-f482279a5e19",
-            "snippet": "My Experience Reporting an XSS Vulnerability on Shein to HackerOne | by 24BkDoor | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# My Experienc",
-            "published": "2025-04-02T11:28:54.000Z",
+            "title": "Congratulations! You've Won? |\n        Jesse's Blog",
+            "url": "https://sheehan.nz/blog/2024/07/29/congratulations-youve-won/",
+            "snippet": "Congratulations! You've Won? | Jesse's Blog\n\n## Congratulations! You've Won?\n\nNote:\n\n- This article was originally posted on my other blog.\n\n### Introduction\n\nAfter taking a break for a while to work ",
+            "published": "2024-07-29T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5762,53 +5762,53 @@
           {
             "title": "CVE-2026-22779: BlackSheep, White Lies: Anatomy of a CRLF Injection in CVE-2026-22779 | CVEReports",
             "url": "https://cvereports.com/reports/CVE-2026-22779",
-            "snippet": "CVE-2026-22779: BlackSheep, White Lies: Anatomy of a CRLF Injection in CVE-2026-22779 | CVEReports\n\n \n\n \n\nCVE-2026-22779: BlackSheep, White Lies: Anatomy of a CRLF Injection in CVE-2026-22779 | CVERep",
+            "snippet": "CVE-2026-22779: BlackSheep, White Lies: Anatomy of a CRLF Injection in CVE-2026-22779 | CVEReports\n\nCVE-2026-22779: BlackSheep, White Lies: Anatomy of a CRLF Injection in CVE-2026-22779 | CVEReports\nC",
             "published": "2026-01-14T16:49:34.000Z",
             "score": 1
           },
           {
-            "title": "CVE-2026-4176: CVE-2026-4176: Remote Code Execution via Heap-Based Buffer Overflow in Perl Compress::Raw::Zlib | CVEReports",
-            "url": "https://cvereports.com/reports/CVE-2026-4176",
-            "snippet": "CVE-2026-4176: CVE-2026-4176: Remote Code Execution via Heap-Based Buffer Overflow in Perl Compress::Raw::Zlib | CVEReports\n\n \n\n \n\nCVE-2026-4176: CVE-2026-4176: Remote Code Execution via Heap-Based Bu",
-            "published": "2026-03-29T20:50:51.000Z",
+            "title": "CVE-2025-55182 React2Shell: 766 Next.js Hosts Breached in 24 Hours | DevOps Daily",
+            "url": "https://devops-daily.com/posts/react2shell-cve-2025-55182-nextjs-breach",
+            "snippet": "CVE-2025-55182 React2Shell: 766 Next.js Hosts Breached in 24 Hours | DevOps Daily\n\nSkip to main content\n\n2026-04-03\n\n11 min read\n\n# CVE-2025-55182 React2Shell: 766 Next.js Hosts Breached in 24 Hours\n\n",
+            "published": "2026-04-03T09:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "CVE-2026-1642: NGINX Upstream TLS Injection: Racing the Handshake | CVEReports",
-            "url": "https://cvereports.com/reports/CVE-2026-1642",
-            "snippet": "CVE-2026-1642: NGINX Upstream TLS Injection: Racing the Handshake | CVEReports\n\n \n\n \n\nCVE-2026-1642: NGINX Upstream TLS Injection: Racing the Handshake | CVEReports\nCVE-2026-1642\n8.20.01%\n# NGINX Upst",
-            "published": "2026-02-04T15:02:06.000Z",
+            "title": "CVE-2026-4176: CVE-2026-4176: Remote Code Execution via Heap-Based Buffer Overflow in Perl Compress::Raw::Zlib | CVEReports",
+            "url": "https://cvereports.com/reports/CVE-2026-4176",
+            "snippet": "CVE-2026-4176: CVE-2026-4176: Remote Code Execution via Heap-Based Buffer Overflow in Perl Compress::Raw::Zlib | CVEReports\n\nCVE-2026-4176: CVE-2026-4176: Remote Code Execution via Heap-Based Buffer O",
+            "published": "2026-03-29T20:50:51.000Z",
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "shekkbuilder/kaslr-bypass-via-prefetch",
+            "url": "https://github.com/shekkbuilder/kaslr-bypass-via-prefetch",
+            "snippet": "# Repository: shekkbuilder/kaslr-bypass-via-prefetch\n\nA proof-of-concept KASLR bypass for the Linux kernel via timing prefetch\n\n- Stars: 5\n- Forks: 39\n- Watchers: 5\n- Open issues: 0\n- Primary language",
+            "published": "2016-03-05T20:24:08.000Z",
+            "score": 1
+          },
+          {
+            "title": "ZDI-19-359/exploit.html at main · thezdi/PoC",
+            "url": "https://github.com/thezdi/PoC/blob/main/ZDI-19-359/exploit.html",
+            "snippet": "# File: thezdi/PoC/ZDI-19-359/exploit.html\n\n- Repository: thezdi/PoC | Proofs-of-concept | 827 stars | C++\n- Branch: main\n\n```html\n<!-- Full exploit of ZDI-19-359/ZDI-CAN-7757/CVE-2019-0752           ",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "41eab0f2c038ce8b355acf80e9ebb980",
             "url": "https://gist.github.com/ssherei/41eab0f2c038ce8b355acf80e9ebb980",
             "snippet": "# Gist: Modified-MS16-032.ps1\n\n- Author: @ssherei\n- Public gist (1 file)\n- Created: 2016-06-01T14:35:43Z\n- Updated: 2022-12-21T09:39:52Z\n- Forks: 8\n\n## Modified-MS16-032.ps1\n\n```ps1\nfunction Invoke-MS",
             "published": "2016-06-01T14:35:43.000Z",
-            "score": 1
-          },
-          {
-            "title": "oxfemale/CVE-2026-20817",
-            "url": "https://github.com/oxfemale/CVE-2026-20817",
-            "snippet": "# Repository: oxfemale/CVE-2026-20817\n\nWindows Error Reporting ALPC Elevation of Privilege (CVE-2026-20817) - Proof-of-Concept exploit demonstrating local privilege escalation via WER service.\n\n- Star",
-            "published": "2026-02-18T13:56:17.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "CerberusMrX/Cerberus-React2Shell-Scanner-Exploit",
-            "url": "https://github.com/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit",
-            "snippet": "# Repository: CerberusMrX/Cerberus-React2Shell-Scanner-Exploit\n\nElite exploitation toolkit for CVE-2025-55182 (React Server Components RCE). Async polymorphic payloads, advanced WAF/CDN bypass, proxy ",
-            "published": "2025-12-10T18:09:08.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-05T03:55:29.399Z"
+        "enriched_at": "2026-04-13T04:21:35.267Z"
       },
-      "timestamp": "2026-04-05T03:55:31.010Z"
+      "timestamp": "2026-04-13T04:21:37.050Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -5876,9 +5876,9 @@
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-04-05T03:55:31.010Z"
+        "enriched_at": "2026-04-13T04:21:37.050Z"
       },
-      "timestamp": "2026-04-05T03:55:32.602Z"
+      "timestamp": "2026-04-13T04:21:38.702Z"
     },
     "frontegg": {
       "intel": {
@@ -5932,7 +5932,7 @@
           {
             "title": "Sandbox Escape in `@enclave-vm/core` · Advisory · agentfront/enclave · GitHub",
             "url": "https://github.com/agentfront/enclave/security/advisories/GHSA-f229-3862-4942",
-            "snippet": "Sandbox Escape in `@enclave-vm/core` · Advisory · agentfront/enclave · GitHub\n\n/ enclave Public\n\nStar 3\n\n- Pricing\n- Notifications\n- Fork 0\n\n# Sandbox Escape in `@enclave-vm/core`\n\nCritical\n\npublished",
+            "snippet": "Sandbox Escape in `@enclave-vm/core` · Advisory · agentfront/enclave · GitHub\n\n# Sandbox Escape in `@enclave-vm/core`\n\nCritical\n\npublished GHSA-f229-3862-4942 Feb 22, 2026\n\n## Package\n\n@enclave-vm/cor",
             "published": null,
             "score": 1
           },
@@ -5953,9 +5953,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-05T03:55:32.602Z"
+        "enriched_at": "2026-04-13T04:21:38.702Z"
       },
-      "timestamp": "2026-04-05T03:55:34.085Z"
+      "timestamp": "2026-04-13T04:21:40.435Z"
     },
     "indrive": {
       "intel": {
@@ -7491,5 +7491,5 @@
       "timestamp": "2026-04-07T03:50:19.397Z"
     }
   },
-  "lastRun": "2026-04-12T04:11:57.589Z"
+  "lastRun": "2026-04-13T04:21:40.435Z"
 }
