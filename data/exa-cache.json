@@ -6007,32 +6007,32 @@
         ],
         "github": [
           {
+            "title": "Remote Code Execution via Local File Inclusion and Log Poisoning · Advisory · InvoicePlane/InvoicePlane · GitHub",
+            "url": "https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g6rw-m9mf-33ch",
+            "snippet": "Remote Code Execution via Local File Inclusion and Log Poisoning · Advisory · InvoicePlane/InvoicePlane · GitHub\n\n/ InvoicePlane Public\n\nStar 3k\n\n- Pricing\n- Notifications\n- Fork 859\n\n# Remote Code Ex",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "getdrive/PoC",
             "url": "https://github.com/getdrive/PoC",
             "snippet": "# Repository: getdrive/PoC\n\nPoC. Severity critical.\n\n- Stars: 71\n- Forks: 15\n- Watchers: 71\n- Open issues: 0\n- Primary language: Ruby\n- Languages: Ruby (51.7%), Python (44.8%), Shell (3.3%), PHP (0.2%",
             "published": "2023-08-05T11:02:23.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "iluaster/getdrive_PoC",
             "url": "https://github.com/iluaster/getdrive_PoC",
             "snippet": "# Repository: iluaster/getdrive_PoC\n\nPoC. Severity critical.\n\n- Stars: 0\n- Forks: 1\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (63.4%), Ruby (28.0%), Shell (8.0%), P",
             "published": "2023-08-10T20:31:23.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "InvoiceShelf unauthenticated PHP deserialization vulnerability [CVE-2024-55556] · Pull Request #19950 · rapid7/metasploit-framework",
-            "url": "https://github.com/rapid7/metasploit-framework/pull/19950",
-            "snippet": "# Pull Request: rapid7/metasploit-framework #19950\n\n- Repository: rapid7/metasploit-framework | Metasploit Framework | 38K stars | Ruby\n\n## InvoiceShelf unauthenticated PHP deserialization vulnerabili",
-            "published": "2025-03-07T17:44:17.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:02.432Z"
+        "enriched_at": "2026-04-14T04:10:34.234Z"
       },
-      "timestamp": "2026-04-06T04:08:04.726Z"
+      "timestamp": "2026-04-14T04:10:35.909Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -6047,7 +6047,7 @@
           {
             "title": "Amazon.com Stored XSS via Kindle Device Name",
             "url": "https://b.fl7.de/2014/08/amazon-stored-xss-kindle.html",
-            "snippet": "Amazon.com Stored XSS via Kindle Device Name &#8211; Benjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\nBenjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\nAmazon.com Stored XSS via Kindle Device Name fe",
+            "snippet": "Amazon.com Stored XSS via Kindle Device Name – Benjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\nBenjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\nAmazon.com Stored XSS via Kindle Device Name feature ",
             "published": "2014-08-01T00:00:00.000Z",
             "score": 0.5
           },
@@ -6107,9 +6107,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:04.727Z"
+        "enriched_at": "2026-04-14T04:10:35.910Z"
       },
-      "timestamp": "2026-04-06T04:08:06.468Z"
+      "timestamp": "2026-04-14T04:10:37.562Z"
     },
     "rei_bbp": {
       "intel": {
@@ -6184,9 +6184,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:06.469Z"
+        "enriched_at": "2026-04-14T04:10:37.562Z"
       },
-      "timestamp": "2026-04-06T04:08:08.180Z"
+      "timestamp": "2026-04-14T04:10:39.241Z"
     },
     "mergify": {
       "intel": {
@@ -6238,17 +6238,17 @@
         ],
         "github": [
           {
-            "title": "[Critical] Active Exploitation of RCE (Miner + Backdoor) & please re-tag v1.10.1-fix.1 to ensure the image is updated. · Issue #29278 · langgenius/dify",
-            "url": "https://github.com/langgenius/dify/issues/29278",
-            "snippet": "# Issue: langgenius/dify #29278\n\n- Repository: langgenius/dify | Production-ready platform for agentic workflow development. | 136K stars | TypeScript\n\n## [Critical] Active Exploitation of RCE (Miner ",
-            "published": "2025-12-08T08:39:45.000Z",
-            "score": 1
-          },
-          {
             "title": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab",
             "url": "https://securitylab.github.com/advisories/GHSL-2024-053_Hedy/",
             "snippet": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27: R",
             "published": "2024-05-14T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "[Critical] Active Exploitation of RCE (Miner + Backdoor) & please re-tag v1.10.1-fix.1 to ensure the image is updated. · Issue #29278 · langgenius/dify",
+            "url": "https://github.com/langgenius/dify/issues/29278",
+            "snippet": "# Issue: langgenius/dify #29278\n\n- Repository: langgenius/dify | Production-ready platform for agentic workflow development. | 136K stars | TypeScript\n\n## [Critical] Active Exploitation of RCE (Miner ",
+            "published": "2025-12-08T08:39:45.000Z",
             "score": 0.5
           },
           {
@@ -6261,9 +6261,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:08.180Z"
+        "enriched_at": "2026-04-14T04:10:39.241Z"
       },
-      "timestamp": "2026-04-06T04:08:10.021Z"
+      "timestamp": "2026-04-14T04:10:40.926Z"
     },
     "coinhako": {
       "intel": {
@@ -6324,7 +6324,7 @@
           {
             "title": "hakaioffsec/CVE-2026-25769",
             "url": "https://github.com/hakaioffsec/CVE-2026-25769",
-            "snippet": "# Repository: hakaioffsec/CVE-2026-25769\n\nRemote Code Execution via Insecure Deserialization in Wazuh Cluster\n\n- Stars: 31\n- Forks: 7\n- Watchers: 31\n- Open issues: 0\n- Primary language: Python\n- Langu",
+            "snippet": "# Repository: hakaioffsec/CVE-2026-25769\n\nRemote Code Execution via Insecure Deserialization in Wazuh Cluster\n\n- Stars: 36\n- Forks: 8\n- Watchers: 36\n- Open issues: 0\n- Primary language: Python\n- Langu",
             "published": "2026-02-11T18:29:02.000Z",
             "score": 0.5
           },
@@ -6338,9 +6338,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:10.022Z"
+        "enriched_at": "2026-04-14T04:10:42.708Z"
       },
-      "timestamp": "2026-04-06T04:08:11.868Z"
+      "timestamp": "2026-04-14T04:10:44.349Z"
     },
     "arkose_labs": {
       "intel": {
@@ -6369,24 +6369,24 @@
         ],
         "twitter": [
           {
-            "title": "Arkose Labs Report Reveals Explosive Growth in SMS Toll Fraud and Precision-Targeted Attacks",
-            "url": "https://www.businesswire.com/news/home/20251217521684/en/Arkose-Labs-Report-Reveals-Explosive-Growth-in-SMS-Toll-Fraud-and-Precision-Targeted-Attacks",
-            "snippet": "Arkose Labs Report Reveals Explosive Growth in SMS Toll Fraud and Precision-Targeted Attacks\n\nDec 17, 2025 9:35 AM Eastern Standard Time\n\n# Arkose Labs Report Reveals Explosive Growth in SMS Toll Frau",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "Untitled",
             "url": "https://www.arkoselabs.com/resource/arkose-phishing-protection/",
             "snippet": "Defending against MFA compromise and other advanced phishing tactics\nMultifactor authentication used to be the gold standard for enhancing enterprise security. But\ncybercriminals have upped their game",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "Arkose Labs Report Reveals Explosive Growth in SMS Toll Fraud and Precision-Targeted Attacks",
+            "url": "https://www.businesswire.com/news/home/20251217521684/en/Arkose-Labs-Report-Reveals-Explosive-Growth-in-SMS-Toll-Fraud-and-Precision-Targeted-Attacks",
+            "snippet": "Arkose Labs Report Reveals Explosive Growth in SMS Toll Fraud and Precision-Targeted Attacks\n\nDec 17, 2025 9:35 AM Eastern Standard Time\n\n# Arkose Labs Report Reveals Explosive Growth in SMS Toll Frau",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Platform | Arkose Labs",
-            "url": "https://www.arkoselabs.com/blog/recaptcha-is-still-vulnerable-perhaps-more-than-ever-before/",
-            "snippet": "Platform | Arkose Labs\n\n# Unified Platform to Stop Malicious Bots, AI Agents and Human Fraud Networks\n\nDisrupt Attack Economics Across Every Touchpoint\n\nArkose Titan™ delivers end-to-end fraud prevent",
-            "published": "2024-10-31T17:13:42.000Z",
+            "title": "Credential Stuffing | Arkose Labs",
+            "url": "https://www.arkoselabs.com/solutions/credential-stuffing/",
+            "snippet": "Credential Stuffing | Arkose Labs \n\n# Credential Stuffing Solution\n\n## Eliminate the #1 ATO threat to your business.\n\nThose stolen credentials? Worthless against Arkose Labs defenses. We stop credenti",
+            "published": "2025-12-14T01:34:22.000Z",
             "score": 0
           }
         ],
@@ -6415,9 +6415,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:11.868Z"
+        "enriched_at": "2026-04-14T04:10:44.350Z"
       },
-      "timestamp": "2026-04-06T04:08:13.629Z"
+      "timestamp": "2026-04-14T04:10:45.996Z"
     },
     "alsco": {
       "intel": {
@@ -6425,7 +6425,7 @@
           {
             "title": "Bug Bounty Program- ALSCO",
             "url": "https://alscotoday.com/go/bug",
-            "snippet": "Bug Bounty Program- ALSCO \n\n \n\n \n\n \n\n### Bug Bounty Program\n\n#### Bug Bounty Program\n\nSecure Gateway®️ Engineering committed to working with security experts across the world to stay up to date with t",
+            "snippet": "Bug Bounty Program- ALSCO\n\n### Bug Bounty Program\n\n#### Bug Bounty Program\n\nSecure Gateway®️ Engineering committed to working with security experts across the world to stay up to date with the latest ",
             "published": null,
             "score": 1
           },
@@ -6455,7 +6455,7 @@
           {
             "title": "Cloud Secure Gateway- ALSCO",
             "url": "https://alscotoday.com/go/cloud-secure-gateway",
-            "snippet": "Cloud Secure Gateway- ALSCO \n\n \n\n \n\n \n\n### Cloud Secure Gateway\n\nOur system performs active scanning of files as they are uploaded to the server.Our system Actively scans all modified files within use",
+            "snippet": "Cloud Secure Gateway- ALSCO\n\n### Cloud Secure Gateway\n\nOur system performs active scanning of files as they are uploaded to the server.Our system Actively scans all modified files within user accounts",
             "published": null,
             "score": 0.5
           },
@@ -6469,32 +6469,32 @@
         ],
         "github": [
           {
-            "title": "Alchemist3dot14/CVE-2024-30270-PoC",
-            "url": "https://github.com/Alchemist3dot14/CVE-2024-30270-PoC",
-            "snippet": "# Repository: Alchemist3dot14/CVE-2024-30270-PoC\n\nThe script exploits Mailcow vulnerabilities via XSS and RCE, emphasizing the need for robust security measures and responsible usage to enhance web ap",
-            "published": "2024-06-21T04:47:48.000Z",
+            "title": "[Snyk] Fix for 1 vulnerabilities · Pull Request #508 · aliscco/alisco-node",
+            "url": "https://github.com/aliscco/alisco-node/pull/508",
+            "snippet": "# Pull Request: aliscco/alisco-node #508\n\n- Repository: aliscco/alisco-node | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 0 stars\n\n## [Snyk] Fix for 1 vulnerabilities\n\n- Author: ",
+            "published": "2023-06-22T05:05:34.000Z",
             "score": 1
           },
           {
-            "title": "Alucard0x1/CVE-2024-28000",
-            "url": "https://github.com/Alucard0x1/CVE-2024-28000",
-            "snippet": "# Repository: Alucard0x1/CVE-2024-28000\n\nLiteSpeed Cache Privilege Escalation PoC\n\n- Stars: 21\n- Forks: 9\n- Watchers: 21\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- Default branc",
-            "published": "2024-08-24T05:12:56.000Z",
+            "title": "[Snyk] Fix for 2 vulnerabilities · Pull Request #1632 · aliscco/alisco-node",
+            "url": "https://github.com/aliscco/alisco-node/pull/1632",
+            "snippet": "# Pull Request: aliscco/alisco-node #1632\n\n- Repository: aliscco/alisco-node | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 0 stars\n\n## [Snyk] Fix for 2 vulnerabilities\n\n- Author:",
+            "published": "2024-05-22T15:56:50.000Z",
             "score": 0.5
           },
           {
-            "title": "0xBlackash/CVE-2026-28289",
-            "url": "https://github.com/0xAshwesker/CVE-2026-28289",
-            "snippet": "# Repository: 0xBlackash/CVE-2026-28289\n\nCVE-2026-28289\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-03-0",
-            "published": "2026-03-05T17:48:00.000Z",
+            "title": "[Snyk] Fix for 6 vulnerabilities · Pull Request #1050 · aliscco/alisco-node",
+            "url": "https://github.com/aliscco/alisco-node/pull/1050",
+            "snippet": "# Pull Request: aliscco/alisco-node #1050\n\n- Repository: aliscco/alisco-node | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 0 stars\n\n## [Snyk] Fix for 6 vulnerabilities\n\n- Author:",
+            "published": "2023-12-02T07:06:38.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:13.629Z"
+        "enriched_at": "2026-04-14T04:10:45.996Z"
       },
-      "timestamp": "2026-04-06T04:08:15.403Z"
+      "timestamp": "2026-04-14T04:10:47.585Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -6523,17 +6523,17 @@
         ],
         "twitter": [
           {
-            "title": "dynaconf Affected by Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver | GitLab Advisory Database (GLAD)",
-            "url": "https://advisories.gitlab.com/pkg/pypi/dynaconf/CVE-2026-33154/",
-            "snippet": "dynaconf Affected by Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver | GitLab Advisory Database (GLAD)\n\nDynaconf is vulnerable to Server-Side Template Injection (SSTI) ",
-            "published": "2026-03-18T08:00:30.000Z",
-            "score": 1
-          },
-          {
             "title": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI",
             "url": "https://hiddenlayer.com/sai-security-advisory/2024-09-cleanlab/",
             "snippet": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI (function () { const params = new URLSearchParams(window.location.search); for (const key of params.keys()) { if (key.endsWith('_page')) {",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "dynaconf Affected by Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver | GitLab Advisory Database (GLAD)",
+            "url": "https://advisories.gitlab.com/pkg/pypi/dynaconf/CVE-2026-33154/",
+            "snippet": "dynaconf Affected by Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver | GitLab Advisory Database (GLAD)\n\nDynaconf is vulnerable to Server-Side Template Injection (SSTI) ",
+            "published": "2026-03-18T08:00:30.000Z",
             "score": 0.5
           },
           {
@@ -6560,18 +6560,18 @@
             "score": 0.5
           },
           {
-            "title": "ctxis/DynamicLabs",
-            "url": "https://github.com/ctxis/DynamicLabs",
-            "snippet": "# Repository: ctxis/DynamicLabs\n\nDynamic Labs is an open source tool aimed at red teamers and pentesters for the quick deployment of flexible, transient and cloud-hosted lab environments.\n\n- Stars: 63",
-            "published": "2020-08-03T13:22:01.000Z",
+            "title": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-053_Hedy/",
+            "snippet": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27: R",
+            "published": "2024-05-14T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:15.403Z"
+        "enriched_at": "2026-04-14T04:10:47.585Z"
       },
-      "timestamp": "2026-04-06T04:08:17.147Z"
+      "timestamp": "2026-04-14T04:10:49.211Z"
     },
     "modern_treasury": {
       "intel": {
@@ -6637,18 +6637,18 @@
             "score": 0.5
           },
           {
-            "title": "Overview · Modern-Treasury/modern-treasury-node · GitHub",
-            "url": "https://github.com/Modern-Treasury/modern-treasury-node/security",
-            "snippet": "Overview · Modern-Treasury/modern-treasury-node · GitHub\n\n/ modern-treasury-node Public\n\nStar 43\n\n- Pricing\n- Notifications\n- Fork 21\n\n## Security\n\n### SECURITY.md\n\n# Security Policy\n\n## Reporting Sec",
+            "title": "Overview · Modern-Treasury/modern-treasury-python · GitHub",
+            "url": "https://github.com/Modern-Treasury/modern-treasury-python/security",
+            "snippet": "Overview · Modern-Treasury/modern-treasury-python · GitHub\n\n## Security\n\n### SECURITY.md\n\n# Security Policy\n\n## Reporting Security Issues\n\nThis SDK is generated by Stainless Software Inc. Stainless ta",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:17.148Z"
+        "enriched_at": "2026-04-14T04:10:49.212Z"
       },
-      "timestamp": "2026-04-06T04:08:18.841Z"
+      "timestamp": "2026-04-14T04:10:50.941Z"
     },
     "notion": {
       "intel": {
@@ -7489,7 +7489,84 @@
         "enriched_at": "2026-04-07T03:50:17.709Z"
       },
       "timestamp": "2026-04-07T03:50:19.397Z"
+    },
+    "zabbix": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "CVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Production | by sn0x | Feb, 2026 | Medium",
+            "url": "https://sn0x.medium.com/cve-2024-42327-exploiting-a-critical-zabbix-sql-injection-in-production-9c8bc7143e32",
+            "snippet": "CVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Production | by sn0x | Feb, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# CVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Prod",
+            "published": "2026-02-13T00:20:57.000Z",
+            "score": 1
+          },
+          {
+            "title": "Exploit PoC released for Zabbix Server SQL injection vulnerability – CVE-2024-22120 – HACKHUNTING",
+            "url": "https://hackhunting.com/2024/05/21/exploit-poc-released-for-zabbix-server-sql-injection-vulnerability-cve-2024-22120/",
+            "snippet": "Exploit PoC released for Zabbix Server SQL injection vulnerability – CVE-2024-22120 – HACKHUNTING\n* X\n* LinkedIn\n* RSS Feed\n* Facebook\n* WhatsApp\n* Telegram\nSearch\nHACKHUNTING\nNews,PoCs,vulnerabilitie",
+            "published": "2024-05-21T10:13:11.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Loading...",
+            "url": "https://support.zabbix.com/browse/ZBX-12075",
+            "snippet": "Loading...\n\nCookie Notice/Disclaimer\n\n### Details\n\nType: Sub-task\n\nResolution: Fixed\n\nPriority: Trivial\n\nFix Version/s: 2.0.21rc1, 2.2.18rc1, 3.0.9rc1, 3.2.5rc1, 3.4.0alpha1\n\nAffects Version/s: None\n\n",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Loading...",
+            "url": "https://support.zabbix.com/browse/ZBX-23857",
+            "snippet": "Loading...\n\n### Details\n\nType: Defect (Security)\n\nResolution: Fixed\n\nPriority: Minor\n\nFix Version/s: None\n\nAffects Version/s: None\n\nLabels:\n\nNone\n\n### Description\n\n| Mitre ID | CVE-2023-32727 |\n| --- ",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Loading...",
+            "url": "https://support.zabbix.com/browse/ZBX-25016",
+            "snippet": "### Details\n\nType: Defect (Security)\n\nResolution: Fixed\n\nPriority: Critical\n\nFix Version/s: 6.4.16rc1, 7.0.0rc3\n\nAffects Version/s: 6.4.15, 7.0.0rc2\n\nLabels:\n\nNone\n\n### Description\n\n| Mitre ID | CVE-2",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Loading...",
+            "url": "https://support.zabbix.com/browse/ZBX-26254",
+            "snippet": "Loading...\n\n### Details\n\nType: Defect (Security)\n\nResolution: Fixed\n\nPriority: Major\n\nFix Version/s: 6.0.37rc1, 6.4.21rc1, 7.0.7rc1, 7.2.0rc1\n\nAffects Version/s: None\n\nLabels:\n\nNone\n\n### Description\n\n",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "labs/CVE-2016-4338 at master · nixawk/labs · GitHub",
+            "url": "https://github.com/nixawk/labs/tree/master/CVE-2016-4338",
+            "snippet": "## Files\n\n# CVE-2016-4338\n\n# CVE-2016-4338\n\nTop\n\nLast commit message\n\nLast commit date\n\nView all files\n\nlabs/CVE-2016-4338 at master · nixawk/labs · GitHub\nSkip to content\n## Navigation Menu\nToggle na",
+            "published": "2016-12-15T05:07:39.000Z",
+            "score": 1
+          },
+          {
+            "title": "paalbra/zabbix-zbxsec-7",
+            "url": "https://github.com/paalbra/zabbix-zbxsec-7",
+            "snippet": "# Repository: paalbra/zabbix-zbxsec-7\n\n- Stars: 4\n- Forks: 2\n- Watchers: 4\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: master\n- Created: 2021-03-04T10:53:04Z\n- La",
+            "published": "2021-03-04T10:53:04.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "watchdog1337/CVE-2024-42327_Zabbix_SQLI",
+            "url": "https://github.com/watchdog1337/CVE-2024-42327_Zabbix_SQLI",
+            "snippet": "# Repository: watchdog1337/CVE-2024-42327_Zabbix_SQLI\n\nPOC for CVE-2024-42327, an authenticated SQL Injection in Zabbix through the user.get API Method\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issu",
+            "published": "2024-12-07T21:25:40.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-04-14T04:10:40.927Z"
+      },
+      "timestamp": "2026-04-14T04:10:42.708Z"
     }
   },
-  "lastRun": "2026-04-13T04:21:40.435Z"
+  "lastRun": "2026-04-14T04:10:50.941Z"
 }
