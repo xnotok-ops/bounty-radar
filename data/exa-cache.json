@@ -1392,7 +1392,7 @@
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/anduril_industries/bounty_table_versions?type=team&change=2026-01-20T15%3A04%3A21.100Z",
-            "snippet": "HackerOne\n\n© HackerOne\n\n- Terms\n- Privacy\n- Press\n- Disclosure Guidelines\n- Support\n- Docs\n- Status\n- Blog\n- Leaderboard\n- Security\n- Opportunities\n\nHackerOne\nSkip to main content &gt;\nHackerone logo\n",
+            "snippet": "HackerOne\n\nHackerOne",
             "published": null,
             "score": 1
           },
@@ -1405,8 +1405,8 @@
           },
           {
             "title": "HackerOne",
-            "url": "https://hackerone.com/anduril_industries/policy_scopes",
-            "snippet": "HackerOne\n\nHackerOne",
+            "url": "https://hackerone.com/anduril_industries",
+            "snippet": "HackerOne",
             "published": null,
             "score": 0
           }
@@ -1420,17 +1420,17 @@
             "score": 1
           },
           {
+            "title": "Anduril Wants to Own the Future of War Tech. Mishaps, Delays, and Challenges Abound | WIRED",
+            "url": "https://wired.com/story/andurils-real-war-is-with-itself/",
+            "snippet": "Anduril Wants to Own the Future of War Tech. Mishaps, Delays, and Challenges Abound | WIRED\n\nSkip to main content\n\nSave this story\n\nSave this story\n\nAnduril’s missile motor factory near the Gulf Coast",
+            "published": "2026-03-26T10:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Dual-use tech: the Anduril example | Privacy International",
             "url": "https://privacyinternational.org/report/5704/dual-use-tech-anduril-example",
             "snippet": " Skip to main content\n\n# Dual-use tech: the Anduril example\n\nA convergence of corporate interests and state power, blurring boundaries between civil and military.\n\nKey findings\n\n- A brief overview of ",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Anduril and Palantir battlefield communication system 'very high risk,' US Army memo says | Reuters",
-            "url": "https://www.reuters.com/business/aerospace-defense/anduril-palantir-battlefield-communication-system-has-deep-flaws-army-memo-says-2025-10-03/",
-            "snippet": "Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\nItem 1 of 3 U.S. Chinook helicopter and soldiers from the 11th Engineer Battalion and 2nd Infantry Combi",
-            "published": "2025-10-03T10:03:42.000Z",
             "score": 0
           }
         ],
@@ -1459,9 +1459,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:13.801Z"
+        "enriched_at": "2026-04-15T04:09:37.539Z"
       },
-      "timestamp": "2026-04-08T03:52:15.948Z"
+      "timestamp": "2026-04-15T04:09:39.437Z"
     },
     "twilio": {
       "intel": {
@@ -1474,71 +1474,71 @@
             "score": 1
           },
           {
-            "title": "Twilio’s Bug Bounty Program: Celebrating 10 years of Bug Bounty | Twilio",
-            "url": "https://twilio.com/en-us/blog/company/news/ten-years-bug-bounty-updates",
-            "snippet": "Twilio’s Bug Bounty Program: Celebrating 10 years of Bug Bounty | Twilio",
-            "published": "2025-01-31T00:00:00.000Z",
+            "title": "Dependencies, Confusions, and Solutions: What Did Twilio Do to Solve Dependency Confusion | Twilio",
+            "url": "https://www.twilio.com/blog/avoiding-dependency-confusion-attacks",
+            "snippet": "Dependencies, Confusions, and Solutions: What Did Twilio Do to Solve Dependency Confusion | Twilio An icon of a outbound link arrow \">\n\n## Common questions about dependency confusion\n\nSince dependency",
+            "published": "2021-08-03T09:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "Twilio’s Response to the Recent Codecov Vulnerability | Twilio",
-            "url": "https://twilio.com/en-us/blog/company/communications/response-to-the-codecov-vulnerability",
-            "snippet": "Twilio’s Response to the Recent Codecov Vulnerability | Twilio\n\n# Twilio’s Response to the Recent Codecov Vulnerability\n\nTime to read:\n\nMay 04, 2021\n\nWritten by\n\nSecurity\n\nTwilion\n\n---\n\n",
-            "published": "2021-05-04T00:00:00.000Z",
+            "title": "Dependencies, Confusions, and Solutions: What Did Twilio Do to Solve Dependency Confusion | Twilio",
+            "url": "https://twilio.com/en-us/blog/developers/best-practices/avoiding-dependency-confusion-attacks",
+            "snippet": "Dependencies, Confusions, and Solutions: What Did Twilio Do to Solve Dependency Confusion | Twilio\n\nSome U.S. state privacy laws offer their residents specific consumer privacy rights, which we respec",
+            "published": "2025-06-11T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
+            "title": "CVE-2024-39891: Twilio Authy Information Disclosure Flaw",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-39891/",
+            "snippet": "CVE-2024-39891: Twilio Authy Information Disclosure Flaw\n\nCVE-2024-39891: Twilio Authy Information Disclosure Flaw\n\nThe SentinelOne Annual Threat Report - A Defenders Guide from the FrontlinesThe Sent",
+            "published": "2024-07-02T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "CVE-2026-4984: Twilio Integration Information Disclosure",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4984/",
+            "snippet": "CVE-2026-4984: Twilio Integration Information Disclosure\n\nCVE-2026-4984: Twilio Integration Information Disclosure\n\nThe SentinelOne Annual Threat Report - A Defenders Guide from the FrontlinesThe Sent",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "OpenClaw < 2026.2.23 - Twilio Webhook Replay Bypass via Randomized Event ID Normalization  | Advisories | VulnCheck",
             "url": "https://www.vulncheck.com/advisories/openclaw-twilio-webhook-replay-bypass-via-randomized-event-id-normalization",
             "snippet": "OpenClaw < 2026.2.23 - Twilio Webhook Replay Bypass via Randomized Event ID Normalization | Advisories | VulnCheck\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n Advisories \n\n## OpenClaw < 2026.2.23 - Twilio Webhook Repla",
             "published": null,
-            "score": 1
-          },
-          {
-            "title": "CVE-2026-4984 - Twilio Integration - Authentication Bypass | LeakyCreds",
-            "url": "https://leakycreds.com/vulnerability/CVE-2026-4984",
-            "snippet": "CVE-2026-4984 - Twilio Integration - Authentication Bypass | LeakyCreds\n\nNewInstant webhook alerts now available — notified within seconds of any credential detection. Learn more →\n\nHome/ Vulnerabilit",
-            "published": "2026-03-27T15:17:03.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2024-39891 - Twilio Authy Information Disclosure Vulnerability - [Actively Exploited]",
-            "url": "https://cvefeed.io/vuln/detail/CVE-2024-39891",
-            "snippet": "CVE-2024-39891 - Twilio Authy Information Disclosure Vulnerability - [Actively Exploited] \n\n \n\n \n\n \n\n- Menu\n- Dashboard\n- Homepage\n- Search\n- CVEQL New Feature\n- Cisa KEV Catalog\n- CVE Newsroom\n- Vuln",
-            "published": "2024-07-02T18:15:03.000Z",
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "[Bug]: Unauthenticated Remote Code Execution via SMS Webhook — Missing Twilio Signature Validation · Issue #7089 · NousResearch/hermes-agent",
+            "url": "https://github.com/NousResearch/hermes-agent/issues/7089",
+            "snippet": "# Issue: NousResearch/hermes-agent #7089\n\n- Repository: NousResearch/hermes-agent | The agent that grows with you | 69K stars | Python\n\n## [Bug]: Unauthenticated Remote Code Execution via SMS Webhook ",
+            "published": "2026-04-10T10:02:21.000Z",
+            "score": 1
+          },
+          {
             "title": "Twilio voice-call webhook auth bypass when ngrok loopback compatibility is enabled · Advisory · openclaw/openclaw · GitHub",
             "url": "https://github.com/openclaw/openclaw/security/advisories/GHSA-c37p-4qqg-3p76",
             "snippet": "Twilio voice-call webhook auth bypass when ngrok loopback compatibility is enabled · Advisory · openclaw/openclaw · GitHub\n\n/ openclaw Public\n\nStar 345k\n\n- Pricing\n- Notifications\n- Fork 68.6k\n\n# Twil",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "voice-call Twilio webhook replay could bypass manager dedupe because normalized event IDs were randomized per parse · Advisory · openclaw/openclaw · GitHub",
             "url": "https://github.com/openclaw/openclaw/security/advisories/GHSA-vqx8-9xxw-f2m7",
             "snippet": "voice-call Twilio webhook replay could bypass manager dedupe because normalized event IDs were randomized per parse · Advisory · openclaw/openclaw · GitHub\n\n/ openclaw Public\n\nStar 345k\n\n- Pricing\n- N",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Vulnerability found on twilio inner dependency: org.json:json:20230227 · Issue #825 · twilio/twilio-java",
-            "url": "https://github.com/twilio/twilio-java/issues/825",
-            "snippet": "# Issue: twilio/twilio-java #825\n\n- Repository: twilio/twilio-java | A Java library for communicating with the Twilio REST API and generating TwiML. | 522 stars | Java\n\n## Vulnerability found on twili",
-            "published": "2024-12-18T01:24:10.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:15.948Z"
+        "enriched_at": "2026-04-15T04:09:39.437Z"
       },
-      "timestamp": "2026-04-08T03:52:17.755Z"
+      "timestamp": "2026-04-15T04:09:41.248Z"
     },
     "doordash": {
       "intel": {
@@ -1551,17 +1551,17 @@
             "score": 1
           },
           {
+            "title": "DoorDash Security Flaw - Email Impersonation Risk | G20Social",
+            "url": "https://g20social.com/blogs/16867/DoorDash-Security-Flaw-Email-Impersonation-Risk",
+            "snippet": "DoorDash Security Flaw - Email Impersonation Risk | G20Social\n\nG20Social\n\nSearch Results\n\nSee All Results\n\nJoin\n\nSign In\n\nSign Up\n\nSearch\n\nDay Mode\n\n- Jobs\n- Offers\n- Blogs\n- Reels\n- Events\n- Groups\n-",
+            "published": "2026-03-11T22:01:20.000Z",
+            "score": 0.5
+          },
+          {
             "title": "This Simple Password Trick Cost DoorDash Millions in Data - MyNextDeveloper",
             "url": "https://mynextdeveloper.com/blogs/this-simple-password-trick-cost-doordash-millions-in-data/",
             "snippet": "This Simple Password Trick Cost DoorDash Millions in Data - MyNextDeveloper\n\n# This Simple Password Trick Cost DoorDash Millions in Data\n\nHome/ Blogs/ Data Security/ This Simple Password Trick Cost Do",
             "published": "2026-01-09T10:21:08.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "When a Vendor Delivers Vulnerability: Inside the DoorDash Breach | Panorays",
-            "url": "https://panorays.com/blog/inside-the-doordash-breach/",
-            "snippet": "When a Vendor Delivers Vulnerability: Inside the DoorDash Breach | Panorays \n\n- Skip to Main Menu\n- Skip to Main Content\n- Skip to Footer\n\nFrom pizza and sushi to hamburgers and tacos, ordering from f",
-            "published": "2025-11-24T20:49:32.000Z",
             "score": 0
           }
         ],
@@ -1597,25 +1597,25 @@
             "score": 1
           },
           {
-            "title": "doorbash / MisfortuneCookieExploit.py",
-            "url": "https://gist.github.com/doorbash/f454c698f192a0e5d1bf4da9c6869b67/revisions",
-            "snippet": "Revisions ·Multiple Vendors (RomPager &lt;= 4.34) - Misfortune Cookie Router Authentication Bypass ·GitHub\nSkip to content\n\n \n\nSigninSignup\nYou signed in with another tab or window.Reloadto refresh yo",
-            "published": "2024-03-18T00:00:00.000Z",
+            "title": "n0shake/dash",
+            "url": "https://github.com/n0shake/dash",
+            "snippet": "# Repository: n0shake/dash\n\n🍲 DoorDash from your command line.\n\n- Stars: 47\n- Forks: 8\n- Watchers: 47\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- Default branch: master\n- Create",
+            "published": "2016-08-28T23:18:01.000Z",
             "score": 0.5
           },
           {
-            "title": "bot-grabber/doordash-bot",
-            "url": "https://github.com/bot-grabber/doordash-bot",
-            "snippet": "# Repository: bot-grabber/doordash-bot\n\nDoorDash Bot for automated delivery acceptance. Advanced DoorDash Automation tool that instantly grabs high‑paying DoorDash orders on autopilot using custom dri",
-            "published": "2026-02-20T18:42:30.000Z",
+            "title": "doorbash / MisfortuneCookieExploit.py",
+            "url": "https://gist.github.com/doorbash/f454c698f192a0e5d1bf4da9c6869b67/revisions",
+            "snippet": "Revisions ·Multiple Vendors (RomPager <= 4.34) - Misfortune Cookie Router Authentication Bypass ·GitHub\nSkip to content\n\n \n\nSigninSignup\nYou signed in with another tab or window.Reloadto refresh your ",
+            "published": "2024-03-18T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:17.755Z"
+        "enriched_at": "2026-04-15T04:09:41.248Z"
       },
-      "timestamp": "2026-04-08T03:52:19.533Z"
+      "timestamp": "2026-04-15T04:09:43.298Z"
     },
     "robinhood": {
       "intel": {
@@ -1635,10 +1635,10 @@
             "score": 0.5
           },
           {
-            "title": "Robinhood Announces Data Security Incident (Update)",
-            "url": "https://newsroom.aboutrobinhood.com/robinhood-announces-data-security-incident-update/",
-            "snippet": "Robinhood Announces Data Security Incident (Update)\n\nAll News Ideas Engineering Education Design Culture Crypto Uncategorized\n\n##### News\n\n##### Nov 16, 2021\n\n# Robinhood Announces Data Security Incid",
-            "published": "2025-08-15T03:09:25.000Z",
+            "title": "Bug Bounty Hunter",
+            "url": "https://www.bugbountyhunter.com/program?id=robinhood",
+            "snippet": "Robinhood Bug Bounty Program Statistics | BugBountyHunter.com\n# BugBountyHunter\n\n**Access your account\n* Getting started\nLearn about vulnerability typesGetting started in bug bounties\n* Test your know",
+            "published": null,
             "score": 0
           }
         ],
@@ -1659,8 +1659,8 @@
           },
           {
             "title": "Robinhood Announces Data Security Incident (Update)",
-            "url": "https://www.robinhood.com/us/en/newsroom/robinhood-announces-data-security-incident-update",
-            "snippet": "Robinhood Announces Data Security Incident (Update)\n\nAll News Ideas Engineering Education Design Culture Crypto Uncategorized\n\n##### News\n\n##### Nov 16, 2021\n\n# Robinhood Announces Data Security Incid",
+            "url": "https://robinhood.com/us/en/newsroom/robinhood-announces-data-security-incident-update/",
+            "snippet": "Robinhood Announces Data Security Incident (Update)\n\n##### News\n\n##### Nov 16, 2021\n\n# Robinhood Announces Data Security Incident (Update)\n\nUpdate on November 16, 2021 at 9:55 AM PT: We’re providing t",
             "published": "2025-08-15T03:09:25.000Z",
             "score": 0
           }
@@ -1690,9 +1690,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:19.533Z"
+        "enriched_at": "2026-04-15T04:09:43.299Z"
       },
-      "timestamp": "2026-04-08T03:52:21.215Z"
+      "timestamp": "2026-04-15T04:09:45.538Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1753,32 +1753,32 @@
           {
             "title": "[Security]: Namespace squatting in skill discovery can silently install attacker-controlled SKILL.md · Issue #353 · vercel-labs/skills",
             "url": "https://github.com/vercel-labs/skills/issues/353",
-            "snippet": "# Issue: vercel-labs/skills #353\n\n- Repository: vercel-labs/skills | The open agent skills tool - npx skills | 13K stars | TypeScript\n\n## [Security]: Namespace squatting in skill discovery can silentl",
+            "snippet": "# Issue: vercel-labs/skills #353\n\n- Repository: vercel-labs/skills | The open agent skills tool - npx skills | 14K stars | TypeScript\n\n## [Security]: Namespace squatting in skill discovery can silentl",
             "published": "2026-02-12T06:33:01.000Z",
             "score": 0.5
           },
           {
-            "title": "Server Actions Source Code Exposure  · Advisory · vercel/next.js · GitHub",
-            "url": "https://github.com/vercel/next.js/security/advisories/GHSA-w37m-7fhw-fmv9",
-            "snippet": "Server Actions Source Code Exposure · Advisory · vercel/next.js · GitHub\n\n# Server Actions Source Code Exposure\n\nModerate\n\npublished GHSA-w37m-7fhw-fmv9 Dec 11, 2025\n\n## Package\n\nnext (npm)\n\n## Affect",
-            "published": null,
+            "title": "🚨 SECURITY ALERT: Unhandled exception in Next.js Server Actions via malformed Origin header causes Denial of Service · Issue #92703 · vercel/next.js",
+            "url": "https://github.com/vercel/next.js/issues/92703",
+            "snippet": "# Issue: vercel/next.js #92703\n\n- Repository: vercel/next.js | The React Framework | 139K stars | JavaScript\n\n## 🚨 SECURITY ALERT: Unhandled exception in Next.js Server Actions via malformed Origin h",
+            "published": "2026-04-12T23:05:29.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:21.215Z"
+        "enriched_at": "2026-04-15T04:09:45.538Z"
       },
-      "timestamp": "2026-04-08T03:52:22.887Z"
+      "timestamp": "2026-04-15T04:09:47.428Z"
     },
     "banco_plata": {
       "intel": {
         "writeups": [
           {
-            "title": "Clientes del Banco Nación en La Plata denuncian un cobro indebido por Aerolíneas Plus",
-            "url": "https://eleditorplatense.com/la-region/clientes-del-banco-nacion-la-plata-denuncian-un-cobro-indebido-aerolineas-plus-n5381847",
-            "snippet": "Clientes del Banco Nación en La Plata denuncian un cobro indebido por Aerolíneas Plus\n\nClientes del Banco Nación de La Plata denuncian una estafa a través del programa Aerolíneas Plus\n\nHay bronca y pr",
-            "published": "2026-01-08T15:43:00.000Z",
+            "title": "Sterling Bank Plc: Breach Technical Analysis | Web Security Lab",
+            "url": "https://websecuritylab.org/sterling-bank-plc-breach-technical-analysis/",
+            "snippet": "Sterling Bank Plc: Breach Technical Analysis | Web Security Lab\n\nOn March 18, 2026, a threat actor operating under the alias ByteToBreach gained unauthenticated remote code execution on Sterling Bank ",
+            "published": "2026-04-08T04:21:37.000Z",
             "score": 1
           },
           {
@@ -1789,32 +1789,32 @@
             "score": 0.5
           },
           {
-            "title": "Débitos erróneos en Banco Provincia: devoluciones tras una falla que reaviva alertas en el sistema bancario - InfoPlatense",
-            "url": "https://www.infoplatense.com.ar/debitos-erroneos-en-banco-provincia-devoluciones-tras-una-falla-que-reaviva-alertas-en-el-sistema-bancario/",
-            "snippet": "Débitos erróneos en Banco Provincia: devoluciones tras una falla que reaviva alertas en el sistema bancario - InfoPlatense\n\n# Débitos erróneos en Banco Provincia: devoluciones tras una falla que reavi",
-            "published": "2026-01-01T15:13:22.000Z",
+            "title": "Clientes del Banco Nación en La Plata denuncian un cobro indebido por Aerolíneas Plus",
+            "url": "https://eleditorplatense.com/la-region/clientes-del-banco-nacion-la-plata-denuncian-un-cobro-indebido-aerolineas-plus-n5381847",
+            "snippet": "Clientes del Banco Nación en La Plata denuncian un cobro indebido por Aerolíneas Plus\n\nClientes del Banco Nación de La Plata denuncian una estafa a través del programa Aerolíneas Plus\n\nHay bronca y pr",
+            "published": "2026-01-08T15:43:00.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
+            "title": "Sterling Bank Plc: Breach Technical Analysis | Web Security Lab",
+            "url": "https://websecuritylab.org/sterling-bank-plc-breach-technical-analysis/",
+            "snippet": "Sterling Bank Plc: Breach Technical Analysis | Web Security Lab\n\nOn March 18, 2026, a threat actor operating under the alias ByteToBreach gained unauthenticated remote code execution on Sterling Bank ",
+            "published": "2026-04-08T04:21:37.000Z",
+            "score": 1
+          },
+          {
             "title": "Banco Plata | Real money real cashback",
             "url": "https://bancoplata.mx/en",
             "snippet": "Banco Plata | Real money real cashback\n\nQueda un día\n\n# Banco Plata’s credit cardwith no annual fee\n\nIf you apply before 4th of April.\n\nCredit limit up to $200,000 T&C\n\nGet Plata Crédito\n\n### No annua",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Plata Card | Full protection",
             "url": "https://bancoplata.mx/en/security",
             "snippet": "Plata Card | Full protection\n\n \n\n \n\nPlata Card | Full protection\n\nGet cardGet Plata Crédito\n## How we protect you\n## Tips to avoid falling victim to fraud\n## Full control with a tap\nYour safety is our",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Plata Card | Manage your money with the Plata app",
-            "url": "https://bancoplata.mx/en/app",
-            "snippet": "Plata Card | Manage your money with the Plata app\n\n \n\n \n\nPlata Card | Manage your money with the Plata app\n\nGet cardGet Plata Crédito\nplata logo\n# Take control of your money\nManage your money your way",
             "published": null,
             "score": 0
           }
@@ -1844,32 +1844,32 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:22.887Z"
+        "enriched_at": "2026-04-15T04:09:47.428Z"
       },
-      "timestamp": "2026-04-08T03:52:24.613Z"
+      "timestamp": "2026-04-15T04:09:49.302Z"
     },
     "netscaler_public_program": {
       "intel": {
         "writeups": [
           {
+            "title": "TrustedSec | Critical Exposure in Citrix ADC (NetScaler) –…",
+            "url": "https://www.trustedsec.com/blog/critical-exposure-in-citrix-adc-netscaler-unauthenticated-remote-code-execution/",
+            "snippet": "TrustedSec | Critical Exposure in Citrix ADC (NetScaler) –… \n\n \n\n- Blog\n- Critical Exposure in Citrix ADC (NetScaler) – Unauthenticated Remote Code Execution\n\nJanuary 10, 2020\n\n# Critical Exposure in ",
+            "published": "2020-01-10T05:00:00.000Z",
+            "score": 1
+          },
+          {
             "title": "CVE-2017-17382 - TLS Padding Oracle Vulnerability in Citrix NetScaler Application Delivery Controller (ADC) and NetScaler Gateway",
             "url": "https://support.citrix.com/article/CTX230238/cve201717382-tls-padding-oracle-vulnerability-in-citrix-netscaler-application-delivery-controller-adc-and-netscaler-gateway",
             "snippet": "CVE-2017-17382 - TLS Padding Oracle Vulnerability in Citrix NetScaler Application Delivery Controller (ADC) and NetScaler Gateway\nCitrix | Knowledge Center\nContact Support\n* Open or view cases\n* Chat ",
             "published": "2017-12-12T05:00:00.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "CVE-2026-3055: Citrix NetScaler CVSS 9.3 Actively Exploited via SAML IDP Flaw | Abhishek Gautam",
             "url": "https://www.abhs.in/blog/cve-2026-3055-citrix-netscaler-cvss-93-active-exploitation-saml-idp-2026",
-            "snippet": "CVE-2026-3055: Citrix NetScaler CVSS 9.3 Actively Exploited via SAML IDP Flaw | Abhishek Gautam\n\n← All posts\n\nPortfolio AI Risk Quiz Tools The Wall\n\nCybersecurity CVE Network Security\n\n# CVE-2026-3055",
-            "published": "2026-03-31T18:49:43.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Multiple vulnerabilities in Citrix NetScaler Application Delivery Controller - SEC Consult",
-            "url": "https://sec-consult.com/vulnerability-lab/advisory/multiple-vulnerabilities-in-citrix-netscaler-application-delivery-controller/",
-            "snippet": "Multiple vulnerabilities in Citrix NetScaler Application Delivery Controller - SEC Consult\n\n# Multiple vulnerabilities in Citrix NetScaler Application Delivery Controller\n\nSEC Consult Vulnerability La",
-            "published": null,
+            "snippet": "CVE-2026-3055: Citrix NetScaler CVSS 9.3 Actively Exploited via SAML IDP Flaw | Abhishek Gautam\n\n# CVE-2026-3055: Citrix NetScaler CVSS 9.3 Actively Exploited via SAML IDP Flaw\n\nAbhishek Gautam March ",
+            "published": "2026-03-31T05:27:33.000Z",
             "score": 0
           }
         ],
@@ -1882,17 +1882,17 @@
             "score": 1
           },
           {
+            "title": "Security Advisory: NetScaler Vulnerabilities",
+            "url": "https://www.netsurion.com/alerts/netscaler-vulnerabilities",
+            "snippet": "Security Advisory: NetScaler Vulnerabilities\n\nPublished: January 19, 2024\n\n### Overview\n\nTwo vulnerabilities, CVE-2023-6548 and CVE-2023-6549, have been discovered in NetScaler ADC (formerly Citrix AD",
+            "published": "2024-01-19T12:41:08.000Z",
+            "score": 0.5
+          },
+          {
             "title": "CVE-2017-17382 - TLS Padding Oracle Vulnerability in Citrix NetScaler Application Delivery Controller (ADC) and NetScaler Gateway",
             "url": "https://support.citrix.com/article/CTX230238/cve201717382-tls-padding-oracle-vulnerability-in-citrix-netscaler-application-delivery-controller-adc-and-netscaler-gateway",
             "snippet": "CVE-2017-17382 - TLS Padding Oracle Vulnerability in Citrix NetScaler Application Delivery Controller (ADC) and NetScaler Gateway\nCitrix | Knowledge Center\nContact Support\n* Open or view cases\n* Chat ",
             "published": "2017-12-12T05:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "NetScaler ADC and NetScaler Gateway Security Bulletin for CVE-2025-5349 and CVE-2025-5777",
-            "url": "https://support.citrix.com/external/article/693420/netscaler-adc-and-netscaler-gateway-secu.html",
-            "snippet": "NetScaler ADC and NetScaler Gateway Security Bulletin for CVE-2025-5349 and CVE-2025-5777 \n\n \n\n## Welcome to \"KB Articles\"\n\n \n\nbook\n\n#### Article ID: CTX693420\n\ncalendar_today\n\n#### Updated On:\n\n#### ",
-            "published": null,
             "score": 0
           }
         ],
@@ -1912,95 +1912,95 @@
             "score": 0.5
           },
           {
-            "title": "Add auxiliary scanner module for Citrix NetScaler memory leak (CVE-2026-3055) · Pull Request #21204 · rapid7/metasploit-framework",
-            "url": "https://github.com/rapid7/metasploit-framework/pull/21204",
-            "snippet": "# Pull Request: rapid7/metasploit-framework #21204\n\n- Repository: rapid7/metasploit-framework | Metasploit Framework | 38K stars | Ruby\n\n## Add auxiliary scanner module for Citrix NetScaler memory lea",
-            "published": "2026-03-30T16:28:46.000Z",
+            "title": "trustedsec/cve-2019-19781",
+            "url": "https://github.com/trustedsec/cve-2019-19781",
+            "snippet": "# Repository: trustedsec/cve-2019-19781\n\nThis is a tool published for the Citrix ADC (NetScaler) vulnerability. We are only disclosing this due to others publishing the exploit code first.\n\n- Stars: 5",
+            "published": "2020-01-11T00:08:27.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:24.614Z"
+        "enriched_at": "2026-04-15T04:09:49.302Z"
       },
-      "timestamp": "2026-04-08T03:52:26.276Z"
+      "timestamp": "2026-04-15T04:09:51.276Z"
     },
     "meesho_bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "CVE-2026-5682 Security Vulnerability & Exploit Details",
-            "url": "https://cve.akaoma.com/cve-2026-5682",
-            "snippet": "CVE-2026-5682 Security Vulnerability & Exploit Details\n\n# CVE-2026-5682 Vulnerability Analysis & Exploit Details\n\n## CVE-2026-5682 Vulnerability Scoring\n\n3.7\n\n/10\n\nModerate Risk\n\nExploiting CVE-2026-5",
-            "published": "2026-04-06T20:16:29.000Z",
+            "title": "honestcorrupt/MEESHO-CVE",
+            "url": "https://github.com/honestcorrupt/MEESHO-CVE",
+            "snippet": "# Repository: honestcorrupt/MEESHO-CVE\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n- Last push: 2026-03-30T07:19:28Z\n- Contributors: 1 ",
+            "published": "2026-03-30T07:15:05.000Z",
             "score": 1
           },
           {
-            "title": "Cyber security assessment. 1. Bug Bounty Platform Analysis | by Manugowdahd | Mar, 2026 | Medium",
-            "url": "https://medium.com/%40manugowdahd896/cyber-security-assessment-ad806a0aa307",
-            "snippet": "Cyber security assessment. 1. Bug Bounty Platform Analysis | by Manugowdahd | Mar, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Cyber security assessment\n\n6 min read\n\nMar 13, 2026\n\n--\n\nListen\n\nShare\n\n#",
-            "published": "2026-03-13T09:41:36.000Z",
+            "title": "CVE-2026-5682 Meesho Online Shopping App com.meesho.supply endpoint risky encryption",
+            "url": "https://vuldb.com/vuln/355509",
+            "snippet": "- Edit\n- History\n- Diff\n- Relate\n- API JSON\n- API XML\n- Add\n\nLogin Signup\n\nVDB-355509 · CVE-2026-5682 · GCVE-100-355509\n\n# Meesho Online Shopping App up to 27.3 on Android com.meesho.supply /api/endpo",
+            "published": "2026-04-06T10:05:45.000Z",
             "score": 0.5
           },
           {
-            "title": "We Improved & Automated our Security Systems with a Smart Tweak. Here's How",
-            "url": "https://www.meesho.io/blog/we-improved-automated-our-security-systems-with-a-smart-tweak-heres-how",
-            "snippet": "We Improved &amp; Automated our Security Systems with a Smart Tweak. Here&#x27;s How\nOpen sidebar\nmeesho logo\nCareers\n# We Improved &amp; Automated our Security Systems with a Smart Tweak. Here&#x27;s",
-            "published": "2023-03-17T12:10:50.000Z",
+            "title": "CVE-2026-5682 —  Meesho Online Shopping App | dbugs",
+            "url": "https://dbugs.ptsecurity.com/vulnerability/PT-2026-30730",
+            "snippet": "CVE-2026-5682 — Meesho Online Shopping App | dbugs\n\nBack\n\nPT-2026-30730 · Meesho · Meesho Online Shopping App\n\nHonest_Corrupt\n\n·\n\nPublished\n\n2026-04-06\n\n·\n\nUpdated\n\n2026-04-06\n\n·\n\n# CVE-2026-5682\n\nGen",
+            "published": "2026-04-06T09:48:01.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
+            "title": "CVE-2026-5682 Meesho Online Shopping App com.meesho.supply endpoint risky encryption",
+            "url": "https://vuldb.com/vuln/355509",
+            "snippet": "- Edit\n- History\n- Diff\n- Relate\n- API JSON\n- API XML\n- Add\n\nLogin Signup\n\nVDB-355509 · CVE-2026-5682 · GCVE-100-355509\n\n# Meesho Online Shopping App up to 27.3 on Android com.meesho.supply /api/endpo",
+            "published": "2026-04-06T10:05:45.000Z",
+            "score": 1
+          },
+          {
             "title": "CVE-2026-5682 Security Vulnerability & Exploit Details",
             "url": "https://cve.akaoma.com/cve-2026-5682",
             "snippet": "CVE-2026-5682 Security Vulnerability & Exploit Details\n\n# CVE-2026-5682 Vulnerability Analysis & Exploit Details\n\n## CVE-2026-5682 Vulnerability Scoring\n\n3.7\n\n/10\n\nModerate Risk\n\nExploiting CVE-2026-5",
             "published": "2026-04-06T20:16:29.000Z",
-            "score": 1
-          },
-          {
-            "title": "Meesho Security Rating, Vendor Risk Report, and Data Breaches | UpGuard",
-            "url": "https://www.upguard.com/security-report/meesho",
-            "snippet": "Meesho Security Rating, Vendor Risk Report, and Data Breaches | UpGuard\n\n#### Meesho Security Rating\n\n803 / 950\n\nMeesho's security rating is based on the analysis of their external attack surface. The",
-            "published": null,
             "score": 0.5
           },
           {
-            "title": "Meesho ramps up cybersecurity effort amid rising online fraud",
-            "url": "https://www.medianama.com/2024/11/223-meesho-ramps-up-cybersecurity-effort-amid-rising-online-fraud/",
-            "snippet": "Meesho ramps up cybersecurity effort amid rising online fraud\n\n×\n\nE-commerce marketplace Meesho intercepted over 2.2 crore transaction frauds and prevented over 77 lakh scam attempts over the last 12 ",
-            "published": "2024-11-19T12:54:20.000Z",
+            "title": "honestcorrupt/MEESHO-CVE",
+            "url": "https://github.com/honestcorrupt/MEESHO-CVE",
+            "snippet": "# Repository: honestcorrupt/MEESHO-CVE\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n- Last push: 2026-03-30T07:19:28Z\n- Contributors: 1 ",
+            "published": "2026-03-30T07:15:05.000Z",
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "honestcorrupt/MEESHO-CVE",
+            "url": "https://github.com/honestcorrupt/MEESHO-CVE",
+            "snippet": "# Repository: honestcorrupt/MEESHO-CVE\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n- Last push: 2026-03-30T07:19:28Z\n- Contributors: 1 ",
+            "published": "2026-03-30T07:15:05.000Z",
+            "score": 1
+          },
+          {
             "title": "Insecure Price Manipulation / Business Logic Flaw in Isshue - Multi Store eCommerce Shopping Cart Solution With POS · Issue #7 · 4m3rr0r/PoCVulDb",
             "url": "https://github.com/4m3rr0r/PoCVulDb/issues/7",
             "snippet": "# Issue: 4m3rr0r/PoCVulDb #7\n\n- Repository: 4m3rr0r/PoCVulDb | PoC of CVEs 4m3rr0r | 1 stars\n\n## Insecure Price Manipulation / Business Logic Flaw in Isshue - Multi Store eCommerce Shopping Cart Solut",
             "published": "2025-10-31T14:35:29.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "g0vguy/CVE-2025-61922-PoC",
             "url": "https://github.com/g0vguy/CVE-2025-61922-PoC",
             "snippet": "# Repository: g0vguy/CVE-2025-61922-PoC\n\nA simple, educational proof-of-concept script demonstrating the zero-click account takeover vulnerability in the PrestaShop Checkout module (CVE-2025-61922).\n\n",
             "published": "2026-01-02T17:29:29.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Unauthenticated Remote Code Execution via Test Suite Route /exec-py · Advisory · mesop-dev/mesop · GitHub",
-            "url": "https://github.com/mesop-dev/mesop/security/advisories/GHSA-gjgx-rvqr-6w6v",
-            "snippet": "Unauthenticated Remote Code Execution via Test Suite Route /exec-py · Advisory · mesop-dev/mesop · GitHub\n\n# Unauthenticated Remote Code Execution via Test Suite Route /exec-py\n\nCritical\n\npublished GH",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:26.276Z"
+        "enriched_at": "2026-04-15T04:09:51.276Z"
       },
-      "timestamp": "2026-04-08T03:52:28.097Z"
+      "timestamp": "2026-04-15T04:09:53.711Z"
     },
     "braze_inc": {
       "intel": {
@@ -2020,10 +2020,10 @@
             "score": 0.5
           },
           {
-            "title": "From Hacker to Bug Bounty Program Owner: A Learning Experience",
-            "url": "https://braze.com/resources/articles/building-braze-bug-bounty-program",
-            "snippet": "From Hacker to Bug Bounty Program Owner: A Learning Experience\n\nResources/ Blog/ From Hacker to Bug B...\n\n# From Hacker to Bug Bounty Program Owner: A Learning Experience\n\nPublished on April 27, 2022/",
-            "published": "2022-04-27T15:15:00.000Z",
+            "title": "How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gateways On A Web3 Platform. | by D0loresH4ze | Medium",
+            "url": "https://building.theatlantic.com/how-we-prevented-a-mass-breach-on-one-of-the-biggest-cryptocurrency-gateways-on-a-web3-platform-2d8393070b10",
+            "snippet": "How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gateways On A Web3 Platform. | by D0loresH4ze | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nWrite\n\nSearch\n\nSign up\n",
+            "published": "2024-04-26T15:36:03.000Z",
             "score": 0
           }
         ],
@@ -2059,87 +2059,87 @@
             "score": 1
           },
           {
+            "title": "exploit.py at main · Chocapikk/CVE-2024-25600",
+            "url": "https://github.com/Chocapikk/CVE-2024-25600/blob/main/exploit.py",
+            "snippet": "# File: Chocapikk/CVE-2024-25600/exploit.py\n\n- Repository: Chocapikk/CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | 180 stars | Python\n- Branch: main\n\n```py\nimport re\nimpor",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "TeneBrae93/CVE-2025-3243",
             "url": "https://github.com/TeneBrae93/CVE-2025-3243",
             "snippet": "# Repository: TeneBrae93/CVE-2025-3243\n\nA proof-of-concept exploit for CVE-2025-32433, a critical vulnerability in Erlang's SSH library that allows pre-authenticated code execution via malformed SSH_M",
             "published": "2025-04-24T19:31:49.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "HTML in-app messages crash with EXC_BREAKPOINT after changeUser() when re-enqueued messages are presented · Issue #191 · braze-inc/braze-swift-sdk",
-            "url": "https://github.com/braze-inc/braze-swift-sdk/issues/191",
-            "snippet": "# Issue: braze-inc/braze-swift-sdk #191\n\n- Repository: braze-inc/braze-swift-sdk | Braze SDK for the Apple ecosystem, including: iOS, macOS, iPadOS, visionOS, tvOS | 70 stars | Swift\n\n## HTML in-app m",
-            "published": "2026-03-25T00:00:15.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:28.098Z"
+        "enriched_at": "2026-04-15T04:09:53.712Z"
       },
-      "timestamp": "2026-04-08T03:52:29.900Z"
+      "timestamp": "2026-04-15T04:09:55.632Z"
     },
     "kong": {
       "intel": {
         "writeups": [
           {
-            "title": "GHSL-2024-126: Potential account takeover in Kong through Actions expression injection | GitHub Security Lab",
-            "url": "https://securitylab.github.com/advisories/GHSL-2024-126_Kong/",
-            "snippet": "GHSL-2024-126: Potential account takeover in Kong through Actions expression injection | GitHub Security Lab\n\n- Enterprise\n- Open Source Community\n- Resources\n\n/ Security Lab\n\n## Coordinated Disclosur",
-            "published": "2024-10-02T00:00:00.000Z",
+            "title": "Kong API Gateway CVE-2026: Authentication Bypass &amp; Rate Limiting Vulnerabilities | KENSAI | KENSAI Cybersecurity",
+            "url": "https://kensai.app/blog/kong-api-gateway-cve-2026-authentication-bypass-rate-limiting",
+            "snippet": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI | KENSAI Cybersecurity\n\nIs your Kong gateway exposed? Scan your API infrastructure for these CVEs and 331,910+",
+            "published": "2026-04-02T00:52:44.000Z",
             "score": 1
+          },
+          {
+            "title": "December 2024 Unauthorized Kong Ingress Controller 3.4.0 Build  | Kong Inc.",
+            "url": "https://konghq.com/blog/product-releases/december-2024-unauthorized-kong-ingress-controller-3-4-0-build",
+            "snippet": "December 2024 Unauthorized Kong Ingress Controller 3.4.0 Build | Kong Inc.\n\nWHY GARTNER’S “CONTEXT MESH” CHANGES EVERYTHING AI CONNECTIVITY: THE ROAD AHEAD DON’T MISS API + AI SUMMIT 2026 SEPT 30 – OC",
+            "published": "2023-08-14T04:18:26.000Z",
+            "score": 0.5
           },
           {
             "title": "Kong & Konga Exploitation & Hardening • Think\nLove\nShare",
             "url": "https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/",
             "snippet": "Kong & Konga Exploitation & Hardening • Think Love Share \n\n---\n\n## What is kong & why we’re relying on it\n\nIf you’re an occasional reader of the manomano-tech Medium blog, you might already be familia",
             "published": "2023-05-10T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Critical API Gateway Authentication Bypass | KENSAI | KENSAI Cybersecurity",
-            "url": "https://kensai.app/blog/api-gateway-authentication-bypass-cve-2026-3041-critical-advisory",
-            "snippet": "Critical API Gateway Authentication Bypass | KENSAI | KENSAI Cybersecurity\n\n← Back to Blog KENSAI\n\nSecurityAPICVE\n\n2026-03-03 · 8 min read\n\nA critical authentication bypass vulnerability (CVE-2026-304",
-            "published": "2026-02-28T06:07:17.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
+            "title": "Kong API Gateway CVE-2026: Authentication Bypass &amp; Rate Limiting Vulnerabilities | KENSAI | KENSAI Cybersecurity",
+            "url": "https://kensai.app/blog/kong-api-gateway-cve-2026-authentication-bypass-rate-limiting",
+            "snippet": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI | KENSAI Cybersecurity\n\nIs your Kong gateway exposed? Scan your API infrastructure for these CVEs and 331,910+",
+            "published": "2026-04-02T00:52:44.000Z",
+            "score": 1
+          },
+          {
+            "title": "December 2024 Unauthorized Kong Ingress Controller 3.4.0 Build  | Kong Inc.",
+            "url": "https://konghq.com/blog/product-releases/december-2024-unauthorized-kong-ingress-controller-3-4-0-build",
+            "snippet": "December 2024 Unauthorized Kong Ingress Controller 3.4.0 Build | Kong Inc.\n\nWHY GARTNER’S “CONTEXT MESH” CHANGES EVERYTHING AI CONNECTIVITY: THE ROAD AHEAD DON’T MISS API + AI SUMMIT 2026 SEPT 30 – OC",
+            "published": "2023-08-14T04:18:26.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Critical API Gateway Authentication Bypass | KENSAI | KENSAI Cybersecurity",
             "url": "https://kensai.app/blog/api-gateway-authentication-bypass-cve-2026-3041-critical-advisory",
             "snippet": "Critical API Gateway Authentication Bypass | KENSAI | KENSAI Cybersecurity\n\n← Back to Blog KENSAI\n\nSecurityAPICVE\n\n2026-03-03 · 8 min read\n\nA critical authentication bypass vulnerability (CVE-2026-304",
             "published": "2026-02-28T06:07:17.000Z",
-            "score": 1
-          },
-          {
-            "title": "GHSL-2024-126: Potential account takeover in Kong through Actions expression injection | GitHub Security Lab",
-            "url": "https://securitylab.github.com/advisories/GHSL-2024-126_Kong/",
-            "snippet": "GHSL-2024-126: Potential account takeover in Kong through Actions expression injection | GitHub Security Lab\n\n- Enterprise\n- Open Source Community\n- Resources\n\n/ Security Lab\n\n## Coordinated Disclosur",
-            "published": "2024-10-02T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Unauthorized image of Kong Ingress Controller v.3.4.0 · Advisory · Kong/kubernetes-ingress-controller · GitHub",
-            "url": "https://github.com/Kong/kubernetes-ingress-controller/security/advisories/GHSA-58mg-ww7q-xw3p",
-            "snippet": "Unauthorized image of Kong Ingress Controller v.3.4.0 · Advisory · Kong/kubernetes-ingress-controller · GitHub\n\n/ kubernetes-ingress-controller Public\n\nStar 2.4k\n\n- Pricing\n- Notifications\n- Fork 615\n",
-            "published": null,
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "modules/exploits/multi/http/kong_gateway_admin_api_rce.rb at master · rapid7/metasploit-framework",
+            "url": "https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/kong_gateway_admin_api_rce.rb",
+            "snippet": "# File: rapid7/metasploit-framework/modules/exploits/multi/http/kong_gateway_admin_api_rce.rb\n\n- Repository: rapid7/metasploit-framework | Metasploit Framework | 38K stars | Ruby\n- Branch: master\n\n```",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Add exploit/multi/http/kong_gateway_admin_api_rce · Pull Request #14264 · rapid7/metasploit-framework",
             "url": "https://github.com/rapid7/metasploit-framework/pull/14264",
             "snippet": "# Pull Request: rapid7/metasploit-framework #14264\n\n- Repository: rapid7/metasploit-framework | Metasploit Framework | 38K stars | Ruby\n\n## Add exploit/multi/http/kong_gateway_admin_api_rce\n\n- Author:",
             "published": "2020-10-13T16:07:36.000Z",
-            "score": 1
-          },
-          {
-            "title": "GHSL-2024-126: Potential account takeover in Kong through Actions expression injection | GitHub Security Lab",
-            "url": "https://securitylab.github.com/advisories/GHSL-2024-126_Kong/",
-            "snippet": "GHSL-2024-126: Potential account takeover in Kong through Actions expression injection | GitHub Security Lab\n\n- Enterprise\n- Open Source Community\n- Resources\n\n/ Security Lab\n\n## Coordinated Disclosur",
-            "published": "2024-10-02T00:00:00.000Z",
             "score": 0.5
           },
           {
@@ -2152,9 +2152,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-08T03:52:29.900Z"
+        "enriched_at": "2026-04-15T04:09:55.632Z"
       },
-      "timestamp": "2026-04-08T03:52:31.568Z"
+      "timestamp": "2026-04-15T04:09:57.340Z"
     },
     "whoop_bug_bounty": {
       "intel": {
@@ -7568,5 +7568,5 @@
       "timestamp": "2026-04-14T04:10:42.708Z"
     }
   },
-  "lastRun": "2026-04-14T04:10:50.941Z"
+  "lastRun": "2026-04-15T04:09:57.340Z"
 }
