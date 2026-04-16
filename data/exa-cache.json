@@ -2169,7 +2169,7 @@
           {
             "title": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium",
             "url": "https://cyphernova1337.medium.com/unveiling-a-covert-redirect-the-unicode-vulnerability-in-whoop-coms-infrastructure-45303d5c7208",
-            "snippet": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n",
+            "snippet": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium\n\n[Sitemap](https://cyphernova1337.medium.com/sitemap/sitemap.xml)\n\n[Open in app](https",
             "published": "2025-07-25T13:55:31.000Z",
             "score": 0.5
           },
@@ -2192,7 +2192,7 @@
           {
             "title": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium",
             "url": "https://cyphernova1337.medium.com/unveiling-a-covert-redirect-the-unicode-vulnerability-in-whoop-coms-infrastructure-45303d5c7208",
-            "snippet": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n",
+            "snippet": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium\n\n[Sitemap](https://cyphernova1337.medium.com/sitemap/sitemap.xml)\n\n[Open in app](https",
             "published": "2025-07-25T13:55:31.000Z",
             "score": 0.5
           },
@@ -2229,9 +2229,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-09T03:48:50.752Z"
+        "enriched_at": "2026-04-16T04:15:57.269Z"
       },
-      "timestamp": "2026-04-09T03:48:52.449Z"
+      "timestamp": "2026-04-16T04:15:59.411Z"
     },
     "hubspot": {
       "intel": {
@@ -2239,14 +2239,14 @@
           {
             "title": "HubSpot Full Account Takeover in Bug Bounty",
             "url": "https://dayzerosec.com/vulns/2023/03/13/hubspot-full-account-takeover-in-bug-bounty.html",
-            "snippet": "HubSpot Full Account Takeover in Bug Bounty\n\n-- Twitch Youtube Twitter Discord Github Listen RSS Feed --\n\nOriginal Post: HubSpot Full Account Takeover in Bug Bounty\n\nThis vulnerability was analyzed du",
+            "snippet": "HubSpot Full Account Takeover in Bug Bounty\n\n-- Twitch Youtube Twitter Discord Github Listen RSS Feed --\n\nOriginal Post: [HubSpot Full Account Takeover in Bug Bounty](https://infosecwriteups.com/hubsp",
             "published": "2023-03-13T00:00:00.000Z",
             "score": 1
           },
           {
             "title": "HubSpot Full Account Takeover in Bug Bounty | by Omar Hashem | InfoSec Write-ups",
             "url": "https://infosecwriteups.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5",
-            "snippet": "HubSpot Full Account Takeover in Bug Bounty | by Omar Hashem | InfoSec Write-ups\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n## InfoSec Write-ups\n\nF",
+            "snippet": "HubSpot Full Account Takeover in Bug Bounty | by Omar Hashem | InfoSec Write-ups\n\n[Sitemap](https://infosecwriteups.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.com/store/apps/details?i",
             "published": "2023-02-11T19:55:43.000Z",
             "score": 0.5
           },
@@ -2267,17 +2267,17 @@
             "score": 1
           },
           {
-            "title": "CVE-2026-24559: Contact Form 7 HubSpot Data Disclosure",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-24559/",
-            "snippet": "CVE-2026-24559: Contact Form 7 HubSpot Data Disclosure\n\nCVE-2026-24559: Contact Form 7 HubSpot Data Disclosure\n\nThe SentinelOne Annual Threat Report - A Defenders Guide from the FrontlinesThe Sentinel",
-            "published": "2026-01-23T00:00:00.000Z",
+            "title": "HubSpot’s Statement Regarding June 22, 2024 Security Incident | HubSpot",
+            "url": "https://ir.hubspot.com/news-releases/news-release-details/hubspots-statement-regarding-june-22-2024-security-incident",
+            "snippet": "HubSpot’s Statement Regarding June 22, 2024 Security Incident | HubSpot\n\n## HubSpot’s Statement Regarding June 22, 2024 Security Incident\n\nJune 28, 2024\n\n[PDF Version](https://ir.hubspot.com/node/1353",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "HubSpot’s Statement Regarding June 22, 2024 Security Incident | HubSpot",
-            "url": "https://ir.hubspot.com/news-releases/news-release-details/hubspots-statement-regarding-june-22-2024-security-incident",
-            "snippet": "HubSpot’s Statement Regarding June 22, 2024 Security Incident | HubSpot\n\n## HubSpot’s Statement Regarding June 22, 2024 Security Incident\n\nJune 28, 2024\n\nPDF Version\n\nJuly 12, 2024 update: our investi",
-            "published": null,
+            "title": "CVE-2024-5879 - HubSpot – CRM, Email Marketing, Live Chat, Forms & Analytics <= 11.1.22 - Authenticated (Contributor+) Stored Cross-Site Scripting via HubSpot Meeting Widget",
+            "url": "https://cvefeed.io/vuln/detail/CVE-2024-5879",
+            "snippet": "CVE-2024-5879 - HubSpot – CRM, Email Marketing, Live Chat, Forms & Analytics <= 11.1.22 - Authenticated (Contributor+) Stored Cross-Site Scripting via HubSpot Meeting Widget\n\n[Light / Dark](https://x.",
+            "published": "2024-08-30T05:15:12.000Z",
             "score": 0
           }
         ],
@@ -2285,53 +2285,53 @@
           {
             "title": "SECURITY VULNERABILITIES · Issue #1554 · HubSpot/hubspot-cli",
             "url": "https://github.com/HubSpot/hubspot-cli/issues/1554",
-            "snippet": "# Issue: HubSpot/hubspot-cli #1554\n\n- Repository: HubSpot/hubspot-cli | A CLI for HubSpot | 184 stars | TypeScript\n\n## SECURITY VULNERABILITIES\n\n- Author: @EmilioHerreraSoukup\n- State: open\n- Labels: ",
+            "snippet": "# Issue: HubSpot/hubspot-cli #1554\n\n- Repository: HubSpot/hubspot-cli | A CLI for HubSpot | 184 stars | TypeScript\n\n## SECURITY VULNERABILITIES\n\n- Author: [@EmilioHerreraSoukup](https://github.com/Emi",
             "published": "2025-09-15T09:37:22.000Z",
             "score": 1
           },
           {
             "title": "Arbitrary Java Execution via JinJava Bypass through ForTag · Advisory · HubSpot/jinjava · GitHub",
             "url": "https://github.com/HubSpot/jinjava/security/advisories/GHSA-gjx9-j8f8-7j74",
-            "snippet": "Arbitrary Java Execution via JinJava Bypass through ForTag · Advisory · HubSpot/jinjava · GitHub\n\n/ jinjava Public\n\nStar 772\n\n- Pricing\n- Notifications\n- Fork 173\n\n# Arbitrary Java Execution via JinJa",
+            "snippet": "Arbitrary Java Execution via JinJava Bypass through ForTag · Advisory · HubSpot/jinjava · GitHub\n\n/ [jinjava](https://github.com/HubSpot/jinjava) Public\n\n[Star 772](https://github.com/login?return_to=",
             "published": null,
             "score": 0.5
           },
           {
             "title": "28072f7eea42571d5b4ebaabdcb21cce",
             "url": "https://gist.github.com/0xDBJ/28072f7eea42571d5b4ebaabdcb21cce",
-            "snippet": "# Gist: CVE-2023-37749-hubspot-access-control.md\n\n- Author: @0xDBJ\n- Public gist (1 file)\n- Created: 2025-10-21T23:35:31Z\n- Updated: 2025-10-21T23:35:31Z\n\n## CVE-2023-37749-hubspot-access-control.md\n\n",
+            "snippet": "# Gist: CVE-2023-37749-hubspot-access-control.md\n\n- Author: [@0xDBJ](https://github.com/0xDBJ)\n- Public gist (1 file)\n- Created: 2025-10-21T23:35:31Z\n- Updated: 2025-10-21T23:35:31Z\n\n## CVE-2023-37749",
             "published": "2025-10-21T23:35:31.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-09T03:48:52.449Z"
+        "enriched_at": "2026-04-16T04:15:59.412Z"
       },
-      "timestamp": "2026-04-09T03:48:54.133Z"
+      "timestamp": "2026-04-16T04:16:01.199Z"
     },
     "oppo_bbp": {
       "intel": {
         "writeups": [
           {
             "title": "OPPO Store app Vulnerability Let Attackers hijack Account Token",
-            "url": "https://cyberpress.org/oppo-store-app-vulnerability/",
-            "snippet": "OPPO Store app Vulnerability Let Attackers hijack Account Token \n\n \n\n \n\n \n\n \n\nSign in Join\n\n \n\n- Home\n- Cyber Attack\n- Threats\n- Cyber AI\n- Data Breach\n- Vulnerability\n\n \n\n \n\nSign in\n\n \n\nWelcome!Log i",
+            "url": "https://cyberpress.org/oppo-store-app-vulnerability/?amp=1",
+            "snippet": "OPPO Store app Vulnerability Let Attackers hijack Account Token\n\nSign in Join\n\nSign in\n\nWelcome!Log into your account\n\nyour username\n\nyour password\n\nForgot your password?\n\nCreate an account\n\nSign up\n\n",
             "published": "2024-12-18T07:53:20.000Z",
             "score": 1
           },
           {
-            "title": "CVE-2024-1609 - OPPO Store APP has a WebView component privilege escalation vulnerability.",
-            "url": "https://cvefeed.io/vuln/detail/CVE-2024-1609",
-            "snippet": "CVE-2024-1609 - OPPO Store APP has a WebView component privilege escalation vulnerability.\n\nLight / Dark\n\n- Follow us at Twitter\n- Github\n- About & Contact\n- cvefeed.io\n- CAPEC Definitions\n- CWE Defin",
-            "published": "2024-12-25T04:15:06.000Z",
+            "title": "OPPO Store app Vulnerability Let Attackers hijack Account Token",
+            "url": "https://cyberpress.org/oppo-store-app-vulnerability/",
+            "snippet": "OPPO Store app Vulnerability Let Attackers hijack Account Token \n\n \n\n \n\n \n\n \n\nSign in Join\n\n \n\n- [Home](https://cyberpress.org/)\n- [Cyber Attack](https://cyberpress.org/category/cyber-attack/)\n- [Thre",
+            "published": "2024-12-18T07:53:20.000Z",
             "score": 0.5
           },
           {
-            "title": "CVE-2025-27388: CWE-20 Improper Input Validation in OPPO OPPO HEALTH APP - Live Threat Intelligence - Threat Radar | OffSeq.com",
-            "url": "https://radar.offseq.com/threat/cve-2025-27388-cwe-20-improper-input-validation-in-63728ce1",
-            "snippet": "CVE-2025-27388: CWE-20 Improper Input Validation in OPPO OPPO HEALTH APP - Live Threat Intelligence - Threat Radar | OffSeq.com\n\nReconnecting to live updates…\n\n# CVE-2025-27388: CWE-20 Improper Input ",
-            "published": "2025-08-14T07:15:10.000Z",
+            "title": "A Long Overdue Write-up: How I got into the Oppo Hall of Fame | by Shibin B Shaji | Medium",
+            "url": "https://medium.com/@shibinbshaji007/a-long-overdue-write-up-how-i-got-into-the-oppo-hall-of-fame-bac95ee44a4e",
+            "snippet": "A Long Overdue Write-up: How I got into the Oppo Hall of Fame | by Shibin B Shaji | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# A Long Overdue Write-up: How I got into the Oppo Hall of Fame\n\n4 min read\n\nMay ",
+            "published": "2020-05-29T13:29:13.000Z",
             "score": 0
           }
         ],
@@ -2339,21 +2339,21 @@
           {
             "title": "CVE-2024-1609 - OPPO Store APP has a WebView component privilege escalation vulnerability.",
             "url": "https://cvefeed.io/vuln/detail/CVE-2024-1609",
-            "snippet": "CVE-2024-1609 - OPPO Store APP has a WebView component privilege escalation vulnerability.\n\nLight / Dark\n\n- Follow us at Twitter\n- Github\n- About & Contact\n- cvefeed.io\n- CAPEC Definitions\n- CWE Defin",
+            "snippet": "CVE-2024-1609 - OPPO Store APP has a WebView component privilege escalation vulnerability.\n\n[Light / Dark](https://x.com/cvefeedio)\n\n- [Follow us at Twitter](https://x.com/cvefeedio)\n- [Github](https:",
             "published": "2024-12-25T04:15:06.000Z",
             "score": 1
           },
           {
             "title": "OPPO Store app Vulnerability Let Attackers hijack Account Token",
             "url": "https://cyberpress.org/oppo-store-app-vulnerability/",
-            "snippet": "OPPO Store app Vulnerability Let Attackers hijack Account Token \n\n \n\n \n\n \n\n \n\nSign in Join\n\n \n\n- Home\n- Cyber Attack\n- Threats\n- Cyber AI\n- Data Breach\n- Vulnerability\n\n \n\n \n\nSign in\n\n \n\nWelcome!Log i",
+            "snippet": "OPPO Store app Vulnerability Let Attackers hijack Account Token \n\n \n\n \n\n \n\n \n\nSign in Join\n\n \n\n- [Home](https://cyberpress.org/)\n- [Cyber Attack](https://cyberpress.org/category/cyber-attack/)\n- [Thre",
             "published": "2024-12-18T07:53:20.000Z",
             "score": 0.5
           },
           {
             "title": "CVE-2025-27387<!-- --> | Tenable®",
             "url": "https://www.tenable.com/cve/CVE-2025-27387",
-            "snippet": "CVE-2025-27387 | Tenable®\n\n###### Detections\n\n- Release Notes\n- Indicators of Exposure\n- Indicators of Attack\n- Search\n- Overview\n- Indicators\n- Download All Audit Files\n- Documentation\n- Authorities\n",
+            "snippet": "CVE-2025-27387 | Tenable®\n\n###### Detections\n\n- [Release Notes](https://www.tenable.com/indicators/release-notes)\n- [Indicators of Exposure](https://www.tenable.com/indicators/ioe)\n- [Indicators of At",
             "published": "2025-12-21T13:13:08.000Z",
             "score": 0
           }
@@ -2383,9 +2383,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-09T03:48:54.133Z"
+        "enriched_at": "2026-04-16T04:16:01.200Z"
       },
-      "timestamp": "2026-04-09T03:48:55.761Z"
+      "timestamp": "2026-04-16T04:16:03.052Z"
     },
     "1password_ctf": {
       "intel": {
@@ -2398,17 +2398,17 @@
             "score": 1
           },
           {
-            "title": "Recovering the Master Password from a Locked Password Manager (1Password 4)",
-            "url": "https://blog.securityevaluators.com/recovering-the-master-password-from-a-locked-password-manager-1password-4-5d32cd569907",
-            "snippet": "Recovering the Master Password from a Locked Password Manager (1Password 4) | by Adrian Bednarek | Independent Security Evaluators\nOpen in app\nSign up\nSign in\n\n\nWrite\n\n\n\nSign up\nSign in\n\n## Independen",
-            "published": "2019-02-20T04:13:50.000Z",
+            "title": "CSRF Token Leak in LastPass Website Client - ahmsec",
+            "url": "https://www.ahmsec.io/blog/2019/01/12/csrf-token-leak-in-lastpass-website-client/",
+            "snippet": "CSRF Token Leak in LastPass Website Client - ahmsec\n\nHere is a bug I reported to LastPass, copied below with some edits. They shipped a fix within 4 business days and paid out a $1k bounty.\n\nOne takea",
+            "published": "2019-01-12T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "1Password Secret Retrieval — Methodology and Implementation - SpecterOps",
-            "url": "https://specterops.io/blog/2021/08/17/1password-secret-retrieval-methodology-and-implementation/",
-            "snippet": "1Password Secret Retrieval — Methodology and Implementation - SpecterOps\n\nIntroducing BloodHound Scentry: Accelerate your APM practice. Learn More\n\nBack to Blog\n\nResearch & Tradecraft\n\n1Password Secre",
-            "published": "2021-08-17T17:34:00.000Z",
+            "title": "Recovering the Master Password from a Locked Password Manager (1Password 4)",
+            "url": "https://blog.securityevaluators.com/recovering-the-master-password-from-a-locked-password-manager-1password-4-5d32cd569907",
+            "snippet": "Recovering the Master Password from a Locked Password Manager (1Password 4) | by Adrian Bednarek | Independent Security Evaluators\n[Open in app](https://rsci.app.link/?$canonical_url=https://medium.co",
+            "published": "2019-02-20T04:13:50.000Z",
             "score": 0
           }
         ],
@@ -2416,21 +2416,21 @@
           {
             "title": "CVE-2024-42219: 1Password Information Disclosure Flaw",
             "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42219/",
-            "snippet": "CVE-2024-42219: 1Password Information Disclosure Flaw\n\nCVE-2024-42219: 1Password Information Disclosure Flaw\n\nThe SentinelOne Annual Threat Report - A Defenders Guide from the FrontlinesThe SentinelOn",
-            "published": "2024-08-06T00:00:00.000Z",
+            "snippet": "CVE-2024-42219: 1Password Information Disclosure Flaw\n\nCVE-2024-42219: 1Password Information Disclosure Flaw\n![](https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt66fc75f4e71745ac/6883a7",
+            "published": null,
             "score": 1
-          },
-          {
-            "title": "CVE-2024-42218: 1Password Auth Bypass Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42218/",
-            "snippet": "CVE-2024-42218: 1Password Auth Bypass Vulnerability",
-            "published": "2024-08-06T21:16:03.000Z",
-            "score": 0.5
           },
           {
             "title": "CVE-2024-42219 for 1Password 8 for Mac | 1Password Support",
             "url": "https://support.1password.com/kb/202408a/",
             "snippet": "CVE-2024-42219 for 1Password 8 for Mac | 1Password Support\n\n## Summary\n\nAn issue has been identified in 1Password for Mac that affects the app’s platform security protections. This issue enables a mal",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2024-42218: 1Password Auth Bypass Vulnerability",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42218/",
+            "snippet": "CVE-2024-42218: 1Password Auth Bypass Vulnerability\n\nCVE-2024-42218: 1Password Auth Bypass Vulnerability\n![](https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt66fc75f4e71745ac/6883a70e13",
             "published": null,
             "score": 0
           }
@@ -2460,9 +2460,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-09T03:48:55.761Z"
+        "enriched_at": "2026-04-16T04:16:03.053Z"
       },
-      "timestamp": "2026-04-09T03:48:57.345Z"
+      "timestamp": "2026-04-16T04:16:05.063Z"
     },
     "1password": {
       "intel": {
@@ -2482,33 +2482,33 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2024-42218: 1Password Auth Bypass Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42218/",
-            "snippet": "CVE-2024-42218: 1Password Auth Bypass Vulnerability",
-            "published": "2024-08-06T21:16:03.000Z",
+            "title": "Untitled",
+            "url": "https://cure53.de/pentest-report_1password-b5.pdf",
+            "snippet": "Dr.-Ing. Mario Heiderich, Cure53\n Bielefelder Str. 14\n D 10709 Berlin\n cure53.de · mario@cure53.de\nPentest-Report 1Password B5 & Permissions 10.2020\nCure53, Dr.-Ing. M. Heiderich, MSc. S. Moritz, MSc.",
+            "published": "2020-12-10T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
-            "title": "CVE-2024-42218: 1Password Auth Bypass Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42218/",
-            "snippet": "CVE-2024-42218: 1Password Auth Bypass Vulnerability",
-            "published": "2024-08-06T21:16:03.000Z",
+            "title": "CVE-2024-42219: 1Password Information Disclosure Flaw",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42219/",
+            "snippet": "CVE-2024-42219: 1Password Information Disclosure Flaw\n\nCVE-2024-42219: 1Password Information Disclosure Flaw\n![](https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt66fc75f4e71745ac/6883a7",
+            "published": null,
             "score": 1
           },
           {
-            "title": "CVE-2024-42219: 1Password Information Disclosure Flaw",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42219/",
-            "snippet": "CVE-2024-42219: 1Password Information Disclosure Flaw\n\nCVE-2024-42219: 1Password Information Disclosure Flaw\n\nThe SentinelOne Annual Threat Report - A Defenders Guide from the FrontlinesThe SentinelOn",
-            "published": "2024-08-06T00:00:00.000Z",
+            "title": "CVE-2024-42218: 1Password Auth Bypass Vulnerability",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42218/",
+            "snippet": "CVE-2024-42218: 1Password Auth Bypass Vulnerability\n\nCVE-2024-42218: 1Password Auth Bypass Vulnerability\n![](https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt66fc75f4e71745ac/6883a70e13",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "1Password detects “suspicious activity” in its internal Okta account - Ars Technica",
-            "url": "https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/",
-            "snippet": "1Password detects “suspicious activity” in its internal Okta account - Ars Technica\n\nText settings\n\nStory text\n\nSize Small Standard Large Width * Standard Wide Links Standard Orange\n\n* Subscribers onl",
-            "published": "2023-10-23T20:56:49.000Z",
+            "title": "CVE-2024-42219 for 1Password 8 for Mac | 1Password Support",
+            "url": "https://support.1password.com/kb/202408a/",
+            "snippet": "CVE-2024-42219 for 1Password 8 for Mac | 1Password Support\n\n## Summary\n\nAn issue has been identified in 1Password for Mac that affects the app’s platform security protections. This issue enables a mal",
+            "published": null,
             "score": 0
           }
         ],
@@ -2523,7 +2523,7 @@
           {
             "title": "feat(rules): Add 1Password secret key detection (#1834) · 23cb69f · gitleaks/gitleaks",
             "url": "https://github.com/gitleaks/gitleaks/commit/23cb69fba4338a486e1aac8f898bd0d4ea298995",
-            "snippet": "# Commit: gitleaks/gitleaks@23cb69f\n\n- Repository: gitleaks/gitleaks | Find secrets with Gitleaks 🔑 | 26K stars | Go\n\n## feat(rules): Add 1Password secret key detection (#1834)\n\n- Author: @jrdnbradfo",
+            "snippet": "# Commit: gitleaks/gitleaks@23cb69f\n\n- Repository: gitleaks/gitleaks | Find secrets with Gitleaks 🔑 | 26K stars | Go\n\n## feat(rules): Add 1Password secret key detection (#1834)\n\n- Author: [@jrdnbradf",
             "published": "2025-04-30T14:30:58.000Z",
             "score": 0.5
           },
@@ -2537,9 +2537,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-09T03:48:57.345Z"
+        "enriched_at": "2026-04-16T04:16:05.064Z"
       },
-      "timestamp": "2026-04-09T03:48:58.980Z"
+      "timestamp": "2026-04-16T04:16:07.173Z"
     },
     "bcny": {
       "intel": {
@@ -2547,22 +2547,22 @@
           {
             "title": "This browser had a 'serious' security vulnerability, here's how they're fixing it",
             "url": "https://9to5mac.com/2024/09/21/arc-browser-security-vulnerability/",
-            "snippet": "This browser had a 'serious' security vulnerability, here's how they're fixing it\n\n- Arc\n- Security\n\n# Arc Browser had a ‘serious’ security vulnerability, here’s how they’re addressing it\n\nBack in lat",
+            "snippet": "This browser had a 'serious' security vulnerability, here's how they're fixing it\n\n- [Arc](https://9to5mac.com/guides/arc/)\n- [Security](https://9to5mac.com/guides/security/)\n\n# Arc Browser had a ‘ser",
             "published": "2024-09-28T12:38:18.000Z",
             "score": 1
+          },
+          {
+            "title": "This browser had a 'serious' security vulnerability, here's how they're fixing it",
+            "url": "https://9to5mac.com/2024/09/28/arc-browser-vulnerability/",
+            "snippet": "This browser had a 'serious' security vulnerability, here's how they're fixing it\n\n- [Arc](https://9to5mac.com/guides/arc/)\n- [Security](https://9to5mac.com/guides/security/)\n\n# Arc Browser had a ‘ser",
+            "published": "2024-09-28T12:38:18.000Z",
+            "score": 0.5
           },
           {
             "title": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
             "url": "https://tracxn.com/d/companies/the-browser-company/__0leJsMtc50Qt1Mm923LXA7Wis3S2MUKxrijY166Awi0",
             "snippet": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn\n\nYour browser was unable to load all of Tracxn resources. They may have been blocked by your firewall, proxy or browser",
             "published": "2021-08-17T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "The Browser Company - Company Profile",
-            "url": "https://boringbusinessnerd.com/startups/the-browser-company",
-            "snippet": "The Browser Company - Company Profile\n\nHome> Startups Database>\n\nThe Browser Company\n\n# The Browser Company\n\nBuilding a better way to use the Internet, starting with a browser.\n\n## About\n\n### Founded\n",
-            "published": "2022-10-23T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2570,22 +2570,22 @@
           {
             "title": "This browser had a 'serious' security vulnerability, here's how they're fixing it",
             "url": "https://9to5mac.com/2024/09/21/arc-browser-security-vulnerability/",
-            "snippet": "This browser had a 'serious' security vulnerability, here's how they're fixing it\n\n- Arc\n- Security\n\n# Arc Browser had a ‘serious’ security vulnerability, here’s how they’re addressing it\n\nBack in lat",
+            "snippet": "This browser had a 'serious' security vulnerability, here's how they're fixing it\n\n- [Arc](https://9to5mac.com/guides/arc/)\n- [Security](https://9to5mac.com/guides/security/)\n\n# Arc Browser had a ‘ser",
             "published": "2024-09-28T12:38:18.000Z",
             "score": 1
+          },
+          {
+            "title": "This browser had a 'serious' security vulnerability, here's how they're fixing it",
+            "url": "https://9to5mac.com/2024/09/28/arc-browser-vulnerability/",
+            "snippet": "This browser had a 'serious' security vulnerability, here's how they're fixing it\n\n- [Arc](https://9to5mac.com/guides/arc/)\n- [Security](https://9to5mac.com/guides/security/)\n\n# Arc Browser had a ‘ser",
+            "published": "2024-09-28T12:38:18.000Z",
+            "score": 0.5
           },
           {
             "title": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
             "url": "https://tracxn.com/d/companies/the-browser-company/__0leJsMtc50Qt1Mm923LXA7Wis3S2MUKxrijY166Awi0",
             "snippet": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn\n\nYour browser was unable to load all of Tracxn resources. They may have been blocked by your firewall, proxy or browser",
             "published": "2021-08-17T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "The Browser Company - Products, Competitors, Financials, Employees, Headquarters Locations",
-            "url": "https://www.cbinsights.com/company/the-browser-company",
-            "snippet": "The Browser Company - Products, Competitors, Financials, Employees, Headquarters Locations\n\n## Founded Year\n\n2019\n\n## Stage\n\nAcquired | Acquired\n\n## Total Raised\n\n$103M\n\n## Valuation\n\n$0000 View\n\n## A",
-            "published": "2025-09-04T18:02:42.000Z",
             "score": 0
           }
         ],
@@ -2598,25 +2598,25 @@
             "score": 1
           },
           {
+            "title": "[Bug]: Unauthenticated browser control server enables DNS rebinding to run arbitrary JS · Issue #7768 · openclaw/openclaw",
+            "url": "https://github.com/openclaw/openclaw/issues/7768",
+            "snippet": "# Issue: openclaw/openclaw #7768\n\n- Repository: openclaw/openclaw | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | 357K stars | TypeScript\n\n## [Bug]: Unauthenticated brows",
+            "published": "2026-02-03T05:54:29.000Z",
+            "score": 0.5
+          },
+          {
             "title": "mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass",
             "url": "https://github.com/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass",
             "snippet": "# Repository: mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-19T21:20:27Z\n- Last push: 2026-",
             "published": "2026-02-19T21:20:27.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "[Security] CLI install script pulls malicious litellm 1.82.8 — credential harvesting + backdoor affecting all users · Issue #4505 · browser-use/browser-use",
-            "url": "https://github.com/browser-use/browser-use/issues/4505",
-            "snippet": "# Issue: browser-use/browser-use #4505\n\n- Repository: browser-use/browser-use | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | 86K stars | Python\n\n## [Security] CLI inst",
-            "published": "2026-03-24T14:53:34.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-09T03:48:58.980Z"
+        "enriched_at": "2026-04-16T04:16:07.173Z"
       },
-      "timestamp": "2026-04-09T03:49:00.776Z"
+      "timestamp": "2026-04-16T04:16:08.949Z"
     },
     "verily_life_sciences": {
       "intel": {
@@ -2624,22 +2624,22 @@
           {
             "title": "Whistleblower Files Suit Against Verily Alleging Widespread Patient Data Breach",
             "url": "https://techresearchonline.com/news/verily-patient-data-breach/",
-            "snippet": "Whistleblower Sues Verily Over Patient Data Breach\nSkip to content\nHeader Logo\n\nsearch icon\n\nSign In\nHeader Logo\nMain Menu\nHome&#62;&#62;News&#62;&#62;\nWhistleblower Files Suit Against Verily Alleging",
+            "snippet": "Whistleblower Sues Verily Over Patient Data Breach\n[Skip to content](#content)\n[![Header Logo](https://techresearchonline.com/wp-content/uploads/2024/05/header-logo.svg)](https://techresearchonline.co",
             "published": "2025-09-11T16:52:54.000Z",
             "score": 1
+          },
+          {
+            "title": "Whistleblower Sues Verily Over Patient Data Breach",
+            "url": "https://staging.techresearchonline.com/news/verily-patient-data-breach/",
+            "snippet": "Whistleblower Sues Verily Over Patient Data Breach\n\n[Home](https://staging.techresearchonline.com/)> [News](https://staging.techresearchonline.com/news/)>\n\nWhistleblower Files Suit Against Verily Alle",
+            "published": "2025-09-11T16:52:54.000Z",
+            "score": 0.5
           },
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/verily_life_sciences",
             "snippet": "HackerOne",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Security researcher exploits bug to access Google’s issue-tracking system | The Verge",
-            "url": "https://on.theverge.com/2017/10/31/16581006/google-bug-issue-tracker-vulnerability-report",
-            "snippet": "Security researcher exploits bug to access Google’s issue-tracking system | The Verge\n\nThe homepageThe Verge logo.\n\nThe homepageThe Verge logo.\n\nTech\n\nGoogle\n\nSecurity\n\n# Security researcher exploits ",
-            "published": "2017-10-31T15:05:54.000Z",
             "score": 0
           }
         ],
@@ -2647,7 +2647,7 @@
           {
             "title": "Whistleblower Files Suit Against Verily Alleging Widespread Patient Data Breach",
             "url": "https://techresearchonline.com/news/verily-patient-data-breach/",
-            "snippet": "Whistleblower Sues Verily Over Patient Data Breach\nSkip to content\nHeader Logo\n\nsearch icon\n\nSign In\nHeader Logo\nMain Menu\nHome&#62;&#62;News&#62;&#62;\nWhistleblower Files Suit Against Verily Alleging",
+            "snippet": "Whistleblower Sues Verily Over Patient Data Breach\n[Skip to content](#content)\n[![Header Logo](https://techresearchonline.com/wp-content/uploads/2024/05/header-logo.svg)](https://techresearchonline.co",
             "published": "2025-09-11T16:52:54.000Z",
             "score": 1
           },
@@ -2675,18 +2675,18 @@
             "score": 0.5
           },
           {
-            "title": "PoC and short Writeup for CVE-2026-1862",
-            "url": "https://gist.github.com/Shreyas-Penkar/fae1c12d4a673f20698b62a2669f80e7",
-            "snippet": "# Gist: PoC and short Writeup for CVE-2026-1862\n\n- Author: @Shreyas-Penkar\n- Public gist (1 file)\n- Created: 2026-02-10T15:33:44Z\n- Updated: 2026-02-10T21:28:09Z\n\n## gistfile1.md\n\n```md\n## CVE-2026-18",
-            "published": "2026-02-10T15:33:44.000Z",
+            "title": "huseyinstif/CVE-2026-2441-PoC",
+            "url": "https://github.com/huseyinstif/CVE-2026-2441-PoC",
+            "snippet": "# Repository: huseyinstif/CVE-2026-2441-PoC\n\n- Stars: 120\n- Forks: 21\n- Watchers: 120\n- Open issues: 1\n- Primary language: HTML\n- Languages: HTML\n- Default branch: main\n- Created: 2026-02-18T11:46:40Z",
+            "published": "2026-02-18T11:46:40.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-04-09T03:49:00.776Z"
+        "enriched_at": "2026-04-16T04:16:08.949Z"
       },
-      "timestamp": "2026-04-09T03:49:02.558Z"
+      "timestamp": "2026-04-16T04:16:10.631Z"
     },
     "neon_bbp": {
       "intel": {
@@ -2694,21 +2694,21 @@
           {
             "title": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon",
             "url": "https://neon.com/blog/neons-bug-bounty-program-with-hackerone-goes-public",
-            "snippet": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon\n\nTeam accounts with unlimited members now available to everyone! Invite your teammates and ship faster together, even on the Free Plan.\n\nBlo",
+            "snippet": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon\n\n[Team accounts with unlimited members now available to everyone! Invite your teammates and ship faster together, even on the Free Plan.](ht",
             "published": "2025-03-01T00:08:55.000Z",
             "score": 1
           },
           {
             "title": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon",
             "url": "https://neon.tech/blog/neons-bug-bounty-program-with-hackerone-goes-public",
-            "snippet": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon\n\nProduction databases on Neon use 2.4x less compute and cost 50% less than if they were running on a provisioned platform.\n\nBlog/ Company\n\n#",
+            "snippet": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon\n\n[Team accounts with unlimited members now available to everyone! Invite your teammates and ship faster together, even on the Free Plan.](ht",
             "published": "2025-03-01T00:08:55.000Z",
             "score": 0.5
           },
           {
             "title": "Bugbounty and Pentests at Neon  - Neon",
             "url": "https://neon.com/blog/bugbounty-and-pentests-at-neon",
-            "snippet": "Bugbounty and Pentests at Neon - Neon\n\nProduction databases on Neon use 2.4x less compute and cost 50% less than if they were running on a provisioned platform.\n\nBlog/ Company\n\n# Bugbounty and Pentest",
+            "snippet": "Bugbounty and Pentests at Neon - Neon\n\n[Team accounts with unlimited members now available to everyone! Invite your teammates and ship faster together, even on the Free Plan.](https://neon.com/docs/ch",
             "published": "2024-11-25T16:43:38.000Z",
             "score": 0
           }
@@ -2724,15 +2724,8 @@
           {
             "title": "SPA Token Theft Through Font Face Declarations | by Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | Jan, 2026 | Medium",
             "url": "https://medium.com/%40neonmaxima/spa-token-theft-through-font-face-declarations-a689c309888c",
-            "snippet": "SPA Token Theft Through Font Face Declarations | by Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | Jan, 2026 | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign ",
+            "snippet": "SPA Token Theft Through Font Face Declarations | by Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | Jan, 2026 | Medium\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.goog",
             "published": "2026-01-30T16:00:39.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Prompt injection in Opera Neon: Rapid response through responsible disclosure | Opera Security",
-            "url": "https://blogs.opera.com/security/2025/10/prompt-injection-in-opera-neon-rapid-response-through-responsible-disclosure/",
-            "snippet": "Prompt injection in Opera Neon: Rapid response through responsible disclosure | Opera Security \n\nHi Opera users,\n\nThis week, we were able to address a real-world security scenario on Opera Neon thanks",
-            "published": "2025-10-23T15:59:00.000Z",
             "score": 0
           }
         ],
@@ -2747,23 +2740,23 @@
           {
             "title": "neex/phuip-fpizdam",
             "url": "https://github.com/neex/phuip-fpizdam",
-            "snippet": "# Repository: neex/phuip-fpizdam\n\nExploit for CVE-2019-11043\n\n- Stars: 1833\n- Forks: 250\n- Watchers: 1833\n- Open issues: 5\n- Primary language: Go\n- Languages: Go (95.8%), Dockerfile (3.9%), Shell (0.3",
+            "snippet": "# Repository: neex/phuip-fpizdam\n\nExploit for CVE-2019-11043\n\n- Stars: 1833\n- Forks: 249\n- Watchers: 1833\n- Open issues: 5\n- Primary language: Go\n- Languages: Go (95.8%), Dockerfile (3.9%), Shell (0.3",
             "published": "2019-09-23T21:37:27.000Z",
             "score": 0.5
           },
           {
-            "title": "nospher3x2/cosmicsting-cnext-exploit",
-            "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
-            "snippet": "# Repository: nospher3x2/cosmicsting-cnext-exploit (fork of ambionics/cnext-exploits)\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE",
-            "published": "2024-07-26T18:42:54.000Z",
+            "title": "cnext-exploit.py at main · ambionics/cnext-exploits",
+            "url": "https://github.com/ambionics/cnext-exploits/blob/main/cnext-exploit.py",
+            "snippet": "# File: ambionics/cnext-exploits/cnext-exploit.py\n\n- Repository: ambionics/cnext-exploits | Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() | 505 stars | Python\n- Branch: ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-04-09T03:49:02.558Z"
+        "total_results": 8,
+        "enriched_at": "2026-04-16T04:16:10.632Z"
       },
-      "timestamp": "2026-04-09T03:49:04.262Z"
+      "timestamp": "2026-04-16T04:16:12.322Z"
     },
     "bumba_bbp": {
       "intel": {
@@ -2778,14 +2771,14 @@
           {
             "title": "$600 Bounty: How to Revealed Hidden Read Receipts in Bumble’s Chat API | by Monika sharma | InfoSec Write-ups",
             "url": "https://infosecwriteups.com/600-bounty-how-revealed-hidden-read-receipts-in-bumbles-chat-api-53bc06c987f5",
-            "snippet": "$600 Bounty: How to Revealed Hidden Read Receipts in Bumble’s Chat API | by Monika sharma | InfoSec Write-ups\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSig",
+            "snippet": "$600 Bounty: How to Revealed Hidden Read Receipts in Bumble’s Chat API | by Monika sharma | InfoSec Write-ups\n\n[Sitemap](https://infosecwriteups.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.go",
             "published": "2025-07-06T06:24:32.000Z",
             "score": 0.5
           },
           {
             "title": "Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty | by Shubham Sharma | Medium",
             "url": "https://medium.com/@secshubhamsharma/bug-hunting-101-the-firebase-misconfig-that-earned-me-a-bounty-dd600cef8ade",
-            "snippet": "Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty | by Shubham Sharma | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nMastodon\n\n#",
+            "snippet": "Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty | by Shubham Sharma | Medium\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.com/store/apps/detail",
             "published": "2025-07-12T04:10:37.000Z",
             "score": 0
           }
@@ -2799,17 +2792,17 @@
             "score": 1
           },
           {
+            "title": "Jumbo Website Manager  - Remote Code Execution - Multiple webapps Exploit",
+            "url": "https://www.exploit-db.com/exploits/52504",
+            "snippet": "Jumbo Website Manager - Remote Code Execution - Multiple webapps Exploit\n\n# Jumbo Website Manager - Remote Code Execution\n\n#### EDB-ID:\n\n###### 52504\n\n#### CVE:\n\n###### N/A\n\n---\n\nEDB Verified:\n\n#### A",
+            "published": "2026-04-09T05:31:12.000Z",
+            "score": 0.5
+          },
+          {
             "title": "CVE-2026-25505 Security Vulnerability & Exploit Details",
             "url": "https://cve.akaoma.com/cve-2026-25505",
             "snippet": "CVE-2026-25505 Security Vulnerability & Exploit Details\n\n# CVE-2026-25505 Vulnerability Analysis & Exploit Details\n\n## CVE-2026-25505 Vulnerability Scoring\n\n9.8\n\n/10\n\nCritical Risk\n\nAs a catastrophic ",
             "published": "2026-02-04T20:16:07.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2023-2551: Bumsys PHP Remote File Inclusion Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2023-2551/",
-            "snippet": "CVE-2023-2551: Bumsys PHP Remote File Inclusion Vulnerability",
-            "published": "2023-05-05T20:15:10.000Z",
             "score": 0
           }
         ],
@@ -2829,18 +2822,18 @@
             "score": 0.5
           },
           {
-            "title": "CustomAction/CookiePrefixBypass.bambda at main · PortSwigger/bambdas",
-            "url": "https://github.com/PortSwigger/bambdas/blob/main/CustomAction/CookiePrefixBypass.bambda",
-            "snippet": "# File: PortSwigger/bambdas/CustomAction/CookiePrefixBypass.bambda\n\n- Repository: PortSwigger/bambdas | Bambdas collection for Burp Suite Professional and Community. | 512 stars | Java\n- Branch: main\n",
-            "published": null,
+            "title": "mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE",
+            "url": "https://github.com/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE",
+            "snippet": "# Repository: mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE\n\nSumatraPDF versions 3.5.0 to 3.5.2 disable TLS hostname verification during update checks # (using INTERNET_FLAG_IGNORE_CERT_CN_INV",
+            "published": "2026-02-10T08:36:32.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-09T03:49:04.262Z"
+        "enriched_at": "2026-04-16T04:16:12.323Z"
       },
-      "timestamp": "2026-04-09T03:49:05.900Z"
+      "timestamp": "2026-04-16T04:16:14.201Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -2855,14 +2848,14 @@
           {
             "title": "Starbuck Reflect XSS Writeup - バグハンターに憧れた人間の日記",
             "url": "https://wa1m3im.hatenablog.com/entry/2019/12/24/183149",
-            "snippet": "Starbuck Reflect XSS Writeup - バグハンターに憧れた人間の日記\n\n# はじめに\n\nこの記事は筆者が2019年２月に Starbucksのホームページで発見した XSSについてどのようにアプローチしたのかをまとめた記事です。\n\nこの 脆弱性は既に修正されており、現在再現することはありません。\n\n元のレポートは下記のリンクになります。\n\nhackerone.com\n\n# ",
+            "snippet": "Starbuck Reflect XSS Writeup - バグハンターに憧れた人間の日記\n\n# はじめに\n\nこの記事は筆者が2019年２月に [Starbucks](http://d.hatena.ne.jp/keyword/Starbucks)のホームページで発見した [XSS](http://d.hatena.ne.jp/keyword/XSS)についてどのようにアプローチしたのかをまとめ",
             "published": "2019-12-24T09:31:49.000Z",
             "score": 0.5
           },
           {
             "title": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies",
             "url": "https://dreamlab.net/en/blog/post/starbucks-idor-how-we-prevented-an-information-leak-of-6-million-starbucks-customers/",
-            "snippet": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies\n\nBlog\n\n# Starbucks IDOR: How we prevented an information leak of 6 million Starbucks custo",
+            "snippet": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies\n\n[Blog](https://dreamlab.net/en/blog/)\n\n# Starbucks IDOR: How we prevented an information ",
             "published": "2020-03-18T11:02:05.000Z",
             "score": 0
           }
@@ -2876,17 +2869,17 @@
             "score": 1
           },
           {
-            "title": "スターバックスに不正アクセス、従業員の個人情報が流出 | TECH+（テックプラス）",
-            "url": "https://news.mynavi.jp/techplus/article/20260318-4224301/",
-            "snippet": "スターバックスに不正アクセス、従業員の個人情報が流出 | TECH+（テックプラス）\n\nお知らせ プライバシーポリシーを一部改訂しました\n\n- TECH+\n- 企業IT\n- セキュリティ\n- スターバックスに不正アクセス、従業員の個人情報が流出\n\n# スターバックスに不正アクセス、従業員の個人情報が流出\n\n掲載日 2026/03/18 08:05\n\n著者：後藤大地\n\n- \n- \n\n- 不正アクセス",
-            "published": "2026-03-17T23:05:49.000Z",
+            "title": "スターバックス、従業員向けアカウントへの不正アクセスで従業員の個人情報漏洩 偽サイトで認証情報を窃取、顧客の情報漏洩は否定|セキュリティニュースのセキュリティ対策Lab",
+            "url": "http://rocket-boys.co.jp/security-measures-lab/starbucks-employee-account-breach-phishing-data-leak/",
+            "snippet": "スターバックス、従業員向けアカウントへの不正アクセスで従業員の個人情報漏洩 偽サイトで認証情報を窃取、顧客の情報漏洩は否定|セキュリティニュースのセキュリティ対策Lab\n\nカテゴリー\n\n▶︎\n\n## 侵害経路は 従業員向けサイトを装った偽サイト\n\nBleepingComputerが確認した通知内容によると、侵害を受けたのは Starbucks Partner Central のアカウントです。St",
+            "published": "2026-03-16T01:00:58.000Z",
             "score": 0.5
           },
           {
-            "title": "Critical Vulnerabilities In Starbucks Allows Hackers To Steal Credit Card Details",
-            "url": "https://www.techworm.net/2015/09/critical-vulnerabilities-in-starbucks-allows-hackers-to-steal-credit-card-details.html",
-            "snippet": "Critical Vulnerabilities In Starbucks Allows Hackers To Steal Credit Card Details\n\nSearch\n\nHOME > Security news\n\n# Critical Vulnerabilities In Starbucks Allows Hackers To Steal Credit Card Details\n\nSe",
-            "published": "2015-09-21T07:12:50.000Z",
+            "title": "スターバックスに不正アクセス、従業員の個人情報が流出 | TECH+（テックプラス）",
+            "url": "https://news.mynavi.jp/techplus/article/20260318-4224301/",
+            "snippet": "スターバックスに不正アクセス、従業員の個人情報が流出 | TECH+（テックプラス）\n\nお知らせ [プライバシーポリシーを一部改訂しました](https://news.mynavi.jp/itsearch/info)\n\n- [TECH+](https://news.mynavi.jp/itsearch/)\n- [企業IT](https://news.mynavi.jp/techplus/enter",
+            "published": "2026-03-17T23:05:49.000Z",
             "score": 0
           }
         ],
@@ -2906,18 +2899,18 @@
             "score": 0.5
           },
           {
-            "title": "tops_by_program/TOPSTARBUCKS.md at master · reddelexc/hackerone-reports",
-            "url": "https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_program/TOPSTARBUCKS.md",
-            "snippet": "# File: reddelexc/hackerone-reports/tops_by_program/TOPSTARBUCKS.md\n\n- Repository: reddelexc/hackerone-reports | Top disclosed reports from HackerOne | 5K stars | Python\n- Branch: master\n\n```md\nTop re",
+            "title": "results/based_on_program/starbucks.md at master · codebygk/hackerone-bug-bounty-reports",
+            "url": "https://github.com/gobeecode/bug-bounty-reports-hackerone/blob/master/results/based_on_program/starbucks.md",
+            "snippet": "# File: codebygk/hackerone-bug-bounty-reports/results/based_on_program/starbucks.md\n\n- Repository: codebygk/hackerone-bug-bounty-reports | Complete collection of bug bounty reports from Hackerone. | 5",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-09T03:49:05.900Z"
+        "enriched_at": "2026-04-16T04:16:14.201Z"
       },
-      "timestamp": "2026-04-09T03:49:07.492Z"
+      "timestamp": "2026-04-16T04:16:16.077Z"
     },
     "starbucks_china": {
       "intel": {
@@ -7568,5 +7561,5 @@
       "timestamp": "2026-04-14T04:10:42.708Z"
     }
   },
-  "lastRun": "2026-04-15T04:09:57.340Z"
+  "lastRun": "2026-04-16T04:16:16.077Z"
 }
