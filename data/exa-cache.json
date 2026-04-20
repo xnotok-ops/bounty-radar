@@ -6663,21 +6663,21 @@
           {
             "title": "Files to Notion: How I Won $2,000 in the Notion Bug Bounty Program",
             "url": "https://www.files2notion.com/blog/how-i-won-in-the-notion-bug-bounty-program",
-            "snippet": "Files to Notion: How I Won $2,000 in the Notion Bug Bounty Program\n\n← Back to blog\n\n# How I Won $2,000 in the Notion Bug Bounty Program\n\n## TLDR\n\nThe bug allowed downloading paid Notion Templates for ",
+            "snippet": "Files to Notion: How I Won $2,000 in the Notion Bug Bounty Program\n\n[← Back to blog](https://www.files2notion.com/blog)\n\n# How I Won $2,000 in the Notion Bug Bounty Program\n\n## TLDR\n\nThe bug allowed d",
             "published": null,
             "score": 1
           },
           {
             "title": "Notion AI: Data Exfiltration",
             "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
-            "snippet": "[Solutions]\n\n[Industries]\n\nPartners\n\n[Resources]\n\nBook a Demo\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team be",
+            "snippet": "[Solutions]\n\n[Industries]\n\n[Partners](https://www.promptarmor.com/partner-program)\n\n[Resources]\n\n[Book a Demo](https://www.promptarmor.com/enterprise-demo)\n\nThreat Intelligence\n\n# Notion AI: Data Exfi",
             "published": null,
             "score": 0.5
           },
           {
             "title": "Notion AI: Data Exfiltration",
             "url": "https://readhacker.news/s/6JXSP",
-            "snippet": "[Solutions]\n\n[Industries]\n\nPartners\n\n[Resources]\n\nBook a Demo\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team be",
+            "snippet": "[Solutions]\n\n[Industries]\n\n[Partners](https://readhacker.news/partner-program)\n\n[Resources]\n\n[Book a Demo](https://readhacker.news/enterprise-demo)\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration",
             "published": null,
             "score": 0
           }
@@ -6686,22 +6686,22 @@
           {
             "title": "Notion AI: Data Exfiltration",
             "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
-            "snippet": "[Solutions]\n\n[Industries]\n\nPartners\n\n[Resources]\n\nBook a Demo\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team be",
+            "snippet": "[Solutions]\n\n[Industries]\n\n[Partners](https://www.promptarmor.com/partner-program)\n\n[Resources]\n\n[Book a Demo](https://www.promptarmor.com/enterprise-demo)\n\nThreat Intelligence\n\n# Notion AI: Data Exfi",
             "published": null,
             "score": 1
           },
           {
             "title": "Notion AI: Data Exfiltration",
             "url": "https://readhacker.news/s/6JXSP",
-            "snippet": "[Solutions]\n\n[Industries]\n\nPartners\n\n[Resources]\n\nBook a Demo\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team be",
+            "snippet": "[Solutions]\n\n[Industries]\n\n[Partners](https://readhacker.news/partner-program)\n\n[Resources]\n\n[Book a Demo](https://readhacker.news/enterprise-demo)\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub",
-            "url": "https://github.com/khoj-ai/khoj/security/advisories/GHSA-6whj-7qmg-86qj",
-            "snippet": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub\n\n/ khoj Public\n\nStar 33.8k\n\n- Pricing\n- Sponsor\n- Notifications\n- Fork 2.1k\n\n# IDOR in Notion OAuth Flow Enables In",
-            "published": null,
+            "title": "Notion AI Leaks Data Before You Click OK: Prompt Injection Hits 100 Million Users - HackingPassion.com : root@HackingPassion.com-[~]",
+            "url": "https://hackingpassion.com/notion-ai-prompt-injection-data-exfiltration/",
+            "snippet": "Notion AI Leaks Data Before You Click OK: Prompt Injection Hits 100 Million Users - HackingPassion.com : root@HackingPassion.com-[~]\n\n# Notion AI Leaks Data Before You Click OK: Prompt Injection Hits ",
+            "published": "2026-01-08T14:28:25.000Z",
             "score": 0
           }
         ],
@@ -6709,7 +6709,7 @@
           {
             "title": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub",
             "url": "https://github.com/khoj-ai/khoj/security/advisories/GHSA-6whj-7qmg-86qj",
-            "snippet": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub\n\n/ khoj Public\n\nStar 33.8k\n\n- Pricing\n- Sponsor\n- Notifications\n- Fork 2.1k\n\n# IDOR in Notion OAuth Flow Enables In",
+            "snippet": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub\n\n/ [khoj](https://github.com/khoj-ai/khoj) Public\n\n[Star 33.8k](https://github.com/login?return_to=%2Fkhoj-ai%2Fkho",
             "published": null,
             "score": 1
           },
@@ -6730,9 +6730,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-06T04:08:18.842Z"
+        "enriched_at": "2026-04-20T04:21:16.296Z"
       },
-      "timestamp": "2026-04-06T04:08:20.686Z"
+      "timestamp": "2026-04-20T04:21:19.273Z"
     },
     "mpesa": {
       "intel": {
@@ -6754,7 +6754,7 @@
           {
             "title": "M-Pesa Just Closed a Major Scam Loophole - Tech Moni Africa",
             "url": "https://techmoniafrica.com/m-pesa-just-closed-a-major-scam-loophole/",
-            "snippet": "M-Pesa Just Closed a Major Scam Loophole - Tech Moni Africa\n\nMarch 12, 2026\n\n×\n\nTech Moni Africa Fintech M-Pesa Just Closed a Major Scam Loophole\n\nFintech\n\n# M-Pesa Just Closed a Major Scam Loophole\n\n",
+            "snippet": "M-Pesa Just Closed a Major Scam Loophole - Tech Moni Africa\n\nMarch 12, 2026\n\n×\n\n[Tech Moni Africa](https://techmoniafrica.com/) [Fintech](https://techmoniafrica.com/category/fintech/) M-Pesa Just Clos",
             "published": "2026-03-02T18:12:06.000Z",
             "score": 0
           }
@@ -6770,14 +6770,14 @@
           {
             "title": "The MPESA Clawback Crisis: When Anti-Fraud Measures Become the Fraud | by Pauline Masese | Medium",
             "url": "https://pmasese.medium.com/the-mpesa-clawback-crisis-when-anti-fraud-measures-become-the-fraud-02173a56d620",
-            "snippet": "The MPESA Clawback Crisis: When Anti-Fraud Measures Become the Fraud | by Pauline Masese | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# The ",
+            "snippet": "The MPESA Clawback Crisis: When Anti-Fraud Measures Become the Fraud | by Pauline Masese | Medium\n\n[Sitemap](https://pmasese.medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.com/stor",
             "published": "2025-12-01T11:49:08.000Z",
             "score": 0.5
           },
           {
             "title": "M-Pesa Just Closed a Major Scam Loophole - Tech Moni Africa",
             "url": "https://techmoniafrica.com/m-pesa-just-closed-a-major-scam-loophole/",
-            "snippet": "M-Pesa Just Closed a Major Scam Loophole - Tech Moni Africa\n\nMarch 12, 2026\n\n×\n\nTech Moni Africa Fintech M-Pesa Just Closed a Major Scam Loophole\n\nFintech\n\n# M-Pesa Just Closed a Major Scam Loophole\n\n",
+            "snippet": "M-Pesa Just Closed a Major Scam Loophole - Tech Moni Africa\n\nMarch 12, 2026\n\n×\n\n[Tech Moni Africa](https://techmoniafrica.com/) [Fintech](https://techmoniafrica.com/category/fintech/) M-Pesa Just Clos",
             "published": "2026-03-02T18:12:06.000Z",
             "score": 0
           }
@@ -6807,9 +6807,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-07T03:50:02.135Z"
+        "enriched_at": "2026-04-20T04:21:19.273Z"
       },
-      "timestamp": "2026-04-07T03:50:03.918Z"
+      "timestamp": "2026-04-20T04:21:21.215Z"
     },
     "metamask": {
       "intel": {
@@ -6817,21 +6817,21 @@
           {
             "title": "GMS-2020-35: Incorrect Account Used for Signing",
             "url": "https://advisories.gitlab.com/pkg/npm/%40metamask/eth-ledger-bridge-keyring/GMS-2020-35",
-            "snippet": "Incorrect Account Used for Signing | GitLab Advisory Database\nAdvisory Database\n# GMS-2020-35: Incorrect Account Used for Signing\nMarch 24, 2020(updatedAugust 23, 2021)\nImpact\nAnybody using this libra",
+            "snippet": "Incorrect Account Used for Signing | GitLab Advisory Database\n[](https://advisories.gitlab.com/)[Advisory Database](https://advisories.gitlab.com/)\n# GMS-2020-35: Incorrect Account Used for Signing\nMa",
             "published": "2020-03-24T14:02:50.000Z",
             "score": 1
           },
           {
             "title": "$3,500 Bounty — 🔐 Total Failure of Password Protection While Extracting Seed Phrase — A Critical UX Oversight in MetaMask | by Hacker Write-Ups | Medium",
             "url": "https://hacker-write-ups.medium.com/3-500-bounty-total-failure-of-password-protection-while-extracting-seed-phrase-a-critical-79723184d46e",
-            "snippet": "$3,500 Bounty — 🔐 Total Failure of Password Protection While Extracting Seed Phrase — A Critical UX Oversight in MetaMask | by Hacker Write-Ups | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMediu",
+            "snippet": "$3,500 Bounty — 🔐 Total Failure of Password Protection While Extracting Seed Phrase — A Critical UX Oversight in MetaMask | by Hacker Write-Ups | Medium\n\n[Sitemap](https://hacker-write-ups.medium.com",
             "published": "2025-08-11T06:24:30.000Z",
             "score": 0.5
           },
           {
             "title": "MetaMask Clickjacking Vulnerability Analysis | by SlowMist | Medium",
             "url": "https://slowmist.medium.com/metamask-clickjacking-vulnerability-analysis-f3e7c22ff4d9",
-            "snippet": "MetaMask Clickjacking Vulnerability Analysis | by SlowMist | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# MetaMask Clickjacking Vulnerabilit",
+            "snippet": "MetaMask Clickjacking Vulnerability Analysis | by SlowMist | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# MetaMask Clickjacking Vulnerability Analysis\n\n5 min read\n\nJun 16, 2022\n\n--\n\nShare\n\nPress enter or clic",
             "published": "2022-06-16T03:37:30.000Z",
             "score": 0
           }
@@ -6840,22 +6840,22 @@
           {
             "title": "Account Suspended",
             "url": "https://moss.sh/reviews/crypto-scam-alert-new-phishing-method-targets-metamask-users/",
-            "snippet": "Account Suspended\n\nAccount Suspended\n\nThis Account has been suspended.\n\nContact KoDDoS for more information.\n\nAccount Suspended\n** Account Suspended\nThis Account has been suspended.\nContact KoDDoS for",
+            "snippet": "Account Suspended\n\nAccount Suspended\n\nThis Account has been suspended.\n\nContact [KoDDoS](https://koddos.net/contact.html) for more information.\n\nAccount Suspended\n** Account Suspended\nThis Account has",
             "published": "2025-12-21T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "MetaMask Users Hit by Fake 2FA Scam: Wallets Drained in Seconds",
-            "url": "https://sqmagazine.co.uk/metamask-fake-2fa-phishing-scam/",
-            "snippet": "MetaMask Users Hit by Fake 2FA Scam: Wallets Drained in Seconds \n\n- Skip to primary navigation\n- Skip to main content\n- Skip to primary sidebar\n- Skip to footer\n\nSubscribe To Our Newsletter\n\nAs Featur",
-            "published": "2026-01-05T15:32:45.000Z",
+            "title": "Account Suspended",
+            "url": "https://moss.sh/news/crypto-scam-alert-new-phishing-method-targets-metamask-users/",
+            "snippet": "Account Suspended\n\nAccount Suspended\n\nThis Account has been suspended.\n\nContact [KoDDoS](https://koddos.net/contact.html) for more information.\n\nAccount Suspended\n** Account Suspended\nThis Account has",
+            "published": "2025-12-21T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "Malicious Dependency Exposure in MetaMask SDK: debug@4.4.2 Vulnerability",
-            "url": "https://vulert.com/vuln-db/npm--metamask-sdk-238813",
-            "snippet": "Malicious Dependency Exposure in MetaMask SDK: debug@4.4.2 Vulnerability\n\n# Malicious Dependency Exposure in MetaMask SDK: debug@4.4.2 Vulnerability\n\nAffected Package: @metamask/sdk(Click to see all v",
-            "published": null,
+            "title": "MetaMask Users Hit by Fake 2FA Scam: Wallets Drained in Seconds",
+            "url": "https://sqmagazine.co.uk/metamask-fake-2fa-phishing-scam/",
+            "snippet": "MetaMask Users Hit by Fake 2FA Scam: Wallets Drained in Seconds\n\n- Skip to primary navigation\n- Skip to main content\n- Skip to primary sidebar\n- Skip to footer\n\n[Subscribe To Our Newsletter](https://s",
+            "published": "2026-01-05T15:32:45.000Z",
             "score": 0
           }
         ],
@@ -6863,45 +6863,45 @@
           {
             "title": "metamask exploit payload extracted from nexus mutual exploit",
             "url": "https://gist.github.com/banteg/53a62b1f5eab56c8d4841786fc94d3ca",
-            "snippet": "# Gist: metamask exploit payload extracted from nexus mutual exploit\n\n- Author: @banteg\n- Private gist (1 file)\n- Created: 2020-12-14T21:50:01Z\n- Updated: 2024-10-21T15:09:51Z\n- Forks: 2\n\n## payload.d",
+            "snippet": "# Gist: metamask exploit payload extracted from nexus mutual exploit\n\n- Author: [@banteg](https://github.com/banteg)\n- Private gist (1 file)\n- Created: 2020-12-14T21:50:01Z\n- Updated: 2024-10-21T15:09",
             "published": "2020-12-14T21:50:01.000Z",
             "score": 1
+          },
+          {
+            "title": "feat: implement address copy protection in transaction details · Pull Request #38994 · MetaMask/metamask-extension",
+            "url": "https://github.com/MetaMask/metamask-extension/pull/38994",
+            "snippet": "# Pull Request: MetaMask/metamask-extension #38994\n\n- Repository: MetaMask/metamask-extension | :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockcha",
+            "published": "2025-12-21T22:51:48.000Z",
+            "score": 0.5
           },
           {
             "title": "chore: pin `debug` package to exact version due to npm compromise · Pull Request #1342 · MetaMask/metamask-sdk",
             "url": "https://github.com/MetaMask/metamask-sdk/pull/1342",
             "snippet": "# Pull Request: MetaMask/metamask-sdk #1342\n\n- Repository: MetaMask/metamask-sdk | The simplest yet most secure way to connect your blockchain-based applications to millions of MetaMask Wallet users. ",
             "published": "2025-09-09T16:14:53.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "malicious ERC20 transfer · Pull Request #21228 · MetaMask/metamask-extension",
-            "url": "https://github.com/MetaMask/metamask-extension/pull/21228",
-            "snippet": "# Pull Request: MetaMask/metamask-extension #21228\n\n- Repository: MetaMask/metamask-extension | :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockcha",
-            "published": "2023-10-06T09:32:33.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-07T03:50:03.919Z"
+        "enriched_at": "2026-04-20T04:21:21.215Z"
       },
-      "timestamp": "2026-04-07T03:50:05.576Z"
+      "timestamp": "2026-04-20T04:21:22.993Z"
     },
     "floqast": {
       "intel": {
         "writeups": [
           {
-            "title": "Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast",
+            "title": "301 Moved Permanently",
             "url": "https://floqast.com/stories/qualys-inc-modernizes-sox-compliance-improves-the-annual-audit-with-floqast",
-            "snippet": "FloQast.com\nSupportLOGIN\n\n\nAll posts\n\nCase study\n# Qualys Inc. Modernizes SOX Compliance &amp; Improves the Annual Audit with FloQast\nIT Security\n\nindustry\nIT Security\nerp\nNetSuite\nobjective\nTo improv",
+            "snippet": "301 Moved Permanently\n\n# 301 Moved Permanently\n\n---\n\nopenresty\n\n301 Moved Permanently\n# 301 Moved Permanently\nopenresty",
             "published": "2025-07-02T00:00:00.000Z",
             "score": 1
           },
           {
             "title": "FloQast Static Analysis Security Scan | Case Studies | Semgrep",
             "url": "https://semgrep.dev/case-studies/floqast-semgrep-code/",
-            "snippet": "FloQast Static Analysis Security Scan | Case Studies | Semgrep\n\nProducts\n\nSemgrep Code\n\nFind and fix the issues that matter in your code (SAST)\n\nSemgrep Supply Chain\n\nFind and fix reachable dependency",
+            "snippet": "FloQast Static Analysis Security Scan | Case Studies | Semgrep\n\nProducts\n\nFind and fix the issues that matter in your code (SAST)\n\nFind and fix reachable dependency vulnerabilities (SCA)\n\nFind and fix",
             "published": null,
             "score": 0
           }
@@ -6922,9 +6922,9 @@
             "score": 0.5
           },
           {
-            "title": "Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast",
+            "title": "301 Moved Permanently",
             "url": "https://floqast.com/stories/qualys-inc-modernizes-sox-compliance-improves-the-annual-audit-with-floqast",
-            "snippet": "FloQast.com\nSupportLOGIN\n\n\nAll posts\n\nCase study\n# Qualys Inc. Modernizes SOX Compliance &amp; Improves the Annual Audit with FloQast\nIT Security\n\nindustry\nIT Security\nerp\nNetSuite\nobjective\nTo improv",
+            "snippet": "301 Moved Permanently\n\n# 301 Moved Permanently\n\n---\n\nopenresty\n\n301 Moved Permanently\n# 301 Moved Permanently\nopenresty",
             "published": "2025-07-02T00:00:00.000Z",
             "score": 0
           }
@@ -6933,7 +6933,7 @@
           {
             "title": "Direct SQL Injection via `update_sql` Endpoint Bypasses `is_sql_valid()` and Allows Arbitrary Query Execution",
             "url": "https://gist.github.com/YLChen-007/48b86c2365e5ebf6923d5f14491b4329",
-            "snippet": "# Gist: Direct SQL Injection via `update_sql` Endpoint Bypasses `is_sql_valid()` and Allows Arbitrary Query Execution\n\n- Author: @YLChen-007\n- Public gist (1 file)\n- Created: 2026-02-27T05:41:46Z\n- Up",
+            "snippet": "# Gist: Direct SQL Injection via `update_sql` Endpoint Bypasses `is_sql_valid()` and Allows Arbitrary Query Execution\n\n- Author: [@YLChen-007](https://github.com/YLChen-007)\n- Public gist (1 file)\n- C",
             "published": "2026-02-27T05:41:46.000Z",
             "score": 1
           },
@@ -6954,9 +6954,9 @@
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-04-07T03:50:05.576Z"
+        "enriched_at": "2026-04-20T04:21:22.993Z"
       },
-      "timestamp": "2026-04-07T03:50:07.295Z"
+      "timestamp": "2026-04-20T04:21:24.897Z"
     },
     "palantir_public": {
       "intel": {
@@ -7031,9 +7031,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-07T03:50:07.296Z"
+        "enriched_at": "2026-04-20T04:21:24.897Z"
       },
-      "timestamp": "2026-04-07T03:50:09.038Z"
+      "timestamp": "2026-04-20T04:21:26.842Z"
     },
     "mongodb": {
       "intel": {
@@ -7041,45 +7041,45 @@
           {
             "title": "MongoBleed: MongoDB's Critical Memory Leak Vulnerability |\nsanj.dev",
             "url": "https://sanj.dev/post/mongobleed-cve-2025-14847-critical-mongodb-vulnerability/",
-            "snippet": "MongoBleed: MongoDB's Critical Memory Leak Vulnerability | sanj.dev\n\n# MONGOBLEED: MONGODB'S CRITICAL MEMORY LEAK VULNERABILITY\n\n- 3/1/2026\n- 6-minute read\n- 1156 words\n\nYour MongoDB server might be l",
+            "snippet": "MongoBleed: MongoDB's Critical Memory Leak Vulnerability | sanj.dev\n\n# MONGOBLEED: MONGODB'S CRITICAL MEMORY LEAK VULNERABILITY\n\n- 3/1/2026\n- Updated 3/4/2026\n- 6-minute read\n- 1239 words\n\nYour MongoD",
             "published": "2026-01-03T00:00:00.000Z",
             "score": 1
           },
           {
             "title": "CVE‑2025‑14847: Unauthenticated Memory Disclosure in MongoDB’s zlib Decompression Pipeline | by gm0 | Stackademic",
             "url": "https://medium.com/@gm0/cve-2025-14847-unauthenticated-memory-disclosure-in-mongodbs-zlib-decompression-pipeline-67e88e831f9d",
-            "snippet": "CVE‑2025‑14847: Unauthenticated Memory Disclosure in MongoDB’s zlib Decompression Pipeline | by gm0 | Stackademic\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n",
+            "snippet": "CVE‑2025‑14847: Unauthenticated Memory Disclosure in MongoDB’s zlib Decompression Pipeline | by gm0 | Stackademic\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.",
             "published": "2025-12-29T11:02:16.000Z",
             "score": 0.5
           },
           {
-            "title": "MongoDB CVE-2025-6713: Unauthorized Data Access via $mergeCursors Exploit Explained - ZeroPath Blog | ZeroPath",
-            "url": "https://zeropath.com/blog/mongodb-cve-2025-6713-unauthorized-data-access",
-            "snippet": "MongoDB CVE-2025-6713: Unauthorized Data Access via $mergeCursors Exploit Explained - ZeroPath Blog | ZeroPath\n\nZeroPath selected as Top 10 Finalist for RSAC™ 2026 Innovation Sandbox Contest — Present",
-            "published": "2025-07-07T15:25:23.000Z",
+            "title": "MongoBleed CVE-2025–14847. Proof of Concept of the Latest… | by Lakshan Sameera | Medium",
+            "url": "https://medium.com/@Lakshan_Sameera/mongobleed-cve-2025-14847-02d01aa30134",
+            "snippet": "MongoBleed CVE-2025–14847. Proof of Concept of the Latest… | by Lakshan Sameera | Medium\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.com/store/apps/details?id",
+            "published": "2026-01-03T09:41:27.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
-            "title": "CVE-2026-4148: MongoDB Use-After-Free Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4148/",
-            "snippet": "CVE-2026-4148: MongoDB Use-After-Free Vulnerability\n\nVulnerability Database/CVE-2026-4148\n\n# CVE-2026-4148: MongoDB Use-After-Free Vulnerability\n\nCVE-2026-4148 is a use-after-free vulnerability in Mon",
-            "published": "2026-03-17T16:16:23.000Z",
-            "score": 1
-          },
-          {
             "title": "MongoDB Memory Disclosure Vulnerability Under Active Exploitation (CVE-2025-14847) (MongoBleed) – Qualys ThreatPROTECT",
             "url": "https://threatprotect.qualys.com/2025/12/30/mongodb-memory-disclosure-vulnerability-under-active-exploitation-cve-2025-14847-mongobleed/",
-            "snippet": "MongoDB Memory Disclosure Vulnerability Under Active Exploitation (CVE-2025-14847) (MongoBleed) – Qualys ThreatPROTECT \n\n \n\n \n\nThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a ",
+            "snippet": "MongoDB Memory Disclosure Vulnerability Under Active Exploitation (CVE-2025-14847) (MongoBleed) – Qualys ThreatPROTECT\n\nThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a MongoDB",
             "published": "2025-12-30T00:00:00.000Z",
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "MongoBleed: MongoDB's Critical Memory Leak Vulnerability |\nsanj.dev",
             "url": "https://sanj.dev/post/mongobleed-cve-2025-14847-critical-mongodb-vulnerability/",
-            "snippet": "MongoBleed: MongoDB's Critical Memory Leak Vulnerability | sanj.dev\n\n# MONGOBLEED: MONGODB'S CRITICAL MEMORY LEAK VULNERABILITY\n\n- 3/1/2026\n- 6-minute read\n- 1156 words\n\nYour MongoDB server might be l",
+            "snippet": "MongoBleed: MongoDB's Critical Memory Leak Vulnerability | sanj.dev\n\n# MONGOBLEED: MONGODB'S CRITICAL MEMORY LEAK VULNERABILITY\n\n- 3/1/2026\n- Updated 3/4/2026\n- 6-minute read\n- 1239 words\n\nYour MongoD",
             "published": "2026-01-03T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2026-4148 Security Vulnerability & Exploit Details",
+            "url": "https://cve.akaoma.com/cve-2026-4148",
+            "snippet": "CVE-2026-4148 Security Vulnerability & Exploit Details \n\n# CVE-2026-4148 Vulnerability Analysis & Exploit Details\n\n \n\n## CVE-2026-4148 Vulnerability Scoring\n\n8.8\n\n/10\n\nSevere Risk\n\nCybersecurity profe",
+            "published": "2026-03-17T16:16:23.000Z",
             "score": 0
           }
         ],
@@ -7087,7 +7087,7 @@
           {
             "title": "[pymongo] out-of-bounds read PoC (CVE-2024-5629)",
             "url": "https://gist.github.com/keltecc/62a7c2bf74a997d0a7b48a0ff3853a03",
-            "snippet": "# Gist: [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Author: @keltecc\n- Public gist (3 files)\n- Created: 2024-03-03T23:53:34Z\n- Updated: 2024-06-21T10:26:41Z\n\n## !README.md\n\n```md\n_Assigned CVE",
+            "snippet": "# Gist: [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Author: [@keltecc](https://github.com/keltecc)\n- Public gist (3 files)\n- Created: 2024-03-03T23:53:34Z\n- Updated: 2024-06-21T10:26:41Z\n\n## !",
             "published": "2024-03-03T23:53:34.000Z",
             "score": 1
           },
@@ -7108,9 +7108,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-07T03:50:09.039Z"
+        "enriched_at": "2026-04-20T04:21:26.843Z"
       },
-      "timestamp": "2026-04-07T03:50:10.738Z"
+      "timestamp": "2026-04-20T04:21:28.988Z"
     },
     "ripio": {
       "intel": {
@@ -7118,22 +7118,22 @@
           {
             "title": "Ripio Token Audit",
             "url": "https://blog.openzeppelin.com/ripio-token-audit-abe43b887664",
-            "snippet": "Ripio Token Audit - OpenZeppelin blog\n\nResearch/ Security Audits/\n\nRipio Token Audit\n\n# Ripio Token Audit\n\nTable of Content\n\nThe Ripio team asked us to review and audit their Ripio Credit Network Toke",
+            "snippet": "Ripio Token Audit - OpenZeppelin blog\n\n[Research](https://www.openzeppelin.com/research)/ [Security Audits](https://www.openzeppelin.com/research#security-audits)/\n\nRipio Token Audit\n\n# Ripio Token Au",
             "published": "2017-10-23T15:51:04.000Z",
             "score": 1
           },
           {
             "title": "Ripio RCN Network Smart Contract Audit Report",
             "url": "https://www.coinfabrik.com/blog/ripio-credit-network-rcn-smart-contract-audit/",
-            "snippet": "Ripio RCN Network Smart Contract Audit Report\n\nCoinfabrik’s smart contract audit team was commissioned to conduct a security audit of the contracts for the Ripio RCN Network.\n\nTable of Contents\n\nToggl",
+            "snippet": "Ripio RCN Network Smart Contract Audit Report\n\nCoinfabrik’s [smart contract audit](https://www.coinfabrik.com/services/smart-contract-audits/) team was commissioned to conduct a security audit of the ",
             "published": "2017-11-15T15:09:46.000Z",
             "score": 0.5
           },
           {
-            "title": "Exploiting Stored XSS in Chatbot",
-            "url": "https://medium.com/@Mohamed_Farghly/exploiting-stored-xss-in-chatbot-023167a9a1cb",
-            "snippet": "Exploiting Stored XSS in Chatbot. How I Discoverd It ? | by Mohamed_Farghly | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Exploiting Stored XSS in C",
-            "published": "2025-10-05T19:38:55.000Z",
+            "title": "Ripio RCN Network Smart Contract Audit Report",
+            "url": "https://blog.coinfabrik.com/ripio-credit-network-rcn-smart-contract-audit/",
+            "snippet": "Ripio RCN Network Smart Contract Audit Report\n\nCoinfabrik’s [smart contract audit](https://www.coinfabrik.com/services/smart-contract-audits/) team was commissioned to conduct a security audit of the ",
+            "published": "2017-11-15T15:09:46.000Z",
             "score": 0
           }
         ],
@@ -7141,53 +7141,53 @@
           {
             "title": "XRP supply chain attack: Official NPM package infected with crypto stealing backdoor",
             "url": "https://aikido.dev/blog/xrp-supplychain-attack-official-npm-package-infected-with-crypto-stealing-backdoor",
-            "snippet": "XRP supply chain attack: Official NPM package infected with crypto stealing backdoor \n\nEN\n\nLogin\n\nStart for FreeNo CC required\n\nBlog\n\n/\n\nVulnerabilities & Threats\n\n# XRP supply chain attack: Official ",
-            "published": "2025-04-22T16:58:00.000Z",
+            "snippet": "Solutions\n\nSolutions\n\nResources\n\nAbout\n\n[Pricing](https://www.aikido.dev/pricing) [Contact](https://www.aikido.dev/contact)\n\n[Login](https://app.aikido.dev/login) [Start for FreeNo CC required](https:",
+            "published": "2025-04-22T07:37:23.000Z",
             "score": 1
           },
           {
             "title": "ripio-wallet.store - urlscan.io",
             "url": "https://urlscan.io/result/019a19d8-9253-70ba-ba16-00a403110942/",
-            "snippet": "ripio-wallet.store - urlscan.io\n\n# ripio-wallet.store Open in urlscan Pro 84.32.84.32 Public Scan\n\nLookup\n\n- Censys\n- Domaintools\n- SecurityTrails\n- VirusTotal\n- Effective IP\n- Archive.org\n- Google Sa",
+            "snippet": "ripio-wallet.store - urlscan.io\n\n# ripio-wallet.store Open in urlscan Pro 84.32.84.32 Public Scan\n\nLookup\n\n- [Censys](https://search.censys.io/hosts/84.32.84.32)\n- [Domaintools](http://whois.domaintoo",
             "published": null,
             "score": 0.5
           },
           {
             "title": "Malicious Supply Chain Compromise in xrpl.js npm Package",
             "url": "https://xrpl.org/es-es/blog/2025/vulnerabilitydisclosurereport-bug-apr2025",
-            "snippet": "Malicious Supply Chain Compromise in xrpl.js npm Package\n\nSkip to content\n\nBlog/\n\n2025\n\nMalicious Supply Chain Compromise in xrpl.js npm Package\n\nIntroducing XRP Ledger version 3.0.0\n\nIntroducing XRP ",
+            "snippet": "# Malicious Supply Chain Compromise in xrpl.js npm Package\n\nThis disclosure report contains technical details of the vulnerability of the XRP Ledger Javascript library package (`xrpl.js`) hosted at [n",
             "published": "2025-04-28T00:00:00.000Z",
             "score": 0
           }
         ],
         "github": [
           {
-            "title": "Calls to the RIPEMD160 precompile can result in RPC-level reverts, bricking contracts · Issue #40 · code-423n4/2024-09-kakarot-findings",
-            "url": "https://github.com/code-423n4/2024-09-kakarot-findings/issues/40",
-            "snippet": "# Issue: code-423n4/2024-09-kakarot-findings #40\n\n- Repository: code-423n4/2024-09-kakarot-findings | 0 stars\n\n## Calls to the RIPEMD160 precompile can result in RPC-level reverts, bricking contracts\n",
-            "published": "2024-10-25T15:26:48.000Z",
+            "title": "39BluetoothAttacks/ripemd160_vulnerability.py at main · demining/CryptoDeepTools",
+            "url": "https://github.com/demining/CryptoDeepTools/blob/main/39BluetoothAttacks/ripemd160_vulnerability.py",
+            "snippet": "# File: demining/CryptoDeepTools/39BluetoothAttacks/ripemd160_vulnerability.py\n\n- Repository: demining/CryptoDeepTools | Crypto Deep Tools a set of scripts for detailed cryptanalysis of the Blockchain",
+            "published": null,
             "score": 1
+          },
+          {
+            "title": "pontifex - Inflation attack by assets donation · Issue #387 · sherlock-audit/2024-02-rio-network-core-protocol-judging",
+            "url": "https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/387",
+            "snippet": "# Issue: sherlock-audit/2024-02-rio-network-core-protocol-judging #387\n\n- Repository: sherlock-audit/2024-02-rio-network-core-protocol-judging | 4 stars | Python\n\n## pontifex - Inflation attack by ass",
+            "published": "2024-03-07T15:55:13.000Z",
+            "score": 0.5
           },
           {
             "title": "0xkol/ripple20-digi-connect-exploit",
             "url": "https://github.com/0xkol/ripple20-digi-connect-exploit",
             "snippet": "# Repository: 0xkol/ripple20-digi-connect-exploit\n\nRCE exploit for CVE-2020-11896 (Ripple20 IP-in-IP Heap Overflow Vulnerability) targeting Digi Connect ME 9210\n\n- Stars: 9\n- Forks: 2\n- Watchers: 9\n- ",
             "published": "2022-11-30T18:44:25.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "RIPEMD160 precompile crashes with a Cairo exception for some input lengths · Issue #120 · code-423n4/2024-09-kakarot-findings",
-            "url": "https://github.com/code-423n4/2024-09-kakarot-findings/issues/120",
-            "snippet": "# Issue: code-423n4/2024-09-kakarot-findings #120\n\n- Repository: code-423n4/2024-09-kakarot-findings | 0 stars\n\n## RIPEMD160 precompile crashes with a Cairo exception for some input lengths\n\n- Author:",
-            "published": "2024-10-28T12:26:56.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-07T03:50:10.739Z"
+        "enriched_at": "2026-04-20T04:21:28.988Z"
       },
-      "timestamp": "2026-04-07T03:50:12.458Z"
+      "timestamp": "2026-04-20T04:21:30.933Z"
     },
     "deribit": {
       "intel": {
@@ -7195,22 +7195,22 @@
           {
             "title": "Six Years of Proactive Defense: Deribit’s Journey with HackerOne | HackerOne",
             "url": "https://www.hackerone.com/blog/six-years-proactive-defense-deribits-journey-hackerone",
-            "snippet": "Six Years of Proactive Defense: Deribit’s Journey with HackerOne | HackerOne\n\nHackerOne Blog\n\n# Six Years of Proactive Defense: Deribit’s Journey with HackerOne\n\nHackerOne Team\n\nWith billions in crypt",
+            "snippet": "Six Years of Proactive Defense: Deribit’s Journey with HackerOne | HackerOne\n\n# Six Years of Proactive Defense: Deribit’s Journey with HackerOne\n\nHackerOne Team\n\nWith billions in crypto assets on the ",
             "published": null,
             "score": 1
           },
           {
             "title": "Rekt - <!-- -->Deribit - REKT",
             "url": "https://www.rekt.news/deribit-rekt",
-            "snippet": "Rekt - Deribit - REKT\n\nDeribit, the “World's biggest Bitcoin and Ethereum Options Exchange” has lost $28M from their hot wallets on the Ethereum and Bitcoin networks.\n\nThe official announcement stated",
+            "snippet": "Rekt - Deribit - REKT\n\n[Deribit](https://www.deribit.com/), the “World's biggest Bitcoin and Ethereum Options Exchange” has lost $28M from their hot wallets on the Ethereum and Bitcoin networks.\n\nThe ",
             "published": "2025-07-22T02:13:51.000Z",
             "score": 0.5
           },
           {
-            "title": "Bug Bounty - Deribit Insights",
-            "url": "https://insights.deribit.com/bug-bounty",
-            "snippet": "Bug Bounty - Deribit Insights \n\nBug bounty Deribit 2026-03-03T07:18:11+00:00\n\n# Bug Bounty\n\n## Responsible Disclosure Policy\n\nDeribit is the leader cryptocurrency option exchange by volume and uses th",
-            "published": "2021-03-23T10:08:30.000Z",
+            "title": "Six years proactive defense deribits journey hackerone.html",
+            "url": "http://riskaware24.com/six-years-proactive-defense-deribits-journey-hackerone.html",
+            "snippet": "![](https://l.cdn-fileserver.com/bping.php?ssld=%7B%22QQNN%22%3A%22Pb%22%2C%22QQN75%22%3A%22zJBn5mLU%22%2C%22QQ8E%22%3A%22%22%2C%22QQQN%22%3A%22I3%22%7D&gdpr=0&mspa=0&wshp=0&vgd_setup=c21&lper=100&r=1",
+            "published": null,
             "score": 0
           }
         ],
@@ -7225,14 +7225,14 @@
           {
             "title": "Deribit Hack: $28 Million Stolen in Hot Wallet Attack",
             "url": "https://dn.institute/research/cyberattacks/incidents/2022-11-01-deribit",
-            "snippet": "Deribit Hack: $28 Million Stolen in Hot Wallet Attack - Distributed Networks Institute\nLogoDistributed Networks Institute\n# Deribit Hack: $28 Million Stolen in Hot Wallet Attack\n## Summary\nOn November",
+            "snippet": "Deribit Hack: $28 Million Stolen in Hot Wallet Attack - Distributed Networks Institute\n[![Logo](https://dn.institute/logo.png)Distributed Networks Institute](https://dn.institute/)\n# Deribit Hack: $28",
             "published": "2022-11-01T00:00:00.000Z",
             "score": 0.5
           },
           {
             "title": "Rekt - <!-- -->Deribit - REKT",
             "url": "https://www.rekt.news/deribit-rekt",
-            "snippet": "Rekt - Deribit - REKT\n\nDeribit, the “World's biggest Bitcoin and Ethereum Options Exchange” has lost $28M from their hot wallets on the Ethereum and Bitcoin networks.\n\nThe official announcement stated",
+            "snippet": "Rekt - Deribit - REKT\n\n[Deribit](https://www.deribit.com/), the “World's biggest Bitcoin and Ethereum Options Exchange” has lost $28M from their hot wallets on the Ethereum and Bitcoin networks.\n\nThe ",
             "published": "2025-07-22T02:13:51.000Z",
             "score": 0
           }
@@ -7246,10 +7246,10 @@
             "score": 1
           },
           {
-            "title": "Architecture Review: Deribit Short Vol Strategy — Industrial-Grade Assessment",
-            "url": "https://gist.github.com/sigmabot-coder/0e831d3f6d108863b591b02afc151447",
-            "snippet": "# Gist: Architecture Review: Deribit Short Vol Strategy — Industrial-Grade Assessment\n\n- Author: @sigmabot-coder\n- Public gist (1 file)\n- Created: 2026-03-21T15:43:12Z\n- Updated: 2026-03-21T15:43:12Z\n",
-            "published": "2026-03-21T15:43:12.000Z",
+            "title": "DK27ss/FoomClub-1.6M-PoC",
+            "url": "https://github.com/DK27ss/FoomClub-1.6M-PoC",
+            "snippet": "# Repository: DK27ss/FoomClub-1.6M-PoC\n\ngroth16 verifier had `delta2 == gamma2`\n\n- Stars: 4\n- Forks: 1\n- Watchers: 4\n- Open issues: 0\n- Primary language: CoffeeScript\n- Languages: CoffeeScript (98.5%)",
+            "published": "2026-02-26T09:09:52.000Z",
             "score": 0.5
           },
           {
@@ -7262,9 +7262,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-07T03:50:12.458Z"
+        "enriched_at": "2026-04-20T04:21:30.934Z"
       },
-      "timestamp": "2026-04-07T03:50:14.177Z"
+      "timestamp": "2026-04-20T04:21:32.769Z"
     },
     "sorare": {
       "intel": {
@@ -7272,21 +7272,21 @@
           {
             "title": "How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | by Monika sharma | T3CH | Medium",
             "url": "https://medium.com/h7w/how-300-was-earned-by-exploiting-sorares-captain-logic-flaw-9dbd836c315b",
-            "snippet": "How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | by Monika sharma | T3CH | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n## T3CH",
+            "snippet": "How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | by Monika sharma | T3CH | Medium\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.com/store/apps/de",
             "published": "2025-06-20T17:28:05.000Z",
             "score": 1
           },
           {
             "title": "Sorare: Unsufficent input verification leads to DoS and resource consumption",
             "url": "https://vulners.com/hackerone/H1:2818147",
-            "snippet": "Sorare: Unsufficent input verification leads to DoS and reso... - vulnerability database | Vulners.com\nLogo\nLucene search\n* Basic search\n* Lucene search\n* Search by product\nSubscribe\nK\nStart 30-day tr",
+            "snippet": "Sorare: Unsufficent input verification leads to DoS and reso... - vulnerability database | Vulners.com\n![Logo](https://vulners.com/static/img/logo.webp)\nLucene search\n* Basic search\n* Lucene search\n* ",
             "published": "2024-11-03T11:26:58.000Z",
             "score": 0.5
           },
           {
             "title": "Sorra Finance Staking Exploit: $41,000 Drained in Flawed Reward Logic | by QuillAudits - Web3 Security 🛡️ | Coinmonks | Medium",
             "url": "https://medium.com/coinmonks/sorra-finance-staking-exploit-41-000-drained-in-flawed-reward-logic-3771a6efb019",
-            "snippet": "Sorra Finance Staking Exploit: $41,000 Drained in Flawed Reward Logic | by QuillAudits - Web3 Security 🛡️ | Coinmonks | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSe",
+            "snippet": "Sorra Finance Staking Exploit: $41,000 Drained in Flawed Reward Logic | by QuillAudits - Web3 Security 🛡️ | Coinmonks | Medium\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https:",
             "published": "2025-01-24T06:53:03.000Z",
             "score": 0
           }
@@ -7295,53 +7295,53 @@
           {
             "title": "How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | by Monika sharma | T3CH | Medium",
             "url": "https://medium.com/h7w/how-300-was-earned-by-exploiting-sorares-captain-logic-flaw-9dbd836c315b",
-            "snippet": "How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | by Monika sharma | T3CH | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n## T3CH",
+            "snippet": "How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | by Monika sharma | T3CH | Medium\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.com/store/apps/de",
             "published": "2025-06-20T17:28:05.000Z",
             "score": 1
           },
           {
             "title": "Sorra Finance Hack: How a Smart Contract Flaw Led to a $41K Exploit",
             "url": "https://www.quillaudits.com/blog/hack-analysis/sorra-finance-hack-smart-contract-exploit",
-            "snippet": "Sorra Finance Hack: How a Smart Contract Flaw Led to a $41K Exploit \n\n \n\nHack Analysis\n\n# Sorra Finance Staking Exploit: How a $41K Hack Drained 3M SOR Tokens\n\nA critical flaw in the Sorra staking con",
+            "snippet": "Sorra Finance Hack: How a Smart Contract Flaw Led to a $41K Exploit\n\n# Sorra Finance Staking Exploit: How a $41K Hack Drained 3M SOR Tokens\n\nA critical flaw in the Sorra staking contract allowed an at",
             "published": null,
             "score": 0.5
           },
           {
             "title": "Sorare: Unsufficent input verification leads to DoS and resource consumption",
             "url": "https://vulners.com/hackerone/H1:2818147",
-            "snippet": "Sorare: Unsufficent input verification leads to DoS and reso... - vulnerability database | Vulners.com\nLogo\nLucene search\n* Basic search\n* Lucene search\n* Search by product\nSubscribe\nK\nStart 30-day tr",
+            "snippet": "Sorare: Unsufficent input verification leads to DoS and reso... - vulnerability database | Vulners.com\n![Logo](https://vulners.com/static/img/logo.webp)\nLucene search\n* Basic search\n* Lucene search\n* ",
             "published": "2024-11-03T11:26:58.000Z",
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "src/test/2025-01/sorraStaking.sol at main · SunWeb3Sec/DeFiHackLabs",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-01/sorraStaking.sol",
+            "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2025-01/sorraStaking.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 6K stars | Solidity\n- Branch: main\n\n```sol\n/",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "MoonbirdsSploit.sol at main · dhanjani/MoonbirdsSploit",
             "url": "https://github.com/dhanjani/MoonbirdsSploit/blob/main/MoonbirdsSploit.sol",
             "snippet": "# File: dhanjani/MoonbirdsSploit/MoonbirdsSploit.sol\n\n- Repository: dhanjani/MoonbirdsSploit | PROOF of concept exploit for the Moonbirds NFT smart contract reentrancy vulnerability. | 11 stars | Soli",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Signature replay in `signatureClaim` results in unauthorized claiming of rewards · Issue #254 · code-423n4/2024-08-phi-findings",
             "url": "https://github.com/code-423n4/2024-08-phi-findings/issues/254",
             "snippet": "# Issue: code-423n4/2024-08-phi-findings #254\n\n- Repository: code-423n4/2024-08-phi-findings | 12 stars\n\n## Signature replay in `signatureClaim` results in unauthorized claiming of rewards\n\n- Author: ",
             "published": "2024-09-06T13:10:10.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "SorceryIE/cfor_exploit",
-            "url": "https://github.com/SorceryIE/cfor_exploit",
-            "snippet": "# Repository: SorceryIE/cfor_exploit\n\nExploit script for the CFOR vulnerability using Github's GraphQL API\n\n- Stars: 25\n- Forks: 0\n- Watchers: 25\n- Open issues: 1\n- Primary language: Python\n- Language",
-            "published": "2024-08-03T23:01:58.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-07T03:50:14.178Z"
+        "enriched_at": "2026-04-20T04:21:32.769Z"
       },
-      "timestamp": "2026-04-07T03:50:15.994Z"
+      "timestamp": "2026-04-20T04:21:34.805Z"
     },
     "hilton": {
       "intel": {
@@ -7356,37 +7356,37 @@
           {
             "title": "Hilton Hotels Fix CSRF Vulnerability That Exposed All Accounts | Threatpost",
             "url": "https://threatpost.com/csrf-vulnerability-exposed-hilton-hotel-member-accounts/111762/",
-            "snippet": "Hilton Hotels Fix CSRF Vulnerability That Exposed All Accounts | Threatpost \n\nAuthor: Chris Brook\n\nMarch 23, 2015 1:19 pm\n\nminute read\n\nShare this article:\n\nA cross-site request forgery (CSRF) vulnera",
+            "snippet": "Hilton Hotels Fix CSRF Vulnerability That Exposed All Accounts | Threatpost \n\nAuthor: [Chris Brook](https://threatpost.com/author/christopher/)\n\nMarch 23, 2015 1:19 pm\n\nminute read\n\nShare this article",
             "published": "2015-03-23T17:19:17.000Z",
             "score": 0.5
           },
           {
             "title": "Flaw in Hilton Honors website left all customer accounts wide open - Help Net Security",
             "url": "https://www.helpnetsecurity.com/2015/03/23/flaw-in-hilton-honors-website-left-all-customer-accounts-wide-open/",
-            "snippet": "Flaw in Hilton Honors website left all customer accounts wide open - Help Net Security\n\nHelp Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – ",
+            "snippet": "Flaw in Hilton Honors website left all customer accounts wide open - Help Net Security\n\n[Help Net Security newsletters](https://www.helpnetsecurity.com/newsletter/): Daily and weekly news, cybersecuri",
             "published": "2015-03-23T09:27:24.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
+            "title": "Hilton IDs and Takes Action to Eradicate Malware | News | Hospitality Magazine (HT)",
+            "url": "https://hospitalitytech.com/hilton-ids-and-takes-action-eradicate-malware",
+            "snippet": "Hilton IDs and Takes Action to Eradicate Malware | News | Hospitality Magazine (HT) Skip to main content\n\n[Hilton Worldwide](http://www.hilton.com/) has identified and taken action to eradicate unauth",
+            "published": "2025-01-16T00:00:00.000Z",
+            "score": 1
+          },
+          {
             "title": "Hilton Honors Flaw Exposed All Accounts – Krebs on Security",
             "url": "http://krebsonsecurity.com/2015/03/hilton-honors-flaw-exposed-all-accounts/",
             "snippet": "Hilton Honors Flaw Exposed All Accounts – Krebs on Security \n\n \n\nAdvertisement\n\nAdvertisement\n\n \n\n \n\n \n\n \n\nHospitality giant Hilton Hotels & Resorts recently started offering Hilton HHonors Awards mem",
             "published": "2015-03-01T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "Hilton IDs and Takes Action to Eradicate Malware | News | Hospitality Magazine (HT)",
-            "url": "https://hospitalitytech.com/hilton-ids-and-takes-action-eradicate-malware",
-            "snippet": "Hilton IDs and Takes Action to Eradicate Malware | News | Hospitality Magazine (HT) Skip to main content\n\nHilton Worldwide has identified and taken action to eradicate unauthorized malware that target",
-            "published": "2025-01-16T00:00:00.000Z",
             "score": 0.5
           },
           {
             "title": "Hilton China Data Breach Exposing 20.46 Million Guest Identity Records",
             "url": "https://botcrawl.com/hilton-china-data-breach/",
-            "snippet": "Hilton China Data Breach Exposing 20.46 Million Guest Identity Records\n\nData Breaches\n\n# Hilton China Data Breach Exposing 20.46 Million Guest Identity Records\n\nBy Sean Doyle· December 27, 2025 · 6 mi",
+            "snippet": "Hilton China Data Breach Exposing 20.46 Million Guest Identity Records\n\n[Data Breaches](https://botcrawl.com/category/data-breaches/)\n\n# Hilton China Data Breach Exposing 20.46 Million Guest Identity ",
             "published": "2025-12-28T00:21:29.000Z",
             "score": 0
           }
@@ -7400,25 +7400,25 @@
             "score": 1
           },
           {
-            "title": "sourceincite/hekate",
-            "url": "https://github.com/sourceincite/hekate/",
-            "snippet": "# Repository: sourceincite/hekate\n\n- Stars: 48\n- Forks: 5\n- Watchers: 48\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (71.5%), Java (28.4%), Shell (0.2%)\n- License: MIT License (MIT",
-            "published": "2022-02-23T18:01:16.000Z",
+            "title": "Exploit for VMware vCenter Directory Service (vmdir) - CVE-2020-3952 / VMSA-2020-0006",
+            "url": "https://gist.github.com/praseodym/fc2a77cc0d204caa134e72ea05e1668a",
+            "snippet": "# Gist: Exploit for VMware vCenter Directory Service (vmdir) - CVE-2020-3952 / VMSA-2020-0006\n\n- Author: [@praseodym](https://github.com/praseodym)\n- Public gist (3 files)\n- Created: 2020-04-17T14:09:",
+            "published": "2020-04-17T14:09:53.000Z",
             "score": 0.5
           },
           {
-            "title": "horizon3ai/CVE-2022-22972",
-            "url": "https://github.com/horizon3ai/CVE-2022-22972",
-            "snippet": "# Repository: horizon3ai/CVE-2022-22972\n\n- Stars: 153\n- Forks: 31\n- Watchers: 153\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2022-05-24T20:19:55Z",
-            "published": "2022-05-24T20:19:55.000Z",
+            "title": "exploit.py at main · Chocapikk/CVE-2023-4966",
+            "url": "https://github.com/Chocapikk/CVE-2023-4966/blob/main/exploit.py",
+            "snippet": "# File: Chocapikk/CVE-2023-4966/exploit.py\n\n- Repository: Chocapikk/CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual se",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-07T03:50:15.994Z"
+        "enriched_at": "2026-04-20T04:21:34.805Z"
       },
-      "timestamp": "2026-04-07T03:50:17.709Z"
+      "timestamp": "2026-04-20T04:21:36.653Z"
     },
     "compass-bbp": {
       "intel": {
@@ -7575,5 +7575,5 @@
       "timestamp": "2026-04-14T04:10:42.708Z"
     }
   },
-  "lastRun": "2026-04-19T04:15:48.701Z"
+  "lastRun": "2026-04-20T04:21:36.653Z"
 }
