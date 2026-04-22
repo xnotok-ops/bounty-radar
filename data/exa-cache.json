@@ -5956,22 +5956,22 @@
           {
             "title": "Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program | HackerNoon",
             "url": "https://hackernoon.com/strengthening-cybersecurity-breaking-down-indrives-bug-bounty-program",
-            "snippet": "20,409 reads\n\n# Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program\n\nby\n\ninDrive.Tech\n\nbyinDrive.Tech@indrivetech\n\nTeam of inDrive developers who know how to experiment and learn f",
+            "snippet": "20,409 reads\n\n# Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program\n\nby\n\ninDrive.Tech\n\n[byinDrive.Tech@indrivetech](https://hackernoon.com/u/indrivetech)\n\nTeam of inDrive developer",
             "published": "2024-12-11T02:25:30.000Z",
             "score": 1
           },
           {
-            "title": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium",
-            "url": "https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047",
-            "snippet": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nMastodon\n\nMember-only story\n\n",
-            "published": "2024-10-14T19:32:07.000Z",
+            "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
+            "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
+            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm [System.Exit](https://www.instagram.com/regan_temudo/), and today we're unra",
+            "published": "2024-01-17T15:09:00.000Z",
             "score": 0.5
           },
           {
-            "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
-            "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
-            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm System.Exit, and today we're unraveling a recent bug bounty discovery by cyp",
-            "published": "2024-01-17T15:09:00.000Z",
+            "title": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium",
+            "url": "https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047",
+            "snippet": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.com/store/apps/details?id=com.medium.re",
+            "published": "2024-10-14T19:32:07.000Z",
             "score": 0
           }
         ],
@@ -5979,21 +5979,21 @@
           {
             "title": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium",
             "url": "https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047",
-            "snippet": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nMastodon\n\nMember-only story\n\n",
+            "snippet": "Phone Number Takeover via OTP Bypass in inDrive | by Regan Temudo | Medium\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.com/store/apps/details?id=com.medium.re",
             "published": "2024-10-14T19:32:07.000Z",
             "score": 1
           },
           {
             "title": "Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive | by Kareem Husein Abdelhameed | Medium",
             "url": "https://medium.com/@huseinabdo1974/sensitive-information-disclosure-via-publicly-accessible-user-ini-at-indrive-51b83f9a90f4",
-            "snippet": "Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive | by Kareem Husein Abdelhameed | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign",
+            "snippet": "Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive | by Kareem Husein Abdelhameed | Medium\n\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.goo",
             "published": "2025-12-30T19:56:18.000Z",
             "score": 0.5
           },
           {
             "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
             "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
-            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm System.Exit, and today we're unraveling a recent bug bounty discovery by cyp",
+            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm [System.Exit](https://www.instagram.com/regan_temudo/), and today we're unra",
             "published": "2024-01-17T15:09:00.000Z",
             "score": 0
           }
@@ -6002,7 +6002,7 @@
           {
             "title": "Remote Code Execution via Local File Inclusion and Log Poisoning · Advisory · InvoicePlane/InvoicePlane · GitHub",
             "url": "https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g6rw-m9mf-33ch",
-            "snippet": "Remote Code Execution via Local File Inclusion and Log Poisoning · Advisory · InvoicePlane/InvoicePlane · GitHub\n\n/ InvoicePlane Public\n\nStar 3k\n\n- Pricing\n- Notifications\n- Fork 859\n\n# Remote Code Ex",
+            "snippet": "Remote Code Execution via Local File Inclusion and Log Poisoning · Advisory · InvoicePlane/InvoicePlane · GitHub\n\n/ [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) Public\n\n[Star 3k](https",
             "published": null,
             "score": 1
           },
@@ -6023,9 +6023,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:34.234Z"
+        "enriched_at": "2026-04-22T04:08:55.145Z"
       },
-      "timestamp": "2026-04-14T04:10:35.909Z"
+      "timestamp": "2026-04-22T04:08:57.125Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -6040,7 +6040,7 @@
           {
             "title": "Amazon.com Stored XSS via Kindle Device Name",
             "url": "https://b.fl7.de/2014/08/amazon-stored-xss-kindle.html",
-            "snippet": "Amazon.com Stored XSS via Kindle Device Name – Benjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\nBenjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\nAmazon.com Stored XSS via Kindle Device Name feature ",
+            "snippet": "Amazon.com Stored XSS via Kindle Device Name – Benjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\n[Benjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)](https://b.fl7.de/)\n![Amazon.com Stored XSS via Kind",
             "published": "2014-08-01T00:00:00.000Z",
             "score": 0.5
           },
@@ -6056,14 +6056,14 @@
           {
             "title": "FireBounty Amazon Vulnerability Research Program Vulnerability Disclosure Program",
             "url": "https://firebounty.com/2872-amazon-vulnerability-research-program/",
-            "snippet": "FireBounty Amazon Vulnerability Research Program Vulnerability Disclosure Program\n\nName\n\n- Name\n- Rules\n- Scopes\n\nSearch\n\n176671 policies in database\n\nLink to program\n\n2020-04-22\n\n2020-04-24\n\nThank\n\nG",
+            "snippet": "FireBounty Amazon Vulnerability Research Program Vulnerability Disclosure Program\n\nName\n\n- Name\n- Rules\n- Scopes\n\nSearch\n\n176671 policies in database\n\n[Link to program](https://hackerone.com/amazonvrp",
             "published": null,
             "score": 1
           },
           {
             "title": "Bug Bounty Hunter",
             "url": "https://www.bugbountyhunter.com/program?id=amazonvrp-devices",
-            "snippet": "Amazon Vulnerability Research Program - Devices Bug Bounty Program Statistics | BugBountyHunter.com\n# BugBountyHunter\n\n**Access your account\n* Getting started\nLearn about vulnerability typesGetting st",
+            "snippet": "Amazon Vulnerability Research Program - Devices Bug Bounty Program Statistics | BugBountyHunter.com\n[# ![](https://www.bugbountyhunter.com/assets/img/newlogo.png)BugBountyHunter\n](https://www.bugbount",
             "published": null,
             "score": 0.5
           },
@@ -6084,25 +6084,25 @@
             "score": 1
           },
           {
-            "title": "tencentbladeteam/Exploit-Amazon-Echo",
-            "url": "https://github.com/tencentbladeteam/Exploit-Amazon-Echo",
-            "snippet": "# Repository: tencentbladeteam/Exploit-Amazon-Echo\n\nShellcode, reports of Amazon Echo, which we have presented on Defcon26\n\n- Stars: 39\n- Forks: 13\n- Watchers: 39\n- Open issues: 0\n- Primary language: ",
-            "published": "2018-08-12T21:39:05.000Z",
+            "title": "CVE-2018-11020.md at master · datadancer/HIAFuzz",
+            "url": "https://github.com/datadancer/HIAFuzz/blob/master/CVE-2018-11020.md",
+            "snippet": "# File: datadancer/HIAFuzz/CVE-2018-11020.md\n\n- Repository: datadancer/HIAFuzz | Hybrid Interface Aware Fuzz for Android Kernel Drivers | 31 stars | Python\n- Branch: master\n\n```md\n# CVE-2018-11020\nThe",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Pro-me3us/CVE_2022_46395_Raven",
-            "url": "https://github.com/Pro-me3us/CVE_2022_46395_Raven",
-            "snippet": "# Repository: Pro-me3us/CVE_2022_46395_Raven\n\nCVE-2022-46395 POC for FireTV 2nd gen Cube (raven)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default br",
-            "published": "2023-06-29T18:56:04.000Z",
+            "title": "CVE-2018-11021.md at master · datadancer/HIAFuzz",
+            "url": "https://github.com/datadancer/HIAFuzz/blob/master/CVE-2018-11021.md",
+            "snippet": "# File: datadancer/HIAFuzz/CVE-2018-11021.md\n\n- Repository: datadancer/HIAFuzz | Hybrid Interface Aware Fuzz for Android Kernel Drivers | 31 stars | Python\n- Branch: master\n\n```md\n# CVE-2018-11021\nThe",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:35.910Z"
+        "enriched_at": "2026-04-22T04:08:57.125Z"
       },
-      "timestamp": "2026-04-14T04:10:37.562Z"
+      "timestamp": "2026-04-22T04:08:59.420Z"
     },
     "rei_bbp": {
       "intel": {
@@ -6110,76 +6110,76 @@
           {
             "title": "A Leaky API at REI",
             "url": "https://medium.com/@ianmeyers/a-leaky-api-at-rei-a28e8460e722",
-            "snippet": "A Leaky API at REI. From time to time I will proxy traffic… | by Ian Meyers | Medium\nSitemap\nOpen in app\nSign up\nSign in\nMedium Logo\n\nWrite\n\n\nSearch\n\nSign up\nSign in\n\n# A Leaky API at REI\n\nIan Meyers\n",
+            "snippet": "A Leaky API at REI. From time to time I will proxy traffic… | by Ian Meyers | Medium\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n[Open in app](https://rsci.app.link/?$canonical_url=https://mediu",
             "published": "2019-02-08T05:45:24.000Z",
             "score": 1
           },
           {
             "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
             "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
-            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\nHackerOne Blog\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHa",
+            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHackerOne Team\n\nIs",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "How We Made Managing CSP Less Annoying | REI Co-op Engineering",
-            "url": "https://engineering.rei.com/security/making-csp-less-annoying.html",
-            "snippet": "How We Made Managing CSP Less Annoying | REI Co-op Engineering\n\nAt REI, the Cybersecurity Engineering teams constantly work hand in hand with our application and infrastructure teams. The outdoor anal",
-            "published": "2023-01-23T00:00:00.000Z",
+            "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
+            "url": "http://riskaware24.com/how-rei-strengthens-security-hackerones-global-security-researcher-community.html",
+            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\n[Customer Stories](http://riskaware24.com/customer-stories.html)\n\n# How REI Strengthens Security with Ha",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [
           {
-            "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
-            "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
-            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\nHackerOne Blog\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHa",
+            "title": "rei_bbp on HackerOne - Bug Bounty Scope | bbscope.com",
+            "url": "https://bbscope.com/program/h1/rei_bbp",
+            "snippet": "rei_bbp on HackerOne - Bug Bounty Scope | bbscope.com\n\n# rei_bbp\n\nHackerOne [View on HackerOne](https://hackerone.com/rei_bbp)\n\nRawAI Enhanced\n\n6\n\nIn Scope\n\n19\n\nOut of Scope\n\nIn-Scope Assets (6)\n\n| As",
             "published": null,
             "score": 1
           },
           {
-            "title": "A Leaky API at REI",
-            "url": "https://medium.com/@ianmeyers/a-leaky-api-at-rei-a28e8460e722",
-            "snippet": "A Leaky API at REI. From time to time I will proxy traffic… | by Ian Meyers | Medium\nSitemap\nOpen in app\nSign up\nSign in\nMedium Logo\n\nWrite\n\n\nSearch\n\nSign up\nSign in\n\n# A Leaky API at REI\n\nIan Meyers\n",
-            "published": "2019-02-08T05:45:24.000Z",
+            "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
+            "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
+            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHackerOne Team\n\nIs",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "How We Made Managing CSP Less Annoying | REI Co-op Engineering",
-            "url": "https://engineering.rei.com/security/making-csp-less-annoying.html",
-            "snippet": "How We Made Managing CSP Less Annoying | REI Co-op Engineering\n\nAt REI, the Cybersecurity Engineering teams constantly work hand in hand with our application and infrastructure teams. The outdoor anal",
-            "published": "2023-01-23T00:00:00.000Z",
+            "title": "A Leaky API at REI",
+            "url": "https://medium.com/@ianmeyers/a-leaky-api-at-rei-a28e8460e722",
+            "snippet": "A Leaky API at REI. From time to time I will proxy traffic… | by Ian Meyers | Medium\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n[Open in app](https://rsci.app.link/?$canonical_url=https://mediu",
+            "published": "2019-02-08T05:45:24.000Z",
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "byteReaper77/CVE-2025-7766",
+            "url": "https://github.com/byteReaper77/CVE-2025-7766",
+            "snippet": "# Repository: byteReaper77/CVE-2025-7766\n\nPoC exploit for CVE-2025-7766 – XXE vulnerability leading to potential RCE.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: C\n- Lang",
+            "published": "2025-07-23T18:57:46.000Z",
+            "score": 1
+          },
+          {
             "title": "byteReaper77/CVE-2025-8550",
             "url": "https://github.com/byteReaper77/CVE-2025-8550",
             "snippet": "# Repository: byteReaper77/CVE-2025-8550\n\nXSS exploit for CVE-2025-8550 in atjiu pybbs ≤6.0.0\n\n- Stars: 3\n- Forks: 1\n- Watchers: 3\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- License: MIT ",
             "published": "2025-08-05T19:31:11.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "CVE-2025-55182 React Server Components RCE POC",
             "url": "https://gist.github.com/maple3142/48bc9393f45e068cf8c90ab865c0f5f3",
-            "snippet": "# Gist: CVE-2025-55182 React Server Components RCE POC\n\n- Author: @maple3142\n- Public gist (2 files)\n- Created: 2025-12-04T21:02:48Z\n- Updated: 2026-03-22T18:14:02Z\n- Forks: 113\n\n## CVE-2025-55182.htt",
+            "snippet": "# Gist: CVE-2025-55182 React Server Components RCE POC\n\n- Author: [@maple3142](https://github.com/maple3142)\n- Public gist (2 files)\n- Created: 2025-12-04T21:02:48Z\n- Updated: 2026-03-22T18:14:02Z\n- F",
             "published": "2025-12-04T21:02:48.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "ff0cae0aa0d20965d502e7a97cbde3e3",
-            "url": "https://gist.github.com/joe-desimone/ff0cae0aa0d20965d502e7a97cbde3e3",
-            "snippet": "# Gist: CVE-2025-55182.py\n\n- Author: @joe-desimone\n- Private gist (1 file)\n- Created: 2025-12-04T23:17:08Z\n- Updated: 2026-03-14T08:18:01Z\n- Forks: 21\n\n## CVE-2025-55182.py\n\n```py\n#!/usr/bin/env pytho",
-            "published": "2025-12-04T23:17:08.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:37.562Z"
+        "enriched_at": "2026-04-22T04:08:59.421Z"
       },
-      "timestamp": "2026-04-14T04:10:39.241Z"
+      "timestamp": "2026-04-22T04:09:01.730Z"
     },
     "mergify": {
       "intel": {
@@ -6194,15 +6194,15 @@
           {
             "title": "(Un)signed commits: how we found a (non) security bug in GitHub",
             "url": "https://blog.mergify.com/un-signed-commits-how-we-found-a-non-security-bug-in-github/",
-            "snippet": "(Un)signed commits: how we found a (non) security bug in GitHub\n\nWhen you build an entire software around someone else API, you tend to know everything about it. We made Mergify on top of GitHub API, ",
+            "snippet": "(Un)signed commits: how we found a (non) security bug in GitHub\n\nWhen you build an entire software around someone else API, you tend to know everything about it. We made [Mergify](https://mergify.io/?",
             "published": "2021-03-29T07:20:00.000Z",
             "score": 0.5
           },
           {
-            "title": "Post Mortem of Incident 2024-09-17",
-            "url": "https://blog.mergify.com/post-mortem-of-incident-2024-09-17/",
-            "snippet": "Post Mortem of Incident 2024-09-17\n\nOn September 17th, 2024, Mergify service went down from 07:45 UTC to 09:35 UTC. Due to the nature of the incident, we think it would be interesting to share with ou",
-            "published": "2024-09-18T08:14:36.000Z",
+            "title": "(Un)signed commits: how we found a (non) security bug in GitHub",
+            "url": "https://articles.mergify.com/un-signed-commits-how-we-found-a-non-security-bug-in-github/",
+            "snippet": "(Un)signed commits: how we found a (non) security bug in GitHub\n\nWhen you build an entire software around someone else API, you tend to know everything about it. We made [Mergify](https://mergify.io/?",
+            "published": "2021-03-29T07:20:00.000Z",
             "score": 0
           }
         ],
@@ -6210,7 +6210,7 @@
           {
             "title": "Critical Malicious Code Vulnerability in mergify-browser-extension",
             "url": "https://vulert.com/vuln-db/npm-mergify-browser-extension-192103",
-            "snippet": "Critical Malicious Code Vulnerability in mergify-browser-extension\n\n# Critical Malicious Code Vulnerability in mergify-browser-extension\n\nAffected Package: mergify-browser-extension(Click to see all v",
+            "snippet": "Critical Malicious Code Vulnerability in mergify-browser-extension\n\n# Critical Malicious Code Vulnerability in mergify-browser-extension\n\nAffected Package: [mergify-browser-extension](https://vulert.c",
             "published": null,
             "score": 1
           },
@@ -6231,32 +6231,32 @@
         ],
         "github": [
           {
-            "title": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab",
-            "url": "https://securitylab.github.com/advisories/GHSL-2024-053_Hedy/",
-            "snippet": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27: R",
-            "published": "2024-05-14T00:00:00.000Z",
-            "score": 1
-          },
-          {
             "title": "[Critical] Active Exploitation of RCE (Miner + Backdoor) & please re-tag v1.10.1-fix.1 to ensure the image is updated. · Issue #29278 · langgenius/dify",
             "url": "https://github.com/langgenius/dify/issues/29278",
             "snippet": "# Issue: langgenius/dify #29278\n\n- Repository: langgenius/dify | Production-ready platform for agentic workflow development. | 136K stars | TypeScript\n\n## [Critical] Active Exploitation of RCE (Miner ",
             "published": "2025-12-08T08:39:45.000Z",
+            "score": 1
+          },
+          {
+            "title": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-053_Hedy/",
+            "snippet": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab \n\n- Resources\n- [Open Source Community](https://securitylab.github.com/open-source)\n- [Enterprise](https://securitylab.",
+            "published": "2024-05-14T00:00:00.000Z",
             "score": 0.5
           },
           {
             "title": "GHSL-2024-051: GitHub Actions expression injection in Misskey | GitHub Security Lab",
             "url": "https://securitylab.github.com/advisories/GHSL-2024-051_Misskey/",
-            "snippet": "GHSL-2024-051: GitHub Actions expression injection in Misskey | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-25",
+            "snippet": "GHSL-2024-051: GitHub Actions expression injection in Misskey | GitHub Security Lab \n\n- Resources\n- [Open Source Community](https://securitylab.github.com/open-source)\n- [Enterprise](https://securityl",
             "published": "2024-05-14T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:39.241Z"
+        "enriched_at": "2026-04-22T04:09:01.730Z"
       },
-      "timestamp": "2026-04-14T04:10:40.926Z"
+      "timestamp": "2026-04-22T04:09:04.063Z"
     },
     "coinhako": {
       "intel": {
@@ -6278,7 +6278,7 @@
           {
             "title": "Singaporean exchange Coinhako halts withdrawals following hack",
             "url": "https://coingeek.com/singaporean-exchange-coinhako-halts-withdrawals-following-hack/",
-            "snippet": "Singaporean exchange Coinhako halts withdrawals following hack \n\n \n\nBusiness\n\n# Singaporean exchange Coinhako halts withdrawals following hack\n\n28 February 2020\n\n1. Homepage\n2. >\n3. News\n4. >\n5. Busin",
+            "snippet": "Singaporean exchange Coinhako halts withdrawals following hack \n\n \n\n[Business](https://coingeek.com/news/category/business/)\n\n# Singaporean exchange Coinhako halts withdrawals following hack\n\n28 Febru",
             "published": "2025-09-10T00:00:00.000Z",
             "score": 0
           }
@@ -6301,7 +6301,7 @@
           {
             "title": "Singaporean exchange Coinhako halts withdrawals following hack",
             "url": "https://coingeek.com/singaporean-exchange-coinhako-halts-withdrawals-following-hack/",
-            "snippet": "Singaporean exchange Coinhako halts withdrawals following hack \n\n \n\nBusiness\n\n# Singaporean exchange Coinhako halts withdrawals following hack\n\n28 February 2020\n\n1. Homepage\n2. >\n3. News\n4. >\n5. Busin",
+            "snippet": "Singaporean exchange Coinhako halts withdrawals following hack \n\n \n\n[Business](https://coingeek.com/news/category/business/)\n\n# Singaporean exchange Coinhako halts withdrawals following hack\n\n28 Febru",
             "published": "2025-09-10T00:00:00.000Z",
             "score": 0
           }
@@ -6315,25 +6315,25 @@
             "score": 1
           },
           {
-            "title": "hakaioffsec/CVE-2026-25769",
-            "url": "https://github.com/hakaioffsec/CVE-2026-25769",
-            "snippet": "# Repository: hakaioffsec/CVE-2026-25769\n\nRemote Code Execution via Insecure Deserialization in Wazuh Cluster\n\n- Stars: 36\n- Forks: 8\n- Watchers: 36\n- Open issues: 0\n- Primary language: Python\n- Langu",
-            "published": "2026-02-11T18:29:02.000Z",
+            "title": "exploit.py at main · hakaioffsec/IngressNightmare-PoC",
+            "url": "https://github.com/hakaioffsec/IngressNightmare-PoC/blob/main/exploit.py",
+            "snippet": "# File: hakaioffsec/IngressNightmare-PoC/exploit.py\n\n- Repository: hakaioffsec/IngressNightmare-PoC | This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, ",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "exploit.py at main · Chocapikk/CVE-2024-5084",
-            "url": "https://github.com/Chocapikk/CVE-2024-5084/blob/main/exploit.py",
-            "snippet": "# File: Chocapikk/CVE-2024-5084/exploit.py\n\n- Repository: Chocapikk/CVE-2024-5084 | Hash Form – Drag & Drop Form Builder <= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution | 8 s",
-            "published": null,
+            "title": "hakaioffsec/CVE-2026-25769",
+            "url": "https://github.com/hakaioffsec/CVE-2026-25769",
+            "snippet": "# Repository: hakaioffsec/CVE-2026-25769\n\nRemote Code Execution via Insecure Deserialization in Wazuh Cluster\n\n- Stars: 39\n- Forks: 8\n- Watchers: 39\n- Open issues: 0\n- Primary language: Python\n- Langu",
+            "published": "2026-02-11T18:29:02.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:42.708Z"
+        "enriched_at": "2026-04-22T04:09:05.986Z"
       },
-      "timestamp": "2026-04-14T04:10:44.349Z"
+      "timestamp": "2026-04-22T04:09:07.852Z"
     },
     "arkose_labs": {
       "intel": {
@@ -6341,7 +6341,7 @@
           {
             "title": "Bug Bounty Programs Elevate SaaS Security | Arkose Labs",
             "url": "https://www.arkoselabs.com/blog/elevating-saas-security-strategic-role-bug-bounty-programs/",
-            "snippet": "Bug Bounty Programs Elevate SaaS Security | Arkose Labs \n\nAccount Security\n\n# Elevating SaaS Security: The Strategic Role of Bug Bounty Programs\n\nFor engineers and security professionals working withi",
+            "snippet": "Bug Bounty Programs Elevate SaaS Security | Arkose Labs \n\n[Account Security](https://www.arkoselabs.com/blog/category/account-security/)\n\n# Elevating SaaS Security: The Strategic Role of Bug Bounty Pr",
             "published": "2024-10-22T17:22:49.000Z",
             "score": 1
           },
@@ -6355,7 +6355,7 @@
           {
             "title": "Private Bug Bounty Program with Bugcrowd | Arkose Labs",
             "url": "https://www.arkoselabs.com/latest-news/arkose-labs-announces-private-bug-bounty-program-with-bugcrowd-to-strengthen-fraud-prevention-system/",
-            "snippet": "Private Bug Bounty Program with Bugcrowd | Arkose Labs\n\nPress Release\n\n# Arkose Labs Announces Private Bug Bounty Program with Bugcrowd to Strengthen Fraud Prevention System\n\nArkose Labs the leading p",
+            "snippet": "Private Bug Bounty Program with Bugcrowd | Arkose Labs\n\n[Press Release](https://www.arkoselabs.com/news-category/press-release/)\n\n# Arkose Labs Announces Private Bug Bounty Program with Bugcrowd to St",
             "published": "2019-07-24T19:52:50.000Z",
             "score": 0
           }
@@ -6373,13 +6373,6 @@
             "url": "https://www.businesswire.com/news/home/20251217521684/en/Arkose-Labs-Report-Reveals-Explosive-Growth-in-SMS-Toll-Fraud-and-Precision-Targeted-Attacks",
             "snippet": "Arkose Labs Report Reveals Explosive Growth in SMS Toll Fraud and Precision-Targeted Attacks\n\nDec 17, 2025 9:35 AM Eastern Standard Time\n\n# Arkose Labs Report Reveals Explosive Growth in SMS Toll Frau",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Credential Stuffing | Arkose Labs",
-            "url": "https://www.arkoselabs.com/solutions/credential-stuffing/",
-            "snippet": "Credential Stuffing | Arkose Labs \n\n# Credential Stuffing Solution\n\n## Eliminate the #1 ATO threat to your business.\n\nThose stolen credentials? Worthless against Arkose Labs defenses. We stop credenti",
-            "published": "2025-12-14T01:34:22.000Z",
             "score": 0
           }
         ],
@@ -6407,10 +6400,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:44.350Z"
+        "total_results": 8,
+        "enriched_at": "2026-04-22T04:09:07.852Z"
       },
-      "timestamp": "2026-04-14T04:10:45.996Z"
+      "timestamp": "2026-04-22T04:09:09.773Z"
     },
     "alsco": {
       "intel": {
@@ -6441,7 +6434,7 @@
           {
             "title": "Alsco Security Rating, Vendor Risk Report, and Data Breaches",
             "url": "https://www.upguard.com/security-report/alsco",
-            "snippet": "Alsco Security Rating, Vendor Risk Report, and Data Breaches -- --\n\nStop manual bottlenecks. Start your machine-speed defense | Join UpGuard Summit on March 3 & 5Register now\n\n##### Last updated today",
+            "snippet": "Alsco Security Rating, Vendor Risk Report, and Data Breaches -- --\n\n[Stop manual bottlenecks. Start your machine-speed defense | Join UpGuard Summit on March 3 & 5Register now](https://www.upguard.com",
             "published": null,
             "score": 1
           },
@@ -6462,63 +6455,63 @@
         ],
         "github": [
           {
+            "title": "[Snyk] Fix for 1 vulnerabilities · Pull Request #477 · aliscco/alisco-node",
+            "url": "https://github.com/aliscco/alisco-node/pull/477",
+            "snippet": "# Pull Request: aliscco/alisco-node #477\n\n- Repository: aliscco/alisco-node | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 0 stars\n\n## [Snyk] Fix for 1 vulnerabilities\n\n- Author: ",
+            "published": "2023-06-21T20:01:52.000Z",
+            "score": 1
+          },
+          {
             "title": "[Snyk] Fix for 1 vulnerabilities · Pull Request #508 · aliscco/alisco-node",
             "url": "https://github.com/aliscco/alisco-node/pull/508",
             "snippet": "# Pull Request: aliscco/alisco-node #508\n\n- Repository: aliscco/alisco-node | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 0 stars\n\n## [Snyk] Fix for 1 vulnerabilities\n\n- Author: ",
             "published": "2023-06-22T05:05:34.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "[Snyk] Fix for 2 vulnerabilities · Pull Request #1632 · aliscco/alisco-node",
             "url": "https://github.com/aliscco/alisco-node/pull/1632",
             "snippet": "# Pull Request: aliscco/alisco-node #1632\n\n- Repository: aliscco/alisco-node | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 0 stars\n\n## [Snyk] Fix for 2 vulnerabilities\n\n- Author:",
             "published": "2024-05-22T15:56:50.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "[Snyk] Fix for 6 vulnerabilities · Pull Request #1050 · aliscco/alisco-node",
-            "url": "https://github.com/aliscco/alisco-node/pull/1050",
-            "snippet": "# Pull Request: aliscco/alisco-node #1050\n\n- Repository: aliscco/alisco-node | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 0 stars\n\n## [Snyk] Fix for 6 vulnerabilities\n\n- Author:",
-            "published": "2023-12-02T07:06:38.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:45.996Z"
+        "enriched_at": "2026-04-22T04:09:09.773Z"
       },
-      "timestamp": "2026-04-14T04:10:47.585Z"
+      "timestamp": "2026-04-22T04:09:11.447Z"
     },
     "dynamic_labs": {
       "intel": {
         "writeups": [
           {
+            "title": "Reflective Writeup— Dynamic LINQ Injection — CrewCTF 2025 | by Dracula | Medium",
+            "url": "https://medium.com/@dracula1337/reflective-dynamic-linq-injection-crewctf-2025-321f656dab02",
+            "snippet": "Reflective Writeup— Dynamic LINQ Injection — CrewCTF 2025 | by Dracula | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Reflective Writeup— Dynamic LINQ Injection — CrewCTF 2025\n\n4 min read\n\nSep 22, 2025\n\n--\n\nS",
+            "published": "2025-09-22T01:11:41.000Z",
+            "score": 1
+          },
+          {
             "title": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab",
             "url": "https://securitylab.github.com/advisories/GHSL-2024-055_DuckDB/",
-            "snippet": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27:",
+            "snippet": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab \n\n- Resources\n- [Open Source Community](https://securitylab.github.com/open-source)\n- [Enterprise](https://securityla",
             "published": "2024-05-14T00:00:00.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab",
             "url": "https://securitylab.github.com/advisories/GHSL-2024-145_Discord_js/",
-            "snippet": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-07-02: Is",
+            "snippet": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab \n\n- Resources\n- [Open Source Community](https://securitylab.github.com/open-source)\n- [Enterprise](https://securitylab.g",
             "published": "2024-07-17T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI",
-            "url": "https://hiddenlayer.com/sai-security-advisory/2024-09-cleanlab/",
-            "snippet": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI (function () { const params = new URLSearchParams(window.location.search); for (const key of params.keys()) { if (key.endsWith('_page')) {",
-            "published": null,
             "score": 0
           }
         ],
         "twitter": [
           {
             "title": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI",
-            "url": "https://hiddenlayer.com/sai-security-advisory/2024-09-cleanlab/",
-            "snippet": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI (function () { const params = new URLSearchParams(window.location.search); for (const key of params.keys()) { if (key.endsWith('_page')) {",
+            "url": "https://www.hiddenlayer.com/sai-security-advisory/2024-09-cleanlab",
+            "snippet": "Cleanlab Vulnerability Report | HiddenLayer | Security for AI\n\nSAI Security Advisory\n\n# Unsafe deserialization in Datalab leads to arbitrary code execution\n\nSeptember 12, 2024\n\n## Products Impacted\n\nT",
             "published": null,
             "score": 1
           },
@@ -6530,10 +6523,10 @@
             "score": 0.5
           },
           {
-            "title": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab",
-            "url": "https://securitylab.github.com/advisories/GHSL-2024-055_DuckDB/",
-            "snippet": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27:",
-            "published": "2024-05-14T00:00:00.000Z",
+            "title": "GHSL-2024-281: Actions expression injection in Ant-design-web3 | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-281_Ant-design-web3/",
+            "snippet": "GHSL-2024-281: Actions expression injection in Ant-design-web3 | GitHub Security Lab\n\n- Resources\n- [Open Source Community](https://securitylab.github.com/open-source)\n- [Enterprise](https://securityl",
+            "published": "2025-04-22T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -6541,30 +6534,30 @@
           {
             "title": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab",
             "url": "https://securitylab.github.com/advisories/GHSL-2024-055_DuckDB/",
-            "snippet": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27:",
+            "snippet": "GHSL-2024-055: GitHub Actions expression injection in DuckDB | GitHub Security Lab \n\n- Resources\n- [Open Source Community](https://securitylab.github.com/open-source)\n- [Enterprise](https://securityla",
             "published": "2024-05-14T00:00:00.000Z",
             "score": 1
           },
           {
             "title": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab",
             "url": "https://securitylab.github.com/advisories/GHSL-2024-145_Discord_js/",
-            "snippet": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-07-02: Is",
+            "snippet": "GHSL-2024-145: Actions expression injection in Discord.js | GitHub Security Lab \n\n- Resources\n- [Open Source Community](https://securitylab.github.com/open-source)\n- [Enterprise](https://securitylab.g",
             "published": "2024-07-17T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab",
-            "url": "https://securitylab.github.com/advisories/GHSL-2024-053_Hedy/",
-            "snippet": "GHSL-2024-053: GitHub Actions expression injection in Hedy | GitHub Security Lab \n\n- Resources\n- Open Source Community\n- Enterprise\n\n/ Security Lab\n\n## Coordinated Disclosure Timeline\n\n- 2024-03-27: R",
-            "published": "2024-05-14T00:00:00.000Z",
+            "title": "GHSL-2024-281: Actions expression injection in Ant-design-web3 | GitHub Security Lab",
+            "url": "https://securitylab.github.com/advisories/GHSL-2024-281_Ant-design-web3/",
+            "snippet": "GHSL-2024-281: Actions expression injection in Ant-design-web3 | GitHub Security Lab\n\n- Resources\n- [Open Source Community](https://securitylab.github.com/open-source)\n- [Enterprise](https://securityl",
+            "published": "2025-04-22T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:47.585Z"
+        "enriched_at": "2026-04-22T04:09:11.447Z"
       },
-      "timestamp": "2026-04-14T04:10:49.211Z"
+      "timestamp": "2026-04-22T04:09:13.181Z"
     },
     "modern_treasury": {
       "intel": {
@@ -6572,14 +6565,14 @@
           {
             "title": "Network Security at Modern Treasury",
             "url": "https://www.moderntreasury.com/journal/network-security-at-modern-treasury",
-            "snippet": "Network Security at Modern Treasury\n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nJournal\n\n•March 10, 2022\n\n# Network Security at Modern Treasur",
+            "snippet": "Network Security at Modern Treasury\n\nJoin our tech talk April 23: Compliance That Doesn't Slow You Down. [Register →](https://www.moderntreasury.com/events/compliance-without-slowdown)\n\n•March 10, 202",
             "published": null,
             "score": 1
           },
           {
             "title": "Behind The Scenes: How Modern Treasury Ensures Payment Security",
             "url": "https://www.moderntreasury.com/journal/how-modern-treasury-ensures-payment-security",
-            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nJournal\n\n•January 17, 2024\n\n# Behi",
+            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nJoin our tech talk April 23: Compliance That Doesn't Slow You Down. [Register →](https://www.moderntreasury.com/events/compliance-witho",
             "published": null,
             "score": 0.5
           },
@@ -6595,21 +6588,21 @@
           {
             "title": "Network Security at Modern Treasury",
             "url": "https://www.moderntreasury.com/journal/network-security-at-modern-treasury",
-            "snippet": "Network Security at Modern Treasury\n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nJournal\n\n•March 10, 2022\n\n# Network Security at Modern Treasur",
+            "snippet": "Network Security at Modern Treasury\n\nJoin our tech talk April 23: Compliance That Doesn't Slow You Down. [Register →](https://www.moderntreasury.com/events/compliance-without-slowdown)\n\n•March 10, 202",
             "published": null,
             "score": 1
           },
           {
             "title": "Behind The Scenes: How Modern Treasury Ensures Payment Security",
             "url": "https://www.moderntreasury.com/journal/how-modern-treasury-ensures-payment-security",
-            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nJournal\n\n•January 17, 2024\n\n# Behi",
+            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nJoin our tech talk April 23: Compliance That Doesn't Slow You Down. [Register →](https://www.moderntreasury.com/events/compliance-witho",
             "published": null,
             "score": 0.5
           },
           {
             "title": "Security Policy | Modern Treasury",
             "url": "https://www.moderntreasury.com/legal/security-policy",
-            "snippet": "Security Policy | Modern Treasury\n\n \n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. Learn more →\n\nLegal Center•January 28, 2025\n\n# Security Policy\n\nEncryption ",
+            "snippet": "Security Policy | Modern Treasury\n\n \n\nIntroducing Modern Treasury Payments. Built to move money across fiat and stablecoins. [Learn more →](https://www.moderntreasury.com/newsroom/press-releases/moder",
             "published": null,
             "score": 0
           }
@@ -6617,7 +6610,7 @@
         "github": [
           {
             "title": "Modern-Treasury/modern-treasury-python",
-            "url": "https://github.com/Modern-Treasury/modern-treasury-python",
+            "url": "https://github.com/modern-treasury/modern-treasury-python",
             "snippet": "# Repository: Modern-Treasury/modern-treasury-python\n\nPython library for the Modern Treasury API\n\n- Stars: 46\n- Forks: 4\n- Watchers: 46\n- Open issues: 2\n- Primary language: Python\n- Languages: Python ",
             "published": "2022-08-04T18:40:26.000Z",
             "score": 1
@@ -6627,21 +6620,14 @@
             "url": "https://github.com/Modern-Treasury/modern-treasury-ruby",
             "snippet": "# Repository: Modern-Treasury/modern-treasury-ruby\n\nRuby library for the Modern Treasury API.\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 1\n- Primary language: Ruby\n- Languages: Ruby (99.8%), ",
             "published": "2024-04-23T22:13:07.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Overview · Modern-Treasury/modern-treasury-python · GitHub",
-            "url": "https://github.com/Modern-Treasury/modern-treasury-python/security",
-            "snippet": "Overview · Modern-Treasury/modern-treasury-python · GitHub\n\n## Security\n\n### SECURITY.md\n\n# Security Policy\n\n## Reporting Security Issues\n\nThis SDK is generated by Stainless Software Inc. Stainless ta",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:49.212Z"
+        "total_results": 8,
+        "enriched_at": "2026-04-22T04:09:13.181Z"
       },
-      "timestamp": "2026-04-14T04:10:50.941Z"
+      "timestamp": "2026-04-22T04:09:15.159Z"
     },
     "notion": {
       "intel": {
@@ -7496,14 +7482,14 @@
           {
             "title": "Exploit PoC released for Zabbix Server SQL injection vulnerability – CVE-2024-22120 – HACKHUNTING",
             "url": "https://hackhunting.com/2024/05/21/exploit-poc-released-for-zabbix-server-sql-injection-vulnerability-cve-2024-22120/",
-            "snippet": "Exploit PoC released for Zabbix Server SQL injection vulnerability – CVE-2024-22120 – HACKHUNTING\n* X\n* LinkedIn\n* RSS Feed\n* Facebook\n* WhatsApp\n* Telegram\nSearch\nHACKHUNTING\nNews,PoCs,vulnerabilitie",
+            "snippet": "Exploit PoC released for Zabbix Server SQL injection vulnerability – CVE-2024-22120 – HACKHUNTING\n* [X](https://x.com/hackhunting)\n* [LinkedIn](https://linkedin.com/company/hackhunting)\n* [RSS Feed](h",
             "published": "2024-05-21T10:13:11.000Z",
             "score": 0.5
           },
           {
             "title": "Loading...",
             "url": "https://support.zabbix.com/browse/ZBX-12075",
-            "snippet": "Loading...\n\nCookie Notice/Disclaimer\n\n### Details\n\nType: Sub-task\n\nResolution: Fixed\n\nPriority: Trivial\n\nFix Version/s: 2.0.21rc1, 2.2.18rc1, 3.0.9rc1, 3.2.5rc1, 3.4.0alpha1\n\nAffects Version/s: None\n\n",
+            "snippet": "Loading...\n\n[Cookie Notice/Disclaimer](https://www.zabbix.com/cookie_policy#cookie_disclaimer)\n\n### Details\n\nType: Sub-task\n\nResolution: Fixed\n\nPriority: Trivial\n\nFix Version/s: [2.0.21rc1](https://su",
             "published": null,
             "score": 0
           }
@@ -7519,47 +7505,47 @@
           {
             "title": "Loading...",
             "url": "https://support.zabbix.com/browse/ZBX-25016",
-            "snippet": "### Details\n\nType: Defect (Security)\n\nResolution: Fixed\n\nPriority: Critical\n\nFix Version/s: 6.4.16rc1, 7.0.0rc3\n\nAffects Version/s: 6.4.15, 7.0.0rc2\n\nLabels:\n\nNone\n\n### Description\n\n| Mitre ID | CVE-2",
+            "snippet": "### Details\n\nType: Defect (Security)\n\nResolution: Fixed\n\nPriority: Critical\n\nFix Version/s: [6.4.16rc1](https://support.zabbix.com/issues/?jql=project+%3D+ZBX+AND+fixVersion+%3D+6.4.16rc1), [7.0.0rc3]",
             "published": null,
             "score": 0.5
           },
           {
             "title": "Loading...",
             "url": "https://support.zabbix.com/browse/ZBX-26254",
-            "snippet": "Loading...\n\n### Details\n\nType: Defect (Security)\n\nResolution: Fixed\n\nPriority: Major\n\nFix Version/s: 6.0.37rc1, 6.4.21rc1, 7.0.7rc1, 7.2.0rc1\n\nAffects Version/s: None\n\nLabels:\n\nNone\n\n### Description\n\n",
+            "snippet": "Loading...\n\n### Details\n\nType: Defect (Security)\n\nResolution: Fixed\n\nPriority: Major\n\nFix Version/s: [6.0.37rc1](https://support.zabbix.com/issues/?jql=project+%3D+ZBX+AND+fixVersion+%3D+6.0.37rc1), [",
             "published": null,
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "CVE-2016-4338/exploit_zabbix_SQLi-latest.php.py at master · nixawk/labs",
+            "url": "https://github.com/nixawk/labs/blob/master/CVE-2016-4338/exploit_zabbix_SQLi-latest.php.py",
+            "snippet": "# File: nixawk/labs/CVE-2016-4338/exploit_zabbix_SQLi-latest.php.py\n\n- Repository: nixawk/labs | Vulnerability Labs for security analysis | 1K stars | Python\n- Branch: master\n\n```py\n#!/usr/bin/python\n",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "labs/CVE-2016-4338 at master · nixawk/labs · GitHub",
             "url": "https://github.com/nixawk/labs/tree/master/CVE-2016-4338",
-            "snippet": "## Files\n\n# CVE-2016-4338\n\n# CVE-2016-4338\n\nTop\n\nLast commit message\n\nLast commit date\n\nView all files\n\nlabs/CVE-2016-4338 at master · nixawk/labs · GitHub\nSkip to content\n## Navigation Menu\nToggle na",
+            "snippet": "## Files\n\n# CVE-2016-4338\n\n# CVE-2016-4338\n\nTop\n\nLast commit message\n\nLast commit date\n\nView all files\n\nlabs/CVE-2016-4338 at master · nixawk/labs · GitHub\n[Skip to content](#start-of-content)\n## Navi",
             "published": "2016-12-15T05:07:39.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "paalbra/zabbix-zbxsec-7",
             "url": "https://github.com/paalbra/zabbix-zbxsec-7",
             "snippet": "# Repository: paalbra/zabbix-zbxsec-7\n\n- Stars: 4\n- Forks: 2\n- Watchers: 4\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: master\n- Created: 2021-03-04T10:53:04Z\n- La",
             "published": "2021-03-04T10:53:04.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "watchdog1337/CVE-2024-42327_Zabbix_SQLI",
-            "url": "https://github.com/watchdog1337/CVE-2024-42327_Zabbix_SQLI",
-            "snippet": "# Repository: watchdog1337/CVE-2024-42327_Zabbix_SQLI\n\nPOC for CVE-2024-42327, an authenticated SQL Injection in Zabbix through the user.get API Method\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issu",
-            "published": "2024-12-07T21:25:40.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-14T04:10:40.927Z"
+        "enriched_at": "2026-04-22T04:09:04.063Z"
       },
-      "timestamp": "2026-04-14T04:10:42.708Z"
+      "timestamp": "2026-04-22T04:09:05.986Z"
     }
   },
-  "lastRun": "2026-04-21T04:13:11.213Z"
+  "lastRun": "2026-04-22T04:09:15.159Z"
 }
