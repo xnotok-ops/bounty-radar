@@ -2197,10 +2197,10 @@
             "score": 0.5
           },
           {
-            "title": "bWanShiTong/reverse-engineering-whoop-post",
-            "url": "https://github.com/bWanShiTong/reverse-engineering-whoop-post",
-            "snippet": "# Repository: bWanShiTong/reverse-engineering-whoop-post\n\n- Stars: 172\n- Forks: 9\n- Watchers: 172\n- Open issues: 3\n- Default branch: master\n- Created: 2024-06-09T14:05:48Z\n- Last push: 2024-06-17T18:4",
-            "published": "2024-06-09T14:05:48.000Z",
+            "title": "WHOOP Security Rating, Vendor Risk Report, and Data Breaches | UpGuard",
+            "url": "https://www.upguard.com/security-report/whoop",
+            "snippet": "WHOOP Security Rating, Vendor Risk Report, and Data Breaches | UpGuard\n\n#### WHOOP Security Rating\n\n807 / 950\n\nWHOOP's security rating is based on the analysis of their external attack surface. The hi",
+            "published": null,
             "score": 0
           }
         ],
@@ -2229,9 +2229,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-24T04:18:26.359Z"
+        "enriched_at": "2026-05-01T04:51:15.692Z"
       },
-      "timestamp": "2026-04-24T04:18:28.664Z"
+      "timestamp": "2026-05-01T04:51:18.025Z"
     },
     "hubspot": {
       "intel": {
@@ -2290,25 +2290,25 @@
             "score": 1
           },
           {
-            "title": "Arbitrary Java Execution via JinJava Bypass through ForTag · Advisory · HubSpot/jinjava · GitHub",
-            "url": "https://github.com/HubSpot/jinjava/security/advisories/GHSA-gjx9-j8f8-7j74",
-            "snippet": "Arbitrary Java Execution via JinJava Bypass through ForTag · Advisory · HubSpot/jinjava · GitHub\n\n/ jinjava Public\n\nStar 772\n\n- Pricing\n- Notifications\n- Fork 173\n\n# Arbitrary Java Execution via JinJa",
-            "published": null,
-            "score": 0.5
-          },
-          {
             "title": "28072f7eea42571d5b4ebaabdcb21cce",
             "url": "https://gist.github.com/0xDBJ/28072f7eea42571d5b4ebaabdcb21cce",
             "snippet": "# Gist: CVE-2023-37749-hubspot-access-control.md\n\n- Author: [@0xDBJ](https://github.com/0xDBJ)\n- Public gist (1 file)\n- Created: 2025-10-21T23:35:31Z\n- Updated: 2025-10-21T23:35:31Z\n\n## CVE-2023-37749",
             "published": "2025-10-21T23:35:31.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Arbitrary Java Execution via JinJava Bypass through ForTag · Advisory · HubSpot/jinjava · GitHub",
+            "url": "https://github.com/HubSpot/jinjava/security/advisories/GHSA-gjx9-j8f8-7j74",
+            "snippet": "Arbitrary Java Execution via JinJava Bypass through ForTag · Advisory · HubSpot/jinjava · GitHub\n\n# Arbitrary Java Execution via JinJava Bypass through ForTag\n\nCritical\n\npublished GHSA-gjx9-j8f8-7j74 ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-24T04:18:28.664Z"
+        "enriched_at": "2026-05-01T04:51:18.025Z"
       },
-      "timestamp": "2026-04-24T04:18:30.475Z"
+      "timestamp": "2026-05-01T04:51:19.596Z"
     },
     "oppo_bbp": {
       "intel": {
@@ -2344,125 +2344,125 @@
             "score": 1
           },
           {
-            "title": "OPPO Store app Vulnerability Let Attackers hijack Account Token",
-            "url": "https://cyberpress.org/oppo-store-app-vulnerability/",
-            "snippet": "OPPO Store app Vulnerability Let Attackers hijack Account Token \n\n \n\n \n\n \n\n \n\nSign in Join\n\n \n\n- Home\n- Cyber Attack\n- Threats\n- Cyber AI\n- Data Breach\n- Vulnerability\n\n \n\n \n\nSign in\n\n \n\nWelcome!Log i",
-            "published": "2024-12-18T07:53:20.000Z",
+            "title": "CVE-2026-22077: Vulnerability in OPPO OPPO Wallet APP - Live Threat Intelligence - Threat Radar | OffSeq.com",
+            "url": "https://radar.offseq.com/threat/cve-2026-22077-vulnerability-in-oppo-oppo-wallet-a-27737c6e",
+            "snippet": "CVE-2026-22077: Vulnerability in OPPO OPPO Wallet APP - Live Threat Intelligence - Threat Radar | OffSeq.com\n\nReconnecting to live updates…\n\n# CVE-2026-22077: Vulnerability in OPPO OPPO Wallet APP\n\nSe",
+            "published": "2026-04-27T06:37:05.000Z",
             "score": 0.5
           },
           {
-            "title": "CVE-2025-27387<!-- --> | Tenable®",
-            "url": "https://www.tenable.com/cve/CVE-2025-27387",
-            "snippet": "CVE-2025-27387 | Tenable®\n\n###### Detections\n\n- Release Notes\n- Indicators of Exposure\n- Indicators of Attack\n- Search\n- Overview\n- Indicators\n- Download All Audit Files\n- Documentation\n- Authorities\n",
-            "published": "2025-12-21T13:13:08.000Z",
+            "title": "OPPO Store app Vulnerability Let Attackers hijack Account Token",
+            "url": "https://cyberpress.org/oppo-store-app-vulnerability/",
+            "snippet": "OPPO Store app Vulnerability Let Attackers hijack Account Token\n\nSign in Join\n\nSign in\n\nWelcome!Log into your account\n\nyour username\n\nyour password\n\nForgot your password?\n\nCreate an account\n\nSign up\n\n",
+            "published": "2024-12-18T07:53:20.000Z",
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "GitHub - oddbyte/CVE-2024-31317 at 1.0.0 · GitHub",
+            "url": "https://github.com/oddbyte/CVE-2024-31317/tree/1.0.0",
+            "snippet": "GitHub - oddbyte/CVE-2024-31317 at 1.0.0 · GitHub\n\n1.0.0\n\nGo to file\n\nCode\n\nLast commit message\n\nLast commit date\n\nView all files\n\n| Name | Name |\n| --- | --- |\n\n## Repository files navigation\n\n# CVE-",
+            "published": "2025-01-14T05:34:52.000Z",
+            "score": 1
+          },
+          {
+            "title": "mobilehackinglab/CVE-2026-0006-openapv-poc",
+            "url": "https://github.com/mobilehackinglab/CVE-2026-0006-openapv-poc",
+            "snippet": "# Repository: mobilehackinglab/CVE-2026-0006-openapv-poc\n\nCVE-2026-0006: Heap buffer overflow PoC for libopenapv (Android APV codec) - CVSS 9.8\n\n- Stars: 2\n- Forks: 2\n- Watchers: 0\n- Open issues: 0\n- ",
+            "published": "2026-04-18T20:05:22.000Z",
+            "score": 0.5
+          },
+          {
             "title": "yuuouu/ColorOS-CVE-2025-10184",
             "url": "https://github.com/yuuouu/ColorOS-CVE-2025-10184",
             "snippet": "# Repository: yuuouu/ColorOS-CVE-2025-10184\n\nColorOS短信漏洞，以及用户自救方案\n\n- Stars: 389\n- Forks: 42\n- Watchers: 389\n- Open issues: 5\n- Primary language: Java\n- Languages: Java (84.4%), Kotlin (15.6%)\n- Defaul",
             "published": "2025-09-24T11:48:03.000Z",
-            "score": 1
-          },
-          {
-            "title": "backdoor.py at master · bkerler/oppo_decrypt",
-            "url": "https://github.com/bkerler/oppo_decrypt/blob/master/backdoor.py",
-            "snippet": "# File: bkerler/oppo_decrypt/backdoor.py\n\n- Repository: bkerler/oppo_decrypt | Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter | 661 stars | Python\n- Branch: master\n\n```py\nfrom __future__ ",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "People-11/CVE-2025-10184_PoC",
-            "url": "https://github.com/People-11/CVE-2025-10184_PoC",
-            "snippet": "# Repository: People-11/CVE-2025-10184_PoC\n\n- Stars: 52\n- Forks: 12\n- Watchers: 52\n- Open issues: 0\n- Primary language: Java\n- Languages: Java\n- Default branch: main\n- Created: 2025-09-24T09:24:45Z\n- ",
-            "published": "2025-09-24T09:24:45.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-24T04:18:30.476Z"
+        "enriched_at": "2026-05-01T04:51:19.597Z"
       },
-      "timestamp": "2026-04-24T04:18:32.242Z"
+      "timestamp": "2026-05-01T04:51:21.155Z"
     },
     "1password_ctf": {
       "intel": {
         "writeups": [
           {
+            "title": "1Password CLI Adds Risk – manchicken here…",
+            "url": "https://manchicken.com/2026/02/17/1password-cli-adds-risk/",
+            "snippet": "1Password CLI Adds Risk – manchicken here…\n\nThe contents of this post can be found here: https://codeberg.org/manchicken/1password-cli-vuln-disclosure, including the full POC.\n\nIn October of 2023, I r",
+            "published": "2026-02-17T00:00:00.000Z",
+            "score": 1
+          },
+          {
             "title": "CSRF Token Leak in LastPass Website Client - ahmsec",
             "url": "http://ahmsec.github.io/blog/2019/01/12/csrf-token-leak-in-lastpass-website-client/",
             "snippet": "CSRF Token Leak in LastPass Website Client - ahmsec\n\nHere is a bug I reported to LastPass, copied below with some edits. They shipped a fix within 4 business days and paid out a $1k bounty.\n\nOne takea",
             "published": "2019-01-12T00:00:00.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Recovering the Master Password from a Locked Password Manager (1Password 4)",
             "url": "https://blog.securityevaluators.com/recovering-the-master-password-from-a-locked-password-manager-1password-4-5d32cd569907",
             "snippet": "Recovering the Master Password from a Locked Password Manager (1Password 4) | by Adrian Bednarek | Independent Security Evaluators\n[Open in app](https://rsci.app.link/?$canonical_url=https://medium.co",
             "published": "2019-02-20T04:13:50.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "August 2024 security update | 1Password",
-            "url": "https://1password.com/blog/august-2024-security-update",
-            "snippet": "August 2024 security update | 1Password\n\nby Pedro Canahuati\n\nAugust 10, 2024 - 5 min\n\n## Related Categories\n\n- Security\n\nAt 1Password, we’re committed to transparency about our security practices and ",
-            "published": "2024-08-10T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
+            "title": "morganc3/1password-exploits",
+            "url": "https://github.com/morganc3/1password-exploits",
+            "snippet": "# Repository: morganc3/1password-exploits\n\n- Stars: 12\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Objective-C\n- Languages: Objective-C (45.3%), HTML (33.1%), Roff (9.9%), Rich Text ",
+            "published": "2024-07-12T19:25:38.000Z",
+            "score": 1
+          },
+          {
             "title": "CVE-2024-42219: 1Password Information Disclosure Flaw",
             "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42219/",
             "snippet": "CVE-2024-42219: 1Password Information Disclosure Flaw\n\nCVE-2024-42219: 1Password Information Disclosure Flaw\n![](https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt66fc75f4e71745ac/6883a7",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "CVE-2024-42218: 1Password Auth Bypass Vulnerability",
             "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-42218/",
             "snippet": "CVE-2024-42218: 1Password Auth Bypass Vulnerability\n\nCVE-2024-42218: 1Password Auth Bypass Vulnerability\n![](https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt66fc75f4e71745ac/6883a70e13",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2024-42219 for 1Password 8 for Mac | 1Password Support",
-            "url": "https://support.1password.com/kb/202408a/",
-            "snippet": "CVE-2024-42219 for 1Password 8 for Mac | 1Password Support\n\n## Summary\n\nAn issue has been identified in 1Password for Mac that affects the app’s platform security protections. This issue enables a mal",
-            "published": null,
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "morganc3/1password-exploits",
+            "url": "https://github.com/morganc3/1password-exploits",
+            "snippet": "# Repository: morganc3/1password-exploits\n\n- Stars: 12\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Objective-C\n- Languages: Objective-C (45.3%), HTML (33.1%), Roff (9.9%), Rich Text ",
+            "published": "2024-07-12T19:25:38.000Z",
+            "score": 1
+          },
+          {
             "title": "itsecgary/1Password-Authenticator",
             "url": "https://github.com/itsecgary/1Password-Authenticator",
             "snippet": "# Repository: itsecgary/1Password-Authenticator\n\nA JavaScript utility script for authenticating to 1password in order to perform API testing\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Pri",
             "published": "2023-04-29T20:19:09.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "djhohnstein/1PasswordSuite",
             "url": "https://github.com/djhohnstein/1PasswordSuite",
             "snippet": "# Repository: djhohnstein/1PasswordSuite\n\nUtilities to extract secrets from 1Password\n\n- Stars: 109\n- Forks: 15\n- Watchers: 109\n- Open issues: 0\n- Primary language: C\n- Languages: C (91.2%), C# (5.9%)",
             "published": "2021-08-13T18:33:15.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "kiwimato/1password_cracking",
-            "url": "https://github.com/kiwimato/1password_cracking",
-            "snippet": "# Repository: kiwimato/1password_cracking\n\nThe writeup for the 1Password cracking challenge\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2019-01-12T19:24:0",
-            "published": "2019-01-12T19:24:03.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-24T04:18:32.242Z"
+        "enriched_at": "2026-05-01T04:51:21.155Z"
       },
-      "timestamp": "2026-04-24T04:18:34.585Z"
+      "timestamp": "2026-05-01T04:51:22.793Z"
     },
     "1password": {
       "intel": {
@@ -2505,41 +2505,41 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2024-42219 for 1Password 8 for Mac | 1Password Support",
-            "url": "https://support.1password.com/kb/202408a/",
-            "snippet": "CVE-2024-42219 for 1Password 8 for Mac | 1Password Support\n\n## Summary\n\nAn issue has been identified in 1Password for Mac that affects the app’s platform security protections. This issue enables a mal",
-            "published": null,
+            "title": "1Password detects “suspicious activity” in its internal Okta account - Ars Technica",
+            "url": "https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/",
+            "snippet": "1Password detects “suspicious activity” in its internal Okta account - Ars Technica\n\nText settings\n\nStory text\n\nSize Small Standard Large Width * Standard Wide Links Standard Orange\n\n* Subscribers onl",
+            "published": "2023-10-23T20:56:49.000Z",
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "morganc3/1password-exploits",
+            "url": "https://github.com/morganc3/1password-exploits",
+            "snippet": "# Repository: morganc3/1password-exploits\n\n- Stars: 12\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Objective-C\n- Languages: Objective-C (45.3%), HTML (33.1%), Roff (9.9%), Rich Text ",
+            "published": "2024-07-12T19:25:38.000Z",
+            "score": 1
+          },
+          {
             "title": "djhohnstein/1PasswordSuite",
             "url": "https://github.com/djhohnstein/1PasswordSuite",
             "snippet": "# Repository: djhohnstein/1PasswordSuite\n\nUtilities to extract secrets from 1Password\n\n- Stars: 109\n- Forks: 15\n- Watchers: 109\n- Open issues: 0\n- Primary language: C\n- Languages: C (91.2%), C# (5.9%)",
             "published": "2021-08-13T18:33:15.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "feat(rules): Add 1Password secret key detection (#1834) · 23cb69f · gitleaks/gitleaks",
             "url": "https://github.com/gitleaks/gitleaks/commit/23cb69fba4338a486e1aac8f898bd0d4ea298995",
             "snippet": "# Commit: gitleaks/gitleaks@23cb69f\n\n- Repository: gitleaks/gitleaks | Find secrets with Gitleaks 🔑 | 26K stars | Go\n\n## feat(rules): Add 1Password secret key detection (#1834)\n\n- Author: [@jrdnbradf",
             "published": "2025-04-30T14:30:58.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "vdohney/keepass-password-dumper",
-            "url": "https://github.com/vdohney/keepass-password-dumper",
-            "snippet": "# Repository: vdohney/keepass-password-dumper\n\nOriginal PoC for CVE-2023-32784\n\n- Stars: 650\n- Forks: 60\n- Watchers: 650\n- Open issues: 3\n- Primary language: C#\n- Languages: C#\n- License: MIT License ",
-            "published": "2023-05-01T17:08:55.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-24T04:18:34.585Z"
+        "enriched_at": "2026-05-01T04:51:22.793Z"
       },
-      "timestamp": "2026-04-24T04:18:36.442Z"
+      "timestamp": "2026-05-01T04:51:24.395Z"
     },
     "bcny": {
       "intel": {
@@ -2552,17 +2552,17 @@
             "score": 1
           },
           {
-            "title": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
-            "url": "https://tracxn.com/d/companies/the-browser-company/__0leJsMtc50Qt1Mm923LXA7Wis3S2MUKxrijY166Awi0",
-            "snippet": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn\n\nYour browser was unable to load all of Tracxn resources. They may have been blocked by your firewall, proxy or browser",
-            "published": "2021-08-17T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "The Browser Company - Company Profile",
             "url": "https://boringbusinessnerd.com/startups/the-browser-company",
             "snippet": "The Browser Company - Company Profile\n\nHome> Startups Database>\n\nThe Browser Company\n\n# The Browser Company\n\nBuilding a better way to use the Internet, starting with a browser.\n\n## About\n\n### Founded\n",
             "published": "2022-10-23T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+            "url": "https://tracxn.com/d/companies/the-browser-company/__0leJsMtc50Qt1Mm923LXA7Wis3S2MUKxrijY166Awi0",
+            "snippet": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn\n\nYour browser was unable to load all of Tracxn resources. They may have been blocked by your firewall, proxy or browser",
+            "published": "2021-08-17T12:25:54.000Z",
             "score": 0
           }
         ],
@@ -2578,14 +2578,14 @@
             "title": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
             "url": "https://tracxn.com/d/companies/the-browser-company/__0leJsMtc50Qt1Mm923LXA7Wis3S2MUKxrijY166Awi0",
             "snippet": "The Browser Company - 2026 Company Profile, Team, Funding & Competitors - Tracxn\n\nYour browser was unable to load all of Tracxn resources. They may have been blocked by your firewall, proxy or browser",
-            "published": "2021-08-17T00:00:00.000Z",
+            "published": "2021-08-17T12:25:54.000Z",
             "score": 0.5
           },
           {
             "title": "The Browser Company - Products, Competitors, Financials, Employees, Headquarters Locations",
             "url": "https://www.cbinsights.com/company/the-browser-company",
             "snippet": "The Browser Company - Products, Competitors, Financials, Employees, Headquarters Locations\n\n## Founded Year\n\n2019\n\n## Stage\n\nAcquired | Acquired\n\n## Total Raised\n\n$103M\n\n## Valuation\n\n$0000 View\n\n## A",
-            "published": "2025-09-04T18:02:42.000Z",
+            "published": "2025-09-04T10:04:14.000Z",
             "score": 0
           }
         ],
@@ -2602,29 +2602,22 @@
             "url": "https://github.com/openclaw/openclaw/issues/7768",
             "snippet": "# Issue: openclaw/openclaw #7768\n\n- Repository: openclaw/openclaw | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | 357K stars | TypeScript\n\n## [Bug]: Unauthenticated brows",
             "published": "2026-02-03T05:54:29.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "symphony2colour/htb-browsed-rce",
-            "url": "https://github.com/symphony2colour/htb-browsed-rce",
-            "snippet": "# Repository: symphony2colour/htb-browsed-rce\n\nThis repo contains RCE exploit for Browsed htb machine\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Pyth",
-            "published": "2026-01-13T14:12:39.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-04-24T04:18:36.442Z"
+        "total_results": 8,
+        "enriched_at": "2026-05-01T04:51:24.395Z"
       },
-      "timestamp": "2026-04-24T04:18:38.173Z"
+      "timestamp": "2026-05-01T04:51:26.053Z"
     },
     "verily_life_sciences": {
       "intel": {
         "writeups": [
           {
-            "title": "Whistleblower Files Suit Against Verily Alleging Widespread Patient Data Breach",
+            "title": "Whistleblower Sues Verily Over Patient Data Breach",
             "url": "https://techresearchonline.com/news/verily-patient-data-breach/",
-            "snippet": "Whistleblower Sues Verily Over Patient Data Breach\n[Skip to content](#content)\n[![Header Logo](https://techresearchonline.com/wp-content/uploads/2024/05/header-logo.svg)](https://techresearchonline.co",
+            "snippet": "Whistleblower Sues Verily Over Patient Data Breach\n\nHome> News>\n\nWhistleblower Files Suit Against Verily Alleging...\n\nPublished on\n\n5 min read\n\n# Whistleblower Files Suit Against Verily Alleging Wides",
             "published": "2025-09-11T16:52:54.000Z",
             "score": 1
           },
@@ -2645,9 +2638,9 @@
         ],
         "twitter": [
           {
-            "title": "Whistleblower Files Suit Against Verily Alleging Widespread Patient Data Breach",
+            "title": "Whistleblower Sues Verily Over Patient Data Breach",
             "url": "https://techresearchonline.com/news/verily-patient-data-breach/",
-            "snippet": "Whistleblower Sues Verily Over Patient Data Breach\n[Skip to content](#content)\n[![Header Logo](https://techresearchonline.com/wp-content/uploads/2024/05/header-logo.svg)](https://techresearchonline.co",
+            "snippet": "Whistleblower Sues Verily Over Patient Data Breach\n\nHome> News>\n\nWhistleblower Files Suit Against Verily Alleging...\n\nPublished on\n\n5 min read\n\n# Whistleblower Files Suit Against Verily Alleging Wides",
             "published": "2025-09-11T16:52:54.000Z",
             "score": 1
           },
@@ -2677,16 +2670,16 @@
           {
             "title": "huseyinstif/CVE-2026-2441-PoC",
             "url": "https://github.com/huseyinstif/CVE-2026-2441-PoC",
-            "snippet": "# Repository: huseyinstif/CVE-2026-2441-PoC\n\n- Stars: 122\n- Forks: 21\n- Watchers: 122\n- Open issues: 1\n- Primary language: HTML\n- Languages: HTML\n- Default branch: main\n- Created: 2026-02-18T11:46:40Z",
+            "snippet": "# Repository: huseyinstif/CVE-2026-2441-PoC\n\n- Stars: 123\n- Forks: 21\n- Watchers: 0\n- Open issues: 1\n- Primary language: HTML\n- Languages: HTML\n- Default branch: main\n- Created: 2026-02-18T11:46:40Z\n-",
             "published": "2026-02-18T11:46:40.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-04-24T04:18:38.173Z"
+        "enriched_at": "2026-05-01T04:51:26.053Z"
       },
-      "timestamp": "2026-04-24T04:18:39.940Z"
+      "timestamp": "2026-05-01T04:51:28.179Z"
     },
     "neon_bbp": {
       "intel": {
@@ -2761,9 +2754,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-24T04:18:39.940Z"
+        "enriched_at": "2026-05-01T04:51:28.179Z"
       },
-      "timestamp": "2026-04-24T04:18:41.544Z"
+      "timestamp": "2026-05-01T04:51:30.007Z"
     },
     "bumba_bbp": {
       "intel": {
@@ -2799,32 +2792,32 @@
             "score": 1
           },
           {
-            "title": "CVE-2026-25505 Security Vulnerability & Exploit Details",
-            "url": "https://cve.akaoma.com/cve-2026-25505",
-            "snippet": "CVE-2026-25505 Security Vulnerability & Exploit Details\n\n# CVE-2026-25505 Vulnerability Analysis & Exploit Details\n\n## CVE-2026-25505 Vulnerability Scoring\n\n9.8\n\n/10\n\nCritical Risk\n\nAs a catastrophic ",
-            "published": "2026-02-04T20:16:07.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Jumbo Website Manager  - Remote Code Execution - Multiple webapps Exploit",
             "url": "https://www.exploit-db.com/exploits/52504",
             "snippet": "Jumbo Website Manager - Remote Code Execution - Multiple webapps Exploit\n\n# Jumbo Website Manager - Remote Code Execution\n\n#### EDB-ID:\n\n###### 52504\n\n#### CVE:\n\n###### N/A\n\n---\n\nEDB Verified:\n\n#### A",
             "published": "2026-04-09T05:02:31.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2026-25505 Security Vulnerability & Exploit Details",
+            "url": "https://cve.akaoma.com/cve-2026-25505",
+            "snippet": "CVE-2026-25505 Security Vulnerability & Exploit Details\n\n# CVE-2026-25505 Vulnerability Analysis & Exploit Details\n\n## CVE-2026-25505 Vulnerability Scoring\n\n9.8\n\n/10\n\nCritical Risk\n\nAs a catastrophic ",
+            "published": "2026-02-04T20:16:07.000Z",
             "score": 0
           }
         ],
         "github": [
           {
-            "title": "SumatraPDF_CVE-2026-25961_PoC.py at main · mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE",
-            "url": "https://github.com/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE/blob/main/SumatraPDF_CVE-2026-25961_PoC.py",
-            "snippet": "# File: mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE/SumatraPDF_CVE-2026-25961_PoC.py\n\n- Repository: mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE | SumatraPDF versions 3.5.0 to 3.5.2",
+            "title": "blueshrimp.py at main · zhuowei/blueshrimp",
+            "url": "https://github.com/zhuowei/blueshrimp/blob/main/blueshrimp.py",
+            "snippet": "# File: zhuowei/blueshrimp/blueshrimp.py\n\n- Repository: zhuowei/blueshrimp | Proof-of-concept for CVE-2025-48593 | 51 stars | Python\n- Branch: main\n\n```py\nimport asyncio\nimport struct\n\nimport bumble.l",
             "published": null,
             "score": 1
           },
           {
-            "title": "blueshrimp.py at main · zhuowei/blueshrimp",
-            "url": "https://github.com/zhuowei/blueshrimp/blob/main/blueshrimp.py",
-            "snippet": "# File: zhuowei/blueshrimp/blueshrimp.py\n\n- Repository: zhuowei/blueshrimp | Proof-of-concept for CVE-2025-48593 | 51 stars | Python\n- Branch: main\n\n```py\nimport asyncio\nimport struct\n\nimport bumble.l",
+            "title": "SumatraPDF_CVE-2026-25961_PoC.py at main · mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE",
+            "url": "https://github.com/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE/blob/main/SumatraPDF_CVE-2026-25961_PoC.py",
+            "snippet": "# File: mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE/SumatraPDF_CVE-2026-25961_PoC.py\n\n- Repository: mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE | SumatraPDF versions 3.5.0 to 3.5.2",
             "published": null,
             "score": 0.5
           },
@@ -2838,9 +2831,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-24T04:18:41.544Z"
+        "enriched_at": "2026-05-01T04:51:30.008Z"
       },
-      "timestamp": "2026-04-24T04:18:43.301Z"
+      "timestamp": "2026-05-01T04:51:31.911Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -2915,9 +2908,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-24T04:18:43.302Z"
+        "enriched_at": "2026-05-01T04:51:31.911Z"
       },
-      "timestamp": "2026-04-24T04:18:44.919Z"
+      "timestamp": "2026-05-01T04:51:33.472Z"
     },
     "starbucks_china": {
       "intel": {
@@ -7582,5 +7575,5 @@
       "timestamp": "2026-04-29T04:31:09.570Z"
     }
   },
-  "lastRun": "2026-04-30T04:33:42.482Z"
+  "lastRun": "2026-05-01T04:51:33.472Z"
 }
