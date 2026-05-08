@@ -5821,17 +5821,17 @@
             "score": 1
           },
           {
+            "title": "Vulnerability Disclosure Policy | Frontegg",
+            "url": "https://frontegg.com/vulnerability-disclosure-policy",
+            "snippet": "Vulnerability Disclosure Policy | Frontegg\n\nVulnerability Disclosure Policy | Frontegg\n**\n![Frontegg](https://frontegg.com/wp-content/uploads/2023/07/logo-white-2.svg)\n* [\nAgen.co enables organization",
+            "published": "2023-12-14T11:46:21.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Host header injection to open redirect and cache poisoning on Hackerone target(frontegg)",
             "url": "https://jeetpal2007.medium.com/host-header-injection-to-open-redirect-and-cache-poisoning-on-hackerone-target-frontegg-b90b169fd256",
             "snippet": "Host header injection to open redirect and cache poisoning on Hackerone target(frontegg) - JEETPAL - Medium\n[Sitemap](https://jeetpal2007.medium.com/sitemap/sitemap.xml)\n[Open in app](https://rsci.app",
             "published": "2024-01-10T07:45:28.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Critical Malicious Code Vulnerability in Frontegg Angular Sanity Check Package",
-            "url": "https://vulert.com/vuln-db/npm-frontegg-angular-sanity-check-192431",
-            "snippet": "Critical Malicious Code Vulnerability in Frontegg Angular Sanity Check Package\n\n# Critical Malicious Code Vulnerability in Frontegg Angular Sanity Check Package\n\nAffected Package: frontegg-angular-san",
-            "published": null,
             "score": 0
           }
         ],
@@ -5844,16 +5844,16 @@
             "score": 1
           },
           {
-            "title": "Malicious Code Detected in Frontegg-Nuxt-Example Package",
-            "url": "https://vulert.com/vuln-db/npm-frontegg-nuxt-example-192647",
-            "snippet": "Malicious Code Detected in Frontegg-Nuxt-Example Package\n\n# Malicious Code Detected in Frontegg-Nuxt-Example Package\n\nAffected Package: frontegg-nuxt-example(Click to see all vulnerabilities of this p",
-            "published": null,
+            "title": "Vulnerability Disclosure Policy | Frontegg",
+            "url": "https://frontegg.com/vulnerability-disclosure-policy",
+            "snippet": "Vulnerability Disclosure Policy | Frontegg\n\nVulnerability Disclosure Policy | Frontegg\n**\n![Frontegg](https://frontegg.com/wp-content/uploads/2023/07/logo-white-2.svg)\n* [\nAgen.co enables organization",
+            "published": "2023-12-14T11:46:21.000Z",
             "score": 0.5
           },
           {
-            "title": "Critical Malicious Code Vulnerability in Frontegg Angular Sanity Check Package",
-            "url": "https://vulert.com/vuln-db/npm-frontegg-angular-sanity-check-192431",
-            "snippet": "Critical Malicious Code Vulnerability in Frontegg Angular Sanity Check Package\n\n# Critical Malicious Code Vulnerability in Frontegg Angular Sanity Check Package\n\nAffected Package: frontegg-angular-san",
+            "title": "Malicious Code Detected in Frontegg-Nuxt-Example Package",
+            "url": "https://vulert.com/vuln-db/npm-frontegg-nuxt-example-192647",
+            "snippet": "Malicious Code Detected in Frontegg-Nuxt-Example Package\n\n# Malicious Code Detected in Frontegg-Nuxt-Example Package\n\nAffected Package: frontegg-nuxt-example(Click to see all vulnerabilities of this p",
             "published": null,
             "score": 0
           }
@@ -5883,9 +5883,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-28T04:35:14.549Z"
+        "enriched_at": "2026-05-08T04:17:05.168Z"
       },
-      "timestamp": "2026-04-28T04:35:16.233Z"
+      "timestamp": "2026-05-08T04:17:06.984Z"
     },
     "indrive": {
       "intel": {
@@ -5960,9 +5960,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-29T04:31:00.819Z"
+        "enriched_at": "2026-05-08T04:17:06.984Z"
       },
-      "timestamp": "2026-04-29T04:31:02.619Z"
+      "timestamp": "2026-05-08T04:17:08.940Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -5975,17 +5975,17 @@
             "score": 1
           },
           {
+            "title": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium",
+            "url": "https://medium.com/@baronyogev/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08",
+            "snippet": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card",
+            "published": "2021-01-21T09:31:12.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Advisory: Amazon Echo Rooting",
             "url": "https://labs.reversec.com/advisories/2017/08/amazon-echo-rooting",
             "snippet": "Advisory: Amazon Echo Rooting\n\n# Amazon Echo Rooting\n\n- Published: 1 Aug 2017\n\n# Amazon Echo Rooting\n\nShare\n\nType\n\n- Hardware\n\nSeverity\n\n- Medium\n\nAffected products\n\n- Amazon Echo\n\nCVE Reference\n\n- N/",
             "published": "2017-08-01T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Amazon.com Stored XSS via Kindle Device Name",
-            "url": "https://b.fl7.de/2014/08/amazon-stored-xss-kindle.html",
-            "snippet": "Amazon.com Stored XSS via Kindle Device Name – Benjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)\n[Benjamin Daniel Mussler's InfoSec Blog (B.FL7.DE)](https://b.fl7.de/)\n![Amazon.com Stored XSS via Kind",
-            "published": "2014-08-01T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5993,7 +5993,7 @@
           {
             "title": "FireBounty Amazon Vulnerability Research Program Vulnerability Disclosure Program",
             "url": "https://firebounty.com/2872-amazon-vulnerability-research-program/",
-            "snippet": "FireBounty Amazon Vulnerability Research Program Vulnerability Disclosure Program\n\nName\n\n- Name\n- Rules\n- Scopes\n\nSearch\n\n176671 policies in database\n\nLink to program\n\n2020-04-22\n\n2020-04-24\n\nThank\n\nG",
+            "snippet": "FireBounty Amazon Vulnerability Research Program Vulnerability Disclosure Program\n\nName\n\n- Name\n- Rules\n- Scopes\n\nSearch\n\n176671 policies in database\n\n2020-04-22\n\n2020-04-24\n\nThank\n\nGift\n\nHOF\n\nReward\n",
             "published": null,
             "score": 1
           },
@@ -6028,18 +6028,18 @@
             "score": 0.5
           },
           {
-            "title": "Pro-me3us/CVE_2022_46395_Gazelle",
-            "url": "https://github.com/Pro-me3us/CVE%5F2022%5F46395%5FGazelle",
-            "snippet": "# Repository: Pro-me3us/CVE_2022_46395_Gazelle\n\nCVE-2022-46395 POC for FireTV 3rd gen Cube (gazelle)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Defaul",
-            "published": "2023-06-29T18:54:27.000Z",
+            "title": "Pro-me3us/CVE_2022_46395_Raven",
+            "url": "https://github.com/Pro-me3us/CVE_2022_46395_Raven",
+            "snippet": "# Repository: Pro-me3us/CVE_2022_46395_Raven\n\nCVE-2022-46395 POC for FireTV 2nd gen Cube (raven)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default br",
+            "published": "2023-06-29T18:56:04.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-29T04:31:02.619Z"
+        "enriched_at": "2026-05-08T04:17:08.941Z"
       },
-      "timestamp": "2026-04-29T04:31:04.311Z"
+      "timestamp": "2026-05-08T04:17:10.786Z"
     },
     "rei_bbp": {
       "intel": {
@@ -6075,17 +6075,17 @@
             "score": 1
           },
           {
-            "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
-            "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
-            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHackerOne Team\n\nIs",
-            "published": null,
-            "score": 0.5
-          },
-          {
             "title": "A Leaky API at REI",
             "url": "https://medium.com/@ianmeyers/a-leaky-api-at-rei-a28e8460e722",
             "snippet": "A Leaky API at REI. From time to time I will proxy traffic… | by Ian Meyers | Medium\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n[Open in app](https://rsci.app.link/?$canonical_url=https://mediu",
             "published": "2019-02-08T05:45:24.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
+            "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
+            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHackerOne Team\n\nIs",
+            "published": null,
             "score": 0
           }
         ],
@@ -6114,32 +6114,32 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-29T04:31:04.311Z"
+        "enriched_at": "2026-05-08T04:17:10.786Z"
       },
-      "timestamp": "2026-04-29T04:31:06.011Z"
+      "timestamp": "2026-05-08T04:17:12.495Z"
     },
     "mergify": {
       "intel": {
         "writeups": [
           {
-            "title": "Mergify Bug Bounty Program: Ready To Hack Us?",
-            "url": "https://blog.mergify.com/mergify-bug-bounty-program-hack-us/",
-            "snippet": "Mergify Bug Bounty Program: Ready To Hack Us?\n\nWith cyberattacks becoming increasingly sophisticated and pervasive, organizations are compelled to fortify their digital defenses.\n\nOne powerful weapon ",
-            "published": "2023-10-23T10:25:37.000Z",
-            "score": 1
-          },
-          {
             "title": "(Un)signed commits: how we found a (non) security bug in GitHub",
-            "url": "https://blog.mergify.com/un-signed-commits-how-we-found-a-non-security-bug-in-github/",
+            "url": "https://articles.mergify.com/un-signed-commits-how-we-found-a-non-security-bug-in-github/",
             "snippet": "(Un)signed commits: how we found a (non) security bug in GitHub\n\nWhen you build an entire software around someone else API, you tend to know everything about it. We made Mergify on top of GitHub API, ",
             "published": "2021-03-29T07:20:00.000Z",
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "Post Mortem of Incident 2024-09-17",
             "url": "https://blog.mergify.com/post-mortem-of-incident-2024-09-17/",
             "snippet": "Post Mortem of Incident 2024-09-17\n\nOn September 17th, 2024, Mergify service went down from 07:45 UTC to 09:35 UTC. Due to the nature of the incident, we think it would be interesting to share with ou",
             "published": "2024-09-18T08:14:36.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Security",
+            "url": "https://docs.mergify.com/security",
+            "snippet": "At Mergify, security is of utmost importance to us. We understand the crucial\nrole we play in the software development process and are fully committed to\nearning and maintaining the trust of our users",
+            "published": null,
             "score": 0
           }
         ],
@@ -6152,16 +6152,16 @@
             "score": 1
           },
           {
-            "title": "Security",
-            "url": "https://docs.mergify.com/security/",
-            "snippet": "At Mergify, security is of utmost importance to us. We understand the crucial\nrole we play in the software development process and are fully committed to\nearning and maintaining the trust of our users",
+            "title": "Prototype Pollution in mergify | Snyk",
+            "url": "https://security.snyk.io/vuln/SNYK-JS-MERGIFY-72673",
+            "snippet": "Prototype Pollution in mergify | Snyk\n\n# Prototype Pollution Affecting mergify package, versions *\n\n---\n\n### Severity\n\nRecommended\n\n0.0\n\nhigh\n\n0\n\n10\n\nCVSS assessment by Snyk's Security Team. Learn mor",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Using Snyk with Mergify",
-            "url": "https://docs.mergify.com/integrations/snyk/",
-            "snippet": "Dependency management is pivotal for maintaining a robust and secure project.\nBut with regular updates, security patches, and version changes, it can become\noverwhelming. Snyk and Mergify combined, of",
+            "title": "Security",
+            "url": "https://docs.mergify.com/security",
+            "snippet": "At Mergify, security is of utmost importance to us. We understand the crucial\nrole we play in the software development process and are fully committed to\nearning and maintaining the trust of our users",
             "published": null,
             "score": 0
           }
@@ -6191,9 +6191,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-29T04:31:06.011Z"
+        "enriched_at": "2026-05-08T04:17:12.495Z"
       },
-      "timestamp": "2026-04-29T04:31:07.683Z"
+      "timestamp": "2026-05-08T04:17:14.237Z"
     },
     "coinhako": {
       "intel": {
@@ -6213,10 +6213,10 @@
             "score": 0.5
           },
           {
-            "title": "Coinhako | Security Program",
-            "url": "https://ooosec.com/programs/coinhako",
-            "snippet": "Coinhako | Security Program\n\n## Coinhako\n\n# Coinhako\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n## Details\n\nCoinhako | Security Program\n[OOOsecOOOsec](https://ooosec.com/)\n![Coinhak",
-            "published": null,
+            "title": "Singaporean exchange Coinhako halts withdrawals following hack",
+            "url": "https://coingeek.com/singaporean-exchange-coinhako-halts-withdrawals-following-hack/",
+            "snippet": "Singaporean exchange Coinhako halts withdrawals following hack \n\n \n\nBusiness\n\n# Singaporean exchange Coinhako halts withdrawals following hack\n\n28 February 2020\n\n1. Homepage\n2. >\n3. News\n4. >\n5. Busin",
+            "published": "2025-09-10T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -6236,10 +6236,10 @@
             "score": 0.5
           },
           {
-            "title": "Singaporean exchange Coinhako halts withdrawals following hack",
-            "url": "https://coingeek.com/singaporean-exchange-coinhako-halts-withdrawals-following-hack/",
-            "snippet": "Singaporean exchange Coinhako halts withdrawals following hack \n\n \n\nBusiness\n\n# Singaporean exchange Coinhako halts withdrawals following hack\n\n28 February 2020\n\n1. Homepage\n2. >\n3. News\n4. >\n5. Busin",
-            "published": "2025-09-10T00:00:00.000Z",
+            "title": "Crypto Exchange Coinhako Briefly Halts Withdrawals after Cyberattack",
+            "url": "https://www.financemagnates.com/cryptocurrency/exchange/crypto-exchange-coinhako-briefly-halts-withdrawals-after-cyberattack/",
+            "snippet": "Crypto Exchange Coinhako Briefly Halts Withdrawals after Cyberattack\n\nADVERTISEMENT\n\n> Crypto Exchange Coinhako Briefly Halts Withdrawals after Cyberattack\n\n# Crypto Exchange Coinhako Briefly Halts Wi",
+            "published": null,
             "score": 0
           }
         ],
@@ -6268,9 +6268,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-29T04:31:09.570Z"
+        "enriched_at": "2026-05-08T04:17:16.138Z"
       },
-      "timestamp": "2026-04-29T04:31:11.201Z"
+      "timestamp": "2026-05-08T04:17:18.006Z"
     },
     "arkose_labs": {
       "intel": {
@@ -6292,7 +6292,7 @@
           {
             "title": "Private Bug Bounty Program with Bugcrowd | Arkose Labs",
             "url": "https://www.arkoselabs.com/latest-news/arkose-labs-announces-private-bug-bounty-program-with-bugcrowd-to-strengthen-fraud-prevention-system/",
-            "snippet": "Private Bug Bounty Program with Bugcrowd | Arkose Labs\n\nPress Release\n\n# Arkose Labs Announces Private Bug Bounty Program with Bugcrowd to Strengthen Fraud Prevention System\n\nArkose Labs the leading p",
+            "snippet": "Private Bug Bounty Program with Bugcrowd | Arkose Labs\n\n# Arkose Labs Announces Private Bug Bounty Program with Bugcrowd to Strengthen Fraud Prevention System\n\nArkose Labs the leading provider of adva",
             "published": "2019-07-24T19:52:50.000Z",
             "score": 0
           }
@@ -6304,13 +6304,6 @@
             "snippet": "Defending against MFA compromise and other advanced phishing tactics\nMultifactor authentication used to be the gold standard for enhancing enterprise security. But\ncybercriminals have upped their game",
             "published": null,
             "score": 1
-          },
-          {
-            "title": "Arkose Labs Report Reveals Explosive Growth in SMS Toll Fraud and Precision-Targeted Attacks",
-            "url": "https://www.businesswire.com/news/home/20251217521684/en/Arkose-Labs-Report-Reveals-Explosive-Growth-in-SMS-Toll-Fraud-and-Precision-Targeted-Attacks",
-            "snippet": "Arkose Labs Report Reveals Explosive Growth in SMS Toll Fraud and Precision-Targeted Attacks\n\nDec 17, 2025 9:35 AM Eastern Standard Time\n\n# Arkose Labs Report Reveals Explosive Growth in SMS Toll Frau",
-            "published": null,
-            "score": 0.5
           },
           {
             "title": "Platform | Arkose Labs",
@@ -6344,10 +6337,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-04-29T04:31:11.201Z"
+        "total_results": 8,
+        "enriched_at": "2026-05-08T04:17:18.008Z"
       },
-      "timestamp": "2026-04-29T04:31:12.943Z"
+      "timestamp": "2026-05-08T04:17:19.733Z"
     },
     "alsco": {
       "intel": {
@@ -6360,39 +6353,39 @@
             "score": 1
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/alsco/scope_versions?type=team",
-            "snippet": "HackerOne\n\nHackerOne",
-            "published": null,
+            "title": "How Secure Gateway® Stops CVE-2026-41940 cPanel Data Breach — ALSCO®",
+            "url": "https://securegateway.com/blog/CVE-2026-41940-cPanel/",
+            "snippet": "How Secure Gateway® Stops CVE-2026-41940 cPanel Data Breach — ALSCO®\n\nSecurity Advisory · cPanel & WHM · April 28, 2026\n\n# How Secure Gateway® Stopsthe cPanel Data Breach\n\nCVE-2026-41940 allows attack",
+            "published": "2026-04-28T11:45:54.000Z",
             "score": 0.5
           },
           {
             "title": "HackerOne",
-            "url": "https://hackerone.com/alsco/scope_versions",
-            "snippet": "HackerOne",
+            "url": "https://hackerone.com/alsco/scope_versions?type=team",
+            "snippet": "HackerOne\n\nHackerOne",
             "published": null,
             "score": 0
           }
         ],
         "twitter": [
           {
+            "title": "How Secure Gateway® Stops CVE-2026-41940 cPanel Data Breach — ALSCO®",
+            "url": "https://securegateway.com/blog/CVE-2026-41940-cPanel/",
+            "snippet": "How Secure Gateway® Stops CVE-2026-41940 cPanel Data Breach — ALSCO®\n\nSecurity Advisory · cPanel & WHM · April 28, 2026\n\n# How Secure Gateway® Stopsthe cPanel Data Breach\n\nCVE-2026-41940 allows attack",
+            "published": "2026-04-28T11:45:54.000Z",
+            "score": 1
+          },
+          {
             "title": "Alsco Security Rating, Vendor Risk Report, and Data Breaches",
             "url": "https://www.upguard.com/security-report/alsco",
             "snippet": "Alsco Security Rating, Vendor Risk Report, and Data Breaches -- --\n\nStop manual bottlenecks. Start your machine-speed defense | Join UpGuard Summit on March 3 & 5Register now\n\n##### Last updated today",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Cloud Secure Gateway- ALSCO",
             "url": "https://alscotoday.com/go/cloud-secure-gateway",
             "snippet": "Cloud Secure Gateway- ALSCO\n\n### Cloud Secure Gateway\n\nOur system performs active scanning of files as they are uploaded to the server.Our system Actively scans all modified files within user accounts",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/alsco/scope_versions?type=team",
-            "snippet": "HackerOne\n\nHackerOne",
             "published": null,
             "score": 0
           }
@@ -6413,18 +6406,18 @@
             "score": 0.5
           },
           {
-            "title": "[Snyk] Fix for 8 vulnerabilities · Pull Request #698 · aliscco/alisco-node",
-            "url": "https://github.com/aliscco/alisco-node/pull/698",
-            "snippet": "# Pull Request: aliscco/alisco-node #698\n\n- Repository: aliscco/alisco-node | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 0 stars\n\n## [Snyk] Fix for 8 vulnerabilities\n\n- Author: ",
-            "published": "2023-11-29T00:13:27.000Z",
+            "title": "[Snyk] Fix for 6 vulnerabilities · Pull Request #1050 · aliscco/alisco-node",
+            "url": "https://github.com/aliscco/alisco-node/pull/1050",
+            "snippet": "# Pull Request: aliscco/alisco-node #1050\n\n- Repository: aliscco/alisco-node | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 0 stars\n\n## [Snyk] Fix for 6 vulnerabilities\n\n- Author:",
+            "published": "2023-12-02T07:06:38.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-29T04:31:12.943Z"
+        "enriched_at": "2026-05-08T04:17:19.733Z"
       },
-      "timestamp": "2026-04-29T04:31:14.752Z"
+      "timestamp": "2026-05-08T04:17:21.497Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -7446,8 +7439,8 @@
           },
           {
             "title": "Loading...",
-            "url": "https://support.zabbix.com/browse/ZBX-27640",
-            "snippet": "Loading...\n\nCookie Notice/Disclaimer\n\n### Details\n\nType: Defect (Security)\n\nResolution: Fixed\n\nPriority: Major\n\nFix Version/s: None\n\nAffects Version/s: None\n\nComponent/s: API (A)\n\nLabels:\n\nNone\n\n### D",
+            "url": "https://support.zabbix.com/browse/ZBX-12075",
+            "snippet": "Loading...\n\n### Details\n\nType: Sub-task\n\nResolution: Fixed\n\nPriority: Trivial\n\nAffects Version/s: None\n\nLabels:\n\nNone\n\nSprint:\n\nSprint 4, Sprint 5\n\nStory Points:\n\n2\n\n### Description\n\nThe \"Trapper\" sec",
             "published": null,
             "score": 0
           }
@@ -7468,10 +7461,10 @@
             "score": 0.5
           },
           {
-            "title": "Loading...",
-            "url": "https://support.zabbix.com/browse/ZBX-26254",
-            "snippet": "Loading...\n\n### Details\n\nType: Defect (Security)\n\nResolution: Fixed\n\nPriority: Major\n\nFix Version/s: 6.0.37rc1, 6.4.21rc1, 7.0.7rc1, 7.2.0rc1\n\nAffects Version/s: None\n\nLabels:\n\nNone\n\n### Description\n\n",
-            "published": null,
+            "title": "Exploit PoC released for Zabbix Server SQL injection vulnerability – CVE-2024-22120 – HACKHUNTING",
+            "url": "https://hackhunting.com/2024/05/21/exploit-poc-released-for-zabbix-server-sql-injection-vulnerability-cve-2024-22120/",
+            "snippet": "Exploit PoC released for Zabbix Server SQL injection vulnerability – CVE-2024-22120 – HACKHUNTING\n* [X](https://x.com/hackhunting)\n* [LinkedIn](https://linkedin.com/company/hackhunting)\n* [RSS Feed](h",
+            "published": "2024-05-21T10:13:11.000Z",
             "score": 0
           }
         ],
@@ -7500,9 +7493,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-04-29T04:31:07.684Z"
+        "enriched_at": "2026-05-08T04:17:14.238Z"
       },
-      "timestamp": "2026-04-29T04:31:09.570Z"
+      "timestamp": "2026-05-08T04:17:16.138Z"
     },
     "coupang_tw": {
       "intel": {
@@ -7580,7 +7573,84 @@
         "enriched_at": "2026-05-06T04:35:08.088Z"
       },
       "timestamp": "2026-05-06T04:35:10.085Z"
+    },
+    "anthropic": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Anthropic, Google, and Microsoft paid AI agent bug bounties, then kept quiet about the flaws",
+            "url": "https://thenextweb.com/news/ai-agents-hijacked-prompt-injection-bug-bounties-no-cve",
+            "snippet": "Anthropic, Google, and Microsoft paid AI agent bug bounties, then kept quiet about the flaws\n\nIn short:Security researcher Aonan Guan hijacked AI agents from Anthropic, Google, and Microsoft via promp",
+            "published": "2026-04-15T15:51:17.000Z",
+            "score": 1
+          },
+          {
+            "title": "Reverse engineering Claude's CVE-2026-2796 exploit",
+            "url": "https://red.anthropic.com/2026/exploit/",
+            "snippet": "Reverse engineering Claude's CVE-2026-2796 exploit\n\n# Reverse engineering Claude's CVE-2026-2796 exploit\n\nMarch 6, 2026\n\nEvyatar Ben Asher, Keane Lucas, Nicholas Carlini, Newton Cheng, and Daniel Free",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Anthropic quietly fixed flaws in its Git MCP server that allowed for remote code execution",
+            "url": "https://longbridge.com/en/news/273088951",
+            "snippet": "# Anthropic quietly fixed flaws in its Git MCP server that allowed for remote code execution\n\nAnthropic has fixed three bugs in its official Git MCP server that researchers say can be chained with oth",
+            "published": "2026-01-20T13:05:49.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Reverse engineering Claude's CVE-2026-2796 exploit",
+            "url": "https://red.anthropic.com/2026/exploit/",
+            "snippet": "Reverse engineering Claude's CVE-2026-2796 exploit\n\n# Reverse engineering Claude's CVE-2026-2796 exploit\n\nMarch 6, 2026\n\nEvyatar Ben Asher, Keane Lucas, Nicholas Carlini, Newton Cheng, and Daniel Free",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign \\ Anthropic",
+            "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+            "snippet": "Policy\n\n# Disrupting the first reported AI-orchestrated cyber espionage campaign\n\nNov 13, 2025\n\nWe recently argued that an inflection point had been reached in cybersecurity: a point at which AI model",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks \\ Anthropic",
+            "url": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
+            "snippet": "Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks \\ Anthropic\n\nAlignment\n\n# Next-generation Constitutional Classifiers: More efficient protection again",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
+          {
+            "title": "attacker_proxy.py at main · atiilla/CVE-2026-21852-PoC",
+            "url": "https://github.com/atiilla/CVE-2026-21852-PoC/blob/main/attacker_proxy.py",
+            "snippet": "# File: atiilla/CVE-2026-21852-PoC/attacker_proxy.py\n\n- Repository: atiilla/CVE-2026-21852-PoC | 21 stars | Python\n- Branch: main\n\n```py\n#!/usr/bin/env python3\n# MITM proxy for CVE-2026-21852.\n# Sits ",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Rohitberiwala/Claude-Code-MCP-Injection-PoC",
+            "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
+            "snippet": "# Repository: Rohitberiwala/Claude-Code-MCP-Injection-PoC\n\nProfessional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code",
+            "published": "2026-03-10T05:04:03.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Security: WebFetch/WebSearch results not sanitized — vulnerable to Anthropic refusal string injection · Issue #842 · qwibitai/nanoclaw",
+            "url": "https://github.com/qwibitai/nanoclaw/issues/842",
+            "snippet": "# Issue: qwibitai/nanoclaw #842\n\n- Repository: qwibitai/nanoclaw | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and",
+            "published": "2026-03-08T19:13:04.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 9,
+        "enriched_at": "2026-05-08T04:17:03.041Z"
+      },
+      "timestamp": "2026-05-08T04:17:05.168Z"
     }
   },
-  "lastRun": "2026-05-07T04:35:50.323Z"
+  "lastRun": "2026-05-08T04:17:21.497Z"
 }
