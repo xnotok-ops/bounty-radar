@@ -5099,44 +5099,37 @@
             "url": "https://atomicedge.io/cve-proof/cve-2025-68851-okay-toolkit-version-2-3-medium-vulnerability-proof-of-concept/",
             "snippet": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-68851: Okay Toolkit <= 2.3 – Reflected Cross-Site Scripting (okay-toolkit)\n\nSeverity Medium (CVSS 6",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "💀 Exploit for CVE-2026-21994",
-            "url": "https://sploitus.com/exploit?id=21BAAEAD-5BD1-5CDB-8891-6DFC730437FD",
-            "snippet": "💀 Exploit for CVE-2026-21994\n\n# Exploit for CVE-2026-21994\n\n2026-03-21 | CVSS 9.8\n\nCopy Download Source Share\n\n```\n## https://sploitus.com/exploit?id=21BAAEAD-5BD1-5CDB-8891-6DFC730437FD\n# CVE-2026-2",
-            "published": null,
             "score": 0
           }
         ],
         "github": [
           {
+            "title": "0x0OZ/CVE-2026-7482-PoC",
+            "url": "https://github.com/0x0OZ/CVE-2026-7482-PoC",
+            "snippet": "# Repository: 0x0OZ/CVE-2026-7482-PoC\n\n1day vuln research I guess\n\n- Stars: 2\n- Forks: 1\n- Watchers: 0\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created:",
+            "published": "2026-05-05T19:55:32.000Z",
+            "score": 1
+          },
+          {
+            "title": "sgkdev/page_inject",
+            "url": "https://github.com/sgkdev/page_inject/",
+            "snippet": "# Repository: sgkdev/page_inject\n\nCVE-2026-31431-killed page-cache exploit — code exec into containers sharing the same image layer\n\n- Stars: 41\n- Forks: 6\n- Watchers: 0\n- Open issues: 0\n- Primary lan",
+            "published": "2026-05-06T01:51:02.000Z",
+            "score": 0.5
+          },
+          {
             "title": "shakilofficial0/Hack_Speedtest_Ookla",
             "url": "https://github.com/shakilofficial0/Hack_Speedtest_Ookla",
             "snippet": "# Repository: shakilofficial0/Hack_Speedtest_Ookla\n\nCritical vulnerability POC for Ookla SpeedTest - demonstrates result manipulation via insufficient validation & auth bypass. Educational security re",
             "published": "2026-01-24T15:11:02.000Z",
-            "score": 1
-          },
-          {
-            "title": "g0w6y/CVE-2026-21994",
-            "url": "https://github.com/g0w6y/CVE-2026-21994",
-            "snippet": "# Repository: g0w6y/CVE-2026-21994\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-21T15:47:53Z\n- Last push: 2026-03-21T16:22:00Z\n- Contributors: 1 (top",
-            "published": "2026-03-21T15:47:53.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "DK27ss/0x0689a-330K-PoC",
-            "url": "https://github.com/DK27ss/0x0689a-330K-PoC",
-            "snippet": "# Repository: DK27ss/0x0689a-330K-PoC\n\ncritical access control vulnerability in the `collectInterestRepayment()` function\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Primary language: Coff",
-            "published": "2025-12-02T21:17:33.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-05-06T04:35:10.085Z"
+        "total_results": 8,
+        "enriched_at": "2026-05-13T04:48:48.707Z"
       },
-      "timestamp": "2026-05-06T04:35:11.609Z"
+      "timestamp": "2026-05-13T04:48:50.261Z"
     },
     "1win_com": {
       "intel": {
@@ -5288,9 +5281,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-06T04:35:11.609Z"
+        "enriched_at": "2026-05-13T04:48:50.261Z"
       },
-      "timestamp": "2026-05-06T04:35:13.392Z"
+      "timestamp": "2026-05-13T04:48:51.990Z"
     },
     "pornbox": {
       "intel": {
@@ -5353,21 +5346,14 @@
             "url": "https://github.com/pbuff07/PoCBox",
             "snippet": "# Repository: pbuff07/PoCBox (fork of [0verSp4ce/PoCBox](https://github.com/0verSp4ce/PoCBox))\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary",
             "published": "2025-03-05T12:53:39.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Adversis/PandorasBox",
-            "url": "https://github.com/Adversis/PandorasBox",
-            "snippet": "# Repository: Adversis/PandorasBox\n\nSecurity tool to quickly audit Public Box files and folders.\n\n- Stars: 54\n- Forks: 22\n- Watchers: 54\n- Open issues: 4\n- Primary language: Python\n- Languages: Python",
-            "published": "2019-03-09T02:37:23.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-05-06T04:35:13.392Z"
+        "total_results": 8,
+        "enriched_at": "2026-05-13T04:48:51.990Z"
       },
-      "timestamp": "2026-05-06T04:35:14.922Z"
+      "timestamp": "2026-05-13T04:48:53.518Z"
     },
     "tron_dao": {
       "intel": {
@@ -5375,7 +5361,7 @@
           {
             "title": "TRON VM storage collision vulnerability",
             "url": "https://blog.phor.net/tron-vm-storage-vulnerability",
-            "snippet": "TRON VM storage collision vulnerability\n\n \n\nCritical TVM storage key truncation to 128 bits leading to arbitrary slot overwrites, birthday attacks, and potential network fork.\n\n## Executive summary\n\nT",
+            "snippet": "TRON VM storage collision vulnerability\n\nCritical TVM storage key truncation to 128 bits leading to arbitrary slot overwrites, birthday attacks, and potential network fork.\n\n## Executive summary\n\nThe ",
             "published": null,
             "score": 1
           },
@@ -5398,7 +5384,7 @@
           {
             "title": "TRON VM storage collision vulnerability",
             "url": "https://blog.phor.net/tron-vm-storage-vulnerability",
-            "snippet": "TRON VM storage collision vulnerability\n\n \n\nCritical TVM storage key truncation to 128 bits leading to arbitrary slot overwrites, birthday attacks, and potential network fork.\n\n## Executive summary\n\nT",
+            "snippet": "TRON VM storage collision vulnerability\n\nCritical TVM storage key truncation to 128 bits leading to arbitrary slot overwrites, birthday attacks, and potential network fork.\n\n## Executive summary\n\nThe ",
             "published": null,
             "score": 1
           },
@@ -5410,10 +5396,10 @@
             "score": 0.5
           },
           {
-            "title": "Tron says DAO X hack cost victims $45K, Curve Finance also hit",
-            "url": "https://cointelegraph.com/news/tron-dao-curve-finance-latest-victims-x-hacks",
-            "snippet": "Tron says DAO X hack cost victims $45K, Curve Finance also hit\n\n \n\n \n\n \n\n \n\n Ecosystem \n\n \n\n \n\n \n\n \n\n \n\n LINK$8.67 1.76% BTC$67,462 0.99% XLM$0.1692 0.37% TRX$0.3232 2.57% XMR$334.20 1.37% DOGE$0.0927",
-            "published": "2025-05-06T03:14:21.000Z",
+            "title": "Start your day with the most influential events and analysis\n          happening across the digital asset ecosystem.",
+            "url": "https://www.theblock.co/post/232671/tron-vulnerability-500-million-resolved",
+            "snippet": "Tron vulnerability put $500 million at risk; now 'resolved' | The Block\n[\nThe Block announces Emergence: join us in Prague December 5-6, 2024. Learn More\n](https://www.emergence.xyz)\n✕·[](https://www.",
+            "published": "2024-07-02T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5426,25 +5412,25 @@
             "score": 1
           },
           {
-            "title": "trx drainer",
-            "url": "https://gist.github.com/phishdestroy/9985a35bdc11a5cc0a44abf7a6119713",
-            "snippet": "# Gist: trx drainer\n\n- Author: [@phishdestroy](https://github.com/phishdestroy)\n- Private gist (2 files)\n- Created: 2026-02-08T22:36:54Z\n- Updated: 2026-02-08T22:36:55Z\n\n## gistfile1.txt\n\n```txt\n# 🔴 ",
-            "published": "2026-02-08T22:36:54.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Vulnerability that allows taking control of DAO using retireMember / changeMember methods · Issue #62 · tokamak-network/ton-staking-v2",
             "url": "https://github.com/tokamak-network/ton-staking-v2/issues/62",
             "snippet": "# Issue: tokamak-network/ton-staking-v2 #62\n\n- Repository: tokamak-network/ton-staking-v2 | 25 stars | TypeScript\n\n## Vulnerability that allows taking control of DAO using retireMember / changeMember ",
             "published": "2025-02-13T19:28:11.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "trx drainer",
+            "url": "https://gist.github.com/phishdestroy/9985a35bdc11a5cc0a44abf7a6119713",
+            "snippet": "# Gist: trx drainer\n\n- Author: [@phishdestroy](https://github.com/phishdestroy)\n- Private gist (2 files)\n- Created: 2026-02-08T22:36:54Z\n- Updated: 2026-02-08T22:36:55Z\n\n## gistfile1.txt\n\n```txt\n# 🔴 ",
+            "published": "2026-02-08T22:36:54.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-06T04:35:14.922Z"
+        "enriched_at": "2026-05-13T04:48:53.518Z"
       },
-      "timestamp": "2026-05-06T04:35:16.555Z"
+      "timestamp": "2026-05-13T04:48:55.155Z"
     },
     "superbet": {
       "intel": {
@@ -5457,17 +5443,17 @@
             "score": 1
           },
           {
+            "title": "superbet on HackerOne - Bug Bounty Scope | bbscope.com",
+            "url": "https://bbscope.com/program/h1/superbet",
+            "snippet": "superbet on HackerOne - Bug Bounty Scope | bbscope.com\n\n# superbet\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n26\n\nIn Scope\n\n14\n\nOut of Scope\n\nIn-Scope Assets (26)\n\n| Asset | Category | Bounty | Qui",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "Superbet Group selected by HackerOne for Ambassador World Cup 2024",
             "url": "https://superbetgroup.com/press-news/superbet-group-selected-by-hackerone-for-ambassador-world-cup-2024",
             "snippet": "Superbet Group\n# Superbet Group selected by HackerOne for Ambassador World Cup 2024\n* [](https://www.facebook.com/sharer/sharer.php?u=https://superbetgroup.com/press-news/superbet-group-selected-by-ha",
             "published": "2024-06-04T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "SuperBet honours €30m payouts to Romanian players despite ‘bugged’ slot error - Casino | Tribuna.com",
-            "url": "https://tribuna.com/en/casino/news/2025-09-24-superbet-honours-30m-payouts-to-romanian-players-despite-bugged-slot-error",
-            "snippet": "SuperBet honours €30m payouts to Romanian players despite ‘bugged’ slot error - Casino | Tribuna.com\n\nMy feednew\n\nNews\n\nLive scores\n\nLeagues\n\nPremier League\n\nUEFA Champions League\n\nUEFA Europa League\n",
-            "published": "2025-09-24T11:48:00.000Z",
             "score": 0
           }
         ],
@@ -5480,17 +5466,17 @@
             "score": 1
           },
           {
-            "title": "SuperBet stumps up €30m payout to players of casino glitch",
-            "url": "https://sbcnews.co.uk/featurednews/2025/09/24/superbet-30m-slot-payout/",
-            "snippet": "SuperBet stumps up €30m payout to players of casino glitch\n\nNews By Sector\n\nNews by Region\n\nThe International Player Safety Index\n\n- The International Player Safety Index – Latin America\n- The Interna",
-            "published": "2025-09-24T08:29:30.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Superbet Pays €30 Million After Technical Incident Resulted in Oversized Winnings | OnlyiGaming",
             "url": "https://onlyigaming.com/news/superbet-pays-30-million-after-technical-incident-resulted-in-oversized-winnings",
             "snippet": "Superbet Pays €30 Million After Technical Incident Resulted in Oversized Winnings | OnlyiGaming\n\nPosted date | 23.09.2025\n\n# Superbet Pays €30 Million After Technical Incident Resulted in Oversized Wi",
             "published": "2025-09-23T13:33:19.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2023-63: Malicious code in @superbet-group/web.lib.rest (npm)",
+            "url": "https://vulert.com/vuln-db/npm-@superbet-group-web.lib.rest-82100",
+            "snippet": "CVE-2023-63: Malicious code in @superbet-group/web.lib.rest (npm)\n\n# CVE-2023-63: Malicious code in @superbet-group/web.lib.rest (npm)\n\nAffected Package:@superbet-group/web.lib.rest(Click to see all v",
+            "published": null,
             "score": 0
           }
         ],
@@ -5519,9 +5505,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-06T04:35:16.556Z"
+        "enriched_at": "2026-05-13T04:48:55.156Z"
       },
-      "timestamp": "2026-05-06T04:35:18.193Z"
+      "timestamp": "2026-05-13T04:48:56.862Z"
     },
     "magic-eden": {
       "intel": {
@@ -5557,17 +5543,17 @@
             "score": 1
           },
           {
-            "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Journal",
-            "url": "https://vocal.media/journal/magic-eden-will-refund-users-who-bought-25-fake-nf-ts-due-to-exploit",
-            "snippet": "# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n## Multiple dozen phony NFTs were sold on the magic Eden commercial center during a 24-hour time frame due to a “huge endeavor” o",
-            "published": "2026-05-01T20:39:17.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Magic Eden Suffers Exploit, Users Duped into Buying Fake NFTs | The Crypto Times",
             "url": "https://www.cryptotimes.io/2023/01/07/magic-eden-suffers-exploit-users-duped-into-buying-fake-nfts/",
             "snippet": "Magic Eden Suffers Exploit, Users Duped into Buying Fake NFTs | The Crypto Times\n\nNon Fungible token (NFT) marketplace Magic Eden pledged to refund all users who were duped into buying fake NFT due to",
             "published": "2023-01-07T04:53:35.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Journal",
+            "url": "https://vocal.media/journal/magic-eden-will-refund-users-who-bought-25-fake-nf-ts-due-to-exploit",
+            "snippet": "# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n## Multiple dozen phony NFTs were sold on the magic Eden commercial center during a 24-hour time frame due to a “huge endeavor” o",
+            "published": "2026-05-01T20:39:17.000Z",
             "score": 0
           }
         ],
@@ -5587,18 +5573,18 @@
             "score": 0.5
           },
           {
-            "title": "camerodev/solana-nft-sniper",
-            "url": "https://github.com/camerodev/solana-nft-sniper",
-            "snippet": "# Repository: camerodev/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (93.3%), CSS (3.5",
-            "published": null,
+            "title": "supercoolx/solana-nft-sniper",
+            "url": "https://github.com/supercoolx/solana-nft-sniper",
+            "snippet": "# Repository: supercoolx/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 20\n- Forks: 6\n- Watchers: 3\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (93.3%), CSS (3",
+            "published": "2022-06-23T10:15:57.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-06T04:35:18.193Z"
+        "enriched_at": "2026-05-13T04:48:56.862Z"
       },
-      "timestamp": "2026-05-06T04:35:19.744Z"
+      "timestamp": "2026-05-13T04:48:58.391Z"
     },
     "boozt": {
       "intel": {
@@ -5636,7 +5622,7 @@
           {
             "title": "boozt | Nightwatch Cybersecurity",
             "url": "https://wwws.nightwatchcybersecurity.com/tag/boozt/",
-            "snippet": "boozt | Nightwatch Cybersecurity \n\n \n\n \n\n \n\n# Summary\n\nBoozt Fashion App for Android did not use encryption (SSL) for information transmission during login, exposing usernames and passwords to anyone ",
+            "snippet": "boozt | Nightwatch Cybersecurity\n\n# Summary\n\nBoozt Fashion App for Android did not use encryption (SSL) for information transmission during login, exposing usernames and passwords to anyone monitoring",
             "published": null,
             "score": 0.5
           },
@@ -5664,18 +5650,18 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2026-21450: Shopping for Shells: Bagisto Reporting SSTI to RCE - CVE Security Report",
-            "url": "https://gist.github.com/alon710/36ff76dd78755bad36a559ab1f8bb5a3",
-            "snippet": "# Gist: CVE-2026-21450: Shopping for Shells: Bagisto Reporting SSTI to RCE - CVE Security Report\n\n- Author: [@alon710](https://github.com/alon710)\n- Public gist (1 file)\n- Created: 2026-01-24T22:43:26",
-            "published": "2026-01-24T22:43:26.000Z",
+            "title": "a55f125a55de1c0d4f41e66236027e01",
+            "url": "https://gist.github.com/KhanMarshaI/a55f125a55de1c0d4f41e66236027e01",
+            "snippet": "# Gist: OpenCart v4.1.0.3 - Time-of-check Time-of-use.md\n\n- Author: [@KhanMarshaI](https://github.com/KhanMarshaI)\n- Private gist (1 file)\n- Created: 2025-12-10T10:26:48Z\n- Updated: 2025-12-28T03:51:4",
+            "published": "2025-12-10T10:26:48.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-06T04:35:19.744Z"
+        "enriched_at": "2026-05-13T04:48:58.391Z"
       },
-      "timestamp": "2026-05-06T04:35:21.178Z"
+      "timestamp": "2026-05-13T04:48:59.927Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -5697,8 +5683,8 @@
           {
             "title": "Sherlock Yield Strategy Bug Bounty Post-Mortem",
             "url": "https://paragraph.com/@sherlock/sherlock-yield-strategy-bug-bounty-post-mortem",
-            "snippet": "AboutActivityShare\n\nHome\n\nExplore\n\nNew post\n\nDashboard\n\nNewsletter\n\n## More from Sherlock\n\nSherlockFeb 16What is Sherlock?TL;DRSherlock is a new type of security solution for protocol teams. Sherlock ",
-            "published": "2022-08-17T13:59:54.000Z",
+            "snippet": "# Sherlock Yield Strategy Bug Bounty Post-Mortem\n\nBy Sherlock · 2022-08-17\n\n---\n\n## Sherlock Yield Strategy Bug Bounty Post-Mortem\n\n> NOTE FOR SHERLOCK LIQUIDITY PROVIDERS: This type of bug bounty pay",
+            "published": null,
             "score": 0
           }
         ],
@@ -5706,7 +5692,7 @@
           {
             "title": "0xShe/CVE-2026-31431",
             "url": "https://github.com/0xShe/CVE-2026-31431",
-            "snippet": "# Repository: 0xShe/CVE-2026-31431\n\n- Stars: 19\n- Forks: 11\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default branch: main\n- Created: 2026-04-30T07:09:23Z\n- Last push: 2026",
+            "snippet": "# Repository: 0xShe/CVE-2026-31431\n\n- Stars: 21\n- Forks: 13\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default branch: main\n- Created: 2026-04-30T07:09:23Z\n- Last push: 2026",
             "published": "2026-04-30T07:09:23.000Z",
             "score": 1
           },
@@ -5718,10 +5704,10 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2026-34425: CVE-2026-34425: Validation Bypass in OpenClaw Shell-Bleed Protection | CVEReports",
-            "url": "https://cvereports.com/reports/CVE-2026-34425",
-            "snippet": "CVE-2026-34425: CVE-2026-34425: Validation Bypass in OpenClaw Shell-Bleed Protection | CVEReports\n\nCVE-2026-34425: CVE-2026-34425: Validation Bypass in OpenClaw Shell-Bleed Protection | CVEReports\nCVE",
-            "published": "2026-04-06T22:53:48.000Z",
+            "title": "Copy.Fail Linux Vulnerability - Schneier on Security",
+            "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
+            "snippet": "Copy.Fail Linux Vulnerability - Schneier on Security\n\n## Copy.Fail Linux Vulnerability\n\nThis is the worst Linux vulnerability in years.\n\nTL;DR\n\n- copy.fail is a Linux kernel local privilege escalation",
+            "published": "2026-05-12T11:06:12.000Z",
             "score": 0
           }
         ],
@@ -5729,7 +5715,7 @@
           {
             "title": "0xShe/CVE-2026-31431",
             "url": "https://github.com/0xShe/CVE-2026-31431",
-            "snippet": "# Repository: 0xShe/CVE-2026-31431\n\n- Stars: 19\n- Forks: 11\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default branch: main\n- Created: 2026-04-30T07:09:23Z\n- Last push: 2026",
+            "snippet": "# Repository: 0xShe/CVE-2026-31431\n\n- Stars: 21\n- Forks: 13\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default branch: main\n- Created: 2026-04-30T07:09:23Z\n- Last push: 2026",
             "published": "2026-04-30T07:09:23.000Z",
             "score": 1
           },
@@ -5750,9 +5736,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-06T04:35:21.179Z"
+        "enriched_at": "2026-05-13T04:48:59.927Z"
       },
-      "timestamp": "2026-05-06T04:35:22.798Z"
+      "timestamp": "2026-05-13T04:49:01.588Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -5783,15 +5769,15 @@
           {
             "title": "Report a vulnerability - Vodafone",
             "url": "https://www.vodafone.om/report-a-vulnerability",
-            "snippet": "Report a vulnerability - Vodafone \n\n## Reporting vulnerabilities\n\nWe value the expertise and help of the cyber security community in helping us maintain our high security standards. You can use this s",
+            "snippet": "Report a vulnerability - Vodafone\n\n## Reporting vulnerabilities\n\nWe value the expertise and help of the cyber security community in helping us maintain our high security standards. You can use this si",
             "published": "2022-10-10T13:19:14.000Z",
             "score": 0.5
           },
           {
-            "title": "Vodafone’s digital-first strategy and innovative service offerings caused a shift in Oman’s telecom market - Membership",
-            "url": "https://www.gsma.com/get-involved/gsma-membership/gsma_resources/vodafones-digital-first-strategy-and-innovative-service-offerings-caused-a-shift-in-omans-telecom-market/",
-            "snippet": "Vodafone’s digital-first strategy and innovative service offerings caused a shift in Oman’s telecom market - Membership\n\nWednesday January 29, 2025\n\n# Vodafone’s digital-first strategy and innovative ",
-            "published": "2025-04-01T00:00:00.000Z",
+            "title": "Vodafone Oman Customer Story | CrowdStrike",
+            "url": "https://www.crowdstrike.com/en-us/resources/customer-stories/vodafone-oman/",
+            "snippet": "Vodafone Oman Customer Story | CrowdStrike\n\nFive Steps for Frontier AI Security Readiness Download\n\n- Platform\n- Services\n- Solutions\n- Why CrowdStrike\n- Resources\n- Pricing\n\n2\n\nYour Cart\n\nAdded to Ca",
+            "published": "2025-11-18T06:00:00.000Z",
             "score": 0
           }
         ],
@@ -5820,9 +5806,9 @@
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-05-06T04:35:22.798Z"
+        "enriched_at": "2026-05-13T04:49:01.588Z"
       },
-      "timestamp": "2026-05-06T04:35:24.343Z"
+      "timestamp": "2026-05-13T04:49:03.290Z"
     },
     "frontegg": {
       "intel": {
@@ -7515,24 +7501,24 @@
       "intel": {
         "writeups": [
           {
-            "title": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach - Huli's blog",
-            "url": "https://blog.huli.tw/2026/03/19/en/coupang-insider-kms-and-jwt/",
-            "snippet": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach - Huli's blog\n\nIf you have any thoughts on my blog or articles and you want to let me know, you can either post a comment b",
-            "published": "2026-03-19T02:28:05.000Z",
+            "title": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT",
+            "url": "https://sechub.in/view/3192718",
+            "snippet": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT\n\n# 從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT\n\n收藏\n\n從去年 11 月開始，Coupang 個資外洩的事件就受到不少關注，一來是據傳外洩的資料數目龐大，二來這間公司也有在台灣設點。隨著調查進度持續推進，也有越來越多細節出現，甚至還被形容為如同電影情節，去河裡打撈硬碟。\n\n最近跑去翻了韓國那邊出的報告發現寫得還滿詳",
+            "published": null,
             "score": 1
           },
           {
-            "title": "Taiwan Immigrants' Global News Network-Coupang Data Breach Affects Over 200,000 Taiwan Users; Ministry Orders Inspection and Compensation",
-            "url": "https://news.immigration.gov.tw/NewsSection/Detail/38d39f8a-ca6a-4c6e-9253-c77553e5cafc?category=0&lang=EN",
-            "snippet": "Taiwan Immigrants' Global News Network-Coupang Data Breach Affects Over 200,000 Taiwan Users; Ministry Orders Inspection and Compensation\n\nNews Highlight\n\n2026-03-05 09:05\n\nCoupang Taiwan reported on ",
-            "published": null,
+            "title": "Coupang Taiwan Addresses 2025 Data Breach: Security Upgrades and New Bug Bounty Program | Insight Ginie",
+            "url": "https://insightginie.com/coupang-taiwan-addresses-2025-data-breach-security-upgrades-and-new-bug-bounty-program/",
+            "snippet": "Coupang Taiwan Addresses 2025 Data Breach: Security Upgrades and New Bug Bounty Program | Insight Ginie\n\n## Overview of the Coupang Taiwan 2025 Security Incident\n\nIn early 2025, the e-commerce landsca",
+            "published": "2026-05-11T14:45:57.000Z",
             "score": 0.5
           },
           {
-            "title": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach",
-            "url": "https://sechub.in/view/3192719",
-            "snippet": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach\n\n# Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach\n\nHuli 2026-03-19 19:36:59\n\n收藏\n\nSince Novemb",
-            "published": null,
+            "title": "Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, launches bug bounty",
+            "url": "https://www.digitimes.com/news/a20260508PD222/taiwan-data-2025-information-security-2026.html",
+            "snippet": "Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, launches bug bounty\n\nREALTIME NEWS\n\n# Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, ",
+            "published": "2026-05-09T23:17:53.000Z",
             "score": 0
           }
         ],
@@ -7545,17 +7531,17 @@
             "score": 1
           },
           {
-            "title": "Coupang Suffers Data Breach of 200,000 Customer Accounts in Taiwan...Compensation Coupons to Be Issued",
-            "url": "https://www.asiae.co.kr/en/print.htm?idxno=2026022510543934050",
-            "snippet": "Coupang Suffers Data Breach of 200,000 Customer Accounts in Taiwan...Compensation Coupons to Be Issued\n\n# Coupang Suffers Data Breach of 200,000 Customer Accounts in Taiwan...Compensation Coupons to B",
-            "published": null,
+            "title": "Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, launches bug bounty",
+            "url": "https://www.digitimes.com/news/a20260508PD222/taiwan-data-2025-information-security-2026.html",
+            "snippet": "Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, launches bug bounty\n\nREALTIME NEWS\n\n# Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, ",
+            "published": "2026-05-09T23:17:53.000Z",
             "score": 0.5
           },
           {
-            "title": "Taiwan Confirms Coupang Personal Data Management Failures...Follow-Up Measures to Proceed Under Legal Procedures - The Asia Business Daily",
-            "url": "https://view.asiae.co.kr/en/article/2026022706060229783",
-            "snippet": "Taiwan Confirms Coupang Personal Data Management Failures...Follow-Up Measures to Proceed Under Legal Procedures - The Asia Business Daily \n\ncontainer\n\n \n\n KR Search open\n\nSearch open Close\n\nDim\n\n \n\n ",
-            "published": "2026-02-26T21:06:02.000Z",
+            "title": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT",
+            "url": "https://sechub.in/view/3192718",
+            "snippet": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT\n\n# 從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT\n\n收藏\n\n從去年 11 月開始，Coupang 個資外洩的事件就受到不少關注，一來是據傳外洩的資料數目龐大，二來這間公司也有在台灣設點。隨著調查進度持續推進，也有越來越多細節出現，甚至還被形容為如同電影情節，去河裡打撈硬碟。\n\n最近跑去翻了韓國那邊出的報告發現寫得還滿詳",
+            "published": null,
             "score": 0
           }
         ],
@@ -7584,9 +7570,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-06T04:35:08.088Z"
+        "enriched_at": "2026-05-13T04:48:46.647Z"
       },
-      "timestamp": "2026-05-06T04:35:10.085Z"
+      "timestamp": "2026-05-13T04:48:48.707Z"
     },
     "anthropic": {
       "intel": {
@@ -7666,5 +7652,5 @@
       "timestamp": "2026-05-08T04:17:05.168Z"
     }
   },
-  "lastRun": "2026-05-12T04:37:24.341Z"
+  "lastRun": "2026-05-13T04:49:03.290Z"
 }
