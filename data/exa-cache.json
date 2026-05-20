@@ -5109,6 +5109,13 @@
             "score": 1
           },
           {
+            "title": "💀 Exploit for CVE-2026-21994",
+            "url": "https://sploitus.com/exploit?id=21BAAEAD-5BD1-5CDB-8891-6DFC730437FD",
+            "snippet": "💀 Exploit for CVE-2026-21994\n\n# Exploit for CVE-2026-21994\n\n2026-03-21 | CVSS 9.8\n\nCopy Download Source Share\n\n```\n## https://sploitus.com/exploit?id=21BAAEAD-5BD1-5CDB-8891-6DFC730437FD\n# CVE-2026-2",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge",
             "url": "https://atomicedge.io/cve-proof/cve-2025-68851-okay-toolkit-version-2-3-medium-vulnerability-proof-of-concept/",
             "snippet": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-68851: Okay Toolkit <= 2.3 – Reflected Cross-Site Scripting (okay-toolkit)\n\nSeverity Medium (CVSS 6",
@@ -5132,18 +5139,18 @@
             "score": 0.5
           },
           {
-            "title": "shakilofficial0/Hack_Speedtest_Ookla",
-            "url": "https://github.com/shakilofficial0/Hack_Speedtest_Ookla",
-            "snippet": "# Repository: shakilofficial0/Hack_Speedtest_Ookla\n\nCritical vulnerability POC for Ookla SpeedTest - demonstrates result manipulation via insufficient validation & auth bypass. Educational security re",
-            "published": "2026-01-24T15:11:02.000Z",
+            "title": "DK27ss/0x0689a-330K-PoC",
+            "url": "https://github.com/DK27ss/0x0689a-330K-PoC",
+            "snippet": "# Repository: DK27ss/0x0689a-330K-PoC\n\ncritical access control vulnerability in the `collectInterestRepayment()` function\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Primary language: Coff",
+            "published": "2025-12-02T21:17:33.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 8,
-        "enriched_at": "2026-05-13T04:48:48.707Z"
+        "total_results": 9,
+        "enriched_at": "2026-05-20T05:07:15.786Z"
       },
-      "timestamp": "2026-05-13T04:48:50.261Z"
+      "timestamp": "2026-05-20T05:07:17.788Z"
     },
     "1win_com": {
       "intel": {
@@ -5228,7 +5235,7 @@
           {
             "title": "Untitled",
             "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/WHITELIST-CONTEXTS-AUDIT/",
-            "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., \nis providing access to the security audit reports conducted by Op",
+            "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., \nis providing access to the security audit reports conducted by O",
             "published": null,
             "score": 1
           },
@@ -5249,23 +5256,23 @@
         ],
         "twitter": [
           {
+            "title": "Untitled",
+            "url": "https://www.sec.gov/Archives/edgar/data/880631/000121465924007721/wt422241ars10k.pdf",
+            "snippet": "April 29, 2024 \nFellow WisdomTree Stockholders: \nAs I reflect on WisdomTree’s journey from inception of our business to the present, I am reminded of pivotal \nquestions we have asked ourselves, and th",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "R9.htm",
             "url": "https://www.sec.gov/Archives/edgar/data/880631/000121465925003503/R9.htm",
             "snippet": "v3.25.0.1\n\nOrganization and Description of Business\n\nDec. 31, 2024\n\n1. Organization and Description of Business\n\nWisdomTree, Inc., through its global subsidiaries (collectively, “WisdomTree” or the “C",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Cybersecurity Risk | WisdomTree Gold Token",
             "url": "https://wisdomtree.gitbook.io/wisdomtree-gold-token/legal-and-risk-disclosures/risk-disclosures/cybersecurity-risk",
             "snippet": "# Cybersecurity Risk\n\nWisdomTree Digital, its service providers, the App, wallets and blockchain networks may be susceptible to operational and information security risks resulting from a breach in cy",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Untitled",
-            "url": "https://ir.wisdomtree.com/sec-filings/all-sec-filings/content/0000921895-24-001009/defc14a13246002_05032024.htm",
-            "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nSCHEDULE 14A\n\n(Rule 14a-101)\n\nINFORMATION REQUIRED IN PROXY STATEMENT\n\nSCHEDULE 14A INFORMATION\n\nProxy Statement Pursuant to ",
             "published": null,
             "score": 0
           }
@@ -5295,9 +5302,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-13T04:48:50.261Z"
+        "enriched_at": "2026-05-20T05:07:17.788Z"
       },
-      "timestamp": "2026-05-13T04:48:51.990Z"
+      "timestamp": "2026-05-20T05:07:19.889Z"
     },
     "pornbox": {
       "intel": {
@@ -5365,9 +5372,9 @@
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-05-13T04:48:51.990Z"
+        "enriched_at": "2026-05-20T05:07:19.890Z"
       },
-      "timestamp": "2026-05-13T04:48:53.518Z"
+      "timestamp": "2026-05-20T05:07:21.627Z"
     },
     "tron_dao": {
       "intel": {
@@ -5433,18 +5440,18 @@
             "score": 0.5
           },
           {
-            "title": "trx drainer",
-            "url": "https://gist.github.com/phishdestroy/9985a35bdc11a5cc0a44abf7a6119713",
-            "snippet": "# Gist: trx drainer\n\n- Author: [@phishdestroy](https://github.com/phishdestroy)\n- Private gist (2 files)\n- Created: 2026-02-08T22:36:54Z\n- Updated: 2026-02-08T22:36:55Z\n\n## gistfile1.txt\n\n```txt\n# 🔴 ",
-            "published": "2026-02-08T22:36:54.000Z",
+            "title": "feat(tron): server-authored CHECKS PERFORMED template (EVM-mirror) · d59f24b · szhygulin/vaultpilot-mcp",
+            "url": "https://github.com/szhygulin/vaultpilot-mcp/commit/d59f24bd510483b736086c6a275c9e276f371263",
+            "snippet": "# Commit: szhygulin/vaultpilot-mcp@d59f24b\n\n- Repository: szhygulin/vaultpilot-mcp | Safety first. Hardware-verified DeFi for AI agents — designed for when the AI can be compromised. | 3 stars | TypeS",
+            "published": "2026-04-26T10:25:29.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-13T04:48:53.518Z"
+        "enriched_at": "2026-05-20T05:07:21.627Z"
       },
-      "timestamp": "2026-05-13T04:48:55.155Z"
+      "timestamp": "2026-05-20T05:07:23.683Z"
     },
     "superbet": {
       "intel": {
@@ -5519,9 +5526,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-13T04:48:55.156Z"
+        "enriched_at": "2026-05-20T05:07:23.683Z"
       },
-      "timestamp": "2026-05-13T04:48:56.862Z"
+      "timestamp": "2026-05-20T05:07:25.447Z"
     },
     "magic-eden": {
       "intel": {
@@ -5596,9 +5603,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-13T04:48:56.862Z"
+        "enriched_at": "2026-05-20T05:07:25.448Z"
       },
-      "timestamp": "2026-05-13T04:48:58.391Z"
+      "timestamp": "2026-05-20T05:07:27.276Z"
     },
     "boozt": {
       "intel": {
@@ -5661,21 +5668,14 @@
             "url": "https://github.com/boozt-platform",
             "snippet": "# Organization: Boozt Platform (@boozt-platform)\n\nNordic technology company selling fashion and lifestyle online.\n\n- Website: https://www.boozt.com\n- Email: opensource@boozt.com\n- Location: Sweden\n- F",
             "published": "2018-08-28T12:13:55.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "a55f125a55de1c0d4f41e66236027e01",
-            "url": "https://gist.github.com/KhanMarshaI/a55f125a55de1c0d4f41e66236027e01",
-            "snippet": "# Gist: OpenCart v4.1.0.3 - Time-of-check Time-of-use.md\n\n- Author: [@KhanMarshaI](https://github.com/KhanMarshaI)\n- Private gist (1 file)\n- Created: 2025-12-10T10:26:48Z\n- Updated: 2025-12-28T03:51:4",
-            "published": "2025-12-10T10:26:48.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-05-13T04:48:58.391Z"
+        "total_results": 8,
+        "enriched_at": "2026-05-20T05:07:27.276Z"
       },
-      "timestamp": "2026-05-13T04:48:59.927Z"
+      "timestamp": "2026-05-20T05:07:29.035Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -5711,17 +5711,17 @@
             "score": 1
           },
           {
+            "title": "Next.js SSRF Flaw CVE-2026-44578 Exposes 79K Servers",
+            "url": "https://thecybrdef.com/nextjs-ssrf-flaw-cve-2026-44578/",
+            "snippet": "Next.js SSRF Flaw CVE-2026-44578 Exposes 79K Servers\n\nA critical server-side request forgery vulnerability in the popular Next.js React framework is putting tens of thousands of self-hosted web applic",
+            "published": "2026-05-15T14:05:45.000Z",
+            "score": 0.5
+          },
+          {
             "title": "CVE-2026-22779: BlackSheep, White Lies: Anatomy of a CRLF Injection in CVE-2026-22779 | CVEReports",
             "url": "https://cvereports.com/reports/CVE-2026-22779",
             "snippet": "CVE-2026-22779: BlackSheep, White Lies: Anatomy of a CRLF Injection in CVE-2026-22779 | CVEReports\n\nCVE-2026-22779: BlackSheep, White Lies: Anatomy of a CRLF Injection in CVE-2026-22779 | CVEReports\nC",
             "published": "2026-01-14T16:49:34.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Copy.Fail Linux Vulnerability - Schneier on Security",
-            "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
-            "snippet": "Copy.Fail Linux Vulnerability - Schneier on Security\n\n## Copy.Fail Linux Vulnerability\n\nThis is the worst Linux vulnerability in years.\n\nTL;DR\n\n- copy.fail is a Linux kernel local privilege escalation",
-            "published": "2026-05-12T11:06:12.000Z",
             "score": 0
           }
         ],
@@ -5738,21 +5738,14 @@
             "url": "https://github.com/0xShe/CVE-2026-31431/blob/main/exploit.c",
             "snippet": "# File: 0xShe/CVE-2026-31431/exploit.c\n\n- Repository: 0xShe/CVE-2026-31431 | 19 stars | C\n- Branch: main\n\n```c\n#define _GNU_SOURCE\r\n#include <stdio.h>\r\n#include <stdlib.h>\r\n#include <string.h>\r\n#inclu",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "sheIIcode/CVE-2020-15368-vac-obregistercallback",
-            "url": "https://github.com/sheIIcode/CVE-2020-15368-vac-obregistercallback",
-            "snippet": "# Repository: sheIIcode/CVE-2020-15368-vac-obregistercallback (fork of [fengjixuchui/CVE-2020-15368](https://github.com/fengjixuchui/CVE-2020-15368))\n\nHow to exploit a vulnerable windows driver. Explo",
-            "published": "2023-06-24T21:16:10.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-05-13T04:48:59.927Z"
+        "total_results": 8,
+        "enriched_at": "2026-05-20T05:07:29.036Z"
       },
-      "timestamp": "2026-05-13T04:49:01.588Z"
+      "timestamp": "2026-05-20T05:07:30.741Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -5789,8 +5782,8 @@
           },
           {
             "title": "Vodafone Oman Customer Story | CrowdStrike",
-            "url": "https://www.crowdstrike.com/en-us/resources/customer-stories/vodafone-oman/",
-            "snippet": "Vodafone Oman Customer Story | CrowdStrike\n\nFive Steps for Frontier AI Security Readiness Download\n\n- Platform\n- Services\n- Solutions\n- Why CrowdStrike\n- Resources\n- Pricing\n\n2\n\nYour Cart\n\nAdded to Ca",
+            "url": "https://www.crowdstrike.com/en-au/resources/customer-stories/vodafone-oman/",
+            "snippet": "Vodafone Oman Customer Story | CrowdStrike\n\nAgentic SOC Summit: The New Standard for Autonomous Defense Register\n\n- Platform\n- Services\n- Solutions\n- Why CrowdStrike\n- Resources\n- Pricing\n\n1\n\nYour Car",
             "published": "2025-11-18T06:00:00.000Z",
             "score": 0
           }
@@ -5808,21 +5801,14 @@
             "url": "https://github.com/Vodafone-Oman",
             "snippet": "# Organization: @Vodafone-Oman\n\n- Followers: 18\n- Public Repos: 6\n- Created: 2020-02-27\n\n---\n\n## Top Repositories\n\n| Repository | Description | Stars | Language | Last Updated |\n| --- | --- | --- | --",
             "published": "2020-02-27T13:00:04.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Otsmane-Ahmed/CVE-2025-2620-poc",
-            "url": "https://github.com/Otsmane-Ahmed/CVE-2025-2620-poc",
-            "snippet": "# Repository: Otsmane-Ahmed/CVE-2025-2620-poc\n\n- Stars: 10\n- Forks: 1\n- Watchers: 10\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2025-03-22T15:26:",
-            "published": "2025-03-22T15:26:15.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 8,
-        "enriched_at": "2026-05-13T04:49:01.588Z"
+        "total_results": 7,
+        "enriched_at": "2026-05-20T05:07:30.741Z"
       },
-      "timestamp": "2026-05-13T04:49:03.290Z"
+      "timestamp": "2026-05-20T05:07:32.416Z"
     },
     "frontegg": {
       "intel": {
@@ -7522,17 +7508,17 @@
             "score": 0.5
           },
           {
-            "title": "Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, launches bug bounty",
-            "url": "https://www.digitimes.com/news/a20260508PD222/taiwan-data-2025-information-security-2026.html",
-            "snippet": "Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, launches bug bounty\n\nREALTIME NEWS\n\n# Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, ",
-            "published": "2026-05-09T23:17:53.000Z",
+            "title": "Coupang Taiwan Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/coupang-taiwan/",
+            "snippet": "Coupang Taiwan Bug Bounty Program - Bug Bounties\n\n# Coupang Taiwan\n\nTop 1K site\n\nBounty\n\n## Program Details\n\nHandle coupang_tw Managed Yes\n\n## Response Metrics\n\nResponse Time 11 days Bounty Time 122 d",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [
           {
             "title": "Taiwan Immigrants' Global News Network-Coupang Data Breach Affects Over 200,000 Taiwan Users; Ministry Orders Inspection and Compensation",
-            "url": "https://news.immigration.gov.tw/NewsSection/Detail/38d39f8a-ca6a-4c6e-9253-c77553e5cafc?category=0&lang=EN",
+            "url": "https://news.immigration.gov.tw/NewsSection/Detail/38d39f8a-ca6a-4c6e-9253-c77553e5cafc?lang=EN",
             "snippet": "Taiwan Immigrants' Global News Network-Coupang Data Breach Affects Over 200,000 Taiwan Users; Ministry Orders Inspection and Compensation\n\nNews Highlight\n\n2026-03-05 09:05\n\nCoupang Taiwan reported on ",
             "published": null,
             "score": 1
@@ -7568,18 +7554,18 @@
             "score": 0.5
           },
           {
-            "title": "joeywang4/Pubu-PoC",
-            "url": "https://github.com/joeywang4/Pubu-PoC",
-            "snippet": "# Repository: joeywang4/Pubu-PoC\n\nDownload books from pubu.com.tw without buying them 在未購買的情況下下載pubu電子書\n\n- Stars: 7\n- Forks: 3\n- Watchers: 7\n- Open issues: 0\n- Primary language: Python\n- Languages: Py",
-            "published": "2023-08-05T05:05:43.000Z",
+            "title": "tw.coupa.ng · Issue #9414 · hagezi/dns-blocklists",
+            "url": "https://github.com/hagezi/dns-blocklists/issues/9414",
+            "snippet": "# Issue: hagezi/dns-blocklists #9414\n\n- Repository: hagezi/dns-blocklists | DNS-Blocklists: For a better internet - keep the internet clean! | 22K stars | Text\n\n## tw.coupa.ng\n\n- Author: [@a77841s](ht",
+            "published": "2026-03-16T04:48:20.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-13T04:48:46.647Z"
+        "enriched_at": "2026-05-20T05:07:13.424Z"
       },
-      "timestamp": "2026-05-13T04:48:48.707Z"
+      "timestamp": "2026-05-20T05:07:15.786Z"
     },
     "anthropic": {
       "intel": {
@@ -7659,5 +7645,5 @@
       "timestamp": "2026-05-15T04:52:48.736Z"
     }
   },
-  "lastRun": "2026-05-19T05:03:44.176Z"
+  "lastRun": "2026-05-20T05:07:32.416Z"
 }
