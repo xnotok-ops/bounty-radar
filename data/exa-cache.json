@@ -1413,24 +1413,24 @@
         ],
         "twitter": [
           {
-            "title": "💀 Exploit for Stack-based Buffer Overflow in Asustor Data_Master CVE-2026-6643",
-            "url": "https://sploitus.com/exploit?id=111A29BF-0A40-56F3-B843-72979CA77F89",
-            "snippet": "💀 Exploit for Stack-based Buffer Overflow in Asustor Data_Master CVE-2026-6643\n\n# Exploit for Stack-based Buffer Overflow in Asustor Data_Master CVE-2026-6643\n\n2026-04-28 | CVSS 9.9\n\nCopy Download So",
+            "title": "MAL-2026-2083 - Vulnerability-Lookup",
+            "url": "https://cve.circl.lu/vuln/mal-2026-2083",
+            "snippet": "MAL-2026-2083 - Vulnerability-Lookup\n\n##### mal-2026-2083\n\n###### Vulnerability from ossf_malicious_packages\n\nPublished\n\n2026-03-23 08:06\n\nModified\n\n2026-04-10 15:51\n\nSummary\n\nMalicious code in anduri",
             "published": null,
             "score": 1
           },
           {
-            "title": "DoD Contractor Schemata API Data Exposure Flaw",
-            "url": "https://thecybrdef.com/dod-contractor-schemata-api-data-exposure-flaw/",
-            "snippet": "DoD Contractor Schemata API Data Exposure Flaw\n\nAn AI-powered autonomous security agent discovered that Schemata, an Andreessen Horowitz-backed Department of Defense contractor, had virtually no autho",
-            "published": "2026-05-06T15:34:40.000Z",
+            "title": "💀 Exploit for Stack-based Buffer Overflow in Asustor Data_Master CVE-2026-6643",
+            "url": "https://sploitus.com/exploit?id=111A29BF-0A40-56F3-B843-72979CA77F89",
+            "snippet": "💀 Exploit for Stack-based Buffer Overflow in Asustor Data_Master CVE-2026-6643\n\n# Exploit for Stack-based Buffer Overflow in Asustor Data_Master CVE-2026-6643\n\n2026-04-28 | CVSS 9.9\n\nCopy Download So",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Trix Shots: Remote Code Execution on Aviatrix Controller | Google Cloud Blog",
-            "url": "https://cloud.google.com/blog/topics/threat-intelligence/remote-code-execution-aviatrix-controller",
-            "snippet": "Trix Shots: Remote Code Execution on Aviatrix Controller | Google Cloud Blog\n\nThreat Intelligence\n\n# Trix Shots: Remote Code Execution on Aviatrix Controller\n\nJune 23, 2025\n\n- Transform with Google Cl",
-            "published": "2025-06-23T09:26:50.000Z",
+            "title": "Anduril's Counter-Drone Stack Needs Disclosure-Cost Admissibility",
+            "url": "https://qu3ry.net/articles/disruption-modeling/anduril-counter-drone",
+            "snippet": "Anduril's Counter-Drone Stack Needs Disclosure-Cost Admissibility\n\n---\n\n## Vendor and product reality\n\nAnduril's counter-UAS portfolio occupies a defined and rapidly growing procurement category. Anvi",
+            "published": "2026-04-25T07:56:16.000Z",
             "score": 0
           }
         ],
@@ -1441,13 +1441,20 @@
             "snippet": "# Repository: Teycir/fft-exploit-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell (80.9%), JavaScript (10.3%), SMT (4.7%), Circom (4.1%)\n- License",
             "published": "2026-03-04T19:55:38.000Z",
             "score": 1
+          },
+          {
+            "title": "Sl4cK0TH/CVE-2026-31431-PoC",
+            "url": "https://github.com/Sl4cK0TH/CVE-2026-31431-PoC",
+            "snippet": "# Repository: Sl4cK0TH/CVE-2026-31431-PoC\n\n- Stars: 3\n- Forks: 1\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: master\n- Created: 2026-05-02T14:12:06Z\n",
+            "published": "2026-05-02T14:12:06.000Z",
+            "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 7,
-        "enriched_at": "2026-05-21T05:10:38.418Z"
+        "total_results": 8,
+        "enriched_at": "2026-05-29T05:14:54.063Z"
       },
-      "timestamp": "2026-05-21T05:10:40.615Z"
+      "timestamp": "2026-05-29T05:14:56.526Z"
     },
     "twilio": {
       "intel": {
@@ -1501,9 +1508,16 @@
           {
             "title": "[Bug]: Unauthenticated Remote Code Execution via SMS Webhook — Missing Twilio Signature Validation · Issue #7089 · NousResearch/hermes-agent",
             "url": "https://github.com/NousResearch/hermes-agent/issues/7089",
-            "snippet": "# Issue: NousResearch/hermes-agent #7089\n\n- Repository: NousResearch/hermes-agent | The agent that grows with you | 137K stars | Python\n\n## [Bug]: Unauthenticated Remote Code Execution via SMS Webhook",
+            "snippet": "# Issue: NousResearch/hermes-agent #7089\n\n- Repository: NousResearch/hermes-agent | The agent that grows with you | 170K stars | Python\n\n## [Bug]: Unauthenticated Remote Code Execution via SMS Webhook",
             "published": "2026-04-10T10:02:21.000Z",
             "score": 1
+          },
+          {
+            "title": "add 0day exploit PJSIP 2026-25994 · 6040916 · VABISMO/binsmasher",
+            "url": "https://github.com/VABISMO/binsmasher/commit/6040916f0ad8a0ebedcee27735e6bf1dadabdc44",
+            "snippet": "# Commit: VABISMO/binsmasher@6040916\n\n- Repository: VABISMO/binsmasher | Binary auditing and automatic RCE generator | 5 stars | Python\n\n## add 0day exploit PJSIP 2026-25994\n\n- Author: [@VABISMO](http",
+            "published": "2026-04-07T23:07:13.000Z",
+            "score": 0.5
           },
           {
             "title": "typical-pashochek/CVE-2024-39713",
@@ -1514,10 +1528,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 8,
-        "enriched_at": "2026-05-21T05:10:40.615Z"
+        "total_results": 9,
+        "enriched_at": "2026-05-29T05:14:56.527Z"
       },
-      "timestamp": "2026-05-21T05:10:42.141Z"
+      "timestamp": "2026-05-29T05:14:58.277Z"
     },
     "doordash": {
       "intel": {
@@ -1583,18 +1597,18 @@
             "score": 0.5
           },
           {
-            "title": "uetsymphonique/react2shell-poc",
-            "url": "https://github.com/uetsymphonique/react2shell-poc",
-            "snippet": "# Repository: uetsymphonique/react2shell-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (84.4%), Shell (5.7%), Makefile (5.2%), Dockerfile (2.",
-            "published": "2026-01-08T10:46:38.000Z",
+            "title": "wesmar/CVE-2026-31431",
+            "url": "https://github.com/wesmar/CVE-2026-31431",
+            "snippet": "# Repository: wesmar/CVE-2026-31431\n\nCVE-2026-31431 is a bug in the handling of scatter-gather I/O operations and page cache references in the Linux kernel cryptographic subsystem — specifically in th",
+            "published": "2026-04-30T13:38:34.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-21T05:10:42.141Z"
+        "enriched_at": "2026-05-29T05:14:58.278Z"
       },
-      "timestamp": "2026-05-21T05:10:43.920Z"
+      "timestamp": "2026-05-29T05:14:59.714Z"
     },
     "robinhood": {
       "intel": {
@@ -1660,18 +1674,18 @@
             "score": 0.5
           },
           {
-            "title": "vivianpengnyc/robinhood-agent",
-            "url": "https://github.com/vivianpengnyc/robinhood-agent",
-            "snippet": "# Repository: vivianpengnyc/robinhood-agent\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: TypeScript\n- Languages: TypeScript (86.0%), Solidity (6.3%), CSS (5.8%), JavaScrip",
-            "published": "2026-03-06T05:30:47.000Z",
+            "title": "4d4f6f86eaa6c9af7a48abca8614631c",
+            "url": "https://gist.github.com/bountyhunter2048/4d4f6f86eaa6c9af7a48abca8614631c",
+            "snippet": "# Gist: init_reward_exploit.patch\n\n- Author: [@bountyhunter2048](https://github.com/bountyhunter2048)\n- Private gist (3 files)\n- Created: 2025-02-04T16:05:31Z\n- Updated: 2025-02-04T16:05:31Z\n\n## init_",
+            "published": "2025-02-04T16:05:31.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-21T05:10:43.920Z"
+        "enriched_at": "2026-05-29T05:14:59.714Z"
       },
-      "timestamp": "2026-05-21T05:10:45.645Z"
+      "timestamp": "2026-05-29T05:15:01.198Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1691,33 +1705,33 @@
             "score": 0.5
           },
           {
-            "title": "SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft | by Aser Ahmed | Mar, 2026 | Medium",
-            "url": "https://medium.com/@0xanubiis/ssrf-via-unvalidated-preflight-location-header-in-turborepo-leads-to-auth-token-theft-dc69445daee0",
-            "snippet": "SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft | by Aser Ahmed | Mar, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# SSRF via Unvalidated Preflight Location Header ",
-            "published": "2026-03-19T02:23:52.000Z",
+            "title": "CVE-2026-44578: Next.js WebSocket SSRF",
+            "url": "https://blog.bokvi.com/blog/cve-2026-44578-nextjs-websocket-ssrf/",
+            "snippet": "CVE-2026-44578: Next.js WebSocket SSRF\n\nA high-severity (CVSS 8.6) server-side request forgery flaw in the Next.js WebSocket upgrade handler that enables unauthenticated attackers to coerce self-hoste",
+            "published": "2026-05-15T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
+            "title": "💀 Exploit for Server-Side Request Forgery in Vercel Next.Js CVE-2026-44578",
+            "url": "https://sploitus.com/exploit?id=80480966-7D9A-5919-9D62-D32D8BB7511D",
+            "snippet": "💀 Exploit for Server-Side Request Forgery in Vercel Next.Js CVE-2026-44578\n\n# Exploit for Server-Side Request Forgery in Vercel Next.Js CVE-2026-44578\n\n2026-05-15 | CVSS 8.6\n\nCopy Download Source Sha",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "CVE-2026-44578 - Vulnerability Details - OpenCVE",
             "url": "https://app.opencve.io/cve/CVE-2026-44578",
             "snippet": "CVE-2026-44578 - Vulnerability Details - OpenCVE\n\nDescription\n\nNext.js is a React framework for building full-stack web applications. From 13.4.13 to before 15.5.16 and 16.2.5, self-hosted application",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Next.js CVE-2026-44578: SSRF Exposes 79,000 Self-Hosted Servers",
             "url": "https://pasqualepillitteri.it/en/news/2634/next-js-ssrf-cve-2026-44578-en",
             "snippet": "Next.js CVE-2026-44578: SSRF Exposes 79,000 Self-Hosted Servers\n\nnews\n\n# Next.js CVE-2026-44578: SSRF Exposes 79,000 Self-Hosted Servers\n\n##### Next.js patches CVE-2026-44578: SSRF in WebSocket upgrad",
             "published": "2026-05-15T20:11:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "NVD - cve-2026-3125",
-            "url": "https://nvd.nist.gov/vuln/detail/cve-2026-3125",
-            "snippet": "NVD - cve-2026-3125\n\n## CVE-2026-3125 Detail\n\n### Description\n\nA Server-Side Request Forgery (SSRF) vulnerability was identified in the @opennextjs/cloudflare package, resulting from a path normalizat",
-            "published": null,
             "score": 0
           }
         ],
@@ -1739,9 +1753,9 @@
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-05-21T05:10:45.645Z"
+        "enriched_at": "2026-05-29T05:15:01.198Z"
       },
-      "timestamp": "2026-05-21T05:10:47.346Z"
+      "timestamp": "2026-05-29T05:15:02.723Z"
     },
     "banco_plata": {
       "intel": {
@@ -1749,7 +1763,7 @@
           {
             "title": "Banco Plata Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/banco-plata/",
-            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\n# Banco Plata\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle banco_plata Managed Yes\n\n## Response Metrics\n\nResponse Time 17 days Bounty Time 1254 day",
+            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\n# Banco Plata\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle banco_plata Managed Yes\n\n## Response Metrics\n\nResponse Time 16 days Bounty Time 1254 day",
             "published": null,
             "score": 1
           },
@@ -1772,22 +1786,22 @@
           {
             "title": "Banco Plata Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/banco-plata/",
-            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\n# Banco Plata\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle banco_plata Managed Yes\n\n## Response Metrics\n\nResponse Time 17 days Bounty Time 1254 day",
+            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\n# Banco Plata\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle banco_plata Managed Yes\n\n## Response Metrics\n\nResponse Time 16 days Bounty Time 1254 day",
             "published": null,
             "score": 1
           },
           {
             "title": "Critical Remote Code Execution (RCE) via Jinja2 SSTI · Advisory · masci/banks · GitHub",
             "url": "https://github.com/masci/banks/security/advisories/GHSA-gphh-9q3h-jgpp",
-            "snippet": "Critical Remote Code Execution (RCE) via Jinja2 SSTI · Advisory · masci/banks · GitHub\n\n# Critical Remote Code Execution (RCE) via Jinja2 SSTI\n\nHigh\n\npublished GHSA-gphh-9q3h-jgpp May 6, 2026\n\n## Pack",
+            "snippet": "Critical Remote Code Execution (RCE) via Jinja2 SSTI · Advisory · masci/banks · GitHub\n\n# Critical Remote Code Execution (RCE) via Jinja2 SSTI\n\nHigh\n\npublished GHSA-gphh-9q3h-jgpp 3 weeks agoMay 6, 20",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Code Injection - Denial of Services · Advisory · plentico/plenti · GitHub",
-            "url": "https://github.com/plentico/plenti/security/advisories/GHSA-mj4v-hp69-27x5",
-            "snippet": "Code Injection - Denial of Services · Advisory · plentico/plenti · GitHub\n\n# Code Injection - Denial of Services\n\nModerate\n\npublished GHSA-mj4v-hp69-27x5 Feb 5, 2025\n\n## Package\n\ngithub.com/plentico/p",
-            "published": null,
+            "title": "Anatomy of a Cascading Breach: How an Unpatched CVE in A Tier-2 Bank Compromised National Payment Infrastructure | IJRIAS",
+            "url": "https://rsisinternational.org/journals/ijrias/view/anatomy-of-a-cascading-breach-how-an-unpatched-cve-in-a-tier-2-bank-compromised-national-payment-infrastructure",
+            "snippet": "Anatomy of a Cascading Breach: How an Unpatched CVE in A Tier-2 Bank Compromised National Payment Infrastructure | IJRIAS\n\n# Anatomy of a Cascading Breach: How an Unpatched CVE in A Tier-2 Bank Compro",
+            "published": "2026-05-13T16:59:20.000Z",
             "score": 0
           }
         ],
@@ -1802,7 +1816,7 @@
           {
             "title": "Critical Remote Code Execution (RCE) via Jinja2 SSTI · Advisory · masci/banks · GitHub",
             "url": "https://github.com/masci/banks/security/advisories/GHSA-gphh-9q3h-jgpp",
-            "snippet": "Critical Remote Code Execution (RCE) via Jinja2 SSTI · Advisory · masci/banks · GitHub\n\n# Critical Remote Code Execution (RCE) via Jinja2 SSTI\n\nHigh\n\npublished GHSA-gphh-9q3h-jgpp May 6, 2026\n\n## Pack",
+            "snippet": "Critical Remote Code Execution (RCE) via Jinja2 SSTI · Advisory · masci/banks · GitHub\n\n# Critical Remote Code Execution (RCE) via Jinja2 SSTI\n\nHigh\n\npublished GHSA-gphh-9q3h-jgpp 3 weeks agoMay 6, 20",
             "published": null,
             "score": 0.5
           },
@@ -1816,9 +1830,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-21T05:10:47.346Z"
+        "enriched_at": "2026-05-29T05:15:02.723Z"
       },
-      "timestamp": "2026-05-21T05:10:48.994Z"
+      "timestamp": "2026-05-29T05:15:04.377Z"
     },
     "netscaler_public_program": {
       "intel": {
@@ -1831,16 +1845,16 @@
             "score": 1
           },
           {
-            "title": "NetScaler Console/SDX Authenticated Arbitrary File Read/Write (FIXED) - Rapid7",
-            "url": "https://www.rapid7.com/blog/post/cve-2025-4365-cve-unassigned-netscaler-console-sdx-authenticated-arbitrary-file-read-write-fixed/",
-            "snippet": "NetScaler Console/SDX Authenticated Arbitrary File Read/Write (FIXED) - Rapid7\n\nVulnerabilities and Exploits\n\n# CVE-2025-4365/CVE-2024-12284: NetScaler Console/SDX Authenticated Arbitrary File Read/Wr",
+            "title": "Heap Overflow Vulnerability in Citrix NetScaler Gateway (CVE-2017-7219) - Knownsec Seebug Vulnerability Platform",
+            "url": "https://www.seebug.org/vuldb/ssvid-93073",
+            "snippet": "Heap Overflow Vulnerability in Citrix NetScaler Gateway (CVE-2017-7219) - Knownsec Seebug Vulnerability Platform\n\n# Heap Overflow Vulnerability in Citrix NetScaler Gateway (CVE-2017-7219)\n\nFollow 0\n\n#",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "CVE-2026-3055: Citrix NetScaler ADC and NetScaler Gateway Out-of-Bounds Read",
-            "url": "https://www.rapid7.com/blog/post/etr-cve-2026-3055-citrix-netscaler-adc-and-netscaler-gateway-out-of-bounds-read/",
-            "snippet": "CVE-2026-3055: Citrix NetScaler ADC and NetScaler Gateway Out-of-Bounds Read\n\nVulnerabilities and Exploits\n\n# CVE-2026-3055: Citrix NetScaler ADC and NetScaler Gateway Out-of-Bounds Read\n\nMar 23, 2026",
+            "title": "NetScaler Console/SDX Authenticated Arbitrary File Read/Write (FIXED) - Rapid7",
+            "url": "https://www.rapid7.com/blog/post/cve-2025-4365-cve-unassigned-netscaler-console-sdx-authenticated-arbitrary-file-read-write-fixed/",
+            "snippet": "NetScaler Console/SDX Authenticated Arbitrary File Read/Write (FIXED) - Rapid7\n\nVulnerabilities and Exploits\n\n# CVE-2025-4365/CVE-2024-12284: NetScaler Console/SDX Authenticated Arbitrary File Read/Wr",
             "published": null,
             "score": 0
           }
@@ -1893,9 +1907,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-21T05:10:48.994Z"
+        "enriched_at": "2026-05-29T05:15:04.377Z"
       },
-      "timestamp": "2026-05-21T05:10:50.580Z"
+      "timestamp": "2026-05-29T05:15:05.964Z"
     },
     "meesho_bbp": {
       "intel": {
@@ -1970,9 +1984,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-21T05:10:50.580Z"
+        "enriched_at": "2026-05-29T05:15:05.964Z"
       },
-      "timestamp": "2026-05-21T05:10:52.142Z"
+      "timestamp": "2026-05-29T05:15:07.920Z"
     },
     "braze_inc": {
       "intel": {
@@ -2033,16 +2047,16 @@
           {
             "title": "Astaruf/CVE-2026-40487",
             "url": "https://github.com/Astaruf/CVE-2026-40487",
-            "snippet": "# Repository: Astaruf/CVE-2026-40487\n\nCVE-2026-40487 - Postiz <= 2.21.5 - Arbitrary File Upload via MIME-Type Spoofing → Stored XSS → Account Takeover\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issue",
+            "snippet": "# Repository: Astaruf/CVE-2026-40487\n\nCVE-2026-40487 - Postiz <= 2.21.5 - Arbitrary File Upload via MIME-Type Spoofing → Stored XSS → Account Takeover\n\n- Stars: 2\n- Forks: 0\n- Watchers: 0\n- Open issue",
             "published": "2026-04-15T12:33:58.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-05-21T05:10:52.142Z"
+        "enriched_at": "2026-05-29T05:15:07.921Z"
       },
-      "timestamp": "2026-05-21T05:10:53.735Z"
+      "timestamp": "2026-05-29T05:15:09.745Z"
     },
     "kong": {
       "intel": {
@@ -2058,14 +2072,14 @@
             "title": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI Cybersecurity",
             "url": "https://kensai.app/blog/kong-api-gateway-cve-2026-authentication-bypass-rate-limiting",
             "snippet": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI Cybersecurity\n\nIs your Kong gateway exposed? Scan your API infrastructure for these CVEs and 331,910+ other vu",
-            "published": "2026-04-02T20:29:36.000Z",
+            "published": "2026-04-02T12:37:45.000Z",
             "score": 0.5
           },
           {
-            "title": "Critical API Gateway Authentication Bypass CVE-2026-3041 — Immediate Patching Required | KENSAI Cybersecurity",
-            "url": "https://kensai.app/blog/api-gateway-authentication-bypass-cve-2026-3041-critical-advisory",
-            "snippet": "Critical API Gateway Authentication Bypass CVE-2026-3041 — Immediate Patching Required | KENSAI Cybersecurity\n\n← Back to Blog KENSAI\n\nSecurityAPICVE\n\n2026-03-03 · 8 min read\n\nA critical authentication",
-            "published": "2026-02-28T19:04:55.000Z",
+            "title": "When The Gateway Becomes The Doorway: Pre-Auth RCE in API Management | Security Research | Principle Breach | Principle Breach",
+            "url": "https://principlebreach.com/lab/when-the-gateway-becomes-the-doorway-pre-auth-rce-in-api-management",
+            "snippet": "Initiating Handshake...\n\nWhen The Gateway Becomes The Doorway: Pre-Auth RCE in API Management | Security Research | Principle Breach | Principle Breach\n\nInitiating Handshake...\nWhen The Gateway Become",
+            "published": "2026-01-18T11:30:00.000Z",
             "score": 0
           }
         ],
@@ -2074,7 +2088,7 @@
             "title": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI Cybersecurity",
             "url": "https://kensai.app/blog/kong-api-gateway-cve-2026-authentication-bypass-rate-limiting",
             "snippet": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI Cybersecurity\n\nIs your Kong gateway exposed? Scan your API infrastructure for these CVEs and 331,910+ other vu",
-            "published": "2026-04-02T20:29:36.000Z",
+            "published": "2026-04-02T12:37:45.000Z",
             "score": 1
           },
           {
@@ -2087,7 +2101,7 @@
           {
             "title": "December 2024 Unauthorized Kong Ingress Controller 3.4.0 Build  | Kong Inc.",
             "url": "https://konghq.com/blog/product-releases/december-2024-unauthorized-kong-ingress-controller-3-4-0-build",
-            "snippet": "December 2024 Unauthorized Kong Ingress Controller 3.4.0 Build | Kong Inc.\n\nREGISTER NOW FOR API + AI SUMMIT 2026 | EARLY BIRD PRICING ENDS JUNE 10 SECURE YOUR SPOT FOR THE KONG AGENTIC ERA WORLD TOUR",
+            "snippet": "December 2024 Unauthorized Kong Ingress Controller 3.4.0 Build | Kong Inc.\n\nSECURE YOUR SPOT FOR THE KONG AGENTIC ERA WORLD TOUR GOVERN A2A TRAFFIC WITH KONG'S NEW AGENT GATEWAY DON’T MISS API + AI SU",
             "published": "2023-08-14T04:18:26.000Z",
             "score": 0
           }
@@ -2117,9 +2131,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-21T05:10:53.735Z"
+        "enriched_at": "2026-05-29T05:15:09.746Z"
       },
-      "timestamp": "2026-05-21T05:10:55.350Z"
+      "timestamp": "2026-05-29T05:15:11.640Z"
     },
     "whoop_bug_bounty": {
       "intel": {
@@ -7589,5 +7603,5 @@
       "timestamp": "2026-05-22T05:03:19.947Z"
     }
   },
-  "lastRun": "2026-05-28T05:10:36.206Z"
+  "lastRun": "2026-05-29T05:15:11.641Z"
 }
