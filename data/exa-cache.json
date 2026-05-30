@@ -2208,9 +2208,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-23T04:43:20.485Z"
+        "enriched_at": "2026-05-30T04:53:54.885Z"
       },
-      "timestamp": "2026-05-23T04:43:22.428Z"
+      "timestamp": "2026-05-30T04:53:56.549Z"
     },
     "hubspot": {
       "intel": {
@@ -2225,7 +2225,7 @@
           {
             "title": "Saving 100,000 websites from a Watering Hole attack | by mohamad mahmoudi | Medium",
             "url": "https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94",
-            "snippet": "Saving 100,000 websites from a Watering Hole attack | by mohamad mahmoudi | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Saving 100,000 webs",
+            "snippet": "Saving 100,000 websites from a Watering Hole attack | by mohamad mahmoudi | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Saving 100,000 websites from a Watering Hole attack\n\n5 min read\n\nAug 31, 2022\n\n--\n\nShar",
             "published": "2022-08-31T11:45:56.000Z",
             "score": 0.5
           },
@@ -2239,10 +2239,10 @@
         ],
         "twitter": [
           {
-            "title": "RCE in Hubspot with EL injection in HubL",
-            "url": "https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html",
-            "snippet": "RCE in Hubspot with EL injection in HubL Skip to main content\n\n### RCE in Hubspot with EL injection in HubL\n\nThis is the story of how I was able to get remote code execution on Hubspot's servers by ex",
-            "published": "2018-12-01T00:00:00.000Z",
+            "title": "Saving 100,000 websites from a Watering Hole attack | by mohamad mahmoudi | Medium",
+            "url": "https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94",
+            "snippet": "Saving 100,000 websites from a Watering Hole attack | by mohamad mahmoudi | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Saving 100,000 websites from a Watering Hole attack\n\n5 min read\n\nAug 31, 2022\n\n--\n\nShar",
+            "published": "2022-08-31T11:45:56.000Z",
             "score": 1
           },
           {
@@ -2253,10 +2253,10 @@
             "score": 0.5
           },
           {
-            "title": "Saving over 100,000 websites from a Watering Hole attack",
-            "url": "https://medmahmoudi.com/projects/saving-over-100000-websites-from-a-watering-hole-attack",
-            "snippet": "Saving over 100,000 websites from a Watering Hole attack\n\n# Saving over 100,000 websites from a Watering Hole attack\n\nType\n\nwriteup\n\nDescription\n\nIn this article, I detail the discovery of a critical ",
-            "published": null,
+            "title": "RCE in Hubspot with EL injection in HubL",
+            "url": "https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html",
+            "snippet": "RCE in Hubspot with EL injection in HubL Skip to main content\n\n### RCE in Hubspot with EL injection in HubL\n\nThis is the story of how I was able to get remote code execution on Hubspot's servers by ex",
+            "published": "2018-12-01T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2278,16 +2278,16 @@
           {
             "title": "exploit.py at main · adriyansyah-mf/cve-2026-41940-poc",
             "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
-            "snippet": "# File: adriyansyah-mf/cve-2026-41940-poc/exploit.py\n\n- Repository: adriyansyah-mf/cve-2026-41940-poc | 27 stars | Python\n- Branch: main\n\n```py\nimport argparse\nimport base64\nimport json\nimport re\nimpo",
+            "snippet": "# File: adriyansyah-mf/cve-2026-41940-poc/exploit.py\n\n- Repository: adriyansyah-mf/cve-2026-41940-poc | 29 stars | Python\n- Branch: main\n\n```py\nimport argparse\nimport base64\nimport json\nimport re\nimpo",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-23T04:43:22.429Z"
+        "enriched_at": "2026-05-30T04:53:56.549Z"
       },
-      "timestamp": "2026-05-23T04:43:24.249Z"
+      "timestamp": "2026-05-30T04:53:58.172Z"
     },
     "oppo_bbp": {
       "intel": {
@@ -2355,48 +2355,48 @@
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-05-23T04:43:24.249Z"
+        "enriched_at": "2026-05-30T04:53:58.172Z"
       },
-      "timestamp": "2026-05-23T04:43:26.084Z"
+      "timestamp": "2026-05-30T04:53:59.888Z"
     },
     "1password_ctf": {
       "intel": {
         "writeups": [
           {
+            "title": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper",
+            "url": "https://scotthelme.co.uk/passkeys-permissions-policy-and-bug-hunting-in-1passwords-webauthn-wrapper/",
+            "snippet": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\nSponsored by: Report URI - See what code actually runs in your users' browsers. No assumptions. No guesswork.\n\nPasskeys ar",
+            "published": "2026-05-21T14:40:02.000Z",
+            "score": 1
+          },
+          {
             "title": "Untitled",
             "url": "https://cure53.de/pentest-report_1password-b5.pdf",
             "snippet": "Dr.-Ing. Mario Heiderich, Cure53 \nBielefelder Str. 14 \nD 10709 Berlin \ncure53.de · mario@cure53.de \n\nPentest-Report 1Password B5 & Permissions 10.2020 Cure53, Dr.-Ing. M. Heiderich, MSc. S. Moritz, MS",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Recovering the Master Password from a Locked Password Manager (1Password 4)",
             "url": "https://blog.securityevaluators.com/recovering-the-master-password-from-a-locked-password-manager-1password-4-5d32cd569907",
             "snippet": "Recovering the Master Password from a Locked Password Manager (1Password 4) | by Adrian Bednarek | Independent Security Evaluators\n[Open in app](https://rsci.app.link/?$canonical_url=https://medium.co",
             "published": "2019-02-20T04:13:50.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "# Full Vault Decryption: Cracking the 1Password Security Challenge | by Fazul Rehman | Apr, 2026 | Medium",
-            "url": "https://medium.com/@fazul1324/full-vault-decryption-cracking-the-1password-security-challenge-c7233f7fc9d6",
-            "snippet": "# Full Vault Decryption: Cracking the 1Password Security Challenge | by Fazul Rehman | Apr, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\n2 min read\n\nApr 15, 2026\n\n--\n\nShare\n\nPress enter or click to view ",
-            "published": "2026-04-15T06:54:59.000Z",
             "score": 0
           }
         ],
         "twitter": [
           {
-            "title": "manchicken/1password-cli-vuln-disclosure: This repository contains the disclosure of a vulnerability that I discovered in 1Password's CLI product. Responsible disclosure was made via BugCrowd on 2nd October, 2023, and disclosure was authorized in January of 2024. - Codeberg.org",
-            "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
-            "snippet": "manchicken/1password-cli-vuln-disclosure: This repository contains the disclosure of a vulnerability that I discovered in 1Password's CLI product. Responsible disclosure was made via BugCrowd on 2nd O",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "morganc3/1password-exploits",
             "url": "https://github.com/morganc3/1password-exploits",
             "snippet": "# Repository: morganc3/1password-exploits\n\n- Stars: 12\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Objective-C\n- Languages: Objective-C (45.3%), HTML (33.1%), Roff (9.9%), Rich Text ",
             "published": "2024-07-12T19:25:38.000Z",
+            "score": 1
+          },
+          {
+            "title": "manchicken/1password-cli-vuln-disclosure: This repository contains the disclosure of a vulnerability that I discovered in 1Password's CLI product. Responsible disclosure was made via BugCrowd on 2nd October, 2023, and disclosure was authorized in January of 2024. - Codeberg.org",
+            "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+            "snippet": "manchicken/1password-cli-vuln-disclosure: This repository contains the disclosure of a vulnerability that I discovered in 1Password's CLI product. Responsible disclosure was made via BugCrowd on 2nd O",
+            "published": null,
             "score": 0.5
           },
           {
@@ -2432,9 +2432,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-23T04:43:26.084Z"
+        "enriched_at": "2026-05-30T04:53:59.888Z"
       },
-      "timestamp": "2026-05-23T04:43:27.910Z"
+      "timestamp": "2026-05-30T04:54:01.482Z"
     },
     "1password": {
       "intel": {
@@ -2447,16 +2447,16 @@
             "score": 1
           },
           {
-            "title": "Untitled",
-            "url": "https://bucket.agilebits.com/security/Cure53-1PW18-report.pdf",
-            "snippet": "Dr.-Ing. Mario Heiderich, Cure53\n Bielefelder Str. 14\n D 10709 Berlin\n cure53.de · mario@cure53.de\nPentest-Report 1Password Core 11.-12.2021\nCure53, Dr.-Ing. M. Heiderich, MSc. S. Moritz, MSc. F. Fäßl",
-            "published": null,
+            "title": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper",
+            "url": "https://scotthelme.co.uk/passkeys-permissions-policy-and-bug-hunting-in-1passwords-webauthn-wrapper/",
+            "snippet": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\nSponsored by: Report URI - See what code actually runs in your users' browsers. No assumptions. No guesswork.\n\nPasskeys ar",
+            "published": "2026-05-21T14:40:02.000Z",
             "score": 0.5
           },
           {
             "title": "Untitled",
-            "url": "https://bucket.agilebits.com/security/Cure53-B5_1PW-06-report.v2.pdf",
-            "snippet": "Dr.-Ing. Mario Heiderich, Cure53\n Bielefelder Str. 14\n D 10709 Berlin\n cure53.de · mario@cure53.de\nPentest-Report 1Password B5 & Permissions 10.2020\nCure53, Dr.-Ing. M. Heiderich, MSc. S. Moritz, MSc.",
+            "url": "https://bucket.agilebits.com/security/Cure53-1PW18-report.pdf",
+            "snippet": "Dr.-Ing. Mario Heiderich, Cure53\n Bielefelder Str. 14\n D 10709 Berlin\n cure53.de · mario@cure53.de\nPentest-Report 1Password Core 11.-12.2021\nCure53, Dr.-Ing. M. Heiderich, MSc. S. Moritz, MSc. F. Fäßl",
             "published": null,
             "score": 0
           }
@@ -2479,7 +2479,7 @@
           {
             "title": "NVD - CVE-2022-29868",
             "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-29868",
-            "snippet": "NVD - CVE-2022-29868 \n\n## CVE-2022-29868 Detail\n\nModified\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may require amendment ",
+            "snippet": "NVD - CVE-2022-29868\n\n## CVE-2022-29868 Detail\n\nModified After Enrichment\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may re",
             "published": null,
             "score": 0
           }
@@ -2509,9 +2509,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-23T04:43:27.910Z"
+        "enriched_at": "2026-05-30T04:54:01.482Z"
       },
-      "timestamp": "2026-05-23T04:43:29.770Z"
+      "timestamp": "2026-05-30T04:54:03.001Z"
     },
     "bcny": {
       "intel": {
@@ -2531,10 +2531,10 @@
             "score": 0.5
           },
           {
-            "title": "This browser had a 'serious' security vulnerability, here's how they're fixing it",
-            "url": "https://9to5mac.com/2024/09/28/arc-browser-vulnerability/",
-            "snippet": "This browser had a 'serious' security vulnerability, here's how they're fixing it\n\n# Arc Browser had a ‘serious’ security vulnerability, here’s how they’re addressing it\n\nBack in late August, The Brow",
-            "published": "2024-09-28T12:38:18.000Z",
+            "title": "The Browser Company of New York Vulnerabilities (4 CVEs) | Shenlong CVE Platform",
+            "url": "https://cve.imfht.com/vendor/The%20Browser%20Company%20of%20New%20York",
+            "snippet": "The Browser Company of New York Vulnerabilities (4 CVEs) | Shenlong CVE Platform\n\n###### Goal Reached Thanks to every supporter — we hit 100%!\n\nGoal: 1000 CNY · Raised: 1110 CNY\n\n100%\n\nBuy Us a Coffee",
+            "published": null,
             "score": 0
           }
         ],
@@ -2547,17 +2547,17 @@
             "score": 1
           },
           {
+            "title": "The Browser Company of New York Vulnerabilities (4 CVEs) | Shenlong CVE Platform",
+            "url": "https://cve.imfht.com/vendor/The%20Browser%20Company%20of%20New%20York",
+            "snippet": "The Browser Company of New York Vulnerabilities (4 CVEs) | Shenlong CVE Platform\n\n###### Goal Reached Thanks to every supporter — we hit 100%!\n\nGoal: 1000 CNY · Raised: 1110 CNY\n\n100%\n\nBuy Us a Coffee",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "CVE-2026-7234: BrowserOperator Path Traversal Vulnerability",
             "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-7234/",
             "snippet": "CVE-2026-7234: BrowserOperator Path Traversal Vulnerability\n\nCVE-2026-7234: BrowserOperator Path Traversal Vulnerability\n![](https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt66fc75f4e71",
             "published": "2026-04-28T07:16:04.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "How we’re investing in security at The Browser Company – Arc",
-            "url": "https://arc.net/blog/investing-in-security",
-            "snippet": "How we’re investing in security at The Browser Company – Arc\n\nMeet Dia, a new AI browser from the makers of Arc →\n\nBack to Blog Home\n\n# Investing in Security at The Browser Company\n\nTag:Security Bulle",
-            "published": "2024-09-27T17:23:00.000Z",
             "score": 0
           }
         ],
@@ -2586,9 +2586,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-23T04:43:29.771Z"
+        "enriched_at": "2026-05-30T04:54:03.001Z"
       },
-      "timestamp": "2026-05-23T04:43:31.468Z"
+      "timestamp": "2026-05-30T04:54:04.623Z"
     },
     "verily_life_sciences": {
       "intel": {
@@ -2631,41 +2631,41 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2026-2472: CWE-79 Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') in Google Cloud Vertex AI SDK for Python - Live Threat Intelligence - Threat Radar | OffSeq.com",
-            "url": "https://radar.offseq.com/threat/cve-2026-2472-cwe-79-improper-neutralization-of-in-08ce0843",
-            "snippet": "CVE-2026-2472: CWE-79 Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') in Google Cloud Vertex AI SDK for Python - Live Threat Intelligence - Threat Radar | O",
-            "published": "2026-02-20T19:29:12.000Z",
+            "title": "DOM XSS to Account Takeover: Not-So-Dirty Dancing in GIS SDK — Voorivex Team",
+            "url": "https://blog.voorivex.team/not-so-dirty-dancing-in-gis-sdk",
+            "snippet": "DOM XSS to Account Takeover: Not-So-Dirty Dancing in GIS SDK — Voorivex Team\n\nWhile reading through the login page's JavaScript code, I noticed a query parameter called`rUrl` being used in a`location.",
+            "published": "2025-12-07T00:00:00.000Z",
             "score": 0
           }
         ],
         "github": [
           {
-            "title": "megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "url": "https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "snippet": "# Repository: megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud\n\nExpose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.",
-            "published": "2026-03-10T14:40:04.000Z",
-            "score": 1
-          },
-          {
             "title": "security-research/pocs/cpus/tdxploits at master · google/security-research · GitHub",
             "url": "https://github.com/google/security-research/tree/master/pocs/cpus/tdxploits",
             "snippet": "security-research/pocs/cpus/tdxploits at master · google/security-research · GitHub\n\n/ security-research Public\n\nStar 4.4k\n\n- Pricing\n- Notifications\n- Fork 524\n\n \n\n## Files\n\n master\n\n# tdxploits\n\nHis",
             "published": "2020-06-15T09:19:51.000Z",
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "pocs/linux/bleedingtooth/exploit.c at master · google/security-research",
             "url": "https://github.com/google/security-research/blob/master/pocs/linux/bleedingtooth/exploit.c",
             "snippet": "# File: google/security-research/pocs/linux/bleedingtooth/exploit.c\n\n- Repository: google/security-research | This project hosts security advisories and their accompanying proof-of-concepts related to",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
+            "url": "https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
+            "snippet": "# Repository: megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud\n\nExpose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.",
+            "published": "2026-03-10T14:40:04.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-23T04:43:31.468Z"
+        "enriched_at": "2026-05-30T04:54:04.623Z"
       },
-      "timestamp": "2026-05-23T04:43:33.236Z"
+      "timestamp": "2026-05-30T04:54:06.432Z"
     },
     "neon_bbp": {
       "intel": {
@@ -2680,7 +2680,7 @@
           {
             "title": "Bugbounty and Pentests at Neon - Neon",
             "url": "https://neon.com/blog/bugbounty-and-pentests-at-neon",
-            "snippet": "Bugbounty and Pentests at Neon - Neon\n\nTeam accounts with unlimited members now available to everyone! Invite your teammates and ship faster together, even on the Free Plan.\n\n# Bugbounty and Pentests ",
+            "snippet": "Bugbounty and Pentests at Neon - Neon\n\nPut an end to add-on fees. Neon includes SOC2, HIPAA, PrivateLink, Log Exports, PITR, SLAs on the Scale plan. 100% usage-based. No fixed fees.\n\n# Bugbounty and P",
             "published": "2024-11-25T16:43:38.000Z",
             "score": 0.5
           },
@@ -2701,17 +2701,17 @@
             "score": 1
           },
           {
-            "title": "[Bug]: Cascading priority deadlock in Pageserver read path via `gc_compaction_layer_update_lock` during layer I/O · Issue #12874 · neondatabase/neon",
-            "url": "https://github.com/neondatabase/neon/issues/12874",
-            "snippet": "# Issue: neondatabase/neon #12874\n\n- Repository: neondatabase/neon | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. ",
-            "published": "2026-03-28T05:38:18.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Fix CVE-2024-4317 · Pull Request #8402 · neondatabase/neon",
             "url": "https://github.com/neondatabase/neon/pull/8402",
             "snippet": "# Pull Request: neondatabase/neon #8402\n\n- Repository: neondatabase/neon | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to ",
             "published": "2024-07-16T19:25:46.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "[Bug]: Cascading priority deadlock in Pageserver read path via `gc_compaction_layer_update_lock` during layer I/O · Issue #12874 · neondatabase/neon",
+            "url": "https://github.com/neondatabase/neon/issues/12874",
+            "snippet": "# Issue: neondatabase/neon #12874\n\n- Repository: neondatabase/neon | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. ",
+            "published": "2026-03-28T05:38:18.000Z",
             "score": 0
           }
         ],
@@ -2733,16 +2733,16 @@
           {
             "title": "p3Nt3st3r-sTAr/CVE-2026-42945-POC",
             "url": "https://github.com/p3Nt3st3r-sTAr/CVE-2026-42945-POC",
-            "snippet": "# Repository: p3Nt3st3r-sTAr/CVE-2026-42945-POC\n\n- Stars: 6\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (92.6%), Shell (7.4%)\n- Default branch: main\n- Crea",
+            "snippet": "# Repository: p3Nt3st3r-sTAr/CVE-2026-42945-POC\n\n- Stars: 14\n- Forks: 9\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (92.6%), Shell (7.4%)\n- Default branch: main\n- Cre",
             "published": "2026-05-14T06:12:17.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-23T04:43:33.236Z"
+        "enriched_at": "2026-05-30T04:54:06.432Z"
       },
-      "timestamp": "2026-05-23T04:43:35.014Z"
+      "timestamp": "2026-05-30T04:54:07.884Z"
     },
     "bumba_bbp": {
       "intel": {
@@ -2817,9 +2817,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-23T04:43:35.014Z"
+        "enriched_at": "2026-05-30T04:54:07.884Z"
       },
-      "timestamp": "2026-05-23T04:43:37.318Z"
+      "timestamp": "2026-05-30T04:54:09.546Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -2839,10 +2839,10 @@
             "score": 0.5
           },
           {
-            "title": "Starbucks Japan | Security Program",
-            "url": "https://ooosec.com/programs/starbucks-japan",
-            "snippet": "Starbucks Japan | Security Program\n\n## Starbucks Japan\n\n# Starbucks Japan\n\nBounty Range\n\n$150 - $3,000\n\nexternal program\n\n## Details\n\nStarbucks Japan | Security Program\n[OOOsecOOOsec](https://ooosec.c",
-            "published": null,
+            "title": "[Bugbounty Study] #Starbucks _ XSS & LFI :: GRINI",
+            "url": "https://grini25.tistory.com/177",
+            "snippet": "[Bugbounty Study] #Starbucks _ XSS & LFI :: GRINI\n\n## 인기포스트 MORE POST\n\n### ABOUT ME\n\n-\n\n- 트위터\n- 인스타그램\n\nToday - Yesterday - Total -\n\n[Bugbounty Study] #Starbucks _ XSS & LFI\n\n### # Reflected Cross site",
+            "published": "2020-03-21T21:53:28.000Z",
             "score": 0
           }
         ],
@@ -2894,9 +2894,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-23T04:43:37.319Z"
+        "enriched_at": "2026-05-30T04:54:09.546Z"
       },
-      "timestamp": "2026-05-23T04:43:39.022Z"
+      "timestamp": "2026-05-30T04:54:11.252Z"
     },
     "starbucks_china": {
       "intel": {
@@ -7603,5 +7603,5 @@
       "timestamp": "2026-05-22T05:03:19.947Z"
     }
   },
-  "lastRun": "2026-05-29T05:15:11.641Z"
+  "lastRun": "2026-05-30T04:54:11.252Z"
 }
