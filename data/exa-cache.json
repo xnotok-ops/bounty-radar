@@ -4974,24 +4974,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "From Click to Critical: How I Found PII Without Even Trying — $1,100 Bounty, My First Bounty on HackerOne | by ͏ ͏Dukrov 🍏 | Medium",
+            "url": "https://dukrov.medium.com/from-click-to-critical-how-i-found-pii-without-even-trying-1-100-bounty-my-first-bounty-on-651902f7238c",
+            "snippet": "From Click to Critical: How I Found PII Without Even Trying — $1,100 Bounty, My First Bounty on HackerOne | by ͏ ͏Dukrov 🍏 | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# From Click to Critical: How I Found P",
+            "published": "2025-05-24T19:34:52.000Z",
+            "score": 1
+          },
+          {
             "title": "A hacker's welcome: Benefiting from the bug bounty - Redox",
             "url": "https://redoxengine.com/blog/shut-the-backdoor-podcast-hackers-welcome-benefiting-from-bug-bounty/",
             "snippet": "A hacker's welcome: Benefiting from the bug bounty - Redox\n\n# A hacker’s welcome: Benefiting from the bug bounty\n\nMar 4, 2025\n\n“Putting this effort into the bug bounty helps us identify any sort of ga",
             "published": "2025-03-04T17:49:00.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Bug Writeup: Stored XSS to Account Takeover (ATO) via GraphQL API | A developer's notes in the world of security research and bug bounty, by pmnh",
             "url": "https://www.pmnh.site/post/witeup_lhe_graphql_stored_xss/",
             "snippet": "Bug Writeup: Stored XSS to Account Takeover (ATO) via GraphQL API | A developer's notes in the world of security research and bug bounty, by pmnh\n\n# Bug Writeup: Stored XSS to Account Takeover (ATO) v",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "SQL Injection Leads to $$$ Bounty: How I Found a Critical Bug | by Arrhenius Paelongan | Medium",
-            "url": "https://medium.com/@arrheniuspaelongan09/sql-injection-leads-to-bounty-how-i-found-a-critical-bug-cbacc35a2f19",
-            "snippet": "SQL Injection Leads to $$$ Bounty: How I Found a Critical Bug | by Arrhenius Paelongan | Medium\n\nSign up\n\nGet app\n\nSign up\n\nMember-only story\n\n# SQL Injection Leads to $$$ Bounty: How I Found a Critic",
-            "published": "2025-04-14T02:25:34.000Z",
             "score": 0
           }
         ],
@@ -5011,9 +5011,9 @@
             "score": 0.5
           },
           {
-            "title": "NVD - CVE-2025-64050",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-64050",
-            "snippet": "NVD - CVE-2025-64050\n\n## CVE-2025-64050 Detail\n\n### Description\n\nA Remote Code Execution (RCE) vulnerability in the template management component in REDAXO CMS 5.20.0 allows remote authenticated admin",
+            "title": "Pre-auth RCE via Path Manipulation & Configuration Injection · Advisory · frangoteam/FUXA · GitHub",
+            "url": "https://github.com/frangoteam/FUXA/security/advisories/GHSA-p69w-mmfv-xrfj",
+            "snippet": "Pre-auth RCE via Path Manipulation & Configuration Injection · Advisory · frangoteam/FUXA · GitHub\n\n# Pre-auth RCE via Path Manipulation & Configuration Injection\n\nHigh\n\npublished GHSA-p69w-mmfv-xrfj ",
             "published": null,
             "score": 0
           }
@@ -5027,25 +5027,25 @@
             "score": 1
           },
           {
+            "title": "rxstd/CVE-2025-55182-poc",
+            "url": "https://github.com/rxstd/CVE-2025-55182-poc",
+            "snippet": "# Repository: rxstd/CVE-2025-55182-poc (fork of [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research))\n\nCVE-2025-55182 POC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issue",
+            "published": "2025-12-04T00:04:13.000Z",
+            "score": 0.5
+          },
+          {
             "title": "saneki/cve-2025-49844",
             "url": "https://github.com/saneki/cve-2025-49844",
             "snippet": "# Repository: saneki/cve-2025-49844\n\nProof-of-concept for CVE-2025-49844\n\n- Stars: 24\n- Forks: 7\n- Watchers: 0\n- Open issues: 3\n- Primary language: Python\n- Languages: Python (99.8%), Dockerfile (0.2%",
             "published": "2025-10-31T05:59:25.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "rsch-io/CVE-2025-55182-React2Shell",
-            "url": "https://github.com/rsch-io/CVE-2025-55182-React2Shell",
-            "snippet": "# Repository: rsch-io/CVE-2025-55182-React2Shell\n\nReact2Shell (CVE-2025-55182) proof-of-concept (PoC) exploit demonstrating a CRITICAL remote code execution (RCE) vulnerability in modern web framework",
-            "published": "2025-12-09T07:55:31.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-26T05:05:36.967Z"
+        "enriched_at": "2026-06-03T06:05:35.892Z"
       },
-      "timestamp": "2026-05-26T05:05:38.550Z"
+      "timestamp": "2026-06-03T06:05:37.641Z"
     },
     "okg": {
       "intel": {
@@ -5120,9 +5120,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-27T05:18:29.365Z"
+        "enriched_at": "2026-06-03T06:05:37.642Z"
       },
-      "timestamp": "2026-05-27T05:18:30.756Z"
+      "timestamp": "2026-06-03T06:05:39.482Z"
     },
     "1win_com": {
       "intel": {
@@ -5237,18 +5237,18 @@
             "score": 0.5
           },
           {
-            "title": "TrustedVolumes RFQ exploit report and Foundry repro",
-            "url": "https://gist.github.com/banteg/3475d43a80fb6e0ab81f2fa549b88c1b",
-            "snippet": "# Gist: TrustedVolumes RFQ exploit report and Foundry repro\n\n- Author: [@banteg](https://github.com/banteg)\n- Private gist (6 files)\n- Created: 2026-05-07T12:29:28Z\n- Updated: 2026-05-07T13:32:35Z\n\n##",
-            "published": "2026-05-07T12:29:28.000Z",
+            "title": "src/test/2024-03/Woofi_exp.sol at main · SunWeb3Sec/DeFiHackLabs",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2024-03/Woofi_exp.sol",
+            "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2024-03/Woofi_exp.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 6K stars | Solidity\n- Branch: main\n\n```sol\n// S",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-27T05:18:30.757Z"
+        "enriched_at": "2026-06-03T06:05:39.482Z"
       },
-      "timestamp": "2026-05-27T05:18:32.150Z"
+      "timestamp": "2026-06-03T06:05:41.038Z"
     },
     "pornbox": {
       "intel": {
@@ -5307,25 +5307,25 @@
             "score": 1
           },
           {
-            "title": "Adversis/PandorasBox",
-            "url": "https://github.com/adversis/PandorasBox",
-            "snippet": "# Repository: Adversis/PandorasBox\n\nSecurity tool to quickly audit Public Box files and folders.\n\n- Stars: 54\n- Forks: 22\n- Watchers: 54\n- Open issues: 4\n- Primary language: Python\n- Languages: Python",
-            "published": "2019-03-09T02:37:23.000Z",
-            "score": 0.5
-          },
-          {
             "title": "qtchaos/vidbox",
             "url": "https://github.com/qtchaos/vidbox",
             "snippet": "# Repository: qtchaos/vidbox\n\nThe VidBox video streaming platform has recently implemented a stream key system to combat content piracy, can you break their client-side security and find all the flags",
             "published": "2024-09-18T20:08:39.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Adversis/PandorasBox",
+            "url": "https://github.com/adversis/PandorasBox",
+            "snippet": "# Repository: Adversis/PandorasBox\n\nSecurity tool to quickly audit Public Box files and folders.\n\n- Stars: 54\n- Forks: 22\n- Watchers: 54\n- Open issues: 4\n- Primary language: Python\n- Languages: Python",
+            "published": "2019-03-09T02:37:23.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-27T05:18:32.150Z"
+        "enriched_at": "2026-06-03T06:05:41.038Z"
       },
-      "timestamp": "2026-05-27T05:18:33.526Z"
+      "timestamp": "2026-06-03T06:05:42.518Z"
     },
     "tron_dao": {
       "intel": {
@@ -5384,25 +5384,25 @@
             "score": 1
           },
           {
-            "title": "dwallet-labs/tron-multisig-vulnerability-poc",
-            "url": "https://github.com/dwallet-labs/tron-multisig-vulnerability-poc",
-            "snippet": "# Repository: dwallet-labs/tron-multisig-vulnerability-poc\n\n- Stars: 6\n- Forks: 2\n- Watchers: 3\n- Open issues: 0\n- Primary language: Java\n- Languages: Java\n- Default branch: main\n- Created: 2023-05-28",
-            "published": "2023-05-28T14:38:22.000Z",
-            "score": 0.5
-          },
-          {
             "title": "trx drainer",
             "url": "https://gist.github.com/phishdestroy/9985a35bdc11a5cc0a44abf7a6119713",
             "snippet": "# Gist: trx drainer\n\n- Author: [@phishdestroy](https://github.com/phishdestroy)\n- Private gist (2 files)\n- Created: 2026-02-08T22:36:54Z\n- Updated: 2026-02-08T22:36:55Z\n\n## gistfile1.txt\n\n```txt\n# 🔴 ",
             "published": "2026-02-08T22:36:54.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "dwallet-labs/tron-multisig-vulnerability-poc",
+            "url": "https://github.com/dwallet-labs/tron-multisig-vulnerability-poc",
+            "snippet": "# Repository: dwallet-labs/tron-multisig-vulnerability-poc\n\n- Stars: 6\n- Forks: 2\n- Watchers: 3\n- Open issues: 0\n- Primary language: Java\n- Languages: Java\n- Default branch: main\n- Created: 2023-05-28",
+            "published": "2023-05-28T14:38:22.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-27T05:18:33.526Z"
+        "enriched_at": "2026-06-03T06:05:42.519Z"
       },
-      "timestamp": "2026-05-27T05:18:34.860Z"
+      "timestamp": "2026-06-03T06:05:44.278Z"
     },
     "superbet": {
       "intel": {
@@ -5461,6 +5461,13 @@
             "score": 1
           },
           {
+            "title": "oscar-mine/CVE-2026-23980-Exploit",
+            "url": "https://github.com/oscar-mine/CVE-2026-23980-Exploit",
+            "snippet": "# Repository: oscar-mine/CVE-2026-23980-Exploit\n\nExploit for CVE-2026-23980 — Authenticated error-based SQL injection in Apache Superset < 6.0.0 via sqlExpression bypass\n\n- Stars: 0\n- Forks: 0\n- Watch",
+            "published": "2026-04-12T15:44:33.000Z",
+            "score": 0.5
+          },
+          {
             "title": "icarot/superUpset",
             "url": "https://github.com/icarot/superUpset/",
             "snippet": "# Repository: icarot/superUpset\n\nThis is a tool focused in exploit the default session configuration of Superset, that is Flask-based, and it depends on the another tool called flask-unsign (https://g",
@@ -5469,10 +5476,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 8,
-        "enriched_at": "2026-05-27T05:18:34.860Z"
+        "total_results": 9,
+        "enriched_at": "2026-06-03T06:05:44.278Z"
       },
-      "timestamp": "2026-05-27T05:18:36.277Z"
+      "timestamp": "2026-06-03T06:05:45.799Z"
     },
     "magic-eden": {
       "intel": {
@@ -5485,17 +5492,17 @@
             "score": 1
           },
           {
-            "title": "Magic Eden to refund users after fake NFTs sold due to exploit",
-            "url": "https://cointelegraph.com/news/magic-eden-to-refund-users-after-25-fake-nfts-sold-due-to-exploit",
-            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit\n\n \n\n \n\n \n\n \n\n Ecosystem \n\n \n\n \n\n \n\n \n\n \n\n ADA$0.2464 0.93% BNB$617.43 0.86% XMR$334.60 1.62% TRX$0.322 2.20% ETH$2,054 2.60% LINK$8.70 2.",
-            "published": "2023-01-05T02:49:02.000Z",
+            "title": "Magic Eden Issue Leads to Fake NFT Listings, Will Refund Affected Users",
+            "url": "https://www.coindesk.com/web3/2023/01/04/magic-eden-issue-leads-to-fake-nft-listings",
+            "snippet": "Magic Eden Issue Leads to Fake NFT Listings, Will Refund Affected Users\n\nShare\n\nShare this article\n\n# Magic Eden Issue Leads to Fake NFT Listings, Will Refund Affected Users\n\n## An issue on the popula",
+            "published": "2023-01-04T19:06:10.000Z",
             "score": 0.5
           },
           {
-            "title": "Magic Eden Glitch Prompts User Refunds For Unverified NFT Purchases: What Happened? | Benzinga",
-            "url": "https://cdn3.benzinga.com/markets/cryptocurrency/23/01/30292928/magic-eden-glitch-prompts-user-refunds-for-unverified-nft-purchases-what-happened",
-            "snippet": "Magic Eden Glitch Prompts User Refunds For Unverified NFT Purchases: What Happened? | Benzinga Skip to main content\n\n## Market Overview\n\nTickers, Articles and Keywords:\n\n## Tickers\n\n## Articles\n\n## Ke",
-            "published": "2023-01-05T15:20:21.000Z",
+            "title": "Superteam Earn Security Report — Audit & Fix Open-Source Solana Repositories for Vulnerabilities (2026-03-27)",
+            "url": "https://gist.github.com/GuardME/bcae928c9ba34d802791ef992cdc6289",
+            "snippet": "# Gist: Superteam Earn Security Report — Audit & Fix Open-Source Solana Repositories for Vulnerabilities (2026-03-27)\n\n- Author: [@GuardME](https://github.com/GuardME)\n- Public gist (1 file)\n- Created",
+            "published": "2026-03-27T07:12:39.000Z",
             "score": 0
           }
         ],
@@ -5531,25 +5538,25 @@
             "score": 1
           },
           {
-            "title": "DK27ss/Abracadabra-1.7M-PoC",
-            "url": "https://github.com/DK27ss/Abracadabra-1.7M-PoC",
-            "snippet": "# Repository: DK27ss/Abracadabra-1.7M-PoC\n\nAbracadabra Protocol exploit PoC\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Solidity\n- Languages: Solidity\n- Default branch: m",
-            "published": "2025-10-05T22:57:27.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Teycir/fft-exploit-poc",
             "url": "https://github.com/Teycir/fft-exploit-poc",
             "snippet": "# Repository: Teycir/fft-exploit-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell (80.9%), JavaScript (10.3%), SMT (4.7%), Circom (4.1%)\n- License",
             "published": "2026-03-04T19:55:38.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "DK27ss/Abracadabra-1.7M-PoC",
+            "url": "https://github.com/DK27ss/Abracadabra-1.7M-PoC",
+            "snippet": "# Repository: DK27ss/Abracadabra-1.7M-PoC\n\nAbracadabra Protocol exploit PoC\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Solidity\n- Languages: Solidity\n- Default branch: m",
+            "published": "2025-10-05T22:57:27.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-27T05:18:36.277Z"
+        "enriched_at": "2026-06-03T06:05:45.799Z"
       },
-      "timestamp": "2026-05-27T05:18:38.123Z"
+      "timestamp": "2026-06-03T06:05:47.317Z"
     },
     "boozt": {
       "intel": {
@@ -5624,9 +5631,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-27T05:18:38.123Z"
+        "enriched_at": "2026-06-03T06:05:47.317Z"
       },
-      "timestamp": "2026-05-27T05:18:39.592Z"
+      "timestamp": "2026-06-03T06:05:48.909Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -5658,21 +5665,21 @@
             "title": "Anatomy of a Cascading Breach: How an Unpatched CVE in A Tier-2 Bank Compromised National Payment Infrastructure | IJRIAS",
             "url": "https://rsisinternational.org/journals/ijrias/view/anatomy-of-a-cascading-breach-how-an-unpatched-cve-in-a-tier-2-bank-compromised-national-payment-infrastructure",
             "snippet": "Anatomy of a Cascading Breach: How an Unpatched CVE in A Tier-2 Bank Compromised National Payment Infrastructure | IJRIAS\n\n# Anatomy of a Cascading Breach: How an Unpatched CVE in A Tier-2 Bank Compro",
-            "published": "2026-05-13T05:47:30.000Z",
+            "published": "2026-05-13T05:33:27.000Z",
             "score": 1
           },
           {
-            "title": "CVE-2026-40369: Twelve Bytes to Escape the Browser Sandbox - VoidSec",
-            "url": "https://voidsec.com/cve-2026-40369-browser-sandbox-escape/",
-            "snippet": "CVE-2026-40369: Twelve Bytes to Escape the Browser Sandbox - VoidSec\n\n### Share this post\n\n## CVE-2026-40369: Twelve Bytes to Escape the Browser Sandbox\n\nPosted by: voidsec Post Date: May 20, 2026\n\n--",
-            "published": "2026-05-20T10:00:17.000Z",
+            "title": "NVD - cve-2026-24058",
+            "url": "https://nvd.nist.gov/vuln/detail/cve-2026-24058",
+            "snippet": "NVD - cve-2026-24058 \n\n## CVE-2026-24058 Detail\n\n### Description\n\nSoft Serve is a self-hostable Git server for the command line. Versions 0.11.2 and below have a critical authentication bypass vulnera",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "0xdeadbeefnetwork/ssh-keysign-pwn",
-            "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/",
-            "snippet": "# Repository: 0xdeadbeefnetwork/ssh-keysign-pwn\n\nSteal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels.\n\n- Stars: 684\n- Forks: 84",
-            "published": "2026-05-14T22:44:21.000Z",
+            "title": "Claw Chain: OpenClaw CVE-2026-44112 Agent Takeover May 2026",
+            "url": "https://safeguard.sh/resources/blog/openclaw-claw-chain-vulnerabilities-may-2026",
+            "snippet": "Claw Chain: OpenClaw CVE-2026-44112 Agent Takeover May 2026\n\nAgent Security\n\n# Claw Chain: Four Chained CVEs Turn 245,000 OpenClaw Agents Into Backdoors (May 2026)\n\nCyera disclosed four chainable flaw",
+            "published": "2026-05-16T16:00:00.000Z",
             "score": 0
           }
         ],
@@ -5685,18 +5692,18 @@
             "score": 1
           },
           {
-            "title": "g1nt0n1x/copy-fail-CVE-2026-31431-shell",
-            "url": "https://github.com/g1nt0n1x/copy-fail-CVE-2026-31431-shell",
-            "snippet": "# Repository: g1nt0n1x/copy-fail-CVE-2026-31431-shell\n\nPoC shell exploit for CVE-2026-31431 (copy_fail) — Linux LPE via AF_ALG + splice page-cache overwrite. Single-shot, no race condition, kernel 4.9",
-            "published": "2026-05-04T07:53:33.000Z",
+            "title": "JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924",
+            "url": "https://github.com/joshuaprovoste/0-click-rce-exploit-for-cve-2024-10924",
+            "snippet": "# Repository: JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924\n\nUnauthenticated authentication bypass to RCE exploit for CVE-2024-10924. Abuses an authentication and 2FA bypass in the Really Simp",
+            "published": "2026-01-22T20:01:07.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-05-27T05:18:39.592Z"
+        "enriched_at": "2026-06-03T06:05:48.909Z"
       },
-      "timestamp": "2026-05-27T05:18:41.047Z"
+      "timestamp": "2026-06-03T06:05:50.425Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -7445,10 +7452,10 @@
             "score": 0.5
           },
           {
-            "title": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach",
-            "url": "https://sechub.in/view/3192719",
-            "snippet": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach\n\n# Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach\n\n收藏\n\nSince November last year, the data bre",
-            "published": null,
+            "title": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT - 阿里布袋",
+            "url": "https://www.alibudai.com/2026/03/20/%E5%BE%9E-coupang-%E7%9A%84%E5%80%8B%E8%B3%87%E5%A4%96%E6%B4%A9%E8%AB%87%E5%85%A7%E9%83%A8%E5%A8%81%E8%84%85%E3%80%81%E9%87%91%E9%91%B0%E7%AE%A1%E7%90%86%E8%88%87-jwt/",
+            "snippet": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT - 阿里布袋\n\n首页» 從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT\n\n### 從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT\n\n從去年 11 月開始，Coupang 個資外洩的事件就受到不少關注，一來是據傳外洩的資料數目龐大，二來這間公司也有在台灣設點。隨著調查進度持續推進，也有越來越多細節出現，甚至還被",
+            "published": "2026-03-20T05:15:51.000Z",
             "score": 0
           }
         ],
@@ -7479,7 +7486,7 @@
           {
             "title": "exploit.py at main · adriyansyah-mf/cve-2026-41940-poc",
             "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
-            "snippet": "# File: adriyansyah-mf/cve-2026-41940-poc/exploit.py\n\n- Repository: adriyansyah-mf/cve-2026-41940-poc | 27 stars | Python\n- Branch: main\n\n```py\nimport argparse\nimport base64\nimport json\nimport re\nimpo",
+            "snippet": "# File: adriyansyah-mf/cve-2026-41940-poc/exploit.py\n\n- Repository: adriyansyah-mf/cve-2026-41940-poc | 29 stars | Python\n- Branch: main\n\n```py\nimport argparse\nimport base64\nimport json\nimport re\nimpo",
             "published": null,
             "score": 1
           },
@@ -7500,9 +7507,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-27T05:18:27.055Z"
+        "enriched_at": "2026-06-03T06:05:33.759Z"
       },
-      "timestamp": "2026-05-27T05:18:29.364Z"
+      "timestamp": "2026-06-03T06:05:35.892Z"
     },
     "anthropic": {
       "intel": {
@@ -7582,5 +7589,5 @@
       "timestamp": "2026-06-02T05:50:54.627Z"
     }
   },
-  "lastRun": "2026-06-02T05:51:07.815Z"
+  "lastRun": "2026-06-03T06:05:50.425Z"
 }
