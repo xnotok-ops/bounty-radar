@@ -2167,17 +2167,17 @@
             "score": 1
           },
           {
-            "title": "bWanShiTong/reverse-engineering-whoop-post",
-            "url": "https://github.com/bWanShiTong/reverse-engineering-whoop-post",
-            "snippet": "# Repository: bWanShiTong/reverse-engineering-whoop-post\n\n- Stars: 172\n- Forks: 9\n- Watchers: 172\n- Open issues: 3\n- Default branch: master\n- Created: 2024-06-09T14:05:48Z\n- Last push: 2024-06-17T18:4",
-            "published": "2024-06-09T14:05:48.000Z",
+            "title": "Cracking the WHOOP 5.0 over Bluetooth | Alec Jude Wilson",
+            "url": "https://judes.club/writing/cracking-the-whoop-5-bluetooth-protocol/",
+            "snippet": "Cracking the WHOOP 5.0 over Bluetooth | Alec Jude Wilson\n\nInteractive Play with the protocol in your browser Wake a simulated band up, drag its heart rate, tilt it, and watch the real Bluetooth bytes ",
+            "published": "2026-06-01T04:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "project-whoopsie/whoopsie",
-            "url": "https://github.com/abdulsaheel/whoopsie",
-            "snippet": "# Repository: project-whoopsie/whoopsie\n\nWhoopsie — Reverse‑engineered WHOOP research with a PoC Flutter app and tiny backend.\n\n- Stars: 16\n- Forks: 0\n- Watchers: 16\n- Open issues: 1\n- Primary languag",
-            "published": "2026-03-30T19:02:48.000Z",
+            "title": "bWanShiTong/reverse-engineering-whoop-post",
+            "url": "https://github.com/bWanShiTong/reverse-engineering-whoop-post",
+            "snippet": "# Repository: bWanShiTong/reverse-engineering-whoop-post\n\n- Stars: 213\n- Forks: 12\n- Watchers: 15\n- Open issues: 3\n- Default branch: master\n- Created: 2024-06-09T14:05:48Z\n- Last push: 2024-06-17T18:4",
+            "published": "2024-06-09T14:05:48.000Z",
             "score": 0
           }
         ],
@@ -2199,7 +2199,7 @@
           {
             "title": "bWanShiTong/reverse-engineering-whoop-post",
             "url": "https://github.com/bWanShiTong/reverse-engineering-whoop-post",
-            "snippet": "# Repository: bWanShiTong/reverse-engineering-whoop-post\n\n- Stars: 172\n- Forks: 9\n- Watchers: 172\n- Open issues: 3\n- Default branch: master\n- Created: 2024-06-09T14:05:48Z\n- Last push: 2024-06-17T18:4",
+            "snippet": "# Repository: bWanShiTong/reverse-engineering-whoop-post\n\n- Stars: 213\n- Forks: 12\n- Watchers: 15\n- Open issues: 3\n- Default branch: master\n- Created: 2024-06-09T14:05:48Z\n- Last push: 2024-06-17T18:4",
             "published": "2024-06-09T14:05:48.000Z",
             "score": 0
           }
@@ -2215,7 +2215,7 @@
           {
             "title": "bWanShiTong/reverse-engineering-whoop-post",
             "url": "https://github.com/bWanShiTong/reverse-engineering-whoop-post",
-            "snippet": "# Repository: bWanShiTong/reverse-engineering-whoop-post\n\n- Stars: 172\n- Forks: 9\n- Watchers: 172\n- Open issues: 3\n- Default branch: master\n- Created: 2024-06-09T14:05:48Z\n- Last push: 2024-06-17T18:4",
+            "snippet": "# Repository: bWanShiTong/reverse-engineering-whoop-post\n\n- Stars: 213\n- Forks: 12\n- Watchers: 15\n- Open issues: 3\n- Default branch: master\n- Created: 2024-06-09T14:05:48Z\n- Last push: 2024-06-17T18:4",
             "published": "2024-06-09T14:05:48.000Z",
             "score": 0.5
           },
@@ -2229,9 +2229,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-30T04:53:54.885Z"
+        "enriched_at": "2026-06-06T04:54:58.291Z"
       },
-      "timestamp": "2026-05-30T04:53:56.549Z"
+      "timestamp": "2026-06-06T04:54:59.804Z"
     },
     "hubspot": {
       "intel": {
@@ -2299,16 +2299,16 @@
           {
             "title": "exploit.py at main · adriyansyah-mf/cve-2026-41940-poc",
             "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
-            "snippet": "# File: adriyansyah-mf/cve-2026-41940-poc/exploit.py\n\n- Repository: adriyansyah-mf/cve-2026-41940-poc | 29 stars | Python\n- Branch: main\n\n```py\nimport argparse\nimport base64\nimport json\nimport re\nimpo",
+            "snippet": "# File: adriyansyah-mf/cve-2026-41940-poc/exploit.py\n\n- Repository: adriyansyah-mf/cve-2026-41940-poc | 27 stars | Python\n- Branch: main\n\n```py\nimport argparse\nimport base64\nimport json\nimport re\nimpo",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-30T04:53:56.549Z"
+        "enriched_at": "2026-06-06T04:54:59.804Z"
       },
-      "timestamp": "2026-05-30T04:53:58.172Z"
+      "timestamp": "2026-06-06T04:55:01.259Z"
     },
     "oppo_bbp": {
       "intel": {
@@ -2328,10 +2328,10 @@
             "score": 0.5
           },
           {
-            "title": "yuuouu/ColorOS-CVE-2025-10184",
-            "url": "https://github.com/yuuouu/OnePush-CVE-2025-10184",
-            "snippet": "# Repository: yuuouu/ColorOS-CVE-2025-10184\n\nColorOS短信漏洞，以及用户自救方案\n\n- Stars: 386\n- Forks: 42\n- Watchers: 0\n- Open issues: 5\n- Primary language: Java\n- Languages: Java (84.4%), Kotlin (15.6%)\n- Default ",
-            "published": "2025-09-24T11:48:03.000Z",
+            "title": "Cracking ATO in Oppo with a Simple Trick! | by Abdelrahman Y. (DbgMan) | Medium",
+            "url": "https://medium.com/@DbgMan/cracking-ato-in-oppo-with-a-simple-trick-98c27f8d2b3a",
+            "snippet": "Cracking ATO in Oppo with a Simple Trick! | by Abdelrahman Y. (DbgMan) | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Cracking ATO in Oppo with a Simple Trick!\n\n4 min read\n\nMar 5, 2025\n\n--\n\nShare\n\nPress enter",
+            "published": "2025-03-05T21:46:55.000Z",
             "score": 0
           }
         ],
@@ -2376,9 +2376,9 @@
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-05-30T04:53:58.172Z"
+        "enriched_at": "2026-06-06T04:55:01.259Z"
       },
-      "timestamp": "2026-05-30T04:53:59.888Z"
+      "timestamp": "2026-06-06T04:55:02.981Z"
     },
     "1password_ctf": {
       "intel": {
@@ -2386,7 +2386,7 @@
           {
             "title": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper",
             "url": "https://scotthelme.co.uk/passkeys-permissions-policy-and-bug-hunting-in-1passwords-webauthn-wrapper/",
-            "snippet": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\nSponsored by: Report URI - See what code actually runs in your users' browsers. No assumptions. No guesswork.\n\nPasskeys ar",
+            "snippet": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\nSponsored by: Report URI - Third-party JavaScript can change at any time. Know when it does.\n\nPasskeys are the best thing ",
             "published": "2026-05-21T14:40:02.000Z",
             "score": 1
           },
@@ -2407,17 +2407,17 @@
         ],
         "twitter": [
           {
-            "title": "morganc3/1password-exploits",
-            "url": "https://github.com/morganc3/1password-exploits",
-            "snippet": "# Repository: morganc3/1password-exploits\n\n- Stars: 12\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Objective-C\n- Languages: Objective-C (45.3%), HTML (33.1%), Roff (9.9%), Rich Text ",
-            "published": "2024-07-12T19:25:38.000Z",
-            "score": 1
-          },
-          {
             "title": "manchicken/1password-cli-vuln-disclosure: This repository contains the disclosure of a vulnerability that I discovered in 1Password's CLI product. Responsible disclosure was made via BugCrowd on 2nd October, 2023, and disclosure was authorized in January of 2024. - Codeberg.org",
             "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
             "snippet": "manchicken/1password-cli-vuln-disclosure: This repository contains the disclosure of a vulnerability that I discovered in 1Password's CLI product. Responsible disclosure was made via BugCrowd on 2nd O",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "morganc3/1password-exploits",
+            "url": "https://github.com/morganc3/1password-exploits",
+            "snippet": "# Repository: morganc3/1password-exploits\n\n- Stars: 12\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Objective-C\n- Languages: Objective-C (45.3%), HTML (33.1%), Roff (9.9%), Rich Text ",
+            "published": "2024-07-12T19:25:38.000Z",
             "score": 0.5
           },
           {
@@ -2453,9 +2453,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-30T04:53:59.888Z"
+        "enriched_at": "2026-06-06T04:55:02.981Z"
       },
-      "timestamp": "2026-05-30T04:54:01.482Z"
+      "timestamp": "2026-06-06T04:55:04.501Z"
     },
     "1password": {
       "intel": {
@@ -2470,14 +2470,14 @@
           {
             "title": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper",
             "url": "https://scotthelme.co.uk/passkeys-permissions-policy-and-bug-hunting-in-1passwords-webauthn-wrapper/",
-            "snippet": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\nSponsored by: Report URI - See what code actually runs in your users' browsers. No assumptions. No guesswork.\n\nPasskeys ar",
+            "snippet": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\nSponsored by: Report URI - Third-party JavaScript can change at any time. Know when it does.\n\nPasskeys are the best thing ",
             "published": "2026-05-21T14:40:02.000Z",
             "score": 0.5
           },
           {
-            "title": "Untitled",
+            "title": "Pentest-Report 1Password Core 11.-12.2021",
             "url": "https://bucket.agilebits.com/security/Cure53-1PW18-report.pdf",
-            "snippet": "Dr.-Ing. Mario Heiderich, Cure53\n Bielefelder Str. 14\n D 10709 Berlin\n cure53.de · mario@cure53.de\nPentest-Report 1Password Core 11.-12.2021\nCure53, Dr.-Ing. M. Heiderich, MSc. S. Moritz, MSc. F. Fäßl",
+            "snippet": "Dr.-Ing. Mario Heiderich, Cure53 \nBielefelder Str. 14 \nD 10709 Berlin \ncure53.de · mario@cure53.de \n\nPentest-Report 1Password Core 11.-12.2021 Cure53, Dr.-Ing. M. Heiderich, MSc. S. Moritz, MSc. F. Fä",
             "published": null,
             "score": 0
           }
@@ -2530,9 +2530,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-30T04:54:01.482Z"
+        "enriched_at": "2026-06-06T04:55:04.502Z"
       },
-      "timestamp": "2026-05-30T04:54:03.001Z"
+      "timestamp": "2026-06-06T04:55:06.030Z"
     },
     "bcny": {
       "intel": {
@@ -2607,9 +2607,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-30T04:54:03.001Z"
+        "enriched_at": "2026-06-06T04:55:06.030Z"
       },
-      "timestamp": "2026-05-30T04:54:04.623Z"
+      "timestamp": "2026-06-06T04:55:07.543Z"
     },
     "verily_life_sciences": {
       "intel": {
@@ -2661,32 +2661,32 @@
         ],
         "github": [
           {
+            "title": "megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
+            "url": "https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
+            "snippet": "# Repository: megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud\n\nExpose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.",
+            "published": "2026-03-10T14:40:04.000Z",
+            "score": 1
+          },
+          {
             "title": "security-research/pocs/cpus/tdxploits at master · google/security-research · GitHub",
             "url": "https://github.com/google/security-research/tree/master/pocs/cpus/tdxploits",
             "snippet": "security-research/pocs/cpus/tdxploits at master · google/security-research · GitHub\n\n/ security-research Public\n\nStar 4.4k\n\n- Pricing\n- Notifications\n- Fork 524\n\n \n\n## Files\n\n master\n\n# tdxploits\n\nHis",
             "published": "2020-06-15T09:19:51.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "pocs/linux/bleedingtooth/exploit.c at master · google/security-research",
             "url": "https://github.com/google/security-research/blob/master/pocs/linux/bleedingtooth/exploit.c",
             "snippet": "# File: google/security-research/pocs/linux/bleedingtooth/exploit.c\n\n- Repository: google/security-research | This project hosts security advisories and their accompanying proof-of-concepts related to",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "url": "https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "snippet": "# Repository: megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud\n\nExpose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.",
-            "published": "2026-03-10T14:40:04.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-30T04:54:04.623Z"
+        "enriched_at": "2026-06-06T04:55:07.543Z"
       },
-      "timestamp": "2026-05-30T04:54:06.432Z"
+      "timestamp": "2026-06-06T04:55:09.013Z"
     },
     "neon_bbp": {
       "intel": {
@@ -2694,7 +2694,7 @@
           {
             "title": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon",
             "url": "https://neon.com/blog/neons-bug-bounty-program-with-hackerone-goes-public",
-            "snippet": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon\n\nTeam accounts with unlimited members now available to everyone! Invite your teammates and ship faster together, even on the Free Plan.\n\n# N",
+            "snippet": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon\n\nAll paid plans now include 5x more free data transfer: 500 GB per month, up from 100 GB. Read the details here.\n\n# Neon’s Bug Bounty Progra",
             "published": "2025-03-01T00:08:55.000Z",
             "score": 1
           },
@@ -2740,7 +2740,7 @@
           {
             "title": "cosmicsting-cnext-exploit.py at main · ambionics/cnext-exploits",
             "url": "https://github.com/ambionics/cnext-exploits/blob/main/cosmicsting-cnext-exploit.py",
-            "snippet": "# File: ambionics/cnext-exploits/cosmicsting-cnext-exploit.py\n\n- Repository: ambionics/cnext-exploits | Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() | 505 stars | Pytho",
+            "snippet": "# File: ambionics/cnext-exploits/cosmicsting-cnext-exploit.py\n\n- Repository: ambionics/cnext-exploits | Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() | 507 stars | Pytho",
             "published": null,
             "score": 1
           },
@@ -2761,25 +2761,25 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-30T04:54:06.432Z"
+        "enriched_at": "2026-06-06T04:55:09.014Z"
       },
-      "timestamp": "2026-05-30T04:54:07.884Z"
+      "timestamp": "2026-06-06T04:55:10.529Z"
     },
     "bumba_bbp": {
       "intel": {
         "writeups": [
           {
+            "title": "Security findings in bumblebee v0.1.x — please do not share publicly until maintainers respond · Issue #6 · perplexityai/bumblebee",
+            "url": "https://github.com/perplexityai/bumblebee/issues/6",
+            "snippet": "# Issue: perplexityai/bumblebee #6\n\n- Repository: perplexityai/bumblebee | Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to ",
+            "published": "2026-05-23T04:43:05.000Z",
+            "score": 1
+          },
+          {
             "title": "The Bug Bounty program that changed my life · Gwendal Le Coguic",
             "url": "https://glc.st/posts/the-bug-bounty-program-that-changed-my-life/",
             "snippet": "The Bug Bounty program that changed my life · Gwendal Le Coguic\n\nThis is a real story or not, that occured in mid 2017 or not, about a private program or not, on Hackerone or not, believe me or not, b",
             "published": "2018-02-11T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "AWS takeover through SSRF in JavaScript · Gwendal Le Coguic",
-            "url": "https://glc.st/posts/aws-takeover-through-ssrf-in-javascript/",
-            "snippet": "AWS takeover through SSRF in JavaScript · Gwendal Le Coguic\n\nHere is the story of a bug I found in a private bug bounty program on Hackerone. It took me exactly 12h30 -no break- to find it, exploit an",
-            "published": "2018-10-02T00:00:00.000Z",
             "score": 0.5
           },
           {
@@ -2799,16 +2799,16 @@
             "score": 1
           },
           {
-            "title": "CustomScanChecks/CVE-2025-55182CVE-2025-66478-React2Shell.bambda at main · PortSwigger/bambdas",
-            "url": "https://github.com/PortSwigger/bambdas/blob/main/CustomScanChecks/CVE-2025-55182CVE-2025-66478-React2Shell.bambda",
-            "snippet": "# File: PortSwigger/bambdas/CustomScanChecks/CVE-2025-55182CVE-2025-66478-React2Shell.bambda\n\n- Repository: PortSwigger/bambdas | Bambdas collection for Burp Suite Professional and Community. | 512 st",
-            "published": null,
+            "title": "Security findings in bumblebee v0.1.x — please do not share publicly until maintainers respond · Issue #6 · perplexityai/bumblebee",
+            "url": "https://github.com/perplexityai/bumblebee/issues/6",
+            "snippet": "# Issue: perplexityai/bumblebee #6\n\n- Repository: perplexityai/bumblebee | Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to ",
+            "published": "2026-05-23T04:43:05.000Z",
             "score": 0.5
           },
           {
-            "title": "Use of Hardcoded Secret Key + Many API endpoints do not require authentication · Advisory · maziggy/bambuddy · GitHub",
-            "url": "https://github.com/maziggy/bambuddy/security/advisories/GHSA-gc24-px2r-5qmf",
-            "snippet": "Use of Hardcoded Secret Key + Many API endpoints do not require authentication · Advisory · maziggy/bambuddy · GitHub\n\n/ bambuddy Public\n\nStar 808\n\n- Pricing\n- Notifications\n- Fork 87\n\n# Use of Hardco",
+            "title": "CustomScanChecks/CVE-2025-55182CVE-2025-66478-React2Shell.bambda at main · PortSwigger/bambdas",
+            "url": "https://github.com/PortSwigger/bambdas/blob/main/CustomScanChecks/CVE-2025-55182CVE-2025-66478-React2Shell.bambda",
+            "snippet": "# File: PortSwigger/bambdas/CustomScanChecks/CVE-2025-55182CVE-2025-66478-React2Shell.bambda\n\n- Repository: PortSwigger/bambdas | Bambdas collection for Burp Suite Professional and Community. | 512 st",
             "published": null,
             "score": 0
           }
@@ -2838,9 +2838,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-30T04:54:07.884Z"
+        "enriched_at": "2026-06-06T04:55:10.530Z"
       },
-      "timestamp": "2026-05-30T04:54:09.546Z"
+      "timestamp": "2026-06-06T04:55:12.013Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -2915,9 +2915,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-05-30T04:54:09.546Z"
+        "enriched_at": "2026-06-06T04:55:12.013Z"
       },
-      "timestamp": "2026-05-30T04:54:11.252Z"
+      "timestamp": "2026-06-06T04:55:13.544Z"
     },
     "starbucks_china": {
       "intel": {
@@ -7603,5 +7603,5 @@
       "timestamp": "2026-06-02T05:50:54.627Z"
     }
   },
-  "lastRun": "2026-06-05T05:20:27.508Z"
+  "lastRun": "2026-06-06T04:55:13.544Z"
 }
