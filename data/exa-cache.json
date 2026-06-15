@@ -5730,36 +5730,14 @@
             "score": 0.5
           },
           {
-            "title": "vodafone_oman on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/vodafone_oman",
-            "snippet": "vodafone_oman on HackerOne - Bug Bounty Scope | bbscope.com\n\n# vodafone_oman\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n7\n\nIn Scope\n\n0\n\nOut of Scope\n\nIn-Scope Assets (7)\n\n| Asset | Category | Bount",
+            "title": "Vodafone Oman Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/vodafone-oman/",
+            "snippet": "Vodafone Oman Bug Bounty Program - Bug Bounties\n\n# Vodafone Oman\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle vodafone_oman Managed No\n\n## Response Metrics\n\nResponse Time 27 days Resolution Time",
             "published": null,
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Report a vulnerability - Vodafone",
-            "url": "https://www.vodafone.om/report-a-vulnerability",
-            "snippet": "Report a vulnerability - Vodafone\n\n## Reporting vulnerabilities\n\nWe value the expertise and help of the cyber security community in helping us maintain our high security standards. You can use this si",
-            "published": "2022-10-10T13:19:14.000Z",
-            "score": 1
-          },
-          {
-            "title": "Vodafone Source Code Leak: Production Credentials Inside",
-            "url": "https://opsecinsider.com/vodafone-source-code-leak-2026/",
-            "snippet": "Vodafone Source Code Leak: Production Credentials Inside\n\nTwo weeks after the Lapsus$ extortion group published roughly 7,1 GB of Vodafone source code online, the Vodafone source code leak is still ci",
-            "published": "2026-05-31T09:53:11.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman",
-            "url": "https://timesofoman.com/article/122530-vodafone-oman-challenges-local-and-international-ethical-hackers-to-to-take-their-best-shot",
-            "snippet": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman\n\n# Vodafone Oman challenges local and international ethical hackers to to take their best sh",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "redpack-kr/CVE-2024-5243-pwn2own-toronto-2023",
@@ -5776,18 +5754,18 @@
             "score": 0.5
           },
           {
-            "title": "exploit.py at main · jeffaf/cve-2026-32746",
-            "url": "https://github.com/jeffaf/cve-2026-32746/blob/main/exploit.py",
-            "snippet": "# File: jeffaf/cve-2026-32746/exploit.py\n\n- Repository: jeffaf/cve-2026-32746 | CVE-2026-32746 - GNU InetUtils telnetd LINEMODE SLC Buffer Overflow PoC (pre-auth RCE, CVSS 9.8) | 26 stars | Python\n- B",
-            "published": null,
+            "title": "uyhacked/Teldat-Router-CVE-2022-POC",
+            "url": "https://github.com/uyhacked/Teldat-Router-CVE-2022-POC",
+            "snippet": "# Repository: uyhacked/Teldat-Router-CVE-2022-POC\n\nPOC for CVE-2022-39996 (Reflected XSS) and CVE-2022-39997 (Weak Password) in Teldat RS123/RS123w Router\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open i",
+            "published": "2026-06-09T05:13:44.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-04T05:58:16.872Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-15T06:27:03.834Z"
       },
-      "timestamp": "2026-06-04T05:58:18.652Z"
+      "timestamp": "2026-06-15T06:27:05.711Z"
     },
     "frontegg": {
       "intel": {
@@ -5807,57 +5785,35 @@
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Vulnerability Disclosure Policy | Frontegg",
-            "url": "https://frontegg.com/vulnerability-disclosure-policy",
-            "snippet": "Vulnerability Disclosure Policy | Frontegg\n\nVulnerability Disclosure Policy | Frontegg\n**\n![Frontegg](https://frontegg.com/wp-content/uploads/2023/07/logo-white-2.svg)\n* [\nAgen.co enables organization",
-            "published": "2023-12-14T11:46:21.000Z",
-            "score": 1
-          },
-          {
-            "title": "CVE-2022-3219: Malicious code in frontegg-template-app (npm)",
-            "url": "https://vulert.com/vuln-db/npm-frontegg-template-app-76488",
-            "snippet": "CVE-2022-3219: Malicious code in frontegg-template-app (npm)\n\n# CVE-2022-3219: Malicious code in frontegg-template-app (npm)\n\nAffected Package: frontegg-template-app(Click to see all vulnerabilities o",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Host header injection to open redirect and cache poisoning on Hackerone target(frontegg)",
-            "url": "https://jeetpal2007.medium.com/host-header-injection-to-open-redirect-and-cache-poisoning-on-hackerone-target-frontegg-b90b169fd256",
-            "snippet": "Host header injection to open redirect and cache poisoning on Hackerone target(frontegg) - JEETPAL - Medium\n[Sitemap](https://jeetpal2007.medium.com/sitemap/sitemap.xml)\n[Open in app](https://rsci.app",
-            "published": "2024-01-10T07:45:28.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
-          {
-            "title": "Nxploited/CVE-2025-28915",
-            "url": "https://github.com/Nxploited/CVE-2025-28915",
-            "snippet": "# Repository: Nxploited/CVE-2025-28915\n\nWordPress ThemeEgg ToolKit plugin <= 1.2.9 - Arbitrary File Upload vulnerability\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Pytho",
-            "published": "2025-03-12T03:23:32.000Z",
-            "score": 1
-          },
-          {
-            "title": "2026/CVE-2026-22191-POC.py at master · kmkz/Exploits",
-            "url": "https://github.com/kmkz/Exploits/blob/master/2026/CVE-2026-22191-POC.py",
-            "snippet": "# File: kmkz/Exploits/2026/CVE-2026-22191-POC.py\n\n- Repository: kmkz/Exploits | Exploits and advisories | 211 stars | Python\n- Branch: master\n\n```py\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-22191 - SicuroW",
-            "published": null,
-            "score": 0.5
-          },
           {
             "title": "Sandbox escape via infinite recursion and error objects · Advisory · agentfront/enclave · GitHub",
             "url": "https://github.com/agentfront/enclave/security/advisories/GHSA-x39w-8vm5-5m3p",
             "snippet": "Sandbox escape via infinite recursion and error objects · Advisory · agentfront/enclave · GitHub\n\n# Sandbox escape via infinite recursion and error objects\n\nCritical\n\npublished GHSA-x39w-8vm5-5m3p Feb",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "SSRF via $ref Dereferencing in Untrusted OpenAPI Specifications · Advisory · agentfront/frontmcp · GitHub",
+            "url": "https://github.com/agentfront/frontmcp/security/advisories/GHSA-v6ph-xcq9-qxxj",
+            "snippet": "SSRF via $ref Dereferencing in Untrusted OpenAPI Specifications · Advisory · agentfront/frontmcp · GitHub\n\n# SSRF via $ref Dereferencing in Untrusted OpenAPI Specifications\n\nHigh\n\npublished GHSA-v6ph-",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "frontegg-samples/frontegg-api-access-control",
+            "url": "https://github.com/frontegg-samples/frontegg-api-access-control",
+            "snippet": "# Repository: frontegg-samples/frontegg-api-access-control\n\n- Stars: 0\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: TypeScript\n- Languages: TypeScript\n- Default branch: main\n- Created",
+            "published": "2024-09-30T20:34:05.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 8,
-        "enriched_at": "2026-06-04T05:58:18.652Z"
+        "total_results": 5,
+        "enriched_at": "2026-06-15T06:27:05.711Z"
       },
-      "timestamp": "2026-06-04T05:58:20.416Z"
+      "timestamp": "2026-06-15T06:27:07.087Z"
     },
     "indrive": {
       "intel": {
@@ -5870,71 +5826,49 @@
             "score": 1
           },
           {
+            "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
+            "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
+            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm System.Exit, and today we're unraveling a recent bug bounty discovery by cyp",
+            "published": "2024-01-17T15:09:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program | HackerNoon",
             "url": "https://hackernoon.com/strengthening-cybersecurity-breaking-down-indrives-bug-bounty-program",
-            "snippet": "Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program | HackerNoon\n\n20,436 reads\n\n# Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program\n\nby\n\ninDrive.Tech\n\nDecembe",
-            "published": "2024-12-11T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
-            "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
-            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm System.Exit, and today we're unraveling a recent bug bounty discovery by cyp",
-            "published": "2024-01-17T15:09:00.000Z",
+            "snippet": "20,451 reads\n\n# Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program\n\nby\n\nTLDR\n\nTranslations\n\nYour browser does not support the`audio` element.\n\nbyinDrive.Tech@indrivetech\n\nTeam of ",
+            "published": "2024-12-11T19:54:10.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "🔓$4000 Blind SQL Injection in inDrive | by Abhijeet kumawat | Medium",
-            "url": "https://medium.com/@kumawatabhijeet2002/4000-blind-sql-injection-in-indrive-a0a4dcd99cb9",
-            "snippet": "🔓$4000 Blind SQL Injection in inDrive | by Abhijeet kumawat | Medium\n\nSign up\n\nGet app\n\nSign up\n\nMember-only story\n\n# 🔓$4000 Blind SQL Injection in inDrive\n\n3 min read\n\nFeb 18, 2025\n\n--\n\nShare\n\nHi F",
-            "published": "2025-02-18T16:05:15.000Z",
-            "score": 1
-          },
-          {
-            "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
-            "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
-            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm System.Exit, and today we're unraveling a recent bug bounty discovery by cyp",
-            "published": "2024-01-17T15:09:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "docs/software-architecture/parsing-protection-requirements.md at main · inDriver/handbook",
-            "url": "https://github.com/inDriver/handbook/blob/main/docs/software-architecture/parsing-protection-requirements.md",
-            "snippet": "# File: inDriver/handbook/docs/software-architecture/parsing-protection-requirements.md\n\n- Repository: inDriver/handbook | inDrive Engineering Handbook | 54 stars\n- Branch: main\n\n```md\n# Parsing Prote",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
-          {
-            "title": "waryas/xign_poc_april_2026",
-            "url": "https://github.com/waryas/xign_poc_april_2026",
-            "snippet": "# Repository: waryas/xign_poc_april_2026\n\nUse XIGNCODE3 driver to cheat\n\n- Stars: 79\n- Forks: 19\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default branch: main\n- Created: 2",
-            "published": "2026-05-01T06:02:25.000Z",
-            "score": 1
-          },
           {
             "title": "alexkochnev1987/ctf",
             "url": "https://github.com/alexkochnev1987/ctf",
             "snippet": "# Repository: alexkochnev1987/ctf\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Smali\n- Languages: Smali (84.8%), Python (14.9%), JavaScript (0.2%), HTML, PHP, CSS, Shell, ",
             "published": "2025-12-25T08:14:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "waryas/xign_poc_april_2026",
+            "url": "https://github.com/waryas/xign_poc_april_2026",
+            "snippet": "# Repository: waryas/xign_poc_april_2026\n\nUse XIGNCODE3 driver to cheat\n\n- Stars: 55\n- Forks: 14\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default branch: main\n- Created: 2",
+            "published": "2026-05-01T06:02:25.000Z",
             "score": 0.5
           },
           {
-            "title": "GitHub - oddbyte/CVE-2024-31317 at 1.0.0 · GitHub",
-            "url": "https://github.com/oddbyte/CVE-2024-31317/tree/1.0.0",
-            "snippet": "GitHub - oddbyte/CVE-2024-31317 at 1.0.0 · GitHub\n\n1.0.0\n\nGo to file\n\nCode\n\nLast commit message\n\nLast commit date\n\nView all files\n\n| Name | Name |\n| --- | --- |\n\n## Repository files navigation\n\n# CVE-",
-            "published": "2025-01-14T05:34:52.000Z",
+            "title": "getdrive/PoC",
+            "url": "https://github.com/getdrive/PoC",
+            "snippet": "# Repository: getdrive/PoC\n\nPoC. Severity critical.\n\n- Stars: 72\n- Forks: 15\n- Watchers: 10\n- Open issues: 0\n- Primary language: Ruby\n- Languages: Ruby (51.7%), Python (44.8%), Shell (3.3%), PHP (0.2%",
+            "published": "2023-08-05T11:02:23.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-04T05:58:20.417Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-15T06:27:07.087Z"
       },
-      "timestamp": "2026-06-04T05:58:22.061Z"
+      "timestamp": "2026-06-15T06:27:08.623Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -5954,36 +5888,14 @@
             "score": 0.5
           },
           {
-            "title": "Don't judge an audiobook by its cover: taking over your Amazon account with a Kindle",
-            "url": "https://blog.thalium.re/posts/dont-judge-an-audiobook-by-its-cover-taking-over-your-amazon-account-with-a-kindle/",
-            "snippet": "Don't judge an audiobook by its cover: taking over your Amazon account with a Kindle\n\n# Don't judge an audiobook by its cover: taking over your Amazon account with a Kindle\n\nAmazon’s Kindle devices ar",
-            "published": "2025-12-16T08:00:00.000Z",
+            "title": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium",
+            "url": "https://medium.com/@baronyogev/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08",
+            "snippet": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card",
+            "published": "2021-01-21T09:31:12.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Security Engineer, Devices, Devices and Services Security",
-            "url": "https://www.amazon.jobs/en/jobs/2947722/security-engineer-devices-devices-and-services-security",
-            "snippet": "Security Engineer, Devices, Devices and Services Security - Job ID: 2947722 | Amazon.jobs[Skip to main content](#main-1751176507)\n* [Home](https://www.amazon.jobs/en)\n* [Teams](https://www.amazon.jobs",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "Senior Software Development Engineer, Proactive Security - Devices",
-            "url": "https://www.amazon.jobs/en/jobs/2919472/senior-software-development-engineer-proactive-security-devices",
-            "snippet": "Senior Software Development Engineer, Proactive Security - Devices - Job ID: 2919472 | Amazon.jobs[Skip to main content](#main-1745799935)\n* [Home](https://www.amazon.jobs/en)\n* [Teams](https://www.am",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Amazon Security call for proposals - Spring 2026 - Amazon Science",
-            "url": "https://www.amazon.science/research-awards/amazon-security-call-for-proposals-spring-2026",
-            "snippet": "Amazon Security call for proposals - Spring 2026 - Amazon Science\n\nResearch areas\n\nOur scientific contributions\n\nPublications Research from our scientists and collaborators.\n\nConferences Our experts p",
-            "published": "2026-03-25T18:55:00.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "CVE-2018-11019.md at master · datadancer/HIAFuzz",
@@ -5997,14 +5909,21 @@
             "url": "https://github.com/datadancer/HIAFuzz/blob/master/CVE-2018-11020.md",
             "snippet": "# File: datadancer/HIAFuzz/CVE-2018-11020.md\n\n- Repository: datadancer/HIAFuzz | Hybrid Interface Aware Fuzz for Android Kernel Drivers | 31 stars | Python\n- Branch: master\n\n```md\n# CVE-2018-11020\nThe",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "face0xff/kindle-audible-exploit-chain",
+            "url": "https://github.com/face0xff/kindle-audible-exploit-chain",
+            "snippet": "# Repository: face0xff/kindle-audible-exploit-chain\n\nExploit for an Audible vulnerability chain targeting Kindle < 5.18.1\n\n- Stars: 4\n- Forks: 0\n- Watchers: 4\n- Open issues: 0\n- Primary language: Pyth",
+            "published": "2025-12-15T16:31:09.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 8,
-        "enriched_at": "2026-06-04T05:58:22.062Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-15T06:27:08.623Z"
       },
-      "timestamp": "2026-06-04T05:58:23.783Z"
+      "timestamp": "2026-06-15T06:27:09.838Z"
     },
     "rei_bbp": {
       "intel": {
@@ -6031,29 +5950,7 @@
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "CVE-2024-13362 – bbp-core Proof of Concept - Atomic Edge",
-            "url": "https://atomicedge.io/cve-proof/cve-2024-13362-bbp-core-version-1-2-7-medium-vulnerability-proof-of-concept/",
-            "snippet": "CVE-2024-13362 – bbp-core Proof of Concept - Atomic Edge\n\nPublished : May 10, 2026\n\n# CVE-2024-13362: Freemius <= 2.10.1 – Reflected DOM-Based Cross-Site Scripting via url Parameter (bbp-core)\n\nSeveri",
-            "published": "2026-04-30T18:11:21.000Z",
-            "score": 1
-          },
-          {
-            "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
-            "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
-            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHackerOne Team\n\nIs",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "NVD - CVE-2023-51939",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-51939",
-            "snippet": "NVD - CVE-2023-51939\n\n## CVE-2023-51939 Detail\n\nModified After Enrichment\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may re",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "liang-junkai/Relic-bbs-fault-injection",
@@ -6063,74 +5960,52 @@
             "score": 1
           },
           {
+            "title": "jumpycastle/rre-burp",
+            "url": "https://github.com/jumpycastle/rre-burp",
+            "snippet": "# Repository: jumpycastle/rre-burp\n\nBurp extension for Recursive Request Exploits (RRE) — DEFCON 2025\n\n- Stars: 122\n- Forks: 14\n- Watchers: 122\n- Open issues: 0\n- Primary language: Python\n- Languages:",
+            "published": "2025-07-21T07:42:42.000Z",
+            "score": 0.5
+          },
+          {
             "title": "rxstd/CVE-2025-55182-poc",
             "url": "https://github.com/rxstd/CVE-2025-55182-poc",
             "snippet": "# Repository: rxstd/CVE-2025-55182-poc (fork of [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research))\n\nCVE-2025-55182 POC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issue",
             "published": "2025-12-04T00:04:13.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "jehovah2002/CVE-2025-55182-exp",
-            "url": "https://github.com/jehovah2002/CVE-2025-55182-exp",
-            "snippet": "# Repository: jehovah2002/CVE-2025-55182-exp (fork of [whiteov3rflow/CVE-2025-55182-poc](https://github.com/whiteov3rflow/CVE-2025-55182-poc))\n\nReact2Shell RCE (CVE-2025-55182) Proof of Concept\n\n- Sta",
-            "published": "2025-12-04T02:19:45.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-04T05:58:23.783Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-15T06:27:09.838Z"
       },
-      "timestamp": "2026-06-04T05:58:25.707Z"
+      "timestamp": "2026-06-15T06:27:11.477Z"
     },
     "mergify": {
       "intel": {
         "writeups": [
           {
-            "title": "How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack",
-            "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28?permalink_comment_id=6140048",
-            "snippet": "# Gist: How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack\n\n- Author: [@hackermondev](https://github.com/hackermondev)\n- Public gist (1 file)\n- ",
-            "published": "2025-12-16T20:44:09.000Z",
+            "title": "Mergify Bug Bounty Program: Ready To Hack Us?",
+            "url": "https://articles.mergify.com/mergify-bug-bounty-program-hack-us/",
+            "snippet": "Mergify Bug Bounty Program: Ready To Hack Us?\n\nWith cyberattacks becoming increasingly sophisticated and pervasive, organizations are compelled to fortify their digital defenses.\n\nOne powerful weapon ",
+            "published": "2023-10-23T10:25:37.000Z",
             "score": 1
+          },
+          {
+            "title": "Post Mortem of Incident 2024-09-17",
+            "url": "https://articles.mergify.com/post-mortem-of-incident-2024-09-17/",
+            "snippet": "Post Mortem of Incident 2024-09-17\n\nOn September 17th, 2024, Mergify service went down from 07:45 UTC to 09:35 UTC. Due to the nature of the incident, we think it would be interesting to share with ou",
+            "published": "2024-09-18T08:14:36.000Z",
+            "score": 0.5
           },
           {
             "title": "Level Up Your Docker Security: Uncover Mergify's Battle-Tested Workflow for Container Image Scanning",
             "url": "https://articles.mergify.com/level-up-your-docker-security-uncover-mergifys-battle-tested-workflow-for-container-image-scanning/",
             "snippet": "Level Up Your Docker Security: Uncover Mergify's Battle-Tested Workflow for Container Image Scanning\n\nAt Mergify, we use Docker containers to run our production environments. Containers help developer",
             "published": "2023-03-02T08:02:02.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack",
-            "url": "https://gist.github.com/susie-Choi/443eb5ebcc335402f4633100db76612d",
-            "snippet": "# Gist: How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack\n\n- Author: [@susie-Choi](https://github.com/susie-Choi)\n- Public gist (1 file)\n- Crea",
-            "published": "2025-12-22T00:57:49.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "OSV - Open Source Vulnerabilities",
-            "url": "https://osv.dev/vulnerability/GHSA-w95v-4h65-j455",
-            "snippet": "# GHSA-w95v-4h65-j455\n\nSource https://github.com/advisories/GHSA-w95v-4h65-j455 Import Source https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-w95v-4h65-j4",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "Authenticated Remote Code Execution via Command Injection in Database Import · Advisory · coollabsio/coolify · GitHub",
-            "url": "https://github.com/coollabsio/coolify/security/advisories/GHSA-q33h-22xm-4cgh",
-            "snippet": "Authenticated Remote Code Execution via Command Injection in Database Import · Advisory · coollabsio/coolify · GitHub\n\n# Authenticated Remote Code Execution via Command Injection in Database Import\n\nC",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Authenticated Remote Code Execution via Command Injection in PostgreSQL Init Script Filename · Advisory · coollabsio/coolify · GitHub",
-            "url": "https://github.com/coollabsio/coolify/security/advisories/GHSA-24mp-fc9q-c884",
-            "snippet": "Authenticated Remote Code Execution via Command Injection in PostgreSQL Init Script Filename · Advisory · coollabsio/coolify · GitHub\n\n# Authenticated Remote Code Execution via Command Injection in Po",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "yfolias/trivy-compromise-poc",
@@ -6147,18 +6022,18 @@
             "score": 0.5
           },
           {
-            "title": "How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack",
-            "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28?permalink_comment_id=5982324",
-            "snippet": "# Gist: How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack\n\n- Author: [@hackermondev](https://github.com/hackermondev)\n- Public gist (1 file)\n- ",
-            "published": "2025-12-16T20:44:09.000Z",
+            "title": "M3PH1569/CVE-2026-39987-POC",
+            "url": "https://github.com/M3PH1569/CVE-2026-39987-POC",
+            "snippet": "# Repository: M3PH1569/CVE-2026-39987-POC\n\nCVE-2026-39987 Exploitation Tool - Marimo < 0.23.0 Pre-Auth RCE (WebSocket)\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n",
+            "published": "2026-05-24T18:00:33.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-04T05:58:25.707Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-15T06:27:11.477Z"
       },
-      "timestamp": "2026-06-04T05:58:27.287Z"
+      "timestamp": "2026-06-15T06:27:13.043Z"
     },
     "coinhako": {
       "intel": {
@@ -6185,57 +6060,35 @@
             "score": 0
           }
         ],
-        "twitter": [
+        "twitter": [],
+        "github": [
           {
-            "title": "21st Feb 20 Unauthorized Transactions Update: All Funds Safe, Restored and Services Reinstated - All Services Back in Action at Coinhako",
-            "url": "https://blog.coinhako.com/21st-feb-20-unauthorized-transactions-update-all-funds-safe-restored-and-services-reinstated-all-services-back-in-action-at-coinhako/",
-            "snippet": "21st Feb 20 Unauthorized Transactions Update: All Funds Safe, Restored and Services Reinstated - All Services Back in Action at Coinhako\n\nWe are glad to share that Coinhako is back to full operational",
-            "published": "2020-02-29T10:25:00.000Z",
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "published": null,
             "score": 1
           },
-          {
-            "title": "Coinhako | Security Program",
-            "url": "https://ooosec.com/programs/coinhako",
-            "snippet": "Coinhako | Security Program\n\n## Coinhako\n\n# Coinhako\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n## Details\n\nCoinhako looks forward to working with the security community to find vul",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "21st February 2020 Updates: Coinhako’s Commitment to Your Security",
-            "url": "https://blog.coinhako.com/21st-february-2020-updates-coinhakos-commitment-to-your-security/",
-            "snippet": "21st February 2020 Updates: Coinhako’s Commitment to Your Security\n\nIn response to the security incident that occured on 21st February 2020, we will be implementing extra measures to bolster our exist",
-            "published": "2020-03-12T10:30:00.000Z",
-            "score": 0
-          }
-        ],
-        "github": [
           {
             "title": "hg0434hongzh0/CVE-2026-34197",
             "url": "https://github.com/hg0434hongzh0/CVE-2026-34197",
             "snippet": "# Repository: hg0434hongzh0/CVE-2026-34197\n\nPOC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-04-10T01:29:",
             "published": "2026-04-10T01:29:12.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "src/test/2025-08/coinbase_exp.sol at main · SunWeb3Sec/DeFiHackLabs",
             "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-08/coinbase_exp.sol",
-            "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2025-08/coinbase_exp.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 6K stars | Solidity\n- Branch: main\n\n```sol\n/",
+            "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2025-08/coinbase_exp.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 7K stars | Solidity\n- Branch: main\n\n```sol\n/",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "WOOOOONG/hook",
-            "url": "https://github.com/WOOOOONG/hook",
-            "snippet": "# Repository: WOOOOONG/hook\n\nPoC Exploit for CVE-2024-32002\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell\n- Default branch: main\n- Created: 2024-05",
-            "published": "2024-05-23T06:38:56.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-04T05:58:29.000Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-15T06:27:13.043Z"
       },
-      "timestamp": "2026-06-04T05:58:30.569Z"
+      "timestamp": "2026-06-15T06:27:14.783Z"
     },
     "arkose_labs": {
       "intel": {
@@ -6262,29 +6115,7 @@
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Arkose Labs Client API Content-Security-Policy Bypass Scanner",
-            "url": "https://s4e.io/tools/arkose-labs-client-api-content-security-policy-bypass-scanner",
-            "snippet": "Arkose Labs Client API Content-Security-Policy Bypass Scanner\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter e",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "CVE-2025-26748: Cross-Site Request Forgery Vulnerability in LOOS Arkhe - Ameeba Exploit Tracker",
-            "url": "https://www.ameeba.com/blog/cve-2025-26748-cross-site-request-forgery-vulnerability-in-loos-arkhe/",
-            "snippet": "CVE-2025-26748: Cross-Site Request Forgery Vulnerability in LOOS Arkhe - Ameeba Exploit Tracker\n\n# Ameeba Exploit Tracker\n\nTracking CVEs, exploits, and zero-days for defensive cybersecurity research.\n",
-            "published": "2025-04-23T20:55:33.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Russell Clare - Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
-            "url": "https://russellclare.com/security-claude-xss-zero-click-prompt-injection/",
-            "snippet": "Russell Clare - Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website\n\n# Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website\n\nDisclaimer: Commissioned",
-            "published": "2026-03-26T17:01:00.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "0xDaeras/Flowise-CVE-2025-58434-Chain-59528",
@@ -6294,40 +6125,40 @@
             "score": 1
           },
           {
-            "title": "kartik2005221/CVE-2025-58434-AND-59528-POC",
-            "url": "https://github.com/kartik2005221/CVE-2025-58434-AND-59528-POC",
-            "snippet": "# Repository: kartik2005221/CVE-2025-58434-AND-59528-POC\n\nCombined PoC for CVE-2025-28434 and CVE-2025-59528\n\n- Stars: 13\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languag",
-            "published": "2026-04-13T01:54:37.000Z",
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "exploit.py at main · adriyansyah-mf/cve-2026-41940-poc",
-            "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
-            "snippet": "# File: adriyansyah-mf/cve-2026-41940-poc/exploit.py\n\n- Repository: adriyansyah-mf/cve-2026-41940-poc | 28 stars | Python\n- Branch: main\n\n```py\nimport argparse\nimport base64\nimport json\nimport re\nimpo",
-            "published": null,
+            "title": "Augmaster/POC-CVE-2026-23520",
+            "url": "https://github.com/Augmaster/POC-CVE-2026-23520",
+            "snippet": "# Repository: Augmaster/POC-CVE-2026-23520\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-03-21T21:52:49Z\n-",
+            "published": "2026-03-21T21:52:49.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-04T05:58:30.569Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-15T06:27:14.783Z"
       },
-      "timestamp": "2026-06-04T05:58:32.105Z"
+      "timestamp": "2026-06-15T06:27:16.237Z"
     },
     "alsco": {
       "intel": {
         "writeups": [
           {
-            "title": "ACSC 2024 writeup - HackMD",
+            "title": "Untitled",
             "url": "https://hackmd.io/5N99ZjcPSi2CpLFQCXem1g",
-            "snippet": "# ACSC 2024 writeup\n\n## Web:\n\n### Login!\n\nA simple login page, our target is to login as `user`.\n\n```javascript\nconst user = USER_DB[username];\nif (user && user.password == password) {\n    if (usernam",
+            "snippet": "---\n# System prepended metadata\n\ntitle: ACSC 2024 writeup\n\n---\n\n# ACSC 2024 writeup\n\n## Web:\n\n### Login!\nA simple login page, our target is to login as `user`. \n\n```javascript\nconst user = USER_DB[use",
             "published": null,
             "score": 1
           },
           {
             "title": "ALSCO Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/alsco/",
-            "snippet": "ALSCO Bug Bounty Program - Bug Bounties\n\n# ALSCO\n\nBounty Recognition Swag Full Safe Harbor\n\n## Program Details\n\nHandle alsco Managed No\n\n## Response Metrics\n\nResponse Time 7 days\n\nResponse Efficiency\n",
+            "snippet": "ALSCO Bug Bounty Program - Bug Bounties\n\n# ALSCO\n\nBounty Recognition Swag Full Safe Harbor\n\n## Program Details\n\nHandle alsco Managed No\n\n## Response Metrics\n\nResponse Time 8 days\n\nResponse Efficiency\n",
             "published": null,
             "score": 0.5
           },
@@ -6339,29 +6170,7 @@
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "NVD - CVE-2025-12381",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-12381",
-            "snippet": "NVD - CVE-2025-12381\n\n## CVE-2025-12381 Detail\n\n### Description\n\nImproper Privilege Management vulnerability in AlgoSec Firewall Analyzer on Linux, 64 bit allows Privilege Escalation, Parameter Inject",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "Remote Code Execution in DELMIA Apriso — ProjectDiscovery Blog",
-            "url": "https://projectdiscovery.io/blog/remote-code-execution-in-delmia-apriso",
-            "snippet": "Remote Code Execution in DELMIA Apriso — ProjectDiscovery Blog\n\n# Remote Code Execution in DELMIA Apriso\n\nBy Rahul Maini & Harsh Jaiswal & Parth Malhotra\n\nSeptember 23, 2025\n\n15 min read\n\n#### Table o",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2025-12382",
-            "url": "https://techdocs.algosec.com/en/cves/Content/tech-notes/cves/cve-2025-12382.htm",
-            "snippet": "CVE-2025-12382\n\n# AlgoSec Vulnerability Advisory\n\nDocument Last Updated: 13 November, 2025\n\n## CVE-2025-12382\n\n### Path Traversal Allows Remote Code Execution in AlgoSec Firewall Analyzer\n\nA33.0 (up t",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "0xBlackash/CVE-2026-28289",
@@ -6371,10 +6180,10 @@
             "score": 1
           },
           {
-            "title": "lanscope-poc-test",
-            "url": "https://gist.github.com/Bot-GJ16/9b4db2115efae164ac1767880a28def9",
-            "snippet": "# Gist: lanscope-poc-test\n\n- Author: [@Bot-GJ16](https://github.com/Bot-GJ16)\n- Private gist (4 files)\n- Created: 2025-11-09T14:00:40Z\n- Updated: 2025-11-09T14:00:40Z\n\n## Dockerfile\n\n```\nFROM python:3",
-            "published": "2025-11-09T14:00:40.000Z",
+            "title": "data-cve-poc-py-v1/2026/CVE-2026-28289 at main · XiaomingX/data-cve-poc-py-v1 · GitHub",
+            "url": "https://github.com/XiaomingX/data-cve-poc-py-v1/tree/main/2026/CVE-2026-28289",
+            "snippet": "data-cve-poc-py-v1/2026/CVE-2026-28289 at main · XiaomingX/data-cve-poc-py-v1 · GitHub\n\n## Files\n\nmain\n\n# CVE-2026-28289\n\nmain\n\n# CVE-2026-28289\n\nTop\n\nLast commit message\n\nLast commit date\n\nView all f",
+            "published": "2026-02-01T03:41:41.000Z",
             "score": 0.5
           },
           {
@@ -6386,37 +6195,14 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-04T05:58:32.105Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-15T06:27:16.237Z"
       },
-      "timestamp": "2026-06-04T05:58:33.858Z"
+      "timestamp": "2026-06-15T06:27:17.856Z"
     },
     "dynamic_labs": {
       "intel": {
         "writeups": [
-          {
-            "title": "CVE-2024-51417: System.Linq.Dynamic.Core allows remote access to properties on reflection types and static properties/fields · Issue #867 · zzzprojects/System.Linq.Dynamic.Core",
-            "url": "https://github.com/zzzprojects/System.Linq.Dynamic.Core/issues/867",
-            "snippet": "# Issue: zzzprojects/System.Linq.Dynamic.Core #867\n\n- Repository: zzzprojects/System.Linq.Dynamic.Core | The .NET Standard / .NET Core version from the System Linq Dynamic functionality. | 2K stars | ",
-            "published": "2025-01-18T19:36:02.000Z",
-            "score": 1
-          },
-          {
-            "title": "DynaVault Oracle Manipulation Share Inflation Exploit — u0.rs",
-            "url": "http://u0.rs/dynavault-share-inflation",
-            "snippet": "DynaVault Oracle Manipulation Share Inflation Exploit — u0.rs\n\n# DynaVault Exploit Analysis\n\nDate: 2026-04-25\n\nLoss Estimate: At least 413,132.02 USDC confirmed immediate protocol loss; approximately ",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Pwning Pydantic's Monty: A $5K Sandbox Escape | Veria Labs",
-            "url": "https://verialabs.com/blog/pwning-pydantic-monty/",
-            "snippet": "Pwning Pydantic's Monty: A $5K Sandbox Escape | Veria Labs\n\nOverview\n\n- The Vulnerability\n- Exploitation Primitives\n- Remote OSINT\n- Heap Feng Shui\n- Exploitation (The Fun Part)\n- Full Exploit Script\n",
-            "published": null,
-            "score": 0
-          }
-        ],
-        "twitter": [
           {
             "title": "CVE-2024-51417: System.Linq.Dynamic.Core allows remote access to properties on reflection types and static properties/fields · Issue #867 · zzzprojects/System.Linq.Dynamic.Core",
             "url": "https://github.com/zzzprojects/System.Linq.Dynamic.Core/issues/867",
@@ -6432,13 +6218,14 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2026-2731: DynamicWeb Path Traversal Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-2731/",
-            "snippet": "CVE-2026-2731: DynamicWeb Path Traversal Vulnerability\n\nCVE-2026-2731: DynamicWeb Path Traversal Vulnerability\nJoin the Cyber Forum: Threat Intel on May 12, 2026 to learn how AI is reshaping threat de",
-            "published": "2026-02-19T07:17:50.000Z",
+            "title": "Dynamic AMM",
+            "url": "https://850358062-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FyCszyuZ1UBdRqaT2zQpK%2Fuploads%2FnXsAda14Uo4z47ObO4Ee%2FMeteora-DynamicAMM-Sep-2024-OffsideLabs.pdf?alt=media&token=a98bd729-80bd-4a31-b0f0-e387f53e9aca",
+            "snippet": "OFFSIDE LABS\n\nDynamic AMM Smart Contract Security Assessment\n\nSeptember 2024\n\nPrepared for: Meteora\n\nPrepared by: \nOffside Labs \nYao Li \nSirius Xie \nRonny Xing \n\nContents\n\n1 About Offside Labs 2 \n2 Ex",
+            "published": null,
             "score": 0
           }
         ],
+        "twitter": [],
         "github": [
           {
             "title": "CVE-2024-51417: System.Linq.Dynamic.Core allows remote access to properties on reflection types and static properties/fields · Issue #867 · zzzprojects/System.Linq.Dynamic.Core",
@@ -6463,10 +6250,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-08T05:52:32.693Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-15T06:27:17.857Z"
       },
-      "timestamp": "2026-06-08T05:52:34.809Z"
+      "timestamp": "2026-06-15T06:27:19.166Z"
     },
     "modern_treasury": {
       "intel": {
@@ -7603,5 +7390,5 @@
       "timestamp": "2026-06-10T05:21:26.103Z"
     }
   },
-  "lastRun": "2026-06-14T05:51:17.023Z"
+  "lastRun": "2026-06-15T06:27:19.166Z"
 }
