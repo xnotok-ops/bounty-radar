@@ -3567,99 +3567,62 @@
             "score": 0
           }
         ],
-        "twitter": [
+        "twitter": [],
+        "github": [
           {
-            "title": "NVD - CVE-2022-28005",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-28005",
-            "snippet": "NVD - CVE-2022-28005\n\n## CVE-2022-28005 Detail\n\nModified After Enrichment\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may re",
-            "published": null,
+            "title": "b4sh2/CVE-2025-57819-poc",
+            "url": "https://github.com/b4sh2/CVE-2025-57819-poc",
+            "snippet": "# Repository: b4sh2/CVE-2025-57819-poc\n\nCVE-2025-57819 -> rce\n\n- Stars: 6\n- Forks: 2\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 202",
+            "published": "2026-06-06T20:13:34.000Z",
             "score": 1
           },
           {
-            "title": "Inside the 3CX Supply Chain Compromise",
-            "url": "https://silentbreach.com/blog/inside-the-3cx-supply-chain-compromise",
-            "snippet": "Inside the 3CX Supply Chain Compromise\n\n## Inside the 3CX Supply Chain Compromise\n\nIn February of 2023, Silent Breach began to observe a significant anomaly surfacing across enterprise telemetry.\n\nIn ",
-            "published": null,
+            "title": "MindCOld/FreePBX-16-RCE-PoC-Unauthenticated-",
+            "url": "https://github.com/MindCOld/FreePBX-16-RCE-PoC-Unauthenticated-",
+            "snippet": "# Repository: MindCOld/FreePBX-16-RCE-PoC-Unauthenticated-\n\nFreePBX versions 15, 16, and 17 contain a Remote Code Execution (RCE) vulnerability caused by insufficient sanitization of user-supplied dat",
+            "published": "2026-06-08T07:27:59.000Z",
             "score": 0.5
           },
-          {
-            "title": "3CX Security Update: Mitigating HTTP/2 Bomb (CVE-2026-49975)",
-            "url": "https://www.3cx.com/blog/news/http2-vulnerability-mitigation/",
-            "snippet": "3CX Security Update: Mitigating HTTP/2 Bomb (CVE-2026-49975)\n\nENTERPRISE AI PHONE SYSTEM\n\nENTERPRISE BUSINESS IP PHONE SYSTEM\n\nTry it FREE\n\nStart your free trial Talk to Sales\n\n### Easy set up\n\nHave y",
-            "published": "2026-06-08T11:13:05.000Z",
-            "score": 0
-          }
-        ],
-        "github": [
           {
             "title": "3cx-management-console.yaml at main · KeepHowling/all_freaking_nuclei_templates",
             "url": "https://github.com/KeepHowling/all_freaking_nuclei_templates/blob/main/3cx-management-console.yaml",
             "snippet": "# File: KeepHowling/all_freaking_nuclei_templates/3cx-management-console.yaml\n\n- Repository: KeepHowling/all_freaking_nuclei_templates | Every Nuclei template that has ever appeared on Github :gem: | ",
             "published": null,
-            "score": 1
-          },
-          {
-            "title": "orange0Mint/CVE-2025-57819_FreePBX",
-            "url": "https://github.com/orange0Mint/CVE-2025-57819_FreePBX?tab=readme-ov-file",
-            "snippet": "# Repository: orange0Mint/CVE-2025-57819_FreePBX\n\nThis repository includes two PoC scripts for CVE-2025-57819 in FreePBX: one to create a new admin user (poc_admin.py), and another to extract credenti",
-            "published": "2025-09-18T20:38:36.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 8,
-        "enriched_at": "2026-06-09T05:08:46.447Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-16T06:34:47.600Z"
       },
-      "timestamp": "2026-06-09T05:08:48.108Z"
+      "timestamp": "2026-06-16T06:34:49.796Z"
     },
     "privy-bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "Privy (Bounty) Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/privy-bounty/",
-            "snippet": "Privy (Bounty) Bug Bounty Program - Bug Bounties\n\n# Privy (Bounty)\n\nTop 100K site\n\nBounty Swag\n\n## Program Details\n\nHandle privy-bbp Managed No\n\n## Response Metrics\n\nResponse Time 21 days Bounty Time ",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "Privy JWT Private Key Committed to Repository in `.env.ci` | Zealynx",
             "url": "https://www.zealynx.io/audits/dripster/offchain-pentest-q2-2026/findings/F-2026-0019",
             "snippet": "Privy JWT Private Key Committed to Repository in `.env.ci` | Zealynx\n\n02Section · Description\n\n## Description\n\nThe CI environment file contains a full PEM-encoded ECDSA private key (`LOCAL_PRIVY_JWT_P",
             "published": "2026-04-29T00:00:00.000Z",
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library",
             "url": "https://www.privy.io/blog/shamir-secret-sharing-deep-dive",
             "snippet": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nBack\n\n## Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nS\n\n|\n\nAug ",
             "published": "2024-05-01T15:43:08.000Z",
-            "score": 0
-          }
-        ],
-        "twitter": [
-          {
-            "title": "Privy JWT Private Key Committed to Repository in `.env.ci` | Zealynx",
-            "url": "https://www.zealynx.io/audits/dripster/offchain-pentest-q2-2026/findings/F-2026-0019",
-            "snippet": "Privy JWT Private Key Committed to Repository in `.env.ci` | Zealynx\n\n02Section · Description\n\n## Description\n\nThe CI environment file contains a full PEM-encoded ECDSA private key (`LOCAL_PRIVY_JWT_P",
-            "published": "2026-04-29T00:00:00.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Privy (Bounty) Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/privy-bounty/",
-            "snippet": "Privy (Bounty) Bug Bounty Program - Bug Bounties\n\n# Privy (Bounty)\n\nTop 100K site\n\nBounty Swag\n\n## Program Details\n\nHandle privy-bbp Managed No\n\n## Response Metrics\n\nResponse Time 21 days Bounty Time ",
+            "snippet": "Privy (Bounty) Bug Bounty Program - Bug Bounties\n\n# Privy (Bounty)\n\nTop 100K site\n\nBounty Swag\n\n## Program Details\n\nHandle privy-bbp Managed No\n\n## Response Metrics\n\nResponse Time 32 days Bounty Time ",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "octal-crypto/cipher-privy-script-injection",
-            "url": "https://github.com/octal-crypto/cipher-privy-script-injection",
-            "snippet": "# Repository: octal-crypto/cipher-privy-script-injection\n\n- Stars: 5\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (95.8%), HTML (4.2%)\n- Default bra",
-            "published": "2023-10-02T00:53:35.000Z",
             "score": 0
           }
         ],
+        "twitter": [],
         "github": [
           {
             "title": "octal-crypto/cipher-privy-script-injection",
@@ -3676,67 +3639,45 @@
             "score": 0.5
           },
           {
-            "title": "yfolias/trivy-compromise-poc",
-            "url": "https://github.com/yfolias/trivy-compromise-poc",
-            "snippet": "# Repository: yfolias/trivy-compromise-poc\n\nA simple Proof of Concept to demonstrate and provide a high level understanding of how the trivy compromise happened.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n-",
-            "published": "2026-04-07T02:22:37.000Z",
+            "title": "Abstract-Foundation/agw-privy-demo",
+            "url": "https://github.com/Abstract-Foundation/agw-privy-demo",
+            "snippet": "# Repository: Abstract-Foundation/agw-privy-demo\n\n- Stars: 2\n- Forks: 2\n- Watchers: 2\n- Open issues: 0\n- Primary language: TypeScript\n- Languages: TypeScript (91.7%), CSS (4.8%), JavaScript (3.5%)\n- L",
+            "published": "2024-08-26T04:28:52.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-09T05:08:48.109Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-16T06:34:49.797Z"
       },
-      "timestamp": "2026-06-09T05:08:49.724Z"
+      "timestamp": "2026-06-16T06:34:51.805Z"
     },
     "netflix": {
       "intel": {
         "writeups": [
           {
+            "title": "Hacking Netflix for $$$ — Stored XSS + IDOR to Session Hijacking & Account Takeover | by Viktor Mares | Medium",
+            "url": "https://blog.viktormares.com/hacking-netflix-for-stored-xss-idor-to-session-hijacking-account-takeover-9ba1cdeabbf8",
+            "snippet": "Hacking Netflix for $$$ — Stored XSS + IDOR to Session Hijacking & Account Takeover | by Viktor Mares | Medium\n\nSign up\n\nGet app\n\nSign up\n\nMember-only story\n\n# Hacking Netflix for $$$ — Stored XSS + I",
+            "published": "2025-02-28T09:12:57.000Z",
+            "score": 1
+          },
+          {
             "title": "When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey | by LETCHU PKT | Medium",
             "url": "https://letchupkt.medium.com/when-your-bug-gets-marked-duplicate-a-netflix-atlas-security-research-journey-eae25a5f4f35",
             "snippet": "When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey | by LETCHU PKT | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security ",
             "published": "2025-09-08T14:10:20.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Admin Account Takeover in Netflix Dispatch Project | by Lyubomir Tsirkov | Medium",
             "url": "https://ltsirkov.medium.com/0-click-admin-account-takeover-in-netflix-dispatch-project-feec37326004",
             "snippet": "Admin Account Takeover in Netflix Dispatch Project | by Lyubomir Tsirkov | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Admin Account Takeover in Netflix Dispatch Project\n\n7 min read\n\nFeb 27, 2025\n\n--\n\n1\n\nSha",
             "published": "2025-02-27T20:30:38.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Here’s the Netflix account compromise Bugcrowd doesn’t want you to know about [Updated] - Ars Technica",
-            "url": "https://arstechnica.com/information-technology/2020/03/bugcrowd-tries-to-muzzle-hacker-who-found-netflix-account-compromise-weakness/",
-            "snippet": "Here’s the Netflix account compromise Bugcrowd doesn’t want you to know about [Updated] - Ars Technica\n\nText settings\n\nStory text\n\nSize Small Standard Large Width * Standard Wide Links Standard Orange",
-            "published": "2020-03-23T22:37:03.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "NVD - CVE-2024-4701",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4701",
-            "snippet": "NVD - CVE-2024-4701\n\n## CVE-2024-4701 Detail\n\nNot Scheduled\n\n---\n\nThis CVE record is not being prioritized for NVD enrichment efforts due to resource or other concerns.\n\n### Description\n\nA path traver",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "Path Traversal Vulnerability via  File Uploads in Genie  · Advisory · Netflix/genie · GitHub",
-            "url": "https://github.com/Netflix/genie/security/advisories/GHSA-wpcv-5jgp-69f3",
-            "snippet": "Path Traversal Vulnerability via File Uploads in Genie · Advisory · Netflix/genie · GitHub\n\n# Path Traversal Vulnerability via File Uploads in Genie\n\nCritical\n\npublished GHSA-wpcv-5jgp-69f3 May 9, 202",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "advisories/nflx-2024-004.md at master · Netflix/security-bulletins",
-            "url": "https://github.com/Netflix/security-bulletins/blob/master/advisories/nflx-2024-004.md",
-            "snippet": "# File: Netflix/security-bulletins/advisories/nflx-2024-004.md\n\n- Repository: Netflix/security-bulletins | Security Bulletins that relate to Netflix Open Source | 746 stars\n- Branch: master\n\n```md\n# A",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "yaxit24/Netflix-Streaming",
@@ -3746,25 +3687,25 @@
             "score": 1
           },
           {
-            "title": "JoeBeeton/CVE-2024-4701-POC",
-            "url": "https://github.com/JoeBeeton/CVE-2024-4701-POC",
-            "snippet": "# Repository: JoeBeeton/CVE-2024-4701-POC\n\nPOC for CVE-2024-4701\n\n- Stars: 2\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: Apache License 2.0 (Apache-2.0)\n- Default branch: main\n- Created: 2024",
-            "published": "2024-05-13T11:58:19.000Z",
-            "score": 0.5
-          },
-          {
             "title": "kr-b/netflixparty_exploit",
             "url": "https://github.com/kr-b/netflixparty_exploit",
             "snippet": "# Repository: kr-b/netflixparty_exploit\n\nExploit tool for XSS in Netflix party <=1.7.8\n\n- Stars: 5\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Topics: ex",
             "published": "2020-04-08T20:14:09.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "JoeBeeton/CVE-2024-4701-POC",
+            "url": "https://github.com/JoeBeeton/CVE-2024-4701-POC",
+            "snippet": "# Repository: JoeBeeton/CVE-2024-4701-POC\n\nPOC for CVE-2024-4701\n\n- Stars: 2\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: Apache License 2.0 (Apache-2.0)\n- Default branch: main\n- Created: 2024",
+            "published": "2024-05-13T11:58:19.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-09T05:08:49.724Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-16T06:34:51.805Z"
       },
-      "timestamp": "2026-06-09T05:08:51.259Z"
+      "timestamp": "2026-06-16T06:34:53.180Z"
     },
     "23andme_bbp": {
       "intel": {
@@ -3772,48 +3713,26 @@
           {
             "title": "23andMe Bug Bounty | Security Program",
             "url": "https://ooosec.com/programs/23andme-bug-bounty",
-            "snippet": "23andMe Bug Bounty | Security Program\n\n## 23andMe Bug Bounty\n\n# 23andMe Bug Bounty\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n## Details\n\n23andMe Bug Bounty | Security Program\n[OOOs",
+            "snippet": "23andMe Bug Bounty | Security Program\n\n## 23andMe Bug Bounty\n\n# 23andMe Bug Bounty\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n## Details\n\n# Welcome, Security Research Community!\n\n23",
             "published": null,
             "score": 1
           },
           {
-            "title": "23andMe: Negligent Security Practices Facilitating Credential Stuffing Attacks Targeting Ashkenazi Jewish And Chinese Genetic Data | Ekalavya Hansaj",
+            "title": "23andMe Data Breach: What Happened and What To Do Now | breached.news",
+            "url": "https://www.breached.news/articles/23andme-breach",
+            "snippet": "23andMe Data Breach: What Happened and What To Do Now | breached.news\n\n# 23andMe Data Breach: What Happened and What To Do Now\n\nGenetic testing company 23andMe confirmed that hackers accessed the pers",
+            "published": "2026-03-21T23:00:30.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Plan Limits Reached - Upgrade Required",
             "url": "https://hansajekalavya.com/reviews/23andme-negligent-security-practices-facilitating-credential-stuffing-attacks-targeting-ashkenazi-jewish-and-chinese-genetic-data/",
-            "snippet": "23andMe: Negligent Security Practices Facilitating Credential Stuffing Attacks Targeting Ashkenazi Jewish And Chinese Genetic Data | Ekalavya Hansaj\n\n# Investigative Review of 23andMe\n\nNIST recommends",
-            "published": "2026-02-25T13:35:11.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "23andMe: Raw genetic data stolen in months-long cyberattack | news | SC Media",
-            "url": "https://www.scmagazine.com/news/23andme-raw-genetic-data-stolen-in-months-long-cyberattack",
-            "snippet": "23andMe: Raw genetic data stolen in months-long cyberattack | news | SC Media\n\n# 23andMe: Raw genetic data stolen in months-long cyberattack\n\nJanuary 26, 2024\n\nShare\n\n(Photo Illustration by Pavlo Gonc",
-            "published": "2024-01-26T19:27:29.000Z",
+            "snippet": "Plan Limits Reached - Upgrade Required",
+            "published": "2026-02-25T00:00:00.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "23andMe Bug Bounty | Security Program",
-            "url": "https://ooosec.com/programs/23andme-bug-bounty",
-            "snippet": "23andMe Bug Bounty | Security Program\n\n## 23andMe Bug Bounty\n\n# 23andMe Bug Bounty\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n## Details\n\n23andMe Bug Bounty | Security Program\n[OOOs",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "8-K/A",
-            "url": "https://www.sec.gov/Archives/edgar/data/1804591/000119312523287449/d242666d8ka.htm",
-            "snippet": "8-K/A\n\ntrue 0001804591 0001804591 2023-10-10 2023-10-10\n\nUNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 8-K/A\n\n(Amendment No. 1)\n\nCURRENT REPORT\n\nPursuant to Section 1",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "NVD - CVE-2021-38305",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-38305",
-            "snippet": "NVD - CVE-2021-38305 \n\n## CVE-2021-38305 Detail\n\nModified\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may require amendment ",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "getmy23andme.py at master · freeseek/getmydnamatches",
@@ -3825,8 +3744,8 @@
           {
             "title": "mdublin/23andMe-SPA-ProxyAPI",
             "url": "https://github.com/mdublin/23andMe-SPA-ProxyAPI",
-            "snippet": "# Repository: mdublin/23andMe-SPA-ProxyAPI\n\nA KnockoutJS-based SPA and Flask-based proxy API for interacting with 23andMe genetic data.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Topics: ",
-            "published": "2017-10-04T03:46:27.000Z",
+            "snippet": "# mdublin/23andMe-SPA-ProxyAPI\n\nA KnockoutJS-based SPA and Flask-based proxy API for interacting with 23andMe genetic data. \n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: mas",
+            "published": null,
             "score": 0.5
           },
           {
@@ -3838,10 +3757,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-09T05:08:51.259Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-16T06:34:53.180Z"
       },
-      "timestamp": "2026-06-09T05:08:52.956Z"
+      "timestamp": "2026-06-16T06:34:54.656Z"
     },
     "audible": {
       "intel": {
@@ -3861,36 +3780,14 @@
             "score": 0.5
           },
           {
-            "title": "Audible, and a curious case of insecure by-default in Adobe SDKs – Pankaj Upadhyay",
-            "url": "https://pankajupadhyay.in/2019/12/06/audible-and-a-curious-case-of-insecure-by-default-in-adobe-sdks/",
-            "snippet": "Audible, and a curious case of insecure by-default in Adobe SDKs – Pankaj Upadhyay\n\n“ Insecure Communication” in Mobile apps are placed under OWASP Top 10 vulnerabilities and can be exploited in perfo",
-            "published": "2019-12-05T20:36:54.000Z",
-            "score": 0
-          }
-        ],
-        "twitter": [
-          {
-            "title": "BBO513/CVE-2023-7231",
-            "url": "https://github.com/BBO513/CVE-2023-7231",
-            "snippet": "# Repository: BBO513/CVE-2023-7231\n\nPoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 1\n- Primary language: Python\n- Languages: Pyth",
-            "published": "2025-05-08T05:28:29.000Z",
-            "score": 1
-          },
-          {
-            "title": "face0xff/kindle-audible-exploit-chain",
-            "url": "https://github.com/face0xff/kindle-audible-exploit-chain",
-            "snippet": "# Repository: face0xff/kindle-audible-exploit-chain\n\nExploit for an Audible vulnerability chain targeting Kindle < 5.18.1\n\n- Stars: 4\n- Forks: 0\n- Watchers: 4\n- Open issues: 0\n- Primary language: Pyth",
-            "published": "2025-12-15T16:31:09.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Vulnerability Platform - Free CVE Database & AI Analysis",
-            "url": "https://cve.imfht.com/poc_detail/a6b854f9f1979db85e5925b3ba80586b706a1f10",
-            "snippet": "Vulnerability Platform - Free CVE Database & AI Analysis\n\n###### Support Us — Your donation helps us keep running\n\nGoal: 1000 CNY，Raised: 1000 CNY\n\n100.0%\n\n#### POC Details: a6b854f9f1979db85e5925b3ba",
+            "title": "Full Disclosure: Amazon Audible Software CVE-2017-17069 Privilege Escalation\tVulnerability",
+            "url": "http://seclists.org/fulldisclosure/2017/Dec/24",
+            "snippet": "Full Disclosure: Amazon Audible Software CVE-2017-17069 Privilege Escalation Vulnerability \n\n \n\n## Full Disclosure mailing list archives\n\n \n\nBy Date\n\nBy Thread\n\n \n\n# Amazon Audible Software CVE-2017-1",
             "published": null,
             "score": 0
           }
         ],
+        "twitter": [],
         "github": [
           {
             "title": "BBO513/CVE-2023-7231",
@@ -3915,10 +3812,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-09T05:08:52.957Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-16T06:34:54.657Z"
       },
-      "timestamp": "2026-06-09T05:08:54.658Z"
+      "timestamp": "2026-06-16T06:34:56.112Z"
     },
     "temu": {
       "intel": {
@@ -3945,29 +3842,7 @@
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Search code, repositories, users, issues, pull requests...",
-            "url": "https://github.com/Jonathanjimenez123/temu-vuln-hunter-pro",
-            "snippet": "GitHub - Jonathanjimenez123/temu-vuln-hunter-pro: Critical vulnerability chain in Temu: open redirect →reflected XSS →account takeover via stolen session cookies.\n[Skip to content](#start-of-content)\n",
-            "published": "2025-07-18T08:00:55.000Z",
-            "score": 1
-          },
-          {
-            "title": "Untitled",
-            "url": "https://en.ntc.swiss/hubfs/temu-security-analysis-ntc-en.pdf",
-            "snippet": "Technical Security Analysis\n\nMobile App «Temu»\n\nSecurity Risk Assessment from a Swiss Perspective\n\nVersion 1.0 Date 05 December 2024 Classification Public\n\nAuthors Tobias Castagna, Patrik Fabian, Andr",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "🚨 Universal Link Hijacking via Misconfigured AASA File on Temu.com | by Muhammad Habib | Medium",
-            "url": "https://medium.com/@m.habibgpi/universal-link-hijacking-via-misconfigured-aasa-file-on-temu-com-eadfcb745e4e",
-            "snippet": "🚨 Universal Link Hijacking via Misconfigured AASA File on Temu.com | by Muhammad Habib | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# 🚨 Universal Link Hijacking via Misconfigured AASA File on Temu.com\n\n3 mi",
-            "published": "2025-05-07T19:36:26.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "Search code, repositories, users, issues, pull requests...",
@@ -3992,10 +3867,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-09T05:08:54.659Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-16T06:34:56.112Z"
       },
-      "timestamp": "2026-06-09T05:08:56.375Z"
+      "timestamp": "2026-06-16T06:34:57.595Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -4008,64 +3883,42 @@
             "score": 1
           },
           {
+            "title": "Buffer Overflow in ImageDecoder::decodeJPEGImpl · Issue #1120 · lightspark/lightspark",
+            "url": "https://github.com/lightspark/lightspark/issues/1120",
+            "snippet": "# Issue: lightspark/lightspark #1120\n\n- Repository: lightspark/lightspark | An open source flash player implementation | 2K stars | C++\n\n## Buffer Overflow in ImageDecoder::decodeJPEGImpl\n\n- Author: [",
+            "published": "2024-04-23T21:56:06.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Lightspark BBP Bug Bounty Program - BBRadar.io",
             "url": "https://bbradar.io/program/HackerOne:lightspark_bbp",
             "snippet": "Lightspark BBP Bug Bounty Program - BBRadar.io\n\nLI\n\n# Lightspark BBP\n\nBug Bounty program\n\nReward Range\n\n$150 - $5,000\n\nPlatform\n\nHackerone\n\nAdded\n\nJan 15, 2025\n\nReport count\n\nScope\n\ndomain\n\nother\n\nsou",
             "published": "2024-01-01T00:00:00.000Z",
-            "score": 0.5
-          },
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
           {
             "title": "Buffer Overflow in ImageDecoder::decodeJPEGImpl · Issue #1120 · lightspark/lightspark",
             "url": "https://github.com/lightspark/lightspark/issues/1120",
             "snippet": "# Issue: lightspark/lightspark #1120\n\n- Repository: lightspark/lightspark | An open source flash player implementation | 2K stars | C++\n\n## Buffer Overflow in ImageDecoder::decodeJPEGImpl\n\n- Author: [",
             "published": "2024-04-23T21:56:06.000Z",
-            "score": 0
-          }
-        ],
-        "twitter": [
-          {
-            "title": "Lightspark BBP Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/lightspark-bbp/",
-            "snippet": "Lightspark BBP Bug Bounty Program - Bug Bounties\n\n# Lightspark BBP\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle lightspark_bbp Managed Yes\n\n## Response Metrics\n\nResponse Time 22 days Bounty Time",
-            "published": null,
             "score": 1
           },
-          {
-            "title": "Buffer Overflow in ImageDecoder::decodeJPEGImpl · Issue #1120 · lightspark/lightspark",
-            "url": "https://github.com/lightspark/lightspark/issues/1120",
-            "snippet": "# Issue: lightspark/lightspark #1120\n\n- Repository: lightspark/lightspark | An open source flash player implementation | 2K stars | C++\n\n## Buffer Overflow in ImageDecoder::decodeJPEGImpl\n\n- Author: [",
-            "published": "2024-04-23T21:56:06.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Lightspark BBP Bug Bounty Program - BBRadar.io",
-            "url": "https://bbradar.io/program/HackerOne:lightspark_bbp",
-            "snippet": "Lightspark BBP Bug Bounty Program - BBRadar.io\n\nLI\n\n# Lightspark BBP\n\nBug Bounty program\n\nReward Range\n\n$150 - $5,000\n\nPlatform\n\nHackerone\n\nAdded\n\nJan 15, 2025\n\nReport count\n\nScope\n\ndomain\n\nother\n\nsou",
-            "published": "2024-01-01T00:00:00.000Z",
-            "score": 0
-          }
-        ],
-        "github": [
           {
             "title": "lightspark/lightspark",
             "url": "http://github.com/lightspark/lightspark",
             "snippet": "# Repository: lightspark/lightspark\n\nAn open source flash player implementation\n\n- Stars: 1878\n- Forks: 228\n- Watchers: 77\n- Open issues: 76\n- Primary language: C++\n- Languages: C++ (46.2%), ActionScr",
             "published": "2010-08-18T16:52:19.000Z",
-            "score": 1
-          },
-          {
-            "title": "Buffer Overflow in ImageDecoder::decodeJPEGImpl · Issue #1120 · lightspark/lightspark",
-            "url": "https://github.com/lightspark/lightspark/issues/1120",
-            "snippet": "# Issue: lightspark/lightspark #1120\n\n- Repository: lightspark/lightspark | An open source flash player implementation | 2K stars | C++\n\n## Buffer Overflow in ImageDecoder::decodeJPEGImpl\n\n- Author: [",
-            "published": "2024-04-23T21:56:06.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 8,
-        "enriched_at": "2026-06-09T05:08:56.375Z"
+        "total_results": 5,
+        "enriched_at": "2026-06-16T06:34:57.595Z"
       },
-      "timestamp": "2026-06-09T05:08:58.097Z"
+      "timestamp": "2026-06-16T06:34:58.930Z"
     },
     "bybit_fintech": {
       "intel": {
@@ -4078,43 +3931,21 @@
             "score": 1
           },
           {
+            "title": "Zero Hour Technology || In-depth study of Bybit attack incident Part 1 - About Safe{Wallet} | PANews",
+            "url": "https://www.panewslab.com/en/articles/7r34t0qk9a15",
+            "snippet": "### Zero Hour Technology || In-depth study of Bybit attack incident Part 1 - About Safe{Wallet}\n\n零时科技\n\n- Incident Overview: On February 21, 2025, a security breach targeted Bybit's cold wallet, result",
+            "published": "2025-04-16T05:58:19.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Bybit Hack Analysis: Strengthening Crypto Exchange Security | Cremit",
             "url": "https://www.cremit.io/blog/bybit-hacking-incident-analysis-how-to-strengthen-cryptocurrency-exchange-security",
-            "snippet": "NEW: RSAC 2026 NHI Field Report. How Non-Human Identity became cybersecurity's central axis\n\nOn this page(17)\n\n### Table of Contents\n\nThe $1.4 billion hacking incident that occurred on February 21, 20",
-            "published": "2025-02-18T10:42:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Zero Hour Technology || In-depth study of Bybit attack incident Part 1 - About Safe{Wallet} | PANews",
-            "url": "https://www.panewslab.com/en/articles/7r34t0qk9a15",
-            "snippet": "### Zero Hour Technology || In-depth study of Bybit attack incident Part 1 - About Safe{Wallet}\n\n零时科技\n\n- Incident Overview: On February 21, 2025, a security breach targeted Bybit's cold wallet, result",
-            "published": "2025-04-16T05:58:19.000Z",
+            "snippet": "Bybit Hack Analysis: Strengthening Crypto Exchange Security | Cremit\n\nNEW: RSAC 2026 NHI Field Report. How Non-Human Identity became cybersecurity's central axis\n\nOn this page(17)\n\n### Table of Conten",
+            "published": "2025-02-18T11:59:04.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Zero Hour Technology || In-depth study of Bybit attack incident Part 1 - About Safe{Wallet} | PANews",
-            "url": "https://www.panewslab.com/en/articles/7r34t0qk9a15",
-            "snippet": "### Zero Hour Technology || In-depth study of Bybit attack incident Part 1 - About Safe{Wallet}\n\n零时科技\n\n- Incident Overview: On February 21, 2025, a security breach targeted Bybit's cold wallet, result",
-            "published": "2025-04-16T05:58:19.000Z",
-            "score": 1
-          },
-          {
-            "title": "Bybit Releases Forensic Report Linking $1.5B Hack to Safe Wallet Compromise",
-            "url": "https://cryptonews.com/news/bybit-releases-forensic-report-linking-1-5b-hack-to-safe-wallet-compromise/",
-            "snippet": "Bybit Releases Forensic Report Linking $1.5B Hack to Safe Wallet Compromise\n\nETH Gas (gwei) 0.16\n\n# Bybit Releases Forensic Report Linking $1.5B Hack to Safe Wallet Compromise\n\nA deep dive into this u",
-            "published": "2025-02-26T16:37:24.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Bybit Heist Case Study: When Billions Vanish",
-            "url": "https://www.sygnia.co/case-study/bybit-heist-case-study/",
-            "snippet": "Bybit Heist Case Study: When Billions Vanish\n\nCyber Readiness\n\nCyber Response\n\n- Incident Response\n- Threat Hunt\n- Incident Response Retainer\n- Incident Response and SOC Training Services\n\nManaged ser",
-            "published": "2026-04-30T00:00:00.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "src/test/2025-02/Bybit_exp.sol at 1cd8127fe960e0b36e9a16633fe0231c5adf4d78 · SunWeb3Sec/DeFiHackLabs",
@@ -4131,67 +3962,45 @@
             "score": 0.5
           },
           {
-            "title": "Teycir/fft-exploit-poc",
-            "url": "https://github.com/Teycir/fft-exploit-poc",
-            "snippet": "# Repository: Teycir/fft-exploit-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell (80.9%), JavaScript (10.3%), SMT (4.7%), Circom (4.1%)\n- License",
-            "published": "2026-03-04T19:55:38.000Z",
+            "title": "hacks-and-thefts/bybit.md at main · tayvano/lazarus-bluenoroff-research",
+            "url": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/hacks-and-thefts/bybit.md",
+            "snippet": "# File: tayvano/lazarus-bluenoroff-research/hacks-and-thefts/bybit.md\n\n- Repository: tayvano/lazarus-bluenoroff-research | a collection of north korean apt articles, analysis and heists attributed to ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-09T05:08:58.098Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-16T06:34:58.930Z"
       },
-      "timestamp": "2026-06-09T05:08:59.933Z"
+      "timestamp": "2026-06-16T06:35:01.031Z"
     },
     "trip_com": {
       "intel": {
         "writeups": [
           {
-            "title": "Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform",
-            "url": "https://samcurry.net/points-com",
-            "snippet": "Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform\n\n# Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform\n\nAugust 3, 2023",
-            "published": "2023-08-03T00:00:00.000Z",
+            "title": "携程通过uid来遍历用户邮箱账号＋两枚xss反射 | wooyun-2014-077356| WooYun.org",
+            "url": "https://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-077356",
+            "snippet": "携程通过uid来遍历用户邮箱账号＋两枚xss反射 | wooyun-2014-077356| WooYun.org\n\n当前位置： WooYun>> 漏洞信息\n\n## 漏洞概要 关注数(24) 关注此漏洞\n\n### 缺陷编号：wooyun-2014-077356\n\n### 漏洞标题：携程通过uid来遍历用户邮箱账号＋两枚xss反射\n\n### 相关厂商：携程旅行网\n\n### 漏洞作者： 啊L川\n\n##",
+            "published": null,
             "score": 1
           },
-          {
-            "title": "从一次入侵事件反思安全运营",
-            "url": "https://sechub.in/view/1958276",
-            "snippet": "从一次入侵事件反思安全运营\n\n# 从一次入侵事件反思安全运营\n\n收藏\n\n### 0x00 造成第一次入侵的事件背景\n\n#### 简介\n\n我们公司有一个从第三方企业采购差旅系统，就是员工出差进行购买机票酒店这些由公司报销的系统\n\n这个系统有一个企业微信公众号，没错，我们公司用的企业微信，很垃圾，除了界面美化了一点完全不如以前腾讯的RTX\n\n理论上这个公众号只要做好用户权限控制，跟企业微信鉴权绑定，非",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Tripcom's Booking Glitch Lessons Learned from a Near-Miss Reservation Nightmare",
-            "url": "https://www.mightytravels.com/2024/06/tripcoms-booking-glitch-lessons-learned-from-a-near-miss-reservation-nightmare/",
-            "snippet": "Tripcom's Booking Glitch Lessons Learned from a Near-Miss Reservation Nightmare\n\n# Tripcom's Booking Glitch Lessons Learned from a Near-Miss Reservation Nightmare\n\n## Tripcom's Booking Glitch Lessons ",
-            "published": "2024-06-28T10:46:10.000Z",
-            "score": 0
-          }
-        ],
-        "twitter": [
           {
             "title": "6 Ways Trip.com Offers Outstanding Service",
             "url": "https://www.trip.com/pages/security",
             "snippet": "6 Ways Trip.com Offers Outstanding Service\n\n# Reporting potential technical concerns and security vulnerabilities related to Trip.com systems\n\nDear all,\n\nWe warmly welcome all security experts or rese",
             "published": null,
-            "score": 1
-          },
-          {
-            "title": "Security Advisory - Arbitrary URL Loading Vulnerability in TripAdvisor",
-            "url": "https://www.huawei.com/en/psirt/security-advisories/2018/huawei-sa-20180130-01-tripadvisor-en",
-            "snippet": "Security Advisory - Arbitrary URL Loading Vulnerability in TripAdvisor\n\nCorporate Worldwide\n\nBack to Main Menu\n\nHuawei Websites\n\nCorporate Corporate news and information Consumer Phones, laptops, tabl",
-            "published": "2018-01-30T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "www.trip.com - urlscan.io",
-            "url": "https://api.urlscan.io/result/019d2d67-8dc0-742b-a4c3-a5baa38665c4",
-            "snippet": "www.trip.com - urlscan.io\n\n# www.trip.com 184.86.251.8 Public Scan Open in urlscan Pro\n\nLookup\n\nSubmitted URL: https://deeplink.trip.com/forward/middlepages/?targetUrl=https://www.trip.com/things-to-d",
+            "title": "绕过携程某接口双重限制进行扫号（测试3W数据成功破解391个账号） | wooyun-2014-071274| WooYun.org",
+            "url": "https://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-071274",
+            "snippet": "绕过携程某接口双重限制进行扫号（测试3W数据成功破解391个账号） | wooyun-2014-071274| WooYun.org\n\n当前位置： WooYun>> 漏洞信息\n\n## 漏洞概要 关注数(24) 关注此漏洞\n\n### 缺陷编号：wooyun-2014-071274\n\n### 漏洞标题：绕过携程某接口双重限制进行扫号（测试3W数据成功破解391个账号）\n\n### 相关厂商：携程旅行网\n",
             "published": null,
             "score": 0
           }
         ],
+        "twitter": [],
         "github": [
           {
             "title": "usijxi4/trip",
@@ -4205,14 +4014,21 @@
             "url": "https://github.com/hyd3sec/TravelManagementSystem_Unauth_RCE",
             "snippet": "# Repository: hyd3sec/TravelManagementSystem_Unauth_RCE\n\nTravel Management System v1.0 Unauthenticated RCE Exploit\n\n- Stars: 3\n- Forks: 4\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- La",
             "published": "2020-08-10T20:10:29.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "everythingscraper/trip-hotel-scraper",
+            "url": "https://github.com/everythingscraper/trip-hotel-scraper",
+            "snippet": "# Repository: everythingscraper/trip-hotel-scraper\n\nGlobal hotel data feed — Trip.com prices, ratings, and availability across 51 countries. Multi-city Python example.\n\n- Stars: 0\n- Forks: 0\n- Watcher",
+            "published": "2026-04-27T17:35:20.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 8,
-        "enriched_at": "2026-06-09T05:08:59.934Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-16T06:35:01.031Z"
       },
-      "timestamp": "2026-06-09T05:09:01.970Z"
+      "timestamp": "2026-06-16T06:35:02.599Z"
     },
     "bykea": {
       "intel": {
@@ -4232,64 +4048,42 @@
             "score": 0.5
           },
           {
-            "title": "Bykea Case Study: Penetration Testing & Mobility App Security | Co-Ventech",
-            "url": "https://co-ventech.com/case-studies/bykea",
-            "snippet": "Bykea Case Study: Penetration Testing & Mobility App Security | Co-Ventech\n\nProducts\n\nCase Studies\n\n# Bykea - Pakistan's Leading Mobility Super App\n\nEmpowering Pakistan's gridlocked cities with afford",
+            "title": "Bykea | Report #2209750 - Exposed trip_no in WebSocket Responses Leading to Excessive information Disclosure | HackerOne",
+            "url": "https://hackerone.com/reports/2209750",
+            "snippet": "Bykea | Report #2209750 - Exposed trip_no in WebSocket Responses Leading to Excessive information Disclosure | HackerOne\n\n60\n\nCopy report id\n\nExposed trip_no in WebSocket Responses Leading to Excessiv",
             "published": null,
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Multimillion-dollar Pakistani delivery company leaks 400+ million files",
-            "url": "https://www.safetydetectives.com/blog/bykea-leak-report/",
-            "snippet": "Multimillion-dollar Pakistani delivery company leaks 400+ million files\n\nclose\n\n# Multimillion-dollar Pakistani delivery company leaks 400+ million files\n\nSafetyDetectives Cybersecurity Team SafetyDet",
-            "published": "2021-01-28T22:38:07.000Z",
-            "score": 1
-          },
-          {
-            "title": "BYKEA data breach: Pakistani ride-hailing app exposed 400m records",
-            "url": "https://hackread.com/bykea-data-breach-pakistani-ride-hailing-app/",
-            "snippet": "BYKEA data breach: Pakistani ride-hailing app exposed 400m records \n\n###### Dark Web Market Lists Alleged 375TB Lockheed Martin Data for $600M\n\n###### TeamPCP Uses Fake Ringtone File in Tainted Telnyx",
-            "published": "2021-01-28T20:59:06.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Bykea’s VRP (Vulnerability Reward Program) Policy",
-            "url": "https://bykea.com/security/",
-            "snippet": "Security - Bykea\n[![](https://bykea.com/wp-content/uploads/2021/09/Bykea_logo.svg)](https://bykea.com)\n**Menu\n[Contact Bykea](https://bykea.com/contact/)\n# Bykea’s VRP (Vulnerability Reward Program) P",
-            "published": "2021-02-01T11:26:22.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
-            "title": "src/test/2025-02/Bybit_exp.sol at main · SunWeb3Sec/DeFiHackLabs",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-02/Bybit_exp.sol",
-            "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2025-02/Bybit_exp.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 6K stars | Solidity\n- Branch: main\n\n```sol\n// S",
+            "title": "ctxis/beemka",
+            "url": "https://github.com/ctxis/beemka",
+            "snippet": "# ctxis/beemka\n\nBasic Electron Exploitation\n\n- Stars: 210\n- Forks: 35\n- Watchers: 210\n- Open issues: 0\n- License: MIT License\n- Homepage: https://www.contextis.com/en/blog/basic-electron-framework-exp",
             "published": null,
             "score": 1
           },
           {
-            "title": "Daky/Messiah",
-            "url": "https://github.com/Daky/Messiah",
-            "snippet": "# Repository: Daky/Messiah\n\nprevent next 1.5B hack\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issues: 0\n- Primary language: TypeScript\n- Languages: TypeScript (70.3%), CSS (11.8%), Python (11.0%), So",
-            "published": "2025-04-04T06:54:24.000Z",
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "aemmitt-ns/skeleton",
-            "url": "https://github.com/aemmitt-ns/skeleton",
-            "snippet": "# Repository: aemmitt-ns/skeleton\n\nSkeleton (but pronounced like Peloton): A Zero-Click RCE exploit for CVE-2021-0326\n\n- Stars: 21\n- Forks: 7\n- Watchers: 21\n- Open issues: 0\n- Primary language: Python",
-            "published": "2022-01-17T21:35:19.000Z",
+            "title": "hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass",
+            "url": "https://github.com/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass",
+            "snippet": "# hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass\n\nCVE-2026-50751 — Check Point IKEv1 Authentication Bypass\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-09T05:09:01.971Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-16T06:35:02.599Z"
       },
-      "timestamp": "2026-06-09T05:09:03.861Z"
+      "timestamp": "2026-06-16T06:35:04.051Z"
     },
     "inditex": {
       "intel": {
@@ -7390,5 +7184,5 @@
       "timestamp": "2026-06-10T05:21:26.103Z"
     }
   },
-  "lastRun": "2026-06-15T06:27:19.166Z"
+  "lastRun": "2026-06-16T06:35:04.051Z"
 }
