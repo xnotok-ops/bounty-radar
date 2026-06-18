@@ -4570,155 +4570,104 @@
       "intel": {
         "writeups": [
           {
+            "title": "Reflected XSS in REDAXO backend packages API via function parameter (CSRF token required) · Advisory · redaxo/core · GitHub",
+            "url": "https://github.com/redaxo/core/security/advisories/GHSA-xq4j-g85q-wf97",
+            "snippet": "Reflected XSS in REDAXO backend packages API via function parameter (CSRF token required) · Advisory · redaxo/core · GitHub\n\n# Reflected XSS in REDAXO backend packages API via function parameter (CSRF",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Redox Bug Bounty",
             "url": "https://www.bountytalk.org/index.php?topic=24283.0",
             "snippet": "Redox Bug Bounty\n\nForums Advertising & Bounty Hub\n\nWelcome, Guest. Please login or register.\n\n1 Hour 1 Day 1 Week 1 Month Forever\n\nLogin with username, password and session length\n\n## News:\n\nBountytal",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "NVD - CVE-2024-57493",
             "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-57493",
             "snippet": "NVD - CVE-2024-57493\n\n## CVE-2024-57493 Detail\n\n### Description\n\nAn issue in redoxOS relibc before commit 98aa4ea5 allows a local attacker to cause a denial of service via the setsockopt function.\n\n##",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "pocs/redox/CVE-2024-57493 at master · Marsman1996/pocs · GitHub",
-            "url": "https://github.com/Marsman1996/pocs/tree/master/redox/CVE-2024-57493",
-            "snippet": "pocs/redox/CVE-2024-57493 at master · Marsman1996/pocs · GitHub\n\n/ pocs Public\n\nStar 10\n\n- Pricing\n- Notifications\n- Fork 2\n\n \n\n## Files\n\n master\n\n# CVE-2024-57493\n\nHistory\n\n master\n\n# CVE-2024-57493\n",
-            "published": "2018-08-14T01:49:12.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "NVD - CVE-2024-57493",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-57493",
-            "snippet": "NVD - CVE-2024-57493\n\n## CVE-2024-57493 Detail\n\n### Description\n\nAn issue in redoxOS relibc before commit 98aa4ea5 allows a local attacker to cause a denial of service via the setsockopt function.\n\n##",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "NVD - CVE-2024-57492",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-57492",
-            "snippet": "NVD - CVE-2024-57492\n\n## CVE-2024-57492 Detail\n\n### Description\n\nAn issue in redoxOS relibc before commit 98aa4ea5 allows a local attacker to cause a denial of service via the round_up_to_page funcito",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "gabriellandau/Redux",
-            "url": "https://github.com/gabriellandau/Redux",
-            "snippet": "# Repository: gabriellandau/Redux\n\n- Stars: 12\n- Forks: 1\n- Watchers: 12\n- Open issues: 0\n- Primary language: C\n- Languages: C (93.4%), C++ (6.6%)\n- License: Other (NOASSERTION)\n- Default branch: main",
-            "published": "2026-02-11T20:36:05.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "gabriellandau/Redux",
             "url": "https://github.com/gabriellandau/Redux",
-            "snippet": "# Repository: gabriellandau/Redux\n\n- Stars: 12\n- Forks: 1\n- Watchers: 12\n- Open issues: 0\n- Primary language: C\n- Languages: C (93.4%), C++ (6.6%)\n- License: Other (NOASSERTION)\n- Default branch: main",
-            "published": "2026-02-11T20:36:05.000Z",
+            "snippet": "# gabriellandau/Redux\n\n- Stars: 19\n- Forks: 1\n- Watchers: 19\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-02-11T20:36:05Z\n\n## Languages\n\n- C\n- C++\n\n## Top Contributors\n\n- g",
+            "published": null,
             "score": 1
           },
           {
             "title": "saneki/cve-2025-49844",
             "url": "https://github.com/saneki/cve-2025-49844",
-            "snippet": "# Repository: saneki/cve-2025-49844\n\nProof-of-concept for CVE-2025-49844\n\n- Stars: 25\n- Forks: 7\n- Watchers: 0\n- Open issues: 3\n- Primary language: Python\n- Languages: Python (99.8%), Dockerfile (0.2%",
+            "snippet": "# Repository: saneki/cve-2025-49844\n\nProof-of-concept for CVE-2025-49844\n\n- Stars: 25\n- Forks: 6\n- Watchers: 0\n- Open issues: 2\n- Primary language: Python\n- Languages: Python (99.8%), Dockerfile (0.2%",
             "published": "2025-10-31T05:59:25.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "rxstd/CVE-2025-55182-poc",
-            "url": "https://github.com/rxstd/CVE-2025-55182-poc",
-            "snippet": "# Repository: rxstd/CVE-2025-55182-poc (fork of [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research))\n\nCVE-2025-55182 POC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issue",
-            "published": "2025-12-04T00:04:13.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:50:48.781Z"
+        "total_results": 5,
+        "enriched_at": "2026-06-18T05:57:20.671Z"
       },
-      "timestamp": "2026-06-11T05:50:50.492Z"
+      "timestamp": "2026-06-18T05:57:23.072Z"
     },
     "okg": {
       "intel": {
         "writeups": [
           {
-            "title": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge",
-            "url": "https://atomicedge.io/cve-proof/cve-2025-68851-okay-toolkit-version-2-3-medium-vulnerability-proof-of-concept/",
-            "snippet": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-68851: Okay Toolkit <= 2.3 – Reflected Cross-Site Scripting (okay-toolkit)\n\nSeverity Medium (CVSS 6",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "OKC Project Hack Analysis. Incident Background | by lunaray | Medium",
             "url": "https://lunaray.medium.com/okc-project-hack-analysis-0907312f519b",
             "snippet": "OKC Project Hack Analysis. Incident Background | by lunaray | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# OKC Project Hack Analysis\n\n5 min read\n\nDec 15, 2023\n\n--\n\n1\n\nShare\n\n## Incident Background\n\nOn Novembe",
             "published": "2023-12-15T08:49:22.000Z",
-            "score": 0.5
+            "score": 1
           },
-          {
-            "title": "The Art of Pwning Okta For Profit and Fun | by Suvam Adhikari | Medium",
-            "url": "https://whoisshuvam.medium.com/the-art-of-pwning-okta-for-profit-and-fun-075dedbc4715",
-            "snippet": "The Art of Pwning Okta For Profit and Fun | by Suvam Adhikari | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# The Art of Pwning Okta For Profit and Fun\n\n4 min read\n\nDec 6, 2024\n\n--\n\n5\n\nShare\n\nIn July, while hu",
-            "published": "2024-12-06T14:03:21.000Z",
-            "score": 0
-          }
-        ],
-        "twitter": [
           {
             "title": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge",
             "url": "https://atomicedge.io/cve-proof/cve-2025-68851-okay-toolkit-version-2-3-medium-vulnerability-proof-of-concept/",
             "snippet": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-68851: Okay Toolkit <= 2.3 – Reflected Cross-Site Scripting (okay-toolkit)\n\nSeverity Medium (CVSS 6",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
+          {
+            "title": "My First Bug Bounty Story. How I found and exploited a Hard-Coded… | by Zaid Arif | Medium",
+            "url": "https://medium.com/@zaid.zrf/my-first-bug-bounty-story-df3abe7a7936",
+            "snippet": "My First Bug Bounty Story. How I found and exploited a Hard-Coded… | by Zaid Arif | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# My First Bug Bounty Story\n\n4 min read\n\nJul 4, 2025\n\n--\n\n3\n\nShare\n\nHello Friend,",
+            "published": "2025-07-04T18:21:23.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
           {
             "title": "g0w6y/CVE-2026-21994",
             "url": "https://github.com/g0w6y/CVE-2026-21994",
             "snippet": "# Repository: g0w6y/CVE-2026-21994\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-21T15:47:53Z\n- Last push: 2026-03-21T16:22:00Z\n- Contributors: 1 (top",
             "published": "2026-03-21T15:47:53.000Z",
-            "score": 0.5
+            "score": 1
           },
-          {
-            "title": "NVD - CVE-2020-22007",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-22007",
-            "snippet": "NVD - CVE-2020-22007\n\n## CVE-2020-22007 Detail\n\nModified\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may require amendment d",
-            "published": null,
-            "score": 0
-          }
-        ],
-        "github": [
           {
             "title": "src/test/2025-09/NGP_exp.sol at main · SunWeb3Sec/DeFiHackLabs",
             "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-09/NGP_exp.sol",
             "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2025-09/NGP_exp.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 7K stars | Solidity\n- Branch: main\n\n```sol\n// SPD",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "McCaulay/okrager",
             "url": "https://github.com/McCaulay/okrager/",
             "snippet": "# Repository: McCaulay/okrager\n\nThe \"okrager\" console application allows you to generate an exploitable Okage: Shadow King game save.\n\n- Stars: 34\n- Forks: 1\n- Watchers: 34\n- Open issues: 0\n- Primary ",
             "published": "2023-02-03T22:31:24.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "g0w6y/CVE-2026-21994",
-            "url": "https://github.com/g0w6y/CVE-2026-21994",
-            "snippet": "# Repository: g0w6y/CVE-2026-21994\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-21T15:47:53Z\n- Last push: 2026-03-21T16:22:00Z\n- Contributors: 1 (top",
-            "published": "2026-03-21T15:47:53.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:50:50.493Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-18T05:57:23.073Z"
       },
-      "timestamp": "2026-06-11T05:50:52.212Z"
+      "timestamp": "2026-06-18T05:57:25.770Z"
     },
     "1win_com": {
       "intel": {
@@ -4808,302 +4757,207 @@
             "score": 1
           },
           {
-            "title": "Untitled",
+            "title": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL",
             "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/ERC20-REVOCABLE-COMPLIANCE-STANDARD-SECURITY-AUDIT-REPORT/",
-            "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., is \nproviding access to the security audit reports conducted by O",
+            "snippet": "### IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., is \nproviding access to the security audit reports conducted ",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Untitled",
+            "title": "OpenZeppelin Audit Report",
             "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/WHITELIST-CONTEXTS-AUDIT/",
             "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., \nis providing access to the security audit reports conducted by O",
             "published": null,
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Untitled",
-            "url": "https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-TokenStandards-Report.pdf",
-            "snippet": "AUGUST 23, 2024\nWISDOMTREE\nDIGITAL TOKEN\nSTANDARDS\nV3\nFRAMEWORK\nSECURITY\nAUDIT REPORT\nEXECUTIVE 1 SUMMARY\nEXECUTIVE SUMMARY 3\n1.1 EXECUTIVE SUMMARY\nThis document presents the security audit conducted ",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "WisdomTree Solana Tokenized Funds Audit",
-            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDT/US/EN-US/SOLANA-TOKENIZED-FUNDS-AUDIT-REPORT/",
-            "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., \nis providing access to the security audit reports conducted by O",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Untitled",
-            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/ERC20-REVOCABLE-COMPLIANCE-STANDARD-SECURITY-AUDIT-REPORT/",
-            "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., is \nproviding access to the security audit reports conducted by O",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
-            "title": "mstpr-brainbot - Pool can be drained · Issue #68 · sherlock-audit/2024-03-woofi-swap-judging",
-            "url": "https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/68",
-            "snippet": "# Issue: sherlock-audit/2024-03-woofi-swap-judging #68\n\n- Repository: sherlock-audit/2024-03-woofi-swap-judging | 3 stars | Python\n\n## mstpr-brainbot - Pool can be drained\n\n- Author: [@sherlock-admin2",
-            "published": "2024-03-20T15:19:54.000Z",
+            "title": "rekt.news bugs summary by chatgpt3.5",
+            "url": "https://gist.github.com/cassc/e7753a28752580909906ed6284b0ced4",
+            "snippet": "# Gist: rekt.news bugs summary by chatgpt3.5\n\n- Author: [@cassc](https://github.com/cassc)\n- Public gist (1 file)\n- Created: 2023-10-06T04:14:43Z\n- Updated: 2025-04-10T02:49:14Z\n\n## rekt.news.bugs.md\n",
+            "published": "2023-10-06T04:14:43.000Z",
             "score": 1
           },
           {
-            "title": "Teycir/fft-exploit-poc",
-            "url": "https://github.com/Teycir/fft-exploit-poc",
-            "snippet": "# Repository: Teycir/fft-exploit-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell (80.9%), JavaScript (10.3%), SMT (4.7%), Circom (4.1%)\n- License",
-            "published": "2026-03-04T19:55:38.000Z",
+            "title": "Dump of Db",
+            "url": "https://gist.github.com/5858a9e7bef0f3dc4a79ac8bc1e3380c",
+            "snippet": "# Gist: Dump of Db\n\n- Author: [@LeWawan](https://github.com/LeWawan)\n- Public gist (1 file)\n- Created: 2018-02-15T08:15:42Z\n- Updated: 2026-05-12T16:53:00Z\n\n## DumpDb.sql\n\n```sql\n\n```\n\n---\n\n### Commen",
+            "published": "2018-02-15T08:15:42.000Z",
             "score": 0.5
           },
           {
-            "title": "Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode · Issue #260 · code-423n4/2024-02-wise-lending-findings",
-            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/260",
-            "snippet": "# Issue: code-423n4/2024-02-wise-lending-findings #260\n\n- Repository: code-423n4/2024-02-wise-lending-findings | 10 stars\n\n## Withdrawing uncollateralized deposits is possible even though the position",
-            "published": "2024-03-11T18:28:20.000Z",
+            "title": "tgdb_developers.json at master · muldjord/skyscraper",
+            "url": "https://github.com/muldjord/skyscraper/blob/master/tgdb_developers.json",
+            "snippet": "# File: muldjord/skyscraper/tgdb_developers.json\n\n- Repository: muldjord/skyscraper | Powerful and versatile game scraper written in c++ | 546 stars | C++\n- Branch: master\n\n```json\n{\"code\":200,\"status",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:50:52.212Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-18T05:57:25.771Z"
       },
-      "timestamp": "2026-06-11T05:50:53.816Z"
+      "timestamp": "2026-06-18T05:57:29.012Z"
     },
     "pornbox": {
       "intel": {
         "writeups": [
           {
+            "title": "From Lockdown to Payday: Hacking a Porn Site for $1,500 | by Steven Floresca | Medium",
+            "url": "https://stevenfloresca.medium.com/from-lockdown-to-payday-hacking-a-porn-site-for-1-500-899bf57cc556",
+            "snippet": "From Lockdown to Payday: Hacking a Porn Site for $1,500 | by Steven Floresca | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# From Lockdown to Payday: Hacking a Porn Site for $1,500\n\n5 min read\n\nMar 21, 2025\n\n-",
+            "published": "2025-03-21T05:47:10.000Z",
+            "score": 1
+          },
+          {
             "title": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol",
             "url": "https://greatis.com/unhackme/help/remove/remove-pornbox-com-completely.htm",
             "snippet": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol\n\n## What is PORNBOX.COM?\n\n## Investigation Target: PORNBOX.COM\n\nCase: 9786 Investigation Date: March 20, 2024\n\n## Verdict:\n\nPORNBOX.COM ",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Pornhub Hack Earns Researchers $22,000 | Threatpost",
             "url": "https://threatpost.com/pornhub-hack-earns-researchers-22000/119450/",
             "snippet": "Pornhub Hack Earns Researchers $22,000 | Threatpost \n\nAuthor: Tom Spring\n\nJuly 25, 2016 1:01 pm\n\nminute read\n\nShare this article:\n\nResearchers found a serious vulnerability in PHP code that could have",
             "published": "2016-07-25T17:01:30.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2025-12122 – popup-box Proof of Concept - Atomic Edge",
-            "url": "https://atomicedge.io/cve-proof/cve-2025-12122-popup-box-version-3-2-12-medium-vulnerability-proof-of-concept/",
-            "snippet": "CVE-2025-12122 – popup-box Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-12122: Popup Box – Easily Create WordPress Popups <= 3.2.12 – Authenticated (Contributor+) Stored Cros",
-            "published": "2026-02-17T14:19:39.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol",
-            "url": "https://greatis.com/unhackme/help/remove/remove-pornbox-com-completely.htm",
-            "snippet": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol\n\n## What is PORNBOX.COM?\n\n## Investigation Target: PORNBOX.COM\n\nCase: 9786 Investigation Date: March 20, 2024\n\n## Verdict:\n\nPORNBOX.COM ",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "OSV - Open Source Vulnerabilities",
-            "url": "https://osv.dev/vulnerability/GHSA-3h23-7824-pj8r",
-            "snippet": "# GHSA-3h23-7824-pj8r\n\nSource https://github.com/advisories/GHSA-3h23-7824-pj8r Import Source https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/05/GHSA-3h23-7824-pj",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Pornbox.com Review: Is It Safe? (79/100 Trust Score)",
-            "url": "https://gridinsoft.com/online-virus-scanner/url/pornbox-com",
-            "snippet": "Pornbox.com Review: Is It Safe? (79/100 Trust Score)\n\n# Pornbox.com Reputation Review\n\nMay 7, 2026 at 2:11 AM\n\nLeave a review\n\nChecked by Website Reputation Checker\n\n{ const element = document.getElem",
-            "published": "2025-07-02T07:17:00.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
-            "title": "pbuff07/PoCBox",
-            "url": "https://github.com/pbuff07/PoCBox",
-            "snippet": "# Repository: pbuff07/PoCBox (fork of [0verSp4ce/PoCBox](https://github.com/0verSp4ce/PoCBox))\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary",
-            "published": "2025-03-05T12:53:39.000Z",
+            "title": "0verSp4ce/PoCBox",
+            "url": "https://github.com/Acmesec/PoCBox",
+            "snippet": "# 0verSp4ce/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 957\n- Forks: 169\n- Watchers: 957\n- Open issues: 0\n- Default branch: master\n- Created: 2019-02-05T11:42:57Z\n- Status: ARCHIVED\n\n##",
+            "published": null,
             "score": 1
           },
           {
-            "title": "Adversis/PandorasBox",
-            "url": "https://github.com/adversis/PandorasBox",
-            "snippet": "# Repository: Adversis/PandorasBox\n\nSecurity tool to quickly audit Public Box files and folders.\n\n- Stars: 54\n- Forks: 22\n- Watchers: 54\n- Open issues: 4\n- Primary language: Python\n- Languages: Python",
-            "published": "2019-03-09T02:37:23.000Z",
+            "title": "Ekultek/CVE-2019-17625",
+            "url": "https://github.com/Ekultek/CVE-2019-17625",
+            "snippet": "# Repository: Ekultek/CVE-2019-17625\n\nWorking exploit code for CVE-2019-17625\n\n- Stars: 19\n- Forks: 9\n- Watchers: 19\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- Default branch: m",
+            "published": "2019-10-31T03:40:07.000Z",
             "score": 0.5
           },
           {
-            "title": "qtchaos/vidbox",
-            "url": "https://github.com/qtchaos/vidbox",
-            "snippet": "# Repository: qtchaos/vidbox\n\nThe VidBox video streaming platform has recently implemented a stream key system to combat content piracy, can you break their client-side security and find all the flags",
-            "published": "2024-09-18T20:08:39.000Z",
+            "title": "cecio/XenoboxX",
+            "url": "https://github.com/cecio/XenoboxX/",
+            "snippet": "# Repository: cecio/XenoboxX\n\nHardware Sandbox Toolkit\n\n- Stars: 4\n- Forks: 0\n- Watchers: 4\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- License: GNU Affero General Public License v3.0 (AGP",
+            "published": "2024-07-13T11:12:32.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:50:53.817Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-18T05:57:29.012Z"
       },
-      "timestamp": "2026-06-11T05:50:55.502Z"
+      "timestamp": "2026-06-18T05:57:31.847Z"
     },
     "tron_dao": {
       "intel": {
         "writeups": [
           {
-            "title": "[CRITICAL] DelegateResourceProcessor Precision Loss - CVSS 9.3 · Issue #6599 · tronprotocol/java-tron",
-            "url": "https://github.com/tronprotocol/java-tron/issues/6599",
-            "snippet": "# Issue: tronprotocol/java-tron #6599\n\n- Repository: tronprotocol/java-tron | Java implementation of the Tron whitepaper | 4K stars | Java\n\n## [CRITICAL] DelegateResourceProcessor Precision Loss - CVS",
-            "published": "2026-03-25T09:26:52.000Z",
+            "title": "Bug Bounty Program. On May 31, 2018, day of the mainnet… | by TRON DAO | TRON | Medium",
+            "url": "https://medium.com/tron-foundation/bug-bounty-program-6d15a4ebc32b",
+            "snippet": "Bug Bounty Program. On May 31, 2018, day of the mainnet… | by TRON DAO | TRON | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## TRON\n\nTRON\n\n# Bug Bounty Program\n\n1 min read\n\nJun 1, 2018\n\n--\n\nShare\n\nOn May 31, 2",
+            "published": "2018-06-01T12:47:09.000Z",
             "score": 1
           },
           {
-            "title": "(unspecified)",
-            "url": "https://tron.network/static/doc/TRON_Protocol_Security_Audit_Report.pdf",
-            "snippet": "REDACTED\n\nLimited Review of Java-Tron\n\nAugust 26, 2024\n\nProduced for\n\nby\n\nContents\n\n1 Executive Summary 3 \n2 Assessment Overview 5 \n3 Limitations and use of report 17 \n4 Terminology 18 \n5 Findings 19 ",
-            "published": null,
+            "title": "TRON avoided $500M multisig vulnerability",
+            "url": "https://cryptoslate.com/tron-avoided-500m-multisig-vulnerability/",
+            "snippet": "TRON avoided $500M multisig vulnerability\n\nSection Navigation\n\nNews\n\n#### Latest News\n\nThe South Korean bank powering Upbit is testing Ripple integration for cross-border payments Analysis Bullish Apr",
+            "published": "2023-05-31T03:30:04.000Z",
             "score": 0.5
           },
           {
-            "title": "Start your day with the most influential events and analysis\n          happening across the digital asset ecosystem.",
-            "url": "https://www.theblock.co/post/232671/tron-vulnerability-500-million-resolved",
-            "snippet": "Tron vulnerability put $500 million at risk; now 'resolved' | The Block\n[\nThe Block announces Emergence: join us in Prague December 5-6, 2024. Learn More\n](https://www.emergence.xyz)\n✕·[](https://www.",
-            "published": null,
+            "title": "sirhashalot/SCV-List",
+            "url": "https://github.com/sirhashalot/SCV-List",
+            "snippet": "# Repository: sirhashalot/SCV-List\n\nSmart Contract Vulnerabilities (SCV) List\n\n- Stars: 507\n- Forks: 45\n- Watchers: 20\n- Open issues: 0\n- License: Apache License 2.0 (Apache-2.0)\n- Topics: blockchain,",
+            "published": "2022-02-01T03:58:33.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "[CRITICAL] DelegateResourceProcessor Precision Loss - CVSS 9.3 · Issue #6599 · tronprotocol/java-tron",
-            "url": "https://github.com/tronprotocol/java-tron/issues/6599",
-            "snippet": "# Issue: tronprotocol/java-tron #6599\n\n- Repository: tronprotocol/java-tron | Java implementation of the Tron whitepaper | 4K stars | Java\n\n## [CRITICAL] DelegateResourceProcessor Precision Loss - CVS",
-            "published": "2026-03-25T09:26:52.000Z",
-            "score": 1
-          },
-          {
-            "title": "(unspecified)",
-            "url": "https://tron.network/static/doc/TRON_Protocol_Security_Audit_Report.pdf",
-            "snippet": "REDACTED\n\nLimited Review of Java-Tron\n\nAugust 26, 2024\n\nProduced for\n\nby\n\nContents\n\n1 Executive Summary 3 \n2 Assessment Overview 5 \n3 Limitations and use of report 17 \n4 Terminology 18 \n5 Findings 19 ",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "TRON VM storage collision vulnerability",
-            "url": "https://blog.phor.net/tron-vm-storage-vulnerability",
-            "snippet": "TRON VM storage collision vulnerability\n\nCritical TVM storage key truncation to 128 bits leading to arbitrary slot overwrites, birthday attacks, and potential network fork.\n\n## Executive summary\n\nThe ",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
-            "title": "[CRITICAL] DelegateResourceProcessor Precision Loss - CVSS 9.3 · Issue #6599 · tronprotocol/java-tron",
-            "url": "https://github.com/tronprotocol/java-tron/issues/6599",
-            "snippet": "# Issue: tronprotocol/java-tron #6599\n\n- Repository: tronprotocol/java-tron | Java implementation of the Tron whitepaper | 4K stars | Java\n\n## [CRITICAL] DelegateResourceProcessor Precision Loss - CVS",
-            "published": "2026-03-25T09:26:52.000Z",
+            "title": "anquanscan/sec-tools",
+            "url": "https://github.com/anquanscan/sec-tools",
+            "snippet": "# Repository: anquanscan/sec-tools\n\n- Stars: 77\n- Forks: 19\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2022-07-28T03:22:26Z\n- Last push: 2022-11-26T18:50:12Z\n- Contributors: 1 (t",
+            "published": "2022-07-28T03:22:26.000Z",
             "score": 1
           },
           {
-            "title": "dwallet-labs/tron-multisig-vulnerability-poc",
-            "url": "https://github.com/dwallet-labs/tron-multisig-vulnerability-poc",
-            "snippet": "# Repository: dwallet-labs/tron-multisig-vulnerability-poc\n\n- Stars: 6\n- Forks: 2\n- Watchers: 3\n- Open issues: 0\n- Primary language: Java\n- Languages: Java\n- Default branch: main\n- Created: 2023-05-28",
-            "published": "2023-05-28T14:38:22.000Z",
+            "title": "README.md at main · nemo-nesciam/Blockchain-Insights-Hub",
+            "url": "https://github.com/nemo-nesciam/Blockchain-Insights-Hub/blob/main/README.md",
+            "snippet": "# File: nemo-nesciam/Blockchain-Insights-Hub/README.md\n\n- Repository: nemo-nesciam/Blockchain-Insights-Hub | 23 stars\n- Branch: main\n\n```md\n# Blockchain Insights Hub\n\nDiscover a world of blockchain an",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "trx drainer",
-            "url": "https://gist.github.com/phishdestroy/9985a35bdc11a5cc0a44abf7a6119713",
-            "snippet": "# Gist: trx drainer\n\n- Author: [@phishdestroy](https://github.com/phishdestroy)\n- Private gist (2 files)\n- Created: 2026-02-08T22:36:54Z\n- Updated: 2026-02-08T22:36:55Z\n\n## gistfile1.txt\n\n```txt\n# 🔴 ",
-            "published": "2026-02-08T22:36:54.000Z",
+            "title": "demining/Digital-Signature-Forgery-Attack",
+            "url": "https://github.com/demining/Digital-Signature-Forgery-Attack",
+            "snippet": "# demining/Digital-Signature-Forgery-Attack\n\nHow CVE-2025-29774 Vulnerabilities and the SIGHASH_SINGLE Bug Threaten Multi-Signature Wallet Operational Methods with Fake RawTX\n\n- Stars: 4\n- Forks: 1\n- ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:50:55.502Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-18T05:57:31.848Z"
       },
-      "timestamp": "2026-06-11T05:50:57.139Z"
+      "timestamp": "2026-06-18T05:57:36.164Z"
     },
     "superbet": {
       "intel": {
         "writeups": [
           {
-            "title": "🎮 Unauthenticated Game Demo Access in Superbet’s Gaming API — A Security Deep Dive | by Muhammad Habib | Medium",
-            "url": "https://medium.com/@m.habibgpi/unauthenticated-game-demo-access-in-superbets-gaming-api-a-security-deep-dive-014260279ff3",
-            "snippet": "🎮 Unauthenticated Game Demo Access in Superbet’s Gaming API — A Security Deep Dive | by Muhammad Habib | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# 🎮 Unauthenticated Game Demo Access in Superbet’s Gaming ",
-            "published": "2025-06-04T12:19:12.000Z",
-            "score": 1
-          },
-          {
-            "title": "Superbet pays out €30 million following slot machine software bug in Romania - iGaming Republic",
-            "url": "https://www.igamingrepublic.com/superbet-pays-out-e30-million-following-slot-machine-software-bug-in-romania/",
-            "snippet": "Superbet pays out €30 million following slot machine software bug in Romania - iGaming Republic\n\n# Superbet pays out €30 million following slot machine software bug in Romania\n\nSuperbet has paid out m",
-            "published": "2025-09-23T13:15:57.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "A gambling error from Playtech cost Superbet more than €30 million in just a few hours! – e-play.io",
-            "url": "https://e-play.io/a-gambling-error-from-playtech-cost-superbet-more-than-e30-million-in-just-a-few-hours/",
-            "snippet": "A gambling error from Playtech cost Superbet more than €30 million in just a few hours! – e-play.io\n\n# A gambling error from Playtech cost Superbet more than €30 million in just a few hours!\n\nWiktor C",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/rektile404",
+            "snippet": "HackerOne",
             "published": null,
-            "score": 0
-          }
-        ],
-        "twitter": [
-          {
-            "title": "🎮 Unauthenticated Game Demo Access in Superbet’s Gaming API — A Security Deep Dive | by Muhammad Habib | Medium",
-            "url": "https://medium.com/@m.habibgpi/unauthenticated-game-demo-access-in-superbets-gaming-api-a-security-deep-dive-014260279ff3",
-            "snippet": "🎮 Unauthenticated Game Demo Access in Superbet’s Gaming API — A Security Deep Dive | by Muhammad Habib | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# 🎮 Unauthenticated Game Demo Access in Superbet’s Gaming ",
-            "published": "2025-06-04T12:19:12.000Z",
             "score": 1
           },
           {
-            "title": "Superbet pays out €30 million following slot machine software bug in Romania - iGaming Republic",
-            "url": "https://www.igamingrepublic.com/superbet-pays-out-e30-million-following-slot-machine-software-bug-in-romania/",
-            "snippet": "Superbet pays out €30 million following slot machine software bug in Romania - iGaming Republic\n\n# Superbet pays out €30 million following slot machine software bug in Romania\n\nSuperbet has paid out m",
-            "published": "2025-09-23T13:15:57.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "When every spin became a win: €30 million Superbet glitch that shook Romania’s gambling industry - iGamingToday.com - News, insights and Slots review",
-            "url": "https://www.igamingtoday.com/when-every-spin-became-a-win-e30-million-superbet-glitch-that-shook-romanias-gambling-industry/",
-            "snippet": "When every spin became a win: €30 million Superbet glitch that shook Romania’s gambling industry - iGamingToday.com - News, insights and Slots review\n\nSign in Join\n\nSign in\n\nWelcome!Log into your acco",
-            "published": "2025-09-24T12:02:10.000Z",
+            "title": "trickest/inventory",
+            "url": "https://github.com/trickest/inventory",
+            "snippet": "# Repository: trickest/inventory\n\nAsset inventory of over 800 public bug bounty programs.\n\n- Stars: 1584\n- Forks: 281\n- Watchers: 55\n- Open issues: 10\n- Primary language: Shell\n- Languages: Shell\n- Li",
+            "published": "2022-02-28T13:58:05.000Z",
             "score": 0
           }
         ],
+        "twitter": [],
         "github": [
-          {
-            "title": "src/test/2025-07/SuperRare_exp.sol at main · SunWeb3Sec/DeFiHackLabs",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-07/SuperRare_exp.sol",
-            "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2025-07/SuperRare_exp.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 6K stars | Solidity\n- Branch: main\n\n```sol\n",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "icarot/superUpset",
-            "url": "https://github.com/icarot/superUpset/",
-            "snippet": "# Repository: icarot/superUpset\n\nThis is a tool focused in exploit the default session configuration of Superset, that is Flask-based, and it depends on the another tool called flask-unsign (https://g",
-            "published": "2026-01-05T00:55:20.000Z",
-            "score": 0.5
-          },
           {
             "title": "oscar-mine/CVE-2026-23980-Exploit",
             "url": "https://github.com/oscar-mine/CVE-2026-23980-Exploit",
             "snippet": "# Repository: oscar-mine/CVE-2026-23980-Exploit\n\nExploit for CVE-2026-23980 — Authenticated error-based SQL injection in Apache Superset < 6.0.0 via sqlExpression bypass\n\n- Stars: 0\n- Forks: 0\n- Watch",
             "published": "2026-04-12T15:44:33.000Z",
+            "score": 1
+          },
+          {
+            "title": "marian010/superbet-bot",
+            "url": "https://github.com/marian010/superbet-bot",
+            "snippet": "# Repository: marian010/superbet-bot\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issues: 1\n- Primary language: JavaScript\n- Languages: JavaScript (98.8%), Shell (1.2%)\n- Default branch: master\n- Creat",
+            "published": "2023-02-08T13:52:19.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Mr-r00t11/CVE-2024-34693",
+            "url": "https://github.com/Mr-r00t11/CVE-2024-34693",
+            "snippet": "# Repository: Mr-r00t11/CVE-2024-34693\n\nAn input validation vulnerability in Apache Superset allows an authenticated attacker to create a MariaDB connection with local_infile enabled, potentially lead",
+            "published": "2024-07-30T18:02:25.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:50:57.140Z"
+        "total_results": 5,
+        "enriched_at": "2026-06-18T05:57:36.164Z"
       },
-      "timestamp": "2026-06-11T05:50:58.641Z"
+      "timestamp": "2026-06-18T05:57:39.975Z"
     },
     "magic-eden": {
       "intel": {
@@ -5116,10 +4970,10 @@
             "score": 1
           },
           {
-            "title": "Magic Eden Issue Leads to Fake NFT Listings, Will Refund Affected Users",
-            "url": "https://www.coindesk.com/web3/2023/01/04/magic-eden-issue-leads-to-fake-nft-listings",
-            "snippet": "Magic Eden Issue Leads to Fake NFT Listings, Will Refund Affected Users\n\nShare\n\nShare this article\n\n# Magic Eden Issue Leads to Fake NFT Listings, Will Refund Affected Users\n\n## An issue on the popula",
-            "published": "2023-01-04T19:06:10.000Z",
+            "title": "Magic Eden to refund users after fake NFTs sold due to exploit",
+            "url": "https://cointelegraph.com/news/magic-eden-to-refund-users-after-25-fake-nfts-sold-due-to-exploit",
+            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit\n\n \n\n \n\n \n\n \n\n Ecosystem \n\n \n\n \n\n \n\n \n\n \n\n ADA$0.2464 0.93% BNB$617.43 0.86% XMR$334.60 1.62% TRX$0.322 2.20% ETH$2,054 2.60% LINK$8.70 2.",
+            "published": "2023-01-05T02:49:02.000Z",
             "score": 0.5
           },
           {
@@ -5130,66 +4984,44 @@
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Magic Eden Hit With 'Massive Exploit', Customers Accidentally Purchase 25 Fake NFTs on Platform | Technology News",
-            "url": "https://www.gadgets360.com/cryptocurrency/news/magic-eden-massive-exploit-buyers-accidentally-purchase-25-fake-nfts-3665835",
-            "snippet": "Magic Eden Hit With 'Massive Exploit', Customers Accidentally Purchase 25 Fake NFTs on Platform | Technology News\n\nEnglish Edition\n\nMore\n\n- Home\n- Cryptocurrency\n- Cryptocurrency News\n- Magic Eden Hit",
-            "published": "2023-01-05T08:46:46.000Z",
-            "score": 1
-          },
-          {
-            "title": "Magic Eden to refund users after fake NFTs sold due to exploit | Bitcoin Insider",
-            "url": "https://www.bitcoininsider.org/article/199861/magic-eden-refund-users-after-fake-nfts-sold-due-exploit",
-            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit | Bitcoin Insider\n\nLatest news about Bitcoin and all cryptocurrencies. Your daily crypto news habit.\n\n# Magic Eden to refund users after ",
-            "published": "2023-01-05T02:49:02.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Fake Solana NFTs Are Being Sold on Magic Eden in 'Massive' Exploit - Decrypt",
-            "url": "https://decrypt.co/118412/fake-solana-nfts-magic-eden-massive-exploit",
-            "snippet": "Fake Solana NFTs Are Being Sold on Magic Eden in 'Massive' Exploit - Decrypt\n\n### BTC\n\n$77,005.00\n\n-2.73%\n\n### ETH\n\n$2,293.69\n\n-4.20%\n\n### XRP\n\n$1.40\n\n-3.25%\n\n### BNB\n\n$625.17\n\n-2.10%\n\n### USDC\n\n$0.99",
-            "published": "2023-01-04T18:40:55.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
-          {
-            "title": "MoonbirdsSploit.sol at main · dhanjani/MoonbirdsSploit",
-            "url": "https://github.com/dhanjani/MoonbirdsSploit/blob/main/MoonbirdsSploit.sol",
-            "snippet": "# File: dhanjani/MoonbirdsSploit/MoonbirdsSploit.sol\n\n- Repository: dhanjani/MoonbirdsSploit | PROOF of concept exploit for the Moonbirds NFT smart contract reentrancy vulnerability. | 11 stars | Soli",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "camerodev/solana-nft-sniper",
-            "url": "https://github.com/camerodev/solana-nft-sniper",
-            "snippet": "# Repository: camerodev/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (93.3%), CSS (3.5",
-            "published": null,
-            "score": 0.5
-          },
           {
             "title": "Cissoko420/NFT-Buy-MagicEden-POC",
             "url": "https://github.com/Cissoko420/NFT-Buy-MagicEden-POC",
             "snippet": "# Repository: Cissoko420/NFT-Buy-MagicEden-POC\n\nBuy MagicEden NFTs\n\n- Stars: 0\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: TypeScript\n- Languages: TypeScript\n- Topics: magiceden, nft",
             "published": "2024-07-23T22:36:13.000Z",
+            "score": 1
+          },
+          {
+            "title": "DK27ss/Abracadabra-1.7M-PoC",
+            "url": "https://github.com/DK27ss/Abracadabra-1.7M-PoC",
+            "snippet": "# Repository: DK27ss/Abracadabra-1.7M-PoC\n\nAbracadabra Protocol exploit PoC\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Solidity\n- Languages: Solidity\n- Default branch: m",
+            "published": "2025-10-05T22:57:27.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "camerodev/solana-nft-sniper",
+            "url": "https://github.com/camerodev/solana-nft-sniper",
+            "snippet": "# camerodev/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2024-03-14T01:34:27Z\n\n## Languages\n\n- CSS\n- HTML\n-",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:50:58.641Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-18T05:57:39.975Z"
       },
-      "timestamp": "2026-06-11T05:51:00.665Z"
+      "timestamp": "2026-06-18T05:57:42.832Z"
     },
     "boozt": {
       "intel": {
         "writeups": [
           {
-            "title": "Full Disclosure: Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]",
-            "url": "https://seclists.org/fulldisclosure/2017/Jul/73",
-            "snippet": "Full Disclosure: Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]\n\n## Full Disclosure mailing list archives\n\n# Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]\n\n-",
-            "published": null,
+            "title": "Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706] | Nightwatch Cybersecurity",
+            "url": "https://wwws.nightwatchcybersecurity.com/2017/07/27/boozt-fashion-android-app-didnt-use-ssl-for-login-cve-2017-11706/",
+            "snippet": "Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706] | Nightwatch Cybersecurity\n\n# Summary\n\nBoozt Fashion App for Android did not use encryption (SSL) for information transmission durin",
+            "published": "2017-07-28T02:07:31.000Z",
             "score": 1
           },
           {
@@ -5207,29 +5039,7 @@
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "Full Disclosure: Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]",
-            "url": "https://seclists.org/fulldisclosure/2017/Jul/73",
-            "snippet": "Full Disclosure: Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]\n\n## Full Disclosure mailing list archives\n\n# Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]\n\n-",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "Boozt Fashion AB - HackerOne Bug Reports",
-            "url": "https://h1.security.nathan.sx/boozt.html",
-            "snippet": "Boozt Fashion AB - HackerOne Bug Reports\n\nPublic Boozt Fashion AB bug reports.\n\n4,419 Bug Reports - $2,030,173 Paid Out Last Updated: 12th September, 2017\n\n| Team | Bounty | Title |\n| --- | --- | --- ",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "inventory/Boozt Fashion AB at main · trickest/inventory · GitHub",
-            "url": "https://github.com/trickest/inventory/tree/main/Boozt%20Fashion%20AB",
-            "snippet": "inventory/Boozt Fashion AB at main · trickest/inventory · GitHub\n\n/ inventory Public\n\nStar 1.5k\n\n- Pricing\n- Notifications\n- Fork 272\n\n \n\n## Files\n\n main\n\n# Boozt Fashion AB\n\nHistory\n\n main\n\n# Boozt F",
-            "published": "2022-02-28T13:58:05.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "inventory/Boozt Fashion AB at main · trickest/inventory · GitHub",
@@ -5239,25 +5049,25 @@
             "score": 1
           },
           {
-            "title": "archives/nutzboot-RCE-1/report.md at main · Xzzz111/exps",
-            "url": "https://github.com/Xzzz111/exps/blob/main/archives/nutzboot-RCE-1/report.md",
-            "snippet": "# File: Xzzz111/exps/archives/nutzboot-RCE-1/report.md\n\n- Repository: Xzzz111/exps | some exps of cve | 0 stars\n- Branch: main\n\n```md\n# NutzBoot LiteRPC HTTP endpoint unauthenticated Java deserializat",
+            "title": "Pallangyo98/Trickster-HTB",
+            "url": "https://github.com/TU-M/Trickster-HTB",
+            "snippet": "# Pallangyo98/Trickster-HTB\n\nThis report details exploiting Trickster via an XSS in PrestaShop (CVE-2024-34716) to gain www-data access, extracting database credentials for SSH as james. A root shell ",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "g0vguy/CVE-2025-61922-PoC",
-            "url": "https://github.com/g0vguy/CVE-2025-61922-PoC",
-            "snippet": "# Repository: g0vguy/CVE-2025-61922-PoC\n\nA simple, educational proof-of-concept script demonstrating the zero-click account takeover vulnerability in the PrestaShop Checkout module (CVE-2025-61922).\n\n",
-            "published": "2026-01-02T17:29:29.000Z",
+            "title": "kareemBambo/Boof",
+            "url": "https://github.com/kareemBambo/Boof",
+            "snippet": "# Repository: kareemBambo/Boof\n\nBOF is script for automation bufferOverFlow attack on sync breeze 10.0.8\n\n- Stars: 2\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: P",
+            "published": "2023-03-14T00:54:45.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:51:00.665Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-18T05:57:42.832Z"
       },
-      "timestamp": "2026-06-11T05:51:02.235Z"
+      "timestamp": "2026-06-18T05:57:45.505Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -5284,35 +5094,13 @@
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "NVD - cve-2026-24058",
-            "url": "https://nvd.nist.gov/vuln/detail/cve-2026-24058",
-            "snippet": "NVD - cve-2026-24058\n\n## CVE-2026-24058 Detail\n\n### Description\n\nSoft Serve is a self-hostable Git server for the command line. Versions 0.11.2 and below have a critical authentication bypass vulnerab",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "RCE on instances with upload validation enabled but without the VLD package · Advisory · jvoisin/snuffleupagus · GitHub",
-            "url": "https://github.com/jvoisin/snuffleupagus/security/advisories/GHSA-c4ch-xw5p-2mvc",
-            "snippet": "RCE on instances with upload validation enabled but without the VLD package · Advisory · jvoisin/snuffleupagus · GitHub\n\n# RCE on instances with upload validation enabled but without the VLD package\n\n",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Claw Chain: OpenClaw CVE-2026-44112 Agent Takeover May 2026",
-            "url": "https://safeguard.sh/resources/blog/openclaw-claw-chain-vulnerabilities-may-2026",
-            "snippet": "Claw Chain: OpenClaw CVE-2026-44112 Agent Takeover May 2026\n\nAgent Security\n\n# Claw Chain: Four Chained CVEs Turn 245,000 OpenClaw Agents Into Backdoors (May 2026)\n\nCyera disclosed four chainable flaw",
-            "published": "2026-05-16T16:00:00.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
             "title": "Satirush/CVE-2025-14174-Poc",
             "url": "https://github.com/Satirush/CVE-2025-14174-Poc",
-            "snippet": "# Repository: Satirush/CVE-2025-14174-Poc\n\nProof-of-Concept exploit for CVE-2025-14174 (EUVD-2025-203113) - Memory corruption in ANGLE allowing out-of-bounds access and RCE in web browsers. Reliable o",
-            "published": "2025-12-18T11:58:23.000Z",
+            "snippet": "# Satirush/CVE-2025-14174-Poc\n\nProof-of-Concept exploit for CVE-2025-14174 (EUVD-2025-203113) - Memory corruption in ANGLE allowing out-of-bounds access and RCE in web browsers. Reliable on iOS/Androi",
+            "published": null,
             "score": 1
           },
           {
@@ -5323,18 +5111,18 @@
             "score": 0.5
           },
           {
-            "title": "mrx-arafat/CVE-2026-49975-POC",
-            "url": "https://github.com/mrx-arafat/CVE-2026-49975-POC",
-            "snippet": "# Repository: mrx-arafat/CVE-2026-49975-POC\n\nHTTP/2 Bomb PoC — CVE-2026-49975 (HPACK indexed reference bomb + flow-control stall)\n\n- Stars: 13\n- Forks: 6\n- Watchers: 2\n- Open issues: 0\n- Primary langu",
-            "published": "2026-06-04T06:22:54.000Z",
+            "title": "beraltajacob-dotcom/SHEERID-VERIF-",
+            "url": "https://github.com/beraltajacob-dotcom/SHEERID-VERIF-",
+            "snippet": "# Repository: beraltajacob-dotcom/SHEERID-VERIF- (from template [google-gemini/aistudio-repository-template](https://github.com/google-gemini/aistudio-repository-template))\n\ntools for google one sheer",
+            "published": "2026-01-18T10:52:40.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:51:02.235Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-18T05:57:45.505Z"
       },
-      "timestamp": "2026-06-11T05:51:03.766Z"
+      "timestamp": "2026-06-18T05:57:48.056Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -6863,78 +6651,56 @@
       "intel": {
         "writeups": [
           {
-            "title": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT - Huli's blog",
-            "url": "https://blog.huli.tw/2026/03/19/coupang-insider-kms-and-jwt/",
-            "snippet": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT - Huli's blog\n\n# 從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT\n\n從去年 11 月開始，Coupang 個資外洩的事件就受到不少關注，一來是據傳外洩的資料數目龐大，二來這間公司也有在台灣設點。隨著調查進度持續推進，也有越來越多細節出現，甚至還被形容為如同電影情節，去河裡打撈硬碟。\n\n最近跑去翻了韓國那邊出",
-            "published": "2026-03-19T02:28:05.000Z",
+            "title": "Bug Bounty Programs | HackerOne",
+            "url": "https://www.hackerone.com/bug-bounty-programs",
+            "snippet": "Bug Bounty Programs | HackerOne\n\n# Bug Bounty Programs\n\nLearn more about HackerOne Bug Bounty\n\n### What is a bug bounty program?\n\nBug bounty programs reward ethical hackers who identify and responsibl",
+            "published": "2025-05-12T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach",
-            "url": "https://sechub.in/view/3192719",
-            "snippet": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach\n\n# Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach\n\n收藏\n\nSince November last year, the data bre",
-            "published": null,
+            "title": "Taiwan labels DeepSeek, four Chinese AI models security threats",
+            "url": "https://www.digitimes.com/news/a20251117VL208/taiwan-security-deepseek-data-language.html",
+            "snippet": "Taiwan labels DeepSeek, four Chinese AI models security threats\n\nREALTIME NEWS\n\n# Taiwan labels DeepSeek, four Chinese AI models security threats\n\n, DIGITIMES Asia, Taipei\n\n0\n\nCredit: Digitimes\n\nTaiwa",
+            "published": "2025-11-17T08:39:37.000Z",
             "score": 0.5
           },
           {
-            "title": "The November Shadow: Coupang Taiwan Goes Public With 33.7M-Account Breach at CYBERSEC 2026 | Lyrie Research | Lyrie Research",
-            "url": "https://lyrie.ai/research/research/2026-05-10-coupang-taiwan-33m-breach",
-            "snippet": "The November Shadow: Coupang Taiwan Goes Public With 33.7M-Account Breach at CYBERSEC 2026 | Lyrie Research | Lyrie Research\n\n0 sources verified·3 min read\n\nBy Lyrie Threat Intelligence·5/10/2026\n\n# T",
-            "published": "2026-05-10T12:19:31.000Z",
+            "title": "APTs go after the React2Shell vulnerability within hours",
+            "url": "https://news.risky.biz/risky-bulletin-apts-go-after-the-react2shell-vulnerability-within-hours/",
+            "snippet": "APTs go after the React2Shell vulnerability within hours\n\nThis newsletter is brought to you by Mastercard. You can subscribe to an audio version of this newsletter as a podcast by searching for \"Risky",
+            "published": "2025-12-07T23:44:13.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT - Huli's blog",
-            "url": "https://blog.huli.tw/2026/03/19/coupang-insider-kms-and-jwt/",
-            "snippet": "從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT - Huli's blog\n\n# 從 Coupang 的個資外洩談內部威脅、金鑰管理與 JWT\n\n從去年 11 月開始，Coupang 個資外洩的事件就受到不少關注，一來是據傳外洩的資料數目龐大，二來這間公司也有在台灣設點。隨著調查進度持續推進，也有越來越多細節出現，甚至還被形容為如同電影情節，去河裡打撈硬碟。\n\n最近跑去翻了韓國那邊出",
-            "published": "2026-03-19T02:28:05.000Z",
-            "score": 1
-          },
-          {
-            "title": "The November Shadow: Coupang Taiwan Goes Public With 33.7M-Account Breach at CYBERSEC 2026 | Lyrie Research | Lyrie Research",
-            "url": "https://lyrie.ai/research/research/2026-05-10-coupang-taiwan-33m-breach",
-            "snippet": "The November Shadow: Coupang Taiwan Goes Public With 33.7M-Account Breach at CYBERSEC 2026 | Lyrie Research | Lyrie Research\n\n0 sources verified·3 min read\n\nBy Lyrie Threat Intelligence·5/10/2026\n\n# T",
-            "published": "2026-05-10T12:19:31.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Coupang Confirms 204,552 Taiwan Users Caught in Data Breach Linked to Former Employee | Storm Media | Taiwan - The Storm Media",
-            "url": "https://world.storm.mg/articles/1105643",
-            "snippet": "Coupang Confirms 204,552 Taiwan Users Caught in Data Breach Linked to Former Employee | Storm Media | Taiwan - The Storm Media\n\n# Coupang Confirms 204,552 Taiwan Users Caught in Data Breach Linked to ",
-            "published": "2026-02-25T03:27:05.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
-            "title": "exploit.py at main · adriyansyah-mf/cve-2026-41940-poc",
-            "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
-            "snippet": "# File: adriyansyah-mf/cve-2026-41940-poc/exploit.py\n\n- Repository: adriyansyah-mf/cve-2026-41940-poc | 28 stars | Python\n- Branch: main\n\n```py\nimport argparse\nimport base64\nimport json\nimport re\nimpo",
-            "published": null,
+            "title": "apps/kaggle-analytics-edge-15/data/NYTimesBlogTest.csv at master · jadianes/data-science-your-way",
+            "url": "https://github.com/jadianes/data-science-your-way/blob/master/apps/kaggle-analytics-edge-15/data/NYTimesBlogTest.csv",
+            "snippet": "# File: jadianes/data-science-your-way/apps/kaggle-analytics-edge-15/data/NYTimesBlogTest.csv\n\n- Repository: jadianes/data-science-your-way | Ways of doing Data Science Engineering and Machine Learnin",
+            "published": "2014-12-01T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "hg0434hongzh0/CVE-2026-34197",
-            "url": "https://github.com/hg0434hongzh0/CVE-2026-34197",
-            "snippet": "# Repository: hg0434hongzh0/CVE-2026-34197\n\nPOC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-04-10T01:29:",
-            "published": "2026-04-10T01:29:12.000Z",
+            "title": "2c4e08acf2a0af0d5a15b8badc163685",
+            "url": "https://gist.github.com/kyen99/2c4e08acf2a0af0d5a15b8badc163685",
+            "snippet": "# Gist: businesswire5.txt\n\n- Author: [@kyen99](https://github.com/kyen99)\n- Public gist (1 file)\n- Created: 2018-04-24T01:08:24Z\n- Updated: 2018-04-24T01:08:25Z\n\n## businesswire5.txt\n\n```txt\n\n```",
+            "published": "2018-04-24T01:08:24.000Z",
             "score": 0.5
           },
           {
-            "title": "exploit.py at main · Chocapikk/CVE-2024-34102",
-            "url": "https://github.com/Chocapikk/CVE-2024-34102/blob/main/exploit.py",
-            "snippet": "# File: Chocapikk/CVE-2024-34102/exploit.py\n\n- Repository: Chocapikk/CVE-2024-34102 | CosmicSting (CVE-2024-34102) | 48 stars | Python\n- Branch: main\n\n```py\nimport re\nimport json\nimport uuid\nimport ba",
+            "title": "crunchbase.txt at master · bradjasper/Markov-Chains",
+            "url": "https://github.com/bradjasper/Markov-Chains/blob/master/crunchbase.txt",
+            "snippet": "# File: bradjasper/Markov-Chains/crunchbase.txt\n\n- Repository: bradjasper/Markov-Chains | Experiments with Markov Chains | 24 stars | Python\n- Branch: master\n\n```txt\nA & S Professional Security Servic",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-06-11T05:50:46.621Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-18T05:57:16.467Z"
       },
-      "timestamp": "2026-06-11T05:50:48.780Z"
+      "timestamp": "2026-06-18T05:57:20.671Z"
     },
     "anthropic": {
       "intel": {
@@ -6992,5 +6758,5 @@
       "timestamp": "2026-06-17T06:15:09.287Z"
     }
   },
-  "lastRun": "2026-06-17T06:15:23.376Z"
+  "lastRun": "2026-06-18T05:57:48.056Z"
 }
