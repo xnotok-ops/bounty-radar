@@ -1987,9 +1987,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-21T06:05:32.805Z"
+        "enriched_at": "2026-06-29T05:52:32.254Z"
       },
-      "timestamp": "2026-06-21T06:05:34.197Z"
+      "timestamp": "2026-06-29T05:52:34.063Z"
     },
     "hubspot": {
       "intel": {
@@ -2028,8 +2028,8 @@
           {
             "title": "yuriisanin/CVE-2022-25262",
             "url": "https://github.com/yuriisanin/CVE-2022-25262",
-            "snippet": "# Repository: yuriisanin/CVE-2022-25262\n\nPoC + vulnerability details for CVE-2022-25262 / JetBrains Hub single-click SAML response takeover\n\n- Stars: 16\n- Forks: 5\n- Watchers: 2\n- Open issues: 0\n- Pri",
-            "published": "2022-05-03T21:38:58.000Z",
+            "snippet": "# yuriisanin/CVE-2022-25262\n\nPoC + vulnerability details for CVE-2022-25262 / JetBrains Hub single-click SAML response takeover\n\n- Stars: 16\n- Forks: 5\n- Watchers: 16\n- Open issues: 0\n- Default branch",
+            "published": null,
             "score": 0.5
           },
           {
@@ -2042,9 +2042,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-21T06:05:34.197Z"
+        "enriched_at": "2026-06-29T05:52:34.063Z"
       },
-      "timestamp": "2026-06-21T06:05:35.671Z"
+      "timestamp": "2026-06-29T05:52:35.789Z"
     },
     "oppo_bbp": {
       "intel": {
@@ -2064,9 +2064,9 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2024-1610 - Vulnerability-Lookup",
-            "url": "https://db.gcve.eu/vuln/cve-2024-1610",
-            "snippet": "CVE-2024-1610 - Vulnerability-Lookup\n\n#### CVE-2024-1610 (GCVE-0-2024-1610)\n\nVulnerability from cvelistv5– Published: 2024-12-18 06:18 – Updated: 2024-12-18 15:33\n\nAbout the model.'> VLAI About the mo",
+            "title": "NVD - cve-2020-11834",
+            "url": "https://nvd.nist.gov/vuln/detail/cve-2020-11834",
+            "snippet": "NVD - cve-2020-11834\n\n## CVE-2020-11834 Detail\n\nModified After Enrichment\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may re",
             "published": null,
             "score": 0
           }
@@ -2081,9 +2081,9 @@
             "score": 1
           },
           {
-            "title": "Polarskyk/CVE-2025-10184_PoC",
-            "url": "https://github.com/Polarskyk/CVE-2025-10184_PoC",
-            "snippet": "# Polarskyk/CVE-2025-10184_PoC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-10-18T16:15:17Z\n- Fork: yes\n\n## Languages\n\n- Java\n- PowerShell\n\n## Top Contr",
+            "title": "CrackerCat/CVE-2025-10184_PoC",
+            "url": "https://github.com/CrackerCat/CVE-2025-10184_PoC",
+            "snippet": "# CrackerCat/CVE-2025-10184_PoC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-09-28T12:36:33Z\n- Fork: yes\n\n## Languages\n\n- Java\n\n## Top Contributors\n\n- P",
             "published": null,
             "score": 0.5
           },
@@ -2097,25 +2097,25 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-21T06:05:35.671Z"
+        "enriched_at": "2026-06-29T05:52:35.789Z"
       },
-      "timestamp": "2026-06-21T06:05:37.181Z"
+      "timestamp": "2026-06-29T05:52:37.275Z"
     },
     "1password_ctf": {
       "intel": {
         "writeups": [
           {
-            "title": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper",
-            "url": "https://scotthelme.co.uk/passkeys-permissions-policy-and-bug-hunting-in-1passwords-webauthn-wrapper/",
-            "snippet": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\nSponsored by: Report URI - PCI DSS requires proof. Show what ran, what changed, and what was blocked.\n\nPasskeys are the be",
-            "published": "2026-05-21T14:40:02.000Z",
-            "score": 1
-          },
-          {
             "title": "Untitled",
             "url": "https://cure53.de/pentest-report_1password-b5.pdf",
             "snippet": "Dr.-Ing. Mario Heiderich, Cure53 \nBielefelder Str. 14 \nD 10709 Berlin \ncure53.de · mario@cure53.de \n\nPentest-Report 1Password B5 & Permissions 10.2020 Cure53, Dr.-Ing. M. Heiderich, MSc. S. Moritz, MS",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper",
+            "url": "https://scotthelme.co.uk/passkeys-permissions-policy-and-bug-hunting-in-1passwords-webauthn-wrapper/",
+            "snippet": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\nSponsored by: Report URI - PCI DSS requires proof. Show what ran, what changed, and what was blocked.\n\nPasskeys are the be",
+            "published": "2026-05-21T14:40:02.000Z",
             "score": 0.5
           },
           {
@@ -2136,25 +2136,25 @@
             "score": 1
           },
           {
-            "title": "morganc3/1password-exploits",
-            "url": "https://github.com/morganc3/1password-exploits",
-            "snippet": "# Repository: morganc3/1password-exploits\n\n- Stars: 12\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Objective-C\n- Languages: Objective-C (45.3%), HTML (33.1%), Roff (9.9%), Rich Text ",
-            "published": "2024-07-12T19:25:38.000Z",
-            "score": 0.5
-          },
-          {
             "title": "djhohnstein/1PasswordSuite",
             "url": "https://github.com/djhohnstein/1PasswordSuite",
             "snippet": "# Repository: djhohnstein/1PasswordSuite\n\nUtilities to extract secrets from 1Password\n\n- Stars: 109\n- Forks: 15\n- Watchers: 109\n- Open issues: 0\n- Primary language: C\n- Languages: C (91.2%), C# (5.9%)",
             "published": "2021-08-13T18:33:15.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "MrTiz/1Password-Secrets-Dump",
+            "url": "https://github.com/MrTiz/1Password-Secrets-Dump",
+            "snippet": "# Repository: MrTiz/1Password-Secrets-Dump\n\nExfiltrates 1Password secrets by performing a memory dump\n\n- Stars: 4\n- Forks: 0\n- Watchers: 4\n- Open issues: 0\n- Primary language: PowerShell\n- Languages: ",
+            "published": "2022-09-17T19:30:18.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-21T06:05:37.182Z"
+        "enriched_at": "2026-06-29T05:52:37.275Z"
       },
-      "timestamp": "2026-06-21T06:05:38.625Z"
+      "timestamp": "2026-06-29T05:52:38.668Z"
     },
     "1password": {
       "intel": {
@@ -2191,25 +2191,25 @@
             "score": 1
           },
           {
-            "title": "morganc3/1password-exploits",
-            "url": "https://github.com/morganc3/1password-exploits",
-            "snippet": "# Repository: morganc3/1password-exploits\n\n- Stars: 12\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Objective-C\n- Languages: Objective-C (45.3%), HTML (33.1%), Roff (9.9%), Rich Text ",
-            "published": "2024-07-12T19:25:38.000Z",
-            "score": 0.5
-          },
-          {
             "title": "MrTiz/1Password-Secrets-Dump",
             "url": "https://github.com/MrTiz/1Password-Secrets-Dump",
             "snippet": "# Repository: MrTiz/1Password-Secrets-Dump\n\nExfiltrates 1Password secrets by performing a memory dump\n\n- Stars: 4\n- Forks: 0\n- Watchers: 4\n- Open issues: 0\n- Primary language: PowerShell\n- Languages: ",
             "published": "2022-09-17T19:30:18.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "vdohney/keepass-password-dumper",
+            "url": "https://github.com/vdohney/keepass-password-dumper",
+            "snippet": "# Repository: vdohney/keepass-password-dumper\n\nOriginal PoC for CVE-2023-32784\n\n- Stars: 650\n- Forks: 60\n- Watchers: 9\n- Open issues: 3\n- Primary language: C#\n- Languages: C#\n- License: MIT License (M",
+            "published": "2023-05-01T17:08:55.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-21T06:05:38.625Z"
+        "enriched_at": "2026-06-29T05:52:38.668Z"
       },
-      "timestamp": "2026-06-21T06:05:40.074Z"
+      "timestamp": "2026-06-29T05:52:40.250Z"
     },
     "bcny": {
       "intel": {
@@ -2239,32 +2239,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "Path Traversal File Read Vulnerability in Component Server of browser-operator-core · Issue #96 · BrowserOperator/browser-operator-core",
+            "title": "Path Traversal File Read Vulnerability in Component Server of browser-operator-core",
             "url": "https://github.com/BrowserOperator/browser-operator-core/issues/96",
-            "snippet": "# Issue: BrowserOperator/browser-operator-core #96\n\n- Repository: BrowserOperator/browser-operator-core | Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative ",
-            "published": "2026-04-11T06:17:35.000Z",
+            "snippet": "# Path Traversal File Read Vulnerability in Component Server of browser-operator-core\n\n- State: open\n- Author: BruceJqs\n- Created: 2026-04-11T06:17:35Z\n- Updated: 2026-04-11T06:17:35Z\n- Repository: Br",
+            "published": null,
             "score": 1
+          },
+          {
+            "title": "symphony2colour/htb-browsed-rce",
+            "url": "https://github.com/symphony2colour/htb-browsed-rce",
+            "snippet": "# symphony2colour/htb-browsed-rce\n\nThis repo contains RCE exploit for Browsed htb machine\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-13T14:12:39Z\n\n",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass",
             "url": "https://github.com/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass",
             "snippet": "# mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-19T21:20:27Z\n\n## Top Contributors\n\n- mbanya",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "symphony2colour/htb-browsed-rce",
-            "url": "https://github.com/symphony2colour/htb-browsed-rce",
-            "snippet": "# Repository: symphony2colour/htb-browsed-rce\n\nThis repo contains RCE exploit for Browsed htb machine\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Pyth",
-            "published": "2026-01-13T14:12:39.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-21T06:05:40.074Z"
+        "enriched_at": "2026-06-29T05:52:40.250Z"
       },
-      "timestamp": "2026-06-21T06:05:41.630Z"
+      "timestamp": "2026-06-29T05:52:41.631Z"
     },
     "verily_life_sciences": {
       "intel": {
@@ -2294,17 +2294,17 @@
         "twitter": [],
         "github": [
           {
-            "title": "JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "url": "https://github.com/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "snippet": "# Repository: JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud\n\nTechnical PoC for CVE-2026-2472 (GCP-2026-011): Unauthenticated and Stored Cross-Site Scripting (XSS) in google-cloud-aiplatform ",
-            "published": "2026-02-27T14:57:39.000Z",
-            "score": 1
-          },
-          {
             "title": "megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
             "url": "https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
             "snippet": "# megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud\n\nExpose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.130.9.\n\n- St",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
+            "url": "https://github.com/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
+            "snippet": "# Repository: JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud\n\nTechnical PoC for CVE-2026-2472 (GCP-2026-011): Unauthenticated and Stored Cross-Site Scripting (XSS) in google-cloud-aiplatform ",
+            "published": "2026-02-27T14:57:39.000Z",
             "score": 0.5
           },
           {
@@ -2317,9 +2317,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-21T06:05:41.631Z"
+        "enriched_at": "2026-06-29T05:52:41.631Z"
       },
-      "timestamp": "2026-06-21T06:05:43.130Z"
+      "timestamp": "2026-06-29T05:52:43.506Z"
     },
     "neon_bbp": {
       "intel": {
@@ -2365,9 +2365,9 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-06-21T06:05:43.131Z"
+        "enriched_at": "2026-06-29T05:52:43.506Z"
       },
-      "timestamp": "2026-06-21T06:05:44.620Z"
+      "timestamp": "2026-06-29T05:52:45.396Z"
     },
     "bumba_bbp": {
       "intel": {
@@ -2380,17 +2380,17 @@
             "score": 1
           },
           {
-            "title": "RCE in Burp's Bambda filters | @adeadfed",
-            "url": "https://adeadfed.com/posts/rce-in-burp's-bambda-filters/",
-            "snippet": "RCE in Burp's Bambda filters | @adeadfed\n\n## New Burp feature\n\nOn October 20th, 2023 Portswigger released a neat feature – Java Bambdas. Basically, they are just Java code snippets dynamically compile",
-            "published": "2023-11-16T00:04:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Security Audit: Multiple vulnerabilities in bumblebee v0.1.x (9 findings) · Issue #5 · perplexityai/bumblebee",
             "url": "https://github.com/perplexityai/bumblebee/issues/5",
             "snippet": "# Issue: perplexityai/bumblebee #5\n\n- Repository: perplexityai/bumblebee | Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to ",
             "published": "2026-05-23T03:51:38.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "RCE in Burp's Bambda filters | @adeadfed",
+            "url": "https://adeadfed.com/posts/rce-in-burp's-bambda-filters/",
+            "snippet": "RCE in Burp's Bambda filters | @adeadfed\n\n## New Burp feature\n\nOn October 20th, 2023 Portswigger released a neat feature – Java Bambdas. Basically, they are just Java code snippets dynamically compile",
+            "published": "2023-11-16T00:04:00.000Z",
             "score": 0
           }
         ],
@@ -2399,8 +2399,8 @@
           {
             "title": "number000000/18739-D-CVE-1",
             "url": "https://github.com/number000000/18739-D-CVE-1",
-            "snippet": "# Repository: number000000/18739-D-CVE-1\n\nCMU 18739-D CVE #1\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell (81.7%), Perl (18.3%)\n- Default branch: ",
-            "published": "2025-10-17T19:32:11.000Z",
+            "snippet": "# number000000/18739-D-CVE-1\n\nCMU 18739-D CVE #1\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-10-17T19:32:11Z\n\n## Languages\n\n- Perl\n- Shell\n\n## Top Cont",
+            "published": null,
             "score": 1
           },
           {
@@ -2413,16 +2413,16 @@
           {
             "title": "mrx-arafat/CVE-2026-49975-POC",
             "url": "https://github.com/mrx-arafat/CVE-2026-49975-POC",
-            "snippet": "# Repository: mrx-arafat/CVE-2026-49975-POC\n\nHTTP/2 Bomb PoC — CVE-2026-49975 (HPACK indexed reference bomb + flow-control stall)\n\n- Stars: 22\n- Forks: 8\n- Watchers: 3\n- Open issues: 0\n- Primary langu",
+            "snippet": "# Repository: mrx-arafat/CVE-2026-49975-POC\n\nHTTP/2 Bomb PoC — CVE-2026-49975 (HPACK indexed reference bomb + flow-control stall)\n\n- Stars: 23\n- Forks: 8\n- Watchers: 3\n- Open issues: 0\n- Primary langu",
             "published": "2026-06-04T06:22:54.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-21T06:05:44.620Z"
+        "enriched_at": "2026-06-29T05:52:45.396Z"
       },
-      "timestamp": "2026-06-21T06:05:46.313Z"
+      "timestamp": "2026-06-29T05:52:47.018Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -4138,9 +4138,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-21T06:05:30.753Z"
+        "enriched_at": "2026-06-29T05:52:30.275Z"
       },
-      "timestamp": "2026-06-21T06:05:32.805Z"
+      "timestamp": "2026-06-29T05:52:32.254Z"
     },
     "wisdomtree": {
       "intel": {
@@ -6051,5 +6051,5 @@
       "timestamp": "2026-06-28T05:18:53.055Z"
     }
   },
-  "lastRun": "2026-06-28T05:19:04.737Z"
+  "lastRun": "2026-06-29T05:52:47.018Z"
 }
