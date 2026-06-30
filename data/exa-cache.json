@@ -2430,7 +2430,7 @@
           {
             "title": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies",
             "url": "https://dreamlab.net/en/blog/post/starbucks-idor-how-we-prevented-an-information-leak-of-6-million-starbucks-customers/",
-            "snippet": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies\n\n# Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers\n\n",
+            "snippet": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies\n\nBlog\n\n# Starbucks IDOR: How we prevented an information leak of 6 million Starbucks custo",
             "published": "2020-03-18T11:02:05.000Z",
             "score": 1
           },
@@ -2468,9 +2468,9 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-06-22T06:30:55.578Z"
+        "enriched_at": "2026-06-30T05:06:06.455Z"
       },
-      "timestamp": "2026-06-22T06:30:57.389Z"
+      "timestamp": "2026-06-30T05:06:07.810Z"
     },
     "starbucks_china": {
       "intel": {
@@ -2500,18 +2500,18 @@
         "twitter": [],
         "github": [
           {
-            "title": "M-Evans/StarbucksBlackCard",
-            "url": "https://github.com/M-Evans/StarbucksBlackCard",
-            "snippet": "# Repository: M-Evans/StarbucksBlackCard\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell (78.7%), C++ (21.3%)\n- License: MIT License (MIT)\n- Default ",
-            "published": "2016-10-23T00:31:55.000Z",
+            "title": "docs/tops_by_program/TOPSTARBUCKS.md",
+            "url": "https://github.com/reddelexc/hackerone-reports/blob/master/docs/tops_by_program/TOPSTARBUCKS.md",
+            "snippet": "# docs/tops_by_program/TOPSTARBUCKS.md\n\n- Branch: master\n- Repository: reddelexc/hackerone-reports\n\n---\n\nTop reports from Starbucks program at HackerOne:\n\n1. [SQL Injection Extracts Starbucks Enterpri",
+            "published": null,
             "score": 1
           }
         ],
         "defi_audit": [],
         "total_results": 4,
-        "enriched_at": "2026-06-22T06:30:57.389Z"
+        "enriched_at": "2026-06-30T05:06:07.810Z"
       },
-      "timestamp": "2026-06-22T06:30:58.793Z"
+      "timestamp": "2026-06-30T05:06:09.219Z"
     },
     "syfe_bbp": {
       "intel": {
@@ -2519,7 +2519,7 @@
           {
             "title": "Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack :: ESTHERops.tech",
             "url": "https://estherops.tech/methods/syfe-security-audit/",
-            "snippet": "Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack :: ESTHERops.tech\n\n# Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack\n\nI spent the last hour testing Syfe’s i",
+            "snippet": "Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack :: ESTHERops.tech\n\n# Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack\n\nhttps://estherops.tech/methods/syfe-se",
             "published": null,
             "score": 1
           },
@@ -2543,46 +2543,46 @@
           {
             "title": "LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof",
             "url": "https://github.com/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof",
-            "snippet": "# Repository: LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default branch: main\n- Created: 2025-05-07T01:",
-            "published": "2025-05-07T01:51:30.000Z",
+            "snippet": "# LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2025-05-07T01:51:30Z\n\n## Languages\n\n- C\n\n## Top Contributors\n\n-",
+            "published": null,
             "score": 1
           },
           {
-            "title": "TYehan/CVE-2025-58434-59528",
-            "url": "https://github.com/tyehan/cve-2025-58434-59528",
-            "snippet": "# Repository: TYehan/CVE-2025-58434-59528\n\nCVE-2025-58434 and CVE-2025-59528 chain POC - FlowiseAI Remote Code Execution\n\n- Stars: 5\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Pytho",
-            "published": "2026-04-12T06:39:37.000Z",
+            "title": "It is possible to steal all users' money due to incorrect price calculation",
+            "url": "https://github.com/code-423n4/2023-03-asymmetry-findings/issues/461",
+            "snippet": "# It is possible to steal all users' money due to incorrect price calculation\n\n- State: closed\n- Author: code423n4\n- Created: 2023-03-29T12:58:43Z\n- Updated: 2023-04-21T14:56:46Z\n- Repository: code-42",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "SyFi/CVE-2018-4878",
-            "url": "https://github.com/SyFi/CVE-2018-4878",
-            "snippet": "# SyFi/CVE-2018-4878\n\nFlash Exploit Poc\n\n- Stars: 7\n- Forks: 9\n- Watchers: 7\n- Open issues: 1\n- Default branch: master\n- Created: 2018-04-04T04:33:44Z\n\n## Languages\n\n- Python\n\n---\n\n## README\n\n# CVE-20",
-            "published": null,
+            "title": "skyuff/cve_2026_31431",
+            "url": "https://github.com/skyuff/cve_2026_31431",
+            "snippet": "# Repository: skyuff/cve_2026_31431 (fork of [rootsecdev/cve_2026_31431](https://github.com/rootsecdev/cve_2026_31431))\n\nExploit POC for CVE_2026_31431\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issu",
+            "published": "2026-04-30T09:24:16.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-22T06:30:58.793Z"
+        "enriched_at": "2026-06-30T05:06:09.220Z"
       },
-      "timestamp": "2026-06-22T06:31:00.329Z"
+      "timestamp": "2026-06-30T05:06:10.799Z"
     },
     "nba-public": {
       "intel": {
         "writeups": [
           {
+            "title": "How ShinyHunters Spoiled the Knicks’ Championship with a 45GB Dark Web Data Dump",
+            "url": "https://cleandataalliance.substack.com/p/how-shinyhunters-spoiled-the-knicks",
+            "snippet": "How ShinyHunters Spoiled the Knicks’ Championship with a 45GB Dark Web Data Dump\n\nSubscribeSign in\n\n# How ShinyHunters Spoiled the Knicks’ Championship with a 45GB Dark Web Data Dump\n\nJay Mandel\n\nJun ",
+            "published": "2026-06-19T16:33:00.000Z",
+            "score": 1
+          },
+          {
             "title": "feat: ship pipeline remediation - security, tests, and documentation · 993b7a5 · aself101/nba-api",
             "url": "https://github.com/aself101/nba-api/commit/993b7a56d3eb93a6b117161521c22a5948c60d87",
             "snippet": "# Commit: aself101/nba-api@993b7a5\n\n- Repository: aself101/nba-api | TypeScript wrapper for NBA Stats and Live APIs | 1 stars | TypeScript\n\n## feat: ship pipeline remediation - security, tests, and do",
             "published": "2025-12-12T18:30:04.000Z",
-            "score": 1
-          },
-          {
-            "title": "CVE-2023-45803 - Nba-Api Vulnerability - Safety #62257",
-            "url": "https://data.safetycli.com/vulnerabilities/CVE-2023-45803/62257/",
-            "snippet": "CVE-2023-45803 - Nba-Api Vulnerability - Safety #62257\n\n## PyPi: Nba-Api\n\n# CVE-2023-45803\n\nTransitive\n\nSafety vulnerability ID: 62257\n\n### This vulnerability was reviewed by experts\n\nThe information ",
-            "published": null,
             "score": 0.5
           },
           {
@@ -2619,9 +2619,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-22T06:31:00.330Z"
+        "enriched_at": "2026-06-30T05:06:10.799Z"
       },
-      "timestamp": "2026-06-22T06:31:01.851Z"
+      "timestamp": "2026-06-30T05:06:12.266Z"
     },
     "circle-bbp": {
       "intel": {
@@ -2629,7 +2629,7 @@
           {
             "title": "Circle's CCTP Noble Mint Bug",
             "url": "https://blog.asymmetric.re/circles-cctp-noble-mint-bug/",
-            "snippet": "Circle's CCTP Noble Mint Bug { document.querySelector('[data-progress-bar]').setAttribute('value',getScrollPercent()) })\" @scroll.window=\"document.querySelector('[data-progress-bar]').setAttribute('va",
+            "snippet": "Circle's CCTP Noble Mint Bug\n\nResearch· Aug 27, 2024 · 4 min read\n\n# Circle's CCTP Noble Mint Bug\n\nWe privately disclosed a vulnerability to Circle via their bug bounty program. The vulnerability coul",
             "published": "2024-08-27T15:41:00.000Z",
             "score": 1
           },
@@ -2660,8 +2660,8 @@
           {
             "title": "Teycir/fft-exploit-poc",
             "url": "https://github.com/Teycir/fft-exploit-poc",
-            "snippet": "# Teycir/fft-exploit-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-03-04T19:55:38Z\n\n## Languages\n\n- Circom\n- JavaScript\n- SMT\n- Shel",
-            "published": null,
+            "snippet": "# Repository: Teycir/fft-exploit-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell (80.9%), JavaScript (10.3%), SMT (4.7%), Circom (4.1%)\n- License",
+            "published": "2026-03-04T19:55:38.000Z",
             "score": 0.5
           },
           {
@@ -2674,9 +2674,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-22T06:31:01.851Z"
+        "enriched_at": "2026-06-30T05:06:12.266Z"
       },
-      "timestamp": "2026-06-22T06:31:03.474Z"
+      "timestamp": "2026-06-30T05:06:13.680Z"
     },
     "varonis": {
       "intel": {
@@ -2684,7 +2684,7 @@
           {
             "title": "From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster",
             "url": "https://www.varonis.com/blog/varonis-prevents-ransomware-disaster",
-            "snippet": "From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster\n\n🚨 Varonis Threat Labs uncovered SearchLeak, a new AI vulnerability within Microsoft 365 Copilot. Learn more\n\n# From CPU Spikes",
+            "snippet": "From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster\n\n🚨 Varonis Threat Labs uncovered SearchLeak, a new AI vulnerability within Microsoft 365 Copilot. Learn more\n\nBlog Threat Resea",
             "published": "2025-10-09T14:00:26.000Z",
             "score": 1
           },
@@ -2720,18 +2720,18 @@
             "score": 0.5
           },
           {
-            "title": "M3PH1569/CVE-2026-39987-POC",
-            "url": "https://github.com/M3PH1569/CVE-2026-39987-POC",
-            "snippet": "# Repository: M3PH1569/CVE-2026-39987-POC\n\nCVE-2026-39987 Exploitation Tool - Marimo < 0.23.0 Pre-Auth RCE (WebSocket)\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n",
-            "published": "2026-05-24T18:00:33.000Z",
+            "title": "AzureADTrent/CVE-2025-4517-POC",
+            "url": "https://github.com/AzureADTrent/CVE-2025-4517-POC-HTB",
+            "snippet": "# AzureADTrent/CVE-2025-4517-POC\n\nPrivilege Escalation script for CVE-2025-4517\n\n- Stars: 8\n- Forks: 0\n- Watchers: 8\n- Open issues: 1\n- Default branch: main\n- Created: 2026-02-15T22:09:53Z\n\n## Languag",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-22T06:31:03.474Z"
+        "enriched_at": "2026-06-30T05:06:13.680Z"
       },
-      "timestamp": "2026-06-22T06:31:04.957Z"
+      "timestamp": "2026-06-30T05:06:15.202Z"
     },
     "klarna": {
       "intel": {
@@ -2751,10 +2751,10 @@
             "score": 0.5
           },
           {
-            "title": "Klarna Identity Theft: How the 'Klarna Method' Exploits Stolen Data | Michael van Splunter",
-            "url": "https://cyborghound.github.io/posts/klarna-psn-gift-card-fraud/",
-            "snippet": "Klarna Identity Theft: How the 'Klarna Method' Exploits Stolen Data | Michael van Splunter\n\nContents\n\nKlarna Identity Theft: How the 'Klarna Method' Exploits Stolen Data\n\nOn April 24, 2026, I received",
-            "published": "2026-04-28T11:00:00.000Z",
+            "title": "CVE-2024-30477: Klarna WooCommerce Auth Bypass Flaw",
+            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-30477/",
+            "snippet": "CVE-2024-30477: Klarna WooCommerce Auth Bypass Flaw\n\nSkip to main content\n\nA Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection. Six years running. Find Out Why\n\nSingularity Marketpla",
+            "published": "2024-03-29T16:15:09.000Z",
             "score": 0
           }
         ],
@@ -2775,41 +2775,41 @@
             "score": 0.5
           },
           {
-            "title": "2026/CVE-2026-22191-POC.py at master · kmkz/Exploits",
-            "url": "https://github.com/kmkz/Exploits/blob/master/2026/CVE-2026-22191-POC.py",
-            "snippet": "# File: kmkz/Exploits/2026/CVE-2026-22191-POC.py\n\n- Repository: kmkz/Exploits | Exploits and advisories | 211 stars | Python\n- Branch: master\n\n```py\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-22191 - SicuroW",
-            "published": null,
+            "title": "kinryulabs/rootpacket-cve-2026-31431",
+            "url": "https://github.com/kinryulabs/rootpacket-cve-2026-31431",
+            "snippet": "# Repository: kinryulabs/rootpacket-cve-2026-31431\n\nCVE-2026-31431 getroot from a Turkish Cryptominer\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell",
+            "published": "2026-06-24T05:41:21.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-22T06:31:04.957Z"
+        "enriched_at": "2026-06-30T05:06:15.202Z"
       },
-      "timestamp": "2026-06-22T06:31:06.353Z"
+      "timestamp": "2026-06-30T05:06:16.617Z"
     },
     "unico_idtech": {
       "intel": {
         "writeups": [
           {
-            "title": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/unico_idtech",
-            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n15\n\nIn Scope\n\n1\n\nOut of Scope\n\nIn-Scope Assets (15)\n\n| Asset | Category | Bount",
+            "title": "Unico IDtech Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/unico-idtech/",
+            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle unico_idtech Managed Yes\n\n## Response Metrics\n\nResponse Time 12 days Bounty Time 259 d",
             "published": null,
             "score": 1
           },
           {
-            "title": "Fabio Mello - Executive Information Security Manager | CISO at unico IDtech | The Org",
-            "url": "https://theorg.com/org/unico-idtech/org-chart/fabio-mello",
-            "snippet": "Fabio Mello - Executive Information Security Manager | CISO at unico IDtech | The Org\n\n‌\n\n- Fabio Mello\n\nUnverified\n\nFM\n\n# Fabio Mello\n\n### Executive Information Security Manager | CISO\n\nContact\n\nFabi",
+            "title": "Unico IDtech | Security Program",
+            "url": "https://ooosec.com/programs/unico-idtech",
+            "snippet": "Unico IDtech | Security Program\n\n## Unico IDtech\n\n# Unico IDtech\n\nBounty Range\n\n$150 - $3,000\n\nexternal program\n\n## Details\n\n# Unico IDTech Bug Bounty Program\n\nUnico IDTech is pioneering the future of",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "HackerOne Bug Bounty Disclosure: an-idor-that-can-lead-to-enumeration-of-a-user-and-disclosure-of-email-and-phone-number-within-cashier-miquinho - RedPacket Security",
-            "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-an-idor-that-can-lead-to-enumeration-of-a-user-and-disclosure-of-email-and-phone-number-within-cashier-miquinho/",
-            "snippet": "HackerOne Bug Bounty Disclosure: an-idor-that-can-lead-to-enumeration-of-a-user-and-disclosure-of-email-and-phone-number-within-cashier-miquinho - RedPacket Security\n\nCompany Name: Unikrn\n\nCompany Hac",
-            "published": "2023-07-17T18:00:06.000Z",
+            "title": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com",
+            "url": "https://bbscope.com/program/h1/unico_idtech",
+            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n15\n\nIn Scope\n\n1\n\nOut of Scope\n\nIn-Scope Assets (15)\n\n| Asset | Category | Bount",
+            "published": null,
             "score": 0
           }
         ],
@@ -2818,30 +2818,30 @@
           {
             "title": "unico-labs/unico-cbu-poc-angular",
             "url": "https://github.com/unico-labs/unico-cbu-poc-angular",
-            "snippet": "# Repository: unico-labs/unico-cbu-poc-angular\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 12\n- Primary language: CSS\n- Languages: CSS (54.9%), TypeScript (27.6%), HTML (17.5%)\n- Default branc",
+            "snippet": "# Repository: unico-labs/unico-cbu-poc-angular\n\n- Stars: 0\n- Forks: 0\n- Watchers: 1\n- Open issues: 12\n- Primary language: CSS\n- Languages: CSS (54.9%), TypeScript (27.6%), HTML (17.5%)\n- Default branc",
             "published": "2025-01-30T13:00:59.000Z",
             "score": 1
+          },
+          {
+            "title": "unico-labs/unico-cbu-poc-next",
+            "url": "https://github.com/unico-labs/unico-cbu-poc-next",
+            "snippet": "# Repository: unico-labs/unico-cbu-poc-next\n\n- Stars: 0\n- Forks: 0\n- Watchers: 1\n- Open issues: 2\n- Primary language: JavaScript\n- Languages: JavaScript (53.1%), CSS (46.9%)\n- Default branch: main\n- C",
+            "published": "2025-01-30T13:01:58.000Z",
+            "score": 0.5
           },
           {
             "title": "unico-labs/unico-sdks-poc-kotlin",
             "url": "https://github.com/unico-labs/unico-sdks-poc-kotlin",
             "snippet": "# Repository: unico-labs/unico-sdks-poc-kotlin\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Kotlin\n- Languages: Kotlin (54.6%), Python (45.4%)\n- License: Apache License 2.",
             "published": "2026-04-14T19:41:19.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "unico-labs/unico-cbu-poc-next",
-            "url": "https://github.com/unico-labs/unico-cbu-poc-next",
-            "snippet": "# Repository: unico-labs/unico-cbu-poc-next\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 2\n- Primary language: JavaScript\n- Languages: JavaScript (53.1%), CSS (46.9%)\n- Default branch: main\n- C",
-            "published": "2025-01-30T13:01:58.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-22T06:31:06.353Z"
+        "enriched_at": "2026-06-30T05:06:16.617Z"
       },
-      "timestamp": "2026-06-22T06:31:07.834Z"
+      "timestamp": "2026-06-30T05:06:18.048Z"
     },
     "wallet_on_telegram": {
       "intel": {
@@ -2854,28 +2854,35 @@
             "score": 1
           },
           {
-            "title": "Jaden-Nix/Verified-Wallet-Audit",
-            "url": "https://github.com/Jaden-Nix/Verified-Wallet-Audit",
-            "snippet": "# Jaden-Nix/Verified-Wallet-Audit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-05T20:53:24Z\n\n## Languages\n\n- HTML\n- JavaScript\n\n## Top Contributors\n\n",
+            "title": "[BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)",
+            "url": "https://github.com/Scottcjn/rustchain-bounties/issues/69",
+            "snippet": "# [BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)\n\n- State: closed\n- Author: Scottcjn\n- Created: 2026-02-06T01:03:51Z\n- Updated: 2026-03-26T12:52:10Z\n- Repository: Scottcjn/rus",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Malicious npm Packages Target Crypto Developers via Telegram",
-            "url": "https://coreiten.com/en/article/malicious-npm-packages-steal-crypto-wallet-keys-via-telegram-bot",
-            "snippet": "Malicious npm Packages Target Crypto Developers via Telegram\n\nMenu ✕\n\nMalicious npm packages targeting crypto developers are actively stealing Solana and Ethereum wallet keys by exfiltrating them dire",
-            "published": "2026-03-25T11:02:06.000Z",
+            "title": "Wallet P2P: All Bugs Are TON — Teletype",
+            "url": "https://teletype.in/@abc9e/telegram-wallet",
+            "snippet": "Wallet P2P: All Bugs Are TON — Teletype\n\nIn this post, I reveal that Telegram = TON = Wallet and why it matters\n\nThis post has been updated — see Appendix\n\nI've written before on my reasons not to par",
+            "published": "2022-10-05T09:04:14.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
+            "title": "jmgomezl/oculusvaultwallet",
+            "url": "https://github.com/jmgomezl/oculusvaultwallet",
+            "snippet": "# jmgomezl/oculusvaultwallet\n\nNon-custodial Hedera wallet inside a Telegram Mini App — reusable SDK + demo. secp256k1, EVM-alias auto-create, on-device encrypted keys. Testnet-first. MIT.\n\n- Stars: 0\n",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "ctrlsa/smart-contract-wallet-Ethereum-Account-Abstraction-Telegram",
             "url": "https://github.com/ctrlsa/smart-contract-wallet-Ethereum-Account-Abstraction-Telegram",
             "snippet": "# ctrlsa/smart-contract-wallet-Ethereum-Account-Abstraction-Telegram\n\nR&D of possibilities, limitations & solutions to natively integrate self-custodial EVM smart-contract wallet in Telegram messenger",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "DavisDmitry/BitPurseBot",
@@ -2886,10 +2893,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 5,
-        "enriched_at": "2026-06-22T06:31:07.834Z"
+        "total_results": 6,
+        "enriched_at": "2026-06-30T05:06:18.048Z"
       },
-      "timestamp": "2026-06-22T06:31:09.253Z"
+      "timestamp": "2026-06-30T05:06:19.532Z"
     },
     "chia_network": {
       "intel": {
@@ -2919,10 +2926,10 @@
         "twitter": [],
         "github": [
           {
-            "title": "[SEC-615] Reject malformed weight proof segments with overflow block at index 0 · Pull Request #20747 · Chia-Network/chia-blockchain",
+            "title": "[SEC-615] Reject malformed weight proof segments with overflow block at index 0",
             "url": "https://github.com/Chia-Network/chia-blockchain/pull/20747",
-            "snippet": "# Pull Request: Chia-Network/chia-blockchain #20747\n\n- Repository: Chia-Network/chia-blockchain | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) | 11K stars",
-            "published": "2026-03-31T15:57:09.000Z",
+            "snippet": "# [SEC-615] Reject malformed weight proof segments with overflow block at index 0\n\n- State: merged\n- Author: TheLastCicada\n- Created: 2026-03-31T15:57:09Z\n- Updated: 2026-04-02T19:08:40Z\n- Repository:",
+            "published": null,
             "score": 1
           },
           {
@@ -2942,9 +2949,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-22T06:31:09.253Z"
+        "enriched_at": "2026-06-30T05:06:19.532Z"
       },
-      "timestamp": "2026-06-22T06:31:10.643Z"
+      "timestamp": "2026-06-30T05:06:20.936Z"
     },
     "3cx": {
       "intel": {
@@ -6051,5 +6058,5 @@
       "timestamp": "2026-06-28T05:18:53.055Z"
     }
   },
-  "lastRun": "2026-06-29T05:52:47.018Z"
+  "lastRun": "2026-06-30T05:06:20.936Z"
 }
