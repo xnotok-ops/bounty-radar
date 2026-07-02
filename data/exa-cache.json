@@ -4545,17 +4545,17 @@
             "score": 1
           },
           {
-            "title": "Report a vulnerability - Vodafone",
-            "url": "https://www.vodafone.om/report-a-vulnerability",
-            "snippet": "Report a vulnerability - Vodafone\n\n## Reporting vulnerabilities\n\nWe value the expertise and help of the cyber security community in helping us maintain our high security standards. You can use this si",
-            "published": "2022-10-10T13:19:14.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Vodafone Oman Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/vodafone-oman/",
             "snippet": "Vodafone Oman Bug Bounty Program - Bug Bounties\n\n# Vodafone Oman\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle vodafone_oman Managed No\n\n## Response Metrics\n\nResponse Time 27 days Resolution Time",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Report a vulnerability - Vodafone",
+            "url": "https://www.vodafone.om/report-a-vulnerability",
+            "snippet": "Report a vulnerability - Vodafone\n\n## Reporting vulnerabilities\n\nWe value the expertise and help of the cyber security community in helping us maintain our high security standards. You can use this si",
+            "published": "2022-10-10T13:19:14.000Z",
             "score": 0
           }
         ],
@@ -4570,9 +4570,9 @@
           },
           {
             "title": "zerozenxlabs/ZDI-24-020",
-            "url": "https://github.com/zerozenxlabs/ZDI-24-020/",
-            "snippet": "# Repository: zerozenxlabs/ZDI-24-020\n\n- Stars: 129\n- Forks: 16\n- Watchers: 129\n- Open issues: 1\n- Primary language: C\n- Languages: C (82.9%), Python (17.0%), Makefile (0.2%)\n- Default branch: main\n- ",
-            "published": "2024-01-16T21:51:08.000Z",
+            "url": "https://github.com/zerozenxlabs/ZDI-24-020",
+            "snippet": "# zerozenxlabs/ZDI-24-020\n\n- Stars: 130\n- Forks: 16\n- Watchers: 130\n- Open issues: 1\n- Default branch: main\n- Created: 2024-01-16T21:51:08Z\n\n## Languages\n\n- C\n- Makefile\n- Python\n\n## Top Contributors\n",
+            "published": null,
             "score": 0.5
           },
           {
@@ -4585,9 +4585,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-23T05:03:30.172Z"
+        "enriched_at": "2026-07-02T04:59:08.037Z"
       },
-      "timestamp": "2026-06-23T05:03:31.776Z"
+      "timestamp": "2026-07-02T04:59:09.877Z"
     },
     "frontegg": {
       "intel": {
@@ -4607,10 +4607,10 @@
             "score": 0.5
           },
           {
-            "title": "Cycode Implements Frontegg’s Self-Served User Management to Focus on Innovation",
-            "url": "https://frontegg.com/wp-content/uploads/2021/05/Case-Study-Cycode.pdf",
-            "snippet": "### Cycode Implements Frontegg’s Self-Served User Management to Focus on Innovation\n\n#### The Problem - Lack of End-to-End User Management\n\nRapid implementation. Quick onboarding. Professional support",
-            "published": null,
+            "title": "FrontAccounting RCE: When htmlspecialchars Meets Path Traversal — Jiva Security",
+            "url": "https://jivasecurity.com/writeups/frontaccounting-rce-attachment-upload-cve-2026-40521",
+            "snippet": "FrontAccounting RCE: When htmlspecialchars Meets Path Traversal — Jiva Security\n\nSeries\n\nFrontAccounting 2.4.19 Vulnerability Research — View all write-ups\n\n## Series Introduction\n\nThis is Part 1 of a",
+            "published": "2026-06-27T15:24:02.000Z",
             "score": 0
           }
         ],
@@ -4631,18 +4631,18 @@
             "score": 0.5
           },
           {
-            "title": "2026/CVE-2026-22191-POC.py at master · kmkz/Exploits",
-            "url": "https://github.com/kmkz/Exploits/blob/master/2026/CVE-2026-22191-POC.py",
-            "snippet": "# File: kmkz/Exploits/2026/CVE-2026-22191-POC.py\n\n- Repository: kmkz/Exploits | Exploits and advisories | 211 stars | Python\n- Branch: master\n\n```py\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-22191 - SicuroW",
-            "published": null,
+            "title": "frontegg-samples/frontegg-api-access-control",
+            "url": "https://github.com/frontegg-samples/frontegg-api-access-control",
+            "snippet": "# Repository: frontegg-samples/frontegg-api-access-control\n\n- Stars: 0\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: TypeScript\n- Languages: TypeScript\n- Default branch: main\n- Created",
+            "published": "2024-09-30T20:34:05.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-23T05:03:31.776Z"
+        "enriched_at": "2026-07-02T04:59:09.877Z"
       },
-      "timestamp": "2026-06-23T05:03:33.193Z"
+      "timestamp": "2026-07-02T04:59:11.228Z"
     },
     "indrive": {
       "intel": {
@@ -4655,17 +4655,17 @@
             "score": 1
           },
           {
+            "title": "$2,000 Bounty: 0000 OTP Bypass Leads to Phone Number Takeover in inDrive | by Monika sharma | OSINT Team",
+            "url": "https://osintteam.blog/2-000-bounty-0000-otp-bypass-leads-to-phone-number-takeover-in-indrive-99f29f46e793",
+            "snippet": "$2,000 Bounty: 0000 OTP Bypass Leads to Phone Number Takeover in inDrive | by Monika sharma | OSINT Team\n\nSign up\n\nGet app\n\nSign up\n\n## OSINT Team\n\nWe teach OSINT from multiple perspectives. Cybersecu",
+            "published": "2025-07-05T02:48:08.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
             "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
             "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm System.Exit, and today we're unraveling a recent bug bounty discovery by cyp",
             "published": "2024-01-17T15:09:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program | HackerNoon",
-            "url": "https://hackernoon.com/strengthening-cybersecurity-breaking-down-indrives-bug-bounty-program",
-            "snippet": "20,451 reads\n\n# Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program\n\nby\n\nTLDR\n\nTranslations\n\nYour browser does not support the`audio` element.\n\nbyinDrive.Tech@indrivetech\n\nTeam of ",
-            "published": "2024-12-11T19:54:10.000Z",
             "score": 0
           }
         ],
@@ -4674,8 +4674,8 @@
           {
             "title": "alexkochnev1987/ctf",
             "url": "https://github.com/alexkochnev1987/ctf",
-            "snippet": "# Repository: alexkochnev1987/ctf\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Smali\n- Languages: Smali (84.8%), Python (14.9%), JavaScript (0.2%), HTML, PHP, CSS, Shell, ",
-            "published": "2025-12-25T08:14:00.000Z",
+            "snippet": "# alexkochnev1987/ctf\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-12-25T08:14:00Z\n\n## Languages\n\n- C\n- CSS\n- Dockerfile\n- EJS\n- Go\n- HTML\n- JavaScript\n",
+            "published": null,
             "score": 1
           },
           {
@@ -4687,39 +4687,39 @@
           },
           {
             "title": "getdrive/PoC",
-            "url": "https://github.com/getdrive/PoC",
-            "snippet": "# getdrive/PoC\n\nPoC. Severity critical.\n\n- Stars: 73\n- Forks: 15\n- Watchers: 73\n- Open issues: 0\n- Default branch: main\n- Created: 2023-08-05T11:02:23Z\n\n## Languages\n\n- PHP\n- Python\n- Ruby\n- Shell\n\n##",
-            "published": null,
+            "url": "https://github.com/getdrive/poc",
+            "snippet": "# Repository: getdrive/PoC\n\nPoC. Severity critical.\n\n- Stars: 71\n- Forks: 15\n- Watchers: 10\n- Open issues: 0\n- Primary language: Ruby\n- Languages: Ruby (51.7%), Python (44.8%), Shell (3.3%), PHP (0.2%",
+            "published": "2023-08-05T11:02:23.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-23T05:03:33.193Z"
+        "enriched_at": "2026-07-02T04:59:11.228Z"
       },
-      "timestamp": "2026-06-23T05:03:34.711Z"
+      "timestamp": "2026-07-02T04:59:12.579Z"
     },
     "amazonvrp-devices": {
       "intel": {
         "writeups": [
           {
-            "title": "For more info contact DTP @ Brand & Creative Production Team",
-            "url": "https://www.bitdefender.com/files/News/CaseStudies/study/430/Bitdefender-PR-Whitepaper-AMZFr-creat6696-en-EN.pdf",
-            "snippet": "www.bitdefender.com\n\nSecurity Vulnerabilities identified in Amazon Fire TV Stick, Insignia FireOS TV Series\n\nWHITEPAPER\n\nContents\n\nContents \nVulnerabilities at a glance ... 3 \nDisclosure timeline ... ",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "KindleDrip - From Your Kindle's Email Address to Using Your Credit Card | Yogev (Yogi) Bar-On",
             "url": "https://yogev.io/posts/kindledrip/",
             "snippet": "KindleDrip - From Your Kindle's Email Address to Using Your Credit Card | Yogev (Yogi) Bar-On\n\nThis is the story of how I received an $18K bug bounty for a critical Amazon Kindle vulnerability, copied",
             "published": "2021-01-22T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "For more info contact DTP @ Brand & Creative Production Team",
+            "url": "https://www.bitdefender.com/files/News/CaseStudies/study/430/Bitdefender-PR-Whitepaper-AMZFr-creat6696-en-EN.pdf",
+            "snippet": "www.bitdefender.com\n\n## Security Vulnerabilities identified in Amazon Fire TV Stick, Insignia FireOS TV Series\n\n##### WHITEPAPER\n\n### Contents\n\n### Contents\n\nVulnerabilities at a glance ... 3 \nDisclos",
+            "published": null,
             "score": 0.5
           },
           {
             "title": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium",
             "url": "https://medium.com/@baronyogev/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08",
-            "snippet": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card",
+            "snippet": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# KindleDrip — From Your Kindle",
             "published": "2021-01-21T09:31:12.000Z",
             "score": 0
           }
@@ -4727,18 +4727,11 @@
         "twitter": [],
         "github": [
           {
-            "title": "CVE-2018-11019.md at master · datadancer/HIAFuzz",
-            "url": "https://github.com/datadancer/HIAFuzz/blob/master/CVE-2018-11019.md",
-            "snippet": "# File: datadancer/HIAFuzz/CVE-2018-11019.md\n\n- Repository: datadancer/HIAFuzz | Hybrid Interface Aware Fuzz for Android Kernel Drivers | 31 stars | Python\n- Branch: master\n\n```md\n# CVE-2018-11019\nThe",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "CVE-2018-11020.md",
             "url": "https://github.com/datadancer/HIAFuzz/blob/master/CVE-2018-11020.md",
             "snippet": "# CVE-2018-11020.md\n\n- Branch: master\n- Repository: datadancer/HIAFuzz\n\n---\n\n# CVE-2018-11020\nThese page show one of the practical CVEs that Found. I reported these bugs to Security@amazon.com on On 5",
             "published": null,
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "face0xff/kindle-audible-exploit-chain",
@@ -4749,10 +4742,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-06-23T05:03:34.712Z"
+        "total_results": 5,
+        "enriched_at": "2026-07-02T04:59:12.580Z"
       },
-      "timestamp": "2026-06-23T05:03:36.191Z"
+      "timestamp": "2026-07-02T04:59:13.913Z"
     },
     "rei_bbp": {
       "intel": {
@@ -4805,9 +4798,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-23T05:03:36.191Z"
+        "enriched_at": "2026-07-02T04:59:13.913Z"
       },
-      "timestamp": "2026-06-23T05:03:37.626Z"
+      "timestamp": "2026-07-02T04:59:15.296Z"
     },
     "mergify": {
       "intel": {
@@ -4837,16 +4830,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "yfolias/trivy-compromise-poc",
-            "url": "https://github.com/yfolias/trivy-compromise-poc",
-            "snippet": "# Repository: yfolias/trivy-compromise-poc\n\nA simple Proof of Concept to demonstrate and provide a high level understanding of how the trivy compromise happened.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n-",
-            "published": "2026-04-07T02:22:37.000Z",
-            "score": 1
-          },
-          {
             "title": "Eyodav/CVE-2025-34159",
             "url": "https://github.com/Eyodav/CVE-2025-34159",
             "snippet": "# Eyodav/CVE-2025-34159\n\nA critical Remote Code Execution (RCE) vulnerability exists in Coolify's application deployment workflow. This flaw allows a low-privileged member to inject arbitrary Docker C",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "yfolias/trivy-compromise-poc",
+            "url": "https://github.com/yfolias/trivy-compromise-poc",
+            "snippet": "# yfolias/trivy-compromise-poc\n\nA simple Proof of Concept to demonstrate and provide a high level understanding of how the trivy compromise happened.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues",
             "published": null,
             "score": 0.5
           },
@@ -4860,9 +4853,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-23T05:03:37.626Z"
+        "enriched_at": "2026-07-02T04:59:15.296Z"
       },
-      "timestamp": "2026-06-23T05:03:39.078Z"
+      "timestamp": "2026-07-02T04:59:16.591Z"
     },
     "coinhako": {
       "intel": {
@@ -4915,9 +4908,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-23T05:03:39.079Z"
+        "enriched_at": "2026-07-02T04:59:16.591Z"
       },
-      "timestamp": "2026-06-23T05:03:40.464Z"
+      "timestamp": "2026-07-02T04:59:17.949Z"
     },
     "arkose_labs": {
       "intel": {
@@ -4930,49 +4923,49 @@
             "score": 1
           },
           {
-            "title": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement",
-            "url": "https://blog.crawlex.net/blog/arkose-funcaptcha-internals/",
-            "snippet": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement Skip to content\n\nMost CAPTCHAs ask you to prove you are human by doing something a computer is supposed to be bad at: re",
-            "published": "2026-05-16T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Private Bug Bounty Program with Bugcrowd | Arkose Labs",
             "url": "https://www.arkoselabs.com/latest-news/arkose-labs-announces-private-bug-bounty-program-with-bugcrowd-to-strengthen-fraud-prevention-system/",
             "snippet": "Private Bug Bounty Program with Bugcrowd | Arkose Labs\n\n# Arkose Labs Announces Private Bug Bounty Program with Bugcrowd to Strengthen Fraud Prevention System\n\nArkose Labs the leading provider of adva",
             "published": "2019-07-24T19:52:50.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement",
+            "url": "https://blog.crawlex.net/blog/arkose-funcaptcha-internals/",
+            "snippet": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement Skip to content\n\nMost CAPTCHAs ask you to prove you are human by doing something a computer is supposed to be bad at: re",
+            "published": "2026-05-16T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "0xDaeras/Flowise-CVE-2025-58434-Chain-59528",
-            "url": "https://github.com/0xDaeras/FlowiseAI-CVE-Chain-PoC",
-            "snippet": "# Repository: 0xDaeras/Flowise-CVE-2025-58434-Chain-59528\n\nFlowiseAI CVE-2025-58434 & CVE-2025-59528 exploit PoC, demonstrating unauthenticated ATO via reset token leakage, followed by authenticated R",
-            "published": "2026-05-07T16:57:18.000Z",
-            "score": 1
-          },
-          {
             "title": "exploit.py at main · tc4dy/CVE-2026-29000-PoC-Exploit",
             "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
             "snippet": "# File: tc4dy/CVE-2026-29000-PoC-Exploit/exploit.py\n\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit | CVE-2026-29000 – pac4j-jwt Authentication Bypass (🔥 CVSS 10.0). One-click admin forge via public ",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "0xDaeras/Flowise-CVE-2025-58434-Chain-59528",
+            "url": "https://github.com/0xDaeras/FlowiseAI-CVE-Chain-PoC",
+            "snippet": "# Repository: 0xDaeras/Flowise-CVE-2025-58434-Chain-59528\n\nFlowiseAI CVE-2025-58434 & CVE-2025-59528 exploit PoC, demonstrating unauthenticated ATO via reset token leakage, followed by authenticated R",
+            "published": "2026-05-07T16:57:18.000Z",
             "score": 0.5
           },
           {
-            "title": "Augmaster/POC-CVE-2026-23520",
-            "url": "https://github.com/Augmaster/POC-CVE-2026-23520",
-            "snippet": "# Augmaster/POC-CVE-2026-23520\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-21T21:52:49Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- Augmaster (5",
+            "title": "kartik2005221/CVE-2025-58434-AND-59528-POC",
+            "url": "https://github.com/kartik2005221/CVE-2025-58434-AND-59528-POC",
+            "snippet": "# kartik2005221/CVE-2025-58434-AND-59528-POC\n\nCombined PoC for CVE-2025-28434 and CVE-2025-59528\n\n- Stars: 16\n- Forks: 0\n- Watchers: 16\n- Open issues: 0\n- Default branch: master\n- Created: 2026-04-13T",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-23T05:03:40.464Z"
+        "enriched_at": "2026-07-02T04:59:17.949Z"
       },
-      "timestamp": "2026-06-23T05:03:41.877Z"
+      "timestamp": "2026-07-02T04:59:19.179Z"
     },
     "alsco": {
       "intel": {
@@ -5016,18 +5009,18 @@
             "score": 0.5
           },
           {
-            "title": "wesmar/CVE-2026-31431",
-            "url": "https://github.com/wesmar/CVE-2026-31431",
-            "snippet": "# Repository: wesmar/CVE-2026-31431\n\nCVE-2026-31431 is a bug in the handling of scatter-gather I/O operations and page cache references in the Linux kernel cryptographic subsystem — specifically in th",
-            "published": "2026-04-30T13:38:34.000Z",
+            "title": "e1st/CVE-2025-56015",
+            "url": "https://github.com/e1st/CVE-2025-56015",
+            "snippet": "# Repository: e1st/CVE-2025-56015\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (67.0%), Dockerfile (17.2%), Go Template (15.0%), Shell (0.8%)\n- ",
+            "published": "2026-04-07T07:07:08.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-23T05:03:41.877Z"
+        "enriched_at": "2026-07-02T04:59:19.179Z"
       },
-      "timestamp": "2026-06-23T05:03:43.688Z"
+      "timestamp": "2026-07-02T04:59:20.491Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5521,17 +5514,17 @@
       "intel": {
         "writeups": [
           {
-            "title": "Deribit Incident Analysis - CertiK",
-            "url": "https://www.certik.com/blog/deribit-incident-analysis",
-            "snippet": "Deribit Incident Analysis - CertiK\n\n# Deribit Incident Analysis\n\nResearch Incident Analysis Nov 22, 2022\n\n## TL;DR\n\nOn November 2nd, 2022, Deribit Exchange’s hot wallet was compromised. Client funds a",
-            "published": "2022-11-22T05:00:00.000Z",
-            "score": 1
-          },
-          {
             "title": "Deribit $28 Million Hot Wallet Hack Analysis | by QuillAudits Team | Medium | Medium",
             "url": "https://quillaudits.medium.com/deribit-28-million-hot-wallet-hack-analysis-quillaudits-1ae00c6b946d",
             "snippet": "Deribit $28 Million Hot Wallet Hack Analysis | by QuillAudits Team | Medium | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Deribit’s $28 Million Hot Wallet Hack Analysis | QuillAudits\n\nQuillAudits - Web3 Secu",
             "published": "2022-11-08T12:40:46.000Z",
+            "score": 1
+          },
+          {
+            "title": "Deribit Incident Analysis - CertiK",
+            "url": "https://www.certik.com/blog/deribit-incident-analysis",
+            "snippet": "Deribit Incident Analysis - CertiK\n\n# Deribit Incident Analysis\n\nResearch Incident Analysis Nov 22, 2022\n\n## TL;DR\n\nOn November 2nd, 2022, Deribit Exchange’s hot wallet was compromised. Client funds a",
+            "published": "2022-11-22T05:00:00.000Z",
             "score": 0.5
           },
           {
@@ -5568,9 +5561,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-20T05:17:21.334Z"
+        "enriched_at": "2026-07-02T04:59:20.492Z"
       },
-      "timestamp": "2026-06-20T05:17:22.822Z"
+      "timestamp": "2026-07-02T04:59:21.776Z"
     },
     "sorare": {
       "intel": {
@@ -6058,5 +6051,5 @@
       "timestamp": "2026-06-28T05:18:53.055Z"
     }
   },
-  "lastRun": "2026-07-01T05:23:10.437Z"
+  "lastRun": "2026-07-02T04:59:21.777Z"
 }
