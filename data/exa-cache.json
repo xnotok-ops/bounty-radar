@@ -4002,16 +4002,16 @@
             "score": 1
           },
           {
-            "title": "Redox Bug Bounty",
-            "url": "https://www.bountytalk.org/index.php?topic=24283.0",
-            "snippet": "Redox Bug Bounty\n\nForums Advertising & Bounty Hub\n\nWelcome, Guest. Please login or register.\n\n1 Hour 1 Day 1 Week 1 Month Forever\n\nLogin with username, password and session length\n\n## News:\n\nBountytal",
+            "title": "redox/CVE-2024-57492/README.md",
+            "url": "https://github.com/Marsman1996/pocs/blob/master/redox/CVE-2024-57492/README.md",
+            "snippet": "# redox/CVE-2024-57492/README.md\n\n- Branch: master\n- Repository: Marsman1996/pocs\n\n---\n\n# CVE-2024-57492\nThis is the brief description of [CVE-2024-57492](https://www.cve.org/CVERecord?id=CVE-2024-574",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "NVD - CVE-2024-57493",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-57493",
-            "snippet": "NVD - CVE-2024-57493\n\n## CVE-2024-57493 Detail\n\n### Description\n\nAn issue in redoxOS relibc before commit 98aa4ea5 allows a local attacker to cause a denial of service via the setsockopt function.\n\n##",
+            "title": "Redox Bug Bounty",
+            "url": "https://www.bountytalk.org/index.php?topic=24283.0",
+            "snippet": "Redox Bug Bounty\n\nForums Advertising & Bounty Hub\n\nWelcome, Guest. Please login or register.\n\n1 Hour 1 Day 1 Week 1 Month Forever\n\nLogin with username, password and session length\n\n## News:\n\nBountytal",
             "published": null,
             "score": 0
           }
@@ -4033,18 +4033,18 @@
             "score": 0.5
           },
           {
-            "title": "pocs/redox at master · Marsman1996/pocs · GitHub",
-            "url": "https://github.com/Marsman1996/pocs/tree/master/redox",
-            "snippet": "## Files\n\n# redox\n\n# redox\n\nTop\n\nLast commit message\n\nLast commit date\n\nView all files\n\npocs/redox at master · Marsman1996/pocs · GitHub\n[Skip to content](#start-of-content)\n## Navigation Menu\nToggle ",
-            "published": "2018-08-14T01:49:12.000Z",
+            "title": "rxstd/CVE-2025-55182-poc",
+            "url": "https://github.com/rxstd/CVE-2025-55182-poc",
+            "snippet": "# Repository: rxstd/CVE-2025-55182-poc (fork of [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research))\n\nCVE-2025-55182 POC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issue",
+            "published": "2025-12-04T00:04:13.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:32.014Z"
+        "enriched_at": "2026-07-04T04:36:48.762Z"
       },
-      "timestamp": "2026-06-26T05:10:33.304Z"
+      "timestamp": "2026-07-04T04:36:50.230Z"
     },
     "okg": {
       "intel": {
@@ -4057,16 +4057,16 @@
             "score": 1
           },
           {
-            "title": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge",
-            "url": "https://atomicedge.io/cve-proof/cve-2025-68851-okay-toolkit-version-2-3-medium-vulnerability-proof-of-concept/",
-            "snippet": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-68851: Okay Toolkit <= 2.3 – Reflected Cross-Site Scripting (okay-toolkit)\n\nSeverity Medium (CVSS 6",
+            "title": "Untitled",
+            "url": "https://hackmd.io/Vn1IK8BoTh-Al7UGGH7hmA",
+            "snippet": "---\n# System prepended metadata\n\ntitle: Untitled\n\n---\n\n# Vulnerability Report: 0G Foundation Reward Contract Emergency Withdrawal Exploit\n\n---\n\n## 1. Executive Summary\n\n**Vulnerability Name:** 0G Foun",
             "published": null,
             "score": 0.5
           },
           {
             "title": "My First Bug Bounty Story. How I found and exploited a Hard-Coded… | by Zaid Arif | Medium",
             "url": "https://medium.com/@zaid.zrf/my-first-bug-bounty-story-df3abe7a7936",
-            "snippet": "My First Bug Bounty Story. How I found and exploited a Hard-Coded… | by Zaid Arif | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# My First Bug Bounty Story\n\n4 min read\n\nJul 4, 2025\n\n--\n\n3\n\nShare\n\nHello Friend,",
+            "snippet": "My First Bug Bounty Story. How I found and exploited a Hard-Coded… | by Zaid Arif | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# My First Bug Bounty Story\n\nZaid Arif\n",
             "published": "2025-07-04T18:21:23.000Z",
             "score": 0
           }
@@ -4097,9 +4097,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:33.304Z"
+        "enriched_at": "2026-07-04T04:36:50.230Z"
       },
-      "timestamp": "2026-06-26T05:10:34.627Z"
+      "timestamp": "2026-07-04T04:36:51.729Z"
     },
     "1win_com": {
       "intel": {
@@ -4175,7 +4175,7 @@
           },
           {
             "title": "OpenZeppelin Audit Report",
-            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/WHITELIST-CONTEXTS-AUDIT/",
+            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/EVM-TOKENIZATION-AUDIT/",
             "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., \nis providing access to the security audit reports conducted by O",
             "published": null,
             "score": 0
@@ -4184,32 +4184,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "mstpr-brainbot - Pool can be drained · Issue #68 · sherlock-audit/2024-03-woofi-swap-judging",
-            "url": "https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/68",
-            "snippet": "# Issue: sherlock-audit/2024-03-woofi-swap-judging #68\n\n- Repository: sherlock-audit/2024-03-woofi-swap-judging | 3 stars | Python\n\n## mstpr-brainbot - Pool can be drained\n\n- Author: [@sherlock-admin2",
-            "published": "2024-03-20T15:19:54.000Z",
+            "title": "User can erase their position debt for free",
+            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/215",
+            "snippet": "# User can erase their position debt for free\n\n- State: open\n- Author: c4-bot-4\n- Created: 2024-03-11T15:57:32Z\n- Updated: 2024-04-29T14:25:52Z\n- Repository: code-423n4/2024-02-wise-lending-findings\n-",
+            "published": null,
             "score": 1
           },
           {
-            "title": "Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode · Issue #260 · code-423n4/2024-02-wise-lending-findings",
+            "title": "Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode",
             "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/260",
-            "snippet": "# Issue: code-423n4/2024-02-wise-lending-findings #260\n\n- Repository: code-423n4/2024-02-wise-lending-findings | 10 stars\n\n## Withdrawing uncollateralized deposits is possible even though the position",
-            "published": "2024-03-11T18:28:20.000Z",
+            "snippet": "# Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode\n\n- State: open\n- Author: c4-bot-1\n- Created: 2024-03-11T18:28:20Z\n- Updated: 2024-04-29T14:31:16Z\n- ",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "exploit.py at main · tc4dy/CVE-2026-29000-PoC-Exploit",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# File: tc4dy/CVE-2026-29000-PoC-Exploit/exploit.py\n\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit | CVE-2026-29000 – pac4j-jwt Authentication Bypass (🔥 CVSS 10.0). One-click admin forge via public ",
+            "title": "User can DoS liquidations for extended period of time",
+            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/185",
+            "snippet": "# User can DoS liquidations for extended period of time\n\n- State: closed\n- Author: c4-bot-4\n- Created: 2024-03-11T11:23:51Z\n- Updated: 2024-03-26T19:13:02Z\n- Repository: code-423n4/2024-02-wise-lendin",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:34.628Z"
+        "enriched_at": "2026-07-04T04:36:51.729Z"
       },
-      "timestamp": "2026-06-26T05:10:35.883Z"
+      "timestamp": "2026-07-04T04:36:53.265Z"
     },
     "pornbox": {
       "intel": {
@@ -4241,8 +4241,8 @@
           {
             "title": "pbuff07/PoCBox",
             "url": "https://github.com/pbuff07/PoCBox",
-            "snippet": "# Repository: pbuff07/PoCBox (fork of [0verSp4ce/PoCBox](https://github.com/0verSp4ce/PoCBox))\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary",
-            "published": "2025-03-05T12:53:39.000Z",
+            "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
+            "published": null,
             "score": 1
           },
           {
@@ -4262,9 +4262,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:35.883Z"
+        "enriched_at": "2026-07-04T04:36:53.265Z"
       },
-      "timestamp": "2026-06-26T05:10:37.291Z"
+      "timestamp": "2026-07-04T04:36:54.763Z"
     },
     "tron_dao": {
       "intel": {
@@ -4317,9 +4317,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:37.291Z"
+        "enriched_at": "2026-07-04T04:36:54.763Z"
       },
-      "timestamp": "2026-06-26T05:10:38.524Z"
+      "timestamp": "2026-07-04T04:36:56.138Z"
     },
     "superbet": {
       "intel": {
@@ -4358,23 +4358,23 @@
           {
             "title": "icarot/superUpset",
             "url": "https://github.com/icarot/superUpset/",
-            "snippet": "# Repository: icarot/superUpset\n\nThis is a tool focused in exploit the default session configuration of Superset, that is Flask-based, and it depends on the another tool called flask-unsign (https://g",
-            "published": "2026-01-05T00:55:20.000Z",
+            "snippet": "# icarot/superUpset\n\nThis is a tool focused in exploit the default session configuration of Superset, that is Flask-based, and it depends on the another tool called flask-unsign (https://github.com/Pa",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "oscar-mine/CVE-2026-23980-Exploit",
-            "url": "https://github.com/oscar-mine/CVE-2026-23980-Exploit",
-            "snippet": "# Repository: oscar-mine/CVE-2026-23980-Exploit\n\nExploit for CVE-2026-23980 — Authenticated error-based SQL injection in Apache Superset < 6.0.0 via sqlExpression bypass\n\n- Stars: 0\n- Forks: 0\n- Watch",
-            "published": "2026-04-12T15:44:33.000Z",
+            "title": "exploit.py at main · jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
+            "url": "https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE/blob/main/exploit.py",
+            "snippet": "# File: jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE/exploit.py\n\n- Repository: jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | 28 stars | Python\n- Branch: main\n\n```py\n# ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:38.524Z"
+        "enriched_at": "2026-07-04T04:36:56.138Z"
       },
-      "timestamp": "2026-06-26T05:10:40.122Z"
+      "timestamp": "2026-07-04T04:36:57.519Z"
     },
     "magic-eden": {
       "intel": {
@@ -4394,10 +4394,10 @@
             "score": 0.5
           },
           {
-            "title": "Magic Eden Issue Leads to Fake NFT Listings, Will Refund Affected Users",
-            "url": "https://www.coindesk.com/web3/2023/01/04/magic-eden-issue-leads-to-fake-nft-listings",
-            "snippet": "Magic Eden Issue Leads to Fake NFT Listings, Will Refund Affected Users\n\n# Magic Eden Issue Leads to Fake NFT Listings, Will Refund Affected Users\n\n## An issue on the popular NFT marketplace allowed i",
-            "published": "2023-01-04T19:06:10.000Z",
+            "title": "Magic Eden to refund users after fake NFTs sold due to exploit",
+            "url": "https://cointelegraph.com/news/magic-eden-to-refund-users-after-25-fake-nfts-sold-due-to-exploit",
+            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit\n\n \n\n \n\n \n\n \n\n Ecosystem \n\n \n\n \n\n \n\n \n\n \n\n ADA$0.2464 0.93% BNB$617.43 0.86% XMR$334.60 1.62% TRX$0.322 2.20% ETH$2,054 2.60% LINK$8.70 2.",
+            "published": "2023-01-05T02:49:02.000Z",
             "score": 0
           }
         ],
@@ -4418,18 +4418,18 @@
             "score": 0.5
           },
           {
-            "title": "MoonbirdsSploit.sol",
-            "url": "https://github.com/dhanjani/MoonbirdsSploit/blob/main/MoonbirdsSploit.sol",
-            "snippet": "# MoonbirdsSploit.sol\n\n- Branch: main\n- Repository: dhanjani/MoonbirdsSploit\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\n// Creator: Nitesh Dhanjani\n\npragma solidity 0.8.14;\n\nimport \"@openzeppelin/co",
+            "title": "PUSH0 - New staking positions still gets the full reward amount as with old stakings, diluting rewards for old stakers",
+            "url": "https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/74",
+            "snippet": "# PUSH0 - New staking positions still gets the full reward amount as with old stakings, diluting rewards for old stakers\n\n- State: open\n- Author: sherlock-admin4\n- Created: 2024-07-15T12:52:15Z\n- Upda",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:40.123Z"
+        "enriched_at": "2026-07-04T04:36:57.520Z"
       },
-      "timestamp": "2026-06-26T05:10:41.378Z"
+      "timestamp": "2026-07-04T04:36:59.004Z"
     },
     "boozt": {
       "intel": {
@@ -4459,32 +4459,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "inventory/Boozt Fashion AB at main · trickest/inventory · GitHub",
-            "url": "https://github.com/trickest/inventory/tree/main/Boozt%20Fashion%20AB",
-            "snippet": "inventory/Boozt Fashion AB at main · trickest/inventory · GitHub\n\n/ inventory Public\n\nStar 1.5k\n\n- Pricing\n- Notifications\n- Fork 272\n\n \n\n## Files\n\n main\n\n# Boozt Fashion AB\n\nHistory\n\n main\n\n# Boozt F",
-            "published": "2022-02-28T13:58:05.000Z",
-            "score": 1
-          },
-          {
-            "title": "archives/nutzboot-RCE-1/report.md at main · Xzzz111/exps",
-            "url": "https://github.com/Xzzz111/exps/blob/main/archives/nutzboot-RCE-1/report.md",
-            "snippet": "# File: Xzzz111/exps/archives/nutzboot-RCE-1/report.md\n\n- Repository: Xzzz111/exps | some exps of cve | 0 stars\n- Branch: main\n\n```md\n# NutzBoot LiteRPC HTTP endpoint unauthenticated Java deserializat",
+            "title": "exploit.py",
+            "url": "https://github.com/aelmokhtar/CVE-2024-34716/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: aelmokhtar/CVE-2024-34716\n\n---\n\nimport argparse, requests, subprocess, time, threading, atexit, http.server, socketserver,zipfile,shutil,os\nfrom bs4 import B",
             "published": null,
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "nmmorette/CVE-2024-34102",
             "url": "https://github.com/nmmorette/CVE-2024-34102",
             "snippet": "# Repository: nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- License: MIT License (",
             "published": "2026-02-13T18:02:36.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "kareemBambo/Boof",
+            "url": "https://github.com/kareemBambo/Boof",
+            "snippet": "# Repository: kareemBambo/Boof\n\nBOF is script for automation bufferOverFlow attack on sync breeze 10.0.8\n\n- Stars: 2\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: P",
+            "published": "2023-03-14T00:54:45.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:41.378Z"
+        "enriched_at": "2026-07-04T04:36:59.005Z"
       },
-      "timestamp": "2026-06-26T05:10:42.662Z"
+      "timestamp": "2026-07-04T04:37:00.377Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -4504,20 +4504,20 @@
             "score": 0.5
           },
           {
-            "title": "My Experience Reporting an XSS Vulnerability on Shein to HackerOne | by 24BkDoor | Medium",
-            "url": "https://medium.com/@24bkdoor/my-experience-reporting-an-xss-vulnerability-on-shein-to-hackerone-f482279a5e19",
-            "snippet": "My Experience Reporting an XSS Vulnerability on Shein to HackerOne | by 24BkDoor | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# My Experience Reporting an XSS Vulnera",
-            "published": "2025-04-02T11:28:54.000Z",
+            "title": "Sherlock Yield Strategy Bug Bounty Post-Mortem",
+            "url": "https://mirror.xyz/0xE400820f3D60d77a3EC8018d44366ed0d334f93C/LOZF1YBcH1eBdxlC6HP223cAMeTpNgQ-Kc4EjQuxmGA",
+            "snippet": "# Sherlock Yield Strategy Bug Bounty Post-Mortem\n\nBy Sherlock · 2022-08-17\n\n---\n\n## Sherlock Yield Strategy Bug Bounty Post-Mortem\n\n> NOTE FOR SHERLOCK LIQUIDITY PROVIDERS: This type of bug bounty pay",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "Satirush/CVE-2025-14174-Poc",
-            "url": "https://github.com/Satirush/CVE-2025-14174-Poc",
-            "snippet": "# Satirush/CVE-2025-14174-Poc\n\nProof-of-Concept exploit for CVE-2025-14174 (EUVD-2025-203113) - Memory corruption in ANGLE allowing out-of-bounds access and RCE in web browsers. Reliable on iOS/Androi",
-            "published": null,
+            "title": "g1nt0n1x/copy-fail-CVE-2026-31431-shell",
+            "url": "https://github.com/g1nt0n1x/copy-fail-CVE-2026-31431-shell",
+            "snippet": "# Repository: g1nt0n1x/copy-fail-CVE-2026-31431-shell\n\nPoC shell exploit for CVE-2026-31431 (copy_fail) — Linux LPE via AF_ALG + splice page-cache overwrite. Single-shot, no race condition, kernel 4.9",
+            "published": "2026-05-04T07:53:33.000Z",
             "score": 1
           },
           {
@@ -4528,18 +4528,18 @@
             "score": 0.5
           },
           {
-            "title": "beraltajacob-dotcom/SHEERID-VERIF-",
-            "url": "https://github.com/beraltajacob-dotcom/SHEERID-VERIF-",
-            "snippet": "# Repository: beraltajacob-dotcom/SHEERID-VERIF- (from template [google-gemini/aistudio-repository-template](https://github.com/google-gemini/aistudio-repository-template))\n\ntools for google one sheer",
-            "published": "2026-01-18T10:52:40.000Z",
+            "title": "rvzsec/react2shell",
+            "url": "https://github.com/rvzsec/react2shell",
+            "snippet": "# Repository: rvzsec/react2shell\n\nreact2shell - CVE-2025-55182 (Next.js: CVE-2025-66478) - Unauthenticated RCE in React Server Components (Flight Protocol) - PoC Exploit\n\n- Stars: 0\n- Forks: 0\n- Watch",
+            "published": "2026-06-05T23:09:56.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:42.662Z"
+        "enriched_at": "2026-07-04T04:37:00.377Z"
       },
-      "timestamp": "2026-06-26T05:10:43.977Z"
+      "timestamp": "2026-07-04T04:37:01.782Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -5895,9 +5895,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-26T05:10:30.409Z"
+        "enriched_at": "2026-07-04T04:36:47.205Z"
       },
-      "timestamp": "2026-06-26T05:10:32.014Z"
+      "timestamp": "2026-07-04T04:36:48.761Z"
     },
     "anthropic": {
       "intel": {
@@ -6058,5 +6058,5 @@
       "timestamp": "2026-06-28T05:18:53.055Z"
     }
   },
-  "lastRun": "2026-07-03T04:43:18.520Z"
+  "lastRun": "2026-07-04T04:37:01.782Z"
 }
