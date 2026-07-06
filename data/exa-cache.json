@@ -1899,10 +1899,10 @@
             "score": 0.5
           },
           {
-            "title": "December 2024 Unauthorized Kong Ingress Controller 3.4.0 Build  | Kong Inc.",
-            "url": "https://konghq.com/blog/product-releases/december-2024-unauthorized-kong-ingress-controller-3-4-0-build",
-            "snippet": "December 2024 Unauthorized Kong Ingress Controller 3.4.0 Build | Kong Inc.\n\nDISCOVER & TEST KONNECT APIS IN REAL TIME WITH INSOMNIA 13 MIGRATE 50% FASTER WITH KONG MIGRATION SERVICES DON'T MISS OUT ON",
-            "published": "2023-08-14T04:18:26.000Z",
+            "title": "CVE-2026-6338 - kong-enterprise-gateway: HTTP Request Smuggling",
+            "url": "https://support.konghq.com/support/s/article/CVE-2026-6338",
+            "snippet": "CVE-2026-6338 - kong-enterprise-gateway: HTTP Request Smuggling\n\nLoading\n\nLog In\n\nCVE-2026-6338 - kong-enterprise-gateway: HTTP Request Smuggling\n\ntime Jun 5, 26 • Knowledge • Article Number: 00000292",
+            "published": null,
             "score": 0
           }
         ],
@@ -1932,9 +1932,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-28T05:18:49.716Z"
+        "enriched_at": "2026-07-06T05:14:14.363Z"
       },
-      "timestamp": "2026-06-28T05:18:51.595Z"
+      "timestamp": "2026-07-06T05:14:15.992Z"
     },
     "whoop_bug_bounty": {
       "intel": {
@@ -5090,8 +5090,8 @@
           {
             "title": "Behind The Scenes: How Modern Treasury Ensures Payment Security",
             "url": "https://www.moderntreasury.com/journal/how-modern-treasury-ensures-payment-security",
-            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nMost PSPs weren't built for stablecoins. Hear from our founders on what they learned building one from scratch. Join us live May 21st →",
-            "published": null,
+            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\n•January 17, 2024\n\n# Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nSecurity is the foundation for Modern Treasury op",
+            "published": "2024-01-17T19:35:35.000Z",
             "score": 1
           },
           {
@@ -5112,32 +5112,25 @@
         "twitter": [],
         "github": [
           {
-            "title": "TheTorjanCaptain/CVE-2026-23550-PoC",
-            "url": "https://github.com/TheTorjanCaptain/CVE-2026-23550-PoC",
-            "snippet": "# Repository: TheTorjanCaptain/CVE-2026-23550-PoC\n\nCVE-2026-23550 - Modular DS WordPress Plugin **Unauthenticated Admin Access**\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary languag",
-            "published": "2026-01-17T15:33:11.000Z",
-            "score": 1
-          },
-          {
-            "title": "ZeroPathAI/proftpd-CVE-2026-42167-poc",
-            "url": "https://github.com/ZeroPathAI/proftpd-CVE-2026-42167-poc",
-            "snippet": "# Repository: ZeroPathAI/proftpd-CVE-2026-42167-poc\n\nPOCs to demonstrate CVE-2026-42167 in ProFTPD\n\n- Stars: 23\n- Forks: 5\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python",
-            "published": "2026-04-28T14:35:46.000Z",
-            "score": 0.5
-          },
-          {
             "title": "efeanilarslan/CVE-2026-42167-Exploit",
             "url": "https://github.com/efeanilarslan/CVE-2026-42167-Exploit",
             "snippet": "# Repository: efeanilarslan/CVE-2026-42167-Exploit\n\nPython exploit for CVE-2026-42167 (ProFTPD mod_sql). Features automated file scanning and timing-based blind data exfiltration.\n\n- Stars: 0\n- Forks:",
             "published": "2026-05-02T09:09:37.000Z",
+            "score": 1
+          },
+          {
+            "title": "aivarsk/django-modern-treasury-poc",
+            "url": "https://github.com/aivarsk/django-modern-treasury-poc",
+            "snippet": "# aivarsk/django-modern-treasury-poc\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Homepage: https://aivarsk.com/2025/03/14/The-COST-of-double-entry-accounting/\n- Default branch: main\n- Crea",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-06-28T05:18:53.055Z"
+        "total_results": 5,
+        "enriched_at": "2026-07-06T05:14:17.303Z"
       },
-      "timestamp": "2026-06-28T05:18:54.465Z"
+      "timestamp": "2026-07-06T05:14:18.659Z"
     },
     "notion": {
       "intel": {
@@ -5157,10 +5150,10 @@
             "score": 0.5
           },
           {
-            "title": "Notion AI: Data Exfiltration",
+            "title": "Notion AI: Data Exfiltration | PromptArmor",
             "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
-            "snippet": "[Solutions]\n\n[Industries]\n\nPartners\n\n[Resources]\n\nBook a Demo\n\nThreat Intelligence\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team be",
-            "published": null,
+            "snippet": "Notion AI: Data Exfiltration | PromptArmor\n\nThreat Intel\n\nNotion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before",
+            "published": "2026-06-16T04:33:53.000Z",
             "score": 0
           }
         ],
@@ -5174,18 +5167,18 @@
             "score": 1
           },
           {
-            "title": "giovannipajeu1/CVE-2024-23743",
-            "url": "https://github.com/V3x0r/CVE-2024-23743",
-            "snippet": "# giovannipajeu1/CVE-2024-23743\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2023-12-19T17:07:27Z\n\n## Top Contributors\n\n- giovannipajeu1 (3 contributions)\n\n-",
+            "title": "docs/case-studies/notion-ai-prompt-injection.md",
+            "url": "https://github.com/vectara/awesome-agent-failures/blob/354b2043/docs/case-studies/notion-ai-prompt-injection.md",
+            "snippet": "# docs/case-studies/notion-ai-prompt-injection.md\n\n- Branch: 354b2043\n- Repository: vectara/awesome-agent-failures\n\n---\n\n# Notion AI Prompt Injection via Malicious PDF - 2024\n\n## Incident Overview\n\n**",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-06-28T05:18:54.465Z"
+        "enriched_at": "2026-07-06T05:14:18.659Z"
       },
-      "timestamp": "2026-06-28T05:18:55.936Z"
+      "timestamp": "2026-07-06T05:14:20.210Z"
     },
     "mpesa": {
       "intel": {
@@ -5198,17 +5191,17 @@
             "score": 1
           },
           {
+            "title": "Evans Muthoni",
+            "url": "https://linkedin.com/in/evansmuthoni",
+            "snippet": "# Evans Muthoni\n\nCyber Security Engineer | Digital Forensics | Bug Hunter | Cloud Security | CKA | CKS\n\nCyber Security Assurance & Architecture Engineer at [M-PESA Africa](https://www.linkedin.com/com",
+            "published": "2026-05-23T09:52:34.000Z",
+            "score": 0.5
+          },
+          {
             "title": "31M M-Pesa Users, $50B in Transactions. How Secure Is Your Mobile Money Platform? | imizicyber",
             "url": "https://imizicyber.com/blog/mobile-money-security-testing/",
             "snippet": "31M M-Pesa Users, $50B in Transactions. How Secure Is Your Mobile Money Platform? | imizicyber\n\n# Mobile money security testing: MoMo, M-Pesa and USSD platforms\n\nMobile money is the backbone of East A",
             "published": "2026-02-17T12:14:39.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "docs/THREAT_MODEL.md",
-            "url": "https://github.com/gabrielmahia/mpesa-mcp/blob/main/docs/THREAT_MODEL.md",
-            "snippet": "# docs/THREAT_MODEL.md\n\n- Branch: main\n- Repository: gabrielmahia/mpesa-mcp\n\n---\n\n# Threat Model — mpesa-mcp\n\nFramework: STRIDE + OWASP MCP Top 10 (2025) + MCP-38 Taxonomy (arXiv:2603.18063)\n\n---\n\n## ",
-            "published": null,
             "score": 0
           }
         ],
@@ -5222,48 +5215,48 @@
             "score": 1
           },
           {
-            "title": "gabrielmahia/mpesa-mcp",
-            "url": "https://github.com/gabrielmahia/mpesa-mcp",
-            "snippet": "# Repository: gabrielmahia/mpesa-mcp\n\nMCP server for M-PESA Daraja API — STK push, B2C, balance, status. First African mobile money MCP. 7 tools.\n\n- Stars: 2\n- Forks: 1\n- Watchers: 0\n- Open issues: 1\n",
-            "published": "2026-03-10T10:39:16.000Z",
-            "score": 0.5
-          },
-          {
             "title": "breezykalama/mpesa-mcp-server",
             "url": "https://github.com/breezykalama/mpesa-mcp-server",
             "snippet": "# Repository: breezykalama/mpesa-mcp-server\n\nAI financial action infrastructure for African payment rails, with MCP tools, M-Pesa/Daraja integration, approvals, auditability, Redis rate limiting, Post",
             "published": "2026-05-14T19:37:20.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "gabrielmahia/mpesa-mcp",
+            "url": "https://github.com/gabrielmahia/mpesa-mcp",
+            "snippet": "# Repository: gabrielmahia/mpesa-mcp\n\nMCP server for M-PESA Daraja API — STK push, B2C, balance, status. First African mobile money MCP. 7 tools.\n\n- Stars: 2\n- Forks: 1\n- Watchers: 0\n- Open issues: 1\n",
+            "published": "2026-03-10T10:39:16.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-28T05:18:55.936Z"
+        "enriched_at": "2026-07-06T05:14:20.210Z"
       },
-      "timestamp": "2026-06-28T05:18:57.430Z"
+      "timestamp": "2026-07-06T05:14:21.489Z"
     },
     "metamask": {
       "intel": {
         "writeups": [
           {
-            "title": "$3,500 Bounty — 🔐 Total Failure of Password Protection While Extracting Seed Phrase — A Critical UX Oversight in MetaMask | by Hacker Write-Ups | Medium",
-            "url": "https://hacker-write-ups.medium.com/3-500-bounty-total-failure-of-password-protection-while-extracting-seed-phrase-a-critical-79723184d46e",
-            "snippet": "$3,500 Bounty — 🔐 Total Failure of Password Protection While Extracting Seed Phrase — A Critical UX Oversight in MetaMask | by Hacker Write-Ups | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# $3,500 Bounty — ",
-            "published": "2025-08-11T06:24:30.000Z",
-            "score": 1
-          },
-          {
             "title": "Pentest-Report MetaMask Signing Snap & Codebase 03.2024",
             "url": "https://cure53.de/pentest-report_metamask-signing-snap.pdf",
             "snippet": "Dr.-Ing. Mario Heiderich, Cure53 \nBielefelder Str. 14 \nD 10709 Berlin \ncure53.de · mario@cure53.de \n\n## Pentest-Report MetaMask Signing Snap & Codebase 03.2024\n\nCure53, Dr.-Ing. M. Heiderich, A. Belka",
             "published": null,
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "MetaMask – stealing ETH by exploiting clickjacking – $120,000 bug bounty – Bug Bounty Reports Explained",
             "url": "https://www.bugbountyexplained.com/metamask-stealing-eth-by-exploiting-clickjacking-120000-bug-bounty/",
             "snippet": "MetaMask – stealing ETH by exploiting clickjacking – $120,000 bug bounty – Bug Bounty Reports Explained\n\n# MetaMask – stealing ETH by exploiting clickjacking – $120,000 bug bounty\n\n✉️ Sign up for the ",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "MetaMask Clickjacking Vulnerability Analysis | by SlowMist | Medium",
+            "url": "https://slowmist.medium.com/metamask-clickjacking-vulnerability-analysis-f3e7c22ff4d9",
+            "snippet": "MetaMask Clickjacking Vulnerability Analysis | by SlowMist | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# MetaMask Clickjacking Vulnerability Analysis\n\n5 min read\n\nJun 16, 2022\n\n--\n\nShare\n\nPress enter or clic",
+            "published": "2022-06-16T03:37:30.000Z",
             "score": 0
           }
         ],
@@ -5284,18 +5277,18 @@
             "score": 0.5
           },
           {
-            "title": "Jaden-Nix/Verified-Wallet-Audit",
-            "url": "https://github.com/Jaden-Nix/Verified-Wallet-Audit",
-            "snippet": "# Repository: Jaden-Nix/Verified-Wallet-Audit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (92.5%), HTML (7.5%)\n- Default branch: main\n-",
-            "published": "2026-01-05T20:53:24.000Z",
+            "title": "metamask exploit payload extracted from nexus mutual exploit",
+            "url": "https://gist.github.com/banteg/53a62b1f5eab56c8d4841786fc94d3ca",
+            "snippet": "# Gist: metamask exploit payload extracted from nexus mutual exploit\n\n- Author: [@banteg](https://github.com/banteg)\n- Private gist (1 file)\n- Created: 2020-12-14T21:50:01Z\n- Updated: 2024-10-21T15:09",
+            "published": "2020-12-14T21:50:01.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-28T05:18:57.430Z"
+        "enriched_at": "2026-07-06T05:14:21.489Z"
       },
-      "timestamp": "2026-06-28T05:18:58.931Z"
+      "timestamp": "2026-07-06T05:14:23.004Z"
     },
     "floqast": {
       "intel": {
@@ -5334,23 +5327,23 @@
           {
             "title": "0xDaeras/Flowise-CVE-2025-58434-Chain-59528",
             "url": "https://github.com/0xDaeras/FlowiseAI-CVE-Chain-PoC",
-            "snippet": "# Repository: 0xDaeras/Flowise-CVE-2025-58434-Chain-59528\n\nFlowiseAI CVE-2025-58434 & CVE-2025-59528 exploit PoC, demonstrating unauthenticated ATO via reset token leakage, followed by authenticated R",
-            "published": "2026-05-07T16:57:18.000Z",
+            "snippet": "# 0xDaeras/Flowise-CVE-2025-58434-Chain-59528\n\nFlowiseAI CVE-2025-58434 & CVE-2025-59528 exploit PoC, demonstrating unauthenticated ATO via reset token leakage, followed by authenticated RCE. Includes",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "README.md",
+            "title": "README.md at main · Ls4ss/CVE-2020-29134",
             "url": "https://github.com/lucxssouza/CVE-2020-29134/blob/main/README.md",
-            "snippet": "# README.md\n\n- Branch: main\n- Repository: Ls4ss/CVE-2020-29134\n\n---\n\n# Totvs Fluig Platform\n \n Fluig is the productivity and collaboration platform that integrates with the ERP system,\n and your compa",
+            "snippet": "# File: Ls4ss/CVE-2020-29134/README.md\n\n- Repository: Ls4ss/CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | 3 stars | Shell\n- Branch: main\n\n```md\n# Totvs Fluig Platfo",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-28T05:18:58.931Z"
+        "enriched_at": "2026-07-06T05:14:23.004Z"
       },
-      "timestamp": "2026-06-28T05:19:00.344Z"
+      "timestamp": "2026-07-06T05:14:24.283Z"
     },
     "palantir_public": {
       "intel": {
@@ -5370,9 +5363,9 @@
             "score": 0.5
           },
           {
-            "title": "PLTRSEC-2022-02.md",
-            "url": "https://github.com/palantir/security-bulletins/blob/main/PLTRSEC-2022-02.md",
-            "snippet": "# PLTRSEC-2022-02.md\n\n- Branch: main\n- Repository: palantir/security-bulletins\n\n---\n\n# Security Bulletin\n\n**Bulletin ID:** PLTRSEC-2022-02\n\n**CVE:** CVE-2022-27889\n\n**Affected Products / Versions:** M",
+            "title": "PLTRSEC-2022-14.md at main · palantir/security-bulletins",
+            "url": "https://github.com/palantir/security-bulletins/blob/main/PLTRSEC-2022-14.md",
+            "snippet": "# File: palantir/security-bulletins/PLTRSEC-2022-14.md\n\n- Repository: palantir/security-bulletins | Vulnerability and security bulletins related to Palantir software products. | 13 stars\n- Branch: mai",
             "published": null,
             "score": 0
           }
@@ -5380,10 +5373,10 @@
         "twitter": [],
         "github": [
           {
-            "title": "horizon3ai/CVE-2024-9465",
-            "url": "https://github.com/horizon3ai/CVE-2024-9465",
-            "snippet": "# horizon3ai/CVE-2024-9465\n\nProof of Concept Exploit for CVE-2024-9465\n\n- Stars: 31\n- Forks: 4\n- Watchers: 31\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-09T16:22:05Z\n\n## Languages\n\n- P",
-            "published": null,
+            "title": "GitHub - horizon3ai/CVE-2024-9465: Proof of Concept Exploit for CVE-2024-9465 · GitHub",
+            "url": "https://github.com/horizon3ai/CVE-2024-9465/tree/main",
+            "snippet": "GitHub - horizon3ai/CVE-2024-9465: Proof of Concept Exploit for CVE-2024-9465 · GitHub\n\nmain\n\nGo to file\n\nCode\n\nLast commit message\n\nLast commit date\n\nView all files\n\n| Name | Name |\n| --- | --- |\n\n##",
+            "published": "2024-10-09T16:22:05.000Z",
             "score": 1
           },
           {
@@ -5394,18 +5387,18 @@
             "score": 0.5
           },
           {
-            "title": "exploit.py at main · tc4dy/CVE-2026-29000-PoC-Exploit",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# File: tc4dy/CVE-2026-29000-PoC-Exploit/exploit.py\n\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit | CVE-2026-29000 – pac4j-jwt Authentication Bypass (🔥 CVSS 10.0). One-click admin forge via public ",
+            "title": "PLTRSEC-2022-04.md at main · palantir/security-bulletins",
+            "url": "https://github.com/palantir/security-bulletins/blob/main/PLTRSEC-2022-04.md",
+            "snippet": "# File: palantir/security-bulletins/PLTRSEC-2022-04.md\n\n- Repository: palantir/security-bulletins | Vulnerability and security bulletins related to Palantir software products. | 13 stars\n- Branch: mai",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-28T05:19:00.344Z"
+        "enriched_at": "2026-07-06T05:14:24.284Z"
       },
-      "timestamp": "2026-06-28T05:19:01.832Z"
+      "timestamp": "2026-07-06T05:14:25.650Z"
     },
     "mongodb": {
       "intel": {
@@ -5418,72 +5411,72 @@
             "score": 1
           },
           {
-            "title": "PoC: Exploiting MongoBleed, CVE-2025-14847 | Technical Walkthrough | OX Security",
-            "url": "https://www.ox.security/blog/poc-exploiting-mongobleed-cve-2025-14847-technical-walkthrough/",
-            "snippet": "PoC: Exploiting MongoBleed, CVE-2025-14847 | Technical Walkthrough | OX Security\n\nVibeSecCon Returns: The Security Summit Running From Prompt to Runtime. June 16th, 2026\n\n0\n\n7\n\nDAYS\n\n1\n\n6\n\nHOURS\n\n0\n\n8",
-            "published": "2025-12-29T20:05:16.000Z",
+            "title": "[pymongo] out-of-bounds read PoC (CVE-2024-5629)",
+            "url": "https://gist.github.com/keltecc/62a7c2bf74a997d0a7b48a0ff3853a03",
+            "snippet": "# [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Owner: keltecc\n- Created: 2024-03-03T23:53:34Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## !README.md\n\nLanguage: Markdown\n\n_Assigned CVE_: [CVE-202",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "MongoBleed CVE-2025–14847. Proof of Concept of the Latest… | by Lakshan Sameera | Medium",
-            "url": "https://medium.com/@Lakshan_Sameera/mongobleed-cve-2025-14847-02d01aa30134",
-            "snippet": "MongoBleed CVE-2025–14847. Proof of Concept of the Latest… | by Lakshan Sameera | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# MongoBleed CVE-2025–14847\n\nLakshan Same",
-            "published": "2026-01-03T09:41:27.000Z",
+            "title": "Brand-new prototype pollution gadget in MongoDB leading to RCE",
+            "url": "https://sechub.in/view/2903363",
+            "snippet": "Brand-new prototype pollution gadget in MongoDB leading to RCE\n\n# Brand-new prototype pollution gadget in MongoDB leading to RCE\n\nInfoSec Write-ups - Medium 2024-07-01 19:32:04\n\n收藏\n\nRecently, I uncove",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "lincemorado97/CVE-2025-14847",
-            "url": "https://github.com/lincemorado97/CVE-2025-14847",
-            "snippet": "# Repository: lincemorado97/CVE-2025-14847\n\nCVE-2025-14847 – MongoDB Unauthenticated Memory‑Leak Exploit\n\n- Stars: 1\n- Forks: 3\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: P",
-            "published": "2025-12-29T03:20:53.000Z",
+            "title": "waheeb71/CVE-2025-14847",
+            "url": "https://github.com/waheeb71/CVE-2025-14847",
+            "snippet": "# Repository: waheeb71/CVE-2025-14847\n\nCVE-2025-14847 MongoDB Memory Leak Exploit\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch:",
+            "published": "2026-01-06T19:14:27.000Z",
             "score": 1
           },
           {
             "title": "joe-desimone/mongobleed",
-            "url": "https://github.com/joe-desimone/mongobleed",
-            "snippet": "# Repository: joe-desimone/mongobleed\n\n- Stars: 944\n- Forks: 167\n- Watchers: 6\n- Open issues: 7\n- Primary language: JavaScript\n- Languages: JavaScript (61.5%), Python (38.5%)\n- Default branch: main\n- ",
+            "url": "https://github.com/joe-desimone/mongobleed?tab=readme-ov-file",
+            "snippet": "# Repository: joe-desimone/mongobleed\n\n- Stars: 945\n- Forks: 167\n- Watchers: 6\n- Open issues: 7\n- Primary language: JavaScript\n- Languages: JavaScript (61.5%), Python (38.5%)\n- Default branch: main\n- ",
             "published": "2025-12-26T00:30:40.000Z",
             "score": 0.5
           },
           {
-            "title": "tunahantekeoglu/MongoDeepDive",
-            "url": "https://github.com/tunahantekeoglu/MongoDeepDive",
-            "snippet": "# tunahantekeoglu/MongoDeepDive\n\nContext-Aware Memory Leak Scanner & Exploit for CVE-2025-14847.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- C",
-            "published": null,
+            "title": "Hamid-K/mongobleed",
+            "url": "https://github.com/Hamid-K/mongobleed",
+            "snippet": "# Repository: Hamid-K/mongobleed (fork of [joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed))\n\nA remote live memory viewer PoC based on the MongoBleed vulnerability primitive!\n\n- St",
+            "published": "2025-12-27T13:12:41.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-28T05:19:01.833Z"
+        "enriched_at": "2026-07-06T05:14:25.650Z"
       },
-      "timestamp": "2026-06-28T05:19:03.228Z"
+      "timestamp": "2026-07-06T05:14:26.932Z"
     },
     "ripio": {
       "intel": {
         "writeups": [
           {
-            "title": "Exploiting Stored XSS in Chatbot",
-            "url": "https://medium.com/@Mohamed_Farghly/exploiting-stored-xss-in-chatbot-023167a9a1cb",
-            "snippet": "Exploiting Stored XSS in Chatbot. How I Discoverd It ? | by Mohamed_Farghly | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Exploiting Stored XSS in C",
-            "published": "2025-10-05T19:38:55.000Z",
-            "score": 1
-          },
-          {
             "title": "Ripio RCN Network Smart Contract Audit Report",
             "url": "https://www.coinfabrik.com/blog/ripio-credit-network-rcn-smart-contract-audit/",
             "snippet": "Ripio RCN Network Smart Contract Audit Report\n\nCoinfabrik’s smart contract audit team was commissioned to conduct a security audit of the contracts for the Ripio RCN Network.\n\nTable of Contents\n\nToggl",
             "published": "2017-11-15T15:09:46.000Z",
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "Ripio audit by Hacken",
             "url": "https://hacken.io/audits/ripio/sca-lachain-bridge-oct2023/",
             "snippet": "Ripio audit by Hacken\n\nQ1 2026 Security & Compliance Report44 incidents, $482M in losses, insights from 11 industry leaders.Read the report\n\n- Hacken\n- Audits\n- ripio\n- [SCA] LaChain | Bridge | Oct202",
             "published": "2023-10-17T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "sobieski - Users can receive less tokens than expected due to precision loss · Issue #264 · sherlock-audit/2024-02-rio-network-core-protocol-judging",
+            "url": "https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/264",
+            "snippet": "# Issue: sherlock-audit/2024-02-rio-network-core-protocol-judging #264\n\n- Repository: sherlock-audit/2024-02-rio-network-core-protocol-judging | 4 stars | Python\n\n## sobieski - Users can receive less ",
+            "published": "2024-03-07T15:44:05.000Z",
             "score": 0
           }
         ],
@@ -5492,7 +5485,7 @@
           {
             "title": "y198nt/Nginx-chain-Rift-Poolslip",
             "url": "https://github.com/y198nt/Nginx-chain-Rift-Poolslip",
-            "snippet": "# Repository: y198nt/Nginx-chain-Rift-Poolslip\n\nNginx RCE chain PoC with Nginx-Rift and Nginx-Poolslip\n\n- Stars: 10\n- Forks: 5\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Py",
+            "snippet": "# Repository: y198nt/Nginx-chain-Rift-Poolslip\n\nNginx RCE chain PoC with Nginx-Rift and Nginx-Poolslip\n\n- Stars: 11\n- Forks: 5\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Py",
             "published": "2026-06-05T15:21:38.000Z",
             "score": 1
           },
@@ -5504,18 +5497,18 @@
             "score": 0.5
           },
           {
-            "title": "M3PH1569/CVE-2026-39987-POC",
-            "url": "https://github.com/M3PH1569/CVE-2026-39987-POC",
-            "snippet": "# Repository: M3PH1569/CVE-2026-39987-POC\n\nCVE-2026-39987 Exploitation Tool - Marimo < 0.23.0 Pre-Auth RCE (WebSocket)\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n",
-            "published": "2026-05-24T18:00:33.000Z",
+            "title": "feat(research): CVE-2026-39987 Marimo pre-auth RCE PoC · Pull Request #6 · OTT-Cybersecurity-LLC/lyrie-ai",
+            "url": "https://github.com/overthetopseo/lyrie-agent/pull/6",
+            "snippet": "# Pull Request: OTT-Cybersecurity-LLC/lyrie-ai #6\n\n- Repository: OTT-Cybersecurity-LLC/lyrie-ai | Lyrie.ai — The world's first autonomous AI cybersecurity agent. Built by OTT Cybersecurity LLC. | 524 ",
+            "published": "2026-04-25T21:10:58.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-28T05:19:03.228Z"
+        "enriched_at": "2026-07-06T05:14:26.932Z"
       },
-      "timestamp": "2026-06-28T05:19:04.737Z"
+      "timestamp": "2026-07-06T05:14:28.200Z"
     },
     "deribit": {
       "intel": {
@@ -6006,24 +5999,24 @@
       "intel": {
         "writeups": [
           {
-            "title": "Yuga Labs NFT rescue operation saves 68 blue-chip assets",
-            "url": "https://en.cryptonomist.ch/2026/06/08/yuga-labs-nft-rescue-operation/",
-            "snippet": "Yuga Labs NFT rescue operation saves 68 blue-chip assets\n\nSign in\n\nBlockchain\n\nCrypto\n\nCharts\n\nBest of 2026\n\n- Top Popular Crypto Exchanges in 2026\n- Best Crypto Cards for 2026\n\nENG\n\nSign in\n\nWelcome!",
-            "published": "2026-06-08T08:40:33.000Z",
-            "score": 1
-          },
-          {
             "title": "Yuga Labs Executes White-Hat Rescue of 68 NFTs After Flooring Protocol Exploit – Aspire Market Guides",
             "url": "https://aspiremarketguides.com/cryptocurrency/yuga-labs-executes-white-hat-rescue-of-68-nfts-after-flooring-protocol-exploit/",
             "snippet": "Yuga Labs Executes White-Hat Rescue of 68 NFTs After Flooring Protocol Exploit – Aspire Market Guides\n\nClose Menu\n\nFacebook X (Twitter) Instagram\n\nTrending:\n\n- Parental Educational Attainment and Chil",
             "published": "2026-06-13T09:33:19.000Z",
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "Yuga Labs Simply Pulled Off A $500,000 Crypto Heist — Towards These Hackers - Coininsight",
             "url": "https://coininsight.co.uk/yuga-labs-simply-pulled-off-a-500000-crypto-heist-towards-these-hackers/",
             "snippet": "Yuga Labs Simply Pulled Off A $500,000 Crypto Heist — Towards These Hackers - Coininsight\n\nNo Result\n\nView All Result\n\nNo Result\n\nView All Result\n\nNo Result\n\nView All Result\n\n# Yuga Labs Simply Pulled",
             "published": "2026-06-08T15:49:52.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Untitled",
+            "url": "https://parameter.io/yuga-labs-executes-emergency-recovery-of-68-nfts-following-flooring-protocol-breach/",
+            "snippet": "---\ntitle: Yuga Labs Executes Emergency Recovery of 68 NFTs Following Flooring Protocol Breach - Parameter\ndescription: Yuga Labs rescued 68 high-value NFTs including Bored Apes and CryptoPunks after ",
+            "published": null,
             "score": 0
           }
         ],
@@ -6032,31 +6025,31 @@
           {
             "title": "johnnyonline/yETH-hack",
             "url": "https://github.com/johnnyonline/yeth-hack",
-            "snippet": "# Repository: johnnyonline/yETH-hack\n\nA proof of concept demonstrating an attack that occurred on yETH\n\n- Stars: 11\n- Forks: 5\n- Watchers: 11\n- Open issues: 1\n- Primary language: Vyper\n- Languages: Vy",
-            "published": "2025-12-01T09:45:25.000Z",
-            "score": 1
-          },
-          {
-            "title": "Teycir/fft-exploit-poc",
-            "url": "https://github.com/Teycir/fft-exploit-poc",
-            "snippet": "# Teycir/fft-exploit-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-03-04T19:55:38Z\n\n## Languages\n\n- Circom\n- JavaScript\n- SMT\n- Shel",
+            "snippet": "# johnnyonline/yETH-hack\n\nA proof of concept demonstrating an attack that occurred on yETH\n\n- Stars: 12\n- Forks: 5\n- Watchers: 12\n- Open issues: 1\n- Default branch: main\n- Created: 2025-12-01T09:45:25",
             "published": null,
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "DK27ss/FoomClub-1.6M-PoC",
             "url": "https://github.com/DK27ss/FoomClub-1.6M-PoC",
             "snippet": "# DK27ss/FoomClub-1.6M-PoC\n\n groth16 verifier had `delta2 == gamma2` \n\n- Stars: 4\n- Forks: 1\n- Watchers: 4\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-26T09:09:52Z\n\n## Languages\n\n- Coff",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "NomosLabs-Security/poc-curve-finance-2023",
+            "url": "https://github.com/NomosLabs-Security/poc-curve-finance-2023",
+            "snippet": "# Repository: NomosLabs-Security/poc-curve-finance-2023 (from template [NomosLabs-Security/poc-template](https://github.com/NomosLabs-Security/poc-template))\n\nPoC: Curve Finance Vyper compiler reentra",
+            "published": "2026-03-01T14:32:07.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-28T05:18:51.596Z"
+        "enriched_at": "2026-07-06T05:14:15.993Z"
       },
-      "timestamp": "2026-06-28T05:18:53.055Z"
+      "timestamp": "2026-07-06T05:14:17.303Z"
     }
   },
-  "lastRun": "2026-07-05T04:58:16.610Z"
+  "lastRun": "2026-07-06T05:14:28.201Z"
 }
