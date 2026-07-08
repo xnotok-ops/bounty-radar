@@ -2442,10 +2442,10 @@
             "score": 0.5
           },
           {
-            "title": "Open Redirect in Starbucks. Hi my name is jagannath mohanty .i am a… | by Jagannath Mohanty | Medium",
-            "url": "https://attackerbhai2003.medium.com/open-redirect-in-starbucks-48fa23dd31e6",
-            "snippet": "Open Redirect in Starbucks. Hi my name is jagannath mohanty .i am a… | by Jagannath Mohanty | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Open Redirect in Starbucks\n\n2 min read\n\nMar 11, 2022\n\n--\n\n4\n\nShare\n\nH",
-            "published": "2022-03-11T16:08:28.000Z",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/reports/188972",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "published": null,
             "score": 0
           }
         ],
@@ -2468,9 +2468,9 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-06-30T05:06:06.455Z"
+        "enriched_at": "2026-07-08T04:15:51.482Z"
       },
-      "timestamp": "2026-06-30T05:06:07.810Z"
+      "timestamp": "2026-07-08T04:15:53.151Z"
     },
     "starbucks_china": {
       "intel": {
@@ -2509,9 +2509,9 @@
         ],
         "defi_audit": [],
         "total_results": 4,
-        "enriched_at": "2026-06-30T05:06:07.810Z"
+        "enriched_at": "2026-07-08T04:15:53.152Z"
       },
-      "timestamp": "2026-06-30T05:06:09.219Z"
+      "timestamp": "2026-07-08T04:15:54.811Z"
     },
     "syfe_bbp": {
       "intel": {
@@ -2533,7 +2533,7 @@
           {
             "title": "Bug Bounty",
             "url": "https://www.syfe.com/bug-bounty",
-            "snippet": "Bug Bounty\n\n# BUG BOUNTY\n\nOverviewHow it worksThe Syfe PromiseRewardsHall of Fameoverviewoverviewoverview\n\noverviewoverviewoverview\n\n## Syfe security custodian\n\nKeeping user information safe and secur",
+            "snippet": "Bug Bounty\n\nStay vigilant: only access Syfe through our official app and website. Learn more\n\n# BUG BOUNTY\n\nOverviewHow it worksThe Syfe PromiseRewardsHall of Fameoverviewoverviewoverview\n\noverviewove",
             "published": null,
             "score": 0
           }
@@ -2548,80 +2548,80 @@
             "score": 1
           },
           {
-            "title": "It is possible to steal all users' money due to incorrect price calculation",
-            "url": "https://github.com/code-423n4/2023-03-asymmetry-findings/issues/461",
-            "snippet": "# It is possible to steal all users' money due to incorrect price calculation\n\n- State: closed\n- Author: code423n4\n- Created: 2023-03-29T12:58:43Z\n- Updated: 2023-04-21T14:56:46Z\n- Repository: code-42",
+            "title": "SyFi/CVE-2018-4878",
+            "url": "https://github.com/SyFi/CVE-2018-4878",
+            "snippet": "# SyFi/CVE-2018-4878\n\nFlash Exploit Poc\n\n- Stars: 7\n- Forks: 9\n- Watchers: 7\n- Open issues: 1\n- Default branch: master\n- Created: 2018-04-04T04:33:44Z\n\n## Languages\n\n- Python\n\n---\n\n## README\n\n# CVE-20",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "skyuff/cve_2026_31431",
-            "url": "https://github.com/skyuff/cve_2026_31431",
-            "snippet": "# Repository: skyuff/cve_2026_31431 (fork of [rootsecdev/cve_2026_31431](https://github.com/rootsecdev/cve_2026_31431))\n\nExploit POC for CVE_2026_31431\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issu",
-            "published": "2026-04-30T09:24:16.000Z",
+            "title": "It is possible to steal all users' money due to incorrect price calculation",
+            "url": "https://github.com/code-423n4/2023-03-asymmetry-findings/issues/461",
+            "snippet": "# It is possible to steal all users' money due to incorrect price calculation\n\n- State: closed\n- Author: code423n4\n- Created: 2023-03-29T12:58:43Z\n- Updated: 2023-04-21T14:56:46Z\n- Repository: code-42",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-30T05:06:09.220Z"
+        "enriched_at": "2026-07-08T04:15:54.811Z"
       },
-      "timestamp": "2026-06-30T05:06:10.799Z"
+      "timestamp": "2026-07-08T04:15:56.307Z"
     },
     "nba-public": {
       "intel": {
         "writeups": [
           {
+            "title": "340c13d fix: restrict access(all) var fields to prevent unauthenticated writes",
+            "url": "https://github.com/dapperlabs/nba-smart-contracts/commit/340c13d516fcfedb41b05212d50c1b66e008d3d8",
+            "snippet": "# 340c13d fix: restrict access(all) var fields to prevent unauthenticated writes\n\n- SHA: 340c13d516fcfedb41b05212d50c1b66e008d3d8\n- Repository: dapperlabs/nba-smart-contracts\n- Author: fkenji\n- Date: ",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "How ShinyHunters Spoiled the Knicks’ Championship with a 45GB Dark Web Data Dump",
             "url": "https://cleandataalliance.substack.com/p/how-shinyhunters-spoiled-the-knicks",
             "snippet": "How ShinyHunters Spoiled the Knicks’ Championship with a 45GB Dark Web Data Dump\n\nSubscribeSign in\n\n# How ShinyHunters Spoiled the Knicks’ Championship with a 45GB Dark Web Data Dump\n\nJay Mandel\n\nJun ",
             "published": "2026-06-19T16:33:00.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "feat: ship pipeline remediation - security, tests, and documentation · 993b7a5 · aself101/nba-api",
             "url": "https://github.com/aself101/nba-api/commit/993b7a56d3eb93a6b117161521c22a5948c60d87",
             "snippet": "# Commit: aself101/nba-api@993b7a5\n\n- Repository: aself101/nba-api | TypeScript wrapper for NBA Stats and Live APIs | 1 stars | TypeScript\n\n## feat: ship pipeline remediation - security, tests, and do",
             "published": "2025-12-12T18:30:04.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "nba-public on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/nba-public",
-            "snippet": "nba-public on HackerOne - Bug Bounty Scope | bbscope.com\n\n# nba-public\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n206\n\nIn Scope\n\n17\n\nOut of Scope\n\nIn-Scope Assets (206)\n\n| Asset | Category | Bounty",
-            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
+            "title": "340c13d fix: restrict access(all) var fields to prevent unauthenticated writes",
+            "url": "https://github.com/dapperlabs/nba-smart-contracts/commit/340c13d516fcfedb41b05212d50c1b66e008d3d8",
+            "snippet": "# 340c13d fix: restrict access(all) var fields to prevent unauthenticated writes\n\n- SHA: 340c13d516fcfedb41b05212d50c1b66e008d3d8\n- Repository: dapperlabs/nba-smart-contracts\n- Author: fkenji\n- Date: ",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "exploit.py at main · tc4dy/CVE-2026-29000-PoC-Exploit",
             "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
             "snippet": "# File: tc4dy/CVE-2026-29000-PoC-Exploit/exploit.py\n\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit | CVE-2026-29000 – pac4j-jwt Authentication Bypass (🔥 CVSS 10.0). One-click admin forge via public ",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "DK27ss/FoomClub-1.6M-PoC",
             "url": "https://github.com/DK27ss/FoomClub-1.6M-PoC",
             "snippet": "# DK27ss/FoomClub-1.6M-PoC\n\n groth16 verifier had `delta2 == gamma2` \n\n- Stars: 4\n- Forks: 1\n- Watchers: 4\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-26T09:09:52Z\n\n## Languages\n\n- Coff",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "chebuya/CVE-2024-28741-northstar-agent-rce-poc",
-            "url": "https://github.com/chebuya/CVE-2024-28741-northstar-agent-rce-poc",
-            "snippet": "# chebuya/CVE-2024-28741-northstar-agent-rce-poc\n\nAgent RCE PoC for CVE-2024-28741, a stored XSS vulnerability in NorthStar C2.\n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- Default branch: ",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-30T05:06:10.799Z"
+        "enriched_at": "2026-07-08T04:15:56.307Z"
       },
-      "timestamp": "2026-06-30T05:06:12.266Z"
+      "timestamp": "2026-07-08T04:15:57.849Z"
     },
     "circle-bbp": {
       "intel": {
@@ -2651,9 +2651,9 @@
         "twitter": [],
         "github": [
           {
-            "title": "liang-junkai/Relic-bbs-fault-injection",
-            "url": "https://github.com/liang-junkai/Relic-bbs-fault-injection",
-            "snippet": "# liang-junkai/Relic-bbs-fault-injection\n\nContains a pdf vulnerability report for BB short signature in relic library\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.",
+            "title": "advisories/2024-08-27_circle_noble-cctp-mint-bug.md",
+            "url": "https://github.com/asymmetric-research/security-advisories/blob/main/advisories/2024-08-27_circle_noble-cctp-mint-bug.md",
+            "snippet": "# advisories/2024-08-27_circle_noble-cctp-mint-bug.md\n\n- Branch: main\n- Repository: asymmetric-research/security-advisories\n\n---\n\n# Circle Noble CCTP Mint Bug\n\n## Intro\n\nWe privately disclosed a vulne",
             "published": null,
             "score": 1
           },
@@ -2665,18 +2665,18 @@
             "score": 0.5
           },
           {
-            "title": "src/test/2025-03/BBXToken_exp.sol at main · SunWeb3Sec/DeFiHackLabs",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-03/BBXToken_exp.sol",
-            "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2025-03/BBXToken_exp.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 6K stars | Solidity\n- Branch: main\n\n```sol\n/",
+            "title": "liang-junkai/Relic-bbs-fault-injection",
+            "url": "https://github.com/liang-junkai/Relic-bbs-fault-injection",
+            "snippet": "# liang-junkai/Relic-bbs-fault-injection\n\nContains a pdf vulnerability report for BB short signature in relic library\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-30T05:06:12.266Z"
+        "enriched_at": "2026-07-08T04:15:57.849Z"
       },
-      "timestamp": "2026-06-30T05:06:13.680Z"
+      "timestamp": "2026-07-08T04:15:59.356Z"
     },
     "varonis": {
       "intel": {
@@ -2706,32 +2706,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "orsten-koethen/CVE-2026-41940-PoC",
-            "url": "https://github.com/orsten-koethen/CVE-2026-41940-PoC",
-            "snippet": "# Repository: orsten-koethen/CVE-2026-41940-PoC (fork of [olofsatte/CVE-2026-41940-PoC](https://github.com/olofsatte/CVE-2026-41940-PoC))\n\nCVE-2026-41940 is a critical authentication bypass vulnerabil",
-            "published": "2026-06-09T07:01:43.000Z",
-            "score": 1
-          },
-          {
             "title": "SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC",
             "url": "https://gist.github.com/4V4loon/54719b32c4dcef8d082b4ea4065fd541",
             "snippet": "# SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC\n\n- Owner: 4V4loon\n- Created: 2024-03-28T20:09:27Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## SharePwn_public.py\n\nLang",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "orsten-koethen/CVE-2026-41940-PoC",
+            "url": "https://github.com/orsten-koethen/CVE-2026-41940-PoC",
+            "snippet": "# Repository: orsten-koethen/CVE-2026-41940-PoC (fork of [olofsatte/CVE-2026-41940-PoC](https://github.com/olofsatte/CVE-2026-41940-PoC))\n\nCVE-2026-41940 is a critical authentication bypass vulnerabil",
+            "published": "2026-06-09T07:01:43.000Z",
             "score": 0.5
           },
           {
             "title": "AzureADTrent/CVE-2025-4517-POC",
             "url": "https://github.com/AzureADTrent/CVE-2025-4517-POC-HTB",
-            "snippet": "# AzureADTrent/CVE-2025-4517-POC\n\nPrivilege Escalation script for CVE-2025-4517\n\n- Stars: 8\n- Forks: 0\n- Watchers: 8\n- Open issues: 1\n- Default branch: main\n- Created: 2026-02-15T22:09:53Z\n\n## Languag",
-            "published": null,
+            "snippet": "# Repository: AzureADTrent/CVE-2025-4517-POC\n\nPrivilege Escalation script for CVE-2025-4517\n\n- Stars: 9\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- Defau",
+            "published": "2026-02-15T22:09:53.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-30T05:06:13.680Z"
+        "enriched_at": "2026-07-08T04:15:59.356Z"
       },
-      "timestamp": "2026-06-30T05:06:15.202Z"
+      "timestamp": "2026-07-08T04:16:00.991Z"
     },
     "klarna": {
       "intel": {
@@ -2744,17 +2744,17 @@
             "score": 1
           },
           {
+            "title": "IDOR Lets Attackers Choose Your Payment Method | by Parth Narula | Medium",
+            "url": "https://scriptjacker.medium.com/idor-lets-attackers-choose-your-payment-method-abe87784e726",
+            "snippet": "IDOR Lets Attackers Choose Your Payment Method | by Parth Narula | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\nFeatured\n\n# IDOR Lets Attackers Choose Your Payment Method\n\n3 min read\n\nFeb 1, 2026\n\n",
+            "published": "2026-02-01T11:25:59.000Z",
+            "score": 0.5
+          },
+          {
             "title": "CVE-2024-13925: Unauthenticated WooCommerce Ajax Endpoint Vulnerability in Klarna Checkout for WooCommerce WordPress Plugin - Ameeba Security Research",
             "url": "https://www.ameeba.com/blog/cve-2024-13925-unauthenticated-woocommerce-ajax-endpoint-vulnerability-in-klarna-checkout-for-woocommerce-wordpress-plugin/",
             "snippet": "CVE-2024-13925: Unauthenticated WooCommerce Ajax Endpoint Vulnerability in Klarna Checkout for WooCommerce WordPress Plugin - Ameeba Security Research\n\n# Ameeba Security Research\n\nDefensive CVE and ex",
             "published": "2026-01-07T08:15:37.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2024-30477: Klarna WooCommerce Auth Bypass Flaw",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2024-30477/",
-            "snippet": "CVE-2024-30477: Klarna WooCommerce Auth Bypass Flaw\n\nSkip to main content\n\nA Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection. Six years running. Find Out Why\n\nSingularity Marketpla",
-            "published": "2024-03-29T16:15:09.000Z",
             "score": 0
           }
         ],
@@ -2768,25 +2768,25 @@
             "score": 1
           },
           {
-            "title": "wesmar/CVE-2026-31431",
-            "url": "https://github.com/wesmar/CVE-2026-31431",
-            "snippet": "# Repository: wesmar/CVE-2026-31431\n\nCVE-2026-31431 is a bug in the handling of scatter-gather I/O operations and page cache references in the Linux kernel cryptographic subsystem — specifically in th",
-            "published": "2026-04-30T13:38:34.000Z",
-            "score": 0.5
-          },
-          {
             "title": "kinryulabs/rootpacket-cve-2026-31431",
             "url": "https://github.com/kinryulabs/rootpacket-cve-2026-31431",
             "snippet": "# Repository: kinryulabs/rootpacket-cve-2026-31431\n\nCVE-2026-31431 getroot from a Turkish Cryptominer\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell",
             "published": "2026-06-24T05:41:21.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "tc4dy/CVE-2026-29000-PoC-Exploit",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit",
+            "snippet": "# Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\nCVE-2026-29000 – pac4j-jwt Authentication Bypass (🔥 CVSS 10.0). One-click admin forge via public key JWE wrapping. Leaks configs, users, secrets. Keep-",
+            "published": "2026-05-12T16:03:01.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-30T05:06:15.202Z"
+        "enriched_at": "2026-07-08T04:16:00.991Z"
       },
-      "timestamp": "2026-06-30T05:06:16.617Z"
+      "timestamp": "2026-07-08T04:16:02.584Z"
     },
     "unico_idtech": {
       "intel": {
@@ -2794,21 +2794,21 @@
           {
             "title": "Unico IDtech Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/unico-idtech/",
-            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle unico_idtech Managed Yes\n\n## Response Metrics\n\nResponse Time 12 days Bounty Time 259 d",
+            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle unico_idtech Managed Yes\n\n## Response Metrics\n\nResponse Time 8 days Bounty Time 286 da",
             "published": null,
             "score": 1
           },
           {
             "title": "Unico IDtech | Security Program",
             "url": "https://ooosec.com/programs/unico-idtech",
-            "snippet": "Unico IDtech | Security Program\n\n## Unico IDtech\n\n# Unico IDtech\n\nBounty Range\n\n$150 - $3,000\n\nexternal program\n\n## Details\n\n# Unico IDTech Bug Bounty Program\n\nUnico IDTech is pioneering the future of",
+            "snippet": "Unico IDtech | Security Program\n\n## Unico IDtech\n\n# Unico IDtech\n\nBounty Range\n\n$150 - $3,000\n\nexternal program\n\n### Sign in to view full program details\n\nAccess scope, rewards, hacktivity, and submit",
             "published": null,
             "score": 0.5
           },
           {
             "title": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com",
             "url": "https://bbscope.com/program/h1/unico_idtech",
-            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n15\n\nIn Scope\n\n1\n\nOut of Scope\n\nIn-Scope Assets (15)\n\n| Asset | Category | Bount",
+            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n14\n\nIn Scope\n\n2\n\nOut of Scope\n\nIn-Scope Assets (14)\n\n| Asset | Category | Bount",
             "published": null,
             "score": 0
           }
@@ -2830,18 +2830,18 @@
             "score": 0.5
           },
           {
-            "title": "unico-labs/unico-sdks-poc-kotlin",
-            "url": "https://github.com/unico-labs/unico-sdks-poc-kotlin",
-            "snippet": "# Repository: unico-labs/unico-sdks-poc-kotlin\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Kotlin\n- Languages: Kotlin (54.6%), Python (45.4%)\n- License: Apache License 2.",
-            "published": "2026-04-14T19:41:19.000Z",
+            "title": "mcp-dev-latam/packages/identity/unico at main · codespar/mcp-dev-latam · GitHub",
+            "url": "https://github.com/codespar/mcp-dev-latam/tree/main/packages/identity/unico",
+            "snippet": "mcp-dev-latam/packages/identity/unico at main · codespar/mcp-dev-latam · GitHub\n\n## Files\n\nmain\n\n# unico\n\nmain\n\n# unico\n\nTop\n\nLast commit message\n\nLast commit date\n\nView all files\n\n## README.md\n\n# @co",
+            "published": "2026-03-30T23:44:31.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-30T05:06:16.617Z"
+        "enriched_at": "2026-07-08T04:16:02.584Z"
       },
-      "timestamp": "2026-06-30T05:06:18.048Z"
+      "timestamp": "2026-07-08T04:16:04.175Z"
     },
     "wallet_on_telegram": {
       "intel": {
@@ -2849,7 +2849,7 @@
           {
             "title": "Telegram Wallet: A Complete guide - how to create, top up, and withdraw",
             "url": "https://bytwork.com/en/wallets/telegram-wallet",
-            "snippet": "Telegram Wallet: A Complete guide - how to create, top up, and withdraw\n\nBuild a Mining Rig\n\nChoosing a video card Power supply selection\n\n# Telegram Wallet: A complete review, security, and feedback\n",
+            "snippet": "Telegram Wallet: A Complete guide - how to create, top up, and withdraw\n\nBlockchain\n\n- Wallets\n- Bitcoin\n- Ethereum\n- All currencies\n- Video\n- Events\n- People\n- Company\n\nBuild a Mining Rig\n\nChoosing a",
             "published": "2026-02-06T17:50:16.000Z",
             "score": 1
           },
@@ -2885,18 +2885,18 @@
             "score": 0.5
           },
           {
-            "title": "DavisDmitry/BitPurseBot",
-            "url": "https://github.com/DavisDmitry/BitPurseBot",
-            "snippet": "# Repository: DavisDmitry/BitPurseBot\n\nSelf-custody Bitcoin wallet within Telegram\n\n- Stars: 6\n- Forks: 3\n- Watchers: 6\n- Open issues: 0\n- Primary language: Zig\n- Languages: Zig (62.8%), TypeScript (1",
-            "published": "2023-10-10T13:15:33.000Z",
+            "title": "Libermall/Telegram-Cryptocurrency-Wallet-Libermall",
+            "url": "https://github.com/Libermall/Telegram-Cryptocurrency-Wallet-Libermall",
+            "snippet": "# Repository: Libermall/Telegram-Cryptocurrency-Wallet-Libermall\n\nReference implementation: Telegram bot acting as a TON wallet, multi-cheque sender, fiat-invoice acceptor, staking front-end and DEX g",
+            "published": "2023-08-11T15:13:23.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-30T05:06:18.048Z"
+        "enriched_at": "2026-07-08T04:16:04.175Z"
       },
-      "timestamp": "2026-06-30T05:06:19.532Z"
+      "timestamp": "2026-07-08T04:16:05.695Z"
     },
     "chia_network": {
       "intel": {
@@ -2909,49 +2909,49 @@
             "score": 1
           },
           {
+            "title": "Untitled",
+            "url": "https://leastauthority.com/chia-network-offers-primitive-final-audit-report/",
+            "snippet": "o]\n\nLeast Authority\n\nPRIVACY MATTERS\n\nOffers Primitive\nSecurity Audit Report\n\nChia Network\n\nFinal Audit Report: 20 September 2023\n\nTable of Contents\nOverview\nBackground\nProject Dates\nReview Team\nCover",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "CAT1 Vulnerability Explained - CVE and CWE - Chia Network",
             "url": "https://www.chia.net/2022/07/29/cat1-vulnerability-explained-cve-and-cwe/",
             "snippet": "CAT1 Vulnerability Explained - CVE and CWE - Chia Network\n\n##### Chia Blog\n\n# CAT1 Vulnerability Explained – CVE and CWE\n\n###### July 29, 2022\n\n###### by Chia Team\n\nPart of our commitment to the secur",
             "published": "2022-07-29T19:55:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "210428_Chia Network Coloured Coin Implementation Final Audit Report",
-            "url": "https://chia.net/wp-content/uploads/2022/09/LeastAuthority_Chia_Network_Coloured_Coin_Implementation_Final_Audit_Report-2021-04-30.pdf",
-            "snippet": "### Coloured Coins Implementation Security Audit Report\n\n## Chia Network\n\nFinal Report Version: 30 April 2021\n\n### Table of Contents\n\nOverview \nBackground \nProject Dates \nReview Team \nCoverage \nTarget",
-            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "[SEC-615] Reject malformed weight proof segments with overflow block at index 0",
-            "url": "https://github.com/Chia-Network/chia-blockchain/pull/20747",
-            "snippet": "# [SEC-615] Reject malformed weight proof segments with overflow block at index 0\n\n- State: merged\n- Author: TheLastCicada\n- Created: 2026-03-31T15:57:09Z\n- Updated: 2026-04-02T19:08:40Z\n- Repository:",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "wizicer/chia_hackathon",
             "url": "https://github.com/wizicer/chia_hackathon",
-            "snippet": "# Repository: wizicer/chia_hackathon\n\nPopchia, Just like the corn was blasted into many small popcorns, we blasted Chia into a lot of popchia! Everyone can participate in this popchia grabbing game, f",
-            "published": "2022-02-04T07:04:12.000Z",
-            "score": 0.5
+            "snippet": "# wizicer/chia_hackathon\n\nPopchia, Just like the corn was blasted into many small popcorns, we blasted Chia into a lot of popchia! Everyone can participate in this popchia grabbing game, first come fi",
+            "published": null,
+            "score": 1
           },
           {
             "title": "POST-4.md at main · kimsk/chia-piggybank",
             "url": "https://github.com/kimsk/chia-piggybank/blob/main/POST-4.md",
             "snippet": "# File: kimsk/chia-piggybank/POST-4.md\n\n- Repository: kimsk/chia-piggybank | Learning Chia & Chialisp via Piggybank Example | 12 stars | Python\n- Branch: main\n\n```md\n# Securing Piggybank Coin (ANNOUNC",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "[CHIA-4002] [Bug] Untrusted fork-boundary race-cache drop skips coin-state application and leaves trade status stale",
+            "url": "https://github.com/Chia-Network/chia-blockchain/issues/20649",
+            "snippet": "# [CHIA-4002] [Bug] Untrusted fork-boundary race-cache drop skips coin-state application and leaves trade status stale\n\n- State: closed\n- Author: roopd3v\n- Created: 2026-03-11T21:54:25Z\n- Updated: 202",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-06-30T05:06:19.532Z"
+        "enriched_at": "2026-07-08T04:16:05.695Z"
       },
-      "timestamp": "2026-06-30T05:06:20.936Z"
+      "timestamp": "2026-07-08T04:16:07.209Z"
     },
     "3cx": {
       "intel": {
@@ -6051,5 +6051,5 @@
       "timestamp": "2026-07-06T05:14:17.303Z"
     }
   },
-  "lastRun": "2026-07-07T04:53:56.615Z"
+  "lastRun": "2026-07-08T04:16:07.210Z"
 }
