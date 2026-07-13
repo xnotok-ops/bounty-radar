@@ -1388,498 +1388,102 @@
     },
     "anduril_industries": {
       "intel": {
-        "writeups": [
-          {
-            "title": "Unchiseled, the story of my first CVE (CVE-2024-43798)",
-            "url": "https://blog.fyralabs.com/unchiseled/",
-            "snippet": "Unchiseled, the story of my first CVE (CVE-2024-43798)\n\nI've always found it ironic how the worst vulnerabilities are often caused by the simplest mistakes. Today, I will be talking about CVE-2024-437",
-            "published": "2024-08-27T04:48:06.000Z",
-            "score": 1
-          },
-          {
-            "title": "MAL-2026-2083 - Vulnerability-Lookup",
-            "url": "https://cve.circl.lu/vuln/mal-2026-2083",
-            "snippet": "MAL-2026-2083 - Vulnerability-Lookup\n\n##### mal-2026-2083\n\n###### Vulnerability from ossf_malicious_packages\n\nPublished\n\n2026-03-23 08:06\n\nModified\n\n2026-04-10 15:51\n\nSummary\n\nMalicious code in anduri",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way | by Hacker MD | InfoSec Write-ups",
-            "url": "https://infosecwriteups.com/how-i-spent-30-days-chasing-a-40-000-bug-bounty-and-what-i-learned-the-hard-way-dc35caf61142",
-            "snippet": "How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way | by Hacker MD | InfoSec Write-ups\n\nSitemap\n\nSign up\n\nGet app\n\nWrite\n\nSign up\n\n## InfoSec Write-ups\n\nA collection of wr",
-            "published": "2026-03-14T08:26:08.000Z",
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "Chocapikk/CVE-2025-67494",
-            "url": "https://github.com/Chocapikk/CVE-2025-67494",
-            "snippet": "# Repository: Chocapikk/CVE-2025-67494\n\n- Stars: 6\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: master\n- Created: 2025-12-10T13:13:57Z\n- L",
-            "published": "2025-12-10T13:13:57.000Z",
-            "score": 1
-          },
-          {
-            "title": "exploit.py at main · tc4dy/CVE-2026-29000-PoC-Exploit",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# File: tc4dy/CVE-2026-29000-PoC-Exploit/exploit.py\n\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit | CVE-2026-29000 – pac4j-jwt Authentication Bypass (🔥 CVSS 10.0). One-click admin forge via public ",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "mlgzackfly/CVE-2026-6643",
-            "url": "https://github.com/mlgzackfly/CVE-2026-6643",
-            "snippet": "# mlgzackfly/CVE-2026-6643\n\nASUSTOR ADM 5.1.2 vpnupload.cgi Format String & Stack Buffer Overflow RCE (CVE-2026-6643)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Homepage: https://blog.mlg",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-05T04:58:05.279Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:13.839Z"
       },
-      "timestamp": "2026-07-05T04:58:06.598Z"
+      "timestamp": "2026-07-13T04:32:14.704Z"
     },
     "twilio": {
       "intel": {
-        "writeups": [
-          {
-            "title": "Discovering a $5000 RCE via Dependency Confusion Vulnerability",
-            "url": "https://sechub.in/view/2895469",
-            "snippet": "Discovering a $5000 RCE via Dependency Confusion Vulnerability\n\n# Discovering a $5000 RCE via Dependency Confusion Vulnerability\n\nInfoSec Write-ups - Medium 2024-06-18 02:01:27\n\n收藏\n\nHey there ??\n\nI am",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "CVE-2026-4984: Twilio Integration Information Disclosure",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4984/",
-            "snippet": "CVE-2026-4984: Twilio Integration Information Disclosure\n\nSkip to main content\n\nA Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection. Six years running. Find Out Why\n\nSingularity Mark",
-            "published": "2026-03-27T15:17:03.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Forays into Security Testing with Bugcrowd and Twilio - Nick Palmer - palmr.co.uk",
-            "url": "https://palmr.co.uk/posts/10---bugcrowd/",
-            "snippet": "Forays into Security Testing with Bugcrowd and Twilio - Nick Palmer - palmr.co.uk\n\n# Forays into Security Testing with Bugcrowd and Twilio\n\nUntil recently I had heard of security flaw finding competit",
-            "published": "2015-01-18T19:24:50.000Z",
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "Pipecat: Telephony WebSocket `/ws` Unauthenticated Call-Control Abuse via Attacker-Supplied Call SID · CVE-2026-54695 · GitHub Advisory Database · GitHub",
-            "url": "https://github.com/advisories/GHSA-j8cv-x86q-rj85",
-            "snippet": "Pipecat: Telephony WebSocket `/ws` Unauthenticated Call-Control Abuse via Attacker-Supplied Call SID · CVE-2026-54695 · GitHub Advisory Database · GitHub\n\n## Pipecat: Telephony WebSocket `/ws` Unauthe",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "[Bug]: Unauthenticated Remote Code Execution via SMS Webhook — Missing Twilio Signature Validation · Issue #7089 · NousResearch/hermes-agent",
-            "url": "https://github.com/NousResearch/hermes-agent/issues/7089",
-            "snippet": "# Issue: NousResearch/hermes-agent #7089\n\n- Repository: NousResearch/hermes-agent | The agent that grows with you | 196K stars | Python\n\n## [Bug]: Unauthenticated Remote Code Execution via SMS Webhook",
-            "published": "2026-04-10T10:02:21.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "typical-pashochek/CVE-2024-39713",
-            "url": "https://github.com/typical-pashochek/CVE-2024-39713",
-            "snippet": "# typical-pashochek/CVE-2024-39713\n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2025-02-07T13:22:36Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- typical-",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-05T04:58:06.598Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:14.705Z"
       },
-      "timestamp": "2026-07-05T04:58:07.905Z"
+      "timestamp": "2026-07-13T04:32:15.561Z"
     },
     "doordash": {
       "intel": {
-        "writeups": [
-          {
-            "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute - Cybernoz",
-            "url": "https://cybernoz.com/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
-            "snippet": "DoorDash email spoofing vulnerability sparks messy disclosure dispute - Cybernoz\n\nTable of Contents\n\n1. Anyone could send 'official' DoorDash emails\n2. Escalated after 15 months\n3. Ethical disclosure ",
-            "published": "2025-11-17T16:46:31.000Z",
-            "score": 1
-          },
-          {
-            "title": "DoorDash Security Flaw - Email Impersonation Risk | Scenario.press...",
-            "url": "https://www.scenario.press/blogs/311293/DoorDash-Security-Flaw-Email-Impersonation-Risk",
-            "snippet": "DoorDash Security Flaw - Email Impersonation Risk | Scenario.press...\n\nSearch Results\n\nSee All Results\n\nJoin\n\nSign In\n\nSign Up\n\nSearch\n\nNight Mode\n\n### DoorDash Security Flaw - Email Impersonation Ris",
-            "published": "2026-03-11T21:53:11.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "NVD - CVE-2019-17397",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-17397",
-            "snippet": "NVD - CVE-2019-17397\n\n## CVE-2019-17397 Detail\n\nModified After Enrichment\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may re",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "SpunkySarb/doordash-mcp",
-            "url": "https://github.com/spunkysarb/doordash-mcp",
-            "snippet": "# Repository: SpunkySarb/doordash-mcp\n\nMCP server for DoorDash — search restaurants, browse menus, manage cart via AI agents\n\n- Stars: 1\n- Forks: 1\n- Watchers: 0\n- Open issues: 0\n- Primary language: J",
-            "published": "2026-03-13T01:24:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "itsablabla/door-dash-mcp",
-            "url": "https://github.com/itsablabla/door-dash-mcp",
-            "snippet": "# itsablabla/door-dash-mcp\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: claude/doorDash-mcp-automation-IL5ha\n- Created: 2025-12-30T22:22:32Z\n- Status: ARCHIVED\n\n## Languages",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE",
-            "url": "https://github.com/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE",
-            "snippet": "# Repository: mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Creat",
-            "published": "2026-02-19T16:10:49.000Z",
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-05T04:58:07.905Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:15.562Z"
       },
-      "timestamp": "2026-07-05T04:58:09.232Z"
+      "timestamp": "2026-07-13T04:32:16.431Z"
     },
     "robinhood": {
       "intel": {
-        "writeups": [
-          {
-            "title": "mohamedfhafah/robinhood-bounty-starter",
-            "url": "https://github.com/mohamedfhafah/robinhood-bounty-starter",
-            "snippet": "# Repository: mohamedfhafah/robinhood-bounty-starter\n\nBug bounty starter workspace for compliant reconnaissance, testing, and reporting.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary",
-            "published": "2026-03-28T16:22:36.000Z",
-            "score": 1
-          },
-          {
-            "title": "Email Injection Phishing: Robinhood Account Creation Abuse 2026 | Satyam Rastogi - vCISO & Hacker",
-            "url": "https://www.satyamrastogi.com/blog/robinhood-account-creation-email-injection-phishing-2026/",
-            "snippet": "Email Injection Phishing: Robinhood Account Creation Abuse 2026 | Satyam Rastogi - vCISO & Hacker\n\n0%\n\nRed Team\n\n# Robinhood Account Creation Abuse: Email Injection to Phishing at Scale\n\nHow a flawed ",
-            "published": "2024-07-14T03:21:05.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Robinhood Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/robinhood/",
-            "snippet": "Robinhood Bug Bounty Program - Bug Bounties\n\n# Robinhood\n\nBounty Recognition\n\n## Program Details\n\nHandle robinhood Managed Yes\n\n## Response Metrics\n\nResponse Time 6 days Bounty Time 51 days Resolution",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "mohamedfhafah/robinhood-bounty-starter",
-            "url": "https://github.com/mohamedfhafah/robinhood-bounty-starter",
-            "snippet": "# Repository: mohamedfhafah/robinhood-bounty-starter\n\nBug bounty starter workspace for compliant reconnaissance, testing, and reporting.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary",
-            "published": "2026-03-28T16:22:36.000Z",
-            "score": 1
-          },
-          {
-            "title": "GitHub - takeshi-su57/Robin-Hood-Attack",
-            "url": "https://github.com/takeshi-su57/Robin-Hood-Attack",
-            "snippet": "GitHub - takeshi-su57/Robin-Hood-Attack\n[Skip to content](#start-of-content)\n## Navigation Menu\nToggle navigation\n[\n](https://github.com/)\n[\nSign in\n](https://github.com/login?return_to=https://github",
-            "published": "2022-11-13T14:29:04.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "lunarraveneradicate/robinhood-auto-testnet",
-            "url": "https://github.com/lunarraveneradicate/robinhood-auto-testnet",
-            "snippet": "# lunarraveneradicate/robinhood-auto-testnet\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-03-05T17:22:52Z\n\n## Languages\n\n- JavaSc",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-05T04:58:09.232Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:16.431Z"
       },
-      "timestamp": "2026-07-05T04:58:10.521Z"
+      "timestamp": "2026-07-13T04:32:17.282Z"
     },
     "vercel-open-source": {
       "intel": {
-        "writeups": [
-          {
-            "title": "Our $1 million hacker challenge for React2Shell - Vercel",
-            "url": "https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell",
-            "snippet": "# Our $1 million hacker challenge for React2Shell\n\nPublished: December 19, 2025 | Authors: Malte Ubl | Category: Security\n\n---\n\nIn the weeks following React2Shell's disclosure, our firewall blocked ov",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "$170k in Bypasses: The Vercel React2Shell Challenge | Hacktron AI",
-            "url": "https://www.hacktron.ai/blog/react2shell-vercel-waf-bypass/",
-            "snippet": "$170k in Bypasses: The Vercel React2Shell Challenge | Hacktron AI\n\nOverview\n\n- Intro\n- The WAF Grammar Problem\n- Understanding the WAF\n- Bypass 1: Duplicate Boundary Parameter\n- Updating Our Observati",
-            "published": "2026-05-04T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack",
-            "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28?permalink_comment_id=6140048",
-            "snippet": "# Gist: How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack\n\n- Author: [@hackermondev](https://github.com/hackermondev)\n- Public gist (1 file)\n- ",
-            "published": "2025-12-16T20:44:09.000Z",
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass",
-            "url": "https://github.com/Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass",
-            "snippet": "# Repository: Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass\n\nFull-Read SSRF in Vercel AI SDK. validateDownloadUrl() only checks hostname strings, never resolves DNS. Any domain pointing to ",
-            "published": "2026-03-24T11:40:54.000Z",
-            "score": 1
-          },
-          {
-            "title": "hunter-0x7/CVE-2026-44578",
-            "url": "https://github.com/hunter-0x7/CVE-2026-44578",
-            "snippet": "# Repository: hunter-0x7/CVE-2026-44578 (fork of [dinosn/CVE-2026-44578](https://github.com/dinosn/CVE-2026-44578))\n\nCVE-2026-44578: Next.js WebSocket Upgrade SSRF — pre-auth credential theft via loca",
-            "published": "2026-05-17T09:52:13.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "yuchant/critical-cve-demo",
-            "url": "https://github.com/yuchant/critical-cve-demo",
-            "snippet": "# Repository: yuchant/critical-cve-demo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- Primary language: TypeScript\n- Languages: TypeScript (63.7%), CSS (36.3%)\n- Default branch: main\n- Creat",
-            "published": "2025-12-09T07:14:20.000Z",
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-05T04:58:10.521Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:17.283Z"
       },
-      "timestamp": "2026-07-05T04:58:11.757Z"
+      "timestamp": "2026-07-13T04:32:18.169Z"
     },
     "banco_plata": {
       "intel": {
-        "writeups": [
-          {
-            "title": "HackerOne:Banco Plata Bug Bounty Program - BBRadar.io",
-            "url": "https://bbradar.io/program/HackerOne:banco_plata",
-            "snippet": "HackerOne:Banco Plata Bug Bounty Program - BBRadar.io\n\n# HackerOne:Banco Plata Bug Bounty Program\n\nThis site uses cookies for essential functionality and analytics. By using this site, you agree to ou",
-            "published": "2024-01-01T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "Banco Plata Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/banco-plata/",
-            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\n# Banco Plata\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle banco_plata Managed Yes\n\n## Response Metrics\n\nResponse Time 14 days Bounty Time 1205 day",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "GHSL-2024-297_GHSL-2024-298: Remote Code Execution in Plenti via arbitrary file write and arbitrary file deletion - CVE-2024-49380, CVE-2024-49381 | GitHub Security Lab",
-            "url": "https://securitylab.github.com/advisories/GHSL-2024-297_GHSL-2024-298_plenti/",
-            "snippet": "GHSL-2024-297_GHSL-2024-298: Remote Code Execution in Plenti via arbitrary file write and arbitrary file deletion - CVE-2024-49380, CVE-2024-49381 | GitHub Security Lab \n\n- Resources\n- Open Source Com",
-            "published": "2024-10-25T00:00:00.000Z",
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "Critical Remote Code Execution (RCE) via Jinja2 SSTI · Advisory · masci/banks · GitHub",
-            "url": "https://github.com/masci/banks/security/advisories/GHSA-gphh-9q3h-jgpp",
-            "snippet": "Critical Remote Code Execution (RCE) via Jinja2 SSTI · Advisory · masci/banks · GitHub\n\n/ banks Public\n\nNotifications\n\nStar 126\n\n- Fork 20\n\n# Critical Remote Code Execution (RCE) via Jinja2 SSTI\n\nHigh",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "GHSL-2024-297_GHSL-2024-298: Remote Code Execution in Plenti via arbitrary file write and arbitrary file deletion - CVE-2024-49380, CVE-2024-49381 | GitHub Security Lab",
-            "url": "https://securitylab.github.com/advisories/GHSL-2024-297_GHSL-2024-298_plenti/",
-            "snippet": "GHSL-2024-297_GHSL-2024-298: Remote Code Execution in Plenti via arbitrary file write and arbitrary file deletion - CVE-2024-49380, CVE-2024-49381 | GitHub Security Lab \n\n- Resources\n- Open Source Com",
-            "published": "2024-10-25T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "POC RCE Plausible >= 3.0.0-rc.0 and < 3.2.1",
-            "url": "https://gist.github.com/Calyhre/67337024ece3762cbc3c9e4956b0e3d4",
-            "snippet": "# Gist: POC RCE Plausible >= 3.0.0-rc.0 and < 3.2.1\n\n- Author: [@Calyhre](https://github.com/Calyhre)\n- Public gist (1 file)\n- Created: 2026-06-01T16:29:08Z\n- Updated: 2026-06-02T16:02:02Z\n\n## poc.mjs",
-            "published": "2026-06-01T16:29:08.000Z",
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-05T04:58:11.758Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:18.169Z"
       },
-      "timestamp": "2026-07-05T04:58:12.976Z"
+      "timestamp": "2026-07-13T04:32:19.038Z"
     },
     "netscaler_public_program": {
       "intel": {
-        "writeups": [
-          {
-            "title": "0xBlackash/CVE-2026-3055",
-            "url": "https://github.com/0xBlackash/CVE-2026-3055",
-            "snippet": "# Repository: 0xBlackash/CVE-2026-3055\n\nCVE-2026-3055\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-29T10:58:13Z\n- Last push: 2026-03-29T11:01:36Z\n- C",
-            "published": "2026-03-29T10:58:13.000Z",
-            "score": 1
-          },
-          {
-            "title": "NetScaler Console/SDX Authenticated Arbitrary File Read/Write (FIXED) - Rapid7",
-            "url": "https://www.rapid7.com/blog/post/cve-2025-4365-cve-unassigned-netscaler-console-sdx-authenticated-arbitrary-file-read-write-fixed/",
-            "snippet": "NetScaler Console/SDX Authenticated Arbitrary File Read/Write (FIXED) - Rapid7\n\nRapid7’s 2026 Global Cybersecurity Summit is now available on-demand. Watch sessions.\n\nVulnerabilities and Exploits\n\n# C",
-            "published": "2025-06-18T16:54:34.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2025-5777: CitrixBleed 2 Write-Up… Maybe?",
-            "url": "https://horizon3.ai/attack-research/attack-blogs/cve-2025-5777-citrixbleed-2-write-up-maybe/",
-            "snippet": "CVE-2025-5777: CitrixBleed 2 Write-Up… Maybe?\n\n# CVE-2025-5777: CitrixBleed 2 Write-Up… Maybe?\n\nJimi Sebree\n\nAttack Blogs\n\n## Background and Confusion\n\nOn June 17, 2025, Citrix published an advisory d",
-            "published": "2025-07-07T13:29:17.000Z",
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "RickGeex/CVE-2025-5777-CitrixBleed",
-            "url": "https://github.com/RickGeex/CVE-2025-5777-CitrixBleed",
-            "snippet": "# Repository: RickGeex/CVE-2025-5777-CitrixBleed\n\nCitrixBleed-2 (CVE-2025-5777) – proof-of-concept exploit for NetScaler ADC/Gateway “memory bleed”\n\n- Stars: 1\n- Forks: 4\n- Watchers: 1\n- Open issues: ",
-            "published": "2025-07-04T21:13:37.000Z",
-            "score": 1
-          },
-          {
-            "title": "mpgn/CVE-2019-19781",
-            "url": "https://github.com/mpgn/CVE-2019-19781",
-            "snippet": "# Repository: mpgn/CVE-2019-19781\n\nCVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit\n\n- Stars: 158\n- Forks: 34\n- Watchers: 3\n- Open issues: 2\n- Primary language: Python\n- Language",
-            "published": "2020-01-11T09:49:17.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "0xgh057r3c0n/CVE-2025-5777",
-            "url": "https://github.com/0xgh057r3c0n/CVE-2025-5777",
-            "snippet": "# Repository: 0xgh057r3c0n/CVE-2025-5777\n\nCitrix NetScaler Memory Leak PoC\n\n- Stars: 0\n- Forks: 2\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- License: MIT License (",
-            "published": "2025-07-10T18:48:21.000Z",
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-05T04:58:12.976Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:19.038Z"
       },
-      "timestamp": "2026-07-05T04:58:14.225Z"
+      "timestamp": "2026-07-13T04:32:19.895Z"
     },
     "meesho_bbp": {
       "intel": {
-        "writeups": [
-          {
-            "title": "Cyber security assessment. 1. Bug Bounty Platform Analysis | by Manugowdahd | Mar, 2026 | Medium",
-            "url": "https://medium.com/@manugowdahd896/cyber-security-assessment-ad806a0aa307",
-            "snippet": "Cyber security assessment. 1. Bug Bounty Platform Analysis | by Manugowdahd | Mar, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Cyber security assessment\n\n6 min read\n\nMar 13, 2026\n\n--\n\nListen\n\nShare\n\n#",
-            "published": "2026-03-13T09:41:36.000Z",
-            "score": 1
-          },
-          {
-            "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "url": "https://github.com/honestcorrupt/MEESHO-CVE",
-            "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "url": "https://github.com/honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "url": "https://github.com/honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "url": "https://github.com/honestcorrupt/MEESHO-CVE",
-            "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "kevthehermit/MeshCentral-RogueAgent",
-            "url": "https://github.com/kevthehermit/MeshCentral-RogueAgent",
-            "snippet": "# kevthehermit/MeshCentral-RogueAgent\n\nA RogueAgent and exploit chain for MeshCentral\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 202",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-05T04:58:14.225Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:19.896Z"
       },
-      "timestamp": "2026-07-05T04:58:15.397Z"
+      "timestamp": "2026-07-13T04:32:20.760Z"
     },
     "braze_inc": {
       "intel": {
-        "writeups": [
-          {
-            "title": "OSV - Open Source Vulnerabilities",
-            "url": "https://osv.dev/vulnerability/MAL-2025-169",
-            "snippet": "# MAL-2025-169\n\nImport Source https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/braze-web-sdk/MAL-2025-169.json JSON Data https://api.osv.dev/v1/vulns/MAL-2025-169 Aliases\n\n- GHSA",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "BrazeUI - Low Vulnerability - AIKIDO-2025-10027",
-            "url": "https://intel.aikido.dev/cve/AIKIDO-2025-10027",
-            "snippet": "BrazeUI - Low Vulnerability - AIKIDO-2025-10027\n\n# AIKIDO-2025-10027\n\nBrazeUI is vulnerable to Incorrect Authorization\n\nIncorrect Authorization Pre-CVE\n\n20\n\nLow Risk\n\n### This Affects:\n\n5.0.0 - 11.4.0",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Go Go XSS Gadgets: Chaining a DOM Clobbering Exploit in the Wild | ziot",
-            "url": "https://buer.haus/2024/02/23/go-go-xss-gadgets-chaining-a-dom-clobbering-exploit-in-the-wild/",
-            "snippet": "Go Go XSS Gadgets: Chaining a DOM Clobbering Exploit in the Wild | ziot\n\nBrett Buerhaus (@bbuerhaus), Sam Curry (@samwcyo), Maik Robert (@xEHLE_)\n\nA few years ago, I discovered a Cross-Site Scripting ",
-            "published": "2024-02-23T00:00:00.000Z",
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "halilkirazkaya/CVE-2026-3844",
-            "url": "https://github.com/halilkirazkaya/CVE-2026-3844",
-            "snippet": "# halilkirazkaya/CVE-2026-3844\n\nCVE-2026-3844 — Breeze Cache Plugin RCE Exploit\n\n- Stars: 4\n- Forks: 0\n- Watchers: 4\n- Open issues: 0\n- Default branch: main\n- Created: 2026-04-30T11:04:00Z\n\n## Languag",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "exploit.py at main · tc4dy/CVE-2026-29000-PoC-Exploit",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# File: tc4dy/CVE-2026-29000-PoC-Exploit/exploit.py\n\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit | CVE-2026-29000 – pac4j-jwt Authentication Bypass (🔥 CVSS 10.0). One-click admin forge via public ",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "kartik2005221/CVE-2025-58434-AND-59528-POC",
-            "url": "https://github.com/kartik2005221/CVE-2025-58434-AND-59528-POC",
-            "snippet": "# kartik2005221/CVE-2025-58434-AND-59528-POC\n\nCombined PoC for CVE-2025-28434 and CVE-2025-59528\n\n- Stars: 16\n- Forks: 0\n- Watchers: 16\n- Open issues: 0\n- Default branch: master\n- Created: 2026-04-13T",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-05T04:58:15.397Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:20.760Z"
       },
-      "timestamp": "2026-07-05T04:58:16.610Z"
+      "timestamp": "2026-07-13T04:32:21.608Z"
     },
     "kong": {
       "intel": {
@@ -5509,51 +5113,14 @@
     },
     "agoda-public": {
       "intel": {
-        "writeups": [
-          {
-            "title": "Inside Agoda’s Bug Bounty Program: How We Stay Ahead of Cyber Threats | by Agoda Engineering | Agoda Engineering & Design | Medium",
-            "url": "https://medium.com/agoda-engineering/how-agoda-works-with-hackers-to-strengthen-its-security-2e4129299b8b",
-            "snippet": "Inside Agoda’s Bug Bounty Program: How We Stay Ahead of Cyber Threats | by Agoda Engineering | Agoda Engineering & Design | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n",
-            "published": "2025-02-19T06:19:12.000Z",
-            "score": 1
-          },
-          {
-            "title": "Tourism platform Agoda launches public bug bounty program on HackerOne, rewards up to $6,000 - TNGlobal",
-            "url": "https://technode.global/2026/06/23/tourism-platform-agoda-launches-public-bug-bounty-program-on-hackerone-rewards-up-to-6000/",
-            "snippet": "Tourism platform Agoda launches public bug bounty program on HackerOne, rewards up to $6,000 - TNGlobal\n\n## Tourism platform Agoda launches public bug bounty program on HackerOne, rewards up to $6,000",
-            "published": "2026-06-23T09:10:40.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Agoda launches public bug bounty with USD $6,000 reward",
-            "url": "https://ecommercenews.asia/story/agoda-launches-public-bug-bounty-with-usd-6-000-reward",
-            "snippet": "Agoda launches public bug bounty with USD $6,000 reward\n\neCommerceNews Asia - Technology news for digital commerce decision-makers\n\nAsia Powered By\n\n# Agoda launches public bug bounty with USD $6,000 ",
-            "published": "2026-06-25T04:25:00.000Z",
-            "score": 0
-          }
-        ],
+        "writeups": [],
         "twitter": [],
-        "github": [
-          {
-            "title": "Agoda Cashback Bot v3.0 - Auto register, search, scan cashback hotels",
-            "url": "https://gist.github.com/algianm/770bd80b3572509f59e5409aa7690343",
-            "snippet": "# Agoda Cashback Bot v3.0 - Auto register, search, scan cashback hotels\n\n- Owner: algianm\n- Created: 2026-05-17T18:04:37Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## agoda_cashback_bot_v3.py\n\nLanguage:",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "README.md",
-            "url": "https://github.com/MarxMa95/agoda-hotel-price-alert/blob/main/README.md",
-            "snippet": "# README.md\n\n- Branch: main\n- Repository: MarxMa95/agoda-hotel-price-alert\n\n---\n\n# Agoda Hotel Price Alert\n\n![Platform](https://img.shields.io/badge/platform-macOS-black)\n![Python](https://img.shields",
-            "published": null,
-            "score": 0
-          }
-        ],
+        "github": [],
         "defi_audit": [],
-        "total_results": 5,
-        "enriched_at": "2026-07-05T04:58:03.782Z"
+        "total_results": 0,
+        "enriched_at": "2026-07-13T04:32:12.969Z"
       },
-      "timestamp": "2026-07-05T04:58:05.279Z"
+      "timestamp": "2026-07-13T04:32:13.839Z"
     },
     "yuga_labs": {
       "intel": {
@@ -5611,5 +5178,5 @@
       "timestamp": "2026-07-06T05:14:17.303Z"
     }
   },
-  "lastRun": "2026-07-12T04:26:14.215Z"
+  "lastRun": "2026-07-13T04:32:21.609Z"
 }
