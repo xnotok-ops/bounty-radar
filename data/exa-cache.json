@@ -2523,9 +2523,9 @@
             "score": 1
           },
           {
-            "title": "The Phantom Price Glitch: How I Hacked ¥750,000 From a Japanese E-Commerce Giant💀 | by 0B1To_X_ucH!h4 | Jun, 2026 | Medium",
+            "title": "Medium",
             "url": "https://atanupal22256.medium.com/the-phantom-price-glitch-how-i-hacked-750-000-from-a-japanese-e-commerce-giant-a36bc4413cd0",
-            "snippet": "The Phantom Price Glitch: How I Hacked ¥750,000 From a Japanese E-Commerce Giant💀 | by 0B1To_X_ucH!h4 | Jun, 2026 | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n1. Pro",
+            "snippet": "MediumThe Phantom Price Glitch: How I Hacked ¥750,000 From a Japanese E-Commerce Giant💀 | by 0B1To_X_ucH!h4 | Jun, 2026 | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n",
             "published": "2026-06-30T16:26:59.000Z",
             "score": 0.5
           },
@@ -2537,35 +2537,57 @@
             "score": 0
           }
         ],
-        "twitter": [],
+        "twitter": [
+          {
+            "title": "Inditex (Zara) Confirms Third-Party Data Breach: Transaction Records Exposed via Analytics Platform with April 21 Leak Deadline - Secure Bulletin",
+            "url": "https://securebulletin.com/inditex-zara-confirms-third-party-data-breach-transaction-records-exposed-via-analytics-platform-with-april-21-leak-deadline/",
+            "snippet": "Inditex (Zara) Confirms Third-Party Data Breach: Transaction Records Exposed via Analytics Platform with April 21 Leak Deadline - Secure Bulletin\n\nSecure Bulletin Navigating the cyber sea with knowled",
+            "published": "2026-04-21T13:26:13.000Z",
+            "score": 1
+          },
+          {
+            "title": "Inditex | Security Program",
+            "url": "https://ooosec.com/programs/inditex",
+            "snippet": "Inditex | Security Program\n\n## Inditex\n\n# Inditex\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n### Sign in to view full program details\n\nAccess scope, rewards, hacktivity, and submit ",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Inditex is investigating unauthorized access to its databases",
+            "url": "https://nucleovisual.com/en/Inditex-is-investigating-unauthorized-access-to-databases-hosted-by-an-external-provider./",
+            "snippet": "Inditex is investigating unauthorized access to its databases\n\n- Inditex has detected unauthorized access to databases hosted on servers of an external technology provider.\n- The affected databases co",
+            "published": "2026-04-16T16:25:18.000Z",
+            "score": 0
+          }
+        ],
         "github": [
+          {
+            "title": "nospher3x2/cosmicsting-cnext-exploit",
+            "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
+            "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
+            "published": null,
+            "score": 1
+          },
           {
             "title": "nmmorette/CVE-2024-34102",
             "url": "https://github.com/nmmorette/CVE-2024-34102",
             "snippet": "# Repository: nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- License: MIT License (",
             "published": "2026-02-13T18:02:36.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Chocapikk/CVE-2025-67494",
             "url": "https://github.com/Chocapikk/CVE-2025-67494",
             "snippet": "# Repository: Chocapikk/CVE-2025-67494\n\n- Stars: 6\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: master\n- Created: 2025-12-10T13:13:57Z\n- L",
             "published": "2025-12-10T13:13:57.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "nospher3x2/cosmicsting-cnext-exploit",
-            "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
-            "snippet": "# Repository: nospher3x2/cosmicsting-cnext-exploit (fork of [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits))\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc'",
-            "published": "2024-07-26T18:42:54.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:33.013Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:55:59.320Z"
       },
-      "timestamp": "2026-07-10T04:53:34.302Z"
+      "timestamp": "2026-07-18T03:56:00.791Z"
     },
     "visa": {
       "intel": {
@@ -2573,8 +2595,8 @@
           {
             "title": "usinfosec/visa-vulnerability-agentic-harness",
             "url": "https://github.com/usinfosec/visa-vulnerability-agentic-harness",
-            "snippet": "# usinfosec/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-06-11T1",
-            "published": null,
+            "snippet": "# Repository: usinfosec/visa-vulnerability-agentic-harness (fork of [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness))\n\nVisa Vulnerability Agentic H",
+            "published": "2026-06-11T11:23:42.000Z",
             "score": 1
           },
           {
@@ -2592,75 +2614,119 @@
             "score": 0
           }
         ],
-        "twitter": [],
+        "twitter": [
+          {
+            "title": "usinfosec/visa-vulnerability-agentic-harness",
+            "url": "https://github.com/usinfosec/visa-vulnerability-agentic-harness",
+            "snippet": "# Repository: usinfosec/visa-vulnerability-agentic-harness (fork of [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness))\n\nVisa Vulnerability Agentic H",
+            "published": "2026-06-11T11:23:42.000Z",
+            "score": 1
+          },
+          {
+            "title": "NVD - CVE-2026-3461",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-3461",
+            "snippet": "NVD - CVE-2026-3461\n\n## CVE-2026-3461 Detail\n\nNot Scheduled\n\n---\n\nThis CVE record is not being prioritized for NVD enrichment efforts due to resource or other concerns.\n\n### Description\n\nThe Visa Acce",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "CVE-2026-3461 - Vulnerability-Lookup",
+            "url": "https://vulnerability.circl.lu/vuln/cve-2026-3461",
+            "snippet": "CVE-2026-3461 - Vulnerability-Lookup\n\n#### CVE-2026-3461 (GCVE-0-2026-3461)\n\nhttps://vulnerability.circl.lu/vuln/cve-2026-3461 Vulnerability from cvelistv5– Published: 2026-04-15 08:28 – Updated: 2026",
+            "published": null,
+            "score": 0
+          }
+        ],
         "github": [
           {
             "title": "usinfosec/visa-vulnerability-agentic-harness",
             "url": "https://github.com/usinfosec/visa-vulnerability-agentic-harness",
-            "snippet": "# usinfosec/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-06-11T1",
-            "published": null,
+            "snippet": "# Repository: usinfosec/visa-vulnerability-agentic-harness (fork of [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness))\n\nVisa Vulnerability Agentic H",
+            "published": "2026-06-11T11:23:42.000Z",
             "score": 1
-          },
-          {
-            "title": "visa/visa-vulnerability-agentic-harness",
-            "url": "https://github.com/visa/visa-vulnerability-agentic-harness",
-            "snippet": "# Repository: visa/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 671\n- Forks: 107\n- Watchers: 10\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (99.",
-            "published": "2026-06-05T00:26:33.000Z",
-            "score": 0.5
           },
           {
             "title": "ericzundel/visa-mcp",
             "url": "https://github.com/ericzundel/visa-mcp",
             "snippet": "# Repository: ericzundel/visa-mcp (fork of [visa/ai](https://github.com/visa/ai))\n\nIntegration toolkit for connecting AI agents to the Visa Intelligent Commerce platform via MCP.\n\n- Stars: 0\n- Forks: ",
             "published": "2026-02-19T13:13:10.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "freedomfighter-007/MPP_Visa-TAP_PoC",
+            "url": "https://github.com/freedomfighter-007/MPP_Visa-TAP_PoC",
+            "snippet": "# freedomfighter-007/MPP_Visa-TAP_PoC\n\nStripe/Tempo Machine Payments Protocol (MPP) + Visa TAP Proof of Concept\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:34.302Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:56:00.791Z"
       },
-      "timestamp": "2026-07-10T04:53:36.012Z"
+      "timestamp": "2026-07-18T03:56:02.105Z"
     },
     "toolsforhumanity": {
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security",
-            "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz/",
-            "snippet": "Skip to content\n\n- Home\n- Bug Bounty\n- HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz\n\nCompany",
-            "published": "2024-06-19T18:00:08.000Z",
+            "title": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch",
+            "url": "https://vulnwatch.ai/entry/019f6870-0fb0-7005-9ac3-e5a58c5d2f0d",
+            "snippet": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch\n\n← Back to dashboard\n\nLow github · GHSA-pr64-jmmf-jp54\n\n# T",
+            "published": "2026-07-15T23:41:21.000Z",
             "score": 1
           },
           {
-            "title": "Security Detection Specialist at Tools for Humanity | DevOps projects",
-            "url": "https://devopsprojectshq.com/tools-for-humanity-security-detection-specialist/",
-            "snippet": "Security Detection Specialist at Tools for Humanity | DevOps projects\n\n## Never miss a job!\n\nJoin 1,800+ DevOps engineers getting weekly alerts for remote and US, EU roles that don't show up on the bi",
-            "published": null,
+            "title": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security",
+            "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz/",
+            "snippet": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security\n\nCompany Name: Tools for H",
+            "published": "2024-06-19T18:00:08.000Z",
             "score": 0.5
           },
           {
-            "title": "docs/article.md at master · hotmanxp/planning-with-files",
-            "url": "https://github.com/hotmanxp/planning-with-files/blob/master/docs/article.md",
-            "snippet": "# File: hotmanxp/planning-with-files/docs/article.md\n\n- Repository: hotmanxp/planning-with-files | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind",
+            "title": "fix(flows): close Composio tool_call tier-gate bypass (C1)",
+            "url": "https://github.com/tinyhumansai/openhuman/pull/5000",
+            "snippet": "# fix(flows): close Composio tool_call tier-gate bypass (C1)\n\n- State: merged\n- Author: graycyrus\n- Created: 2026-07-16T16:47:30Z\n- Updated: 2026-07-16T18:40:40Z\n- Repository: tinyhumansai/openhuman\n-",
             "published": null,
             "score": 0
           }
         ],
-        "twitter": [],
-        "github": [
+        "twitter": [
           {
-            "title": "xcalibure2/ToolShell",
-            "url": "https://github.com/xcalibure2/ToolShell",
-            "snippet": "# Repository: xcalibure2/ToolShell (fork of [LuemmelSec/ToolShell](https://github.com/LuemmelSec/ToolShell))\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks",
-            "published": "2026-01-09T07:06:03.000Z",
+            "title": "protectai/vulnhuntr",
+            "url": "https://github.com/protectai/vulnhuntr",
+            "snippet": "# Repository: protectai/vulnhuntr\n\nZero shot vulnerability discovery using LLMs\n\n- Stars: 2698\n- Forks: 313\n- Watchers: 33\n- Open issues: 17\n- Primary language: Python\n- Languages: Python (99.8%), Doc",
+            "published": "2024-10-15T19:44:25.000Z",
             "score": 1
           },
+          {
+            "title": "transilienceai/communitytools",
+            "url": "https://github.com/transilienceai/communitytools/",
+            "snippet": "# transilienceai/communitytools\n\nOpen-source Claude Code skills, agents, and slash commands for AI-powered penetration testing, bug bounty hunting, and security research\n\n- Stars: 393\n- Forks: 71\n- Wa",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "AlperNab/vulnerability-explainer",
+            "url": "https://github.com/AlperNab/vulnerability-explainer",
+            "snippet": "# Repository: AlperNab/vulnerability-explainer\n\nCVE/finding to risk explanation and fix\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (95.4%), HT",
+            "published": "2026-05-30T07:32:44.000Z",
+            "score": 0
+          }
+        ],
+        "github": [
           {
             "title": "contracts/ProofOfHumanity.sol at master · Proof-Of-Humanity/Proof-Of-Humanity",
             "url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/blob/master/contracts/ProofOfHumanity.sol",
             "snippet": "# File: Proof-Of-Humanity/Proof-Of-Humanity/contracts/ProofOfHumanity.sol\n\n- Repository: Proof-Of-Humanity/Proof-Of-Humanity | Proof-of-Humanity v1 smart contracts | 171 stars | JavaScript\n- Branch: m",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "xcalibure2/ToolShell",
+            "url": "https://github.com/xcalibure2/ToolShell",
+            "snippet": "# Repository: xcalibure2/ToolShell (fork of [LuemmelSec/ToolShell](https://github.com/LuemmelSec/ToolShell))\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks",
+            "published": "2026-01-09T07:06:03.000Z",
             "score": 0.5
           },
           {
@@ -2672,25 +2738,25 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:36.012Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:56:02.105Z"
       },
-      "timestamp": "2026-07-10T04:53:37.925Z"
+      "timestamp": "2026-07-18T03:56:03.460Z"
     },
     "ring": {
       "intel": {
         "writeups": [
           {
-            "title": "I Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | May, 2026 | Medium",
+            "title": "Medium",
             "url": "https://suicdalteddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
-            "snippet": "I Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | May, 2026 | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSig",
+            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | May, 2026 | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearc",
             "published": "2026-05-25T14:19:29.000Z",
             "score": 1
           },
           {
-            "title": "I Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | May, 2026 | Medium",
+            "title": "Medium",
             "url": "https://harmless-teddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
-            "snippet": "I Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | May, 2026 | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\nHacking\n\nSurve",
+            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | May, 2026 | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearc",
             "published": "2026-05-25T14:19:29.000Z",
             "score": 0.5
           },
@@ -2702,7 +2768,29 @@
             "score": 0
           }
         ],
-        "twitter": [],
+        "twitter": [
+          {
+            "title": "Medium",
+            "url": "https://suicdalteddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
+            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | May, 2026 | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearc",
+            "published": "2026-05-25T14:19:29.000Z",
+            "score": 1
+          },
+          {
+            "title": "Medium",
+            "url": "https://harmless-teddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
+            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | May, 2026 | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearc",
+            "published": "2026-05-25T14:19:29.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "NVD - cve-2019-9483",
+            "url": "https://nvd.nist.gov/vuln/detail/cve-2019-9483",
+            "snippet": "NVD - cve-2019-9483\n\n## CVE-2019-9483 Detail\n\nModified After Enrichment\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may requ",
+            "published": null,
+            "score": 0
+          }
+        ],
         "github": [
           {
             "title": "Nxploited/CVE-2025-7955",
@@ -2721,16 +2809,16 @@
           {
             "title": "letsr00t/CVE-2026-43494-PinTheft-PoC",
             "url": "https://github.com/letsr00t/CVE-2026-43494-PinTheft-PoC",
-            "snippet": "# Repository: letsr00t/CVE-2026-43494-PinTheft-PoC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: C\n- Languages: C\n- Default branch: main\n- Created: 2026-05-30T11:44:56Z\n- L",
-            "published": "2026-05-30T11:44:56.000Z",
+            "snippet": "# letsr00t/CVE-2026-43494-PinTheft-PoC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-30T11:44:56Z\n\n## Languages\n\n- C\n\n## Top Contributors\n\n- letsr00t ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:37.925Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:56:03.460Z"
       },
-      "timestamp": "2026-07-10T04:53:40.009Z"
+      "timestamp": "2026-07-18T03:56:04.745Z"
     },
     "six-group": {
       "intel": {
@@ -2739,7 +2827,7 @@
             "title": "A Bug Bounty Program for SIX  | SIX",
             "url": "https://www.six-group.com/en/blog/six-bug-bounty-program.html",
             "snippet": "A Bug Bounty Program for SIX | SIX\n\nTable of Contents\n\n- What Is an Ethical Hacker?\n- What Is Offensive Cybersecurity?\n- Dream Job: Gang Leader\n- The World’s First Bug Bounty Program\n- A Bug Bounty Pr",
-            "published": "2024-10-01T04:00:00.000Z",
+            "published": "2024-10-01T00:00:00.000Z",
             "score": 1
           },
           {
@@ -2757,13 +2845,35 @@
             "score": 0
           }
         ],
-        "twitter": [],
+        "twitter": [
+          {
+            "title": "SIX Group Private Bug Bounty",
+            "url": "https://www.bountytalk.org/index.php?topic=24129.0",
+            "snippet": "SIX Group Private Bug Bounty\n\nForums Advertising & Bounty Hub\n\nWelcome, Guest. Please login or register.\n\n1 Hour 1 Day 1 Week 1 Month Forever\n\nLogin with username, password and session length\n\n## News",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Building Trust",
+            "url": "https://www.six-group.com/dam/download/company/governance/security-measures-behind-operations.pdf",
+            "snippet": "#### The Security Measures Behind Operations of SIX\n\n## Building Trust\n\n## Introduction\n\nSIX provides and operates stable and efficient infrastructure for the Swiss and Spanish financial centers, ensu",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "sixgroup-security/bug-bounty",
+            "url": "https://github.com/sixgroup-security/bug-bounty",
+            "snippet": "# Repository: sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n",
+            "published": "2024-10-08T11:05:51.000Z",
+            "score": 0
+          }
+        ],
         "github": [
           {
-            "title": "Sixth Remote Code Execution Vulnerability",
+            "title": "Sixth Remote Code Execution Vulnerability · Issue #12 · Secsys-FDU/LLM-Tool-Calling-CVEs",
             "url": "https://github.com/Secsys-FDU/LLM-Tool-Calling-CVEs/issues/12",
-            "snippet": "# Sixth Remote Code Execution Vulnerability\n\n- State: open\n- Author: Secsys-FDU\n- Created: 2026-03-27T13:37:44Z\n- Updated: 2026-03-27T13:37:44Z\n- Repository: Secsys-FDU/LLM-Tool-Calling-CVEs\n- Number:",
-            "published": null,
+            "snippet": "# Issue: Secsys-FDU/LLM-Tool-Calling-CVEs #12\n\n- Repository: Secsys-FDU/LLM-Tool-Calling-CVEs | LLM-Tool-Calling-CVEs | 0 stars\n\n## Sixth Remote Code Execution Vulnerability\n\n- Author: [@Secsys-FDU](h",
+            "published": "2026-03-27T13:37:44.000Z",
             "score": 1
           },
           {
@@ -2776,43 +2886,65 @@
           {
             "title": "sixgroup-security/bug-bounty",
             "url": "https://github.com/sixgroup-security/bug-bounty",
-            "snippet": "# Repository: sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n",
+            "snippet": "# Repository: sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n",
             "published": "2024-10-08T11:05:51.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:40.009Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:56:04.745Z"
       },
-      "timestamp": "2026-07-10T04:53:42.687Z"
+      "timestamp": "2026-07-18T03:56:06.060Z"
     },
     "eufy_security": {
       "intel": {
         "writeups": [
           {
+            "title": "Vulnerabilities Identified in Eufy 2K Indoor Camera",
+            "url": "https://www.bitdefender.com/files/News/CaseStudies/study/416/Bitdefender-PR-Whitepaper-EUFY-creat6162-en-EN.pdf",
+            "snippet": "www.bitdefender.com\n\n##### Security\n\n## Vulnerabilities Identified in Eufy 2K Indoor Camera\n\nWHITEPAPER\n\n### Contents\n\n### Contents\n\nForeword ... 3 \nDisclosure Timeline ... 3 \nVulnerability walkthroug",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "💀 Exploit for CVE-2024-51346",
             "url": "https://sploitus.com/exploit?id=FBE9C018-3EB6-5EC5-99AC-7BD862BF7F37",
             "snippet": "💀 Exploit for CVE-2024-51346\n\n# Exploit for CVE-2024-51346\n\n2026-03-23 | CVSS 5.8\n\nCopy Download Source Share\n\n```\n## https://sploitus.com/exploit?id=FBE9C018-3EB6-5EC5-99AC-7BD862BF7F37\n# CVE-2024-5",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Reverse engineering the Eufy Ecosystem",
             "url": "https://www.usenix.org/system/files/woot24_slides-goeman.pdf",
             "snippet": "## Reverse Engineering the Eufy\n\nEcosystem: a Deep Dive Into Security Vulnerabilities and Proprietary Protocols\n\nVictor Goeman, Dairo de Ruck, Tom Cordemans, Jorn Lapon, Vincent Naessens\n\n## Who is Eu",
             "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [
+          {
+            "title": "Reverse engineering the Eufy Ecosystem",
+            "url": "https://www.usenix.org/system/files/woot24_slides-goeman.pdf",
+            "snippet": "## Reverse Engineering the Eufy\n\nEcosystem: a Deep Dive Into Security Vulnerabilities and Proprietary Protocols\n\nVictor Goeman, Dairo de Ruck, Tom Cordemans, Jorn Lapon, Vincent Naessens\n\n## Who is Eu",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "💀 Exploit for CVE-2024-51346",
+            "url": "https://sploitus.com/exploit?id=FBE9C018-3EB6-5EC5-99AC-7BD862BF7F37",
+            "snippet": "💀 Exploit for CVE-2024-51346\n\n# Exploit for CVE-2024-51346\n\n2026-03-23 | CVSS 5.8\n\nCopy Download Source Share\n\n```\n## https://sploitus.com/exploit?id=FBE9C018-3EB6-5EC5-99AC-7BD862BF7F37\n# CVE-2024-5",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Vulnerabilities Identified in Eufy 2K Indoor Camera",
-            "url": "https://www.bitdefender.com/files/News/CaseStudies/study/416/Bitdefender-PR-Whitepaper-EUFY-creat6162-en-EN.pdf",
-            "snippet": "www.bitdefender.com\n\n##### Security\n\n## Vulnerabilities Identified in Eufy 2K Indoor Camera\n\nWHITEPAPER\n\n### Contents\n\n### Contents\n\nForeword ... 3 \nDisclosure Timeline ... 3 \nVulnerability walkthroug",
+            "title": "NVD - CVE-2021-3555",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3555",
+            "snippet": "NVD - CVE-2021-3555\n\n## CVE-2021-3555 Detail\n\nModified After Enrichment\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may requ",
             "published": null,
             "score": 0
           }
         ],
-        "twitter": [],
         "github": [
           {
             "title": "CVE-2024-51346.md at main · victorGoeman/Eufy-Ecosystem-Security-Research",
@@ -2824,8 +2956,8 @@
           {
             "title": "victorGoeman/Eufy-Ecosystem-Security-Research",
             "url": "https://github.com/victorGoeman/CVE-2024-51346",
-            "snippet": "# Repository: victorGoeman/Eufy-Ecosystem-Security-Research\n\n- Stars: 2\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-23T15:22:14Z\n- Last push: 2026-03-26T09:39:2",
-            "published": "2026-03-23T15:22:14.000Z",
+            "snippet": "# victorGoeman/Eufy-Ecosystem-Security-Research\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-23T15:22:14Z\n\n## Top Contributors\n\n- victorGoeman (11 co",
+            "published": null,
             "score": 0.5
           },
           {
@@ -2837,10 +2969,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:42.688Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:56:06.061Z"
       },
-      "timestamp": "2026-07-10T04:53:44.688Z"
+      "timestamp": "2026-07-18T03:56:07.442Z"
     },
     "eero": {
       "intel": {
@@ -2848,7 +2980,7 @@
           {
             "title": "NVD - CVE-2023-5324",
             "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5324",
-            "snippet": "NVD - CVE-2023-5324\n\n## CVE-2023-5324 Detail\n\nModified After Enrichment\n\n---\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may requ",
+            "snippet": "NVD - CVE-2023-5324\n\n| URL | Source(s) | Tag(s) |\n| --- | --- | --- |\n| https://github.com/nomis/eero-zero-length-ipv6-options-header-dos | CVE, VulDB | Third Party Advisory |\n| https://vuldb.com/?cti",
             "published": null,
             "score": 1
           },
@@ -2860,14 +2992,36 @@
             "score": 0.5
           },
           {
-            "title": "Hacking Amazon's eero 6 (part 1) | Markuta",
-            "url": "https://markuta.com/eero-6-hacking-part-1/",
-            "snippet": "Hacking Amazon's eero 6 (part 1) | Markuta\n\nThis is the first in the series of hacking Amazon’s eero 6 (3rd generation) Wi-Fi device. In this post I will be focusing on device disassembly, identifying",
-            "published": "2023-06-15T00:00:00.000Z",
+            "title": "KR00K - CVE-2019-15126",
+            "url": "https://hackread.com/wp-content/uploads/2020/02/Kr00k-vulnerability.pdf",
+            "snippet": "KR00K - CVE-2019-15126\n\n## SERIOUS\n\n## VULNERABILITY\n\n## DEEP INSIDE YOUR\n\n## WI-FI ENCRYPTION\n\nESET Research white papers\n\nAuthors: \nMiloš Čermák, ESET Malware Researcher \nŠtefan Svorenčík, ESET Head",
+            "published": null,
             "score": 0
           }
         ],
-        "twitter": [],
+        "twitter": [
+          {
+            "title": "NVD - CVE-2023-5324",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5324",
+            "snippet": "NVD - CVE-2023-5324\n\n| URL | Source(s) | Tag(s) |\n| --- | --- | --- |\n| https://github.com/nomis/eero-zero-length-ipv6-options-header-dos | CVE, VulDB | Third Party Advisory |\n| https://vuldb.com/?cti",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "nomis/eero-zero-length-ipv6-options-header-dos",
+            "url": "https://github.com/nomis/eero-zero-length-ipv6-options-header-dos",
+            "snippet": "# nomis/eero-zero-length-ipv6-options-header-dos\n\neeroOS Ethernet Interface Denial of Service Vulnerability (CVE-2023-5324)\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "KR00K - CVE-2019-15126",
+            "url": "https://hackread.com/wp-content/uploads/2020/02/Kr00k-vulnerability.pdf",
+            "snippet": "KR00K - CVE-2019-15126\n\n## SERIOUS\n\n## VULNERABILITY\n\n## DEEP INSIDE YOUR\n\n## WI-FI ENCRYPTION\n\nESET Research white papers\n\nAuthors: \nMiloš Čermák, ESET Malware Researcher \nŠtefan Svorenčík, ESET Head",
+            "published": null,
+            "score": 0
+          }
+        ],
         "github": [
           {
             "title": "nomis/eero-zero-length-ipv6-options-header-dos",
@@ -2892,10 +3046,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:44.688Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:56:07.442Z"
       },
-      "timestamp": "2026-07-10T04:53:46.815Z"
+      "timestamp": "2026-07-18T03:56:08.769Z"
     },
     "mozilla": {
       "intel": {
@@ -2922,35 +3076,57 @@
             "score": 0
           }
         ],
-        "twitter": [],
-        "github": [
+        "twitter": [
           {
-            "title": "calc.html at master · maxpl0it/CVE-2019-17026-Exploit",
-            "url": "https://github.com/maxpl0it/CVE-2019-17026-Exploit/blob/master/calc.html",
-            "snippet": "# File: maxpl0it/CVE-2019-17026-Exploit/calc.html\n\n- Repository: maxpl0it/CVE-2019-17026-Exploit | An exploit for CVE-2019-17026. It pops xcalc and was tested on Ubuntu (x64). | 47 stars | HTML\n- Bran",
+            "title": "2006500 - (CVE-2026-0887) PDF.js vulnerable to CSS injection, leads to exfiltrating saved signatures",
+            "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2006500",
+            "snippet": "2006500 - (CVE-2026-0887) PDF.js vulnerable to CSS injection, leads to exfiltrating saved signatures\n\nCopy Summary\n\n▾\n\n- Markdown\n- Markdown (bug number)\n- Plain Text\n- HTML\n\nView ▾\n\n- Reset Sections\n",
             "published": null,
             "score": 1
           },
+          {
+            "title": "moscovium-mc/Tor-0day-JavaScript-Exploit",
+            "url": "https://github.com/lucky89144/Tor-0day-JavaScript-Exploit",
+            "snippet": "# Repository: moscovium-mc/Tor-0day-JavaScript-Exploit\n\nFirefox/Tor Browser 0day exploit analysis (CVE-2024-9680) A UAF in animation timelines leading to RCE. Patched.\n\n- Stars: 10\n- Forks: 1\n- Watche",
+            "published": "2025-11-07T04:36:11.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "How a single typo led to RCE in Firefox – kqx",
+            "url": "https://kqx.io/post/firefox0day/",
+            "snippet": "How a single typo led to RCE in Firefox – kqx\n\n## Introduction\n\nWhile touring the Firefox source code to gather inspiration for a CTF challenge (Stay tuned for TRX CTF 2026!) I stumbled across quite a",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
           {
             "title": "kiddo-pwn/ffffirefox",
             "url": "https://github.com/kiddo-pwn/ffffirefox",
             "snippet": "# Repository: kiddo-pwn/ffffirefox\n\n- Stars: 76\n- Forks: 15\n- Watchers: 0\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (68.0%), WebAssembly (23.4%), Shell (7.7%), HTML (0.9%",
             "published": "2026-05-15T16:57:40.000Z",
+            "score": 1
+          },
+          {
+            "title": "calc.html at master · maxpl0it/CVE-2019-17026-Exploit",
+            "url": "https://github.com/maxpl0it/CVE-2019-17026-Exploit/blob/master/calc.html",
+            "snippet": "# File: maxpl0it/CVE-2019-17026-Exploit/calc.html\n\n- Repository: maxpl0it/CVE-2019-17026-Exploit | An exploit for CVE-2019-17026. It pops xcalc and was tested on Ubuntu (x64). | 47 stars | HTML\n- Bran",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "GitHub - 0vercl0k/CVE-2019-9810 at 65fba013ac57826e76fad4a89d097b3ff67fd1e4 · GitHub",
-            "url": "https://github.com/0vercl0k/CVE-2019-9810/tree/65fba013ac57826e76fad4a89d097b3ff67fd1e4",
-            "snippet": "GitHub - 0vercl0k/CVE-2019-9810 at 65fba013ac57826e76fad4a89d097b3ff67fd1e4 · GitHub\n\nThis repository was archived by the owner on Dec 27, 2023. It is now read-only.\n\n/ CVE-2019-9810 Public archive\n\n6",
-            "published": "2019-05-05T17:19:02.000Z",
+            "title": "exploit.html at main · mistymntncop/CVE-2022-1802",
+            "url": "https://github.com/mistymntncop/CVE-2022-1802/blob/main/exploit.html",
+            "snippet": "# File: mistymntncop/CVE-2022-1802/exploit.html\n\n- Repository: mistymntncop/CVE-2022-1802 | 152 stars | HTML\n- Branch: main\n\n```html\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<meta charset=\"utf-8\">\r\n<link rel=",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:46.815Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:56:08.769Z"
       },
-      "timestamp": "2026-07-10T04:53:49.039Z"
+      "timestamp": "2026-07-18T03:56:10.109Z"
     },
     "stripchat": {
       "intel": {
@@ -2977,7 +3153,29 @@
             "score": 0
           }
         ],
-        "twitter": [],
+        "twitter": [
+          {
+            "title": "200M Adult Cam Model, User Records Exposed in Stripchat Breach | Threatpost",
+            "url": "https://threatpost.com/adult-cam-model-user-records-exposed-stripchat-breach/176372/",
+            "snippet": "200M Adult Cam Model, User Records Exposed in Stripchat Breach | Threatpost \n\nAuthor: Becky Bracken\n\nNovember 16, 2021 3:32 pm\n\nminute read\n\nShare this article:\n\nThe leak included model information, c",
+            "published": "2021-11-16T20:32:16.000Z",
+            "score": 1
+          },
+          {
+            "title": "Adult cam site StripChat exposes the data of millions of users and cam models | The Record from Recorded Future News",
+            "url": "https://therecord.media/adult-cam-site-stripchat-exposes-the-data-of-millions-of-users-and-cam-models",
+            "snippet": "Adult cam site StripChat exposes the data of millions of users and cam models | The Record from Recorded Future News\n\nStripChat|StripChat-DB\n\n# Adult cam site StripChat exposes the data of millions of",
+            "published": "2022-12-19T19:42:15.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Unsecure Server Exposed 200 Million Records of Adult Webcam Models and Users Online",
+            "url": "https://www.bitdefender.com/en-gb/blog/hotforsecurity/unsecure-server-exposed-200-million-records-of-adult-webcam-models-and-users-online",
+            "snippet": "Digital Privacy Industry News\n\n2 min read\n\n# Unsecure Server Exposed 200 Million Records of Adult Webcam Models and Users Online\n\nAlina BÎZGĂ\n\nNovember 19, 2021\n\nOn Nov. 5, security researchers at Com",
+            "published": null,
+            "score": 0
+          }
+        ],
         "github": [
           {
             "title": "sc_recorder_py.py",
@@ -3002,10 +3200,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:49.039Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:56:10.109Z"
       },
-      "timestamp": "2026-07-10T04:53:50.646Z"
+      "timestamp": "2026-07-18T03:56:11.433Z"
     },
     "redox_bbp": {
       "intel": {
@@ -4067,35 +4265,57 @@
             "score": 0
           }
         ],
-        "twitter": [],
-        "github": [
+        "twitter": [
           {
-            "title": "Rohitberiwala/Claude-Code-MCP-Injection-PoC",
-            "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
-            "snippet": "# Rohitberiwala/Claude-Code-MCP-Injection-PoC\n\nProfessional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to ",
+            "title": "ANT-2026-CN7KX43N · nomad",
+            "url": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-CN7KX43N",
+            "snippet": "ANT-2026-CN7KX43N · nomad\n\n# ANT-2026-CN7KX43N · nomad\n\n## path-traversal critical\n\nSeverity Claude critical · Security research firm critical · Maintainer -\n\nDiscovered by Claude Mythos Preview\n\nREPO",
             "published": null,
             "score": 1
           },
+          {
+            "title": "Measuring LLMs' impact on N-day exploits \\ Anthropic",
+            "url": "https://www.anthropic.com/research/n-days",
+            "snippet": "Measuring LLMs' impact on N-day exploits \\ Anthropic\n\nFrontier Red Team\n\n# Measuring LLMs’ impact on N-day exploits\n\nJun 8, 2026\n\nWinnie Xiao, Tim Abbott, Nicholas Carlini, Newton Cheng, David Forsyth",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Permissive Default Allowlist Enables Unauthorized File Read and Network Exfiltration in Claude Code · Advisory · anthropics/claude-code · GitHub",
+            "url": "https://github.com/anthropics/claude-code/security/advisories/GHSA-x5gv-jw7f-j6xj",
+            "snippet": "Permissive Default Allowlist Enables Unauthorized File Read and Network Exfiltration in Claude Code · Advisory · anthropics/claude-code · GitHub\n\n/ claude-code Public\n\nNotifications\n\nStar 137k\n\n- Fork",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "github": [
           {
             "title": "tacdm/cve-2025-59536-poc",
             "url": "https://github.com/tacdm/cve-2025-59536-poc",
             "snippet": "# Repository: tacdm/cve-2025-59536-poc\n\nCVE-2025-59536: RCE via Claude Code Project Hooks (PoC)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaSc",
             "published": "2026-05-17T08:15:34.000Z",
+            "score": 1
+          },
+          {
+            "title": "Rohitberiwala/Claude-Code-MCP-Injection-PoC",
+            "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
+            "snippet": "# Repository: Rohitberiwala/Claude-Code-MCP-Injection-PoC\n\nProfessional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code",
+            "published": "2026-03-10T05:04:03.000Z",
             "score": 0.5
           },
           {
             "title": "Authentication Bypass via Insecure Credential Pool Synchronization during Anthropic Exhaustion",
             "url": "https://gist.github.com/YLChen-007/caf38652afeccbbd53a9d77152b6198d",
-            "snippet": "# Authentication Bypass via Insecure Credential Pool Synchronization during Anthropic Exhaustion\n\n- Owner: YLChen-007\n- Created: 2026-05-07T09:07:29Z\n- Public: no\n- Comments: 0\n- Forks: 0\n\n## CVE-2026",
-            "published": null,
+            "snippet": "# Gist: Authentication Bypass via Insecure Credential Pool Synchronization during Anthropic Exhaustion\n\n- Author: [@YLChen-007](https://github.com/YLChen-007)\n- Private gist (1 file)\n- Created: 2026-0",
+            "published": "2026-05-07T09:07:29.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-07-10T04:53:31.270Z"
+        "total_results": 9,
+        "enriched_at": "2026-07-18T03:55:57.879Z"
       },
-      "timestamp": "2026-07-10T04:53:33.013Z"
+      "timestamp": "2026-07-18T03:55:59.319Z"
     },
     "agoda-public": {
       "intel": {
@@ -4120,5 +4340,5 @@
       "timestamp": "2026-07-14T03:57:51.799Z"
     }
   },
-  "lastRun": "2026-07-17T04:08:37.650Z"
+  "lastRun": "2026-07-18T03:56:11.433Z"
 }
