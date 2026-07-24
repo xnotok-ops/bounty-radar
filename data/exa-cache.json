@@ -3647,25 +3647,25 @@
             "score": 1
           },
           {
-            "title": "b4sh2/CVE-2025-57819-poc",
-            "url": "https://github.com/b4sh2/CVE-2025-57819-poc",
-            "snippet": "# Repository: b4sh2/CVE-2025-57819-poc\n\nCVE-2025-57819 -> rce\n\n- Stars: 7\n- Forks: 2\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 202",
-            "published": "2026-06-06T20:13:34.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Add CVE-2022-28005 (vKEV)",
             "url": "https://github.com/projectdiscovery/nuclei-templates/pull/14782",
             "snippet": "# Add CVE-2022-28005 (vKEV)\n\n- State: closed\n- Author: daffainfo\n- Created: 2026-01-09T17:25:22Z\n- Updated: 2026-01-09T17:50:31Z\n- Repository: projectdiscovery/nuclei-templates\n- Number: #14782\n- +54 ",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "b4sh2/CVE-2025-57819-poc",
+            "url": "https://github.com/b4sh2/CVE-2025-57819-poc",
+            "snippet": "# Repository: b4sh2/CVE-2025-57819-poc\n\nCVE-2025-57819 -> rce\n\n- Stars: 7\n- Forks: 2\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 202",
+            "published": "2026-06-06T20:13:34.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-07-17T04:08:22.045Z"
+        "enriched_at": "2026-07-24T04:15:53.476Z"
       },
-      "timestamp": "2026-07-17T04:08:23.686Z"
+      "timestamp": "2026-07-24T04:15:55.016Z"
     },
     "privy-bbp": {
       "intel": {
@@ -3681,7 +3681,7 @@
             "title": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library",
             "url": "https://www.privy.io/blog/shamir-secret-sharing-deep-dive",
             "snippet": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nBack\n\n## Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nS\n\n|\n\nAug ",
-            "published": "2025-02-28T00:34:00.000Z",
+            "published": "2024-08-07T04:30:05.000Z",
             "score": 0.5
           },
           {
@@ -3731,18 +3731,18 @@
             "score": 0.5
           },
           {
-            "title": "tuantran-genetica/privy-demo",
-            "url": "https://github.com/tuantran-genetica/privy-demo",
-            "snippet": "# tuantran-genetica/privy-demo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-09-17T07:18:30Z\n\n## Languages\n\n- CSS\n- HTML\n- JavaScript\n- Solidity\n\n## To",
-            "published": null,
+            "title": "examples/examples/privy-next-yield-demo at main · privy-io/examples · GitHub",
+            "url": "https://github.com/privy-io/examples/tree/main/examples/privy-next-yield-demo",
+            "snippet": "examples/examples/privy-next-yield-demo at main · privy-io/examples · GitHub\n\n/ examples Public\n\n## Files\n\nmain\n\n# privy-next-yield-demo\n\nView commit history for this file.\n\nmain\n\n# privy-next-yield-d",
+            "published": "2025-09-16T02:56:10.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-07-17T04:08:23.686Z"
+        "enriched_at": "2026-07-24T04:15:55.016Z"
       },
-      "timestamp": "2026-07-17T04:08:25.120Z"
+      "timestamp": "2026-07-24T04:15:56.666Z"
     },
     "netflix": {
       "intel": {
@@ -3817,9 +3817,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-07-17T04:08:25.120Z"
+        "enriched_at": "2026-07-24T04:15:56.666Z"
       },
-      "timestamp": "2026-07-17T04:08:26.918Z"
+      "timestamp": "2026-07-24T04:15:58.237Z"
     },
     "23andme_bbp": {
       "intel": {
@@ -3842,7 +3842,7 @@
             "title": "23andMe Data Breach: What Happened and What To Do Now | breached.news",
             "url": "https://www.breached.news/articles/23andme-breach",
             "snippet": "23andMe Data Breach: What Happened and What To Do Now | breached.news\n\nNews\n\n# 23andMe Data Breach: What Happened and What To Do Now\n\nGenetic testing company 23andMe confirmed that hackers accessed th",
-            "published": "2026-03-21T18:19:09.000Z",
+            "published": "2026-03-21T15:30:33.000Z",
             "score": 0
           }
         ],
@@ -3864,7 +3864,7 @@
           {
             "title": "Press Releases",
             "url": "https://investors.23andme.com/node/9131/html",
-            "snippet": "Press Releases\n\n# Press Releases\n\n## 2026\n\nJun 18, 2026\n\nMay 20, 2026\n\nMay 14, 2026\n\nApr 08, 2026\n\nMar 13, 2026\n\nFeb 18, 2026\n\n- 23andMe Research Institute Appoints Hillary Aiken as Head of Philanthro",
+            "snippet": "# Press Releases\n\n## 2026\n\nMay 20, 2026\n\nMay 14, 2026\n\nApr 08, 2026\n\nMar 13, 2026\n\nFeb 18, 2026\n\n- 23andMe Partners with HealthEx to Connect Medical Records with Your DNA for the Future of Personalize",
             "published": null,
             "score": 0
           }
@@ -3894,9 +3894,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-07-17T04:08:26.918Z"
+        "enriched_at": "2026-07-24T04:15:58.237Z"
       },
-      "timestamp": "2026-07-17T04:08:28.299Z"
+      "timestamp": "2026-07-24T04:15:59.767Z"
     },
     "audible": {
       "intel": {
@@ -3939,9 +3939,9 @@
             "score": 0.5
           },
           {
-            "title": "face0xff/kindle-audible-exploit-chain",
-            "url": "https://github.com/face0xff/kindle-audible-exploit-chain",
-            "snippet": "# face0xff/kindle-audible-exploit-chain\n\nExploit for an Audible vulnerability chain targeting Kindle < 5.18.1\n\n- Stars: 4\n- Forks: 0\n- Watchers: 4\n- Open issues: 0\n- Default branch: master\n- Created: ",
+            "title": "NVD - CVE-2017-17069",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-17069",
+            "snippet": "NVD - CVE-2017-17069\n\n| URL | Source(s) | Tag(s) |\n| --- | --- | --- |\n| http://www.securityfocus.com/bid/102044 | CVE, MITRE | Third Party Advisory VDB Entry |\n| https://packetstormsecurity.com/files",
             "published": null,
             "score": 0
           }
@@ -3971,9 +3971,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-07-17T04:08:28.299Z"
+        "enriched_at": "2026-07-24T04:15:59.768Z"
       },
-      "timestamp": "2026-07-17T04:08:29.739Z"
+      "timestamp": "2026-07-24T04:16:01.242Z"
     },
     "temu": {
       "intel": {
@@ -3986,39 +3986,39 @@
             "score": 1
           },
           {
+            "title": "Untitled",
+            "url": "https://static.md/md/CweAGG",
+            "snippet": "# UNTITLED\n\n# Temu Native Library Technical Security Analysis\n\nVersion: 1.0\nDate: 2026-03-27\nTarget: com.einnovation.temu v4.39.0 (split APK, US region)\nClassification: Technical reference for securit",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "🚨 Universal Link Hijacking via Misconfigured AASA File on Temu.com | by Muhammad Habib | Medium",
             "url": "https://medium.com/@m.habibgpi/universal-link-hijacking-via-misconfigured-aasa-file-on-temu-com-eadfcb745e4e",
             "snippet": "🚨 Universal Link Hijacking via Misconfigured AASA File on Temu.com | by Muhammad Habib | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n1. 🔍 Overview\n2. 📂 What Is an A",
             "published": "2025-05-07T19:36:26.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Technical Security Analysis Mobile App \"Temu\"",
-            "url": "https://en.ntc.swiss/hubfs/temu-security-analysis-ntc-en.pdf",
-            "snippet": "## Technical Security Analysis\n\n## Mobile App «Temu»\n\n#### Security Risk Assessment from a Swiss Perspective\n\nVersion 1.0 Date 05 December 2024 Classification Public\n\nAuthors Tobias Castagna, Patrik F",
-            "published": null,
             "score": 0
           }
         ],
         "twitter": [
           {
-            "title": "310 million Temu user records allegedly surface on cybercrime forum​ | Cybernews",
-            "url": "https://cybernews.com/security/temu-310-million-user-data-leak-claim/",
-            "snippet": "310 million Temu user records allegedly surface on cybercrime forum | Cybernews\n\n# Hackers claiming leak of 310 million Temu accounts: here's what we know\n\nAn alleged 310 million Temu user records hav",
-            "published": "2026-06-30T06:54:00.000Z",
-            "score": 1
-          },
-          {
             "title": "Search code, repositories, users, issues, pull requests...",
             "url": "https://github.com/Jonathanjimenez123/temu-vuln-hunter-pro",
             "snippet": "GitHub - Jonathanjimenez123/temu-vuln-hunter-pro: Critical vulnerability chain in Temu: open redirect →reflected XSS →account takeover via stolen session cookies.\n[Skip to content](#start-of-content)\n",
             "published": "2025-07-18T08:00:55.000Z",
+            "score": 1
+          },
+          {
+            "title": "310 million Temu user records allegedly surface on cybercrime forum​ | Cybernews",
+            "url": "https://cybernews.com/security/temu-310-million-user-data-leak-claim/",
+            "snippet": "310 million Temu user records allegedly surface on cybercrime forum | Cybernews\n\n# Hackers claiming leak of 310 million Temu accounts: here's what we know\n\nAn alleged 310 million Temu user records hav",
+            "published": "2026-06-30T06:54:00.000Z",
             "score": 0.5
           },
           {
-            "title": "Technical Security Analysis Mobile App \"Temu\"",
-            "url": "https://en.ntc.swiss/hubfs/temu-security-analysis-ntc-en.pdf",
-            "snippet": "## Technical Security Analysis\n\n## Mobile App «Temu»\n\n#### Security Risk Assessment from a Swiss Perspective\n\nVersion 1.0 Date 05 December 2024 Classification Public\n\nAuthors Tobias Castagna, Patrik F",
+            "title": "Untitled",
+            "url": "https://static.md/md/CweAGG",
+            "snippet": "# UNTITLED\n\n# Temu Native Library Technical Security Analysis\n\nVersion: 1.0\nDate: 2026-03-27\nTarget: com.einnovation.temu v4.39.0 (split APK, US region)\nClassification: Technical reference for securit",
             "published": null,
             "score": 0
           }
@@ -4032,25 +4032,25 @@
             "score": 1
           },
           {
-            "title": "exploit.py at main · ThemeHackers/CVE-2026-22804",
-            "url": "https://github.com/ThemeHackers/CVE-2026-22804/blob/main/exploit.py",
-            "snippet": "# File: ThemeHackers/CVE-2026-22804/exploit.py\n\n- Repository: ThemeHackers/CVE-2026-22804 | This repository contains a Proof of Concept (PoC) exploit for the Stored Cross-Site Scripting (XSS) vulnerab",
+            "title": "covepseng/cve-2026-9558-poc",
+            "url": "https://github.com/covepseng/cve-2026-9558-poc",
+            "snippet": "# covepseng/cve-2026-9558-poc\n\nExploitability PoC for CVE-2026-9558 (SSTI Mautic Theme)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-10T12:13:25Z\n\n##",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "GrizzlyResearch/TEMU_Android_malware",
-            "url": "https://github.com/GrizzlyResearch/TEMU_Android_malware",
-            "snippet": "# Repository: GrizzlyResearch/TEMU_Android_malware\n\n- Stars: 14\n- Forks: 1\n- Watchers: 3\n- Open issues: 2\n- Default branch: main\n- Created: 2023-09-07T14:46:09Z\n- Last push: 2023-09-07T16:28:17Z\n- Con",
-            "published": "2023-09-07T14:46:09.000Z",
+            "title": "exploit.py at main · ThemeHackers/CVE-2026-22804",
+            "url": "https://github.com/ThemeHackers/CVE-2026-22804/blob/main/exploit.py",
+            "snippet": "# File: ThemeHackers/CVE-2026-22804/exploit.py\n\n- Repository: ThemeHackers/CVE-2026-22804 | This repository contains a Proof of Concept (PoC) exploit for the Stored Cross-Site Scripting (XSS) vulnerab",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-07-17T04:08:29.740Z"
+        "enriched_at": "2026-07-24T04:16:01.243Z"
       },
-      "timestamp": "2026-07-17T04:08:31.411Z"
+      "timestamp": "2026-07-24T04:16:02.777Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -4109,18 +4109,18 @@
             "score": 1
           },
           {
-            "title": "J4ck3LSyN-Gen2/CVE-2026-6307-Longinus",
-            "url": "https://github.com/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus",
-            "snippet": "# Repository: J4ck3LSyN-Gen2/CVE-2026-6307-Longinus\n\nCVE-2026-6307 PoC: Longinus - 2 Boundaries in One Bug https://nebusec.ai/research/v8-cve-2026-6307-writeup/)\n\n- Stars: 8\n- Forks: 2\n- Watchers: 0\n-",
-            "published": "2026-07-01T17:00:30.000Z",
+            "title": "CLAUDE.md",
+            "url": "https://github.com/buildonspark/lightning-mpp-sdk/blob/64b98e3a/CLAUDE.md",
+            "snippet": "# CLAUDE.md\n\n- Branch: 64b98e3a\n- Repository: buildonspark/lightning-mpp-sdk\n\n---\n\n# CLAUDE.md\n\nThis file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.\n\n",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 8,
-        "enriched_at": "2026-07-17T04:08:31.411Z"
+        "enriched_at": "2026-07-24T04:16:02.777Z"
       },
-      "timestamp": "2026-07-17T04:08:32.978Z"
+      "timestamp": "2026-07-24T04:16:04.317Z"
     },
     "bybit_fintech": {
       "intel": {
@@ -4186,41 +4186,41 @@
             "score": 0.5
           },
           {
-            "title": "etc/HACK.md",
+            "title": "etc/HACK.md at main · sergey-melnychuk/yevm",
             "url": "https://github.com/sergey-melnychuk/yevm/blob/main/etc/HACK.md",
-            "snippet": "# etc/HACK.md\n\n- Branch: main\n- Repository: sergey-melnychuk/yevm\n\n---\n\n# Bybit Hack — February 21, 2025\n## The Largest Cryptocurrency Theft in History: $1.5B Lost to a Single Blind-Signed Transaction",
+            "snippet": "# File: sergey-melnychuk/yevm/etc/HACK.md\n\n- Repository: sergey-melnychuk/yevm | (Yet another | Yield-aware) EVM implementation [in Rust] | 3 stars | Rust\n- Branch: main\n\n```md\n# Bybit Hack — February",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-07-17T04:08:32.978Z"
+        "enriched_at": "2026-07-24T04:16:04.317Z"
       },
-      "timestamp": "2026-07-17T04:08:34.350Z"
+      "timestamp": "2026-07-24T04:16:05.857Z"
     },
     "trip_com": {
       "intel": {
         "writeups": [
           {
+            "title": "Medium",
+            "url": "https://medium.com/@a.essam0_o/delete-any-comment-without-admin-privilege-d5af9105ed9d",
+            "snippet": "MediumDelete any comment without admin privilege | by A.Essam | Medium\n\nSign up\n\nGet app\n\nSign up\n\nHacking\n\nBug Bounty\n\nPentesting\n\nWeb\n\nAttack\n\n# Delete any comment without admin privilege\n\n6 min rea",
+            "published": "2024-12-30T13:31:33.000Z",
+            "score": 1
+          },
+          {
             "title": "携程通过uid来遍历用户邮箱账号＋两枚xss反射 | wooyun-2014-077356| WooYun.org",
             "url": "https://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-077356",
-            "snippet": "携程通过uid来遍历用户邮箱账号＋两枚xss反射 | wooyun-2014-077356| WooYun.org\n\n当前位置： WooYun>> 漏洞信息\n\n## 漏洞概要 关注数(24) 关注此漏洞\n\n### 缺陷编号：wooyun-2014-077356\n\n### 漏洞标题：携程通过uid来遍历用户邮箱账号＋两枚xss反射\n\n### 相关厂商：携程旅行网\n\n### 漏洞作者： 啊L川\n\n##",
+            "snippet": "携程通过uid来遍历用户邮箱账号＋两枚xss反射 | wooyun-2014-077356| WooYun.org\n* [转到评论](#)\n* [我要反馈](javascript:void(0))\n* [回到顶部](#)\n# WooYun.org\n![乌云白帽子](./images/weibo.jpg \"乌云白帽子\")\n[![](./images/ewm.jpg)![](./images/weix",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "A Quick Price Manipulation. On July 13, 2023, I stumbled upon a… | by Narayanan M | InfoSec Write-ups",
             "url": "https://infosecwriteups.com/a-quick-price-manipulation-14c9244d7dca",
             "snippet": "A Quick Price Manipulation. On July 13, 2023, I stumbled upon a… | by Narayanan M | InfoSec Write-ups\n\nSitemap\n\nSign up\n\nGet app\n\nWrite\n\nSign up\n\n## InfoSec Write-ups\n\nA collection of write-ups from t",
             "published": "2023-10-29T23:46:52.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "6 ways Trip.com offers outstanding service",
-            "url": "https://www.trip.com/pages/security",
-            "snippet": "6 ways Trip.com offers outstanding service\n\n# Reporting potential technical concerns and security vulnerabilities related to Trip.com systems\n\nDear all,\n\nWe warmly welcome all security experts or rese",
-            "published": null,
             "score": 0
           }
         ],
@@ -4240,9 +4240,9 @@
             "score": 0.5
           },
           {
-            "title": "携程通过uid来遍历用户邮箱账号＋两枚xss反射 | wooyun-2014-077356| WooYun.org",
-            "url": "https://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-077356",
-            "snippet": "携程通过uid来遍历用户邮箱账号＋两枚xss反射 | wooyun-2014-077356| WooYun.org\n\n当前位置： WooYun>> 漏洞信息\n\n## 漏洞概要 关注数(24) 关注此漏洞\n\n### 缺陷编号：wooyun-2014-077356\n\n### 漏洞标题：携程通过uid来遍历用户邮箱账号＋两枚xss反射\n\n### 相关厂商：携程旅行网\n\n### 漏洞作者： 啊L川\n\n##",
+            "title": "Is Trip.com Safe? Learn if Trip.com Is Legit | Nudge Security",
+            "url": "https://security-profiles.nudgesecurity.com/app/trip-com",
+            "snippet": "Is Trip.com Safe? Learn if Trip.com Is Legit | Nudge Security\n\n# Is Trip.com safe?Review Trip.com security risks.\n\nThe following security profile for Trip.com includes the basics you’ll need for a ven",
             "published": null,
             "score": 0
           }
@@ -4251,30 +4251,30 @@
           {
             "title": "usijxi4/trip",
             "url": "https://github.com/usijxi4/trip",
-            "snippet": "# Repository: usijxi4/trip\n\nTrip.com Travel Deals: Save Big on Flights & Hotels, Earn Exclusive Rewards, Get 24/7 Support\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n-",
-            "published": "2026-02-05T11:32:02.000Z",
+            "snippet": "# usijxi4/trip\n\nTrip.com Travel Deals: Save Big on Flights & Hotels, Earn Exclusive Rewards, Get 24/7 Support\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 20",
+            "published": "2026-02-05T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "scrapeless-scrapers/trip-scraper/browser/cli at main · diegopzz/scrapeless-scrapers · GitHub",
-            "url": "https://github.com/diegopzz/scrapeless-scrapers/tree/main/trip-scraper/browser/cli",
-            "snippet": "scrapeless-scrapers/trip-scraper/browser/cli at main · diegopzz/scrapeless-scrapers · GitHub\n\n## Files\n\nmain\n\n# cli\n\nmain\n\n# cli\n\nTop\n\nLast commit message\n\nLast commit date\n\nView all files\n\n## README.",
-            "published": "2026-05-20T20:06:08.000Z",
+            "title": "README.md",
+            "url": "https://github.com/kuderscircowuuwd/trip-com-email-scraper/blob/main/README.md",
+            "snippet": "# README.md\n\n- Branch: main\n- Repository: kuderscircowuuwd/trip-com-email-scraper\n\n---\n\n# Trip.com Email Scraper\n> Trip.com Email Scraper helps you collect verified business and listing emails from Tr",
+            "published": null,
             "score": 0.5
           },
           {
             "title": "everythingscraper/trip-hotel-scraper",
             "url": "https://github.com/everythingscraper/trip-hotel-scraper",
             "snippet": "# everythingscraper/trip-hotel-scraper\n\nGlobal hotel data feed — Trip.com prices, ratings, and availability across 51 countries. Multi-city Python example.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open ",
-            "published": null,
+            "published": "2026-04-27T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-07-17T04:08:34.350Z"
+        "enriched_at": "2026-07-24T04:16:05.857Z"
       },
-      "timestamp": "2026-07-17T04:08:36.069Z"
+      "timestamp": "2026-07-24T04:16:07.374Z"
     },
     "bykea": {
       "intel": {
@@ -4327,16 +4327,16 @@
         "github": [
           {
             "title": "ctxis/beemka",
-            "url": "https://github.com/ctxis/beemka/",
+            "url": "https://github.com/ctxis/beemka",
             "snippet": "# ctxis/beemka\n\nBasic Electron Exploitation\n\n- Stars: 210\n- Forks: 35\n- Watchers: 210\n- Open issues: 0\n- License: MIT License\n- Homepage: https://www.contextis.com/en/blog/basic-electron-framework-exp",
             "published": null,
             "score": 1
           },
           {
-            "title": "hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass",
-            "url": "https://github.com/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass",
-            "snippet": "# Repository: hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass\n\nCVE-2026-50751 — Check Point IKEv1 Authentication Bypass\n\n- Stars: 1\n- Forks: 1\n- Watchers: 0\n- Open issues: 0\n- Primary ",
-            "published": "2026-06-12T14:25:40.000Z",
+            "title": "exploit.py at main · tc4dy/CVE-2026-29000-PoC-Exploit",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# File: tc4dy/CVE-2026-29000-PoC-Exploit/exploit.py\n\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit | CVE-2026-29000 – pac4j-jwt Authentication Bypass (🔥 CVSS 10.0). One-click admin forge via public ",
+            "published": null,
             "score": 0.5
           },
           {
@@ -4349,9 +4349,9 @@
         ],
         "defi_audit": [],
         "total_results": 9,
-        "enriched_at": "2026-07-17T04:08:36.070Z"
+        "enriched_at": "2026-07-24T04:16:07.374Z"
       },
-      "timestamp": "2026-07-17T04:08:37.650Z"
+      "timestamp": "2026-07-24T04:16:08.891Z"
     },
     "inditex": {
       "intel": {
@@ -7193,5 +7193,5 @@
       "timestamp": "2026-07-14T03:57:51.799Z"
     }
   },
-  "lastRun": "2026-07-23T04:16:28.547Z"
+  "lastRun": "2026-07-24T04:16:08.891Z"
 }
