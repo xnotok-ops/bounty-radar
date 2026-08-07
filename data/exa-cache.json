@@ -2396,7 +2396,7 @@
           {
             "title": "Medium",
             "url": "https://atanupal22256.medium.com/zero-requiem-the-5-000-blind-ssrf-chain-that-owned-lelouch-lamperouge-f0e00c919213",
-            "snippet": "Medium🎭 Zero Requiem: The $5,000 Blind SSRF Chain That Owned Lelouch Lamperouge | by 0B1To_X_ucH!h4 | Jul, 2026 | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\nPress enter or click to view image in",
+            "snippet": "Medium🎭 Zero Requiem: The $5,000 Blind SSRF Chain That Owned Lelouch Lamperouge | by 0B1To_X_ucH!h4 | Jul, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\nPress enter or click to view image in full size\n\nB",
             "published": "2026-07-18T15:31:43.000Z",
             "score": 0
           }
@@ -2427,9 +2427,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-30T04:06:29.463Z"
+        "enriched_at": "2026-08-07T03:50:16.531Z"
       },
-      "timestamp": "2026-07-30T04:06:31.000Z"
+      "timestamp": "2026-08-07T03:50:18.167Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -4061,18 +4061,18 @@
             "score": 0.5
           },
           {
-            "title": "Lyutoon/redis-RCE-poc",
-            "url": "https://github.com/Lyutoon/redis-RCE-poc",
-            "snippet": "# Lyutoon/redis-RCE-poc\n\nRCE PoC for Redis 8.8.0\n\n- Stars: 25\n- Forks: 5\n- Watchers: 25\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-23T01:50:37Z\n\n## Languages\n\n- Python\n- Shell\n\n## Top ",
+            "title": "rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept",
+            "url": "https://github.com/rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept",
+            "snippet": "# rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept\n\nProof of concept with GDB‑assisted exploitation (educational / lab use only)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default b",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-29T04:14:00.133Z"
+        "enriched_at": "2026-08-07T03:50:18.167Z"
       },
-      "timestamp": "2026-07-29T04:14:01.660Z"
+      "timestamp": "2026-08-07T03:50:19.611Z"
     },
     "okg": {
       "intel": {
@@ -4085,16 +4085,16 @@
             "score": 1
           },
           {
-            "title": "HackMD - Collaborative Markdown Knowledge Base",
-            "url": "https://hackmd.io/Vn1IK8BoTh-Al7UGGH7hmA",
-            "snippet": "# Vulnerability Report: 0G Foundation Reward Contract Emergency Withdrawal Exploit\n\n---\n\n## 1. Executive Summary\n\nVulnerability Name: 0G Foundation Private Key Compromise and Emergency Withdrawal Hija",
-            "published": null,
+            "title": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge",
+            "url": "https://atomicedge.io/cve-proof/cve-2025-68851-okay-toolkit-version-2-3-medium-vulnerability-proof-of-concept/",
+            "snippet": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-68851: Okay Toolkit <= 2.3 Reflected Cross-Site Scripting PoC, Patch Analysis & Rule\n\n CVE ID `CVE-",
+            "published": "2026-02-05T03:39:00.000Z",
             "score": 0.5
           },
           {
-            "title": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge",
-            "url": "https://atomicedge.io/cve-proof/cve-2025-68851-okay-toolkit-version-2-3-medium-vulnerability-proof-of-concept/",
-            "snippet": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-68851: Okay Toolkit <= 2.3 – Reflected Cross-Site Scripting (okay-toolkit)\n\nSeverity Medium (CVSS 6",
+            "title": "HackMD - Collaborative Markdown Knowledge Base",
+            "url": "https://hackmd.io/Vn1IK8BoTh-Al7UGGH7hmA",
+            "snippet": "# Vulnerability Report: 0G Foundation Reward Contract Emergency Withdrawal Exploit\n\n---\n\n## 1. Executive Summary\n\nVulnerability Name: 0G Foundation Private Key Compromise and Emergency Withdrawal Hija",
             "published": null,
             "score": 0
           }
@@ -4125,9 +4125,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-29T04:14:01.660Z"
+        "enriched_at": "2026-08-07T03:50:19.611Z"
       },
-      "timestamp": "2026-07-29T04:14:03.396Z"
+      "timestamp": "2026-08-07T03:50:21.089Z"
     },
     "1win_com": {
       "intel": {
@@ -4195,16 +4195,16 @@
             "score": 1
           },
           {
-            "title": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL",
-            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/ERC20-REVOCABLE-COMPLIANCE-STANDARD-SECURITY-AUDIT-REPORT/",
-            "snippet": "### IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., is \nproviding access to the security audit reports conducted ",
+            "title": "OpenZeppelin Audit Report",
+            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/EVM-TOKENIZATION-AUDIT/",
+            "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., \nis providing access to the security audit reports conducted by O",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "OpenZeppelin Audit Report",
-            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/EVM-TOKENIZATION-AUDIT/",
-            "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., \nis providing access to the security audit reports conducted by O",
+            "title": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL",
+            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/ERC20-REVOCABLE-COMPLIANCE-STANDARD-SECURITY-AUDIT-REPORT/",
+            "snippet": "### IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., is \nproviding access to the security audit reports conducted ",
             "published": null,
             "score": 0
           }
@@ -4219,80 +4219,80 @@
             "score": 1
           },
           {
-            "title": "Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode",
-            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/260",
-            "snippet": "# Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode\n\n- State: open\n- Author: c4-bot-1\n- Created: 2024-03-11T18:28:20Z\n- Updated: 2024-04-29T14:31:16Z\n- ",
+            "title": "User can erase their position debt for free",
+            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/215",
+            "snippet": "# User can erase their position debt for free\n\n- State: open\n- Author: c4-bot-4\n- Created: 2024-03-11T15:57:32Z\n- Updated: 2024-04-29T14:25:52Z\n- Repository: code-423n4/2024-02-wise-lending-findings\n-",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "User can erase their position debt for free",
-            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/215",
-            "snippet": "# User can erase their position debt for free\n\n- State: open\n- Author: c4-bot-4\n- Created: 2024-03-11T15:57:32Z\n- Updated: 2024-04-29T14:25:52Z\n- Repository: code-423n4/2024-02-wise-lending-findings\n-",
+            "title": "Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode",
+            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/260",
+            "snippet": "# Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode\n\n- State: open\n- Author: c4-bot-1\n- Created: 2024-03-11T18:28:20Z\n- Updated: 2024-04-29T14:31:16Z\n- ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-29T04:14:03.396Z"
+        "enriched_at": "2026-08-07T03:50:21.089Z"
       },
-      "timestamp": "2026-07-29T04:14:04.937Z"
+      "timestamp": "2026-08-07T03:50:22.550Z"
     },
     "pornbox": {
       "intel": {
         "writeups": [
           {
-            "title": "Penetrating PornHub – XSS vulns galore (plus a cool shirt!) - Cybernoz",
-            "url": "https://cybernoz.com/penetrating-pornhub-xss-vulns-galore-plus-a-cool-shirt/",
-            "snippet": "Penetrating PornHub – XSS vulns galore (plus a cool shirt!) - Cybernoz\n\nWhen PornHub launched their public bug bounty program, I was pretty sure that most of the low hanging fruits of vulnerabilities ",
-            "published": "2023-03-27T11:44:34.000Z",
-            "score": 1
-          },
-          {
-            "title": "From Lockdown to Payday: Hacking a Porn Site for $1,500 | by Steven Floresca | Medium",
-            "url": "https://stevenfloresca.medium.com/from-lockdown-to-payday-hacking-a-porn-site-for-1-500-899bf57cc556",
-            "snippet": "From Lockdown to Payday: Hacking a Porn Site for $1,500 | by Steven Floresca | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\nBug Bounty\n\nInformation Security\n\nSecurity\n\nXss Vulnerability\n\nHacker\n\n# ",
-            "published": "2025-03-21T05:47:10.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Is pornbox.com Safe? Security Scan Report | PCrisk",
             "url": "https://scanner.pcrisk.com/scan-results/pornbox.com",
             "snippet": "Is pornbox.com Safe? Security Scan Report | PCrisk\n\n# pornbox.com\n\nCategory: Adult Content\n\nScanned: May 8, 2026, 12:58 AM UTC · First seen: May 8, 2026 · Threat Engines: 0 / 92 · Times Scanned: 1\n\n94",
             "published": "2026-05-08T00:58:09.000Z",
+            "score": 1
+          },
+          {
+            "title": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol",
+            "url": "https://greatis.com/unhackme/help/remove/remove-pornbox-com-completely.htm",
+            "snippet": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol\n\n## What is PORNBOX.COM?\n\n## Investigation Target: PORNBOX.COM\n\nCase: 9786 Investigation Date: March 20, 2024\n\n## Verdict:\n\nPORNBOX.COM ",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Pornhub Hack Earns Researchers $22,000 | Threatpost",
+            "url": "https://threatpost.com/pornhub-hack-earns-researchers-22000/119450/",
+            "snippet": "Pornhub Hack Earns Researchers $22,000 | Threatpost \n\nAuthor: Tom Spring\n\nJuly 25, 2016 1:01 pm\n\nminute read\n\nShare this article:\n\nResearchers found a serious vulnerability in PHP code that could have",
+            "published": "2016-07-25T17:01:30.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "sp00nznet/pwnbox",
-            "url": "https://github.com/sp00nznet/pwnbox",
-            "snippet": "# sp00nznet/pwnbox\n\nPPPwn appliance for Proxmox LXC with a web UI\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-19T17:09:12Z\n\n## Languages\n\n- CSS\n- HT",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "y0uall/pwnbox",
             "url": "https://github.com/y0uall/pwnbox",
             "snippet": "# y0uall/pwnbox\n\nAutomated recon & enumeration for HackTheBox\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-04-02T15:13:55Z\n\n## La",
             "published": null,
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "pbuff07/PoCBox",
             "url": "https://github.com/pbuff07/PoCBox",
             "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "sp00nznet/pwnbox",
+            "url": "https://github.com/sp00nznet/pwnbox",
+            "snippet": "# sp00nznet/pwnbox\n\nPPPwn appliance for Proxmox LXC with a web UI\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-19T17:09:12Z\n\n## Languages\n\n- CSS\n- HT",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-29T04:14:04.938Z"
+        "enriched_at": "2026-08-07T03:50:22.551Z"
       },
-      "timestamp": "2026-07-29T04:14:06.444Z"
+      "timestamp": "2026-08-07T03:50:23.978Z"
     },
     "tron_dao": {
       "intel": {
@@ -4345,9 +4345,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-29T04:14:06.445Z"
+        "enriched_at": "2026-08-07T03:50:23.978Z"
       },
-      "timestamp": "2026-07-29T04:14:07.951Z"
+      "timestamp": "2026-08-07T03:50:25.461Z"
     },
     "superbet": {
       "intel": {
@@ -4391,41 +4391,41 @@
             "score": 0.5
           },
           {
-            "title": "exploit.py at main · jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE",
+            "title": "exploit.py",
             "url": "https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE/blob/main/exploit.py",
-            "snippet": "# File: jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE/exploit.py\n\n- Repository: jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE | 28 stars | Python\n- Branch: main\n\n```py\n# ",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE\n\n---\n\n# @jakabakos\n# Exploit script for CVE-2023-27524\n# Tested with Apache Superset v2.0.1\n# Ba",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-29T04:14:07.952Z"
+        "enriched_at": "2026-08-07T03:50:25.461Z"
       },
-      "timestamp": "2026-07-29T04:14:09.479Z"
+      "timestamp": "2026-08-07T03:50:26.914Z"
     },
     "magic-eden": {
       "intel": {
         "writeups": [
           {
-            "title": "Magic Eden to refund users after fake NFTs sold due to exploit | Bitcoin Insider",
-            "url": "https://www.bitcoininsider.org/article/199861/magic-eden-refund-users-after-fake-nfts-sold-due-exploit",
-            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit | Bitcoin Insider\n\nLatest news about Bitcoin and all cryptocurrencies. Your daily crypto news habit.\n\n# Magic Eden to refund users after ",
-            "published": "2023-01-05T02:49:02.000Z",
+            "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com",
+            "url": "https://www.linkgeanie.com/news/magic-eden-will-refund-users-who-bought-25-fake-nfts-due-to-exploit",
+            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n raguvaran \n\nMultiple dozen phony NFTs were",
+            "published": "2023-01-06T09:41:55.000Z",
             "score": 1
           },
           {
-            "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com",
-            "url": "https://www.linkgeanie.com/news/magic-eden-will-refund-users-who-bought-25-fake-nfts-due-to-exploit",
-            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com\n\n\n\nCopyright © 2026 Linkgeanie.com. All rights reserved.\n\nMagic Eden will refund users who bought 25 fake NFTs due",
-            "published": "2023-01-06T09:41:55.000Z",
+            "title": "Magic Eden to refund users after fake NFTs sold due to exploit | Bitcoin Insider",
+            "url": "https://www.bitcoininsider.org/article/199861/magic-eden-refund-users-after-fake-nfts-sold-due-exploit",
+            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit | Bitcoin Insider\n\n# Magic Eden to refund users after fake NFTs sold due to exploit \n\nOver a dozen fake NFTs were sold on the Magic Eden ",
+            "published": "2023-01-05T02:49:02.000Z",
             "score": 0.5
           },
           {
-            "title": "Magic Eden to refund users after fake NFTs sold due to exploit",
-            "url": "https://cointelegraph.com/news/magic-eden-to-refund-users-after-25-fake-nfts-sold-due-to-exploit",
-            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit\n\n \n\n \n\n \n\n \n\n Ecosystem \n\n \n\n \n\n \n\n \n\n \n\n ADA$0.2464 0.93% BNB$617.43 0.86% XMR$334.60 1.62% TRX$0.322 2.20% ETH$2,054 2.60% LINK$8.70 2.",
-            "published": "2023-01-05T02:49:02.000Z",
+            "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Bloggalot.com",
+            "url": "https://bloggalot.com/public/index.php/business-post/magic-eden-will-refund-users-who-bought-25-fake-nfts-due-to-exploit",
+            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Bloggalot.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n Blockchainx Tech \n\n posted on 3 years ago —",
+            "published": "2023-01-06T09:08:21.000Z",
             "score": 0
           }
         ],
@@ -4455,9 +4455,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-29T04:14:09.479Z"
+        "enriched_at": "2026-08-07T03:50:26.914Z"
       },
-      "timestamp": "2026-07-29T04:14:11.109Z"
+      "timestamp": "2026-08-07T03:50:28.403Z"
     },
     "boozt": {
       "intel": {
@@ -4510,9 +4510,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-29T04:14:11.109Z"
+        "enriched_at": "2026-08-07T03:50:28.403Z"
       },
-      "timestamp": "2026-07-29T04:14:12.680Z"
+      "timestamp": "2026-08-07T03:50:29.888Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -4542,32 +4542,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "imbas007/CVE-2026-42533",
-            "url": "https://github.com/imbas007/cve-2026-42533",
-            "snippet": "# imbas007/CVE-2026-42533\n\nnginx heap buffer overflow PoC — CVE-2026-42533 pre-auth RCE via two-pass capture clobbering. Crash confirmed on Ubuntu 24.04.\n\n- Stars: 22\n- Forks: 7\n- Watchers: 22\n- Open ",
+            "title": "AdnaneKhan/Wp2Shell-RCE",
+            "url": "https://github.com/AdnaneKhan/Wp2Shell-RCE",
+            "snippet": "# AdnaneKhan/Wp2Shell-RCE\n\nPoC Repository with Lab Setup for Wp2Shell RCE\n\n- Stars: 3\n- Forks: 1\n- Watchers: 3\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-17T22:08:25Z\n\n## Languages\n\n- ",
             "published": null,
             "score": 1
           },
           {
-            "title": "Icex0/wp2shell-poc",
-            "url": "https://github.com/Icex0/wp2shell-poc/",
-            "snippet": "# Icex0/wp2shell-poc\n\nwp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain\n\n- Stars: 523\n- Forks: 129\n- Watchers: 523\n- Open issues: 1\n- License: MIT License\n- Default branch: main\n- Created: 2",
+            "title": "0xsha/KindaRails2Shell",
+            "url": "https://github.com/0xsha/KindaRails2Shell",
+            "snippet": "# 0xsha/KindaRails2Shell\n\nCVE-2026-66066 + File Read, RCE, Scanner, Lab \n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-07-31T16:51",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Shellpecker/CVE-2026-50416-writeup-and-poc",
-            "url": "https://github.com/Shellpecker/CVE-2026-50416-writeup-and-poc",
-            "snippet": "# Shellpecker/CVE-2026-50416-writeup-and-poc\n\nCVE-2026-50416: Windows 11 KASLR bypass\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Homepage: https://x.com/karollooool",
+            "title": "Icex0/wp2shell-poc",
+            "url": "https://github.com/Icex0/wp2shell-poc/",
+            "snippet": "# Icex0/wp2shell-poc\n\nwp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain\n\n- Stars: 677\n- Forks: 156\n- Watchers: 677\n- Open issues: 3\n- License: MIT License\n- Default branch: main\n- Created: 2",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-07-30T04:06:31.001Z"
+        "enriched_at": "2026-08-07T03:50:29.888Z"
       },
-      "timestamp": "2026-07-30T04:06:32.447Z"
+      "timestamp": "2026-08-07T03:50:31.384Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -6188,5 +6188,5 @@
       "timestamp": "2026-08-04T04:15:36.418Z"
     }
   },
-  "lastRun": "2026-08-06T04:14:36.690Z"
+  "lastRun": "2026-08-07T03:50:31.385Z"
 }
