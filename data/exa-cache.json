@@ -2987,14 +2987,14 @@
           {
             "title": "Untitled",
             "url": "https://www.praetorian.com/blog/3cx-phone-system-local-privilege-escalation-vulnerability/",
-            "snippet": "---\ntitle: 3CX Phone System Local Privilege Escalation Vulnerability\ndescription: Overview In an effort to safeguard our customers, we perform proactive vulnerability research with the goal of identif",
+            "snippet": "Skip to content\n\n- Vulnerability Research\n\n# 3CX Phone System Local Privilege Escalation Vulnerability\n\n- Adam Crosser\n- August 28, 2024 \n\n## Overview\n\nIn an effort to safeguard our customers, we perf",
             "published": null,
             "score": 1
           },
           {
-            "title": "Pwning 3CX Phone Management Backends from the Internet | by frycos | Medium",
+            "title": "Medium",
             "url": "https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88",
-            "snippet": "Pwning 3CX Phone Management Backends from the Internet | by frycos | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Pwning 3CX Phone Management Backends from the Intern",
+            "snippet": "MediumPwning 3CX Phone Management Backends from the Internet | by frycos | Medium\n\nSign up\n\nGet app\n\nSign up\n\nExploitation\n\nUnauthorized Access\n\nVulnerability Research\n\n# Pwning 3CX Phone Management B",
             "published": "2022-03-30T22:01:22.000Z",
             "score": 0.5
           },
@@ -3032,9 +3032,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-01T04:21:59.819Z"
+        "enriched_at": "2026-08-09T03:02:24.012Z"
       },
-      "timestamp": "2026-08-01T04:22:01.433Z"
+      "timestamp": "2026-08-09T03:02:25.468Z"
     },
     "privy-bbp": {
       "intel": {
@@ -3049,14 +3049,14 @@
           {
             "title": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library",
             "url": "https://www.privy.io/blog/shamir-secret-sharing-deep-dive",
-            "snippet": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nBack\n\n## Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nS\n\n|\n\nAug ",
+            "snippet": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\n## Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nS\n\n|\n\nAug 7, 202",
             "published": "2024-08-07T04:30:05.000Z",
             "score": 0.5
           },
           {
-            "title": "Threat models & security FAQ - Privy Docs",
+            "title": "security-faqs",
             "url": "https://privy-c2af3412.mintlify.app/security/security-faqs",
-            "snippet": "> ## Documentation Index\n> \n> Fetch the complete documentation index at: https://docs.privy.io/llms.txt\n> Use this file to discover all available pages before exploring further.\n\n# Threat models & sec",
+            "snippet": "> ## Documentation Index\n> Fetch the complete documentation index at: https://docs.privy.io/llms.txt\n> Use this file to discover all available pages before exploring further.\n\n# Threat models & securi",
             "published": null,
             "score": 0
           }
@@ -3087,9 +3087,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-01T04:22:01.434Z"
+        "enriched_at": "2026-08-09T03:02:25.468Z"
       },
-      "timestamp": "2026-08-01T04:22:02.947Z"
+      "timestamp": "2026-08-09T03:02:26.956Z"
     },
     "netflix": {
       "intel": {
@@ -3097,14 +3097,14 @@
           {
             "title": "Medium",
             "url": "https://letchupkt.medium.com/when-your-bug-gets-marked-duplicate-a-netflix-atlas-security-research-journey-eae25a5f4f35",
-            "snippet": "MediumWhen Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey | by LETCHU PKT | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# When Your Bug Ge",
+            "snippet": "MediumWhen Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey | by LETCHU PKT | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## LETCHU PKT\n\nArtificial Intelligence and Technology Enthus",
             "published": "2025-09-08T14:10:20.000Z",
             "score": 1
           },
           {
-            "title": "[Netflix][Smart TV] — Chaining Self-XSS with Session poisoning. | by Lyubomir Tsirkov | Medium",
+            "title": "Medium",
             "url": "https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914",
-            "snippet": "[Netflix][Smart TV] — Chaining Self-XSS with Session poisoning. | by Lyubomir Tsirkov | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\n# [Netflix][Smart TV] — Chaining Self-XSS with Session poisoning",
+            "snippet": "Medium[Netflix][Smart TV] — Chaining Self-XSS with Session poisoning. | by Lyubomir Tsirkov | Medium\n\nSign up\n\nGet app\n\nSign up\n\nBug Bounty\n\nBug Bounty Tips\n\nBug Bounty Writeup\n\nCybersecurity\n\nXss Att",
             "published": "2023-03-11T09:01:45.000Z",
             "score": 0.5
           },
@@ -3133,18 +3133,18 @@
             "score": 0.5
           },
           {
-            "title": "wodz69/Netflix-N-Hack",
-            "url": "https://github.com/wodz69/Netflix-N-Hack",
-            "snippet": "# wodz69/Netflix-N-Hack\n\nTakes advantage of Netflix for PS5 requesting JavaScript from localhost. Using a MITM attack we can inject and execute our own JavaScript into the error screen.\n\n- Stars: 9\n- ",
-            "published": null,
+            "title": "NetflixNHack/Netflix-N-Hack",
+            "url": "https://github.com/earthonion/Netflix-N-Hack",
+            "snippet": "# Repository: NetflixNHack/Netflix-N-Hack\n\nTakes advantage of Netflix for PS5 requesting JavaScript from localhost. Using a MITM attack we can inject and execute our own JavaScript into the error scre",
+            "published": "2025-10-22T22:42:24.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-01T04:22:02.947Z"
+        "enriched_at": "2026-08-09T03:02:26.956Z"
       },
-      "timestamp": "2026-08-01T04:22:04.426Z"
+      "timestamp": "2026-08-09T03:02:28.481Z"
     },
     "23andme_bbp": {
       "intel": {
@@ -3197,9 +3197,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-01T04:22:04.426Z"
+        "enriched_at": "2026-08-09T03:02:28.482Z"
       },
-      "timestamp": "2026-08-01T04:22:05.915Z"
+      "timestamp": "2026-08-09T03:02:29.993Z"
     },
     "audible": {
       "intel": {
@@ -3252,9 +3252,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-01T04:22:05.915Z"
+        "enriched_at": "2026-08-09T03:02:29.993Z"
       },
-      "timestamp": "2026-08-01T04:22:07.417Z"
+      "timestamp": "2026-08-09T03:02:31.437Z"
     },
     "temu": {
       "intel": {
@@ -3262,7 +3262,7 @@
           {
             "title": "How I Hacked Temu - Thijs&#x27;s Portfolio | Vuink.com",
             "url": "https://vuink.com/post/cbegsbyvb-d-dguvwf-d-dtt/posts/hacking-temu",
-            "snippet": "How I Hacked Temu - Thijs's Portfolio | Vuink.com\n\nInvalid email/password combination.\n\nSubmit a link\n\nPlease enter url.\n\nLoading ...\n\n# How I Hacked Temu - Thijs's Portfolio\n\nSubmitted by\n\nStyle Pass",
+            "snippet": "How I Hacked Temu - Thijs's Portfolio | Vuink.com\n\n# How I Hacked Temu - Thijs's Portfolio\n\nSubmitted by\n\nStyle Pass\n\n2024-12-01 06:30:02\n\nIn classic Thijs fashion, I checked my shipment's tracking ev",
             "published": "2024-12-01T06:30:02.000Z",
             "score": 1
           },
@@ -3307,9 +3307,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-01T04:22:07.417Z"
+        "enriched_at": "2026-08-09T03:02:31.437Z"
       },
-      "timestamp": "2026-08-01T04:22:08.941Z"
+      "timestamp": "2026-08-09T03:02:32.828Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -3410,9 +3410,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-01T04:22:10.412Z"
+        "enriched_at": "2026-08-09T03:02:32.828Z"
       },
-      "timestamp": "2026-08-01T04:22:11.916Z"
+      "timestamp": "2026-08-09T03:02:34.248Z"
     },
     "trip_com": {
       "intel": {
@@ -3465,9 +3465,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-01T04:22:11.916Z"
+        "enriched_at": "2026-08-09T03:02:34.248Z"
       },
-      "timestamp": "2026-08-01T04:22:13.420Z"
+      "timestamp": "2026-08-09T03:02:35.657Z"
     },
     "bykea": {
       "intel": {
@@ -3487,9 +3487,9 @@
             "score": 0.5
           },
           {
-            "title": "Bykea | Report #2868164 - Bypassing Bronze Partner Wallet Restriction to Accept Trips with Negative Balance | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/reports/2868164",
-            "snippet": "Bykea | Report #2868164 - Bypassing Bronze Partner Wallet Restriction to Accept Trips with Negative Balance | HackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](https://hackerone.com",
+            "snippet": "HackerOne\n\nSorry, something went wrong. Please contact us at https://support.hackerone.com if this error persists\n\nHackerOne\nSorry, something went wrong. Please contact us at https://support.hackerone",
             "published": null,
             "score": 0
           }
@@ -3511,18 +3511,18 @@
             "score": 0.5
           },
           {
-            "title": "hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass",
-            "url": "https://github.com/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass",
-            "snippet": "# Repository: hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass\n\nCVE-2026-50751 — Check Point IKEv1 Authentication Bypass\n\n- Stars: 1\n- Forks: 1\n- Watchers: 0\n- Open issues: 0\n- Primary ",
-            "published": "2026-06-12T14:25:40.000Z",
+            "title": "gbuyssens/CVE-2026-41651",
+            "url": "https://github.com/gbuyssens/CVE-2026-41651",
+            "snippet": "# gbuyssens/CVE-2026-41651\n\nLocal privilege escalation via TOCTOU race condition in PackageKit's.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: GNU General Public License v3.0\n- Def",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-01T04:22:13.420Z"
+        "enriched_at": "2026-08-09T03:02:35.657Z"
       },
-      "timestamp": "2026-08-01T04:22:14.890Z"
+      "timestamp": "2026-08-09T03:02:37.045Z"
     },
     "inditex": {
       "intel": {
@@ -5721,78 +5721,56 @@
       "intel": {
         "writeups": [
           {
-            "title": "Bug Bounty: Insights from Our First-hand Experience",
-            "url": "https://blog.compass-security.com/2024/05/bug-bounty-insights-from-our-first-hand-experience",
-            "snippet": "Bug Bounty: Insights from Our First-hand Experience &#8211; Compass Security Blog\n## Compass Security Blog\n### Offensive Defense\n* Home\n* Archive\n* Contact\n* Newsletter\n* **\n* **\n* **\n* * Home\n* Archi",
+            "title": "Bug Bounty: Insights from Our First-hand Experience – Compass Security Blog",
+            "url": "https://blog.compass-security.com/2024/05/bug-bounty-insights-from-our-first-hand-experience/",
+            "snippet": "Bug Bounty: Insights from Our First-hand Experience – Compass Security Blog\n\n## Compass Security Blog\n\nCompass Security Blog — Offensive Defense\n\n### Offensive Defense\n\n# Bug Bounty: Insights from Our",
             "published": "2024-05-01T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "From Folder Deletion to Admin: Lenovo Vantage (CVE‑2025‑13154) – Compass Security Blog",
-            "url": "https://blog.compass-security.com/2026/02/from-folder-deletion-to-admin-lenovo-vantage-cve-2025-13154/",
-            "snippet": "From Folder Deletion to Admin: Lenovo Vantage (CVE‑2025‑13154) – Compass Security Blog \n\n## Compass Security Blog\n\n### Offensive Defense\n\n \n\n \n\n \n\n \n\n \n\n# From Folder Deletion to Admin: Lenovo Vantage",
-            "published": "2026-02-01T00:00:00.000Z",
+            "title": "MongoDB Compass CVE-2026-9101 (MEDIUM 5.3) - vuln.today",
+            "url": "https://vuln.today/cve/CVE-2026-9101",
+            "snippet": "MongoDB Compass CVE-2026-9101 (MEDIUM 5.3) - vuln.today\n\n# MongoDB Compass CVE-2026-9101\n\n| EUVD-2026-31127 MEDIUM\n\nImproperly Controlled Modification of Object Prototype Attributes (Prototype Polluti",
+            "published": "2026-05-20T16:18:10.000Z",
             "score": 0.5
           },
           {
-            "title": "Advisories - Compass Security",
-            "url": "https://www.compass-security.com/en/research/advisories?cHash=2e658ca922bb040553551037569b5e61&tx_news_pi1%5BcurrentPage%5D=0",
-            "snippet": "Advisories - Compass Security\n\nSkip to main content\n\nCompass Security employees regularly identify 0day security weaknesses in products, either during customer projects or during their research time. ",
-            "published": "2026-02-10T19:50:27.000Z",
+            "title": "How FireCompass AI Agents Reached HackerOne's Top 3 on $5,000 a Month: Full Methodology, Data, and Limitations",
+            "url": "https://firecompass.com/blog-ai-penetration-testing-hackerone-top-3/",
+            "snippet": "How FireCompass AI Agents Reached HackerOne's Top 3 on $5,000 a Month: Full Methodology, Data, and Limitations\n\nHome Blogs How FireCompass AI...\n\nAgentic AI 28 Jul 2026\n\n# How FireCompass AI Agents Re",
+            "published": "2026-07-28T05:00:05.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "From Folder Deletion to Admin: Lenovo Vantage (CVE‑2025‑13154) – Compass Security Blog",
-            "url": "https://blog.compass-security.com/2026/02/from-folder-deletion-to-admin-lenovo-vantage-cve-2025-13154/",
-            "snippet": "From Folder Deletion to Admin: Lenovo Vantage (CVE‑2025‑13154) – Compass Security Blog \n\n## Compass Security Blog\n\n### Offensive Defense\n\n \n\n \n\n \n\n \n\n \n\n# From Folder Deletion to Admin: Lenovo Vantage",
-            "published": "2026-02-01T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "Advisories - Compass Security",
-            "url": "https://www.compass-security.com/en/research/advisories",
-            "snippet": "Advisories - Compass Security \n\nSkip to main content\n\n \n\nCompass Security employees regularly identify 0day security weaknesses in products, either during customer projects or during their research ti",
-            "published": "2026-03-24T21:58:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Vulnerability in FortiProxy - Compass Security",
-            "url": "https://www.compass-security.com/en/news/detail/vulnerability-in-fortiproxy",
-            "snippet": "Vulnerability in FortiProxy - Compass Security\n\nSkip to main content\n\n### Vulnerability in FortiProxy\n\n10/15/2025\n\nSecurity analyst Emanuel Duss identified a vulnerability in FortiProxy.\n\nDetails to t",
-            "published": "2025-10-15T10:35:12.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
-            "title": "CompassSecurity/deviceCode2SecurityKey",
-            "url": "https://github.com/CompassSecurity/deviceCode2SecurityKey",
-            "snippet": "# Repository: CompassSecurity/deviceCode2SecurityKey\n\nPoC to add a security key to Entra ID via device code phishing\n\n- Stars: 11\n- Forks: 0\n- Watchers: 11\n- Open issues: 1\n- Primary language: Python\n",
-            "published": "2024-01-08T13:29:49.000Z",
+            "title": "When importing connections in Compass it is possible to... · CVE-2026-14881 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/GHSA-6x3f-g6jr-wq84",
+            "snippet": "When importing connections in Compass it is possible to... · CVE-2026-14881 · GitHub Advisory Database · GitHub\n\n## When importing connections in Compass it is possible to...\n\nHigh severity Unreviewed",
+            "published": null,
             "score": 1
           },
           {
-            "title": "huseyinstif/CVE-2026-2441-PoC",
-            "url": "https://github.com/huseyinstif/CVE-2026-2441-PoC",
-            "snippet": "# Repository: huseyinstif/CVE-2026-2441-PoC\n\n- Stars: 118\n- Forks: 21\n- Watchers: 118\n- Open issues: 1\n- Primary language: HTML\n- Languages: HTML\n- Default branch: main\n- Created: 2026-02-18T11:46:40Z",
-            "published": "2026-02-18T11:46:40.000Z",
+            "title": "Debajyoti0-0/CVE-2026-27654-PoC",
+            "url": "https://github.com/Debajyoti0-0/CVE-2026-27654-PoC",
+            "snippet": "# Debajyoti0-0/CVE-2026-27654-PoC\n\nProof-of-Concept and technical analysis for CVE-2026-27654, a heap-based buffer overflow vulnerability in the NGINX HTTP WebDAV module, including root cause analysis",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "CompassSecurity/xvulnhuntr",
-            "url": "https://github.com/CompassSecurity/xvulnhuntr",
-            "snippet": "# Repository: CompassSecurity/xvulnhuntr (fork of protectai/vulnhuntr)\n\nZero shot vulnerability discovery using LLMs\n\n- Stars: 11\n- Forks: 1\n- Watchers: 11\n- Open issues: 0\n- Primary language: Python\n",
-            "published": "2025-03-20T09:01:52.000Z",
+            "title": "clsmight/CVE-2026-41940-PoC",
+            "url": "https://github.com/clsmight/CVE-2026-41940-PoC",
+            "snippet": "# clsmight/CVE-2026-41940-PoC\n\nCVE-2026-41940 exploitation proof-of-concept project\n\n- Stars: 62\n- Forks: 8\n- Watchers: 62\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-16T17:49:03Z\n\n## L",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 9,
-        "enriched_at": "2026-04-07T03:50:17.709Z"
+        "total_results": 6,
+        "enriched_at": "2026-08-09T03:02:37.046Z"
       },
-      "timestamp": "2026-04-07T03:50:19.397Z"
+      "timestamp": "2026-08-09T03:02:38.427Z"
     },
     "zabbix": {
       "intel": {
@@ -6188,5 +6166,5 @@
       "timestamp": "2026-08-04T04:15:36.418Z"
     }
   },
-  "lastRun": "2026-08-08T02:55:13.050Z"
+  "lastRun": "2026-08-09T03:02:38.427Z"
 }
