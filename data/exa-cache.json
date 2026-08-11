@@ -4674,32 +4674,32 @@
         "twitter": [],
         "github": [
           {
+            "title": "CodeCall sandbox escape to host RCE via live Zod schema exposed by getTool · Advisory · agentfront/frontmcp · GitHub",
+            "url": "https://github.com/agentfront/frontmcp/security/advisories/GHSA-mp29-fxh8-92px",
+            "snippet": "CodeCall sandbox escape to host RCE via live Zod schema exposed by getTool · Advisory · agentfront/frontmcp · GitHub\n\n# CodeCall sandbox escape to host RCE via live Zod schema exposed by getTool\n\nCrit",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Transparent JWT Issuer and Audience Validation Bypass in `@frontmcp/auth` and `@frontmcp/sdk` · Advisory · agentfront/frontmcp · GitHub",
             "url": "https://github.com/agentfront/frontmcp/security/advisories/GHSA-hvvp-67p3-j379",
             "snippet": "Transparent JWT Issuer and Audience Validation Bypass in `@frontmcp/auth` and `@frontmcp/sdk` · Advisory · agentfront/frontmcp · GitHub\n\n# Transparent JWT Issuer and Audience Validation Bypass in `@fr",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Sandbox escape via infinite recursion and error objects · Advisory · agentfront/enclave · GitHub",
             "url": "https://github.com/agentfront/enclave/security/advisories/GHSA-x39w-8vm5-5m3p",
             "snippet": "Sandbox escape via infinite recursion and error objects · Advisory · agentfront/enclave · GitHub\n\n# Sandbox escape via infinite recursion and error objects\n\nCritical\n\npublished GHSA-x39w-8vm5-5m3p Feb",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Stuub/SGLang-0.5.9-RCE",
-            "url": "https://github.com/Stuub/SGLang-0.5.9-RCE",
-            "snippet": "# Stuub/SGLang-0.5.9-RCE\n\nProof of Concept exploitation of CVE-2026-5760 - RCE in SGLang 0.5.9 via malicious GGUF\n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-03T04:31:20.702Z"
+        "enriched_at": "2026-08-11T03:04:27.049Z"
       },
-      "timestamp": "2026-08-03T04:31:22.370Z"
+      "timestamp": "2026-08-11T03:04:28.579Z"
     },
     "indrive": {
       "intel": {
@@ -4752,9 +4752,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-03T04:31:22.370Z"
+        "enriched_at": "2026-08-11T03:04:28.579Z"
       },
-      "timestamp": "2026-08-03T04:31:23.876Z"
+      "timestamp": "2026-08-11T03:04:30.163Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4774,10 +4774,10 @@
             "score": 0.5
           },
           {
-            "title": "Don't judge an audiobook by its cover: taking over your Amazon account with a Kindle",
-            "url": "https://blog.thalium.re/posts/dont-judge-an-audiobook-by-its-cover-taking-over-your-amazon-account-with-a-kindle/",
-            "snippet": "Don't judge an audiobook by its cover: taking over your Amazon account with a Kindle\n\n# Don't judge an audiobook by its cover: taking over your Amazon account with a Kindle\n\nAmazon’s Kindle devices ar",
-            "published": "2025-12-16T08:00:00.000Z",
+            "title": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium",
+            "url": "https://medium.com/@baronyogev/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08",
+            "snippet": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# KindleDrip — From Your Kindle",
+            "published": "2021-01-21T09:31:12.000Z",
             "score": 0
           }
         ],
@@ -4800,9 +4800,9 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-08-03T04:31:23.876Z"
+        "enriched_at": "2026-08-11T03:04:30.163Z"
       },
-      "timestamp": "2026-08-03T04:31:25.354Z"
+      "timestamp": "2026-08-11T03:04:31.657Z"
     },
     "rei_bbp": {
       "intel": {
@@ -4810,7 +4810,7 @@
           {
             "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
             "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
-            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\nHackerOne Blog\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHa",
+            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHackerOne Team\n\nIs",
             "published": null,
             "score": 1
           },
@@ -4855,9 +4855,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-03T04:31:25.355Z"
+        "enriched_at": "2026-08-11T03:04:31.657Z"
       },
-      "timestamp": "2026-08-03T04:31:26.891Z"
+      "timestamp": "2026-08-11T03:04:33.160Z"
     },
     "mergify": {
       "intel": {
@@ -4887,16 +4887,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "Eyodav/CVE-2025-34159",
-            "url": "https://github.com/Eyodav/CVE-2025-34159",
-            "snippet": "# Eyodav/CVE-2025-34159\n\nA critical Remote Code Execution (RCE) vulnerability exists in Coolify's application deployment workflow. This flaw allows a low-privileged member to inject arbitrary Docker C",
+            "title": "cybertechajju/CVE-2026-59734-POC",
+            "url": "https://github.com/cybertechajju/CVE-2026-59734-POC",
+            "snippet": "# cybertechajju/CVE-2026-59734-POC\n\nOS Command Injection in Health Check → Remote Code Execution\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-11T08:2",
             "published": null,
             "score": 1
           },
           {
-            "title": "cybertechajju/CVE-2026-59734-POC",
-            "url": "https://github.com/cybertechajju/CVE-2026-59734-POC",
-            "snippet": "# cybertechajju/CVE-2026-59734-POC\n\nOS Command Injection in Health Check → Remote Code Execution\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-11T08:2",
+            "title": "Eyodav/CVE-2025-34159",
+            "url": "https://github.com/Eyodav/CVE-2025-34159",
+            "snippet": "# Eyodav/CVE-2025-34159\n\nA critical Remote Code Execution (RCE) vulnerability exists in Coolify's application deployment workflow. This flaw allows a low-privileged member to inject arbitrary Docker C",
             "published": null,
             "score": 0.5
           },
@@ -4910,9 +4910,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-03T04:31:26.891Z"
+        "enriched_at": "2026-08-11T03:04:33.160Z"
       },
-      "timestamp": "2026-08-03T04:31:28.345Z"
+      "timestamp": "2026-08-11T03:04:34.777Z"
     },
     "coinhako": {
       "intel": {
@@ -5026,47 +5026,47 @@
             "score": 1
           },
           {
-            "title": "README.md at main · Neverlow512/Breaking-the-Unbreakable-iOS-Captcha-Research",
-            "url": "https://github.com/Neverlow512/Breaking-the-Unbreakable-iOS-Captcha-Research/blob/main/README.md",
-            "snippet": "# File: Neverlow512/Breaking-the-Unbreakable-iOS-Captcha-Research/README.md\n\n- Repository: Neverlow512/Breaking-the-Unbreakable-iOS-Captcha-Research | Breaking the Unbreakable: A Practical Analysis of",
+            "title": "rmhowe425/PoC-CVE-2026-9198",
+            "url": "https://github.com/rmhowe425/PoC-CVE-2026-9198",
+            "snippet": "# rmhowe425/PoC-CVE-2026-9198\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-05T17:44:08Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- rmhowe425 (5 ",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "exploit.py",
-            "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: adriyansyah-mf/cve-2026-41940-poc\n\n---\n\nimport argparse\nimport base64\nimport json\nimport re\nimport sys\nimport urllib.parse\nimport requests\nimport urllib3\n\nur",
+            "title": "Boreas37/CVE-2026-34910-PoC",
+            "url": "https://github.com/Boreas37/CVE-2026-34910-PoC",
+            "snippet": "# Boreas37/CVE-2026-34910-PoC\n\nCVE-2026-34910/34909 — UniFi OS unauth RCE + file read via ..%2f auth bypass (CVSS 10.0, KEV, Mirai ITW)\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- License:",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-03T04:31:28.345Z"
+        "enriched_at": "2026-08-11T03:04:34.777Z"
       },
-      "timestamp": "2026-08-03T04:31:29.881Z"
+      "timestamp": "2026-08-11T03:04:36.290Z"
     },
     "alsco": {
       "intel": {
         "writeups": [
           {
-            "title": "Untitled",
-            "url": "https://hackmd.io/@BlackFrost/BJeEgqNZR",
-            "snippet": "# ACSC 2024 writeup\n\n## Web:\n\n### Login!\n\nA simple login page, our target is to login as `user`.\n\n```javascript\nconst user = USER_DB[username];\nif (user && user.password == password) {\n    if (usernam",
-            "published": null,
+            "title": "Twitter",
+            "url": "https://www.noscope.com/blog/cve-2026-35482-noscope-alf-rce",
+            "snippet": "How NoScope uncovered an authenticated remote code execution flaw in Alf.io's extension system. A single exposed Java binding turned that into full remote code execution on the underlying server.\n\n> T",
+            "published": "2026-06-04T00:15:58.000Z",
             "score": 1
+          },
+          {
+            "title": "BJeEgqNZR",
+            "url": "https://hackmd.io/@BlackFrost/BJeEgqNZR",
+            "snippet": "---\n# System prepended metadata\n\ntitle: ACSC 2024 writeup\n\n---\n\n# ACSC 2024 writeup\n\n## Web:\n\n### Login!\nA simple login page, our target is to login as `user`. \n\n```javascript\nconst user = USER_DB[use",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "ALSCO Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/alsco/",
             "snippet": "ALSCO Bug Bounty Program - Bug Bounties\n\n# ALSCO\n\nBounty Recognition Swag Full Safe Harbor \n\n## Program Details \n\n- Handle \n- alsco \n- Managed\n- No \n\n## Response Metrics \n\n- Response Time\n- 13 days \n\n",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "TryHackMe: NoScope — Finding RCE - Freedium",
-            "url": "https://freedium-mirror.cfd/https:/medium.com/p/cdcd32112c0e",
-            "snippet": "TryHackMe: NoScope — Finding RCE - Freedium\n\nDownload article\n\n## Contents\n\n20\n\n- 1 Watching an AI Agent Find a Real CVE in Alf.io — CVE-2026–35482 (Rhino Sandbox Escape → RCE)\n- 2 TL;DR\n- 3 Setting t",
             "published": null,
             "score": 0
           }
@@ -5097,9 +5097,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-03T04:31:29.882Z"
+        "enriched_at": "2026-08-11T03:04:36.290Z"
       },
-      "timestamp": "2026-08-03T04:31:31.393Z"
+      "timestamp": "2026-08-11T03:04:37.782Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5637,8 +5637,8 @@
           {
             "title": "DK27ss/FoomClub-1.6M-PoC",
             "url": "https://github.com/DK27ss/FoomClub-1.6M-PoC",
-            "snippet": "# Repository: DK27ss/FoomClub-1.6M-PoC\n\ngroth16 verifier had `delta2 == gamma2`\n\n- Stars: 4\n- Forks: 1\n- Watchers: 1\n- Open issues: 0\n- Primary language: CoffeeScript\n- Languages: CoffeeScript (98.5%)",
-            "published": "2026-02-26T09:09:52.000Z",
+            "snippet": "# DK27ss/FoomClub-1.6M-PoC\n\n groth16 verifier had `delta2 == gamma2` \n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-26T09:09:52Z\n\n## Languages\n\n- Coff",
+            "published": null,
             "score": 1
           },
           {
@@ -5658,9 +5658,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-03T04:31:32.982Z"
+        "enriched_at": "2026-08-11T03:04:39.315Z"
       },
-      "timestamp": "2026-08-03T04:31:34.481Z"
+      "timestamp": "2026-08-11T03:04:40.781Z"
     },
     "hilton": {
       "intel": {
@@ -5713,9 +5713,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-03T04:31:34.481Z"
+        "enriched_at": "2026-08-11T03:04:40.781Z"
       },
-      "timestamp": "2026-08-03T04:31:35.955Z"
+      "timestamp": "2026-08-11T03:04:42.333Z"
     },
     "compass-bbp": {
       "intel": {
@@ -6059,23 +6059,23 @@
       "intel": {
         "writeups": [
           {
+            "title": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/abercrombie_fitch_bbp",
+            "snippet": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne\n\n## Program highlights\n\nClosed Scope\n\nOnly accepts reports based on the listed scope.\n\nPlatform Standards\n\nFully compliant with Platform Stan",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Vulnerability Disclosure - Abercrombie",
             "url": "https://corporate.abercrombie.com/vulnerability-disclosure/",
             "snippet": "Vulnerability Disclosure - Abercrombie\n\n# Vulnerability Disclosure\n\nAbercrombie & Fitch Management Co. looks forward to working with the security community to find vulnerabilities to keep our business",
             "published": "2023-03-15T12:43:54.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "abercrombie_fitch on HackerOne - Bug Bounty Scope | bbscope.com",
             "url": "https://bbscope.com/program/h1/abercrombie_fitch",
             "snippet": "abercrombie_fitch on HackerOne - Bug Bounty Scope | bbscope.com\n\nVulnerability Disclosure Program (VDP)\n\nVDPs are meant for responsibly reporting vulnerabilities you encounter — not for actively hunti",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Untitled",
-            "url": "https://hackmd.io/@BlackFrost/BJeEgqNZR",
-            "snippet": "# ACSC 2024 writeup\n\n## Web:\n\n### Login!\n\nA simple login page, our target is to login as `user`.\n\n```javascript\nconst user = USER_DB[username];\nif (user && user.password == password) {\n    if (usernam",
             "published": null,
             "score": 0
           }
@@ -6106,9 +6106,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-03T04:31:31.393Z"
+        "enriched_at": "2026-08-11T03:04:37.782Z"
       },
-      "timestamp": "2026-08-03T04:31:32.981Z"
+      "timestamp": "2026-08-11T03:04:39.314Z"
     },
     "wolt": {
       "intel": {
@@ -6166,5 +6166,5 @@
       "timestamp": "2026-08-04T04:15:36.418Z"
     }
   },
-  "lastRun": "2026-08-10T03:13:39.475Z"
+  "lastRun": "2026-08-11T03:04:42.333Z"
 }
