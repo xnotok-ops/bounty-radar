@@ -1784,8 +1784,8 @@
           {
             "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
             "url": "https://github.com/honestcorrupt/MEESHO-CVE",
-            "snippet": "# Repository: honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n- Last push: 2",
-            "published": "2026-03-30T07:15:05.000Z",
+            "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
+            "published": null,
             "score": 0.5
           },
           {
@@ -1801,8 +1801,8 @@
           {
             "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
             "url": "https://github.com/honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "snippet": "# Repository: honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n- Last push: 2",
-            "published": "2026-03-30T07:15:05.000Z",
+            "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
+            "published": null,
             "score": 1
           },
           {
@@ -1813,18 +1813,18 @@
             "score": 0.5
           },
           {
-            "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "url": "https://github.com/honestcorrupt/MEESHO-CVE",
-            "snippet": "# Repository: honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n- Last push: 2",
-            "published": "2026-03-30T07:15:05.000Z",
+            "title": "A vulnerability was identified in Meesho Online Shopping... · CVE-2026-18591 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/GHSA-7gc3-pw6r-7mq6",
+            "snippet": "A vulnerability was identified in Meesho Online Shopping... · CVE-2026-18591 · GitHub Advisory Database · GitHub\n\n## A vulnerability was identified in Meesho Online Shopping... \n\n Published \n\nAug 3, 2",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:17.176Z"
+        "enriched_at": "2026-08-13T03:27:19.422Z"
       },
-      "timestamp": "2026-08-05T04:11:18.784Z"
+      "timestamp": "2026-08-13T03:27:20.845Z"
     },
     "braze_inc": {
       "intel": {
@@ -5176,8 +5176,8 @@
           {
             "title": "Network Security at Modern Treasury",
             "url": "https://www.moderntreasury.com/journal/network-security-at-modern-treasury",
-            "snippet": "Network Security at Modern Treasury\n\n•March 10, 2022\n\n# Network Security at Modern Treasury\n\nSecurity is a priority for our customers and key feature of our products. Here are recent examples of our c",
-            "published": "2022-03-10T01:58:06.000Z",
+            "snippet": "Network Security at Modern Treasury\n\n• March 10, 2022\n\n# Network Security at Modern Treasury\n\nSecurity is a priority for our customers and key feature of our products. Here are recent examples of our ",
+            "published": "2022-03-10T10:44:37.000Z",
             "score": 0
           }
         ],
@@ -5207,9 +5207,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:20.324Z"
+        "enriched_at": "2026-08-13T03:27:22.231Z"
       },
-      "timestamp": "2026-08-05T04:11:21.926Z"
+      "timestamp": "2026-08-13T03:27:23.703Z"
     },
     "notion": {
       "intel": {
@@ -5225,7 +5225,7 @@
             "title": "Notion AI: Data Exfiltration | PromptArmor",
             "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
             "snippet": "Notion AI: Data Exfiltration | PromptArmor\n\nShare on X Share by email\n\nShare by text message Subscribe\n\nThis hit #4 on HackerNews! To view the discussion, click here.\n\nNewPractical Guide to Navigating",
-            "published": "2026-01-09T10:14:09.000Z",
+            "published": "2026-01-09T11:38:16.000Z",
             "score": 0.5
           },
           {
@@ -5262,9 +5262,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:21.927Z"
+        "enriched_at": "2026-08-13T03:27:23.703Z"
       },
-      "timestamp": "2026-08-05T04:11:23.482Z"
+      "timestamp": "2026-08-13T03:27:25.117Z"
     },
     "mpesa": {
       "intel": {
@@ -5328,9 +5328,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:23.482Z"
+        "enriched_at": "2026-08-13T03:27:25.117Z"
       },
-      "timestamp": "2026-08-05T04:11:24.955Z"
+      "timestamp": "2026-08-13T03:27:26.524Z"
     },
     "floqast": {
       "intel": {
@@ -5374,18 +5374,18 @@
             "score": 0.5
           },
           {
-            "title": "v3rycl0p3r/CVE-PoC-CVE-2025-58434",
-            "url": "https://github.com/v3rycl0p3r/CVE-PoC-CVE-2025-58434",
-            "snippet": "# Repository: v3rycl0p3r/CVE-PoC-CVE-2025-58434\n\nCVE PoC — CVE-2025-58434\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-10T07:11:50Z\n- Last push: 2026",
-            "published": "2026-05-10T07:11:50.000Z",
+            "title": "TatoSec/CVE-2026-33017-Langflop",
+            "url": "https://github.com/TatoSec/CVE-2026-33017-Langflop",
+            "snippet": "# TatoSec/CVE-2026-33017-Langflop\n\nCVE-2026-33017 Langflow RCE PoC \n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-05T18:56:56Z\n\n## Languages\n\n- Python",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:24.955Z"
+        "enriched_at": "2026-08-13T03:27:26.524Z"
       },
-      "timestamp": "2026-08-05T04:11:26.467Z"
+      "timestamp": "2026-08-13T03:27:27.888Z"
     },
     "palantir_public": {
       "intel": {
@@ -5415,32 +5415,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "GitHub - horizon3ai/CVE-2024-9465: Proof of Concept Exploit for CVE-2024-9465 · GitHub",
-            "url": "https://github.com/horizon3ai/CVE-2024-9465/tree/main",
-            "snippet": "GitHub - horizon3ai/CVE-2024-9465: Proof of Concept Exploit for CVE-2024-9465 · GitHub\n\n/ CVE-2024-9465 Public\n\nmain\n\nGo to Branches page Go to Tags page\n\nGo to file\n\nCode\n\n| Name | Name | Last commit",
-            "published": "2024-10-09T16:22:05.000Z",
+            "title": "horizon3ai/CVE-2024-9465",
+            "url": "https://github.com/horizon3ai/CVE-2024-9465",
+            "snippet": "# horizon3ai/CVE-2024-9465\n\nProof of Concept Exploit for CVE-2024-9465\n\n- Stars: 31\n- Forks: 4\n- Watchers: 31\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-09T16:22:05Z\n\n## Languages\n\n- P",
+            "published": null,
             "score": 1
+          },
+          {
+            "title": "sam00/POC-CVE-2026-0300-exploit",
+            "url": "https://github.com/sam00/POC-CVE-2026-0300-exploit",
+            "snippet": "# sam00/POC-CVE-2026-0300-exploit\n\nPalo Alto - CVE-2026-0300 exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-06T12:37:02Z\n\n## Languages\n\n- Pytho",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "horizon3ai/CVE-2024-9464",
             "url": "https://github.com/horizon3ai/CVE-2024-9464",
             "snippet": "# horizon3ai/CVE-2024-9464\n\nProof of Concept Exploit for CVE-2024-9464\n\n- Stars: 44\n- Forks: 9\n- Watchers: 44\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-09T16:36:25Z\n\n## Languages\n\n- P",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "modules/exploits/linux/http/paloalto_expedition_rce.rb",
-            "url": "https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/paloalto_expedition_rce.rb",
-            "snippet": "# modules/exploits/linux/http/paloalto_expedition_rce.rb\n\n- Branch: master\n- Repository: rapid7/metasploit-framework\n\n---\n\nclass MetasploitModule < Msf::Exploit::Remote\n\n class XsrfExceptionError < St",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:26.467Z"
+        "enriched_at": "2026-08-13T03:27:27.888Z"
       },
-      "timestamp": "2026-08-05T04:11:27.983Z"
+      "timestamp": "2026-08-13T03:27:29.330Z"
     },
     "mongodb": {
       "intel": {
@@ -5453,16 +5453,16 @@
             "score": 1
           },
           {
-            "title": "[pymongo] out-of-bounds read PoC (CVE-2024-5629)",
-            "url": "https://gist.github.com/keltecc/62a7c2bf74a997d0a7b48a0ff3853a03",
-            "snippet": "# [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Owner: keltecc\n- Created: 2024-03-03T23:53:34Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## !README.md\n\nLanguage: Markdown\n\n_Assigned CVE_: [CVE-202",
-            "published": null,
+            "title": "MongoDB Symbol-Type Authorization Bypass (CVE-2026-18690): Limited User Reaches System Collections — RECON Research",
+            "url": "https://hellorecon.com/blog/cve-2026-18690-mongodb-symbol-type-authz-bypass",
+            "snippet": "MongoDB Symbol-Type Authorization Bypass (CVE-2026-18690): Limited User Reaches System Collections — RECON Research\n\nAUGUST 12, 2026CVSS 8.1 · AUTHZ BYPASS · 4 CVES13 MIN READ\n\n# MongoDB's Symbol-Type",
+            "published": "2026-08-12T01:13:39.000Z",
             "score": 0.5
           },
           {
-            "title": "Brand-new prototype pollution gadget in MongoDB leading to RCE",
-            "url": "https://sechub.in/view/2903363",
-            "snippet": "Brand-new prototype pollution gadget in MongoDB leading to RCE\n\n# Brand-new prototype pollution gadget in MongoDB leading to RCE\n\nInfoSec Write-ups - Medium 2024-07-01 19:32:04\n\n收藏\n\nRecently, I uncove",
+            "title": "[pymongo] out-of-bounds read PoC (CVE-2024-5629)",
+            "url": "https://gist.github.com/keltecc/62a7c2bf74a997d0a7b48a0ff3853a03",
+            "snippet": "# [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Owner: keltecc\n- Created: 2024-03-03T23:53:34Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## !README.md\n\nLanguage: Markdown\n\n_Assigned CVE_: [CVE-202",
             "published": null,
             "score": 0
           }
@@ -5477,25 +5477,25 @@
             "score": 1
           },
           {
-            "title": "waheeb71/CVE-2025-14847",
-            "url": "https://github.com/waheeb71/CVE-2025-14847",
-            "snippet": "# Repository: waheeb71/CVE-2025-14847\n\nCVE-2025-14847 MongoDB Memory Leak Exploit\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch:",
-            "published": "2026-01-06T19:14:27.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Hamid-K/mongobleed",
             "url": "https://github.com/Hamid-K/mongobleed",
             "snippet": "# Repository: Hamid-K/mongobleed (fork of [joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed))\n\nA remote live memory viewer PoC based on the MongoBleed vulnerability primitive!\n\n- St",
             "published": "2025-12-27T13:12:41.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "waheeb71/CVE-2025-14847",
+            "url": "https://github.com/waheeb71/CVE-2025-14847",
+            "snippet": "# Repository: waheeb71/CVE-2025-14847\n\nCVE-2025-14847 MongoDB Memory Leak Exploit\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch:",
+            "published": "2026-01-06T19:14:27.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:27.983Z"
+        "enriched_at": "2026-08-13T03:27:29.330Z"
       },
-      "timestamp": "2026-08-05T04:11:29.527Z"
+      "timestamp": "2026-08-13T03:27:30.740Z"
     },
     "ripio": {
       "intel": {
@@ -5539,18 +5539,18 @@
             "score": 0.5
           },
           {
-            "title": "modules/auxiliary/scanner/http/rips_traversal.rb",
-            "url": "https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/http/rips_traversal.rb",
-            "snippet": "# modules/auxiliary/scanner/http/rips_traversal.rb\n\n- Branch: master\n- Repository: rapid7/metasploit-framework\n\n---\n\n##\n# This module requires Metasploit: https://metasploit.com/download\n# Current sou",
+            "title": "CVE-2026-38945.sh",
+            "url": "https://github.com/Wise-Security/CVE-2026-38945/blob/main/CVE-2026-38945.sh",
+            "snippet": "# CVE-2026-38945.sh\n\n- Branch: main\n- Repository: Wise-Security/CVE-2026-38945\n\n---\n\n#!/bin/sh\n\n# Author: Rafael José Núñez Gulías, aka rafnar or hvemerjeg\n# Company: Iberian Var Group\n# Description: ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:29.528Z"
+        "enriched_at": "2026-08-13T03:27:30.741Z"
       },
-      "timestamp": "2026-08-05T04:11:31.112Z"
+      "timestamp": "2026-08-13T03:27:32.112Z"
     },
     "deribit": {
       "intel": {
@@ -5570,10 +5570,10 @@
             "score": 0.5
           },
           {
-            "title": "Decoding DeriBit’s Flash Crash on Halloween",
-            "url": "https://www.delta.exchange/blog/decoding-deribit-flash-crash-on-halloween",
-            "snippet": "Decoding DeriBit’s Flash Crash on Halloween\n\n# Decoding DeriBit’s Flash Crash on Halloween\n\nDelta Exchange\n\nNovember 4, 2019\n\nOn Oct 31st, we saw a flash crash on Deribit which triggered undue liquida",
-            "published": "2019-11-04T22:41:38.000Z",
+            "title": "Deribit Incident Analysis - CertiK",
+            "url": "https://www.certik.com/ko/blog/deribit-incident-analysis",
+            "snippet": "Deribit Incident Analysis - CertiK\n\n# Deribit Incident Analysis\n\n## TL;DR\n\nOn November 2nd, 2022, Deribit Exchange’s hot wallet was compromised. Client funds are safe as the loss will be covered by co",
+            "published": "2022-11-22T05:00:00.000Z",
             "score": 0
           }
         ],
@@ -5603,9 +5603,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:31.112Z"
+        "enriched_at": "2026-08-13T03:27:32.112Z"
       },
-      "timestamp": "2026-08-05T04:11:32.753Z"
+      "timestamp": "2026-08-13T03:27:33.520Z"
     },
     "sorare": {
       "intel": {
@@ -6004,24 +6004,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers - The Crypto Post",
+            "url": "https://thecryptopost.io/yuga-labs-just-pulled-off-a-500000-crypto-heist-against-these-hackers/",
+            "snippet": "Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers - The Crypto Post\n\n# Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers\n\n 2 months ago CryptoExpert \n\nY",
+            "published": "2026-06-08T15:17:48.000Z",
+            "score": 1
+          },
+          {
             "title": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit",
             "url": "https://crypto.news/yuga-labs-rescues-68-nfts-after-flooring-protocol-exploit/",
-            "snippet": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit\n\nBitcoin (BTC)\n\n$66,418.00 0.91836\n\nEthereum (ETH)\n\n$1,771.51 2.99744\n\nXRP (XRP)\n\n$1.24 4.54642\n\nBNB (BNB)\n\n$615.64 -0.21584\n\nSolana (SOL)\n\n$7",
+            "snippet": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit\n\nBitcoin (BTC)\n\n$64,968.00\n\n0.1\n\nEthereum (ETH)\n\n$1,918.95\n\n0.4\n\nXRP (XRP)\n\n$1.04\n\n0.3\n\nBNB (BNB)\n\n$595.52\n\n1\n\nSolana (SOL)\n\n$75.46\n\n2.8\n\nHype",
             "published": "2026-06-08T05:21:06.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit – Aspire Market Guides",
             "url": "https://aspiremarketguides.com/cryptocurrency/yuga-labs-rescues-68-nfts-after-flooring-protocol-exploit/",
             "snippet": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit – Aspire Market Guides\n\nClose Menu\n\nPrivate equity kicked the tyres at Mayne’s Adelaide plant, but no dice\n\nBitcoin holds near $62K ahead of k",
             "published": "2026-07-09T07:38:33.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Yuga Labs Simply Pulled Off A $500,000 Crypto Heist — In opposition to These Hackers - Bitcoin News Updates",
-            "url": "https://bitcoinnewsupdates.com/yuga-labs-just-pulled-off-a-500000-crypto-heist/",
-            "snippet": "Yuga Labs Simply Pulled Off A $500,000 Crypto Heist — In opposition to These Hackers - Bitcoin News Updates\n\nMonday, July 20, 2026\n\nNo Result\n\nView All Result\n\nNo Result\n\nView All Result\n\n# Yuga Labs ",
-            "published": "2026-06-08T15:14:00.000Z",
             "score": 0
           }
         ],
@@ -6051,9 +6051,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-05T04:11:18.785Z"
+        "enriched_at": "2026-08-13T03:27:20.845Z"
       },
-      "timestamp": "2026-08-05T04:11:20.324Z"
+      "timestamp": "2026-08-13T03:27:22.231Z"
     },
     "abercrombie_fitch_bbp": {
       "intel": {
@@ -6166,5 +6166,5 @@
       "timestamp": "2026-08-12T03:23:21.625Z"
     }
   },
-  "lastRun": "2026-08-12T03:23:35.352Z"
+  "lastRun": "2026-08-13T03:27:33.520Z"
 }
