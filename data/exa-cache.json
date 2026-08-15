@@ -2382,7 +2382,7 @@
           {
             "title": "Bumba Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/bumba/",
-            "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nTop 1M site\n\nBounty\n\n## Program Details\n\nHandle bumba_bbp Managed Yes\n\n## Response Metrics\n\nResponse Time 8 days Resolution Time 2171 days\n\nResponse E",
+            "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nBounty \n\n## Program Details \n\n- Handle \n- bumba_bbp \n- Managed\n- Yes \n\n## Response Metrics \n\n- Response Time\n- 11 days \n- Resolution Time\n- 2171 days ",
             "published": null,
             "score": 0.5
           },
@@ -2420,9 +2420,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:16.531Z"
+        "enriched_at": "2026-08-15T02:14:08.985Z"
       },
-      "timestamp": "2026-08-07T03:50:18.167Z"
+      "timestamp": "2026-08-15T02:14:10.366Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -4023,16 +4023,16 @@
             "score": 1
           },
           {
-            "title": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub",
-            "url": "https://github.com/redaxo/core/security/advisories/GHSA-mf2p-wjp4-99pq",
-            "snippet": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub\n\n/ core Public\n\n# Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()`\n\nModerate\n",
+            "title": "redox/CVE-2024-57492/README.md",
+            "url": "https://github.com/Marsman1996/pocs/blob/master/redox/CVE-2024-57492/README.md",
+            "snippet": "# redox/CVE-2024-57492/README.md\n\n- Branch: master\n- Repository: Marsman1996/pocs\n\n---\n\n# CVE-2024-57492\nThis is the brief description of [CVE-2024-57492](https://www.cve.org/CVERecord?id=CVE-2024-574",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "redox/CVE-2024-57492/README.md",
-            "url": "https://github.com/Marsman1996/pocs/blob/master/redox/CVE-2024-57492/README.md",
-            "snippet": "# redox/CVE-2024-57492/README.md\n\n- Branch: master\n- Repository: Marsman1996/pocs\n\n---\n\n# CVE-2024-57492\nThis is the brief description of [CVE-2024-57492](https://www.cve.org/CVERecord?id=CVE-2024-574",
+            "title": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub",
+            "url": "https://github.com/redaxo/core/security/advisories/GHSA-mf2p-wjp4-99pq",
+            "snippet": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub\n\n/ core Public\n\n# Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()`\n\nModerate\n",
             "published": null,
             "score": 0
           }
@@ -4063,9 +4063,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:18.167Z"
+        "enriched_at": "2026-08-15T02:14:10.366Z"
       },
-      "timestamp": "2026-08-07T03:50:19.611Z"
+      "timestamp": "2026-08-15T02:14:11.699Z"
     },
     "okg": {
       "intel": {
@@ -4118,9 +4118,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:19.611Z"
+        "enriched_at": "2026-08-15T02:14:11.700Z"
       },
-      "timestamp": "2026-08-07T03:50:21.089Z"
+      "timestamp": "2026-08-15T02:14:13.155Z"
     },
     "1win_com": {
       "intel": {
@@ -4212,25 +4212,25 @@
             "score": 1
           },
           {
-            "title": "User can erase their position debt for free",
-            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/215",
-            "snippet": "# User can erase their position debt for free\n\n- State: open\n- Author: c4-bot-4\n- Created: 2024-03-11T15:57:32Z\n- Updated: 2024-04-29T14:25:52Z\n- Repository: code-423n4/2024-02-wise-lending-findings\n-",
+            "title": "BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal",
+            "url": "https://github.com/BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal",
+            "snippet": "# BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal\n\nPoC + analysis for CVE-2026-54917 — SeaweedFS S3 gateway cross-bucket path traversal (CVSS 10.0, <4.30). Read/write any bucket via .. in the o",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode",
-            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/260",
-            "snippet": "# Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode\n\n- State: open\n- Author: c4-bot-1\n- Created: 2024-03-11T18:28:20Z\n- Updated: 2024-04-29T14:31:16Z\n- ",
+            "title": "User can erase their position debt for free",
+            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/215",
+            "snippet": "# User can erase their position debt for free\n\n- State: open\n- Author: c4-bot-4\n- Created: 2024-03-11T15:57:32Z\n- Updated: 2024-04-29T14:25:52Z\n- Repository: code-423n4/2024-02-wise-lending-findings\n-",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:21.089Z"
+        "enriched_at": "2026-08-15T02:14:13.155Z"
       },
-      "timestamp": "2026-08-07T03:50:22.550Z"
+      "timestamp": "2026-08-15T02:14:14.545Z"
     },
     "pornbox": {
       "intel": {
@@ -4238,7 +4238,7 @@
           {
             "title": "Is pornbox.com Safe? Security Scan Report | PCrisk",
             "url": "https://scanner.pcrisk.com/scan-results/pornbox.com",
-            "snippet": "Is pornbox.com Safe? Security Scan Report | PCrisk\n\n# pornbox.com\n\nCategory: Adult Content\n\nScanned: May 8, 2026, 12:58 AM UTC · First seen: May 8, 2026 · Threat Engines: 0 / 92 · Times Scanned: 1\n\n94",
+            "snippet": "Is pornbox.com Safe? Security Scan Report | PCrisk\n\n# pornbox.com\n\n Category: Adult Content \n\n Scanned: Jul 30, 2026, 05:27 PM UTC · First seen: May 8, 2026 · Threat Engines: 0 / 91 · Times Scanned: 2",
             "published": "2026-05-08T00:58:09.000Z",
             "score": 1
           },
@@ -4283,9 +4283,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:22.551Z"
+        "enriched_at": "2026-08-15T02:14:14.545Z"
       },
-      "timestamp": "2026-08-07T03:50:23.978Z"
+      "timestamp": "2026-08-15T02:14:15.875Z"
     },
     "tron_dao": {
       "intel": {
@@ -4338,9 +4338,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:23.978Z"
+        "enriched_at": "2026-08-15T02:14:15.875Z"
       },
-      "timestamp": "2026-08-07T03:50:25.461Z"
+      "timestamp": "2026-08-15T02:14:17.274Z"
     },
     "superbet": {
       "intel": {
@@ -4393,9 +4393,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:25.461Z"
+        "enriched_at": "2026-08-15T02:14:17.274Z"
       },
-      "timestamp": "2026-08-07T03:50:26.914Z"
+      "timestamp": "2026-08-15T02:14:18.693Z"
     },
     "magic-eden": {
       "intel": {
@@ -4403,7 +4403,7 @@
           {
             "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com",
             "url": "https://www.linkgeanie.com/news/magic-eden-will-refund-users-who-bought-25-fake-nfts-due-to-exploit",
-            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n raguvaran \n\nMultiple dozen phony NFTs were",
+            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n \n\n raguvaran \n\nMultiple dozen phony NFTs w",
             "published": "2023-01-06T09:41:55.000Z",
             "score": 1
           },
@@ -4415,10 +4415,10 @@
             "score": 0.5
           },
           {
-            "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Bloggalot.com",
-            "url": "https://bloggalot.com/public/index.php/business-post/magic-eden-will-refund-users-who-bought-25-fake-nfts-due-to-exploit",
-            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Bloggalot.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n Blockchainx Tech \n\n posted on 3 years ago —",
-            "published": "2023-01-06T09:08:21.000Z",
+            "title": "Magic Eden to refund users after fake NFTs sold due to exploit",
+            "url": "https://cointelegraph.com/news/magic-eden-to-refund-users-after-25-fake-nfts-sold-due-to-exploit",
+            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit\n\n \n\n \n\n \n\n \n\n Ecosystem \n\n \n\n \n\n \n\n \n\n \n\n ADA$0.2464 0.93% BNB$617.43 0.86% XMR$334.60 1.62% TRX$0.322 2.20% ETH$2,054 2.60% LINK$8.70 2.",
+            "published": "2023-01-05T02:49:02.000Z",
             "score": 0
           }
         ],
@@ -4440,17 +4440,17 @@
           },
           {
             "title": "camerodev/solana-nft-sniper",
-            "url": "https://github.com/camerodev/solana-nft-sniper",
-            "snippet": "# camerodev/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2024-03-14T01:34:27Z\n\n## Languages\n\n- CSS\n- HTML\n-",
-            "published": null,
+            "url": "https://github.com/slickcharmer/solana-nft-sniper",
+            "snippet": "# Repository: camerodev/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (93.3%), CSS (3.5",
+            "published": "2024-03-14T01:34:27.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:26.914Z"
+        "enriched_at": "2026-08-15T02:14:18.693Z"
       },
-      "timestamp": "2026-08-07T03:50:28.403Z"
+      "timestamp": "2026-08-15T02:14:20.918Z"
     },
     "boozt": {
       "intel": {
@@ -4503,9 +4503,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:28.403Z"
+        "enriched_at": "2026-08-15T02:14:20.918Z"
       },
-      "timestamp": "2026-08-07T03:50:29.888Z"
+      "timestamp": "2026-08-15T02:14:22.287Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -4535,32 +4535,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "AdnaneKhan/Wp2Shell-RCE",
-            "url": "https://github.com/AdnaneKhan/Wp2Shell-RCE",
-            "snippet": "# AdnaneKhan/Wp2Shell-RCE\n\nPoC Repository with Lab Setup for Wp2Shell RCE\n\n- Stars: 3\n- Forks: 1\n- Watchers: 3\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-17T22:08:25Z\n\n## Languages\n\n- ",
+            "title": "Boreas37/CVE-2026-64638-PoC-XSS2Shell-",
+            "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
+            "snippet": "# Boreas37/CVE-2026-64638-PoC-XSS2Shell-\n\nXSS2Shell (CVE-2026-64638) WordPress pre-auth XSS to RCE chain — PoC exploit + defensive audit tool + nuclei template\n\n- Stars: 22\n- Forks: 5\n- Watchers: 22\n-",
             "published": null,
             "score": 1
           },
           {
-            "title": "0xsha/KindaRails2Shell",
-            "url": "https://github.com/0xsha/KindaRails2Shell",
-            "snippet": "# 0xsha/KindaRails2Shell\n\nCVE-2026-66066 + File Read, RCE, Scanner, Lab \n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-07-31T16:51",
+            "title": "0xCyberstan/CVE-2026-42533-POC",
+            "url": "https://github.com/0xCyberstan/CVE-2026-42533-POC",
+            "snippet": "# 0xCyberstan/CVE-2026-42533-POC\n\nCVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Icex0/wp2shell-poc",
-            "url": "https://github.com/Icex0/wp2shell-poc/",
-            "snippet": "# Icex0/wp2shell-poc\n\nwp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain\n\n- Stars: 677\n- Forks: 156\n- Watchers: 677\n- Open issues: 3\n- License: MIT License\n- Default branch: main\n- Created: 2",
+            "title": "4minx/CVE-2026-64638",
+            "url": "https://github.com/4minx/CVE-2026-64638",
+            "snippet": "# 4minx/CVE-2026-64638\n\nCVE-2026-64638 (XSS2shell) POC.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-08T08:48:02Z\n\n## Languages\n\n- HTML\n\n## Top Contr",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-07T03:50:29.888Z"
+        "enriched_at": "2026-08-15T02:14:22.288Z"
       },
-      "timestamp": "2026-08-07T03:50:31.384Z"
+      "timestamp": "2026-08-15T02:14:23.587Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -6159,5 +6159,5 @@
       "timestamp": "2026-08-12T03:23:21.625Z"
     }
   },
-  "lastRun": "2026-08-14T03:24:46.318Z"
+  "lastRun": "2026-08-15T02:14:23.587Z"
 }
