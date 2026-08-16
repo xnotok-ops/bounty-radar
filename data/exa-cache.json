@@ -2428,56 +2428,56 @@
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/reports/188972",
-            "snippet": "HackerOne\n\nHackerOne",
-            "published": null,
+            "title": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies",
+            "url": "https://dreamlab.net/en/blog/post/starbucks-idor-how-we-prevented-an-information-leak-of-6-million-starbucks-customers/",
+            "snippet": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies\n\nBlog\n\n# Starbucks IDOR: How we prevented an information leak of 6 million Starbucks custo",
+            "published": "2020-03-18T11:02:05.000Z",
             "score": 1
           },
           {
-            "title": "Starbucks | Report #227486 - XSS on https://www.starbucks.co.uk (can lead to credit card theft) (/shop/paymentmethod) | HackerOne",
-            "url": "https://hackerone.com/reports/227486",
-            "snippet": "Starbucks | Report #227486 - XSS on https://www.starbucks.co.uk (can lead to credit card theft) (/shop/paymentmethod) | HackerOne\n\n27\n\nCopy report id\n\nXSS on https://www.starbucks.co.uk (can lead to c",
-            "published": null,
+            "title": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec",
+            "url": "http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/",
+            "snippet": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec\n\n# Kamil Onur Özkaleli as ko2sec\n\n## This blog is mostly about security writeups and research articles.\n\n# RCE on Starbuck",
+            "published": "2021-04-03T12:24:01.000Z",
             "score": 0.5
           },
           {
-            "title": "Starbucks | Report #876295 - Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data | HackerOne",
-            "url": "https://hackerone.com/reports/876295",
-            "snippet": "Starbucks | Report #876295 - Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data | HackerOne\n[Skip to main content >](#main-conte",
-            "published": null,
+            "title": "Medium",
+            "url": "https://attackerbhai2003.medium.com/open-redirect-in-starbucks-48fa23dd31e6",
+            "snippet": "MediumOpen Redirect in Starbucks. Hi my name is jagannath mohanty .i am a… | by Jagannath Mohanty | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Open Redirect in Star",
+            "published": "2022-03-11T16:08:28.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
+            "title": "M-Evans/StarbucksBlackCard",
+            "url": "https://github.com/M-Evans/StarbucksBlackCard",
+            "snippet": "# Repository: M-Evans/StarbucksBlackCard\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell (78.7%), C++ (21.3%)\n- License: MIT License (MIT)\n- Default ",
+            "published": "2016-10-23T00:31:55.000Z",
+            "score": 1
+          },
+          {
             "title": "2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md at master · flameddd/blog",
             "url": "https://github.com/flameddd/blog/blob/master/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
             "snippet": "# File: flameddd/blog/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md\n\n- Repository: flameddd/blog",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "sonya75/starbucks-botdetection-cracked",
             "url": "https://github.com/sonya75/starbucks-botdetection-cracked",
             "snippet": "# sonya75/starbucks-botdetection-cracked\n\nStarbucks uses Shape Security for bot detection. This script is to pass that bot detection for any website using Shape Security, like Starbucks or Chipotle fo",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "README.md",
-            "url": "https://github.com/forrest-orr/DoubleStar/blob/main/README.md",
-            "snippet": "# README.md\n\n- Branch: main\n- Repository: forrest-orr/DoubleStar\n\n---\n\n```\n________                 ___.    .__                 _________  __\n\\______ \\    ____   __ __\\_ |__  |  |    ____       /   __",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:54:58.082Z"
+        "enriched_at": "2026-08-16T02:21:01.234Z"
       },
-      "timestamp": "2026-08-08T02:54:59.682Z"
+      "timestamp": "2026-08-16T02:21:02.773Z"
     },
     "starbucks_china": {
       "intel": {
@@ -2490,16 +2490,16 @@
             "score": 1
           },
           {
-            "title": "星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露 - 信息安全知识库",
-            "url": "https://www.gm7.org/archives/798",
-            "snippet": "星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露 - 信息安全知识库\n\n首页» 星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露\n\n文章总结： 文章讲述了一个安全研究员在星巴克网站发现严重漏洞，通过路径遍历攻击绕过WAF，访问内部API，最终获取近一亿客户的敏感信息。漏洞位于/bff/proxy/端点，允许攻击者访问内部MicrosoftGraph实例，获取用户姓名、电子邮件、电话",
-            "published": "2026-03-09T15:38:50.000Z",
+            "title": "Starbucks | Report #440629 - Starbucks China Android app cloud storage service leaks a credential. | HackerOne",
+            "url": "https://hackerone.com/reports/440629",
+            "snippet": "Starbucks | Report #440629 - Starbucks China Android app cloud storage service leaks a credential. | HackerOne\n\n33\n\nStarbucks China Android app cloud storage service leaks a credential.\n\nSummary by St",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Starbucks | Report #881548 - Default credentials for the temporary POC site alipoc.stg.starbucks.com.cn permitted WAF bypass and RCE | HackerOne",
-            "url": "https://hackerone.com/reports/881548",
-            "snippet": "Starbucks | Report #881548 - Default credentials for the temporary POC site alipoc.stg.starbucks.com.cn permitted WAF bypass and RCE | HackerOne\n\n19\n\nCopy report id\n\nDefault credentials for the tempor",
+            "title": "RCE on Starbucks Singapore and more for $5600 | CTF导航",
+            "url": "https://www.ctfiot.com/35023.html",
+            "snippet": "RCE on Starbucks Singapore and more for $5600 | CTF导航\n\n# RCE on Starbucks Singapore and more for $5600\n\n渗透技巧 4年前 (2022)发布 admin\n\n### Recon\n\nAfter I found a critical vulnerability in Starbucks Singapor",
             "published": null,
             "score": 0
           }
@@ -2530,9 +2530,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:54:59.682Z"
+        "enriched_at": "2026-08-16T02:21:02.773Z"
       },
-      "timestamp": "2026-08-08T02:55:01.182Z"
+      "timestamp": "2026-08-16T02:21:04.302Z"
     },
     "syfe_bbp": {
       "intel": {
@@ -2552,9 +2552,9 @@
             "score": 0.5
           },
           {
-            "title": "Client Challenge",
-            "url": "https://www.scribd.com/document/861630043/syfe-bug-report-april2025",
-            "snippet": "Client Challenge\n\nA required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try",
+            "title": "Bug Bounty",
+            "url": "https://www.syfe.com/bug-bounty",
+            "snippet": "Bug Bounty\n\nStay vigilant: only access Syfe through our official app and website. Learn more\n\n# BUG BOUNTY\n\nOverviewHow it worksThe Syfe PromiseRewardsHall of Fameoverviewoverviewoverview\n\noverviewove",
             "published": null,
             "score": 0
           }
@@ -2576,18 +2576,18 @@
             "score": 0.5
           },
           {
-            "title": "TYehan/CVE-2025-58434-59528",
-            "url": "https://github.com/tyehan/cve-2025-58434-59528",
-            "snippet": "# Repository: TYehan/CVE-2025-58434-59528\n\nCVE-2025-58434 and CVE-2025-59528 chain POC - FlowiseAI Remote Code Execution\n\n- Stars: 5\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Pytho",
-            "published": "2026-04-12T06:39:37.000Z",
+            "title": "BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal",
+            "url": "https://github.com/BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal",
+            "snippet": "# BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal\n\nPoC + analysis for CVE-2026-54917 — SeaweedFS S3 gateway cross-bucket path traversal (CVSS 10.0, <4.30). Read/write any bucket via .. in the o",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:55:01.183Z"
+        "enriched_at": "2026-08-16T02:21:04.302Z"
       },
-      "timestamp": "2026-08-08T02:55:02.673Z"
+      "timestamp": "2026-08-16T02:21:05.844Z"
     },
     "nba-public": {
       "intel": {
@@ -2631,18 +2631,18 @@
             "score": 0.5
           },
           {
-            "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "title": "c0gnit00/CVE-2026-33937",
+            "url": "https://github.com/c0gnit00/CVE-2026-33937",
+            "snippet": "# c0gnit00/CVE-2026-33937\n\nPython POC, Exploit for Handlebars.js AST Injection RCE, Handlebars.js versions 4.0.0 through 4.7.8 are affected. CVSS score: 9.8 Critical.\n\n- Stars: 1\n- Forks: 0\n- Watchers",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:55:02.673Z"
+        "enriched_at": "2026-08-16T02:21:05.844Z"
       },
-      "timestamp": "2026-08-08T02:55:04.131Z"
+      "timestamp": "2026-08-16T02:21:07.374Z"
     },
     "circle-bbp": {
       "intel": {
@@ -2695,9 +2695,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:55:04.131Z"
+        "enriched_at": "2026-08-16T02:21:07.374Z"
       },
-      "timestamp": "2026-08-08T02:55:05.652Z"
+      "timestamp": "2026-08-16T02:21:08.885Z"
     },
     "varonis": {
       "intel": {
@@ -2728,8 +2728,8 @@
         "github": [
           {
             "title": "SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC",
-            "url": "https://gist.github.com/b0x-Protector/54966a6f2330dce5c2ea250f6fad054b",
-            "snippet": "# SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC\n\n- Owner: b0x-Protector\n- Created: 2025-06-06T13:00:00Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## SharePwn_public.py",
+            "url": "https://gist.github.com/4V4loon/54719b32c4dcef8d082b4ea4065fd541",
+            "snippet": "# SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC\n\n- Owner: 4V4loon\n- Created: 2024-03-28T20:09:27Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## SharePwn_public.py\n\nLang",
             "published": null,
             "score": 1
           },
@@ -2750,9 +2750,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:55:05.652Z"
+        "enriched_at": "2026-08-16T02:21:08.885Z"
       },
-      "timestamp": "2026-08-08T02:55:07.151Z"
+      "timestamp": "2026-08-16T02:21:10.403Z"
     },
     "klarna": {
       "intel": {
@@ -2805,9 +2805,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:55:07.151Z"
+        "enriched_at": "2026-08-16T02:21:10.403Z"
       },
-      "timestamp": "2026-08-08T02:55:08.637Z"
+      "timestamp": "2026-08-16T02:21:11.930Z"
     },
     "unico_idtech": {
       "intel": {
@@ -2820,16 +2820,16 @@
             "score": 1
           },
           {
-            "title": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/unico_idtech",
-            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n14\n\nIn Scope\n\n2\n\nOut of Scope\n\nIn-Scope Assets (14)\n\n| Asset | Category | Bount",
+            "title": "Unico IDtech | Security Program",
+            "url": "https://ooosec.com/programs/unico-idtech",
+            "snippet": "Unico IDtech | Security Program\n\n## Unico IDtech\n\n# Unico IDtech\n\nBounty Range\n\n$150 - $3,000\n\nexternal program\n\n### Sign in to view full program details\n\nAccess scope, rewards, hacktivity, and submit",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "unico IDtech | The Org",
-            "url": "https://theorg.com/org/unico-idtech/org-chart/fabio-mello",
-            "snippet": "unico IDtech | The Org\n\n# unico IDtech\n\n4 followers\n\n‌\n\nunico IDtech is a developer of facial recognition and identification technology created to solve document and process management. The company's ",
+            "title": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com",
+            "url": "https://bbscope.com/program/h1/unico_idtech",
+            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n14\n\nIn Scope\n\n2\n\nOut of Scope\n\nIn-Scope Assets (14)\n\n| Asset | Category | Bount",
             "published": null,
             "score": 0
           }
@@ -2860,9 +2860,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:55:08.637Z"
+        "enriched_at": "2026-08-16T02:21:11.931Z"
       },
-      "timestamp": "2026-08-08T02:55:10.148Z"
+      "timestamp": "2026-08-16T02:21:13.437Z"
     },
     "wallet_on_telegram": {
       "intel": {
@@ -2915,9 +2915,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:55:10.148Z"
+        "enriched_at": "2026-08-16T02:21:13.438Z"
       },
-      "timestamp": "2026-08-08T02:55:11.594Z"
+      "timestamp": "2026-08-16T02:21:14.973Z"
     },
     "chia_network": {
       "intel": {
@@ -2970,9 +2970,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-08T02:55:11.594Z"
+        "enriched_at": "2026-08-16T02:21:14.973Z"
       },
-      "timestamp": "2026-08-08T02:55:13.050Z"
+      "timestamp": "2026-08-16T02:21:16.639Z"
     },
     "3cx": {
       "intel": {
@@ -6159,5 +6159,5 @@
       "timestamp": "2026-08-12T03:23:21.625Z"
     }
   },
-  "lastRun": "2026-08-15T02:14:23.587Z"
+  "lastRun": "2026-08-16T02:21:16.640Z"
 }
