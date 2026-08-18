@@ -3568,9 +3568,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:26.059Z"
+        "enriched_at": "2026-08-18T02:16:04.514Z"
       },
-      "timestamp": "2026-08-10T03:13:27.526Z"
+      "timestamp": "2026-08-18T02:16:06.189Z"
     },
     "visa": {
       "intel": {
@@ -3623,9 +3623,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:27.526Z"
+        "enriched_at": "2026-08-18T02:16:06.189Z"
       },
-      "timestamp": "2026-08-10T03:13:29.002Z"
+      "timestamp": "2026-08-18T02:16:07.878Z"
     },
     "toolsforhumanity": {
       "intel": {
@@ -3655,10 +3655,10 @@
         "twitter": [],
         "github": [
           {
-            "title": "xcalibure2/ToolShell",
-            "url": "https://github.com/xcalibure2/ToolShell",
-            "snippet": "# xcalibure2/ToolShell\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-09T07:06:",
-            "published": "2026-01-09T00:00:00.000Z",
+            "title": "pemarine/cve-2026-41940-PoC",
+            "url": "https://github.com/pemarine/cve-2026-41940-PoC",
+            "snippet": "# pemarine/cve-2026-41940-PoC\n\nA cPanel and WHM authentication bypassing tool\n\n- Stars: 272\n- Forks: 12\n- Watchers: 272\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-13T16:03:48Z\n\n## Lang",
+            "published": null,
             "score": 1
           },
           {
@@ -3669,18 +3669,18 @@
             "score": 0.5
           },
           {
-            "title": "GitHub - greged93/proof-of-exploit at 40a3e2069ea5d68ccea498524884aa6a89bd937c · GitHub",
-            "url": "https://github.com/greged93/proof-of-exploit/tree/40a3e2069ea5d68ccea498524884aa6a89bd937c",
-            "snippet": "GitHub - greged93/proof-of-exploit at 40a3e2069ea5d68ccea498524884aa6a89bd937c · GitHub\n\n40a3e20\n\nGo to file\n\nCode\n\nLast commit message\n\nLast commit date\n\nView all files\n\n| Name | Name |\n| --- | --- |",
-            "published": "2024-08-14T17:06:07.000Z",
+            "title": "xcalibure2/ToolShell",
+            "url": "https://github.com/xcalibure2/ToolShell",
+            "snippet": "# xcalibure2/ToolShell\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-09T07:06:",
+            "published": "2026-01-09T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:29.003Z"
+        "enriched_at": "2026-08-18T02:16:07.878Z"
       },
-      "timestamp": "2026-08-10T03:13:30.476Z"
+      "timestamp": "2026-08-18T02:16:09.557Z"
     },
     "ring": {
       "intel": {
@@ -3688,7 +3688,7 @@
           {
             "title": "Medium",
             "url": "https://suicdalteddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
-            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# I Reverse-Engineered Ring’s “En",
+            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## harmless-teddy\n\nwork: ethical ",
             "published": "2026-05-25T14:19:29.000Z",
             "score": 1
           },
@@ -3733,9 +3733,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:30.476Z"
+        "enriched_at": "2026-08-18T02:16:09.557Z"
       },
-      "timestamp": "2026-08-10T03:13:31.957Z"
+      "timestamp": "2026-08-18T02:16:11.180Z"
     },
     "six-group": {
       "intel": {
@@ -3765,10 +3765,10 @@
         "twitter": [],
         "github": [
           {
-            "title": "Sixth Remote Code Execution Vulnerability · Issue #12 · Secsys-FDU/LLM-Tool-Calling-CVEs",
+            "title": "Sixth Remote Code Execution Vulnerability",
             "url": "https://github.com/Secsys-FDU/LLM-Tool-Calling-CVEs/issues/12",
-            "snippet": "# Issue: Secsys-FDU/LLM-Tool-Calling-CVEs #12\n\n- Repository: Secsys-FDU/LLM-Tool-Calling-CVEs | LLM-Tool-Calling-CVEs | 0 stars\n\n## Sixth Remote Code Execution Vulnerability\n\n- Author: [@Secsys-FDU](h",
-            "published": "2026-03-27T13:37:44.000Z",
+            "snippet": "# Sixth Remote Code Execution Vulnerability\n\n- State: open\n- Author: Secsys-FDU\n- Created: 2026-03-27T13:37:44Z\n- Updated: 2026-03-27T13:37:44Z\n- Repository: Secsys-FDU/LLM-Tool-Calling-CVEs\n- Number:",
+            "published": null,
             "score": 1
           },
           {
@@ -3788,9 +3788,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:31.957Z"
+        "enriched_at": "2026-08-18T02:16:11.180Z"
       },
-      "timestamp": "2026-08-10T03:13:33.485Z"
+      "timestamp": "2026-08-18T02:16:12.826Z"
     },
     "eufy_security": {
       "intel": {
@@ -3843,9 +3843,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:33.485Z"
+        "enriched_at": "2026-08-18T02:16:12.826Z"
       },
-      "timestamp": "2026-08-10T03:13:34.974Z"
+      "timestamp": "2026-08-18T02:16:14.526Z"
     },
     "eero": {
       "intel": {
@@ -3898,9 +3898,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:34.974Z"
+        "enriched_at": "2026-08-18T02:16:14.526Z"
       },
-      "timestamp": "2026-08-10T03:13:36.465Z"
+      "timestamp": "2026-08-18T02:16:16.177Z"
     },
     "mozilla": {
       "intel": {
@@ -3930,32 +3930,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "calc.html at master · maxpl0it/CVE-2019-17026-Exploit",
-            "url": "https://github.com/maxpl0it/CVE-2019-17026-Exploit/blob/master/calc.html",
-            "snippet": "# File: maxpl0it/CVE-2019-17026-Exploit/calc.html\n\n- Repository: maxpl0it/CVE-2019-17026-Exploit | An exploit for CVE-2019-17026. It pops xcalc and was tested on Ubuntu (x64). | 47 stars | HTML\n- Bran",
+            "title": "SneakyNachos/CVE-2024-29943-but-with-wasm",
+            "url": "https://github.com/SneakyNachos/CVE-2024-29943-but-with-wasm",
+            "snippet": "# SneakyNachos/CVE-2024-29943-but-with-wasm\n\nCVE-2024-29943, but with wasm\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2026-08-10T02:34:36Z\n\n## Languages\n",
             "published": null,
             "score": 1
           },
           {
-            "title": "kiddo-pwn/ffffirefox",
-            "url": "https://github.com/kiddo-pwn/ffffirefox",
-            "snippet": "# Repository: kiddo-pwn/ffffirefox\n\n- Stars: 76\n- Forks: 15\n- Watchers: 0\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (68.0%), WebAssembly (23.4%), Shell (7.7%), HTML (0.9%",
-            "published": "2026-05-15T16:57:40.000Z",
+            "title": "SneakyNachos/CVE-2026-2766-but-with-wasm",
+            "url": "https://github.com/SneakyNachos/CVE-2026-2766-but-with-wasm",
+            "snippet": "# SneakyNachos/CVE-2026-2766-but-with-wasm\n\nCVE-2026-2766, but with wasm\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: master\n- Created: 2026-08-11T02:36:01Z\n\n## Languages\n\n-",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "GitHub - 0vercl0k/CVE-2019-9810 at 65fba013ac57826e76fad4a89d097b3ff67fd1e4 · GitHub",
-            "url": "https://github.com/0vercl0k/CVE-2019-9810/tree/65fba013ac57826e76fad4a89d097b3ff67fd1e4",
-            "snippet": "GitHub - 0vercl0k/CVE-2019-9810 at 65fba013ac57826e76fad4a89d097b3ff67fd1e4 · GitHub\n\nThis repository was archived by the owner on Dec 27, 2023. It is now read-only.\n\n/ CVE-2019-9810 Public archive\n\n6",
-            "published": "2019-05-05T17:19:02.000Z",
+            "title": "SneakyNachos/CVE-2026-2764-but-with-wasm",
+            "url": "https://github.com/SneakyNachos/CVE-2026-2764-but-with-wasm",
+            "snippet": "# SneakyNachos/CVE-2026-2764-but-with-wasm\n\nCVE-2026-2764, but with wasm\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: master\n- Created: 2026-08-11T01:19:14Z\n\n## Languages\n\n-",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:36.465Z"
+        "enriched_at": "2026-08-18T02:16:16.177Z"
       },
-      "timestamp": "2026-08-10T03:13:37.944Z"
+      "timestamp": "2026-08-18T02:16:17.829Z"
     },
     "stripchat": {
       "intel": {
@@ -4008,9 +4008,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:37.944Z"
+        "enriched_at": "2026-08-18T02:16:17.830Z"
       },
-      "timestamp": "2026-08-10T03:13:39.474Z"
+      "timestamp": "2026-08-18T02:16:19.606Z"
     },
     "redox_bbp": {
       "intel": {
@@ -5865,24 +5865,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "LLM-discovered 0 days \\ Anthropic",
+            "url": "https://www.anthropic.com/research/zero-days",
+            "snippet": "LLM-discovered 0 days \\ Anthropic\n\nFrontier Red Team\n\n# Evaluating and mitigating the growing risk of LLM-discovered 0-days\n\nFeb 5, 2026\n\nNicholas Carlini*, Keane Lucas*, Evyatar Ben Asher*, Newton Ch",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "anthropic-rogue-agents-package-stole-keys",
             "url": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
             "snippet": "---\ndescription: Anthropic disclosed an agent that pushed real malware to PyPI. We think we found the package, and every mistake in it points back to the AI.\ntitle: Anthropic's Fever Dream: Claude's p",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "ANT-2026-CN7KX43N · nomad",
             "url": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-CN7KX43N",
             "snippet": "ANT-2026-CN7KX43N · nomad\n\n# ANT-2026-CN7KX43N · nomad\n\n## path-traversal critical\n\nSeverity Claude critical · Security research firm critical · Maintainer -\n\nDiscovered by Claude Mythos Preview\n\nREPO",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Anthropic wrote a blog post about their LLM finding 0days in open source projects. I ...",
-            "url": "https://njump.me/nevent1qqszycxhcq0rwgsgduj60hrqfavg6yjtkf9avmwsdqmq2dyfgrp84ygzyplt84wj7g2y2lxunyr2maw3nkul7zr3z26gyf6pj3h8l2w7pakukth6ws6",
-            "snippet": "Anthropic wrote a blog post about their LLM finding 0days in open source projects. I ...\n\n# K. Reid Wightman :verified: 🌻 :donor: :clippy: on Nostr: Anthropic wrote a blog post about their LLM findin",
-            "published": "2026-02-14T04:49:54.000Z",
             "score": 0
           }
         ],
@@ -5912,9 +5912,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-10T03:13:24.447Z"
+        "enriched_at": "2026-08-18T02:16:02.630Z"
       },
-      "timestamp": "2026-08-10T03:13:26.059Z"
+      "timestamp": "2026-08-18T02:16:04.513Z"
     },
     "agoda-public": {
       "intel": {
@@ -6137,5 +6137,5 @@
       "timestamp": "2026-08-12T03:23:21.625Z"
     }
   },
-  "lastRun": "2026-08-17T02:20:24.637Z"
+  "lastRun": "2026-08-18T02:16:19.607Z"
 }
