@@ -4668,9 +4668,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-11T03:04:27.049Z"
+        "enriched_at": "2026-08-19T02:18:41.832Z"
       },
-      "timestamp": "2026-08-11T03:04:28.579Z"
+      "timestamp": "2026-08-19T02:18:43.230Z"
     },
     "indrive": {
       "intel": {
@@ -4723,9 +4723,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-11T03:04:28.579Z"
+        "enriched_at": "2026-08-19T02:18:43.231Z"
       },
-      "timestamp": "2026-08-11T03:04:30.163Z"
+      "timestamp": "2026-08-19T02:18:44.555Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4745,10 +4745,10 @@
             "score": 0.5
           },
           {
-            "title": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium",
-            "url": "https://medium.com/@baronyogev/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08",
-            "snippet": "KindleDrip — From Your Kindle’s Email Address to Using Your Credit Card | by Yogev Bar-On | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# KindleDrip — From Your Kindle",
-            "published": "2021-01-21T09:31:12.000Z",
+            "title": "ZDI-26-559 - TrendAI™ Zero Day Initiative™ (ZDI)",
+            "url": "https://www.zerodayinitiative.com/advisories/ZDI-26-559/",
+            "snippet": "ZDI-26-559 - TrendAI™ Zero Day Initiative™ (ZDI)\n\n# (Pwn2Own) Amazon Smart Plug OTA Update Process Out-Of-Bounds Write Remote Code Execution Vulnerability \n\n August 12th, 2026 \n\n ZDI-26-559 ZDI-CAN-28",
+            "published": null,
             "score": 0
           }
         ],
@@ -4771,9 +4771,9 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-08-11T03:04:30.163Z"
+        "enriched_at": "2026-08-19T02:18:44.556Z"
       },
-      "timestamp": "2026-08-11T03:04:31.657Z"
+      "timestamp": "2026-08-19T02:18:46.010Z"
     },
     "rei_bbp": {
       "intel": {
@@ -4826,9 +4826,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-11T03:04:31.657Z"
+        "enriched_at": "2026-08-19T02:18:46.011Z"
       },
-      "timestamp": "2026-08-11T03:04:33.160Z"
+      "timestamp": "2026-08-19T02:18:47.391Z"
     },
     "mergify": {
       "intel": {
@@ -4858,16 +4858,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "cybertechajju/CVE-2026-59734-POC",
-            "url": "https://github.com/cybertechajju/CVE-2026-59734-POC",
-            "snippet": "# cybertechajju/CVE-2026-59734-POC\n\nOS Command Injection in Health Check → Remote Code Execution\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-11T08:2",
+            "title": "Eyodav/CVE-2025-34159",
+            "url": "https://github.com/Eyodav/CVE-2025-34159",
+            "snippet": "# Eyodav/CVE-2025-34159\n\nA critical Remote Code Execution (RCE) vulnerability exists in Coolify's application deployment workflow. This flaw allows a low-privileged member to inject arbitrary Docker C",
             "published": null,
             "score": 1
           },
           {
-            "title": "Eyodav/CVE-2025-34159",
-            "url": "https://github.com/Eyodav/CVE-2025-34159",
-            "snippet": "# Eyodav/CVE-2025-34159\n\nA critical Remote Code Execution (RCE) vulnerability exists in Coolify's application deployment workflow. This flaw allows a low-privileged member to inject arbitrary Docker C",
+            "title": "cybertechajju/CVE-2026-59734-POC",
+            "url": "https://github.com/cybertechajju/CVE-2026-59734-POC",
+            "snippet": "# cybertechajju/CVE-2026-59734-POC\n\nOS Command Injection in Health Check → Remote Code Execution\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-11T08:2",
             "published": null,
             "score": 0.5
           },
@@ -4881,9 +4881,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-11T03:04:33.160Z"
+        "enriched_at": "2026-08-19T02:18:47.391Z"
       },
-      "timestamp": "2026-08-11T03:04:34.777Z"
+      "timestamp": "2026-08-19T02:18:48.805Z"
     },
     "coinhako": {
       "intel": {
@@ -5004,18 +5004,18 @@
             "score": 0.5
           },
           {
-            "title": "Boreas37/CVE-2026-34910-PoC",
-            "url": "https://github.com/Boreas37/CVE-2026-34910-PoC",
-            "snippet": "# Boreas37/CVE-2026-34910-PoC\n\nCVE-2026-34910/34909 — UniFi OS unauth RCE + file read via ..%2f auth bypass (CVSS 10.0, KEV, Mirai ITW)\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- License:",
+            "title": "0xdak/CVE-2026-67340_exploit",
+            "url": "https://github.com/0xdak/CVE-2026-67340_exploit",
+            "snippet": "# 0xdak/CVE-2026-67340_exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-04T10:33:12Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- 0xdak (1 con",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-11T03:04:34.777Z"
+        "enriched_at": "2026-08-19T02:18:48.805Z"
       },
-      "timestamp": "2026-08-11T03:04:36.290Z"
+      "timestamp": "2026-08-19T02:18:50.312Z"
     },
     "alsco": {
       "intel": {
@@ -5068,9 +5068,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-11T03:04:36.290Z"
+        "enriched_at": "2026-08-19T02:18:50.312Z"
       },
-      "timestamp": "2026-08-11T03:04:37.782Z"
+      "timestamp": "2026-08-19T02:18:51.657Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5629,9 +5629,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-11T03:04:39.315Z"
+        "enriched_at": "2026-08-19T02:18:53.160Z"
       },
-      "timestamp": "2026-08-11T03:04:40.781Z"
+      "timestamp": "2026-08-19T02:18:54.562Z"
     },
     "hilton": {
       "intel": {
@@ -6030,9 +6030,9 @@
       "intel": {
         "writeups": [
           {
-            "title": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/abercrombie_fitch_bbp",
-            "snippet": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne\n\n## Program highlights\n\nClosed Scope\n\nOnly accepts reports based on the listed scope.\n\nPlatform Standards\n\nFully compliant with Platform Stan",
+            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
             "published": null,
             "score": 1
           },
@@ -6044,10 +6044,10 @@
             "score": 0.5
           },
           {
-            "title": "abercrombie_fitch on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/abercrombie_fitch",
-            "snippet": "abercrombie_fitch on HackerOne - Bug Bounty Scope | bbscope.com\n\nVulnerability Disclosure Program (VDP)\n\nVDPs are meant for responsibly reporting vulnerabilities you encounter — not for actively hunti",
-            "published": null,
+            "title": "Sydney Jenkins",
+            "url": "https://exa.ai/library/person/w8y3rm9ddg1",
+            "snippet": "# Sydney Jenkins\n\nInformation Security @ Abercrombie & Fitch Co.\n\nColumbus, Ohio, United States (US)\n\n500 connections • 652 followers\n\n## About\n\nI’m a mission-driven technologist who thrives at the in",
+            "published": "2026-08-10T12:49:09.000Z",
             "score": 0
           }
         ],
@@ -6077,9 +6077,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-11T03:04:37.782Z"
+        "enriched_at": "2026-08-19T02:18:51.657Z"
       },
-      "timestamp": "2026-08-11T03:04:39.314Z"
+      "timestamp": "2026-08-19T02:18:53.159Z"
     },
     "wolt": {
       "intel": {
@@ -6135,7 +6135,62 @@
         "enriched_at": "2026-08-12T03:23:19.928Z"
       },
       "timestamp": "2026-08-12T03:23:21.625Z"
+    },
+    "vercel_sandbox": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "one-million-dollar-hacker-challenge-for-vercel-sandbox",
+            "url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
+            "snippet": "# $1 million hacker challenge for Vercel Sandbox\n\n**Published:** August 18, 2026 | **Authors:** Andy Riancho | **Category:** Security\n\n---\n\nAgents need to run untrusted code, and the microVM has becom",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Medium",
+            "url": "https://medium.com/@meysam_bal-afkan/escaping-the-matrix-a-deep-dive-into-sandboxjs-rce-cve-2026-23830-1fbbca3f46fc",
+            "snippet": "MediumEscaping the Matrix: A Deep Dive into SandboxJS RCE (CVE-2026–23830) | by Meysam Bal-afkan | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nCuber Security\n\nInformat",
+            "published": "2026-01-28T14:14:44.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Critical GHSA for latest sandbox (2.5.12)  package on Snyk + socket",
+            "url": "https://github.com/vercel/sandbox/issues/197",
+            "snippet": "# Critical GHSA for latest sandbox (2.5.12) package on Snyk + socket\n\n- State: closed\n- Author: abernh\n- Created: 2026-05-19T13:15:20Z\n- Updated: 2026-05-29T06:55:48Z\n- Repository: vercel/sandbox\n- Nu",
+            "published": "2026-05-19T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "HaiderAmin9/sandbox-rce-poc",
+            "url": "https://github.com/HaiderAmin9/sandbox-rce-poc",
+            "snippet": "# Repository: HaiderAmin9/sandbox-rce-poc\n\nH1 PoC: JS injection in workflow_dispatch version input — vercel/vercel update-sandbox.yml\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default br",
+            "published": "2026-06-08T14:16:19.000Z",
+            "score": 1
+          },
+          {
+            "title": "Galaxy-sc/CVE-2026-23830-SandBreak",
+            "url": "https://github.com/Galaxy-sc/CVE-2026-23830-SandBreak",
+            "snippet": "# Repository: Galaxy-sc/CVE-2026-23830-SandBreak\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Go\n- Languages: Go\n- Default branch: main\n- Created: 2026-01-28T12:32:07Z\n- L",
+            "published": "2026-01-28T12:32:07.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "SandboxJS has Sandbox Escape via Unprotected AsyncFunction Constructor · CVE-2026-23830 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/ghsa-wxhw-j4hc-fmq6",
+            "snippet": "SandboxJS has Sandbox Escape via Unprotected AsyncFunction Constructor · CVE-2026-23830 · GitHub Advisory Database · GitHub\n\n## SandboxJS has Sandbox Escape via Unprotected AsyncFunction Constructor\n\n",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-08-19T02:18:40.409Z"
+      },
+      "timestamp": "2026-08-19T02:18:41.832Z"
     }
   },
-  "lastRun": "2026-08-18T02:16:19.607Z"
+  "lastRun": "2026-08-19T02:18:54.562Z"
 }
