@@ -1815,16 +1815,16 @@
           {
             "title": "A vulnerability was identified in Meesho Online Shopping... · CVE-2026-18591 · GitHub Advisory Database · GitHub",
             "url": "https://github.com/advisories/GHSA-7gc3-pw6r-7mq6",
-            "snippet": "A vulnerability was identified in Meesho Online Shopping... · CVE-2026-18591 · GitHub Advisory Database · GitHub\n\n## A vulnerability was identified in Meesho Online Shopping... \n\n Published \n\nAug 3, 2",
+            "snippet": "A vulnerability was identified in Meesho Online Shopping... · CVE-2026-18591 · GitHub Advisory Database · GitHub\n\n## A vulnerability was identified in Meesho Online Shopping...\n\nLow severity Unreviewe",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:19.422Z"
+        "enriched_at": "2026-08-21T02:23:29.461Z"
       },
-      "timestamp": "2026-08-13T03:27:20.845Z"
+      "timestamp": "2026-08-21T02:23:30.878Z"
     },
     "braze_inc": {
       "intel": {
@@ -5133,15 +5133,15 @@
           {
             "title": "Behind The Scenes: How Modern Treasury Ensures Payment Security",
             "url": "https://www.moderntreasury.com/journal/how-modern-treasury-ensures-payment-security",
-            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\n• January 17, 2024\n\n# Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nSecurity is the foundation for Modern Treasury o",
-            "published": "2024-01-17T00:41:10.000Z",
+            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\n•January 17, 2024\n\n# Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nSecurity is the foundation for Modern Treasury op",
+            "published": "2024-01-17T13:26:33.000Z",
             "score": 1
           },
           {
             "title": "Modern Treasury Journal - Edge Cases in Complex Payment Operations",
             "url": "https://www.moderntreasury.com/journal/edge-cases-in-complex-payment-operations",
             "snippet": "Modern Treasury Journal - Edge Cases in Complex Payment Operations\n\n•July 1, 2022\n\n# Edge Cases in Complex Payment Operations\n\nPayment operations is complicated. Technical challenges can arise for myr",
-            "published": "2022-07-01T17:50:14.000Z",
+            "published": "2022-07-01T13:06:31.000Z",
             "score": 0.5
           },
           {
@@ -5178,9 +5178,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:22.231Z"
+        "enriched_at": "2026-08-21T02:23:32.355Z"
       },
-      "timestamp": "2026-08-13T03:27:23.703Z"
+      "timestamp": "2026-08-21T02:23:33.849Z"
     },
     "notion": {
       "intel": {
@@ -5188,7 +5188,7 @@
           {
             "title": "@notionhq/client - High Vulnerability - AIKIDO-2026-10135",
             "url": "https://intel.aikido.dev/cve/AIKIDO-2026-10135",
-            "snippet": "@notionhq/client - High Vulnerability - AIKIDO-2026-10135\n\n# AIKIDO-2026-10135\n\n@notionhq/client is vulnerable to Directory Traversal\n\nDirectory Traversal Pre-CVE Published Feb 9, 2026\n\n70\n\nHigh Risk\n",
+            "snippet": "@notionhq/client - High Vulnerability - AIKIDO-2026-10135\n\n# AIKIDO-2026-10135\n\n@notionhq/client is vulnerable to Directory Traversal\n\nDirectory Traversal Pre-CVE\n\nPublished Feb 9, 2026\n\n70\n\nHigh Risk",
             "published": null,
             "score": 1
           },
@@ -5233,9 +5233,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:23.703Z"
+        "enriched_at": "2026-08-21T02:23:33.849Z"
       },
-      "timestamp": "2026-08-13T03:27:25.117Z"
+      "timestamp": "2026-08-21T02:23:35.308Z"
     },
     "mpesa": {
       "intel": {
@@ -5299,9 +5299,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:25.117Z"
+        "enriched_at": "2026-08-21T02:23:35.308Z"
       },
-      "timestamp": "2026-08-13T03:27:26.524Z"
+      "timestamp": "2026-08-21T02:23:36.727Z"
     },
     "floqast": {
       "intel": {
@@ -5354,9 +5354,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:26.524Z"
+        "enriched_at": "2026-08-21T02:23:36.728Z"
       },
-      "timestamp": "2026-08-13T03:27:27.888Z"
+      "timestamp": "2026-08-21T02:23:38.163Z"
     },
     "palantir_public": {
       "intel": {
@@ -5386,10 +5386,10 @@
         "twitter": [],
         "github": [
           {
-            "title": "horizon3ai/CVE-2024-9465",
-            "url": "https://github.com/horizon3ai/CVE-2024-9465",
-            "snippet": "# horizon3ai/CVE-2024-9465\n\nProof of Concept Exploit for CVE-2024-9465\n\n- Stars: 31\n- Forks: 4\n- Watchers: 31\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-09T16:22:05Z\n\n## Languages\n\n- P",
-            "published": null,
+            "title": "GitHub - horizon3ai/CVE-2024-9465: Proof of Concept Exploit for CVE-2024-9465 · GitHub",
+            "url": "https://github.com/horizon3ai/CVE-2024-9465/tree/main",
+            "snippet": "GitHub - horizon3ai/CVE-2024-9465: Proof of Concept Exploit for CVE-2024-9465 · GitHub\n\n/ CVE-2024-9465 Public\n\nmain\n\nGo to Branches page Go to Tags page\n\nGo to file\n\nCode\n\n| Name | Name | Last commit",
+            "published": "2024-10-09T16:22:05.000Z",
             "score": 1
           },
           {
@@ -5409,9 +5409,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:27.888Z"
+        "enriched_at": "2026-08-21T02:23:38.163Z"
       },
-      "timestamp": "2026-08-13T03:27:29.330Z"
+      "timestamp": "2026-08-21T02:23:39.679Z"
     },
     "mongodb": {
       "intel": {
@@ -5424,17 +5424,17 @@
             "score": 1
           },
           {
-            "title": "MongoDB Symbol-Type Authorization Bypass (CVE-2026-18690): Limited User Reaches System Collections — RECON Research",
-            "url": "https://hellorecon.com/blog/cve-2026-18690-mongodb-symbol-type-authz-bypass",
-            "snippet": "MongoDB Symbol-Type Authorization Bypass (CVE-2026-18690): Limited User Reaches System Collections — RECON Research\n\nAUGUST 12, 2026CVSS 8.1 · AUTHZ BYPASS · 4 CVES13 MIN READ\n\n# MongoDB's Symbol-Type",
-            "published": "2026-08-12T01:13:39.000Z",
-            "score": 0.5
-          },
-          {
             "title": "[pymongo] out-of-bounds read PoC (CVE-2024-5629)",
             "url": "https://gist.github.com/keltecc/62a7c2bf74a997d0a7b48a0ff3853a03",
             "snippet": "# [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Owner: keltecc\n- Created: 2024-03-03T23:53:34Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## !README.md\n\nLanguage: Markdown\n\n_Assigned CVE_: [CVE-202",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "MongoDB Symbol-Type Authorization Bypass (CVE-2026-18690): Limited User Reaches System Collections — RECON Research",
+            "url": "https://hellorecon.com/blog/cve-2026-18690-mongodb-symbol-type-authz-bypass",
+            "snippet": "MongoDB Symbol-Type Authorization Bypass (CVE-2026-18690): Limited User Reaches System Collections — RECON Research\n\nAUGUST 12, 2026CVSS 8.1 · AUTHZ BYPASS · 4 CVES13 MIN READ\n\n# MongoDB's Symbol-Type",
+            "published": "2026-08-12T05:34:01.000Z",
             "score": 0
           }
         ],
@@ -5464,9 +5464,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:29.330Z"
+        "enriched_at": "2026-08-21T02:23:39.679Z"
       },
-      "timestamp": "2026-08-13T03:27:30.740Z"
+      "timestamp": "2026-08-21T02:23:41.212Z"
     },
     "ripio": {
       "intel": {
@@ -5510,18 +5510,18 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2026-38945.sh",
-            "url": "https://github.com/Wise-Security/CVE-2026-38945/blob/main/CVE-2026-38945.sh",
-            "snippet": "# CVE-2026-38945.sh\n\n- Branch: main\n- Repository: Wise-Security/CVE-2026-38945\n\n---\n\n#!/bin/sh\n\n# Author: Rafael José Núñez Gulías, aka rafnar or hvemerjeg\n# Company: Iberian Var Group\n# Description: ",
+            "title": "[Windows] Remote code execution due to unsafe call stack on the hints system",
+            "url": "https://github.com/raphamorim/rio/issues/1811",
+            "snippet": "# [Windows] Remote code execution due to unsafe call stack on the hints system\n\n- State: closed\n- Author: lalvarezt\n- Created: 2026-08-04T10:00:37Z\n- Updated: 2026-08-04T17:27:25Z\n- Repository: rapham",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:30.741Z"
+        "enriched_at": "2026-08-21T02:23:41.212Z"
       },
-      "timestamp": "2026-08-13T03:27:32.112Z"
+      "timestamp": "2026-08-21T02:23:42.677Z"
     },
     "deribit": {
       "intel": {
@@ -5574,9 +5574,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:32.112Z"
+        "enriched_at": "2026-08-21T02:23:42.678Z"
       },
-      "timestamp": "2026-08-13T03:27:33.520Z"
+      "timestamp": "2026-08-21T02:23:44.108Z"
     },
     "sorare": {
       "intel": {
@@ -6022,9 +6022,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-13T03:27:20.845Z"
+        "enriched_at": "2026-08-21T02:23:30.878Z"
       },
-      "timestamp": "2026-08-13T03:27:22.231Z"
+      "timestamp": "2026-08-21T02:23:32.354Z"
     },
     "abercrombie_fitch_bbp": {
       "intel": {
@@ -6192,5 +6192,5 @@
       "timestamp": "2026-08-19T02:18:41.832Z"
     }
   },
-  "lastRun": "2026-08-20T02:17:49.935Z"
+  "lastRun": "2026-08-21T02:23:44.108Z"
 }
