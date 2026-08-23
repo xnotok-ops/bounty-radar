@@ -2380,16 +2380,16 @@
       "intel": {
         "writeups": [
           {
-            "title": "Security findings in bumblebee v0.1.x — please do not share publicly until maintainers respond",
-            "url": "https://github.com/perplexityai/bumblebee/issues/6",
-            "snippet": "# Security findings in bumblebee v0.1.x — please do not share publicly until maintainers respond\n\n- State: closed\n- Author: meadityabhi\n- Created: 2026-05-23T04:43:05Z\n- Updated: 2026-05-23T09:25:53Z\n",
+            "title": "Bumba Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/bumba/",
+            "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nTop 1M site\n\nBounty\n\n## Program Details\n\nHandle bumba_bbp Managed Yes\n\n## Response Metrics\n\nResponse Time 13 days Resolution Time 2171 days\n\nResponse ",
             "published": null,
             "score": 1
           },
           {
-            "title": "Bumba Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/bumba/",
-            "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nBounty \n\n## Program Details \n\n- Handle \n- bumba_bbp \n- Managed\n- Yes \n\n## Response Metrics \n\n- Response Time\n- 11 days \n- Resolution Time\n- 2171 days ",
+            "title": "Security findings in bumblebee v0.1.x — please do not share publicly until maintainers respond",
+            "url": "https://github.com/perplexityai/bumblebee/issues/6",
+            "snippet": "# Security findings in bumblebee v0.1.x — please do not share publicly until maintainers respond\n\n- State: closed\n- Author: meadityabhi\n- Created: 2026-05-23T04:43:05Z\n- Updated: 2026-05-23T09:25:53Z\n",
             "published": null,
             "score": 0.5
           },
@@ -2411,48 +2411,48 @@
             "score": 1
           },
           {
-            "title": "exploitarium/php857-streambucket-soap-rce-rpoc at main · bikini/exploitarium · GitHub",
-            "url": "https://github.com/bikini/exploitarium/tree/main/php857-streambucket-soap-rce-rpoc",
-            "snippet": "exploitarium/php857-streambucket-soap-rce-rpoc at main · bikini/exploitarium · GitHub\n\n/ exploitarium Public\n\n## Files\n\nmain\n\n# php857-streambucket-soap-rce-rpoc\n\nView commit history for this file.\n\nm",
-            "published": "2026-06-23T05:14:11.000Z",
-            "score": 0.5
-          },
-          {
             "title": "number000000/18739-D-CVE-1",
             "url": "https://github.com/number000000/18739-D-CVE-1",
             "snippet": "# number000000/18739-D-CVE-1\n\nCMU 18739-D CVE #1\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-10-17T19:32:11Z\n\n## Languages\n\n- Perl\n- Shell\n\n## Top Cont",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "exploitarium/php857-streambucket-soap-rce-rpoc at main · bikini/exploitarium · GitHub",
+            "url": "https://github.com/bikini/exploitarium/tree/main/php857-streambucket-soap-rce-rpoc",
+            "snippet": "exploitarium/php857-streambucket-soap-rce-rpoc at main · bikini/exploitarium · GitHub\n\n/ exploitarium Public\n\n## Files\n\nmain\n\n# php857-streambucket-soap-rce-rpoc\n\nView commit history for this file.\n\nm",
+            "published": "2026-06-23T05:14:11.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:08.985Z"
+        "enriched_at": "2026-08-23T02:23:53.194Z"
       },
-      "timestamp": "2026-08-15T02:14:10.366Z"
+      "timestamp": "2026-08-23T02:23:54.733Z"
     },
     "starbucks_japan": {
       "intel": {
         "writeups": [
           {
+            "title": "Starbucks | Report #1113559 - Japan - CSRF in webapp.starbucks.co.jp with user interaction could leak an access token if the user was not using Chrome | HackerOne",
+            "url": "https://hackerone.com/reports/1113559",
+            "snippet": "Starbucks | Report #1113559 - Japan - CSRF in webapp.starbucks.co.jp with user interaction could leak an access token if the user was not using Chrome | HackerOne\n\nJapan - CSRF in webapp.starbucks.co.",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies",
             "url": "https://dreamlab.net/en/blog/post/starbucks-idor-how-we-prevented-an-information-leak-of-6-million-starbucks-customers/",
-            "snippet": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies\n\nBlog\n\n# Starbucks IDOR: How we prevented an information leak of 6 million Starbucks custo",
+            "snippet": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies\n\n# Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers\n\n",
             "published": "2020-03-18T11:02:05.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec",
             "url": "http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/",
             "snippet": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec\n\n# Kamil Onur Özkaleli as ko2sec\n\n## This blog is mostly about security writeups and research articles.\n\n# RCE on Starbuck",
             "published": "2021-04-03T12:24:01.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Medium",
-            "url": "https://attackerbhai2003.medium.com/open-redirect-in-starbucks-48fa23dd31e6",
-            "snippet": "MediumOpen Redirect in Starbucks. Hi my name is jagannath mohanty .i am a… | by Jagannath Mohanty | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Open Redirect in Star",
-            "published": "2022-03-11T16:08:28.000Z",
             "score": 0
           }
         ],
@@ -2466,9 +2466,9 @@
             "score": 1
           },
           {
-            "title": "2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md at master · flameddd/blog",
+            "title": "2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
             "url": "https://github.com/flameddd/blog/blob/master/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
-            "snippet": "# File: flameddd/blog/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md\n\n- Repository: flameddd/blog",
+            "snippet": "# 2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md\n\n- Branch: master\n- Repository: flameddd/blog\n\n-",
             "published": null,
             "score": 0.5
           },
@@ -2482,9 +2482,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-16T02:21:01.234Z"
+        "enriched_at": "2026-08-23T02:23:54.733Z"
       },
-      "timestamp": "2026-08-16T02:21:02.773Z"
+      "timestamp": "2026-08-23T02:23:56.265Z"
     },
     "starbucks_china": {
       "intel": {
@@ -2499,7 +2499,7 @@
           {
             "title": "Starbucks | Report #440629 - Starbucks China Android app cloud storage service leaks a credential. | HackerOne",
             "url": "https://hackerone.com/reports/440629",
-            "snippet": "Starbucks | Report #440629 - Starbucks China Android app cloud storage service leaks a credential. | HackerOne\n\n33\n\nStarbucks China Android app cloud storage service leaks a credential.\n\nSummary by St",
+            "snippet": "Starbucks | Report #440629 - Starbucks China Android app cloud storage service leaks a credential. | HackerOne\n\n33\n\nCopy report id\n\nStarbucks China Android app cloud storage service leaks a credential",
             "published": null,
             "score": 0.5
           },
@@ -2514,9 +2514,9 @@
         "twitter": [],
         "github": [
           {
-            "title": "2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md at master · flameddd/blog",
+            "title": "2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
             "url": "https://github.com/flameddd/blog/blob/master/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
-            "snippet": "# File: flameddd/blog/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md\n\n- Repository: flameddd/blog",
+            "snippet": "# 2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md\n\n- Branch: master\n- Repository: flameddd/blog\n\n-",
             "published": null,
             "score": 1
           },
@@ -2537,9 +2537,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-16T02:21:02.773Z"
+        "enriched_at": "2026-08-23T02:23:56.265Z"
       },
-      "timestamp": "2026-08-16T02:21:04.302Z"
+      "timestamp": "2026-08-23T02:23:57.785Z"
     },
     "syfe_bbp": {
       "intel": {
@@ -2592,32 +2592,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-16T02:21:04.302Z"
+        "enriched_at": "2026-08-23T02:23:57.785Z"
       },
-      "timestamp": "2026-08-16T02:21:05.844Z"
+      "timestamp": "2026-08-23T02:23:59.375Z"
     },
     "nba-public": {
       "intel": {
         "writeups": [
           {
+            "title": "NBA Public Bug Bounty — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/nba-public",
+            "snippet": "NBA Public Bug Bounty — HackerOne bug bounty | BountyHunte.rs\n\n# NBA Public Bug Bounty\n\nReward model\n\npaid\n\ngeneral platform\n\nLaunched\n\n7/31/2024\n\nprovider dated\n\nFreshness\n\n3h ago\n\nScope changed 8/4/",
+            "published": "2024-07-31T15:44:09.000Z",
+            "score": 1
+          },
+          {
             "title": "HackerOne",
             "url": "https://hackerone.com/nba-vdp",
             "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "NBA Botches Ethereum NFT Drop as 'The Association' Suffers Exploit - Decrypt",
             "url": "https://decrypt.co/98387/nba-botches-ethereum-nft-drop-as-the-association-suffers-exploit",
             "snippet": "NBA Botches Ethereum NFT Drop as 'The Association' Suffers Exploit - Decrypt\n\n# NBA Botches Ethereum NFT Drop as 'The Association' Suffers Exploit\n\n## Poor coding has resulted in some NBA fans losing ",
             "published": "2022-04-21T19:15:28.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "fix: restrict access(all) var fields to prevent unauthenticated writes · 340c13d · dapperlabs/nba-smart-contracts",
-            "url": "https://github.com/dapperlabs/nba-smart-contracts/commit/340c13d516fcfedb41b05212d50c1b66e008d3d8",
-            "snippet": "# Commit: dapperlabs/nba-smart-contracts@340c13d\n\n- Repository: dapperlabs/nba-smart-contracts | Smart contracts and transactions for Topshot, the official NBA digital collectibles game on the Flow Bl",
-            "published": "2026-06-01T17:33:38.000Z",
             "score": 0
           }
         ],
@@ -2647,9 +2647,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-16T02:21:05.844Z"
+        "enriched_at": "2026-08-23T02:23:59.375Z"
       },
-      "timestamp": "2026-08-16T02:21:07.374Z"
+      "timestamp": "2026-08-23T02:24:00.856Z"
     },
     "circle-bbp": {
       "intel": {
@@ -2702,9 +2702,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-16T02:21:07.374Z"
+        "enriched_at": "2026-08-23T02:24:00.856Z"
       },
-      "timestamp": "2026-08-16T02:21:08.885Z"
+      "timestamp": "2026-08-23T02:24:02.320Z"
     },
     "varonis": {
       "intel": {
@@ -2712,7 +2712,7 @@
           {
             "title": "From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster",
             "url": "https://www.varonis.com/blog/varonis-prevents-ransomware-disaster",
-            "snippet": "From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster\n\n🚨 Varonis Threat Labs uncovered SearchLeak, a new AI vulnerability within Microsoft 365 Copilot. Learn more\n\n# From CPU Spikes",
+            "snippet": "From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster\n\n🤖 Say Hello to Agent Intent-Based Access Control in Varonis Atlas Learn more\n\n# From CPU Spikes to Defense: How Varonis Preven",
             "published": "2025-10-09T14:00:26.000Z",
             "score": 1
           },
@@ -2757,9 +2757,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-16T02:21:08.885Z"
+        "enriched_at": "2026-08-23T02:24:02.321Z"
       },
-      "timestamp": "2026-08-16T02:21:10.403Z"
+      "timestamp": "2026-08-23T02:24:03.843Z"
     },
     "klarna": {
       "intel": {
@@ -2812,9 +2812,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-16T02:21:10.403Z"
+        "enriched_at": "2026-08-23T02:24:03.843Z"
       },
-      "timestamp": "2026-08-16T02:21:11.930Z"
+      "timestamp": "2026-08-23T02:24:05.364Z"
     },
     "unico_idtech": {
       "intel": {
@@ -2822,7 +2822,7 @@
           {
             "title": "Unico IDtech Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/unico-idtech/",
-            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle unico_idtech Managed Yes\n\n## Response Metrics\n\nResponse Time 8 days Bounty Time 286 da",
+            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle unico_idtech Managed Yes\n\n## Response Metrics\n\nResponse Time 8 days Bounty Time 238 da",
             "published": null,
             "score": 1
           },
@@ -2836,7 +2836,7 @@
           {
             "title": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com",
             "url": "https://bbscope.com/program/h1/unico_idtech",
-            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n14\n\nIn Scope\n\n2\n\nOut of Scope\n\nIn-Scope Assets (14)\n\n| Asset | Category | Bount",
+            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nRaw AI Enhanced\n\n14 In Scope\n\n2 Out of Scope\n\nIn-Scope Assets (14)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --",
             "published": null,
             "score": 0
           }
@@ -2867,32 +2867,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-16T02:21:11.931Z"
+        "enriched_at": "2026-08-23T02:24:05.364Z"
       },
-      "timestamp": "2026-08-16T02:21:13.437Z"
+      "timestamp": "2026-08-23T02:24:06.849Z"
     },
     "wallet_on_telegram": {
       "intel": {
         "writeups": [
           {
-            "title": "[BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)",
-            "url": "https://github.com/Scottcjn/rustchain-bounties/issues/69",
-            "snippet": "# [BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)\n\n- State: closed\n- Author: Scottcjn\n- Created: 2026-02-06T01:03:51Z\n- Updated: 2026-03-26T12:52:10Z\n- Repository: Scottcjn/rus",
+            "title": "TENET: Telegram Mini App (in)security",
+            "url": "https://arxiv.org/html/2608.17538",
+            "snippet": "TENET: Telegram Mini App (in)security\n\narXiv is now an independent nonprofit! Learn more×\n\n# TENET: Telegram Mini App (in)security\n\nAndrea Ciccotelli1 ORCID 0009-0004-8286-5135, Federico Zappone2 ORCI",
             "published": null,
             "score": 1
           },
           {
-            "title": "Telegram-Driven Attack Targets Crypto Developers with Malicious npm Packages",
-            "url": "https://cyberpress.org/telegram-attack-targets-crypto-developers/",
-            "snippet": "Telegram-Driven Attack Targets Crypto Developers with Malicious npm Packages\n\nSign in Join\n\nSign in\n\nWelcome!Log into your account\n\nyour username\n\nyour password\n\nForgot your password?\n\nCreate an accou",
-            "published": "2026-03-26T06:48:57.000Z",
+            "title": "OSV - Open Source Vulnerabilities",
+            "url": "https://osv.dev/vulnerability/MAL-2026-13346",
+            "snippet": "OSV - Open Source Vulnerabilities\n\n# MAL-2026-13346 \n\n See a problem? \n\n- Import Source\n- https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hdkey-wallet/MAL-2026-13346.json\n- JSON",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Telegram Wallet: A Story of Buried Red Flags and Dubious Ties - DailyCoin",
-            "url": "https://dailycoin.com/telegram-wallet-red-flags-and-dubious-ties/",
-            "snippet": "Telegram Wallet: A Story of Buried Red Flags and Dubious Ties - DailyCoin\n\n# Telegram Wallet: A Story of Buried Red Flags and Dubious Ties\n\nTelegram Wallet’s service provider manages users’ personal d",
-            "published": "2024-08-23T17:00:00.000Z",
+            "title": "[BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)",
+            "url": "https://github.com/Scottcjn/rustchain-bounties/issues/69",
+            "snippet": "# [BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)\n\n- State: closed\n- Author: Scottcjn\n- Created: 2026-02-06T01:03:51Z\n- Updated: 2026-03-26T12:52:10Z\n- Repository: Scottcjn/rus",
+            "published": null,
             "score": 0
           }
         ],
@@ -2922,9 +2922,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-16T02:21:13.438Z"
+        "enriched_at": "2026-08-23T02:24:06.849Z"
       },
-      "timestamp": "2026-08-16T02:21:14.973Z"
+      "timestamp": "2026-08-23T02:24:08.359Z"
     },
     "chia_network": {
       "intel": {
@@ -6199,5 +6199,5 @@
       "timestamp": "2026-08-19T02:18:41.832Z"
     }
   },
-  "lastRun": "2026-08-22T02:15:53.316Z"
+  "lastRun": "2026-08-23T02:24:08.359Z"
 }
