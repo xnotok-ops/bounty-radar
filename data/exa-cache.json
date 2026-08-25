@@ -3575,9 +3575,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:04.514Z"
+        "enriched_at": "2026-08-25T02:18:16.161Z"
       },
-      "timestamp": "2026-08-18T02:16:06.189Z"
+      "timestamp": "2026-08-25T02:18:17.697Z"
     },
     "visa": {
       "intel": {
@@ -3597,10 +3597,10 @@
             "score": 0.5
           },
           {
-            "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Cube Letter",
-            "url": "https://cubeletter.com/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible/",
-            "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Cube Letter\n\n# Visa used Mythos to hunt for bugs in its own payment network, then op",
-            "published": "2026-07-29T02:01:32.000Z",
+            "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible – WordUp News",
+            "url": "https://wordupnews.com/tech/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible/",
+            "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible – WordUp News\n\n# Visa used Mythos to hunt for bugs in its own payment network, then op",
+            "published": "2026-07-29T04:23:28.000Z",
             "score": 0
           }
         ],
@@ -3630,9 +3630,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:06.189Z"
+        "enriched_at": "2026-08-25T02:18:17.697Z"
       },
-      "timestamp": "2026-08-18T02:16:07.878Z"
+      "timestamp": "2026-08-25T02:18:19.209Z"
     },
     "toolsforhumanity": {
       "intel": {
@@ -3669,25 +3669,25 @@
             "score": 1
           },
           {
-            "title": "contracts/ProofOfHumanity.sol at master · Proof-Of-Humanity/Proof-Of-Humanity",
-            "url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/blob/master/contracts/ProofOfHumanity.sol",
-            "snippet": "# File: Proof-Of-Humanity/Proof-Of-Humanity/contracts/ProofOfHumanity.sol\n\n- Repository: Proof-Of-Humanity/Proof-Of-Humanity | Proof-of-Humanity v1 smart contracts | 169 stars | JavaScript\n- Branch: m",
-            "published": null,
-            "score": 0.5
-          },
-          {
             "title": "xcalibure2/ToolShell",
             "url": "https://github.com/xcalibure2/ToolShell",
             "snippet": "# xcalibure2/ToolShell\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-09T07:06:",
             "published": "2026-01-09T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "terribledactyl/Form-Tools-3.1.1-RCE",
+            "url": "https://github.com/terribledactyl/Form-Tools-3.1.1-RCE",
+            "snippet": "# terribledactyl/Form-Tools-3.1.1-RCE\n\nCVE-2024-22722 RCE via SSTI, automated with Python.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-09-06T00:10:24Z\n",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:07.878Z"
+        "enriched_at": "2026-08-25T02:18:19.209Z"
       },
-      "timestamp": "2026-08-18T02:16:09.557Z"
+      "timestamp": "2026-08-25T02:18:20.694Z"
     },
     "ring": {
       "intel": {
@@ -3740,9 +3740,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:09.557Z"
+        "enriched_at": "2026-08-25T02:18:20.694Z"
       },
-      "timestamp": "2026-08-18T02:16:11.180Z"
+      "timestamp": "2026-08-25T02:18:22.229Z"
     },
     "six-group": {
       "intel": {
@@ -3779,25 +3779,25 @@
             "score": 1
           },
           {
-            "title": "hg0434hongzh0/CVE-2026-34197",
-            "url": "https://github.com/hg0434hongzh0/CVE-2026-34197",
-            "snippet": "# Repository: hg0434hongzh0/CVE-2026-34197\n\nPOC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-04-10T01:29:",
-            "published": "2026-04-10T01:29:12.000Z",
+            "title": "oguzylmzx/CVE-2025-64512-pdfminer-PoC",
+            "url": "https://github.com/oguzylmzx/CVE-2025-64512-pdfminer-PoC",
+            "snippet": "# oguzylmzx/CVE-2025-64512-pdfminer-PoC\n\nPoC for CVE-2025-64512: pdfminer.six CMapDB pickle deserialization RCE via crafted PDF\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: ",
+            "published": null,
             "score": 0.5
           },
           {
             "title": "sixgroup-security/bug-bounty",
             "url": "https://github.com/sixgroup-security/bug-bounty",
-            "snippet": "# Repository: sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n",
-            "published": "2024-10-08T11:05:51.000Z",
+            "snippet": "# sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-08T11:05:51Z\n\n## Languages\n\n- Python\n\n##",
+            "published": "2024-10-08T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:11.180Z"
+        "enriched_at": "2026-08-25T02:18:22.229Z"
       },
-      "timestamp": "2026-08-18T02:16:12.826Z"
+      "timestamp": "2026-08-25T02:18:23.809Z"
     },
     "eufy_security": {
       "intel": {
@@ -3850,9 +3850,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:12.826Z"
+        "enriched_at": "2026-08-25T02:18:23.809Z"
       },
-      "timestamp": "2026-08-18T02:16:14.526Z"
+      "timestamp": "2026-08-25T02:18:25.322Z"
     },
     "eero": {
       "intel": {
@@ -3905,9 +3905,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:14.526Z"
+        "enriched_at": "2026-08-25T02:18:25.322Z"
       },
-      "timestamp": "2026-08-18T02:16:16.177Z"
+      "timestamp": "2026-08-25T02:18:26.901Z"
     },
     "mozilla": {
       "intel": {
@@ -3937,48 +3937,48 @@
         "twitter": [],
         "github": [
           {
-            "title": "SneakyNachos/CVE-2024-29943-but-with-wasm",
-            "url": "https://github.com/SneakyNachos/CVE-2024-29943-but-with-wasm",
-            "snippet": "# SneakyNachos/CVE-2024-29943-but-with-wasm\n\nCVE-2024-29943, but with wasm\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2026-08-10T02:34:36Z\n\n## Languages\n",
+            "title": "SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm",
+            "url": "https://github.com/SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm",
+            "snippet": "# SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm\n\nPoC exploit chain for CVE-2026-2796: SpiderMonkey WebAssembly sandbox escape (signature type confusion -> arbitrary R/W -> RCE)\n\n- Stars: 3\n- Fo",
             "published": null,
             "score": 1
           },
           {
-            "title": "SneakyNachos/CVE-2026-2766-but-with-wasm",
-            "url": "https://github.com/SneakyNachos/CVE-2026-2766-but-with-wasm",
-            "snippet": "# SneakyNachos/CVE-2026-2766-but-with-wasm\n\nCVE-2026-2766, but with wasm\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: master\n- Created: 2026-08-11T02:36:01Z\n\n## Languages\n\n-",
+            "title": "SneakyNachos/CVE-2024-29943-but-with-wasm",
+            "url": "https://github.com/SneakyNachos/CVE-2024-29943-but-with-wasm",
+            "snippet": "# SneakyNachos/CVE-2024-29943-but-with-wasm\n\nCVE-2024-29943, but with wasm\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2026-08-10T02:34:36Z\n\n## Languages\n",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "SneakyNachos/CVE-2026-2764-but-with-wasm",
-            "url": "https://github.com/SneakyNachos/CVE-2026-2764-but-with-wasm",
-            "snippet": "# SneakyNachos/CVE-2026-2764-but-with-wasm\n\nCVE-2026-2764, but with wasm\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: master\n- Created: 2026-08-11T01:19:14Z\n\n## Languages\n\n-",
+            "title": "SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box",
+            "url": "https://github.com/SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box",
+            "snippet": "# SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box\n\nFull Firefox chain: CVE-2026-2796 wasm type confusion -> content-process RCE, plus CVE-2026-2768 parent-process escape analysis (bot",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:16.177Z"
+        "enriched_at": "2026-08-25T02:18:26.902Z"
       },
-      "timestamp": "2026-08-18T02:16:17.829Z"
+      "timestamp": "2026-08-25T02:18:28.406Z"
     },
     "stripchat": {
       "intel": {
         "writeups": [
           {
+            "title": "Stripchat — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/stripchat",
+            "snippet": "Stripchat — HackerOne bug bounty | BountyHunte.rs\n\nHackerOne\n\nbounty\n\nManaged\n\n# Stripchat\n\nSubmit a report on HackerOne\n\nSign in for alerts Launched 2/7/2023\n\nReward model\n\npaid\n\ngeneral platform\n\nLa",
+            "published": "2023-02-07T09:28:56.000Z",
+            "score": 1
+          },
+          {
             "title": "200M Adult Cam Model, User Records Exposed in Stripchat Breach | Threatpost",
             "url": "https://threatpost.com/adult-cam-model-user-records-exposed-stripchat-breach/176372/",
             "snippet": "200M Adult Cam Model, User Records Exposed in Stripchat Breach | Threatpost \n\nAuthor: Becky Bracken\n\nNovember 16, 2021 3:32 pm\n\nminute read\n\nShare this article:\n\nThe leak included model information, c",
             "published": "2021-11-16T20:32:16.000Z",
-            "score": 1
-          },
-          {
-            "title": "Stripchat — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/stripchat",
-            "snippet": "Stripchat — HackerOne bug bounty | BountyHunte.rs\n\nHackerOne\n\nbounty\n\nManaged\n\n# Stripchat\n\nSubmit a report on HackerOne\n\nSign in for alerts Launched 2/7/2023\n\nReward model\n\npaid\n\ngeneral platform\n\nLa",
-            "published": null,
             "score": 0.5
           },
           {
@@ -4008,16 +4008,16 @@
           {
             "title": "aitschti/scp-standalone",
             "url": "https://github.com/aitschti/scp-standalone",
-            "snippet": "# Repository: aitschti/scp-standalone\n\nA Stripchat Url Proxy as a standalone version\n\n- Stars: 34\n- Forks: 5\n- Watchers: 7\n- Open issues: 3\n- Primary language: Python\n- Languages: Python\n- Topics: hls",
-            "published": "2025-09-05T14:56:06.000Z",
+            "snippet": "# aitschti/scp-standalone\n\nA Stripchat Url Proxy as a standalone version\n\n- Stars: 40\n- Forks: 7\n- Watchers: 40\n- Open issues: 4\n- Default branch: main\n- Created: 2025-09-05T14:56:06Z\n\n## Languages\n\n-",
+            "published": "2025-09-05T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:17.830Z"
+        "enriched_at": "2026-08-25T02:18:28.406Z"
       },
-      "timestamp": "2026-08-18T02:16:19.606Z"
+      "timestamp": "2026-08-25T02:18:30.029Z"
     },
     "redox_bbp": {
       "intel": {
@@ -5910,18 +5910,18 @@
             "score": 0.5
           },
           {
-            "title": "brokensec/Claude-Code-awk",
-            "url": "https://github.com/brokensec/Claude-Code-awk",
-            "snippet": "# brokensec/Claude-Code-awk\n\nDue to an error in `awk` command parsing in Claude Code's permission system, it is possible to bypass the read-only validation and execute arbitrary commands, write to sen",
+            "title": "panchocosil/CVE-2026-65400-poc",
+            "url": "https://github.com/panchocosil/CVE-2026-65400-poc",
+            "snippet": "# panchocosil/CVE-2026-65400-poc\n\nRead-only PoC for CVE-2026-65400 — macOS Screen Sharing (screensharingd) pre-auth SRP bypass giving root file read. Patched in macOS 26.6.1 / 15.7.9 / 14.8.9.\n\n- Star",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-18T02:16:02.630Z"
+        "enriched_at": "2026-08-25T02:18:14.628Z"
       },
-      "timestamp": "2026-08-18T02:16:04.513Z"
+      "timestamp": "2026-08-25T02:18:16.160Z"
     },
     "agoda-public": {
       "intel": {
@@ -6199,5 +6199,5 @@
       "timestamp": "2026-08-19T02:18:41.832Z"
     }
   },
-  "lastRun": "2026-08-24T02:23:01.245Z"
+  "lastRun": "2026-08-25T02:18:30.029Z"
 }
