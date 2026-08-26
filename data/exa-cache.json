@@ -4049,7 +4049,7 @@
           {
             "title": "gabriellandau/Redux",
             "url": "https://github.com/gabriellandau/Redux",
-            "snippet": "# gabriellandau/Redux\n\n- Stars: 19\n- Forks: 1\n- Watchers: 19\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-02-11T20:36:05Z\n\n## Languages\n\n- C\n- C++\n\n## Top Contributors\n\n- g",
+            "snippet": "# gabriellandau/Redux\n\n- Stars: 19\n- Forks: 2\n- Watchers: 19\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-02-11T20:36:05Z\n\n## Languages\n\n- C\n- C++\n\n## Top Contributors\n\n- g",
             "published": null,
             "score": 1
           },
@@ -4070,9 +4070,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:10.366Z"
+        "enriched_at": "2026-08-26T02:24:50.086Z"
       },
-      "timestamp": "2026-08-15T02:14:11.699Z"
+      "timestamp": "2026-08-26T02:24:51.493Z"
     },
     "okg": {
       "intel": {
@@ -4116,18 +4116,18 @@
             "score": 0.5
           },
           {
-            "title": "Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections",
-            "url": "https://github.com/sherlock-audit/2025-07-oku-trade-order-types-judging/issues/33",
-            "snippet": "# Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections\n\n- State: open\n- Author: sherlock-admin2\n- Created: 2025-07-31T15:20:40Z\n- Update",
+            "title": "exploit/exploit.py",
+            "url": "https://github.com/imbas007/CVE-2026-42533/blob/782319ca/exploit/exploit.py",
+            "snippet": "# exploit/exploit.py\n\n- Branch: 782319ca\n- Repository: imbas007/CVE-2026-42533\n\n---\n\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-42533 — nginx Heap Buffer Overflow — Full Exploit Chain\nPre-Auth Remote Code Ex",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:11.700Z"
+        "enriched_at": "2026-08-26T02:24:51.493Z"
       },
-      "timestamp": "2026-08-15T02:14:13.155Z"
+      "timestamp": "2026-08-26T02:24:52.928Z"
     },
     "1win_com": {
       "intel": {
@@ -4219,9 +4219,9 @@
             "score": 1
           },
           {
-            "title": "BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal",
-            "url": "https://github.com/BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal",
-            "snippet": "# BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal\n\nPoC + analysis for CVE-2026-54917 — SeaweedFS S3 gateway cross-bucket path traversal (CVSS 10.0, <4.30). Read/write any bucket via .. in the o",
+            "title": "Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode",
+            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/260",
+            "snippet": "# Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode\n\n- State: open\n- Author: c4-bot-1\n- Created: 2024-03-11T18:28:20Z\n- Updated: 2024-04-29T14:31:16Z\n- ",
             "published": null,
             "score": 0.5
           },
@@ -4235,9 +4235,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:13.155Z"
+        "enriched_at": "2026-08-26T02:24:52.928Z"
       },
-      "timestamp": "2026-08-15T02:14:14.545Z"
+      "timestamp": "2026-08-26T02:24:54.340Z"
     },
     "pornbox": {
       "intel": {
@@ -4250,17 +4250,17 @@
             "score": 1
           },
           {
-            "title": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol",
-            "url": "https://greatis.com/unhackme/help/remove/remove-pornbox-com-completely.htm",
-            "snippet": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol\n\n## What is PORNBOX.COM?\n\n## Investigation Target: PORNBOX.COM\n\nCase: 9786 Investigation Date: March 20, 2024\n\n## Verdict:\n\nPORNBOX.COM ",
-            "published": null,
+            "title": "CVE-2025-12122 – popup-box Proof of Concept - Atomic Edge",
+            "url": "https://atomicedge.io/cve-proof/cve-2025-12122-popup-box-version-3-2-12-medium-vulnerability-proof-of-concept/",
+            "snippet": "CVE-2025-12122 – popup-box Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-12122: Popup Box – Easily Create WordPress Popups <= 3.2.12 Authenticated (Contributor+) Stored Cross-",
+            "published": "2026-02-17T17:24:04.000Z",
             "score": 0.5
           },
           {
-            "title": "Pornhub Hack Earns Researchers $22,000 | Threatpost",
-            "url": "https://threatpost.com/pornhub-hack-earns-researchers-22000/119450/",
-            "snippet": "Pornhub Hack Earns Researchers $22,000 | Threatpost \n\nAuthor: Tom Spring\n\nJuly 25, 2016 1:01 pm\n\nminute read\n\nShare this article:\n\nResearchers found a serious vulnerability in PHP code that could have",
-            "published": "2016-07-25T17:01:30.000Z",
+            "title": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol",
+            "url": "https://greatis.com/unhackme/help/remove/remove-pornbox-com-completely.htm",
+            "snippet": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol\n\n# Remove PORNBOX.COM virus (Removal Guide)\n\n## What is PORNBOX.COM?\n\n## Investigation Target: PORNBOX.COM\n\nCase: 9786 Investigation Dat",
+            "published": null,
             "score": 0
           }
         ],
@@ -4274,25 +4274,25 @@
             "score": 1
           },
           {
-            "title": "pbuff07/PoCBox",
-            "url": "https://github.com/pbuff07/PoCBox",
-            "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
+            "title": "sp00nznet/pwnbox",
+            "url": "https://github.com/sp00nznet/pwnbox",
+            "snippet": "# sp00nznet/pwnbox\n\nPPPwn appliance for Proxmox LXC with a web UI\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-19T17:09:12Z\n\n## Languages\n\n- CSS\n- HT",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "sp00nznet/pwnbox",
-            "url": "https://github.com/sp00nznet/pwnbox",
-            "snippet": "# sp00nznet/pwnbox\n\nPPPwn appliance for Proxmox LXC with a web UI\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-19T17:09:12Z\n\n## Languages\n\n- CSS\n- HT",
+            "title": "pbuff07/PoCBox",
+            "url": "https://github.com/pbuff07/PoCBox",
+            "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:14.545Z"
+        "enriched_at": "2026-08-26T02:24:54.340Z"
       },
-      "timestamp": "2026-08-15T02:14:15.875Z"
+      "timestamp": "2026-08-26T02:24:55.716Z"
     },
     "tron_dao": {
       "intel": {
@@ -4300,7 +4300,7 @@
           {
             "title": "Medium",
             "url": "https://0d.dwalletlabs.com/game-of-tron-critical-0-day-in-tron-multi-signature-wallets-2c3e90668dc0",
-            "snippet": "MediumGame of TRON: Critical 0-Day in TRON Multi-Signature Wallets | by Elad Ernst | 0d--\n\nSign up\n\nGet app\n\nSign up\n\n## 0d--\n\n0d is the offensive cybersecurity research team of @dwalletlabs\n\nBlockcha",
+            "snippet": "Medium\n\n# Game of TRON: Critical 0-Day in TRON Multi-Signature Wallets\n\nMay 30, 2023\n\nPress enter or click to view image in full size\n\n## Overview\n\nWe are 0d, the cybersecurity research team at dWalle",
             "published": "2023-05-30T10:09:23.000Z",
             "score": 1
           },
@@ -4336,18 +4336,18 @@
             "score": 0.5
           },
           {
-            "title": "trx drainer",
-            "url": "https://gist.github.com/phishdestroy/9985a35bdc11a5cc0a44abf7a6119713",
-            "snippet": "# trx drainer\n\n- Owner: phishdestroy\n- Created: 2026-02-08T22:36:54Z\n- Public: no\n- Comments: 0\n- Forks: 0\n\n## gistfile1.txt\n\nLanguage: Text\n\n# 🔴 BUYTRX Approval Drainer Kit — Full Infrastructure Tea",
+            "title": "DK27ss/Truebit-26.44M-PoC",
+            "url": "https://github.com/DK27ss/Truebit-26.44M-PoC",
+            "snippet": "# DK27ss/Truebit-26.44M-PoC\n\nmiscalculation driving overflow in `_calculatePurchasePrice` allows arbitrary mint\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:15.875Z"
+        "enriched_at": "2026-08-26T02:24:55.716Z"
       },
-      "timestamp": "2026-08-15T02:14:17.274Z"
+      "timestamp": "2026-08-26T02:24:57.537Z"
     },
     "superbet": {
       "intel": {
@@ -4355,7 +4355,7 @@
           {
             "title": "Medium",
             "url": "https://medium.com/@m.habibgpi/unauthenticated-game-demo-access-in-superbets-gaming-api-a-security-deep-dive-014260279ff3",
-            "snippet": "Medium🎮 Unauthenticated Game Demo Access in Superbet’s Gaming API — A Security Deep Dive | by Muhammad Habib | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\n# 🎮 Unauthenticated Game Demo Access in",
+            "snippet": "Medium🎮 Unauthenticated Game Demo Access in Superbet’s Gaming API — A Security Deep Dive | by Muhammad Habib | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## Muhammad Habib\n\nExploring the depths of cybersecur",
             "published": "2025-06-04T12:19:12.000Z",
             "score": 1
           },
@@ -4369,7 +4369,7 @@
           {
             "title": "Superbet Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/superbet/",
-            "snippet": "Superbet Bug Bounty Program - Bug Bounties\n\n# Superbet\n\nTop 10K site\n\nBounty\n\n## Program Details\n\nHandle superbet Managed Yes\n\n## Response Metrics\n\nResponse Time 15 days Bounty Time 209 days\n\nResponse",
+            "snippet": "Superbet Bug Bounty Program - Bug Bounties\n\n# Superbet\n\nTop 10K site\n\nBounty\n\n## Program Details\n\nHandle superbet Managed Yes\n\n## Response Metrics\n\nResponse Time 15 days Bounty Time 126 days\n\nResponse",
             "published": null,
             "score": 0
           }
@@ -4377,16 +4377,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "src/test/2025-07/SuperRare_exp.sol",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-07/SuperRare_exp.sol",
-            "snippet": "# src/test/2025-07/SuperRare_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.15;\n\nimport \"../basetest.sol\";\nimport \"../i",
+            "title": "icarot/superUpset",
+            "url": "https://github.com/icarot/superUpset/",
+            "snippet": "# icarot/superUpset\n\nThis is a tool focused in exploit the default session configuration of Superset, that is Flask-based, and it depends on the another tool called flask-unsign (https://github.com/Pa",
             "published": null,
             "score": 1
           },
           {
-            "title": "icarot/superUpset",
-            "url": "https://github.com/icarot/superUpset/",
-            "snippet": "# icarot/superUpset\n\nThis is a tool focused in exploit the default session configuration of Superset, that is Flask-based, and it depends on the another tool called flask-unsign (https://github.com/Pa",
+            "title": "src/test/2025-07/SuperRare_exp.sol",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-07/SuperRare_exp.sol",
+            "snippet": "# src/test/2025-07/SuperRare_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.15;\n\nimport \"../basetest.sol\";\nimport \"../i",
             "published": null,
             "score": 0.5
           },
@@ -4400,9 +4400,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:17.274Z"
+        "enriched_at": "2026-08-26T02:24:57.537Z"
       },
-      "timestamp": "2026-08-15T02:14:18.693Z"
+      "timestamp": "2026-08-26T02:24:58.922Z"
     },
     "magic-eden": {
       "intel": {
@@ -4446,18 +4446,18 @@
             "score": 0.5
           },
           {
-            "title": "camerodev/solana-nft-sniper",
-            "url": "https://github.com/slickcharmer/solana-nft-sniper",
-            "snippet": "# Repository: camerodev/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (93.3%), CSS (3.5",
-            "published": "2024-03-14T01:34:27.000Z",
+            "title": "src/test/2026-07/MOKE_exp.sol",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2026-07/MOKE_exp.sol",
+            "snippet": "# src/test/2026-07/MOKE_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: MIT\npragma solidity ^0.8.20;\n\nimport \"forge-std/Test.sol\";\n\n// MOKE (Moke) - unp",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:18.693Z"
+        "enriched_at": "2026-08-26T02:24:58.923Z"
       },
-      "timestamp": "2026-08-15T02:14:20.918Z"
+      "timestamp": "2026-08-26T02:25:00.280Z"
     },
     "boozt": {
       "intel": {
@@ -4470,16 +4470,16 @@
             "score": 1
           },
           {
-            "title": "Boozt Fashion Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/boozt-fashion/",
-            "snippet": "Boozt Fashion Bug Bounty Program - Bug Bounties\n\n# Boozt Fashion\n\nTop 100K site\n\nBounty Full Safe Harbor\n\n## Program Details\n\nHandle boozt Managed Yes\n\n## Response Metrics\n\nResponse Time 4 days Bounty",
+            "title": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com",
+            "url": "https://www.bugbountyhunter.com/program?id=boozt",
+            "snippet": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com\n\n# Bug Bounty Hunter \n\n### Boozt Fashion AB Program Statistics\n\n 28 total issues disclosed \n\n $1,830 total paid publicly \n\n Most di",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Boozt Fashion AB - HackerOne Bug Reports",
-            "url": "https://h1.security.nathan.sx/boozt.html",
-            "snippet": "Boozt Fashion AB - HackerOne Bug Reports\n\nPublic Boozt Fashion AB bug reports.\n\n4,419 Bug Reports - $2,030,173 Paid Out Last Updated: 12th September, 2017\n\n| Team | Bounty | Title |\n| --- | --- | --- ",
+            "title": "Boozt Fashion Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/boozt-fashion/",
+            "snippet": "Boozt Fashion Bug Bounty Program - Bug Bounties\n\n# Boozt Fashion\n\nTop 100K site\n\nBounty Full Safe Harbor\n\n## Program Details\n\nHandle boozt Managed Yes\n\n## Response Metrics\n\nResponse Time 4 days Bounty",
             "published": null,
             "score": 0
           }
@@ -4510,9 +4510,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:20.918Z"
+        "enriched_at": "2026-08-26T02:25:00.280Z"
       },
-      "timestamp": "2026-08-15T02:14:22.287Z"
+      "timestamp": "2026-08-26T02:25:01.690Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -4542,32 +4542,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "Boreas37/CVE-2026-64638-PoC-XSS2Shell-",
-            "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
-            "snippet": "# Boreas37/CVE-2026-64638-PoC-XSS2Shell-\n\nXSS2Shell (CVE-2026-64638) WordPress pre-auth XSS to RCE chain — PoC exploit + defensive audit tool + nuclei template\n\n- Stars: 22\n- Forks: 5\n- Watchers: 22\n-",
+            "title": "panchocosil/CVE-2026-65400-poc",
+            "url": "https://github.com/panchocosil/CVE-2026-65400-poc",
+            "snippet": "# panchocosil/CVE-2026-65400-poc\n\nRead-only PoC for CVE-2026-65400 — macOS Screen Sharing (screensharingd) pre-auth SRP bypass giving root file read. Patched in macOS 26.6.1 / 15.7.9 / 14.8.9.\n\n- Star",
             "published": null,
             "score": 1
           },
           {
             "title": "0xCyberstan/CVE-2026-42533-POC",
             "url": "https://github.com/0xCyberstan/CVE-2026-42533-POC",
-            "snippet": "# 0xCyberstan/CVE-2026-42533-POC\n\nCVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0",
+            "snippet": "# 0xCyberstan/CVE-2026-42533-POC\n\nCVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "4minx/CVE-2026-64638",
-            "url": "https://github.com/4minx/CVE-2026-64638",
-            "snippet": "# 4minx/CVE-2026-64638\n\nCVE-2026-64638 (XSS2shell) POC.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-08T08:48:02Z\n\n## Languages\n\n- HTML\n\n## Top Contr",
+            "title": "Boreas37/CVE-2026-64638-PoC-XSS2Shell-",
+            "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
+            "snippet": "# Boreas37/CVE-2026-64638-PoC-XSS2Shell-\n\nXSS2Shell (CVE-2026-64638) WordPress pre-auth XSS to RCE chain — PoC exploit + defensive audit tool + nuclei template\n\n- Stars: 46\n- Forks: 8\n- Watchers: 46\n-",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-15T02:14:22.288Z"
+        "enriched_at": "2026-08-26T02:25:01.690Z"
       },
-      "timestamp": "2026-08-15T02:14:23.587Z"
+      "timestamp": "2026-08-26T02:25:03.118Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -6179,9 +6179,9 @@
           },
           {
             "title": "Galaxy-sc/CVE-2026-23830-SandBreak",
-            "url": "https://github.com/Galaxy-sc/CVE-2026-23830-SandBreak",
-            "snippet": "# Repository: Galaxy-sc/CVE-2026-23830-SandBreak\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Go\n- Languages: Go\n- Default branch: main\n- Created: 2026-01-28T12:32:07Z\n- L",
-            "published": "2026-01-28T12:32:07.000Z",
+            "url": "https://github.com/Galaxy-sc/SandBreak",
+            "snippet": "# Galaxy-sc/CVE-2026-23830-SandBreak\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-28T12:32:07Z\n\n## Languages\n\n- Go\n\n## Top Contributors\n\n- Galaxy-sc ",
+            "published": null,
             "score": 0.5
           },
           {
@@ -6194,10 +6194,10 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-19T02:18:40.409Z"
+        "enriched_at": "2026-08-26T02:24:48.656Z"
       },
-      "timestamp": "2026-08-19T02:18:41.832Z"
+      "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-08-25T02:18:30.029Z"
+  "lastRun": "2026-08-26T02:25:03.119Z"
 }
