@@ -1437,9 +1437,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:39.460Z"
+        "enriched_at": "2026-08-27T10:58:53.950Z"
       },
-      "timestamp": "2026-08-20T02:17:41.023Z"
+      "timestamp": "2026-08-27T10:58:55.460Z"
     },
     "twilio": {
       "intel": {
@@ -1454,7 +1454,7 @@
           {
             "title": "CVE-2026-4984: Twilio Integration Information Disclosure",
             "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4984/",
-            "snippet": "CVE-2026-4984: Twilio Integration Information Disclosure\n\nSkip to main content\n\nA Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection. Six years running. Find Out Why\n\nSingularity Mark",
+            "snippet": "CVE-2026-4984: Twilio Integration Information Disclosure\n\nSkip to main content\n\nOneCon26: Gain the advantage in the AI era. Oct. 20–22 in Las Vegas. Register Now\n\nSingularity Marketplace\n\nOne-Click In",
             "published": "2026-03-27T15:17:03.000Z",
             "score": 0.5
           },
@@ -1469,32 +1469,32 @@
         "twitter": [],
         "github": [
           {
+            "title": "Malicious code in twilio-hackerone-poc-afe6937c (npm) · GHSA-967c-3f68-4gxj · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/GHSA-967c-3f68-4gxj",
+            "snippet": "Malicious code in twilio-hackerone-poc-afe6937c (npm) · GHSA-967c-3f68-4gxj · GitHub Advisory Database · GitHub\n\n## Malicious code in twilio-hackerone-poc-afe6937c (npm)\n\nMalware Published Aug 15, 202",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Pipecat: Telephony WebSocket `/ws` Unauthenticated Call-Control Abuse via Attacker-Supplied Call SID · CVE-2026-54695 · GitHub Advisory Database · GitHub",
             "url": "https://github.com/advisories/ghsa-j8cv-x86q-rj85",
             "snippet": "Pipecat: Telephony WebSocket `/ws` Unauthenticated Call-Control Abuse via Attacker-Supplied Call SID · CVE-2026-54695 · GitHub Advisory Database · GitHub\n\n## Pipecat: Telephony WebSocket `/ws` Unauthe",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "The Twilio integration webhook handler accepts any POST... · CVE-2026-4984 · GitHub Advisory Database · GitHub",
             "url": "https://github.com/advisories/GHSA-6mjh-67rm-ph7x",
             "snippet": "The Twilio integration webhook handler accepts any POST... · CVE-2026-4984 · GitHub Advisory Database · GitHub\n\n## The Twilio integration webhook handler accepts any POST...\n\nHigh severity Unreviewed ",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "[Bug]: Unauthenticated Remote Code Execution via SMS Webhook — Missing Twilio Signature Validation · Issue #7089 · NousResearch/hermes-agent",
-            "url": "https://github.com/NousResearch/hermes-agent/issues/7089",
-            "snippet": "# Issue: NousResearch/hermes-agent #7089\n\n- Repository: NousResearch/hermes-agent | The agent that grows with you | 215K stars | Python\n\n## [Bug]: Unauthenticated Remote Code Execution via SMS Webhook",
-            "published": "2026-04-10T10:02:21.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:41.024Z"
+        "enriched_at": "2026-08-27T10:58:55.461Z"
       },
-      "timestamp": "2026-08-20T02:17:42.473Z"
+      "timestamp": "2026-08-27T10:58:56.989Z"
     },
     "doordash": {
       "intel": {
@@ -1531,25 +1531,25 @@
             "score": 1
           },
           {
-            "title": "mrx-arafat/CVE-2026-63030-POC",
-            "url": "https://github.com/mrx-arafat/CVE-2026-63030-POC",
-            "snippet": "# mrx-arafat/CVE-2026-63030-POC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-07-18T17:07:39Z\n\n## Languages\n\n- Python\n\n## Top Cont",
+            "title": "francisschmaltz/doordash-cli-mcp",
+            "url": "https://github.com/francisschmaltz/doordash-cli-mcp",
+            "snippet": "# francisschmaltz/doordash-cli-mcp\n\nLocal Streamable HTTP MCP wrapper for DoorDash CLI\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-31T00:24:59Z\n\n## ",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Stuub/WGDashboard-v4.3.2-Full-Read-SSRF-via-Webhooks-PoC",
-            "url": "https://github.com/Stuub/WGDashboard-v4.3.2-Full-Read-SSRF-via-Webhooks-PoC",
-            "snippet": "# Stuub/WGDashboard-v4.3.2-Full-Read-SSRF-via-Webhooks-PoC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-04-06T20:05:57Z\n\n## Languages\n\n- Python\n\n## Top ",
+            "title": "shivanished/doordash-mcp",
+            "url": "https://github.com/shivanished/doordash-mcp",
+            "snippet": "# shivanished/doordash-mcp\n\ndoordash mcp so agents without shell access can order food\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: upgrade/dd-cli-v0.",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:42.473Z"
+        "enriched_at": "2026-08-27T10:58:56.989Z"
       },
-      "timestamp": "2026-08-20T02:17:43.992Z"
+      "timestamp": "2026-08-27T10:58:58.601Z"
     },
     "robinhood": {
       "intel": {
@@ -1586,10 +1586,10 @@
             "score": 1
           },
           {
-            "title": "README.md",
+            "title": "robinhood-sniper-bot/README.md at master · LaChance-Lab/robinhood-sniper-bot · GitHub",
             "url": "https://github.com/LaChance-Lab/robinhood-sniper-bot/blob/master/README.md",
-            "snippet": "# README.md\n\n- Branch: master\n- Repository: LaChance-Lab/robinhood-sniper-bot\n\n---\n\n# Robinhood Sniper Bot\n\nA token monitor and trading bot for Robinhood Chain (EVM). It watches DEX factories for newl",
-            "published": null,
+            "snippet": "robinhood-sniper-bot/README.md at master · LaChance-Lab/robinhood-sniper-bot · GitHub\n\n## FilesExpand file tree\n\nmaster\n\n# README.md\n\nBlame\n\nBlame\n\nView commit history for this file.\n\n185 lines (133 l",
+            "published": "2025-12-05T10:02:29.000Z",
             "score": 0.5
           },
           {
@@ -1602,9 +1602,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:43.992Z"
+        "enriched_at": "2026-08-27T10:58:58.601Z"
       },
-      "timestamp": "2026-08-20T02:17:45.501Z"
+      "timestamp": "2026-08-27T10:59:00.134Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1657,9 +1657,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:45.501Z"
+        "enriched_at": "2026-08-27T10:59:00.134Z"
       },
-      "timestamp": "2026-08-20T02:17:46.996Z"
+      "timestamp": "2026-08-27T10:59:01.663Z"
     },
     "banco_plata": {
       "intel": {
@@ -1712,9 +1712,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:46.997Z"
+        "enriched_at": "2026-08-27T10:59:01.663Z"
       },
-      "timestamp": "2026-08-20T02:17:48.487Z"
+      "timestamp": "2026-08-27T10:59:03.172Z"
     },
     "netscaler_public_program": {
       "intel": {
@@ -1760,16 +1760,16 @@
           {
             "title": "watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452",
             "url": "https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452",
-            "snippet": "# watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452\n\nCVE-2026-8452 PreAuth RCE\n\n- Stars: 55\n- Forks: 10\n- Watchers: 55\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-14",
+            "snippet": "# watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452\n\nCVE-2026-8452 PreAuth RCE\n\n- Stars: 58\n- Forks: 13\n- Watchers: 58\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-14",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:48.487Z"
+        "enriched_at": "2026-08-27T10:59:03.172Z"
       },
-      "timestamp": "2026-08-20T02:17:49.934Z"
+      "timestamp": "2026-08-27T10:59:04.706Z"
     },
     "meesho_bbp": {
       "intel": {
@@ -5849,24 +5849,24 @@
           },
           {
             "title": "exploit.py",
-            "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: adriyansyah-mf/cve-2026-41940-poc\n\n---\n\nimport argparse\nimport base64\nimport json\nimport re\nimport sys\nimport urllib.parse\nimport requests\nimport urllib3\n\nur",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
             "published": null,
             "score": 0.5
           },
           {
             "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: adriyansyah-mf/cve-2026-41940-poc\n\n---\n\nimport argparse\nimport base64\nimport json\nimport re\nimport sys\nimport urllib.parse\nimport requests\nimport urllib3\n\nur",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:37.954Z"
+        "enriched_at": "2026-08-27T10:58:52.358Z"
       },
-      "timestamp": "2026-08-20T02:17:39.460Z"
+      "timestamp": "2026-08-27T10:58:53.950Z"
     },
     "anthropic": {
       "intel": {
@@ -5929,7 +5929,7 @@
           {
             "title": "Medium",
             "url": "https://medium.com/agoda-engineering/how-agoda-works-with-hackers-to-strengthen-its-security-2e4129299b8b",
-            "snippet": "MediumInside Agoda’s Bug Bounty Program: How We Stay Ahead of Cyber Threats | by Agoda Engineering | Agoda Engineering & Design | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSi",
+            "snippet": "MediumInside Agoda’s Bug Bounty Program: How We Stay Ahead of Cyber Threats | by Agoda Engineering | Agoda Engineering & Design | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## Agoda Engineering & Design\n\nLear",
             "published": "2025-02-19T06:19:12.000Z",
             "score": 1
           },
@@ -5965,18 +5965,18 @@
             "score": 0.5
           },
           {
-            "title": "factden/agoda-hotel-reviews-scraper",
-            "url": "https://github.com/factden/agoda-hotel-reviews-scraper",
-            "snippet": "# factden/agoda-hotel-reviews-scraper\n\nScrape Agoda hotel reviews at scale: scores, full text, photos, traveler type, stay dates & owner responses. No API key. JSON/CSV export.\n\n- Stars: 0\n- Forks: 0\n",
+            "title": "README.md",
+            "url": "https://github.com/factden/agoda-hotel-reviews-scraper/blob/main/README.md",
+            "snippet": "# README.md\n\n- Branch: main\n- Repository: factden/agoda-hotel-reviews-scraper\n\n---\n\n# Agoda Hotel Reviews Scraper\n\n> Scrape **Agoda hotel reviews** at scale — guest **scores** (/10), full **original +",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:36.444Z"
+        "enriched_at": "2026-08-27T10:58:50.841Z"
       },
-      "timestamp": "2026-08-20T02:17:37.954Z"
+      "timestamp": "2026-08-27T10:58:52.358Z"
     },
     "yuga_labs": {
       "intel": {
@@ -6106,9 +6106,9 @@
             "score": 0.5
           },
           {
-            "title": "Wolt Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/wolt/",
-            "snippet": "Wolt Bug Bounty Program - Bug Bounties\n\n# Wolt\n\nTop 10K site\n\nBounty\n\n## Program Details\n\nHandle wolt Managed Yes\n\n## Response Metrics\n\nResponse Time 40 days Bounty Time 40 days\n\nResponse Efficiency\n\n",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/wolt",
+            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
             "published": null,
             "score": 0
           }
@@ -6132,16 +6132,16 @@
           {
             "title": "sowarma/wp2shell-PoC",
             "url": "https://github.com/sowarma/wp2shell-PoC",
-            "snippet": "# sowarma/wp2shell-PoC\n\nCVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept\n\n- Stars: 789\n- Forks: 180\n- Watchers: 789\n- Open issues: 2\n- Default branch: main\n- Created: 2026-08-05T12:48:03Z\n\n#",
+            "snippet": "# sowarma/wp2shell-PoC\n\nCVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept\n\n- Stars: 914\n- Forks: 215\n- Watchers: 914\n- Open issues: 2\n- Default branch: main\n- Created: 2026-08-05T12:48:03Z\n\n#",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-20T02:17:34.888Z"
+        "enriched_at": "2026-08-27T10:58:49.195Z"
       },
-      "timestamp": "2026-08-20T02:17:36.444Z"
+      "timestamp": "2026-08-27T10:58:50.841Z"
     },
     "vercel_sandbox": {
       "intel": {
@@ -6199,5 +6199,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-08-26T02:25:03.119Z"
+  "lastRun": "2026-08-27T10:59:04.706Z"
 }
