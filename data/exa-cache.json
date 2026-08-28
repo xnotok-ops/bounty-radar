@@ -1822,9 +1822,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:29.461Z"
+        "enriched_at": "2026-08-28T12:33:45.113Z"
       },
-      "timestamp": "2026-08-21T02:23:30.878Z"
+      "timestamp": "2026-08-28T12:33:46.834Z"
     },
     "braze_inc": {
       "intel": {
@@ -4581,7 +4581,7 @@
           },
           {
             "title": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman",
-            "url": "https://timesofoman.com/article/122530-vodafone-oman-challenges-local-and-international-ethical-hackers-to-to-take-their-best-shot",
+            "url": "https://cdn-4.timesofoman.com/article/122530-vodafone-oman-challenges-local-and-international-ethical-hackers-to-to-take-their-best-shot",
             "snippet": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman\n\n# Vodafone Oman challenges local and international ethical hackers to to take their best sh",
             "published": null,
             "score": 0.5
@@ -4611,18 +4611,18 @@
             "score": 0.5
           },
           {
-            "title": "Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset",
-            "url": "https://github.com/Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset",
-            "snippet": "# Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-07T14:16:17Z\n\n##",
+            "title": "redpack-kr/CVE-2024-5243-pwn2own-toronto-2023",
+            "url": "https://github.com/redpack-kr/CVE-2024-5243-pwn2own-toronto-2023",
+            "snippet": "# redpack-kr/CVE-2024-5243-pwn2own-toronto-2023\n\nPre-authentication Remote Code Execution exploit for TP-Link Omada ER605 router via DDNS client daemon (cmxddnsd)\n\n- Stars: 0\n- Forks: 1\n- Watchers: 0\n",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-17T02:20:23.116Z"
+        "enriched_at": "2026-08-28T12:33:46.834Z"
       },
-      "timestamp": "2026-08-17T02:20:24.637Z"
+      "timestamp": "2026-08-28T12:33:48.499Z"
     },
     "frontegg": {
       "intel": {
@@ -4675,9 +4675,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-19T02:18:41.832Z"
+        "enriched_at": "2026-08-28T12:33:48.499Z"
       },
-      "timestamp": "2026-08-19T02:18:43.230Z"
+      "timestamp": "2026-08-28T12:33:50.104Z"
     },
     "indrive": {
       "intel": {
@@ -4685,7 +4685,7 @@
           {
             "title": "Medium",
             "url": "https://infosecwriteups.com/critical-blind-sql-injection-leads-to-4-134-7-30-days-d8918ff3d2d0",
-            "snippet": "Medium\n\n# Critical Blind SQL Injection leads to $4,134 (7/30 DAYS)\n\nJan 15, 2025\n\nUnderstanding the Risk: How a Blind SQL Injection Was Discovered in inDrive\n\n## Hi Bug Bounty Hunters!!!\n\nI’m a securi",
+            "snippet": "MediumCritical Blind SQL Injection leads to $4,134 (7/30 DAYS) | by 0day stories | InfoSec Write-ups\n\nSign up\n\nGet app\n\nSign up\n\n## InfoSec Write-ups\n\nA collection of write-ups from the best hackers i",
             "published": "2025-01-15T14:45:41.000Z",
             "score": 1
           },
@@ -4730,9 +4730,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-19T02:18:43.231Z"
+        "enriched_at": "2026-08-28T12:33:50.104Z"
       },
-      "timestamp": "2026-08-19T02:18:44.555Z"
+      "timestamp": "2026-08-28T12:33:51.705Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4778,9 +4778,9 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-08-19T02:18:44.556Z"
+        "enriched_at": "2026-08-28T12:33:51.705Z"
       },
-      "timestamp": "2026-08-19T02:18:46.010Z"
+      "timestamp": "2026-08-28T12:33:53.370Z"
     },
     "rei_bbp": {
       "intel": {
@@ -4826,16 +4826,16 @@
           {
             "title": "jumpycastle/rre-burp",
             "url": "https://github.com/jumpycastle/rre-burp",
-            "snippet": "# Repository: jumpycastle/rre-burp\n\nBurp extension for Recursive Request Exploits (RRE) — DEFCON 2025\n\n- Stars: 124\n- Forks: 13\n- Watchers: 2\n- Open issues: 0\n- Primary language: Python\n- Languages: P",
-            "published": "2025-07-21T07:42:42.000Z",
+            "snippet": "# jumpycastle/rre-burp\n\nBurp extension for Recursive Request Exploits (RRE) — DEFCON 2025\n\n- Stars: 124\n- Forks: 13\n- Watchers: 124\n- Open issues: 0\n- Default branch: main\n- Created: 2025-07-21T07:42:",
+            "published": "2025-07-21T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-19T02:18:46.011Z"
+        "enriched_at": "2026-08-28T12:33:53.370Z"
       },
-      "timestamp": "2026-08-19T02:18:47.391Z"
+      "timestamp": "2026-08-28T12:33:54.969Z"
     },
     "mergify": {
       "intel": {
@@ -4888,9 +4888,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-19T02:18:47.391Z"
+        "enriched_at": "2026-08-28T12:33:54.969Z"
       },
-      "timestamp": "2026-08-19T02:18:48.805Z"
+      "timestamp": "2026-08-28T12:33:56.696Z"
     },
     "coinhako": {
       "intel": {
@@ -4980,49 +4980,49 @@
             "score": 1
           },
           {
-            "title": "Private Bug Bounty Program with Bugcrowd",
-            "url": "https://www.arkoselabs.com/latest-news/arkose-labs-announces-private-bug-bounty-program-with-bugcrowd-to-strengthen-fraud-prevention-system/",
-            "snippet": "Private Bug Bounty Program with Bugcrowd\n\nAfter Bots — a new book by our founder on classifying AI agents. Now available\n\nGet Your Free Copy\n\nWhy Arkose\n\nPlatform\n\nSolutions\n\nAgentic AI Partners\n\nReso",
-            "published": "2019-07-24T14:44:15.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement",
             "url": "https://blog.crawlex.net/blog/arkose-funcaptcha-internals/",
             "snippet": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement Skip to content\n\nMost CAPTCHAs ask you to prove you are human by doing something a computer is supposed to be bad at: re",
             "published": "2026-05-16T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Arkose Labs' token flow: from session to verdict, and how difficulty scales",
+            "url": "https://blog.crawlex.net/blog/arkose-labs-token-flow/",
+            "snippet": "Arkose Labs' token flow: from session to verdict, and how difficulty scales Skip to content\n\nA user clicks submit. Somewhere between that click and your server deciding whether to honour the request, ",
+            "published": "2026-05-15T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "title": "buggerlogger/arkose-solver",
+            "url": "https://github.com/buggerlogger/arkose-solver",
+            "snippet": "# buggerlogger/arkose-solver\n\nPure-Go Arkose Labs / FunCaptcha solver — produces sup=1 suppressed tokens (RSA-OAEP+AES-GCM envelope + ground-truth BDA). Library + HTTP server.\n\n- Stars: 18\n- Forks: 8\n",
             "published": null,
             "score": 1
           },
           {
-            "title": "rmhowe425/PoC-CVE-2026-9198",
-            "url": "https://github.com/rmhowe425/PoC-CVE-2026-9198",
-            "snippet": "# rmhowe425/PoC-CVE-2026-9198\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-05T17:44:08Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- rmhowe425 (5 ",
+            "title": "Newfies/arkose-solver",
+            "url": "https://github.com/Newfies/arkose-solver",
+            "snippet": "# Newfies/arkose-solver\n\nPure-Go Arkose Labs / FunCaptcha solver — produces sup=1 suppressed tokens (RSA-OAEP+AES-GCM envelope + ground-truth BDA). Library + HTTP server.\n\n- Stars: 0\n- Forks: 0\n- Watc",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "0xdak/CVE-2026-67340_exploit",
-            "url": "https://github.com/0xdak/CVE-2026-67340_exploit",
-            "snippet": "# 0xdak/CVE-2026-67340_exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-04T10:33:12Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- 0xdak (1 con",
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-19T02:18:48.805Z"
+        "enriched_at": "2026-08-28T12:33:56.696Z"
       },
-      "timestamp": "2026-08-19T02:18:50.312Z"
+      "timestamp": "2026-08-28T12:33:58.395Z"
     },
     "alsco": {
       "intel": {
@@ -5030,7 +5030,7 @@
           {
             "title": "Twitter",
             "url": "https://www.noscope.com/blog/cve-2026-35482-noscope-alf-rce",
-            "snippet": "How NoScope uncovered an authenticated remote code execution flaw in Alf.io's extension system. A single exposed Java binding turned that into full remote code execution on the underlying server.\n\n> T",
+            "snippet": "Blog\n\n# Security insights & updates\n\nUpdates, blog posts, analysis, and technical deep-dives\n\nCVE-2026-35482: NoScope Found an RCE Hidden Inside Alf.io's Extension Sandbox\n\nBlog\n\n# CVE-2026-35482: NoS",
             "published": "2026-06-04T00:15:58.000Z",
             "score": 1
           },
@@ -5044,7 +5044,7 @@
           {
             "title": "ALSCO Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/alsco/",
-            "snippet": "ALSCO Bug Bounty Program - Bug Bounties\n\n# ALSCO\n\nBounty Recognition Swag Full Safe Harbor \n\n## Program Details \n\n- Handle \n- alsco \n- Managed\n- No \n\n## Response Metrics \n\n- Response Time\n- 13 days \n\n",
+            "snippet": "ALSCO Bug Bounty Program - Bug Bounties\n\n# ALSCO\n\nBounty\n\nRecognition\n\nSwag Full Safe Harbor\n\n## Program Details\n\nHandle alsco Managed No\n\n## Response Metrics\n\nResponse Time 13 days\n\nResponse Efficien",
             "published": null,
             "score": 0
           }
@@ -5075,9 +5075,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-19T02:18:50.312Z"
+        "enriched_at": "2026-08-28T12:33:58.395Z"
       },
-      "timestamp": "2026-08-19T02:18:51.657Z"
+      "timestamp": "2026-08-28T12:33:59.967Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -6037,9 +6037,9 @@
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/abercrombie_fitch_bbp",
-            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "snippet": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne\n\ncollapse menu\n\nSecurity page\n\n## Program highlights\n\nClosed ScopeOnly accepts reports based on the listed scope.\n\nLearn more about Closed Sc",
             "published": null,
             "score": 1
           },
@@ -6084,9 +6084,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-19T02:18:51.657Z"
+        "enriched_at": "2026-08-28T12:33:59.968Z"
       },
-      "timestamp": "2026-08-19T02:18:53.159Z"
+      "timestamp": "2026-08-28T12:34:01.516Z"
     },
     "wolt": {
       "intel": {
@@ -6199,5 +6199,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-08-27T10:59:04.706Z"
+  "lastRun": "2026-08-28T12:34:01.516Z"
 }
