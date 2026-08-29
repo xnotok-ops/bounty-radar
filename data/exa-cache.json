@@ -1844,10 +1844,10 @@
             "score": 0.5
           },
           {
-            "title": "BrazeUI - Low Vulnerability - AIKIDO-2025-10027",
-            "url": "https://intel.aikido.dev/cve/AIKIDO-2025-10027",
-            "snippet": "BrazeUI - Low Vulnerability - AIKIDO-2025-10027\n\n# AIKIDO-2025-10027\n\nBrazeUI is vulnerable to Incorrect Authorization\n\nIncorrect Authorization Pre-CVE\n\nPublished Jan 20, 2025\n\n20\n\nLow Risk\n\n### This ",
-            "published": null,
+            "title": "CVE-2026-69152: brace-expansion DoS via unbounded intermediate arrays · SecureLayer7 Labs",
+            "url": "https://securelayer7.net/lab/cve-2026-69152-brace-expansion-dos-intermediate-arrays",
+            "snippet": "CVE-2026-69152: brace-expansion DoS via unbounded intermediate arrays · SecureLayer7 Labs\n\nhigh · 7.5 CVE-2026-69152 Aug 3, 2026\n\n# CVE-2026-69152: brace-expansion DoS via unbounded intermediate array",
+            "published": "2026-08-03T16:48:48.000Z",
             "score": 0
           }
         ],
@@ -1877,9 +1877,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:40.023Z"
+        "enriched_at": "2026-08-29T07:42:15.609Z"
       },
-      "timestamp": "2026-08-22T02:15:41.503Z"
+      "timestamp": "2026-08-29T07:42:17.202Z"
     },
     "kong": {
       "intel": {
@@ -1901,8 +1901,8 @@
           {
             "title": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI Cybersecurity",
             "url": "https://kensai.app/blog/kong-api-gateway-cve-2026-authentication-bypass-rate-limiting",
-            "snippet": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI Cybersecurity\n\nBack to Blog\n\nIs your Kong gateway exposed? Scan your API infrastructure for these CVEs and 331",
-            "published": "2026-04-02T10:41:16.000Z",
+            "snippet": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI Cybersecurity\n\nIs your Kong gateway exposed? Scan your API infrastructure for these CVEs and 331,910+ other vu",
+            "published": "2026-04-02T20:13:34.000Z",
             "score": 0
           }
         ],
@@ -1932,9 +1932,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:41.503Z"
+        "enriched_at": "2026-08-29T07:42:17.202Z"
       },
-      "timestamp": "2026-08-22T02:15:42.966Z"
+      "timestamp": "2026-08-29T07:42:18.827Z"
     },
     "whoop_bug_bounty": {
       "intel": {
@@ -1978,18 +1978,18 @@
             "score": 0.5
           },
           {
-            "title": "zordhalo/whoopsie",
-            "url": "https://github.com/zordhalo/whoopsie",
-            "snippet": "# Repository: zordhalo/whoopsie (fork of [OpenStrap/edge](https://github.com/OpenStrap/edge))\n\nWhoopsie — Reverse‑engineered WHOOP research with a PoC Flutter app and tiny backend.\n\n- Stars: 0\n- Forks",
-            "published": "2026-05-22T15:42:11.000Z",
+            "title": "christianmeurer/whoop-reader",
+            "url": "https://github.com/christianmeurer/whoop-reader",
+            "snippet": "# christianmeurer/whoop-reader\n\nOpen source BLE data reader for the Whoop 4.0 fitness band\n\n- Stars: 9\n- Forks: 2\n- Watchers: 9\n- Open issues: 2\n- License: MIT License\n- Default branch: master\n- Creat",
+            "published": "2026-04-08T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:42.966Z"
+        "enriched_at": "2026-08-29T07:42:18.828Z"
       },
-      "timestamp": "2026-08-22T02:15:44.449Z"
+      "timestamp": "2026-08-29T07:42:20.633Z"
     },
     "hubspot": {
       "intel": {
@@ -2042,9 +2042,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:44.450Z"
+        "enriched_at": "2026-08-29T07:42:20.633Z"
       },
-      "timestamp": "2026-08-22T02:15:45.850Z"
+      "timestamp": "2026-08-29T07:42:22.186Z"
     },
     "oppo_bbp": {
       "intel": {
@@ -2097,9 +2097,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:45.850Z"
+        "enriched_at": "2026-08-29T07:42:22.186Z"
       },
-      "timestamp": "2026-08-22T02:15:47.298Z"
+      "timestamp": "2026-08-29T07:42:23.756Z"
     },
     "1password_ctf": {
       "intel": {
@@ -2207,31 +2207,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:47.298Z"
+        "enriched_at": "2026-08-29T07:42:23.757Z"
       },
-      "timestamp": "2026-08-22T02:15:48.763Z"
+      "timestamp": "2026-08-29T07:42:25.310Z"
     },
     "bcny": {
       "intel": {
         "writeups": [
           {
+            "title": "The Browser Company of NYC | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/bcny?type=team",
+            "snippet": "The Browser Company of NYC | Bounty Policy | HackerOne\n\n## Introduction\n\nAt The Browser Company of New York, we care deeply about safeguarding the security and privacy of everyone who uses our product",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "CVE Assignment Policy | The Browser Company",
             "url": "https://www.thebrowser.company/security/cve-policy",
             "snippet": "CVE Assignment Policy | The Browser Company\n\n0 Online\n\nShow\n\nTheme\n\n## Overview\n\nWe participate in the Common Vulnerabilities and Exposures (CVE) Program as a CVE Numbering Authority. Our aim is to pu",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "The Browser Company of NYC Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/the-browser-company-of-nyc/",
             "snippet": "The Browser Company of NYC Bug Bounty Program - Bug Bounties\n\n# The Browser Company of NYC\n\nTop 1M site\n\nContact\n\nBounty\n\n## Program Details\n\nHandle bcny Managed Yes\n\n## Response Metrics\n\nResponse Tim",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Staff Security Software Engineer, Assistant Safety – The Browser Company – Job New York",
-            "url": "https://www.talent.com/view?id=63356e168e45",
-            "snippet": "Staff Security Software Engineer, Assistant Safety – The Browser Company – Job New York\n\nFind jobs\n\nStaff Security Software Engineer, Assistant SafetyThe Browser Company • New York, NY, United States\n",
             "published": null,
             "score": 0
           }
@@ -2262,9 +2262,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:48.764Z"
+        "enriched_at": "2026-08-29T07:42:25.310Z"
       },
-      "timestamp": "2026-08-22T02:15:50.295Z"
+      "timestamp": "2026-08-29T07:42:26.996Z"
     },
     "verily_life_sciences": {
       "intel": {
@@ -2272,14 +2272,14 @@
           {
             "title": "Verily Life Sciences | Security Program",
             "url": "https://ooosec.com/programs/verily-life-sciences",
-            "snippet": "Verily Life Sciences | Security Program\n\n## Verily Life Sciences\n\n## Details\n\n# Verily Life Sciences Bug Bounty Program\n\n## Introduction\n\nVerily is committed to building trust and protecting the priva",
+            "snippet": "Verily Life Sciences | Security Program\n\n## Verily Life Sciences\n\n# Verily Life Sciences\n\nBounty Range\n\n$100 - $6,000\n\nexternal program\n\n## Details\n\n# Verily Life Sciences Bug Bounty Program\n\n## Intro",
             "published": null,
             "score": 1
           },
           {
-            "title": "Verily Life Sciences | Safe Harbor | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/verily_life_sciences/safe_harbor",
-            "snippet": "Verily Life Sciences | Safe Harbor | HackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](https://hackerone.com/assets/static/hackerone_full_logo-FDENxp8i.svg)](https://hackerone.com/)",
+            "snippet": "HackerOne\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml",
             "published": null,
             "score": 0.5
           },
@@ -2301,10 +2301,10 @@
             "score": 1
           },
           {
-            "title": "JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "url": "https://github.com/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "snippet": "# Repository: JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud\n\nTechnical PoC for CVE-2026-2472 (GCP-2026-011): Unauthenticated and Stored Cross-Site Scripting (XSS) in google-cloud-aiplatform ",
-            "published": "2026-02-27T14:57:39.000Z",
+            "title": "SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm",
+            "url": "https://github.com/SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm",
+            "snippet": "# SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm\n\nPoC exploit chain for CVE-2026-15718: SpiderMonkey wasm baseline compiler array.fill missing-sync -> invalid pointer -> addrOf/fakeobj -> arbitra",
+            "published": null,
             "score": 0.5
           },
           {
@@ -2317,9 +2317,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:50.296Z"
+        "enriched_at": "2026-08-29T07:42:26.996Z"
       },
-      "timestamp": "2026-08-22T02:15:51.823Z"
+      "timestamp": "2026-08-29T07:42:28.529Z"
     },
     "neon_bbp": {
       "intel": {
@@ -2327,14 +2327,14 @@
           {
             "title": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon",
             "url": "https://neon.com/blog/neons-bug-bounty-program-with-hackerone-goes-public",
-            "snippet": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon\n\nOpen weight models are particularly fast in the Neon AI Gateway thanks to optimizations like prompt caching. Free to run during beta\n\nBack ",
+            "snippet": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon\n\n# Neon’s Bug Bounty Program with HackerOne Goes Public\n\nDoubling down on our commitment to security\n\nBusra Demir– Lead Security Engineer\n\nM",
             "published": "2025-03-01T00:08:55.000Z",
             "score": 1
           },
           {
             "title": "Bugbounty and Pentests at Neon - Neon",
             "url": "https://neon.com/blog/bugbounty-and-pentests-at-neon",
-            "snippet": "Bugbounty and Pentests at Neon - Neon\n\nOpen weight models are particularly fast in the Neon AI Gateway thanks to optimizations like prompt caching. Free to run during beta\n\nBack to Blog/ Company\n\n# Bu",
+            "snippet": "Bugbounty and Pentests at Neon - Neon\n\nA deep dive on the lakebase storage: S3 + WAL for the era of agents\n\nBack to Blog/ Company\n\n# Bugbounty and Pentests at Neon\n\nJoining forces with HackerOne to bu",
             "published": "2024-11-25T16:43:38.000Z",
             "score": 0.5
           },
@@ -2360,21 +2360,14 @@
             "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
             "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "0xCyberstan/CVE-2026-42533-POC",
-            "url": "https://github.com/0xCyberstan/CVE-2026-42533-POC",
-            "snippet": "# 0xCyberstan/CVE-2026-42533-POC\n\nCVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:51.823Z"
+        "total_results": 5,
+        "enriched_at": "2026-08-29T07:42:28.529Z"
       },
-      "timestamp": "2026-08-22T02:15:53.316Z"
+      "timestamp": "2026-08-29T07:42:30.065Z"
     },
     "bumba_bbp": {
       "intel": {
@@ -4140,17 +4133,17 @@
             "score": 1
           },
           {
-            "title": "1Win Online Betting Platform Breach (2024): 96 Million User Records Including Passport Numbers Exposed - ObscureIQ",
-            "url": "https://www.obscureiq.com/circulating-data-breach/1win-2024-vjh/",
-            "snippet": "1Win Online Betting Platform Breach (2024): 96 Million User Records Including Passport Numbers Exposed - ObscureIQ\n\n## 1Win 2024 Data Breach\n\n1Win Online Betting Platform Breach (2024): 96 Million Use",
-            "published": "2026-07-08T17:48:31.000Z",
-            "score": 0.5
-          },
-          {
             "title": "1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Leaked; High Risk of BEC & Supply-Chain Attacks",
             "url": "https://www.brinztech.com/breach-alerts/brinztech-alert-1win-betting-site-28gb-sql-db-96m-users-partners-employees-leaked-high-risk-of-bec-supply-chain-attacks/",
             "snippet": "1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Leaked; High Risk of BEC & Supply-Chain Attacks\n\n###### perm_phone_msgCall & WhatsApp : +971 52 603 9711\n\ntel:+971526039711\n\nsearch men",
             "published": "2025-10-31T20:19:46.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "1win Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/1win/",
+            "snippet": "1win Bug Bounty Program - Bug Bounties\n\n# 1win\n\nTop 100K site\n\nBounty\n\n## Program Details\n\nHandle 1win_com Managed No\n\n## Response Metrics\n\nResponse Time 8 days Bounty Time 353 days Resolution Time 15",
+            "published": null,
             "score": 0
           }
         ],
@@ -4180,9 +4173,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-22T02:15:38.555Z"
+        "enriched_at": "2026-08-29T07:42:13.996Z"
       },
-      "timestamp": "2026-08-22T02:15:40.023Z"
+      "timestamp": "2026-08-29T07:42:15.609Z"
     },
     "wisdomtree": {
       "intel": {
@@ -6199,5 +6192,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-08-28T12:34:01.516Z"
+  "lastRun": "2026-08-29T07:42:30.065Z"
 }
