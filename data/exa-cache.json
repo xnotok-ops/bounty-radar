@@ -2420,9 +2420,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:23:53.194Z"
+        "enriched_at": "2026-08-30T06:18:55.321Z"
       },
-      "timestamp": "2026-08-23T02:23:54.733Z"
+      "timestamp": "2026-08-30T06:18:56.833Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -2466,18 +2466,18 @@
             "score": 0.5
           },
           {
-            "title": "sonya75/starbucks-botdetection-cracked",
-            "url": "https://github.com/sonya75/starbucks-botdetection-cracked",
-            "snippet": "# sonya75/starbucks-botdetection-cracked\n\nStarbucks uses Shape Security for bot detection. This script is to pass that bot detection for any website using Shape Security, like Starbucks or Chipotle fo",
+            "title": "README.md",
+            "url": "https://github.com/forrest-orr/DoubleStar/blob/main/README.md",
+            "snippet": "# README.md\n\n- Branch: main\n- Repository: forrest-orr/DoubleStar\n\n---\n\n```\n________                 ___.    .__                 _________  __\n\\______ \\    ____   __ __\\_ |__  |  |    ____       /   __",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:23:54.733Z"
+        "enriched_at": "2026-08-30T06:18:56.833Z"
       },
-      "timestamp": "2026-08-23T02:23:56.265Z"
+      "timestamp": "2026-08-30T06:18:58.378Z"
     },
     "starbucks_china": {
       "intel": {
@@ -2530,9 +2530,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:23:56.265Z"
+        "enriched_at": "2026-08-30T06:18:58.378Z"
       },
-      "timestamp": "2026-08-23T02:23:57.785Z"
+      "timestamp": "2026-08-30T06:18:59.876Z"
     },
     "syfe_bbp": {
       "intel": {
@@ -2545,9 +2545,9 @@
             "score": 1
           },
           {
-            "title": "Security Report: IDOR Vulnerability in Syfe Bug Bounty Program | by Eng_mohaned Ashraf | Medium",
+            "title": "Medium",
             "url": "https://medium.com/@engmohaned550/security-report-idor-vulnerability-in-syfe-bug-bounty-program-cfee2f7dd9bd",
-            "snippet": "Security Report: IDOR Vulnerability in Syfe Bug Bounty Program | by Eng_mohaned Ashraf | Medium\n\nSign up\n\nGet app\n\nSign up\n\nPress enter or click to view image in full size\n\n# Security Report: IDOR Vul",
+            "snippet": "MediumSecurity Report: IDOR Vulnerability in Syfe Bug Bounty Program | by Eng_mohaned Ashraf | Medium\n\nSign up\n\nGet app\n\nSign up\n\nPress enter or click to view image in full size\n\n# Security Report: ID",
             "published": "2025-06-20T10:58:18.000Z",
             "score": 0.5
           },
@@ -2585,9 +2585,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:23:57.785Z"
+        "enriched_at": "2026-08-30T06:18:59.877Z"
       },
-      "timestamp": "2026-08-23T02:23:59.375Z"
+      "timestamp": "2026-08-30T06:19:01.346Z"
     },
     "nba-public": {
       "intel": {
@@ -2595,7 +2595,7 @@
           {
             "title": "NBA Public Bug Bounty — HackerOne bug bounty | BountyHunte.rs",
             "url": "https://bountyhunte.rs/programs/nba-public",
-            "snippet": "NBA Public Bug Bounty — HackerOne bug bounty | BountyHunte.rs\n\n# NBA Public Bug Bounty\n\nReward model\n\npaid\n\ngeneral platform\n\nLaunched\n\n7/31/2024\n\nprovider dated\n\nFreshness\n\n3h ago\n\nScope changed 8/4/",
+            "snippet": "NBA Public Bug Bounty — HackerOne bug bounty | BountyHunte.rs\n\nHackerOne\n\nbounty\n\nManaged\n\n# NBA Public Bug Bounty\n\nSubmit a report on HackerOne\n\nSign in for alerts Launched 7/31/2024\n\nReward model\n\np",
             "published": "2024-07-31T15:44:09.000Z",
             "score": 1
           },
@@ -2617,10 +2617,10 @@
         "twitter": [],
         "github": [
           {
-            "title": "fix: restrict access(all) var fields to prevent unauthenticated writes · 340c13d · dapperlabs/nba-smart-contracts",
+            "title": "340c13d fix: restrict access(all) var fields to prevent unauthenticated writes",
             "url": "https://github.com/dapperlabs/nba-smart-contracts/commit/340c13d516fcfedb41b05212d50c1b66e008d3d8",
-            "snippet": "# Commit: dapperlabs/nba-smart-contracts@340c13d\n\n- Repository: dapperlabs/nba-smart-contracts | Smart contracts and transactions for Topshot, the official NBA digital collectibles game on the Flow Bl",
-            "published": "2026-06-01T17:33:38.000Z",
+            "snippet": "# 340c13d fix: restrict access(all) var fields to prevent unauthenticated writes\n\n- SHA: 340c13d516fcfedb41b05212d50c1b66e008d3d8\n- Repository: dapperlabs/nba-smart-contracts\n- Author: fkenji\n- Date: ",
+            "published": null,
             "score": 1
           },
           {
@@ -2640,9 +2640,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:23:59.375Z"
+        "enriched_at": "2026-08-30T06:19:01.347Z"
       },
-      "timestamp": "2026-08-23T02:24:00.856Z"
+      "timestamp": "2026-08-30T06:19:02.866Z"
     },
     "circle-bbp": {
       "intel": {
@@ -2695,9 +2695,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:24:00.856Z"
+        "enriched_at": "2026-08-30T06:19:02.866Z"
       },
-      "timestamp": "2026-08-23T02:24:02.320Z"
+      "timestamp": "2026-08-30T06:19:04.335Z"
     },
     "varonis": {
       "intel": {
@@ -2727,32 +2727,32 @@
         "twitter": [],
         "github": [
           {
+            "title": "hypnguyen1209/CVE-2026-62911",
+            "url": "https://github.com/hypnguyen1209/CVE-2026-62911",
+            "snippet": "# hypnguyen1209/CVE-2026-62911\n\nPOC pre-auth RCE on Exchange\n\n- Stars: 102\n- Forks: 15\n- Watchers: 102\n- Open issues: 1\n- Default branch: main\n- Created: 2026-08-22T04:49:33Z\n\n## Languages\n\n- Python\n\n",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC",
             "url": "https://gist.github.com/4V4loon/54719b32c4dcef8d082b4ea4065fd541",
             "snippet": "# SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC\n\n- Owner: 4V4loon\n- Created: 2024-03-28T20:09:27Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## SharePwn_public.py\n\nLang",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "AzureADTrent/CVE-2025-4517-POC",
             "url": "https://github.com/AzureADTrent/CVE-2025-4517-POC-HTB",
             "snippet": "# Repository: AzureADTrent/CVE-2025-4517-POC\n\nPrivilege Escalation script for CVE-2025-4517\n\n- Stars: 9\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- Defau",
             "published": "2026-02-15T22:09:53.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "orsten-koethen/CVE-2026-41940-PoC",
-            "url": "https://github.com/orsten-koethen/CVE-2026-41940-PoC",
-            "snippet": "# orsten-koethen/CVE-2026-41940-PoC\n\nCVE-2026-41940 is a critical authentication bypass vulnerability affecting cPanel and WHM. This repository is designed to demonstrate its Proof-Of-Concept\n\n- Stars",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:24:02.321Z"
+        "enriched_at": "2026-08-30T06:19:04.335Z"
       },
-      "timestamp": "2026-08-23T02:24:03.843Z"
+      "timestamp": "2026-08-30T06:19:05.859Z"
     },
     "klarna": {
       "intel": {
@@ -2782,32 +2782,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "title": "BlackHatExploitation/Exploit-For-CVE-2026-18963",
+            "url": "https://github.com/BlackHatExploitation/Exploit-For-CVE-2026-18963",
+            "snippet": "# BlackHatExploitation/Exploit-For-CVE-2026-18963\n\nExploit for CVE-2026-18963 by BlackHatExploitation\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-25",
             "published": null,
             "score": 1
           },
           {
-            "title": "0xsha/KindaRails2Shell",
-            "url": "https://github.com/0xsha/KindaRails2Shell",
-            "snippet": "# 0xsha/KindaRails2Shell\n\nCVE-2026-66066 + File Read, RCE, Scanner, Lab \n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-07-31T16:51",
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Koberum/cve_2026_31431",
-            "url": "https://github.com/Koberum/cve_2026_31431",
-            "snippet": "# Koberum/cve_2026_31431\n\nExploit POC for CVE_2026_31431\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-08T09:41:39Z\n- Fork: yes\n\n## Languages\n\n- Pytho",
+            "title": "prot0tw/Keycloak_CVE-2026-18963_PoC",
+            "url": "https://github.com/Anhquan-1508/CVE-2026-18963",
+            "snippet": "# prot0tw/Keycloak_CVE-2026-18963_PoC\n\nThis repo is poc of cve-2026-18963. Please use it on legal products (lab, local,...).\n\n- Stars: 13\n- Forks: 0\n- Watchers: 13\n- Open issues: 0\n- Default branch: m",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:24:03.843Z"
+        "enriched_at": "2026-08-30T06:19:05.859Z"
       },
-      "timestamp": "2026-08-23T02:24:05.364Z"
+      "timestamp": "2026-08-30T06:19:07.432Z"
     },
     "unico_idtech": {
       "intel": {
@@ -2829,7 +2829,7 @@
           {
             "title": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com",
             "url": "https://bbscope.com/program/h1/unico_idtech",
-            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nRaw AI Enhanced\n\n14 In Scope\n\n2 Out of Scope\n\nIn-Scope Assets (14)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --",
+            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\nHackerOne View on HackerOne\n\nRawAI Enhanced\n\n14\n\nIn Scope\n\n2\n\nOut of Scope\n\nIn-Scope Assets (14)\n\nOut-of-Scope Assets (2)\n\n|",
             "published": null,
             "score": 0
           }
@@ -2844,25 +2844,25 @@
             "score": 1
           },
           {
+            "title": "unico-labs/unico-cbu-poc-vuejs",
+            "url": "https://github.com/unico-labs/unico-cbu-poc-vuejs",
+            "snippet": "# unico-labs/unico-cbu-poc-vuejs\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 3\n- Default branch: main\n- Created: 2025-01-30T13:01:32Z\n\n## Languages\n\n- CSS\n- HTML\n- JavaScript\n- Vue\n\n## Top Con",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "unico-labs/unico-cbu-poc-angular",
             "url": "https://github.com/unico-labs/unico-cbu-poc-angular",
             "snippet": "# Repository: unico-labs/unico-cbu-poc-angular\n\n- Stars: 0\n- Forks: 0\n- Watchers: 1\n- Open issues: 12\n- Primary language: CSS\n- Languages: CSS (54.9%), TypeScript (27.6%), HTML (17.5%)\n- Default branc",
             "published": "2025-01-30T13:00:59.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "unico-labs/unico-cbu-poc-next",
-            "url": "https://github.com/unico-labs/unico-cbu-poc-next",
-            "snippet": "# Repository: unico-labs/unico-cbu-poc-next\n\n- Stars: 0\n- Forks: 0\n- Watchers: 1\n- Open issues: 2\n- Primary language: JavaScript\n- Languages: JavaScript (53.1%), CSS (46.9%)\n- Default branch: main\n- C",
-            "published": "2025-01-30T13:01:58.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:24:05.364Z"
+        "enriched_at": "2026-08-30T06:19:07.433Z"
       },
-      "timestamp": "2026-08-23T02:24:06.849Z"
+      "timestamp": "2026-08-30T06:19:08.966Z"
     },
     "wallet_on_telegram": {
       "intel": {
@@ -2882,10 +2882,10 @@
             "score": 0.5
           },
           {
-            "title": "[BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)",
-            "url": "https://github.com/Scottcjn/rustchain-bounties/issues/69",
-            "snippet": "# [BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)\n\n- State: closed\n- Author: Scottcjn\n- Created: 2026-02-06T01:03:51Z\n- Updated: 2026-03-26T12:52:10Z\n- Repository: Scottcjn/rus",
-            "published": null,
+            "title": "Telegram-Driven Attack Targets Crypto Developers with Malicious npm Packages",
+            "url": "https://cyberpress.org/telegram-attack-targets-crypto-developers/",
+            "snippet": "Telegram-Driven Attack Targets Crypto Developers with Malicious npm Packages\n\n# Telegram-Driven Attack Targets Crypto Developers with Malicious npm Packages\n\nBy Varshini\n\nMarch 26, 2026\n\nSecurity rese",
+            "published": "2026-03-26T06:48:57.000Z",
             "score": 0
           }
         ],
@@ -2915,9 +2915,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-23T02:24:06.849Z"
+        "enriched_at": "2026-08-30T06:19:08.966Z"
       },
-      "timestamp": "2026-08-23T02:24:08.359Z"
+      "timestamp": "2026-08-30T06:19:10.485Z"
     },
     "chia_network": {
       "intel": {
@@ -6192,5 +6192,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-08-29T07:42:30.065Z"
+  "lastRun": "2026-08-30T06:19:10.485Z"
 }
