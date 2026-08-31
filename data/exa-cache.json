@@ -2970,9 +2970,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:46.053Z"
+        "enriched_at": "2026-08-31T06:46:30.543Z"
       },
-      "timestamp": "2026-08-24T02:22:47.610Z"
+      "timestamp": "2026-08-31T06:46:32.222Z"
     },
     "3cx": {
       "intel": {
@@ -3025,9 +3025,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:47.611Z"
+        "enriched_at": "2026-08-31T06:46:32.223Z"
       },
-      "timestamp": "2026-08-24T02:22:49.115Z"
+      "timestamp": "2026-08-31T06:46:33.974Z"
     },
     "privy-bbp": {
       "intel": {
@@ -3040,17 +3040,17 @@
             "score": 1
           },
           {
-            "title": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library",
-            "url": "https://www.privy.io/blog/shamir-secret-sharing-deep-dive",
-            "snippet": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\n## Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nS\n\n|\n\nAug 7, 202",
-            "published": "2024-08-07T04:30:05.000Z",
-            "score": 0.5
-          },
-          {
             "title": "security-faqs",
             "url": "https://privy-c2af3412.mintlify.app/security/security-faqs",
             "snippet": "> ## Documentation Index\n> Fetch the complete documentation index at: https://docs.privy.io/llms.txt\n> Use this file to discover all available pages before exploring further.\n\n# Threat models & securi",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library",
+            "url": "https://www.privy.io/blog/shamir-secret-sharing-deep-dive",
+            "snippet": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\n## Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nS\n\n|\n\nAug 7, 202",
+            "published": "2024-08-07T04:30:05.000Z",
             "score": 0
           }
         ],
@@ -3080,9 +3080,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:49.115Z"
+        "enriched_at": "2026-08-31T06:46:33.975Z"
       },
-      "timestamp": "2026-08-24T02:22:50.761Z"
+      "timestamp": "2026-08-31T06:46:35.520Z"
     },
     "netflix": {
       "intel": {
@@ -3102,10 +3102,10 @@
             "score": 0.5
           },
           {
-            "title": "Here’s the Netflix account compromise Bugcrowd doesn’t want you to know about [Updated] - Ars Technica",
-            "url": "https://arstechnica.com/information-technology/2020/03/bugcrowd-tries-to-muzzle-hacker-who-found-netflix-account-compromise-weakness/",
-            "snippet": "Here’s the Netflix account compromise Bugcrowd doesn’t want you to know about [Updated] - Ars Technica\n\nText settings\n\nStory text\n\nSize Small Standard Large Width * Standard Wide Links Standard Orange",
-            "published": "2020-03-23T22:37:03.000Z",
+            "title": "Medium",
+            "url": "https://blog.viktormares.com/hacking-netflix-for-stored-xss-idor-to-session-hijacking-account-takeover-9ba1cdeabbf8",
+            "snippet": "MediumHacking Netflix for $$$ — Stored XSS + IDOR to Session Hijacking & Account Takeover | by Viktor Mares | Medium\n\nSitemap\n\nSign up\n\nGet app\n\nWrite\n\nSign up\n\nMember-only story\n\nNetflix\n\nEthical Hac",
+            "published": "2025-02-28T09:12:57.000Z",
             "score": 0
           }
         ],
@@ -3135,9 +3135,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:50.761Z"
+        "enriched_at": "2026-08-31T06:46:35.520Z"
       },
-      "timestamp": "2026-08-24T02:22:52.224Z"
+      "timestamp": "2026-08-31T06:46:36.997Z"
     },
     "23andme_bbp": {
       "intel": {
@@ -3167,9 +3167,9 @@
         "twitter": [],
         "github": [
           {
-            "title": "getmy23andme.py at master · freeseek/getmydnamatches",
+            "title": "getmy23andme.py",
             "url": "https://github.com/freeseek/getmydnamatches/blob/master/getmy23andme.py",
-            "snippet": "# File: freeseek/getmydnamatches/getmy23andme.py\n\n- Repository: freeseek/getmydnamatches | 27 stars | Python\n- Branch: master\n\n```py\n#!/usr/bin/env python3\n\"\"\"\n   getmy23andme.py - Retrieve DNA matche",
+            "snippet": "# getmy23andme.py\n\n- Branch: master\n- Repository: freeseek/getmydnamatches\n\n---\n\n#!/usr/bin/env python3\n\"\"\"\n getmy23andme.py - Retrieve DNA matches information from 23andMe\n Copyright (C) 2015-2018 Gi",
             "published": null,
             "score": 1
           },
@@ -3190,32 +3190,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:52.224Z"
+        "enriched_at": "2026-08-31T06:46:36.998Z"
       },
-      "timestamp": "2026-08-24T02:22:53.720Z"
+      "timestamp": "2026-08-31T06:46:38.478Z"
     },
     "audible": {
       "intel": {
         "writeups": [
           {
+            "title": "💀 Evanliewer Illi Link Party! ≤ 1.0 — PoC exploit for CVE-2023-7231 | Sploitus",
+            "url": "https://sploitus.com/exploit?id=AD8BD113-373A-5E25-B892-F8D1555A97AC",
+            "snippet": "💀 Evanliewer Illi Link Party! ≤ 1.0 — PoC exploit for CVE-2023-7231 | Sploitus\n\n## Exploit Code\n\nREADME21 lines\n\nWrapSize\n\nCopy\n\n```\n## https://sploitus.com/exploit?id=AD8BD113-373A-5E25-B892-F8D1555",
+            "published": "2025-05-08T05:28:29.000Z",
+            "score": 1
+          },
+          {
             "title": "BBO513/CVE-2023-7231",
             "url": "https://github.com/BBO513/CVE-2023-7231",
             "snippet": "# BBO513/CVE-2023-7231\n\nPoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 1\n- Default branch: main\n- Created: 2025-05-08T05:28:29Z\n\n",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Vulnerability Platform - Free CVE Database & AI Analysis",
             "url": "https://cve.imfht.com/poc_detail/a6b854f9f1979db85e5925b3ba80586b706a1f10",
             "snippet": "Vulnerability Platform - Free CVE Database & AI Analysis\n\n###### Support Us — Your donation helps us keep running\n\nGoal: 1000 CNY，Raised: 1000 CNY\n\n100.0%\n\n#### POC Details: a6b854f9f1979db85e5925b3ba",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Audible, and a curious case of insecure by-default in Adobe SDKs – Pankaj Upadhyay",
-            "url": "https://pankajupadhyay.in/2019/12/06/audible-and-a-curious-case-of-insecure-by-default-in-adobe-sdks/",
-            "snippet": "Audible, and a curious case of insecure by-default in Adobe SDKs – Pankaj Upadhyay\n\n“ Insecure Communication” in Mobile apps are placed under OWASP Top 10 vulnerabilities and can be exploited in perfo",
-            "published": "2019-12-05T20:36:54.000Z",
             "score": 0
           }
         ],
@@ -3245,9 +3245,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:53.720Z"
+        "enriched_at": "2026-08-31T06:46:38.478Z"
       },
-      "timestamp": "2026-08-24T02:22:55.272Z"
+      "timestamp": "2026-08-31T06:46:39.956Z"
     },
     "temu": {
       "intel": {
@@ -3267,9 +3267,9 @@
             "score": 0.5
           },
           {
-            "title": "CweAGG",
+            "title": "UNTITLED",
             "url": "https://static.md/md/CweAGG",
-            "snippet": "# UNTITLED\n\n# Temu Native Library Technical Security Analysis\n\n**Version:** 1.0\n**Date:** 2026-03-27\n**Target:** com.einnovation.temu v4.39.0 (split APK, US region)\n**Classification:** Technical refer",
+            "snippet": "# UNTITLED\n\n# Temu Native Library Technical Security Analysis\n\nVersion: 1.0\nDate: 2026-03-27\nTarget: com.einnovation.temu v4.39.0 (split APK, US region)\nClassification: Technical reference for securit",
             "published": null,
             "score": 0
           }
@@ -3300,9 +3300,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:55.272Z"
+        "enriched_at": "2026-08-31T06:46:39.956Z"
       },
-      "timestamp": "2026-08-24T02:22:56.736Z"
+      "timestamp": "2026-08-31T06:46:41.439Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -3363,17 +3363,17 @@
             "score": 1
           },
           {
+            "title": "Security Audit Report: Reentrancy & Access Control Review: Bybit - DEV Community",
+            "url": "https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-bybit-7eb",
+            "snippet": "Security Audit Report: Reentrancy & Access Control Review: Bybit - DEV Community\n\n# Security Audit Report: Reentrancy & Access Control Review: Bybit\n\nTarget Protocol: Bybit (TVL: $16056.6M)\n\nSecurity ",
+            "published": "2026-08-29T19:01:48.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Bybit Hack Analysis: Strengthening Crypto Exchange Security | Cremit",
             "url": "https://www.cremit.io/blog/bybit-hacking-incident-analysis-how-to-strengthen-cryptocurrency-exchange-security",
             "snippet": "Bybit Hack Analysis: Strengthening Crypto Exchange Security | Cremit\n\nNEW: RSAC 2026 NHI Field Report. How Non-Human Identity became cybersecurity's central axis\n\nOn this page(17)\n\n### Table of Conten",
             "published": "2025-02-18T11:59:04.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Bybit Releases Forensic Report Linking $1.5B Hack to Safe Wallet Compromise",
-            "url": "https://cryptonews.com/news/bybit-releases-forensic-report-linking-1-5b-hack-to-safe-wallet-compromise/",
-            "snippet": "Bybit Releases Forensic Report Linking $1.5B Hack to Safe Wallet Compromise\n\nBTC $62,514.12 -2.49%\n\nETH $1,777.24 -2.34%\n\nSOL $75.83 -2.16%\n\nPEPE $0.0000027 -1.68%\n\nSHIB $0.0000041 -2.66%\n\nDOGE $0.072",
-            "published": "2025-02-26T16:37:24.000Z",
             "score": 0
           }
         ],
@@ -3403,9 +3403,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:56.737Z"
+        "enriched_at": "2026-08-31T06:46:41.439Z"
       },
-      "timestamp": "2026-08-24T02:22:58.213Z"
+      "timestamp": "2026-08-31T06:46:43.042Z"
     },
     "trip_com": {
       "intel": {
@@ -3413,7 +3413,7 @@
           {
             "title": "Medium",
             "url": "https://medium.com/@a.essam0_o/delete-any-comment-without-admin-privilege-d5af9105ed9d",
-            "snippet": "MediumDelete any comment without admin privilege | by A.Essam | Medium\n\nSign up\n\nGet app\n\nSign up\n\nHacking\n\nBug Bounty\n\nPentesting\n\nWeb\n\nAttack\n\n# Delete any comment without admin privilege\n\n6 min rea",
+            "snippet": "MediumDelete any comment without admin privilege | by A.Essam | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## A.Essam\n\nPassionate Engineer about Offensive Security with full interest of CTF & put my hand on a",
             "published": "2024-12-30T13:31:33.000Z",
             "score": 1
           },
@@ -3458,9 +3458,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:58.213Z"
+        "enriched_at": "2026-08-31T06:46:43.042Z"
       },
-      "timestamp": "2026-08-24T02:22:59.767Z"
+      "timestamp": "2026-08-31T06:46:44.565Z"
     },
     "bykea": {
       "intel": {
@@ -3480,9 +3480,9 @@
             "score": 0.5
           },
           {
-            "title": "HackerOne",
+            "title": "Bykea | Report #2868164 - Bypassing Bronze Partner Wallet Restriction to Accept Trips with Negative Balance | HackerOne",
             "url": "https://hackerone.com/reports/2868164",
-            "snippet": "HackerOne\n\nSorry, something went wrong. Please contact us at https://support.hackerone.com if this error persists\n\nHackerOne\nSorry, something went wrong. Please contact us at https://support.hackerone",
+            "snippet": "Bykea | Report #2868164 - Bypassing Bronze Partner Wallet Restriction to Accept Trips with Negative Balance | HackerOne\n\n63\n\nCopy report id\n\nBypassing Bronze Partner Wallet Restriction to Accept Trips",
             "published": null,
             "score": 0
           }
@@ -3513,9 +3513,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-24T02:22:59.767Z"
+        "enriched_at": "2026-08-31T06:46:44.566Z"
       },
-      "timestamp": "2026-08-24T02:23:01.245Z"
+      "timestamp": "2026-08-31T06:46:46.041Z"
     },
     "inditex": {
       "intel": {
@@ -6192,5 +6192,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-08-30T06:19:10.485Z"
+  "lastRun": "2026-08-31T06:46:46.042Z"
 }
