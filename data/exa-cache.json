@@ -3538,7 +3538,7 @@
             "title": "SecurityClaw Hunted Vinted on Intigriti — and Found 10 Gaps in Itself",
             "url": "https://bughuntertools.com/articles/securityclaw-phase-d-vinted-live-hunt-capability-gaps-2026/",
             "snippet": "SecurityClaw Hunted Vinted on Intigriti — and Found 10 Gaps in Itself\n\n🔍 Bug Hunter Tools\n\n🌙\n\n## The Hunt: Vinted, 45 Minutes, Cloudflare Everywhere\n\n| Field | Value |\n| --- | --- |\n| Target | Vinte",
-            "published": "2026-03-31T15:09:19.000Z",
+            "published": "2026-03-31T20:28:42.000Z",
             "score": 0
           }
         ],
@@ -3547,8 +3547,8 @@
           {
             "title": "nmmorette/CVE-2024-34102",
             "url": "https://github.com/nmmorette/CVE-2024-34102",
-            "snippet": "# Repository: nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- License: MIT License (",
-            "published": "2026-02-13T18:02:36.000Z",
+            "snippet": "# nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-02-13T18:02:36Z\n\n## L",
+            "published": null,
             "score": 1
           },
           {
@@ -3568,9 +3568,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:16.161Z"
+        "enriched_at": "2026-09-01T06:05:42.064Z"
       },
-      "timestamp": "2026-08-25T02:18:17.697Z"
+      "timestamp": "2026-09-01T06:05:43.741Z"
     },
     "visa": {
       "intel": {
@@ -3590,20 +3590,20 @@
             "score": 0.5
           },
           {
-            "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible – WordUp News",
-            "url": "https://wordupnews.com/tech/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible/",
-            "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible – WordUp News\n\n# Visa used Mythos to hunt for bugs in its own payment network, then op",
-            "published": "2026-07-29T04:23:28.000Z",
+            "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Cube Letter",
+            "url": "https://cubeletter.com/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible/",
+            "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Cube Letter\n\n# Visa used Mythos to hunt for bugs in its own payment network, then op",
+            "published": "2026-07-29T02:01:32.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "GitHub - usinfosec/visa-vulnerability-agentic-harness: Visa Vulnerability Agentic Harness · GitHub",
+            "title": "usinfosec/visa-vulnerability-agentic-harness",
             "url": "https://github.com/usinfosec/visa-vulnerability-agentic-harness",
-            "snippet": "GitHub - usinfosec/visa-vulnerability-agentic-harness: Visa Vulnerability Agentic Harness · GitHub\n\nmain\n\nGo to Branches page\n\nGo to Tags page\n\nGo to file\n\nCode\n\n## Repository files navigation\n\n# Visa",
-            "published": "2026-06-11T11:23:42.000Z",
+            "snippet": "# usinfosec/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-06-11T1",
+            "published": null,
             "score": 1
           },
           {
@@ -3623,9 +3623,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:17.697Z"
+        "enriched_at": "2026-09-01T06:05:43.741Z"
       },
-      "timestamp": "2026-08-25T02:18:19.209Z"
+      "timestamp": "2026-09-01T06:05:45.584Z"
     },
     "toolsforhumanity": {
       "intel": {
@@ -3640,14 +3640,14 @@
           {
             "title": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne",
             "url": "https://hackerone.com/reports/2515808",
-            "snippet": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form\\_post leads to XSS and ATO | HackerOne\n[Skip to main content >](#main-",
+            "snippet": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne\n\n105\n\nCopy report id\n\n[Meetup][W",
             "published": null,
             "score": 0.5
           },
           {
             "title": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch",
             "url": "https://vulnwatch.ai/entry/019f6870-0fb0-7005-9ac3-e5a58c5d2f0d",
-            "snippet": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch\n\n← Back to dashboard\n\nLow github · GHSA-pr64-jmmf-jp54\n\n# T",
+            "snippet": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch\n\n# ToolHive: SSRF in remote MCP server authentication disco",
             "published": "2026-07-15T23:41:21.000Z",
             "score": 0
           }
@@ -3655,32 +3655,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "pemarine/cve-2026-41940-PoC",
-            "url": "https://github.com/pemarine/cve-2026-41940-PoC",
-            "snippet": "# pemarine/cve-2026-41940-PoC\n\nA cPanel and WHM authentication bypassing tool\n\n- Stars: 272\n- Forks: 12\n- Watchers: 272\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-13T16:03:48Z\n\n## Lang",
+            "title": "contracts/ProofOfHumanity.sol",
+            "url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/blob/master/contracts/ProofOfHumanity.sol",
+            "snippet": "# contracts/ProofOfHumanity.sol\n\n- Branch: master\n- Repository: Proof-Of-Humanity/Proof-Of-Humanity\n\n---\n\n/**\n * @authors: [@unknownunknown1, @nix1g]\n * @reviewers: [@fnanni-0, @mtsalenc*, @nix1g, @cl",
             "published": null,
             "score": 1
-          },
-          {
-            "title": "xcalibure2/ToolShell",
-            "url": "https://github.com/xcalibure2/ToolShell",
-            "snippet": "# xcalibure2/ToolShell\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-09T07:06:",
-            "published": "2026-01-09T00:00:00.000Z",
-            "score": 0.5
           },
           {
             "title": "terribledactyl/Form-Tools-3.1.1-RCE",
             "url": "https://github.com/terribledactyl/Form-Tools-3.1.1-RCE",
             "snippet": "# terribledactyl/Form-Tools-3.1.1-RCE\n\nCVE-2024-22722 RCE via SSTI, automated with Python.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-09-06T00:10:24Z\n",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "pemarine/cve-2026-41940-PoC",
+            "url": "https://github.com/pemarine/cve-2026-41940-PoC",
+            "snippet": "# pemarine/cve-2026-41940-PoC\n\nA cPanel and WHM authentication bypassing tool\n\n- Stars: 272\n- Forks: 12\n- Watchers: 272\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-13T16:03:48Z\n\n## Lang",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:19.209Z"
+        "enriched_at": "2026-09-01T06:05:45.584Z"
       },
-      "timestamp": "2026-08-25T02:18:20.694Z"
+      "timestamp": "2026-09-01T06:05:47.270Z"
     },
     "ring": {
       "intel": {
@@ -3688,7 +3688,7 @@
           {
             "title": "Medium",
             "url": "https://suicdalteddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
-            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## harmless-teddy\n\nwork: ethical ",
+            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# I Reverse-Engineered Ring’s “En",
             "published": "2026-05-25T14:19:29.000Z",
             "score": 1
           },
@@ -3702,7 +3702,7 @@
           {
             "title": "Medium",
             "url": "https://harmless-teddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
-            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## harmless-teddy\n\nwork: ethical ",
+            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# I Reverse-Engineered Ring’s “En",
             "published": "2026-05-25T14:19:29.000Z",
             "score": 0
           }
@@ -3733,9 +3733,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:20.694Z"
+        "enriched_at": "2026-09-01T06:05:47.270Z"
       },
-      "timestamp": "2026-08-25T02:18:22.229Z"
+      "timestamp": "2026-09-01T06:05:48.902Z"
     },
     "six-group": {
       "intel": {
@@ -3772,10 +3772,10 @@
             "score": 1
           },
           {
-            "title": "oguzylmzx/CVE-2025-64512-pdfminer-PoC",
-            "url": "https://github.com/oguzylmzx/CVE-2025-64512-pdfminer-PoC",
-            "snippet": "# oguzylmzx/CVE-2025-64512-pdfminer-PoC\n\nPoC for CVE-2025-64512: pdfminer.six CMapDB pickle deserialization RCE via crafted PDF\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: ",
-            "published": null,
+            "title": "hg0434hongzh0/CVE-2026-34197",
+            "url": "https://github.com/hg0434hongzh0/CVE-2026-34197",
+            "snippet": "# Repository: hg0434hongzh0/CVE-2026-34197\n\nPOC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-04-10T01:29:",
+            "published": "2026-04-10T01:29:12.000Z",
             "score": 0.5
           },
           {
@@ -3788,9 +3788,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:22.229Z"
+        "enriched_at": "2026-09-01T06:05:48.902Z"
       },
-      "timestamp": "2026-08-25T02:18:23.809Z"
+      "timestamp": "2026-09-01T06:05:50.556Z"
     },
     "eufy_security": {
       "intel": {
@@ -3843,9 +3843,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:23.809Z"
+        "enriched_at": "2026-09-01T06:05:50.556Z"
       },
-      "timestamp": "2026-08-25T02:18:25.322Z"
+      "timestamp": "2026-09-01T06:05:52.182Z"
     },
     "eero": {
       "intel": {
@@ -3898,9 +3898,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:25.322Z"
+        "enriched_at": "2026-09-01T06:05:52.182Z"
       },
-      "timestamp": "2026-08-25T02:18:26.901Z"
+      "timestamp": "2026-09-01T06:05:53.790Z"
     },
     "mozilla": {
       "intel": {
@@ -3908,7 +3908,7 @@
           {
             "title": "Medium",
             "url": "https://sn0xsharma.medium.com/how-i-found-an-ssrf-in-mozilla-firefox-that-could-compromise-the-content-pipeline-behind-300m-new-90907dcd43d1",
-            "snippet": "Medium\n\n# How I Found an SSRF in Mozilla Firefox That Could Compromise the Content Pipeline Behind 300M+ New Tabs.\n\nA code-first hunt through Mozilla’s open-source editorial backend where an existing ",
+            "snippet": "MediumHow I Found an SSRF in Mozilla Firefox That Could Compromise the Content Pipeline Behind 300M+ New Tabs. | by sn0xsharma | Aug, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## sn0xsharma\n\nAI Securi",
             "published": "2026-08-01T08:25:35.000Z",
             "score": 1
           },
@@ -3930,32 +3930,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm",
-            "url": "https://github.com/SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm",
-            "snippet": "# SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm\n\nPoC exploit chain for CVE-2026-2796: SpiderMonkey WebAssembly sandbox escape (signature type confusion -> arbitrary R/W -> RCE)\n\n- Stars: 3\n- Fo",
+            "title": "SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm",
+            "url": "https://github.com/SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm",
+            "snippet": "# SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm\n\nPoC exploit chain for CVE-2026-15718: SpiderMonkey wasm baseline compiler array.fill missing-sync -> invalid pointer -> addrOf/fakeobj -> arbitra",
             "published": null,
             "score": 1
           },
           {
-            "title": "SneakyNachos/CVE-2024-29943-but-with-wasm",
-            "url": "https://github.com/SneakyNachos/CVE-2024-29943-but-with-wasm",
-            "snippet": "# SneakyNachos/CVE-2024-29943-but-with-wasm\n\nCVE-2024-29943, but with wasm\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2026-08-10T02:34:36Z\n\n## Languages\n",
+            "title": "SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box",
+            "url": "https://github.com/SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box",
+            "snippet": "# SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box\n\nFirefox content-to-parent IPDL privilege escalation (N-day, bug 2054416): forged PDocumentChannel with RemoteTypeOverride -> privilegedabout ",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box",
-            "url": "https://github.com/SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box",
-            "snippet": "# SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box\n\nFull Firefox chain: CVE-2026-2796 wasm type confusion -> content-process RCE, plus CVE-2026-2768 parent-process escape analysis (bot",
+            "title": "SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm",
+            "url": "https://github.com/SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm",
+            "snippet": "# SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm\n\nPoC exploit chain for CVE-2026-2796: SpiderMonkey WebAssembly sandbox escape (signature type confusion -> arbitrary R/W -> RCE)\n\n- Stars: 5\n- Fo",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:26.902Z"
+        "enriched_at": "2026-09-01T06:05:53.790Z"
       },
-      "timestamp": "2026-08-25T02:18:28.406Z"
+      "timestamp": "2026-09-01T06:05:55.629Z"
     },
     "stripchat": {
       "intel": {
@@ -4008,9 +4008,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:28.406Z"
+        "enriched_at": "2026-09-01T06:05:55.629Z"
       },
-      "timestamp": "2026-08-25T02:18:30.029Z"
+      "timestamp": "2026-09-01T06:05:57.299Z"
     },
     "redox_bbp": {
       "intel": {
@@ -5872,16 +5872,16 @@
             "score": 1
           },
           {
-            "title": "anthropic-rogue-agents-package-stole-keys",
-            "url": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
-            "snippet": "---\ndescription: Anthropic disclosed an agent that pushed real malware to PyPI. We think we found the package, and every mistake in it points back to the AI.\ntitle: Anthropic's Fever Dream: Claude's p",
+            "title": "ANT-2026-CN7KX43N · nomad",
+            "url": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-CN7KX43N",
+            "snippet": "ANT-2026-CN7KX43N · nomad\n\n# ANT-2026-CN7KX43N · nomad\n\n## path-traversal critical\n\nSeverity Claude critical · Security research firm critical · Maintainer -\n\nDiscovered by Claude Mythos Preview\n\nREPO",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "ANT-2026-CN7KX43N · nomad",
-            "url": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-CN7KX43N",
-            "snippet": "ANT-2026-CN7KX43N · nomad\n\n# ANT-2026-CN7KX43N · nomad\n\n## path-traversal critical\n\nSeverity Claude critical · Security research firm critical · Maintainer -\n\nDiscovered by Claude Mythos Preview\n\nREPO",
+            "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
+            "url": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
+            "snippet": "Solutions\n\nSolutions\n\nResources\n\nAbout\n\nPricing Contact\n\nLogin Start for Free\n\nLogin\n\nMenu\n\nEN\n\nLogin Start for FreeNo CC required\n\nBlog Vulnerabilities & Threats\n\nAnthropic's Fever Dream: Claude's pa",
             "published": null,
             "score": 0
           }
@@ -5896,25 +5896,25 @@
             "score": 1
           },
           {
-            "title": "tacdm/cve-2025-59536-poc",
-            "url": "https://github.com/tacdm/cve-2025-59536-poc",
-            "snippet": "# Repository: tacdm/cve-2025-59536-poc\n\nCVE-2025-59536: RCE via Claude Code Project Hooks (PoC)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaSc",
-            "published": "2026-05-17T08:15:34.000Z",
+            "title": "brokensec/Claude-Code-awk",
+            "url": "https://github.com/brokensec/Claude-Code-awk",
+            "snippet": "# brokensec/Claude-Code-awk\n\nDue to an error in `awk` command parsing in Claude Code's permission system, it is possible to bypass the read-only validation and execute arbitrary commands, write to sen",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "panchocosil/CVE-2026-65400-poc",
-            "url": "https://github.com/panchocosil/CVE-2026-65400-poc",
-            "snippet": "# panchocosil/CVE-2026-65400-poc\n\nRead-only PoC for CVE-2026-65400 — macOS Screen Sharing (screensharingd) pre-auth SRP bypass giving root file read. Patched in macOS 26.6.1 / 15.7.9 / 14.8.9.\n\n- Star",
+            "title": "Permissive Default Allowlist Enables Unauthorized File Read and Network Exfiltration in Claude Code · Advisory · anthropics/claude-code · GitHub",
+            "url": "https://github.com/anthropics/claude-code/security/advisories/GHSA-x5gv-jw7f-j6xj",
+            "snippet": "Permissive Default Allowlist Enables Unauthorized File Read and Network Exfiltration in Claude Code · Advisory · anthropics/claude-code · GitHub\n\n# Permissive Default Allowlist Enables Unauthorized Fi",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-25T02:18:14.628Z"
+        "enriched_at": "2026-09-01T06:05:40.467Z"
       },
-      "timestamp": "2026-08-25T02:18:16.160Z"
+      "timestamp": "2026-09-01T06:05:42.063Z"
     },
     "agoda-public": {
       "intel": {
@@ -6192,5 +6192,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-08-31T06:46:46.042Z"
+  "lastRun": "2026-09-01T06:05:57.299Z"
 }
