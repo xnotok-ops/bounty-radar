@@ -4023,16 +4023,16 @@
             "score": 1
           },
           {
-            "title": "redox/CVE-2024-57492/README.md",
-            "url": "https://github.com/Marsman1996/pocs/blob/master/redox/CVE-2024-57492/README.md",
-            "snippet": "# redox/CVE-2024-57492/README.md\n\n- Branch: master\n- Repository: Marsman1996/pocs\n\n---\n\n# CVE-2024-57492\nThis is the brief description of [CVE-2024-57492](https://www.cve.org/CVERecord?id=CVE-2024-574",
+            "title": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub",
+            "url": "https://github.com/redaxo/core/security/advisories/GHSA-mf2p-wjp4-99pq",
+            "snippet": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub\n\n/ core Public\n\n# Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()`\n\nModerate\n",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub",
-            "url": "https://github.com/redaxo/core/security/advisories/GHSA-mf2p-wjp4-99pq",
-            "snippet": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub\n\n/ core Public\n\n# Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()`\n\nModerate\n",
+            "title": "redox/CVE-2024-57492/README.md",
+            "url": "https://github.com/Marsman1996/pocs/blob/master/redox/CVE-2024-57492/README.md",
+            "snippet": "# redox/CVE-2024-57492/README.md\n\n- Branch: master\n- Repository: Marsman1996/pocs\n\n---\n\n# CVE-2024-57492\nThis is the brief description of [CVE-2024-57492](https://www.cve.org/CVERecord?id=CVE-2024-574",
             "published": null,
             "score": 0
           }
@@ -4049,7 +4049,7 @@
           {
             "title": "berabuddies/redis-poc",
             "url": "http://github.com/berabuddies/redis-poc",
-            "snippet": "# berabuddies/redis-poc\n\nRCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1\n\n- Stars: 467\n- Forks: 113\n- Watchers: 467\n- Open issues: 2\n- Default branch: main\n- Created: 2026-07-22T22:26:08Z\n\n## Top",
+            "snippet": "# berabuddies/redis-poc\n\nRCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1\n\n- Stars: 509\n- Forks: 121\n- Watchers: 509\n- Open issues: 2\n- Default branch: main\n- Created: 2026-07-22T22:26:08Z\n\n## Lan",
             "published": null,
             "score": 0.5
           },
@@ -4063,9 +4063,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-26T02:24:50.086Z"
+        "enriched_at": "2026-09-02T05:31:18.020Z"
       },
-      "timestamp": "2026-08-26T02:24:51.493Z"
+      "timestamp": "2026-09-02T05:31:19.663Z"
     },
     "okg": {
       "intel": {
@@ -4109,18 +4109,18 @@
             "score": 0.5
           },
           {
-            "title": "exploit/exploit.py",
-            "url": "https://github.com/imbas007/CVE-2026-42533/blob/782319ca/exploit/exploit.py",
-            "snippet": "# exploit/exploit.py\n\n- Branch: 782319ca\n- Repository: imbas007/CVE-2026-42533\n\n---\n\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-42533 — nginx Heap Buffer Overflow — Full Exploit Chain\nPre-Auth Remote Code Ex",
+            "title": "Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections",
+            "url": "https://github.com/sherlock-audit/2025-07-oku-trade-order-types-judging/issues/33",
+            "snippet": "# Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections\n\n- State: open\n- Author: sherlock-admin2\n- Created: 2025-07-31T15:20:40Z\n- Update",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-26T02:24:51.493Z"
+        "enriched_at": "2026-09-02T05:31:19.664Z"
       },
-      "timestamp": "2026-08-26T02:24:52.928Z"
+      "timestamp": "2026-09-02T05:31:21.255Z"
     },
     "1win_com": {
       "intel": {
@@ -4228,9 +4228,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-26T02:24:52.928Z"
+        "enriched_at": "2026-09-02T05:31:21.255Z"
       },
-      "timestamp": "2026-08-26T02:24:54.340Z"
+      "timestamp": "2026-09-02T05:31:22.868Z"
     },
     "pornbox": {
       "intel": {
@@ -4267,25 +4267,25 @@
             "score": 1
           },
           {
-            "title": "sp00nznet/pwnbox",
-            "url": "https://github.com/sp00nznet/pwnbox",
-            "snippet": "# sp00nznet/pwnbox\n\nPPPwn appliance for Proxmox LXC with a web UI\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-19T17:09:12Z\n\n## Languages\n\n- CSS\n- HT",
+            "title": "pbuff07/PoCBox",
+            "url": "https://github.com/pbuff07/PoCBox",
+            "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "pbuff07/PoCBox",
-            "url": "https://github.com/pbuff07/PoCBox",
-            "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
+            "title": "sp00nznet/pwnbox",
+            "url": "https://github.com/sp00nznet/pwnbox",
+            "snippet": "# sp00nznet/pwnbox\n\nPPPwn appliance for Proxmox LXC with a web UI\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-19T17:09:12Z\n\n## Languages\n\n- CSS\n- HT",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-26T02:24:54.340Z"
+        "enriched_at": "2026-09-02T05:31:22.869Z"
       },
-      "timestamp": "2026-08-26T02:24:55.716Z"
+      "timestamp": "2026-09-02T05:31:24.500Z"
     },
     "tron_dao": {
       "intel": {
@@ -4329,18 +4329,18 @@
             "score": 0.5
           },
           {
-            "title": "DK27ss/Truebit-26.44M-PoC",
-            "url": "https://github.com/DK27ss/Truebit-26.44M-PoC",
-            "snippet": "# DK27ss/Truebit-26.44M-PoC\n\nmiscalculation driving overflow in `_calculatePurchasePrice` allows arbitrary mint\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: ",
+            "title": "trx drainer",
+            "url": "https://gist.github.com/phishdestroy/9985a35bdc11a5cc0a44abf7a6119713",
+            "snippet": "# trx drainer\n\n- Owner: phishdestroy\n- Created: 2026-02-08T22:36:54Z\n- Public: no\n- Comments: 0\n- Forks: 0\n\n## gistfile1.txt\n\nLanguage: Text\n\n# 🔴 BUYTRX Approval Drainer Kit — Full Infrastructure Tea",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-26T02:24:55.716Z"
+        "enriched_at": "2026-09-02T05:31:24.501Z"
       },
-      "timestamp": "2026-08-26T02:24:57.537Z"
+      "timestamp": "2026-09-02T05:31:26.069Z"
     },
     "superbet": {
       "intel": {
@@ -4370,16 +4370,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "icarot/superUpset",
-            "url": "https://github.com/icarot/superUpset/",
-            "snippet": "# icarot/superUpset\n\nThis is a tool focused in exploit the default session configuration of Superset, that is Flask-based, and it depends on the another tool called flask-unsign (https://github.com/Pa",
+            "title": "src/test/2025-07/SuperRare_exp.sol",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-07/SuperRare_exp.sol",
+            "snippet": "# src/test/2025-07/SuperRare_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.15;\n\nimport \"../basetest.sol\";\nimport \"../i",
             "published": null,
             "score": 1
           },
           {
-            "title": "src/test/2025-07/SuperRare_exp.sol",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2025-07/SuperRare_exp.sol",
-            "snippet": "# src/test/2025-07/SuperRare_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.15;\n\nimport \"../basetest.sol\";\nimport \"../i",
+            "title": "icarot/superUpset",
+            "url": "https://github.com/icarot/superUpset/",
+            "snippet": "# icarot/superUpset\n\nThis is a tool focused in exploit the default session configuration of Superset, that is Flask-based, and it depends on the another tool called flask-unsign (https://github.com/Pa",
             "published": null,
             "score": 0.5
           },
@@ -4393,9 +4393,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-26T02:24:57.537Z"
+        "enriched_at": "2026-09-02T05:31:26.070Z"
       },
-      "timestamp": "2026-08-26T02:24:58.922Z"
+      "timestamp": "2026-09-02T05:31:27.825Z"
     },
     "magic-eden": {
       "intel": {
@@ -4403,22 +4403,22 @@
           {
             "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com",
             "url": "https://www.linkgeanie.com/news/magic-eden-will-refund-users-who-bought-25-fake-nfts-due-to-exploit",
-            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n \n\n raguvaran \n\nMultiple dozen phony NFTs w",
+            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n raguvaran \n\nMultiple dozen phony NFTs were",
             "published": "2023-01-06T09:41:55.000Z",
             "score": 1
           },
           {
-            "title": "Magic Eden to refund users after fake NFTs sold due to exploit | Bitcoin Insider",
-            "url": "https://www.bitcoininsider.org/article/199861/magic-eden-refund-users-after-fake-nfts-sold-due-exploit",
-            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit | Bitcoin Insider\n\n# Magic Eden to refund users after fake NFTs sold due to exploit \n\nOver a dozen fake NFTs were sold on the Magic Eden ",
-            "published": "2023-01-05T02:49:02.000Z",
+            "title": "Scammers exploit NFT marketplace Magic Eden to sell fake NFTs",
+            "url": "https://coingeek.com/scammers-exploit-nft-marketplace-magic-eden-to-sell-fake-nfts/",
+            "snippet": "Scammers exploit NFT marketplace Magic Eden to sell fake NFTs\n\n# Scammers exploit NFT marketplace Magic Eden to sell fake NFTs\n\nBy Steve Kaaru\n\nPublished: Jan 10, 2023 / Last updated: Sep 19, 2025\n\n| ",
+            "published": "2025-09-10T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "Magic Eden to refund users after fake NFTs sold due to exploit",
-            "url": "https://cointelegraph.com/news/magic-eden-to-refund-users-after-25-fake-nfts-sold-due-to-exploit",
-            "snippet": "Magic Eden to refund users after fake NFTs sold due to exploit\n\n \n\n \n\n \n\n \n\n Ecosystem \n\n \n\n \n\n \n\n \n\n \n\n ADA$0.2464 0.93% BNB$617.43 0.86% XMR$334.60 1.62% TRX$0.322 2.20% ETH$2,054 2.60% LINK$8.70 2.",
-            "published": "2023-01-05T02:49:02.000Z",
+            "title": "santipu_ - Attacker can block all votes to a specific pool by triggering an overflow error",
+            "url": "https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/237",
+            "snippet": "# santipu_ - Attacker can block all votes to a specific pool by triggering an overflow error\n\n- State: open\n- Author: sherlock-admin2\n- Created: 2024-07-15T13:33:56Z\n- Updated: 2024-08-23T11:48:40Z\n- ",
+            "published": null,
             "score": 0
           }
         ],
@@ -4427,7 +4427,7 @@
           {
             "title": "DK27ss/Abracadabra-1.7M-PoC",
             "url": "https://github.com/DK27ss/Abracadabra-1.7M-PoC",
-            "snippet": "# DK27ss/Abracadabra-1.7M-PoC\n\nAbracadabra Protocol exploit PoC\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2025-10-05T22:57:27Z\n\n## Languages\n\n- Solidity\n\n",
+            "snippet": "# DK27ss/Abracadabra-1.7M-PoC\n\nAbracadabra Protocol exploit PoC\n\n- Stars: 1\n- Forks: 1\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2025-10-05T22:57:27Z\n\n## Languages\n\n- Solidity\n\n",
             "published": null,
             "score": 1
           },
@@ -4448,9 +4448,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-26T02:24:58.923Z"
+        "enriched_at": "2026-09-02T05:31:27.825Z"
       },
-      "timestamp": "2026-08-26T02:25:00.280Z"
+      "timestamp": "2026-09-02T05:31:29.438Z"
     },
     "boozt": {
       "intel": {
@@ -4496,16 +4496,16 @@
           {
             "title": "nmmorette/CVE-2024-34102",
             "url": "https://github.com/nmmorette/CVE-2024-34102",
-            "snippet": "# Repository: nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- License: MIT License (",
-            "published": "2026-02-13T18:02:36.000Z",
+            "snippet": "# nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-02-13T18:02:36Z\n\n## L",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-26T02:25:00.280Z"
+        "enriched_at": "2026-09-02T05:31:29.438Z"
       },
-      "timestamp": "2026-08-26T02:25:01.690Z"
+      "timestamp": "2026-09-02T05:31:31.080Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -4520,7 +4520,7 @@
           {
             "title": "Sheer | Report #2337938 - Cleartext Transmission of password via Email | HackerOne",
             "url": "https://hackerone.com/reports/2337938",
-            "snippet": "Sheer | Report #2337938 - Cleartext Transmission of password via Email | HackerOne\n\n83\n\nCopy report id\n\nCleartext Transmission of password via Email\n\nReport\n\nTimeline\n\nsubmitted a report to Sheer.\n\nJa",
+            "snippet": "Sheer | Report #2337938 - Cleartext Transmission of password via Email | HackerOne\n\n84\n\nCopy report id\n\nCleartext Transmission of password via Email\n\nReport\n\nTimeline\n\nsubmitted a report to Sheer.\n\nJa",
             "published": null,
             "score": 0.5
           },
@@ -4535,32 +4535,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "panchocosil/CVE-2026-65400-poc",
-            "url": "https://github.com/panchocosil/CVE-2026-65400-poc",
-            "snippet": "# panchocosil/CVE-2026-65400-poc\n\nRead-only PoC for CVE-2026-65400 — macOS Screen Sharing (screensharingd) pre-auth SRP bypass giving root file read. Patched in macOS 26.6.1 / 15.7.9 / 14.8.9.\n\n- Star",
+            "title": "AdnaneKhan/Wp2Shell-RCE",
+            "url": "https://github.com/AdnaneKhan/Wp2Shell-RCE",
+            "snippet": "# AdnaneKhan/Wp2Shell-RCE\n\nPoC Repository with Lab Setup for Wp2Shell RCE\n\n- Stars: 3\n- Forks: 2\n- Watchers: 3\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-17T22:08:25Z\n\n## Languages\n\n- ",
             "published": null,
             "score": 1
           },
           {
-            "title": "0xCyberstan/CVE-2026-42533-POC",
-            "url": "https://github.com/0xCyberstan/CVE-2026-42533-POC",
-            "snippet": "# 0xCyberstan/CVE-2026-42533-POC\n\nCVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1",
+            "title": "Boreas37/CVE-2026-64638-PoC-XSS2Shell-",
+            "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
+            "snippet": "# Boreas37/CVE-2026-64638-PoC-XSS2Shell-\n\nXSS2Shell (CVE-2026-64638) WordPress pre-auth XSS to RCE chain — PoC exploit + defensive audit tool + nuclei template\n\n- Stars: 53\n- Forks: 10\n- Watchers: 53\n",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Boreas37/CVE-2026-64638-PoC-XSS2Shell-",
-            "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
-            "snippet": "# Boreas37/CVE-2026-64638-PoC-XSS2Shell-\n\nXSS2Shell (CVE-2026-64638) WordPress pre-auth XSS to RCE chain — PoC exploit + defensive audit tool + nuclei template\n\n- Stars: 46\n- Forks: 8\n- Watchers: 46\n-",
+            "title": "4minx/CVE-2026-64638",
+            "url": "https://github.com/4minx/CVE-2026-64638",
+            "snippet": "# 4minx/CVE-2026-64638\n\nCVE-2026-64638 (XSS2shell) POC.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-08T08:48:02Z\n\n## Languages\n\n- HTML\n\n## Top Contr",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-26T02:25:01.690Z"
+        "enriched_at": "2026-09-02T05:31:31.080Z"
       },
-      "timestamp": "2026-08-26T02:25:03.118Z"
+      "timestamp": "2026-09-02T05:31:32.712Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -5747,64 +5747,56 @@
       "intel": {
         "writeups": [
           {
-            "title": "CVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Production | by sn0x | Medium",
+            "title": "Medium",
             "url": "https://sn0x.medium.com/cve-2024-42327-exploiting-a-critical-zabbix-sql-injection-in-production-9c8bc7143e32",
-            "snippet": "CVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Production | by sn0x | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# CVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Production\n\n13 m",
+            "snippet": "MediumCVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Production | by sn0x | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## sn0x\n\nCybersecurity professional sharing TryHackMe walkthroughs and sec",
             "published": "2026-02-13T00:20:57.000Z",
             "score": 1
+          },
+          {
+            "title": "CVE-2024-22120: Zabbix's Audit Log Is the Read Primitive · nefariousplan.com",
+            "url": "https://nefariousplan.com/posts/zabbix-cve-2024-22120-audit-log-is-the-read-primitive",
+            "snippet": "CVE-2024-22120: Zabbix's Audit Log Is the Read Primitive · nefariousplan.com\n\nZabbix Server's trapper port accepts a`command` request from authenticated users who have permission to execute a global s",
+            "published": "2026-05-13T17:09:09.000Z",
+            "score": 0.5
           },
           {
             "title": "Zabbix SQL Injection/RCE - CVE-2013-5743 - Corelan | Exploit Development & Vulnerability Research",
             "url": "https://www.corelan.be/index.php/2013/10/04/zabbix-sql-injectionrce-cve-2013-5743/",
             "snippet": "Zabbix SQL Injection/RCE - CVE-2013-5743 - Corelan | Exploit Development & Vulnerability Research\n\n# Zabbix SQL Injection/RCE - CVE-2013-5743\n\nCorelan Team (Lincoln) October 4, 2013\n\nThis article has ",
             "published": "2013-10-04T16:53:44.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Zabbix - A Case Study of Unsafe Session Storage - Security Boulevard",
-            "url": "https://securityboulevard.com/2022/02/zabbix-a-case-study-of-unsafe-session-storage/",
-            "snippet": "Zabbix - A Case Study of Unsafe Session Storage - Security Boulevard\n\n## Introduction\n\nZabbix is a very popular open-source monitoring platform used to collect, centralize and track metrics like CPU l",
-            "published": "2022-02-16T00:00:00.000Z",
             "score": 0
           }
         ],
-        "twitter": [
-          {
-            "title": "CVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Production | by sn0x | Medium",
-            "url": "https://sn0x.medium.com/cve-2024-42327-exploiting-a-critical-zabbix-sql-injection-in-production-9c8bc7143e32",
-            "snippet": "CVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Production | by sn0x | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# CVE-2024–42327: Exploiting a Critical Zabbix SQL Injection in Production\n\n13 m",
-            "published": "2026-02-13T00:20:57.000Z",
-            "score": 1
-          },
-          {
-            "title": "watchdog1337/CVE-2024-42327_Zabbix_SQLI",
-            "url": "https://github.com/watchdog1337/CVE-2024-42327_Zabbix_SQLI",
-            "snippet": "# Repository: watchdog1337/CVE-2024-42327_Zabbix_SQLI\n\nPOC for CVE-2024-42327, an authenticated SQL Injection in Zabbix through the user.get API Method\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issu",
-            "published": "2024-12-07T21:25:40.000Z",
-            "score": 0
-          }
-        ],
+        "twitter": [],
         "github": [
           {
-            "title": "watchdog1337/CVE-2024-42327_Zabbix_SQLI",
-            "url": "https://github.com/watchdog1337/CVE-2024-42327_Zabbix_SQLI",
-            "snippet": "# Repository: watchdog1337/CVE-2024-42327_Zabbix_SQLI\n\nPOC for CVE-2024-42327, an authenticated SQL Injection in Zabbix through the user.get API Method\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issu",
-            "published": "2024-12-07T21:25:40.000Z",
+            "title": "CVE-2024-22120-RCE.py",
+            "url": "https://github.com/W01fh4cker/CVE-2024-22120-RCE/blob/main/CVE-2024-22120-RCE.py",
+            "snippet": "# CVE-2024-22120-RCE.py\n\n- Branch: main\n- Repository: W01fh4cker/CVE-2024-22120-RCE\n\n---\n\nimport json\nimport argparse\nimport requests\nfrom pwn import *\nfrom datetime import datetime\n\nRED = '\\033[0;31m",
+            "published": null,
             "score": 1
           },
           {
             "title": "godylockz/CVE-2024-42327",
             "url": "https://github.com/godylockz/CVE-2024-42327",
-            "snippet": "# Repository: godylockz/CVE-2024-42327\n\nPOC for CVE-2024-42327: Zabbix Privilege Escalation -> RCE\n\n- Stars: 9\n- Forks: 2\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n",
-            "published": "2025-02-16T07:33:38.000Z",
+            "snippet": "# godylockz/CVE-2024-42327\n\nPOC for CVE-2024-42327: Zabbix Privilege Escalation -> RCE\n\n- Stars: 9\n- Forks: 2\n- Watchers: 9\n- Open issues: 0\n- Default branch: main\n- Created: 2025-02-16T07:33:38Z\n\n## ",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "g4nkd/CVE-2024-22120-RCE-with-gopher",
+            "url": "https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher",
+            "snippet": "# g4nkd/CVE-2024-22120-RCE-with-gopher\n\nThis exploit was created to exploit an XXE (XML External Entity). Through it, I read the backend code of the web service and found an endpoint where I could use",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 7,
-        "enriched_at": "2026-06-04T05:58:27.287Z"
+        "total_results": 6,
+        "enriched_at": "2026-09-02T05:31:32.712Z"
       },
-      "timestamp": "2026-06-04T05:58:29.000Z"
+      "timestamp": "2026-09-02T05:31:34.301Z"
     },
     "coupang_tw": {
       "intel": {
@@ -6192,5 +6184,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-09-01T06:05:57.299Z"
+  "lastRun": "2026-09-02T05:31:34.301Z"
 }
