@@ -5134,7 +5134,7 @@
             "title": "Behind The Scenes: How Modern Treasury Ensures Payment Security",
             "url": "https://www.moderntreasury.com/journal/how-modern-treasury-ensures-payment-security",
             "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\n•January 17, 2024\n\n# Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nSecurity is the foundation for Modern Treasury op",
-            "published": "2024-01-17T13:26:33.000Z",
+            "published": "2024-01-17T09:50:58.000Z",
             "score": 1
           },
           {
@@ -5147,8 +5147,8 @@
           {
             "title": "Network Security at Modern Treasury",
             "url": "https://www.moderntreasury.com/journal/network-security-at-modern-treasury",
-            "snippet": "Network Security at Modern Treasury\n\n• March 10, 2022\n\n# Network Security at Modern Treasury\n\nSecurity is a priority for our customers and key feature of our products. Here are recent examples of our ",
-            "published": "2022-03-10T10:44:37.000Z",
+            "snippet": "Network Security at Modern Treasury\n\n•March 10, 2022\n\n# Network Security at Modern Treasury\n\nSecurity is a priority for our customers and key feature of our products. Here are recent examples of our c",
+            "published": "2022-03-10T09:50:58.000Z",
             "score": 0
           }
         ],
@@ -5157,8 +5157,8 @@
           {
             "title": "efeanilarslan/CVE-2026-42167-Exploit",
             "url": "https://github.com/efeanilarslan/CVE-2026-42167-Exploit",
-            "snippet": "# Repository: efeanilarslan/CVE-2026-42167-Exploit\n\nPython exploit for CVE-2026-42167 (ProFTPD mod_sql). Features automated file scanning and timing-based blind data exfiltration.\n\n- Stars: 0\n- Forks:",
-            "published": "2026-05-02T09:09:37.000Z",
+            "snippet": "# efeanilarslan/CVE-2026-42167-Exploit\n\nPython exploit for CVE-2026-42167 (ProFTPD mod_sql). Features automated file scanning and timing-based blind data exfiltration.\n\n- Stars: 0\n- Forks: 0\n- Watcher",
+            "published": "2026-05-02T00:00:00.000Z",
             "score": 1
           },
           {
@@ -5178,9 +5178,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:32.355Z"
+        "enriched_at": "2026-09-03T05:32:05.524Z"
       },
-      "timestamp": "2026-08-21T02:23:33.849Z"
+      "timestamp": "2026-09-03T05:32:06.985Z"
     },
     "notion": {
       "intel": {
@@ -5196,7 +5196,7 @@
             "title": "Notion AI: Data Exfiltration | PromptArmor",
             "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
             "snippet": "Notion AI: Data Exfiltration | PromptArmor\n\nShare on X Share by email\n\nShare by text message Subscribe\n\nThis hit #4 on HackerNews! To view the discussion, click here.\n\nNewPractical Guide to Navigating",
-            "published": "2026-01-09T11:38:16.000Z",
+            "published": "2026-01-09T01:54:17.000Z",
             "score": 0.5
           },
           {
@@ -5224,18 +5224,18 @@
             "score": 0.5
           },
           {
-            "title": "makenotion-security/vulnerability-factory",
-            "url": "https://github.com/makenotion-security/vulnerability-factory",
-            "snippet": "# makenotion-security/vulnerability-factory\n\nVulnerability Factory: a Notion-backed multi-agent workflow for security vulnerability discovery, triage, validation, and patching.\n\n- Stars: 1\n- Forks: 0\n",
+            "title": "giovannipajeu1/CVE-2024-23743",
+            "url": "https://github.com/V3x0r/CVE-2024-23743",
+            "snippet": "# giovannipajeu1/CVE-2024-23743\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2023-12-19T17:07:27Z\n\n## Top Contributors\n\n- giovannipajeu1 (3 contributions)\n\n-",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:33.849Z"
+        "enriched_at": "2026-09-03T05:32:06.985Z"
       },
-      "timestamp": "2026-08-21T02:23:35.308Z"
+      "timestamp": "2026-09-03T05:32:08.526Z"
     },
     "mpesa": {
       "intel": {
@@ -5252,9 +5252,9 @@
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "MetaMask | Report #2280279 - total Failure of password protection while extracting seed phrase! increases attack surface area for scammers | HackerOne",
             "url": "https://hackerone.com/reports/2280279",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "MetaMask | Report #2280279 - total Failure of password protection while extracting seed phrase! increases attack surface area for scammers | HackerOne\n\n131\n\nCopy report id\n\ntotal Failure of password p",
             "published": null,
             "score": 1
           },
@@ -5299,9 +5299,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:35.308Z"
+        "enriched_at": "2026-09-03T05:32:08.526Z"
       },
-      "timestamp": "2026-08-21T02:23:36.727Z"
+      "timestamp": "2026-09-03T05:32:10.105Z"
     },
     "floqast": {
       "intel": {
@@ -5345,18 +5345,18 @@
             "score": 0.5
           },
           {
-            "title": "TatoSec/CVE-2026-33017-Langflop",
-            "url": "https://github.com/TatoSec/CVE-2026-33017-Langflop",
-            "snippet": "# TatoSec/CVE-2026-33017-Langflop\n\nCVE-2026-33017 Langflow RCE PoC \n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-05T18:56:56Z\n\n## Languages\n\n- Python",
-            "published": null,
+            "title": "v3rycl0p3r/CVE-PoC-CVE-2025-58434",
+            "url": "https://github.com/v3rycl0p3r/CVE-PoC-CVE-2025-58434",
+            "snippet": "# Repository: v3rycl0p3r/CVE-PoC-CVE-2025-58434\n\nCVE PoC — CVE-2025-58434\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-10T07:11:50Z\n- Last push: 2026",
+            "published": "2026-05-10T07:11:50.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:36.728Z"
+        "enriched_at": "2026-09-03T05:32:10.105Z"
       },
-      "timestamp": "2026-08-21T02:23:38.163Z"
+      "timestamp": "2026-09-03T05:32:11.598Z"
     },
     "palantir_public": {
       "intel": {
@@ -5378,7 +5378,7 @@
           {
             "title": "Palantir Public | Report #1525200 - SQL Injection at https://files.palantir.com/ due to CVE-2021-38159 | HackerOne",
             "url": "https://hackerone.com/reports/1525200",
-            "snippet": "Palantir Public | Report #1525200 - SQL Injection at https://files.palantir.com/ due to CVE-2021-38159 | HackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](https://hackerone.com/asse",
+            "snippet": "Palantir Public | Report #1525200 - SQL Injection at https://files.palantir.com/ due to CVE-2021-38159 | HackerOne\n\n120\n\nCopy report id\n\nSQL Injection at https://files.palantir.com/ due to CVE-2021-38",
             "published": null,
             "score": 0
           }
@@ -5388,30 +5388,30 @@
           {
             "title": "GitHub - horizon3ai/CVE-2024-9465: Proof of Concept Exploit for CVE-2024-9465 · GitHub",
             "url": "https://github.com/horizon3ai/CVE-2024-9465/tree/main",
-            "snippet": "GitHub - horizon3ai/CVE-2024-9465: Proof of Concept Exploit for CVE-2024-9465 · GitHub\n\n/ CVE-2024-9465 Public\n\nmain\n\nGo to Branches page Go to Tags page\n\nGo to file\n\nCode\n\n| Name | Name | Last commit",
+            "snippet": "GitHub - horizon3ai/CVE-2024-9465: Proof of Concept Exploit for CVE-2024-9465 · GitHub\n\nmain\n\nGo to Branches page\n\nGo to Tags page\n\nGo to file\n\nCode\n\nView commit history for this file.\n\n| Name | Name ",
             "published": "2024-10-09T16:22:05.000Z",
             "score": 1
-          },
-          {
-            "title": "sam00/POC-CVE-2026-0300-exploit",
-            "url": "https://github.com/sam00/POC-CVE-2026-0300-exploit",
-            "snippet": "# sam00/POC-CVE-2026-0300-exploit\n\nPalo Alto - CVE-2026-0300 exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-06T12:37:02Z\n\n## Languages\n\n- Pytho",
-            "published": null,
-            "score": 0.5
           },
           {
             "title": "horizon3ai/CVE-2024-9464",
             "url": "https://github.com/horizon3ai/CVE-2024-9464",
             "snippet": "# horizon3ai/CVE-2024-9464\n\nProof of Concept Exploit for CVE-2024-9464\n\n- Stars: 44\n- Forks: 9\n- Watchers: 44\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-09T16:36:25Z\n\n## Languages\n\n- P",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "sam00/POC-CVE-2026-0300-exploit",
+            "url": "https://github.com/sam00/POC-CVE-2026-0300-exploit",
+            "snippet": "# sam00/POC-CVE-2026-0300-exploit\n\nPalo Alto - CVE-2026-0300 exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-06T12:37:02Z\n\n## Languages\n\n- Pytho",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:38.163Z"
+        "enriched_at": "2026-09-03T05:32:11.598Z"
       },
-      "timestamp": "2026-08-21T02:23:39.679Z"
+      "timestamp": "2026-09-03T05:32:13.039Z"
     },
     "mongodb": {
       "intel": {
@@ -5424,17 +5424,17 @@
             "score": 1
           },
           {
-            "title": "[pymongo] out-of-bounds read PoC (CVE-2024-5629)",
-            "url": "https://gist.github.com/keltecc/62a7c2bf74a997d0a7b48a0ff3853a03",
-            "snippet": "# [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Owner: keltecc\n- Created: 2024-03-03T23:53:34Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## !README.md\n\nLanguage: Markdown\n\n_Assigned CVE_: [CVE-202",
+            "title": "MongoDB Server CVE-2026-11933: Use-After-Free in Server-Side JavaScript BSON Conversion — Quick Look",
+            "url": "https://zeropath.com/blog/cve-2026-11933-mongodb-use-after-free-bson-javascript",
+            "snippet": "Featured: Automated Threat ModelingIntroducing Automated Application Threat Modeling\n\nBack to Blog\n\n# MongoDB Server CVE-2026-11933: Use-After-Free in Server-Side JavaScript BSON Conversion — Quick Lo",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "MongoDB Symbol-Type Authorization Bypass (CVE-2026-18690): Limited User Reaches System Collections — RECON Research",
-            "url": "https://hellorecon.com/blog/cve-2026-18690-mongodb-symbol-type-authz-bypass",
-            "snippet": "MongoDB Symbol-Type Authorization Bypass (CVE-2026-18690): Limited User Reaches System Collections — RECON Research\n\nAUGUST 12, 2026CVSS 8.1 · AUTHZ BYPASS · 4 CVES13 MIN READ\n\n# MongoDB's Symbol-Type",
-            "published": "2026-08-12T05:34:01.000Z",
+            "title": "[pymongo] out-of-bounds read PoC (CVE-2024-5629)",
+            "url": "https://gist.github.com/keltecc/62a7c2bf74a997d0a7b48a0ff3853a03",
+            "snippet": "# [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Owner: keltecc\n- Created: 2024-03-03T23:53:34Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## !README.md\n\nLanguage: Markdown\n\n_Assigned CVE_: [CVE-202",
+            "published": null,
             "score": 0
           }
         ],
@@ -5448,41 +5448,41 @@
             "score": 1
           },
           {
-            "title": "Hamid-K/mongobleed",
-            "url": "https://github.com/Hamid-K/mongobleed",
-            "snippet": "# Repository: Hamid-K/mongobleed (fork of [joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed))\n\nA remote live memory viewer PoC based on the MongoBleed vulnerability primitive!\n\n- St",
-            "published": "2025-12-27T13:12:41.000Z",
-            "score": 0.5
-          },
-          {
             "title": "waheeb71/CVE-2025-14847",
             "url": "https://github.com/waheeb71/CVE-2025-14847",
             "snippet": "# Repository: waheeb71/CVE-2025-14847\n\nCVE-2025-14847 MongoDB Memory Leak Exploit\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch:",
             "published": "2026-01-06T19:14:27.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "joe-desimone/mongobleed",
+            "url": "https://github.com/joe-desimone/mongobleed?tab=readme-ov-file",
+            "snippet": "# Repository: joe-desimone/mongobleed\n\n- Stars: 945\n- Forks: 168\n- Watchers: 6\n- Open issues: 6\n- Primary language: JavaScript\n- Languages: JavaScript (61.5%), Python (38.5%)\n- Default branch: main\n- ",
+            "published": "2025-12-26T00:30:40.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:39.679Z"
+        "enriched_at": "2026-09-03T05:32:13.039Z"
       },
-      "timestamp": "2026-08-21T02:23:41.212Z"
+      "timestamp": "2026-09-03T05:32:14.453Z"
     },
     "ripio": {
       "intel": {
         "writeups": [
           {
-            "title": "Ripio audit by Hacken",
-            "url": "https://hacken.io/audits/ripio/sca-lachain-bridge-oct2023/",
-            "snippet": "Ripio audit by Hacken\n\nQ2 2026 Security & Compliance Report67 incidents, $764M in losses, 88% from operational failures.Get the report →\n\n- Hacken\n- Audits\n- ripio\n- [SCA] LaChain | Bridge | Oct2023\n\n",
-            "published": "2023-10-17T00:00:00.000Z",
-            "score": 1
-          },
-          {
             "title": "Ripio RCN Network Smart Contract Audit Report",
             "url": "https://www.coinfabrik.com/blog/ripio-credit-network-rcn-smart-contract-audit/",
             "snippet": "Ripio RCN Network Smart Contract Audit Report\n\nCoinfabrik’s smart contract audit team was commissioned to conduct a security audit of the contracts for the Ripio RCN Network.\n\nTable of Contents\n\nToggl",
             "published": "2017-11-15T15:09:46.000Z",
+            "score": 1
+          },
+          {
+            "title": "Ripio audit by Hacken",
+            "url": "https://hacken.io/audits/ripio/sca-lachain-bridge-oct2023/",
+            "snippet": "Ripio audit by Hacken\n\nQ2 2026 Security & Compliance Report67 incidents, $764M in losses, 88% from operational failures.Get the report →\n\n- Hacken\n- Audits\n- ripio\n- [SCA] LaChain | Bridge | Oct2023\n\n",
+            "published": "2023-10-17T00:00:00.000Z",
             "score": 0.5
           },
           {
@@ -5519,32 +5519,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:41.212Z"
+        "enriched_at": "2026-09-03T05:32:14.453Z"
       },
-      "timestamp": "2026-08-21T02:23:42.677Z"
+      "timestamp": "2026-09-03T05:32:15.917Z"
     },
     "deribit": {
       "intel": {
         "writeups": [
           {
+            "title": "Smart Contract Vulnerability Surface Analysis: Deribit - DEV Community",
+            "url": "https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-deribit-lgc",
+            "snippet": "Smart Contract Vulnerability Surface Analysis: Deribit - DEV Community\n\n# Smart Contract Vulnerability Surface Analysis: Deribit\n\nTarget Protocol: Deribit (TVL: $4931.4M)\n\n# Deribit – Smart Contract V",
+            "published": "2026-08-29T14:39:29.000Z",
+            "score": 1
+          },
+          {
+            "title": "Gas Optimization Audit: Deribit - DEV Community",
+            "url": "https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-deribit-47ib",
+            "snippet": "Gas Optimization Audit: Deribit - DEV Community\n\n# Gas Optimization Audit: Deribit\n\nTarget Protocol: Deribit (TVL: $5051.5M)\n\n# Technical Security & Gas Optimization Audit Report\n\nProject: Deribit (Et",
+            "published": "2026-08-30T19:53:39.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Deribit $28 Million Hot Wallet Hack Analysis | by QuillAudits Team | Medium | Medium",
             "url": "https://quillaudits.medium.com/deribit-28-million-hot-wallet-hack-analysis-quillaudits-1ae00c6b946d",
             "snippet": "Deribit $28 Million Hot Wallet Hack Analysis | by QuillAudits Team | Medium | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Deribit’s $28 Million Hot Wallet Hack Analysis | QuillAudits\n\nQuillAudits - Web3 Secu",
             "published": "2022-11-08T12:40:46.000Z",
-            "score": 1
-          },
-          {
-            "title": "Deribit Incident Analysis - CertiK",
-            "url": "https://www.certik.com/blog/deribit-incident-analysis",
-            "snippet": "Deribit Incident Analysis - CertiK\n\n# Deribit Incident Analysis\n\nNov 22, 2022\n\n## TL;DR\n\nOn November 2nd, 2022, Deribit Exchange’s hot wallet was compromised. Client funds are safe as the loss will be",
-            "published": "2022-11-22T05:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Deribit Incident Analysis - CertiK",
-            "url": "https://www.certik.com/ko/blog/deribit-incident-analysis",
-            "snippet": "Deribit Incident Analysis - CertiK\n\n# Deribit Incident Analysis\n\n## TL;DR\n\nOn November 2nd, 2022, Deribit Exchange’s hot wallet was compromised. Client funds are safe as the loss will be covered by co",
-            "published": "2022-11-22T05:00:00.000Z",
             "score": 0
           }
         ],
@@ -5574,9 +5574,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:42.678Z"
+        "enriched_at": "2026-09-03T05:32:15.917Z"
       },
-      "timestamp": "2026-08-21T02:23:44.108Z"
+      "timestamp": "2026-09-03T05:32:17.331Z"
     },
     "sorare": {
       "intel": {
@@ -5598,7 +5598,7 @@
           {
             "title": "Sorare | Report #2048725 - Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql | HackerOne",
             "url": "https://hackerone.com/reports/2048725",
-            "snippet": "Sorare | Report #2048725 - Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql | HackerOne\n[Skip to main content",
+            "snippet": "Sorare | Report #2048725 - Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql | HackerOne\n\n56\n\nCopy report id\n\n",
             "published": null,
             "score": 0
           }
@@ -5629,9 +5629,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-19T02:18:53.160Z"
+        "enriched_at": "2026-09-03T05:32:17.331Z"
       },
-      "timestamp": "2026-08-19T02:18:54.562Z"
+      "timestamp": "2026-09-03T05:32:18.763Z"
     },
     "hilton": {
       "intel": {
@@ -5967,17 +5967,17 @@
       "intel": {
         "writeups": [
           {
-            "title": "Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers - The Crypto Post",
-            "url": "https://thecryptopost.io/yuga-labs-just-pulled-off-a-500000-crypto-heist-against-these-hackers/",
-            "snippet": "Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers - The Crypto Post\n\n# Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers\n\n 2 months ago CryptoExpert \n\nY",
-            "published": "2026-06-08T15:17:48.000Z",
+            "title": "Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers | Bitcoinist.com",
+            "url": "https://bitcoinist.com/yuga-labs-just-pulled-off-a-500000-crypto-heist/",
+            "snippet": "Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers | Bitcoinist.com\n\n# Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers\n\n by James Halver \n\n Last Update",
+            "published": "2026-06-08T15:14:26.000Z",
             "score": 1
           },
           {
-            "title": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit",
-            "url": "https://crypto.news/yuga-labs-rescues-68-nfts-after-flooring-protocol-exploit/",
-            "snippet": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit\n\nBitcoin (BTC)\n\n$64,968.00\n\n0.1\n\nEthereum (ETH)\n\n$1,918.95\n\n0.4\n\nXRP (XRP)\n\n$1.04\n\n0.3\n\nBNB (BNB)\n\n$595.52\n\n1\n\nSolana (SOL)\n\n$75.46\n\n2.8\n\nHype",
-            "published": "2026-06-08T05:21:06.000Z",
+            "title": "How Yuga Labs Used Exploit Tactics to Save Stolen NFTs",
+            "url": "https://turbonfts.com/articles/yuga-labs-executes-white-hat/",
+            "snippet": "How Yuga Labs Used Exploit Tactics to Save Stolen NFTs\n\nNews July 30, 13:57\n\n# Yuga Labs Executes White-Hat Rescue to Save $500K in Blue-Chip NFTs\n\nAs Crypto Briefing reports, Yuga Labs pulled 68 NFTs",
+            "published": "2026-07-30T11:57:28.000Z",
             "score": 0.5
           },
           {
@@ -5998,25 +5998,25 @@
             "score": 1
           },
           {
-            "title": "DK27ss/FoomClub-1.6M-PoC",
-            "url": "https://github.com/DK27ss/FoomClub-1.6M-PoC",
-            "snippet": "# DK27ss/FoomClub-1.6M-PoC\n\n groth16 verifier had `delta2 == gamma2` \n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-26T09:09:52Z\n\n## Languages\n\n- Coff",
+            "title": "src/test/2026-08/USM_exp.sol",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2026-08/USM_exp.sol",
+            "snippet": "# src/test/2026-08/USM_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: MIT\npragma solidity ^0.8.20;\n\nimport \"forge-std/Test.sol\";\n\n// USM (Minimalist US",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "src/test/2025-01/Paribus_exp.sol at 1cd8127fe960e0b36e9a16633fe0231c5adf4d78 · SunWeb3Sec/DeFiHackLabs",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/1cd8127fe960e0b36e9a16633fe0231c5adf4d78/src/test/2025-01/Paribus_exp.sol",
-            "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2025-01/Paribus_exp.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 7K stars | Solidity\n- Branch: 1cd8127fe960e0b",
+            "title": "DK27ss/FoomClub-1.6M-PoC",
+            "url": "https://github.com/DK27ss/FoomClub-1.6M-PoC",
+            "snippet": "# DK27ss/FoomClub-1.6M-PoC\n\n groth16 verifier had `delta2 == gamma2` \n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-26T09:09:52Z\n\n## Languages\n\n- Coff",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-21T02:23:30.878Z"
+        "enriched_at": "2026-09-03T05:32:04.030Z"
       },
-      "timestamp": "2026-08-21T02:23:32.354Z"
+      "timestamp": "2026-09-03T05:32:05.524Z"
     },
     "abercrombie_fitch_bbp": {
       "intel": {
@@ -6184,5 +6184,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-09-02T05:31:34.301Z"
+  "lastRun": "2026-09-03T05:32:18.764Z"
 }
