@@ -1437,9 +1437,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:58:53.950Z"
+        "enriched_at": "2026-09-04T05:37:34.721Z"
       },
-      "timestamp": "2026-08-27T10:58:55.460Z"
+      "timestamp": "2026-09-04T05:37:36.141Z"
     },
     "twilio": {
       "intel": {
@@ -1492,9 +1492,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:58:55.461Z"
+        "enriched_at": "2026-09-04T05:37:36.141Z"
       },
-      "timestamp": "2026-08-27T10:58:56.989Z"
+      "timestamp": "2026-09-04T05:37:37.648Z"
     },
     "doordash": {
       "intel": {
@@ -1507,16 +1507,16 @@
             "score": 1
           },
           {
-            "title": "DoorDash Security Flaw - Email Impersonation Risk | Scenario.press...",
-            "url": "https://www.scenario.press/blogs/311293/DoorDash-Security-Flaw-Email-Impersonation-Risk",
-            "snippet": "DoorDash Security Flaw - Email Impersonation Risk | Scenario.press...\n\nSearch Results\n\nSee All Results\n\nJoin\n\nNight Mode\n\n### DoorDash Security Flaw - Email Impersonation Risk\n\n0\n\n633\n\nA recent securi",
-            "published": "2026-03-11T21:53:11.000Z",
+            "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
+            "url": "https://cybernoz.com/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
+            "snippet": "# DoorDash email spoofing vulnerability sparks messy disclosure dispute\n\nTable of Contents\n\n1. Anyone could send 'official' DoorDash emails\n2. Escalated after 15 months\n3. Ethical disclosure derailed,",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "CVE-2019-17397 — Critical in Doordash (CVSS 9.8) | ScoobyLabs",
-            "url": "https://scoobylabs.net/cve/CVE-2019-17397",
-            "snippet": "CVE-2019-17397 — Critical in Doordash (CVSS 9.8) | ScoobyLabs\n\nLIVE\n\nNEW KEV CVE-2026-25089 Fortinet FortiSandbox · CVSS 9.8|NEW KEV CVE-2026-39808 Fortinet FortiSandbox · CVSS 9.8|NEW KEV CVE-2026-58",
+            "title": "CVE-2019-17397: Doordash Vulnerability (CVSS 9.8) — Fix & Details",
+            "url": "https://www.strix.ai/cve/CVE-2019-17397",
+            "snippet": "CVE-2019-17397: Doordash Vulnerability (CVSS 9.8) — Fix & Details\n\nCVE-2019-17397 is a critical-severity vulnerability rated 9.8/10 on the CVSS scale. In the DoorDash application through 11.5.2 for An",
             "published": "2019-10-15T15:15:11.000Z",
             "score": 0
           }
@@ -1547,9 +1547,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:58:56.989Z"
+        "enriched_at": "2026-09-04T05:37:37.648Z"
       },
-      "timestamp": "2026-08-27T10:58:58.601Z"
+      "timestamp": "2026-09-04T05:37:39.057Z"
     },
     "robinhood": {
       "intel": {
@@ -1571,7 +1571,7 @@
           {
             "title": "Robinhood Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/robinhood/",
-            "snippet": "Robinhood Bug Bounty Program - Bug Bounties\n\n# Robinhood\n\nBounty\n\nRecognition\n\n## Program Details\n\nHandle robinhood Managed Yes\n\n## Response Metrics\n\nResponse Time 9 days Bounty Time 61 days Resolutio",
+            "snippet": "Robinhood Bug Bounty Program - Bug Bounties\n\n# Robinhood\n\nBounty\n\nRecognition\n\n## Program Details\n\nHandle robinhood Managed Yes\n\n## Response Metrics\n\nResponse Time 14 days Bounty Time 58 days Resoluti",
             "published": null,
             "score": 0
           }
@@ -1586,10 +1586,10 @@
             "score": 1
           },
           {
-            "title": "robinhood-sniper-bot/README.md at master · LaChance-Lab/robinhood-sniper-bot · GitHub",
+            "title": "README.md",
             "url": "https://github.com/LaChance-Lab/robinhood-sniper-bot/blob/master/README.md",
-            "snippet": "robinhood-sniper-bot/README.md at master · LaChance-Lab/robinhood-sniper-bot · GitHub\n\n## FilesExpand file tree\n\nmaster\n\n# README.md\n\nBlame\n\nBlame\n\nView commit history for this file.\n\n185 lines (133 l",
-            "published": "2025-12-05T10:02:29.000Z",
+            "snippet": "# README.md\n\n- Branch: master\n- Repository: LaChance-Lab/robinhood-sniper-bot\n\n---\n\n# Robinhood Sniper Bot\n\nA token monitor and trading bot for Robinhood Chain (EVM). It watches DEX factories for newl",
+            "published": null,
             "score": 0.5
           },
           {
@@ -1602,9 +1602,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:58:58.601Z"
+        "enriched_at": "2026-09-04T05:37:39.057Z"
       },
-      "timestamp": "2026-08-27T10:59:00.134Z"
+      "timestamp": "2026-09-04T05:37:40.450Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1657,9 +1657,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:59:00.134Z"
+        "enriched_at": "2026-09-04T05:37:40.450Z"
       },
-      "timestamp": "2026-08-27T10:59:01.663Z"
+      "timestamp": "2026-09-04T05:37:41.844Z"
     },
     "banco_plata": {
       "intel": {
@@ -1679,10 +1679,10 @@
             "score": 0.5
           },
           {
-            "title": "Is Banco Plata Legit & Safe? What Users Say (2026) | Unstar",
-            "url": "https://unstar.app/it/blog/is-banco-plata-legit-safe-credit-card-app-reviews-2026",
-            "snippet": "Is Banco Plata Legit & Safe? What Users Say (2026) | Unstar\n\nApp Reviews July 5, 202610 min read\n\n# Is Banco Plata Legit & Safe? What Users Say (2026)\n\nBy Unstar· Editorial Team\n\nBanco Plata is a lice",
-            "published": "2026-07-05T04:43:44.000Z",
+            "title": "CVE-2024-49380 — Remote Code Execution in Plenti+1 Plenti+1 | dbugs",
+            "url": "https://dbugs.ptsecurity.com/vulnerability/PT-2024-33494",
+            "snippet": "CVE-2024-49380 — Remote Code Execution in Plenti+1 Plenti+1 | dbugs\n\nBack\n\n## PT-2024-33494 · Plenti+1 · Plenti+1\n\n+1\n\n·\n\n# CVE-2024-49380\n\n·\n\nPublished\n\n2024-10-25\n\n·\n\nUpdated\n\n2025-05-06\n\nGeneral\n\nR",
+            "published": "2024-10-25T22:21:19.000Z",
             "score": 0
           }
         ],
@@ -1712,9 +1712,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:59:01.663Z"
+        "enriched_at": "2026-09-04T05:37:41.844Z"
       },
-      "timestamp": "2026-08-27T10:59:03.172Z"
+      "timestamp": "2026-09-04T05:37:43.240Z"
     },
     "netscaler_public_program": {
       "intel": {
@@ -1760,16 +1760,16 @@
           {
             "title": "watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452",
             "url": "https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452",
-            "snippet": "# watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452\n\nCVE-2026-8452 PreAuth RCE\n\n- Stars: 58\n- Forks: 13\n- Watchers: 58\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-14",
+            "snippet": "# watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452\n\nCVE-2026-8452 PreAuth RCE\n\n- Stars: 60\n- Forks: 15\n- Watchers: 60\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-14",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:59:03.172Z"
+        "enriched_at": "2026-09-04T05:37:43.240Z"
       },
-      "timestamp": "2026-08-27T10:59:04.706Z"
+      "timestamp": "2026-09-04T05:37:44.689Z"
     },
     "meesho_bbp": {
       "intel": {
@@ -5834,24 +5834,24 @@
           },
           {
             "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: adriyansyah-mf/cve-2026-41940-poc\n\n---\n\nimport argparse\nimport base64\nimport json\nimport re\nimport sys\nimport urllib.parse\nimport requests\nimport urllib3\n\nur",
             "published": null,
             "score": 0.5
           },
           {
             "title": "exploit.py",
-            "url": "https://github.com/adriyansyah-mf/cve-2026-41940-poc/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: adriyansyah-mf/cve-2026-41940-poc\n\n---\n\nimport argparse\nimport base64\nimport json\nimport re\nimport sys\nimport urllib.parse\nimport requests\nimport urllib3\n\nur",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:58:52.358Z"
+        "enriched_at": "2026-09-04T05:37:33.230Z"
       },
-      "timestamp": "2026-08-27T10:58:53.950Z"
+      "timestamp": "2026-09-04T05:37:34.721Z"
     },
     "anthropic": {
       "intel": {
@@ -5959,9 +5959,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:58:50.841Z"
+        "enriched_at": "2026-09-04T05:37:31.837Z"
       },
-      "timestamp": "2026-08-27T10:58:52.358Z"
+      "timestamp": "2026-09-04T05:37:33.230Z"
     },
     "yuga_labs": {
       "intel": {
@@ -6091,9 +6091,9 @@
             "score": 0.5
           },
           {
-            "title": "HackerOne",
+            "title": "Wolt | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/wolt",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
+            "snippet": "Wolt | Bounty Policy | HackerOne\n\ncollapse menu\n\nSecurity page\n\n## Introduction\n\nMenu\n\nWolt provides a platform for:\n\n- Businesses to sell products (like food, clothing and even electronics).\n- Custom",
             "published": null,
             "score": 0
           }
@@ -6124,9 +6124,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-27T10:58:49.195Z"
+        "enriched_at": "2026-09-04T05:37:30.420Z"
       },
-      "timestamp": "2026-08-27T10:58:50.841Z"
+      "timestamp": "2026-09-04T05:37:31.836Z"
     },
     "vercel_sandbox": {
       "intel": {
@@ -6184,5 +6184,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-09-03T05:32:18.764Z"
+  "lastRun": "2026-09-04T05:37:44.690Z"
 }
