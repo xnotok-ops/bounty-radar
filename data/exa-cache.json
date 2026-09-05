@@ -1813,18 +1813,18 @@
             "score": 0.5
           },
           {
-            "title": "A vulnerability was identified in Meesho Online Shopping... · CVE-2026-18591 · GitHub Advisory Database · GitHub",
-            "url": "https://github.com/advisories/GHSA-7gc3-pw6r-7mq6",
-            "snippet": "A vulnerability was identified in Meesho Online Shopping... · CVE-2026-18591 · GitHub Advisory Database · GitHub\n\n## A vulnerability was identified in Meesho Online Shopping...\n\nLow severity Unreviewe",
-            "published": null,
+            "title": "A vulnerability has been found in Meesho Online Shopping... · CVE-2026-5682 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/ghsa-2j2r-9pgw-95hp",
+            "snippet": "A vulnerability has been found in Meesho Online Shopping... · CVE-2026-5682 · GitHub Advisory Database · GitHub\n\n## A vulnerability has been found in Meesho Online Shopping... \n\n Moderate severity Unr",
+            "published": "2026-04-06T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-28T12:33:45.113Z"
+        "enriched_at": "2026-09-05T05:21:28.977Z"
       },
-      "timestamp": "2026-08-28T12:33:46.834Z"
+      "timestamp": "2026-09-05T05:21:30.501Z"
     },
     "braze_inc": {
       "intel": {
@@ -4576,13 +4576,13 @@
             "title": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman",
             "url": "https://cdn-4.timesofoman.com/article/122530-vodafone-oman-challenges-local-and-international-ethical-hackers-to-to-take-their-best-shot",
             "snippet": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman\n\n# Vodafone Oman challenges local and international ethical hackers to to take their best sh",
-            "published": null,
+            "published": "2022-10-19T00:00:00.000Z",
             "score": 0.5
           },
           {
             "title": "Vodafone Oman Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/vodafone-oman/",
-            "snippet": "Vodafone Oman Bug Bounty Program - Bug Bounties\n\n# Vodafone Oman\n\nTop 1M site\n\nBounty\n\n## Program Details\n\nHandle vodafone_oman Managed No\n\n## Response Metrics\n\nResponse Time 23 days\n\nResponse Efficie",
+            "snippet": "Vodafone Oman Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: vodafone_oman \nManaged\n: No \n\n## Response Metrics \n\nResponse Time\n: 20 days \nResolution Time\n: 36 days \n\n Resp",
             "published": null,
             "score": 0
           }
@@ -4590,32 +4590,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "sorrow404Null/CVE-2026-43499-RMX5200",
-            "url": "https://github.com/sorrow404Null/-CVE-2026-43499-RMX5200",
-            "snippet": "# sorrow404Null/CVE-2026-43499-RMX5200\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issues: 1\n- Default branch: master\n- Created: 2026-07-17T13:08:15Z\n\n## Languages\n\n- Assembly\n- C\n- Makefile\n- Python\n",
+            "title": "danish1162/CVE-2026-2035703-x300",
+            "url": "https://github.com/danish1162/CVE-2026-2035703-x300",
+            "snippet": "# danish1162/CVE-2026-2035703-x300\n\nTozed ZLT X300 5G CPE — Remote Root Code Execution via SDR Rogue Base Station (CVE-2026-2035703, CWE-78, CVSS 9.8) — Coordinated Disclosure\n\n- Stars: 0\n- Forks: 0\n-",
             "published": null,
             "score": 1
+          },
+          {
+            "title": "sorrow404Null/CVE-2026-43499-RMX5200",
+            "url": "https://github.com/sorrow404Null/-CVE-2026-43499-RMX5200",
+            "snippet": "# sorrow404Null/CVE-2026-43499-RMX5200\n\n- Stars: 6\n- Forks: 9\n- Watchers: 6\n- Open issues: 0\n- Default branch: master\n- Created: 2026-07-17T13:08:15Z\n\n## Languages\n\n- Assembly\n- C\n- Makefile\n- Python\n",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "zerozenxlabs/ZDI-24-020",
             "url": "https://github.com/Nassim-Asrir/ZDI-24-020/",
             "snippet": "# Repository: zerozenxlabs/ZDI-24-020\n\n- Stars: 128\n- Forks: 16\n- Watchers: 128\n- Open issues: 1\n- Primary language: C\n- Languages: C (82.9%), Python (17.0%), Makefile (0.2%)\n- Default branch: main\n- ",
             "published": "2024-01-16T21:51:08.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "redpack-kr/CVE-2024-5243-pwn2own-toronto-2023",
-            "url": "https://github.com/redpack-kr/CVE-2024-5243-pwn2own-toronto-2023",
-            "snippet": "# redpack-kr/CVE-2024-5243-pwn2own-toronto-2023\n\nPre-authentication Remote Code Execution exploit for TP-Link Omada ER605 router via DDNS client daemon (cmxddnsd)\n\n- Stars: 0\n- Forks: 1\n- Watchers: 0\n",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-28T12:33:46.834Z"
+        "enriched_at": "2026-09-05T05:21:30.502Z"
       },
-      "timestamp": "2026-08-28T12:33:48.499Z"
+      "timestamp": "2026-09-05T05:21:31.989Z"
     },
     "frontegg": {
       "intel": {
@@ -4678,8 +4678,8 @@
           {
             "title": "Medium",
             "url": "https://infosecwriteups.com/critical-blind-sql-injection-leads-to-4-134-7-30-days-d8918ff3d2d0",
-            "snippet": "MediumCritical Blind SQL Injection leads to $4,134 (7/30 DAYS) | by 0day stories | InfoSec Write-ups\n\nSign up\n\nGet app\n\nSign up\n\n## InfoSec Write-ups\n\nA collection of write-ups from the best hackers i",
-            "published": "2025-01-15T14:45:41.000Z",
+            "snippet": "Medium\n\n# Critical Blind SQL Injection leads to $4,134 (7/30 DAYS)\n\nJan 15, 2025\n\nUnderstanding the Risk: How a Blind SQL Injection Was Discovered in inDrive\n\n## Hi Bug Bounty Hunters!!!\n\nI’m a securi",
+            "published": "2025-01-15T00:00:00.000Z",
             "score": 1
           },
           {
@@ -4690,10 +4690,10 @@
             "score": 0.5
           },
           {
-            "title": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty",
-            "url": "https://regan.cybersechere.com/2024/01/revealing-ssrf-exploitation-in-indrives.html",
-            "snippet": "Revealing SSRF Exploitation in inDrive's File Storage API | Bug Bounty Skip to main content\n\nHey Security Enthusiasts!\n\nI'm System.Exit, and today we're unraveling a recent bug bounty discovery by cyp",
-            "published": "2024-01-17T15:09:00.000Z",
+            "title": "Untitled",
+            "url": "https://hackernoon.com/strengthening-cybersecurity-breaking-down-indrives-bug-bounty-program",
+            "snippet": "20,478 reads\n\n# Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program\n\nby\n\ninDrive.Tech\n\nbyinDrive.Tech|@indrivetech\n\nTeam of inDrive developers who know how to experiment and learn ",
+            "published": null,
             "score": 0
           }
         ],
@@ -4723,9 +4723,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-28T12:33:50.104Z"
+        "enriched_at": "2026-09-05T05:21:31.989Z"
       },
-      "timestamp": "2026-08-28T12:33:51.705Z"
+      "timestamp": "2026-09-05T05:21:33.441Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4781,15 +4781,15 @@
           {
             "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne",
             "url": "https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community",
-            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nHackerOne Team\n\nIs",
-            "published": null,
+            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community | HackerOne\n\n# How REI Strengthens Security with HackerOne’s Global Security Researcher Community \n\nNovember 18, 2024",
+            "published": "2024-11-19T00:41:36.000Z",
             "score": 1
           },
           {
-            "title": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community - Cybernoz",
+            "title": "Untitled",
             "url": "https://cybernoz.com/how-rei-strengthens-security-with-hackerones-global-security-researcher-community/",
-            "snippet": "How REI Strengthens Security with HackerOne’s Global Security Researcher Community - Cybernoz\n\nTable of Contents\n\n1. Q: Please introduce yourself. Tell us what you do at REI and why cybersecurity is i",
-            "published": "2024-11-19T18:56:40.000Z",
+            "snippet": "# How REI Strengthens Security with HackerOne’s Global Security Researcher Community\n\nTable of Contents\n\n1. Q: Please introduce yourself. Tell us what you do at REI and why cybersecurity is important ",
+            "published": null,
             "score": 0.5
           },
           {
@@ -4812,7 +4812,7 @@
           {
             "title": "berabuddies/redis-poc",
             "url": "http://github.com/berabuddies/redis-poc",
-            "snippet": "# berabuddies/redis-poc\n\nRCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1\n\n- Stars: 467\n- Forks: 113\n- Watchers: 467\n- Open issues: 2\n- Default branch: main\n- Created: 2026-07-22T22:26:08Z\n\n## Top",
+            "snippet": "# berabuddies/redis-poc\n\nRCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1\n\n- Stars: 509\n- Forks: 121\n- Watchers: 509\n- Open issues: 2\n- Default branch: main\n- Created: 2026-07-22T22:26:08Z\n\n## Lan",
             "published": null,
             "score": 0.5
           },
@@ -4826,9 +4826,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-28T12:33:53.370Z"
+        "enriched_at": "2026-09-05T05:21:33.442Z"
       },
-      "timestamp": "2026-08-28T12:33:54.969Z"
+      "timestamp": "2026-09-05T05:21:34.914Z"
     },
     "mergify": {
       "intel": {
@@ -4851,7 +4851,7 @@
             "title": "We Let an LLM Open Pull Requests Against Your .mergify.yml. The Prompt Was the Easy Part. | Mergify",
             "url": "https://mergify.com/blog/llm-pull-requests-mergify-yml",
             "snippet": "We Let an LLM Open Pull Requests Against Your .mergify.yml. The Prompt Was the Easy Part. | Mergify\n\nAlexandre Gaubert\n\nJune 5, 2026 · 8 min read\n\n# We Let an LLM Open Pull Requests Against Your .merg",
-            "published": null,
+            "published": "2026-06-05T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -4881,9 +4881,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-28T12:33:54.969Z"
+        "enriched_at": "2026-09-05T05:21:34.914Z"
       },
-      "timestamp": "2026-08-28T12:33:56.696Z"
+      "timestamp": "2026-09-05T05:21:36.640Z"
     },
     "coinhako": {
       "intel": {
@@ -4968,21 +4968,21 @@
           {
             "title": "Arkose Labs Client API Content-Security-Policy Bypass Scanner",
             "url": "https://s4e.io/tools/arkose-labs-client-api-content-security-policy-bypass-scanner",
-            "snippet": "Arkose Labs Client API Content-Security-Policy Bypass Scanner\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter error!\n\nParameter e",
+            "snippet": "Arkose Labs Client API Content-Security-Policy Bypass Scanner\n\n# Arkose Labs Client API Content-Security-Policy Bypass Scanner\n\nThis scanner detects the use of Arkose Labs Client API in digital assets",
             "published": null,
             "score": 1
           },
           {
             "title": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement",
             "url": "https://blog.crawlex.net/blog/arkose-funcaptcha-internals/",
-            "snippet": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement Skip to content\n\nMost CAPTCHAs ask you to prove you are human by doing something a computer is supposed to be bad at: re",
+            "snippet": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement\n\n# Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement \n\n Daniel Mercer Sat, May 16, 2026 · ",
             "published": "2026-05-16T00:00:00.000Z",
             "score": 0.5
           },
           {
             "title": "Arkose Labs' token flow: from session to verdict, and how difficulty scales",
             "url": "https://blog.crawlex.net/blog/arkose-labs-token-flow/",
-            "snippet": "Arkose Labs' token flow: from session to verdict, and how difficulty scales Skip to content\n\nA user clicks submit. Somewhere between that click and your server deciding whether to honour the request, ",
+            "snippet": "Arkose Labs' token flow: from session to verdict, and how difficulty scales\n\n# Arkose Labs' token flow: from session to verdict, and how difficulty scales \n\n Daniel Mercer Fri, May 15, 2026 · 22 min r",
             "published": "2026-05-15T00:00:00.000Z",
             "score": 0
           }
@@ -5013,9 +5013,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-28T12:33:56.696Z"
+        "enriched_at": "2026-09-05T05:21:36.640Z"
       },
-      "timestamp": "2026-08-28T12:33:58.395Z"
+      "timestamp": "2026-09-05T05:21:38.130Z"
     },
     "alsco": {
       "intel": {
@@ -5023,21 +5023,21 @@
           {
             "title": "Twitter",
             "url": "https://www.noscope.com/blog/cve-2026-35482-noscope-alf-rce",
-            "snippet": "Blog\n\n# Security insights & updates\n\nUpdates, blog posts, analysis, and technical deep-dives\n\nCVE-2026-35482: NoScope Found an RCE Hidden Inside Alf.io's Extension Sandbox\n\nBlog\n\n# CVE-2026-35482: NoS",
+            "snippet": "# CVE-2026-35482: NoScope Found an RCE Hidden Inside Alf.io's Extension Sandbox\n\nHow NoScope uncovered an authenticated remote code execution flaw in Alf.io's extension system. A single exposed Java b",
             "published": "2026-06-04T00:15:58.000Z",
             "score": 1
           },
           {
-            "title": "BJeEgqNZR",
+            "title": "ACSC 2024 writeup - HackMD",
             "url": "https://hackmd.io/@BlackFrost/BJeEgqNZR",
-            "snippet": "---\n# System prepended metadata\n\ntitle: ACSC 2024 writeup\n\n---\n\n# ACSC 2024 writeup\n\n## Web:\n\n### Login!\nA simple login page, our target is to login as `user`. \n\n```javascript\nconst user = USER_DB[use",
+            "snippet": "ACSC 2024 writeup - HackMD\n\n# ACSC 2024 writeup ## Web: ### Login! A simple login page, our target is to login as `user`. ```javascript const user = USER_DB[username]; if (user && user.password == pas",
             "published": null,
             "score": 0.5
           },
           {
             "title": "ALSCO Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/alsco/",
-            "snippet": "ALSCO Bug Bounty Program - Bug Bounties\n\n# ALSCO\n\nBounty\n\nRecognition\n\nSwag Full Safe Harbor\n\n## Program Details\n\nHandle alsco Managed No\n\n## Response Metrics\n\nResponse Time 13 days\n\nResponse Efficien",
+            "snippet": "ALSCO Bug Bounty Program - Bug Bounties\n\n# ALSCO\n\nBounty Recognition Swag Full Safe Harbor \n\n## Program Details \n\n Handle \n: alsco \nManaged\n: No \n\n## Response Metrics \n\nResponse Time\n: 13 days \n\n Resp",
             "published": null,
             "score": 0
           }
@@ -5054,8 +5054,8 @@
           {
             "title": "data-cve-poc-py-v1/2026/CVE-2026-28289 at main · XiaomingX/data-cve-poc-py-v1 · GitHub",
             "url": "https://github.com/XiaomingX/data-cve-poc-py-v1/tree/main/2026/CVE-2026-28289",
-            "snippet": "data-cve-poc-py-v1/2026/CVE-2026-28289 at main · XiaomingX/data-cve-poc-py-v1 · GitHub\n\n## Files\n\nmain\n\n# CVE-2026-28289\n\nmain\n\n# CVE-2026-28289\n\nTop\n\nLast commit message\n\nLast commit date\n\nView all f",
-            "published": "2026-02-01T03:41:41.000Z",
+            "snippet": "data-cve-poc-py-v1/2026/CVE-2026-28289 at main · XiaomingX/data-cve-poc-py-v1 · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| paren",
+            "published": "2026-02-01T00:00:00.000Z",
             "score": 0.5
           },
           {
@@ -5068,9 +5068,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-28T12:33:58.395Z"
+        "enriched_at": "2026-09-05T05:21:38.130Z"
       },
-      "timestamp": "2026-08-28T12:33:59.967Z"
+      "timestamp": "2026-09-05T05:21:39.776Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5639,7 +5639,7 @@
           {
             "title": "Hilton Tomfoolery | Engineered.at",
             "url": "https://engineered.at/articles/hilton-tomfoolery",
-            "snippet": "Hilton Tomfoolery | Engineered.at\n\n## AI Summary\n\nHilton Honors Digital Key unlock flows were reverse-engineered via mitmproxy, showing GraphQL enrollment at`m.hilton.io/graphql/customer?operationName",
+            "snippet": "Hilton Tomfoolery | Engineered.at\n\n# Hilton Tomfoolery \n\n site@zera · Oct 13, 2024· 10 min read·\n\n## AI Summary\n\nHilton Honors Digital Key unlock flows were reverse-engineered via mitmproxy, showing G",
             "published": "2024-10-13T00:00:00.000Z",
             "score": 1
           },
@@ -5653,8 +5653,8 @@
           {
             "title": "Hilton Tomfoolery",
             "url": "https://dunkirk.sh/blog/hilton-tomfoolery/",
-            "snippet": "Hilton Tomfoolery\n\nKieran\n\nKlukas\n\n2008-04-27\n\nmale\n\n18, nix nerd, photographer, hardware kid, cyber operator\n\nme@dunkirk.sh\n\nUnited States of America\n\n../hilton-tomfoolery\n\nhttps://dunkirk.sh/blog/hi",
-            "published": null,
+            "snippet": "Hilton Tomfoolery\n\nme@dunkirk.sh\n\nPublished \n\n2024-10-13\n\nBy Kieran Klukas\n\n# Hilton Tomfoolery\n\nI’m at a Hilton at the time of writing this, and I’m decently bored. Currently, I’m downloading the lat",
+            "published": "2024-10-13T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5675,41 +5675,41 @@
             "score": 0.5
           },
           {
-            "title": "64cec2c570dfcf8d7f0ca955fd115f8c",
-            "url": "https://gist.github.com/gaasedelen/64cec2c570dfcf8d7f0ca955fd115f8c",
-            "snippet": "# 64cec2c570dfcf8d7f0ca955fd115f8c\n\n- Owner: gaasedelen\n- Created: 2019-06-26T14:40:21Z\n- Public: no\n- Comments: 0\n- Forks: 0\n\n## tsx-hax.py\n\nLanguage: Python\n\n#!/usr/bin/env python2\n\n#\n# Hotel-Califo",
+            "title": "Lulztigre/cve-2026-41042",
+            "url": "https://github.com/Lulztigre/cve-2026-41042",
+            "snippet": "# Lulztigre/cve-2026-41042\n\nPOC for CVE-2026-41042\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-17T11:15:58Z\n\n## Languages\n\n- Python\n\n## Top Contribu",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-11T03:04:40.781Z"
+        "enriched_at": "2026-09-05T05:21:41.262Z"
       },
-      "timestamp": "2026-08-11T03:04:42.333Z"
+      "timestamp": "2026-09-05T05:21:42.758Z"
     },
     "compass-bbp": {
       "intel": {
         "writeups": [
           {
+            "title": "CVE-2026-9101: Compass Prototype Pollution (CVSS 5.3)",
+            "url": "https://www.strix.ai/cve/CVE-2026-9101",
+            "snippet": "CVE-2026-9101: Compass Prototype Pollution (CVSS 5.3)\n\n# CVE-2026-9101\n\nLast modified Jul 23, 2026\n\nCVE-2026-9101 is a medium-severity vulnerability rated 5.3/10 on the CVSS scale. Prototype pollution",
+            "published": "2026-05-20T17:16:32.000Z",
+            "score": 1
+          },
+          {
             "title": "Bug Bounty: Insights from Our First-hand Experience – Compass Security Blog",
             "url": "https://blog.compass-security.com/2024/05/bug-bounty-insights-from-our-first-hand-experience/",
             "snippet": "Bug Bounty: Insights from Our First-hand Experience – Compass Security Blog\n\n## Compass Security Blog\n\nCompass Security Blog — Offensive Defense\n\n### Offensive Defense\n\n# Bug Bounty: Insights from Our",
             "published": "2024-05-01T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "MongoDB Compass CVE-2026-9101 (MEDIUM 5.3) - vuln.today",
-            "url": "https://vuln.today/cve/CVE-2026-9101",
-            "snippet": "MongoDB Compass CVE-2026-9101 (MEDIUM 5.3) - vuln.today\n\n# MongoDB Compass CVE-2026-9101\n\n| EUVD-2026-31127 MEDIUM\n\nImproperly Controlled Modification of Object Prototype Attributes (Prototype Polluti",
-            "published": "2026-05-20T16:18:10.000Z",
             "score": 0.5
           },
           {
-            "title": "How FireCompass AI Agents Reached HackerOne's Top 3 on $5,000 a Month: Full Methodology, Data, and Limitations",
-            "url": "https://firecompass.com/blog-ai-penetration-testing-hackerone-top-3/",
-            "snippet": "How FireCompass AI Agents Reached HackerOne's Top 3 on $5,000 a Month: Full Methodology, Data, and Limitations\n\nHome Blogs How FireCompass AI...\n\nAgentic AI 28 Jul 2026\n\n# How FireCompass AI Agents Re",
-            "published": "2026-07-28T05:00:05.000Z",
+            "title": "How to Fix CVE-2026-9101: Critical Vulnerability in Compass | HowToFixMe",
+            "url": "https://howtofixme.com/cves/posts/how-to-fix-cve-2026-9101.html",
+            "snippet": "How to Fix CVE-2026-9101: Critical Vulnerability in Compass | HowToFixMe\n\n# How to Fix CVE-2026-9101: Critical Vulnerability in Compass\n\nBy the Sai Kiran Pandrala · Reviewed and edited by Sai Kiran Pa",
+            "published": "2026-05-25T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5723,25 +5723,25 @@
             "score": 1
           },
           {
-            "title": "Debajyoti0-0/CVE-2026-27654-PoC",
-            "url": "https://github.com/Debajyoti0-0/CVE-2026-27654-PoC",
-            "snippet": "# Debajyoti0-0/CVE-2026-27654-PoC\n\nProof-of-Concept and technical analysis for CVE-2026-27654, a heap-based buffer overflow vulnerability in the NGINX HTTP WebDAV module, including root cause analysis",
+            "title": "f3c2e3b feat(red-team): mature the agent trust-boundary defense — v0.21.0",
+            "url": "https://github.com/dshakes/compass/commit/f3c2e3bf9f130d02c92ff693fe78b683458ef015",
+            "snippet": "# f3c2e3b feat(red-team): mature the agent trust-boundary defense — v0.21.0\n\n- SHA: f3c2e3bf9f130d02c92ff693fe78b683458ef015\n- Repository: dshakes/compass\n- Author: dshakes\n- Date: 2026-07-10T03:50:09",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "clsmight/CVE-2026-41940-PoC",
-            "url": "https://github.com/clsmight/CVE-2026-41940-PoC",
-            "snippet": "# clsmight/CVE-2026-41940-PoC\n\nCVE-2026-41940 exploitation proof-of-concept project\n\n- Stars: 62\n- Forks: 8\n- Watchers: 62\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-16T17:49:03Z\n\n## L",
+            "title": "0xCyberstan/CVE-2026-42533-POC",
+            "url": "https://github.com/0xCyberstan/CVE-2026-42533-POC",
+            "snippet": "# 0xCyberstan/CVE-2026-42533-POC\n\nCVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-09T03:02:37.046Z"
+        "enriched_at": "2026-09-05T05:21:42.759Z"
       },
-      "timestamp": "2026-08-09T03:02:38.427Z"
+      "timestamp": "2026-09-05T05:21:44.231Z"
     },
     "zabbix": {
       "intel": {
@@ -6024,22 +6024,22 @@
           {
             "title": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/abercrombie_fitch_bbp",
-            "snippet": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne\n\ncollapse menu\n\nSecurity page\n\n## Program highlights\n\nClosed ScopeOnly accepts reports based on the listed scope.\n\nLearn more about Closed Sc",
+            "snippet": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne\n\nClosed Scope\n\nOnly accepts reports based on the listed scope.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nManaged by Hack",
             "published": null,
             "score": 1
+          },
+          {
+            "title": "Abercrombie & Fitch Management Co. | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/abercrombie_fitch/hacktivity",
+            "snippet": "Abercrombie & Fitch Management Co. | Hacktivity | HackerOne\n\nAbercrombie & Fitch Management Co.\n\nBug reported by\n\nmalithonline\n\nwas resolved\n\n3 months ago\n\nAbercrombie & Fitch Management Co.\n\nBug repo",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "Vulnerability Disclosure - Abercrombie",
             "url": "https://corporate.abercrombie.com/vulnerability-disclosure/",
             "snippet": "Vulnerability Disclosure - Abercrombie\n\n# Vulnerability Disclosure\n\nAbercrombie & Fitch Management Co. looks forward to working with the security community to find vulnerabilities to keep our business",
             "published": "2023-03-15T12:43:54.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Sydney Jenkins",
-            "url": "https://exa.ai/library/person/w8y3rm9ddg1",
-            "snippet": "# Sydney Jenkins\n\nInformation Security @ Abercrombie & Fitch Co.\n\nColumbus, Ohio, United States (US)\n\n500 connections • 652 followers\n\n## About\n\nI’m a mission-driven technologist who thrives at the in",
-            "published": "2026-08-10T12:49:09.000Z",
             "score": 0
           }
         ],
@@ -6069,9 +6069,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-28T12:33:59.968Z"
+        "enriched_at": "2026-09-05T05:21:39.776Z"
       },
-      "timestamp": "2026-08-28T12:34:01.516Z"
+      "timestamp": "2026-09-05T05:21:41.262Z"
     },
     "wolt": {
       "intel": {
@@ -6184,5 +6184,5 @@
       "timestamp": "2026-08-26T02:24:50.086Z"
     }
   },
-  "lastRun": "2026-09-04T05:37:44.690Z"
+  "lastRun": "2026-09-05T05:21:44.232Z"
 }
