@@ -3523,7 +3523,7 @@
           {
             "title": "Inditex | Security Program",
             "url": "https://ooosec.com/programs/inditex",
-            "snippet": "Inditex | Security Program\n\n## Inditex\n\n# Inditex\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n### Sign in to view full program details\n\nAccess scope, rewards, hacktivity, and submit ",
+            "snippet": "Inditex | Security Program\n\n# Summer Special Campaign\n\n- From 29/07/2024 to 15/08/2024\n\n## Summer Special Campaign conditions.\n\nWe are excited to announce our special summer bug bounty campaign, where",
             "published": null,
             "score": 1
           },
@@ -3545,16 +3545,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "nmmorette/CVE-2024-34102",
-            "url": "https://github.com/nmmorette/CVE-2024-34102",
-            "snippet": "# nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-02-13T18:02:36Z\n\n## L",
+            "title": "nospher3x2/cosmicsting-cnext-exploit",
+            "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
+            "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
             "published": null,
             "score": 1
           },
           {
-            "title": "nospher3x2/cosmicsting-cnext-exploit",
-            "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
-            "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
+            "title": "nmmorette/CVE-2024-34102",
+            "url": "https://github.com/nmmorette/CVE-2024-34102",
+            "snippet": "# nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-02-13T18:02:36Z\n\n## L",
             "published": null,
             "score": 0.5
           },
@@ -3568,9 +3568,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:42.064Z"
+        "enriched_at": "2026-09-09T05:46:37.770Z"
       },
-      "timestamp": "2026-09-01T06:05:43.741Z"
+      "timestamp": "2026-09-09T05:46:39.374Z"
     },
     "visa": {
       "intel": {
@@ -3578,7 +3578,7 @@
           {
             "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - NOVALOGIQ",
             "url": "https://novalogiq.com/2026/07/29/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible/",
-            "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - NOVALOGIQ\n\nMenu\n\nSearch\n\nSearch\n\n# Visa used Mythos to hunt for bugs in its own paym",
+            "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - NOVALOGIQ\n\n# Visa used Mythos to hunt for bugs in its own payment network, then open",
             "published": "2026-07-29T17:32:41.000Z",
             "score": 1
           },
@@ -3593,7 +3593,7 @@
             "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Cube Letter",
             "url": "https://cubeletter.com/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible/",
             "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Cube Letter\n\n# Visa used Mythos to hunt for bugs in its own payment network, then op",
-            "published": "2026-07-29T02:01:32.000Z",
+            "published": "2026-07-29T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3623,9 +3623,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:43.741Z"
+        "enriched_at": "2026-09-09T05:46:39.374Z"
       },
-      "timestamp": "2026-09-01T06:05:45.584Z"
+      "timestamp": "2026-09-09T05:46:41.001Z"
     },
     "toolsforhumanity": {
       "intel": {
@@ -3638,49 +3638,49 @@
             "score": 1
           },
           {
+            "title": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch",
+            "url": "https://vulnwatch.ai/entry/019f6870-0fb0-7005-9ac3-e5a58c5d2f0d",
+            "snippet": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch\n\n# ToolHive: SSRF in remote MCP server authentication disco",
+            "published": "2026-07-15T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne",
             "url": "https://hackerone.com/reports/2515808",
             "snippet": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne\n\n105\n\nCopy report id\n\n[Meetup][W",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch",
-            "url": "https://vulnwatch.ai/entry/019f6870-0fb0-7005-9ac3-e5a58c5d2f0d",
-            "snippet": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch\n\n# ToolHive: SSRF in remote MCP server authentication disco",
-            "published": "2026-07-15T23:41:21.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "contracts/ProofOfHumanity.sol",
-            "url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/blob/master/contracts/ProofOfHumanity.sol",
-            "snippet": "# contracts/ProofOfHumanity.sol\n\n- Branch: master\n- Repository: Proof-Of-Humanity/Proof-Of-Humanity\n\n---\n\n/**\n * @authors: [@unknownunknown1, @nix1g]\n * @reviewers: [@fnanni-0, @mtsalenc*, @nix1g, @cl",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "terribledactyl/Form-Tools-3.1.1-RCE",
             "url": "https://github.com/terribledactyl/Form-Tools-3.1.1-RCE",
             "snippet": "# terribledactyl/Form-Tools-3.1.1-RCE\n\nCVE-2024-22722 RCE via SSTI, automated with Python.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-09-06T00:10:24Z\n",
             "published": null,
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "pemarine/cve-2026-41940-PoC",
             "url": "https://github.com/pemarine/cve-2026-41940-PoC",
-            "snippet": "# pemarine/cve-2026-41940-PoC\n\nA cPanel and WHM authentication bypassing tool\n\n- Stars: 272\n- Forks: 12\n- Watchers: 272\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-13T16:03:48Z\n\n## Lang",
+            "snippet": "# pemarine/cve-2026-41940-PoC\n\nA cPanel and WHM authentication bypassing tool\n\n- Stars: 271\n- Forks: 12\n- Watchers: 271\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-13T16:03:48Z\n\n## Lang",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "xcalibure2/ToolShell",
+            "url": "https://github.com/xcalibure2/ToolShell",
+            "snippet": "# xcalibure2/ToolShell\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-09T07:06:",
+            "published": "2026-01-09T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:45.584Z"
+        "enriched_at": "2026-09-09T05:46:41.001Z"
       },
-      "timestamp": "2026-09-01T06:05:47.270Z"
+      "timestamp": "2026-09-09T05:46:42.649Z"
     },
     "ring": {
       "intel": {
@@ -3688,7 +3688,7 @@
           {
             "title": "Medium",
             "url": "https://suicdalteddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
-            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# I Reverse-Engineered Ring’s “En",
+            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## harmless-teddy\n\nwork: ethical ",
             "published": "2026-05-25T14:19:29.000Z",
             "score": 1
           },
@@ -3733,9 +3733,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:47.270Z"
+        "enriched_at": "2026-09-09T05:46:42.649Z"
       },
-      "timestamp": "2026-09-01T06:05:48.902Z"
+      "timestamp": "2026-09-09T05:46:44.325Z"
     },
     "six-group": {
       "intel": {
@@ -3743,7 +3743,7 @@
           {
             "title": "A Bug Bounty Program for SIX  | SIX",
             "url": "https://www.six-group.com/en/blog/six-bug-bounty-program.html",
-            "snippet": "A Bug Bounty Program for SIX | SIX\n\nTable of Contents\n\n- What Is an Ethical Hacker?\n- What Is Offensive Cybersecurity?\n- Dream Job: Gang Leader\n- The World’s First Bug Bounty Program\n- A Bug Bounty Pr",
+            "snippet": "A Bug Bounty Program for SIX | SIX\n\n# A Bug Bounty Program for SIX: When Companies Invite In Hackers\n\n Oct 1, 2024 5 minutes \n\nSIX rewards hackers who search for security holes. Learn what a bug bount",
             "published": "2024-10-01T00:00:00.000Z",
             "score": 1
           },
@@ -3757,8 +3757,8 @@
           {
             "title": "5 Bug Bounty Insights From SIX Group | HackerOne",
             "url": "https://www.hackerone.com/blog/5-bug-bounty-insights-six-group",
-            "snippet": "5 Bug Bounty Insights From SIX Group | HackerOne\n\n# 5 Bug Bounty Insights From SIX Group\n\nHackerOne Team\n\n“We have Code Review, Pentest, and on top of that, we have VDP and Bug Bounty running 24/7/365",
-            "published": null,
+            "snippet": "5 Bug Bounty Insights From SIX Group | HackerOne\n\n# 5 Bug Bounty Insights From SIX Group \n\nMay 29, 2024 \n\nHackerOne Team\n\n \n\n“We have Code Review, Pentest, and on top of that, we have VDP and Bug Boun",
+            "published": "2024-05-29T21:12:55.000Z",
             "score": 0
           }
         ],
@@ -3779,18 +3779,18 @@
             "score": 0.5
           },
           {
-            "title": "sixgroup-security/bug-bounty",
-            "url": "https://github.com/sixgroup-security/bug-bounty",
-            "snippet": "# sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-08T11:05:51Z\n\n## Languages\n\n- Python\n\n##",
-            "published": "2024-10-08T00:00:00.000Z",
+            "title": "oguzylmzx/CVE-2025-64512-pdfminer-PoC",
+            "url": "https://github.com/oguzylmzx/CVE-2025-64512-pdfminer-PoC",
+            "snippet": "# oguzylmzx/CVE-2025-64512-pdfminer-PoC\n\nPoC for CVE-2025-64512: pdfminer.six CMapDB pickle deserialization RCE via crafted PDF\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:48.902Z"
+        "enriched_at": "2026-09-09T05:46:44.325Z"
       },
-      "timestamp": "2026-09-01T06:05:50.556Z"
+      "timestamp": "2026-09-09T05:46:46.008Z"
     },
     "eufy_security": {
       "intel": {
@@ -3843,9 +3843,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:50.556Z"
+        "enriched_at": "2026-09-09T05:46:46.008Z"
       },
-      "timestamp": "2026-09-01T06:05:52.182Z"
+      "timestamp": "2026-09-09T05:46:47.641Z"
     },
     "eero": {
       "intel": {
@@ -3853,7 +3853,7 @@
           {
             "title": "NVD - CVE-2023-5324",
             "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5324",
-            "snippet": "NVD - CVE-2023-5324\n\n| URL | Source(s) | Tag(s) |\n| --- | --- | --- |\n| https://github.com/nomis/eero-zero-length-ipv6-options-header-dos | CVE, VulDB | Third Party Advisory |\n| https://vuldb.com/?cti",
+            "snippet": "NVD - CVE-2023-5324\n\n## CVE-2023-5324 Detail \n\nModified After Enrichment\n\nThis CVE record has been updated after NVD enrichment efforts were completed. Enrichment data supplied by the NVD may require ",
             "published": null,
             "score": 1
           },
@@ -3868,7 +3868,7 @@
             "title": "KRACK update 1: Fix available for all customers | eero Blog",
             "url": "https://eero.com/blog/articles/krack-update-1-fix-available-for-all-customers",
             "snippet": "KRACK update 1: Fix available for all customers | eero Blog\n\n## KRACK update 1: Fix available for all customers\n\nApr 8, 2020\n\neeroOS version 3.5, which includes a patch for the KRACK vulnerability, is",
-            "published": "2026-07-21T22:06:04.000Z",
+            "published": "2020-04-08T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3898,9 +3898,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:52.182Z"
+        "enriched_at": "2026-09-09T05:46:47.641Z"
       },
-      "timestamp": "2026-09-01T06:05:53.790Z"
+      "timestamp": "2026-09-09T05:46:49.238Z"
     },
     "mozilla": {
       "intel": {
@@ -3908,22 +3908,22 @@
           {
             "title": "Medium",
             "url": "https://sn0xsharma.medium.com/how-i-found-an-ssrf-in-mozilla-firefox-that-could-compromise-the-content-pipeline-behind-300m-new-90907dcd43d1",
-            "snippet": "MediumHow I Found an SSRF in Mozilla Firefox That Could Compromise the Content Pipeline Behind 300M+ New Tabs. | by sn0xsharma | Aug, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## sn0xsharma\n\nAI Securi",
-            "published": "2026-08-01T08:25:35.000Z",
+            "snippet": "Medium\n\n# How I Found an SSRF in Mozilla Firefox That Could Compromise the Content Pipeline Behind 300M+ New Tabs.\n\nsn0xsharma\n\n5 days ago\n\nPress enter or click to view image in full size\n\nA code-firs",
+            "published": "2025-06-30T00:00:00.000Z",
             "score": 1
           },
           {
             "title": "Browser Exploitation: Firefox OOB to RCE | xct's blog",
             "url": "https://vuln.dev/browser-exploitation-firefox-oob-to-rce/",
-            "snippet": "Browser Exploitation: Firefox OOB to RCE | xct's blog\n\nContents\n\nBrowser Exploitation: Firefox OOB to RCE\n\nIn this post, we will exploit Midenios, a good introductory browser exploitation challenge th",
-            "published": "2022-09-08T22:00:00.000Z",
+            "snippet": "Browser Exploitation: Firefox OOB to RCE | xct's blog\n\n# Browser Exploitation: Firefox OOB to RCE\n\n Posted Sep 8, 2022 \n\n \n\n By xct \n\n Contents \n\nIn this post, we will exploit Midenios, a good introdu",
+            "published": "2022-09-08T00:00:00.000Z",
             "score": 0.5
           },
           {
             "title": "How a single typo led to RCE in Firefox – kqx",
             "url": "https://kqx.io/post/firefox0day/",
             "snippet": "How a single typo led to RCE in Firefox – kqx\n\n## Introduction\n\nWhile touring the Firefox source code to gather inspiration for a CTF challenge (Stay tuned for TRX CTF 2026!) I stumbled across quite a",
-            "published": null,
+            "published": "2026-02-04T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3944,41 +3944,41 @@
             "score": 0.5
           },
           {
-            "title": "SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm",
-            "url": "https://github.com/SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm",
-            "snippet": "# SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm\n\nPoC exploit chain for CVE-2026-2796: SpiderMonkey WebAssembly sandbox escape (signature type confusion -> arbitrary R/W -> RCE)\n\n- Stars: 5\n- Fo",
+            "title": "SneakyNachos/CVE-2024-29943-but-with-wasm",
+            "url": "https://github.com/SneakyNachos/CVE-2024-29943-but-with-wasm",
+            "snippet": "# SneakyNachos/CVE-2024-29943-but-with-wasm\n\nCVE-2024-29943, but with wasm\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2026-08-10T02:34:36Z\n\n## Languages\n",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:53.790Z"
+        "enriched_at": "2026-09-09T05:46:49.238Z"
       },
-      "timestamp": "2026-09-01T06:05:55.629Z"
+      "timestamp": "2026-09-09T05:46:50.842Z"
     },
     "stripchat": {
       "intel": {
         "writeups": [
           {
+            "title": "Stripchat | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/stripchat",
+            "snippet": "Stripchat | Bounty Policy | HackerOne\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis program's response efficiency is above 90%.\n\nCollaboration Enabled In",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Stripchat — HackerOne bug bounty | BountyHunte.rs",
             "url": "https://bountyhunte.rs/programs/stripchat",
-            "snippet": "Stripchat — HackerOne bug bounty | BountyHunte.rs\n\nHackerOne\n\nbounty\n\nManaged\n\n# Stripchat\n\nSubmit a report on HackerOne\n\nSign in for alerts Launched 2/7/2023\n\nReward model\n\npaid\n\ngeneral platform\n\nLa",
-            "published": "2023-02-07T09:28:56.000Z",
-            "score": 1
+            "snippet": "Stripchat — HackerOne bug bounty | BountyHunte.rs\n\n# Stripchat\n\nSubmit a report on HackerOne Sign in for alerts Launched 2/7/2023\n\nReward model\n\npaid\n\ngeneral platform\n\nLaunched\n\n2/7/2023\n\nprovider da",
+            "published": "2023-02-07T00:00:00.000Z",
+            "score": 0.5
           },
           {
             "title": "200M Adult Cam Model, User Records Exposed in Stripchat Breach | Threatpost",
             "url": "https://threatpost.com/adult-cam-model-user-records-exposed-stripchat-breach/176372/",
-            "snippet": "200M Adult Cam Model, User Records Exposed in Stripchat Breach | Threatpost \n\nAuthor: Becky Bracken\n\nNovember 16, 2021 3:32 pm\n\nminute read\n\nShare this article:\n\nThe leak included model information, c",
+            "snippet": "200M Adult Cam Model, User Records Exposed in Stripchat Breach | Threatpost\n\nNovember 16, 2021 3:32 pm\n\nminute read\n\nShare this article:\n\nThe leak included model information, chat messages and payment",
             "published": "2021-11-16T20:32:16.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Adult cam site StripChat exposes the data of millions of users and cam models | The Record from Recorded Future News",
-            "url": "https://therecord.media/adult-cam-site-stripchat-exposes-the-data-of-millions-of-users-and-cam-models",
-            "snippet": "Adult cam site StripChat exposes the data of millions of users and cam models | The Record from Recorded Future News\n\nStripChat|StripChat-DB\n\n# Adult cam site StripChat exposes the data of millions of",
-            "published": "2022-12-19T19:42:15.000Z",
             "score": 0
           }
         ],
@@ -4008,9 +4008,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:55.629Z"
+        "enriched_at": "2026-09-09T05:46:50.842Z"
       },
-      "timestamp": "2026-09-01T06:05:57.299Z"
+      "timestamp": "2026-09-09T05:46:52.694Z"
     },
     "redox_bbp": {
       "intel": {
@@ -5857,23 +5857,23 @@
       "intel": {
         "writeups": [
           {
+            "title": "anthropickit: likely PyPI package behind Anthropic's one-hour credential theft incident | Corgea",
+            "url": "https://corgea.com/research/anthropickit-pypi-anthropic-agent-malware-july-2026",
+            "snippet": "anthropickit: likely PyPI package behind Anthropic's one-hour credential theft incident | Corgea\n\nResearch · Aug 1, 2026\n\n# anthropickit: likely PyPI package behind Anthropic's one-hour credential the",
+            "published": "2026-08-01T00:00:00.000Z",
+            "score": 1
+          },
+          {
             "title": "LLM-discovered 0 days \\ Anthropic",
             "url": "https://www.anthropic.com/research/zero-days",
-            "snippet": "LLM-discovered 0 days \\ Anthropic\n\nFrontier Red Team\n\n# Evaluating and mitigating the growing risk of LLM-discovered 0-days\n\nFeb 5, 2026\n\nNicholas Carlini*, Keane Lucas*, Evyatar Ben Asher*, Newton Ch",
-            "published": null,
-            "score": 1
+            "snippet": "LLM-discovered 0 days \\ Anthropic\n\n# Evaluating and mitigating the growing risk of LLM-discovered 0-days\n\nFeb 5, 2026\n\nNicholas Carlini *, Keane Lucas *, Evyatar Ben Asher *, Newton Cheng, Hasnain Lak",
+            "published": "2026-02-05T00:00:00.000Z",
+            "score": 0.5
           },
           {
             "title": "ANT-2026-CN7KX43N · nomad",
             "url": "https://red.anthropic.com/2026/cvd/findings/ANT-2026-CN7KX43N",
-            "snippet": "ANT-2026-CN7KX43N · nomad\n\n# ANT-2026-CN7KX43N · nomad\n\n## path-traversal critical\n\nSeverity Claude critical · Security research firm critical · Maintainer -\n\nDiscovered by Claude Mythos Preview\n\nREPO",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
-            "url": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
-            "snippet": "Solutions\n\nSolutions\n\nResources\n\nAbout\n\nPricing Contact\n\nLogin Start for Free\n\nLogin\n\nMenu\n\nEN\n\nLogin Start for FreeNo CC required\n\nBlog Vulnerabilities & Threats\n\nAnthropic's Fever Dream: Claude's pa",
+            "snippet": "ANT-2026-CN7KX43N · nomad\n\n## path-traversal critical \n\n Severity Claude critical · Security research firm critical · Maintainer - \n\nREPORT\n\nAnthropic's analysis, sealed at approval. Disclosure to the",
             "published": null,
             "score": 0
           }
@@ -5881,10 +5881,10 @@
         "twitter": [],
         "github": [
           {
-            "title": "Rohitberiwala/Claude-Code-MCP-Injection-PoC",
+            "title": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to arbitrary OS command execution. · GitHub",
             "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
-            "snippet": "# Repository: Rohitberiwala/Claude-Code-MCP-Injection-PoC\n\nProfessional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code",
-            "published": "2026-03-10T05:04:03.000Z",
+            "snippet": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code lead",
+            "published": null,
             "score": 1
           },
           {
@@ -5895,18 +5895,18 @@
             "score": 0.5
           },
           {
-            "title": "Permissive Default Allowlist Enables Unauthorized File Read and Network Exfiltration in Claude Code · Advisory · anthropics/claude-code · GitHub",
-            "url": "https://github.com/anthropics/claude-code/security/advisories/GHSA-x5gv-jw7f-j6xj",
-            "snippet": "Permissive Default Allowlist Enables Unauthorized File Read and Network Exfiltration in Claude Code · Advisory · anthropics/claude-code · GitHub\n\n# Permissive Default Allowlist Enables Unauthorized Fi",
+            "title": "Authentication Bypass via Insecure Credential Pool Synchronization during Anthropic Exhaustion",
+            "url": "https://gist.github.com/YLChen-007/caf38652afeccbbd53a9d77152b6198d",
+            "snippet": "# Authentication Bypass via Insecure Credential Pool Synchronization during Anthropic Exhaustion\n\n- Owner: YLChen-007\n- Created: 2026-05-07T09:07:29Z\n- Public: no\n- Comments: 0\n- Forks: 0\n\n## CVE-2026",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-01T06:05:40.467Z"
+        "enriched_at": "2026-09-09T05:46:35.979Z"
       },
-      "timestamp": "2026-09-01T06:05:42.063Z"
+      "timestamp": "2026-09-09T05:46:37.770Z"
     },
     "agoda-public": {
       "intel": {
@@ -6239,5 +6239,5 @@
       "timestamp": "2026-09-07T05:47:55.646Z"
     }
   },
-  "lastRun": "2026-09-08T05:41:22.489Z"
+  "lastRun": "2026-09-09T05:46:52.694Z"
 }
