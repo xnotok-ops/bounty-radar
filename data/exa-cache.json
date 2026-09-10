@@ -4019,20 +4019,20 @@
             "title": "Reflected XSS in REDAXO backend packages API via function parameter (CSRF token required) · Advisory · redaxo/core · GitHub",
             "url": "https://github.com/redaxo/core/security/advisories/GHSA-xq4j-g85q-wf97",
             "snippet": "Reflected XSS in REDAXO backend packages API via function parameter (CSRF token required) · Advisory · redaxo/core · GitHub\n\n# Reflected XSS in REDAXO backend packages API via function parameter (CSRF",
-            "published": null,
+            "published": "2026-04-09T00:00:00.000Z",
             "score": 1
-          },
-          {
-            "title": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub",
-            "url": "https://github.com/redaxo/core/security/advisories/GHSA-mf2p-wjp4-99pq",
-            "snippet": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub\n\n/ core Public\n\n# Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()`\n\nModerate\n",
-            "published": null,
-            "score": 0.5
           },
           {
             "title": "redox/CVE-2024-57492/README.md",
             "url": "https://github.com/Marsman1996/pocs/blob/master/redox/CVE-2024-57492/README.md",
             "snippet": "# redox/CVE-2024-57492/README.md\n\n- Branch: master\n- Repository: Marsman1996/pocs\n\n---\n\n# CVE-2024-57492\nThis is the brief description of [CVE-2024-57492](https://www.cve.org/CVERecord?id=CVE-2024-574",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub",
+            "url": "https://github.com/redaxo/core/security/advisories/GHSA-mf2p-wjp4-99pq",
+            "snippet": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub\n\n/ core Public\n\n# Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()`\n\nModerate\n",
             "published": null,
             "score": 0
           }
@@ -4063,9 +4063,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:18.020Z"
+        "enriched_at": "2026-09-10T05:41:25.123Z"
       },
-      "timestamp": "2026-09-02T05:31:19.663Z"
+      "timestamp": "2026-09-10T05:41:26.732Z"
     },
     "okg": {
       "intel": {
@@ -4073,19 +4073,19 @@
           {
             "title": "OKC Project Hack Analysis. Incident Background | by lunaray | Medium",
             "url": "https://lunaray.medium.com/okc-project-hack-analysis-0907312f519b",
-            "snippet": "OKC Project Hack Analysis. Incident Background | by lunaray | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# OKC Project Hack Analysis\n\n5 min read\n\nDec 15, 2023\n\n--\n\n1\n\nShare\n\n## Incident Background\n\nOn Novembe",
-            "published": "2023-12-15T08:49:22.000Z",
+            "snippet": "OKC Project Hack Analysis. Incident Background | by lunaray | Medium\n\n# OKC Project Hack Analysis\n\nlunaray\n\nDec 15, 2023\n\n## Incident Background\n\nOn November 13, 2023, at 18:51:57 (UTC), an attack tar",
+            "published": "2023-12-15T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge",
-            "url": "https://atomicedge.io/cve-proof/cve-2025-68851-okay-toolkit-version-2-3-medium-vulnerability-proof-of-concept/",
-            "snippet": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-68851: Okay Toolkit <= 2.3 Reflected Cross-Site Scripting PoC, Patch Analysis & Rule\n\n CVE ID `CVE-",
-            "published": "2026-02-05T03:39:00.000Z",
+            "title": "Decent Rouge Beetle - Missing Validation of recipient in `createOrder` Allows Attacker to back-Run Approvals, Resulting in Slippage Manipulation and Complete Fund Loss",
+            "url": "https://github.com/sherlock-audit/2024-11-oku-judging/issues/390",
+            "snippet": "# Decent Rouge Beetle - Missing Validation of recipient in `createOrder` Allows Attacker to back-Run Approvals, Resulting in Slippage Manipulation and Complete Fund Loss\n\n- State: open\n- Author: sherl",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "HackMD - Collaborative Markdown Knowledge Base",
+            "title": "Untitled",
             "url": "https://hackmd.io/Vn1IK8BoTh-Al7UGGH7hmA",
             "snippet": "# Vulnerability Report: 0G Foundation Reward Contract Emergency Withdrawal Exploit\n\n---\n\n## 1. Executive Summary\n\nVulnerability Name: 0G Foundation Private Key Compromise and Emergency Withdrawal Hija",
             "published": null,
@@ -4109,18 +4109,18 @@
             "score": 0.5
           },
           {
-            "title": "Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections",
-            "url": "https://github.com/sherlock-audit/2025-07-oku-trade-order-types-judging/issues/33",
-            "snippet": "# Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections\n\n- State: open\n- Author: sherlock-admin2\n- Created: 2025-07-31T15:20:40Z\n- Update",
+            "title": "Young Lime Porpoise - Keeper can DoS any order through token donation griefing",
+            "url": "https://github.com/sherlock-audit/2025-07-oku-trade-order-types-judging/issues/61",
+            "snippet": "# Young Lime Porpoise - Keeper can DoS any order through token donation griefing\n\n- State: open\n- Author: sherlock-admin2\n- Created: 2025-07-31T15:23:27Z\n- Updated: 2025-07-31T15:23:27Z\n- Repository: ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:19.664Z"
+        "enriched_at": "2026-09-10T05:41:26.732Z"
       },
-      "timestamp": "2026-09-02T05:31:21.255Z"
+      "timestamp": "2026-09-10T05:41:28.226Z"
     },
     "1win_com": {
       "intel": {
@@ -4228,9 +4228,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:21.255Z"
+        "enriched_at": "2026-09-10T05:41:28.226Z"
       },
-      "timestamp": "2026-09-02T05:31:22.868Z"
+      "timestamp": "2026-09-10T05:41:29.810Z"
     },
     "pornbox": {
       "intel": {
@@ -4239,37 +4239,37 @@
             "title": "Is pornbox.com Safe? Security Scan Report | PCrisk",
             "url": "https://scanner.pcrisk.com/scan-results/pornbox.com",
             "snippet": "Is pornbox.com Safe? Security Scan Report | PCrisk\n\n# pornbox.com\n\n Category: Adult Content \n\n Scanned: Jul 30, 2026, 05:27 PM UTC · First seen: May 8, 2026 · Threat Engines: 0 / 91 · Times Scanned: 2",
-            "published": "2026-05-08T00:58:09.000Z",
+            "published": "2026-05-08T00:00:00.000Z",
             "score": 1
           },
           {
             "title": "CVE-2025-12122 – popup-box Proof of Concept - Atomic Edge",
             "url": "https://atomicedge.io/cve-proof/cve-2025-12122-popup-box-version-3-2-12-medium-vulnerability-proof-of-concept/",
             "snippet": "CVE-2025-12122 – popup-box Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-12122: Popup Box – Easily Create WordPress Popups <= 3.2.12 Authenticated (Contributor+) Stored Cross-",
-            "published": "2026-02-17T17:24:04.000Z",
+            "published": "2026-03-18T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol",
-            "url": "https://greatis.com/unhackme/help/remove/remove-pornbox-com-completely.htm",
-            "snippet": "Remove PORNBOX.COM virus (Removal Guide) – Wildcat Cyber Patrol\n\n# Remove PORNBOX.COM virus (Removal Guide)\n\n## What is PORNBOX.COM?\n\n## Investigation Target: PORNBOX.COM\n\nCase: 9786 Investigation Dat",
-            "published": null,
+            "title": "PornHub Pays Hackers $20,000 to Find Zero-day Flaws in its Website",
+            "url": "https://thehackernews.com/2016/07/pornhub-hack.html",
+            "snippet": "PornHub Pays Hackers $20,000 to Find Zero-day Flaws in its Website\n\n# PornHub Pays Hackers $20,000 to Find Zero-day Flaws in its Website\n\n Wang Wei Jul 25, 2016\n\n Cyber attacks get bigger, smarter, ",
+            "published": "2016-07-25T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "y0uall/pwnbox",
-            "url": "https://github.com/y0uall/pwnbox",
-            "snippet": "# y0uall/pwnbox\n\nAutomated recon & enumeration for HackTheBox\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-04-02T15:13:55Z\n\n## La",
+            "title": "pbuff07/PoCBox",
+            "url": "https://github.com/pbuff07/PoCBox",
+            "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
             "published": null,
             "score": 1
           },
           {
-            "title": "pbuff07/PoCBox",
-            "url": "https://github.com/pbuff07/PoCBox",
-            "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
+            "title": "y0uall/pwnbox",
+            "url": "https://github.com/y0uall/pwnbox",
+            "snippet": "# y0uall/pwnbox\n\nAutomated recon & enumeration for HackTheBox\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-04-02T15:13:55Z\n\n## La",
             "published": null,
             "score": 0.5
           },
@@ -4283,9 +4283,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:22.869Z"
+        "enriched_at": "2026-09-10T05:41:29.810Z"
       },
-      "timestamp": "2026-09-02T05:31:24.500Z"
+      "timestamp": "2026-09-10T05:41:31.360Z"
     },
     "tron_dao": {
       "intel": {
@@ -4293,8 +4293,8 @@
           {
             "title": "Medium",
             "url": "https://0d.dwalletlabs.com/game-of-tron-critical-0-day-in-tron-multi-signature-wallets-2c3e90668dc0",
-            "snippet": "Medium\n\n# Game of TRON: Critical 0-Day in TRON Multi-Signature Wallets\n\nMay 30, 2023\n\nPress enter or click to view image in full size\n\n## Overview\n\nWe are 0d, the cybersecurity research team at dWalle",
-            "published": "2023-05-30T10:09:23.000Z",
+            "snippet": "Medium\n\n# Game of TRON: Critical 0-Day in TRON Multi-Signature Wallets\n\nElad Ernst\n\nMay 30, 2023\n\nPress enter or click to view image in full size\n\n## Overview\n\nWe are 0d, the cybersecurity research te",
+            "published": "2023-05-30T00:00:00.000Z",
             "score": 1
           },
           {
@@ -4338,9 +4338,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:24.501Z"
+        "enriched_at": "2026-09-10T05:41:31.360Z"
       },
-      "timestamp": "2026-09-02T05:31:26.069Z"
+      "timestamp": "2026-09-10T05:41:32.828Z"
     },
     "superbet": {
       "intel": {
@@ -4355,8 +4355,8 @@
           {
             "title": "Superbet pays out €30 million following slot machine software bug in Romania - iGaming Republic",
             "url": "https://www.igamingrepublic.com/superbet-pays-out-e30-million-following-slot-machine-software-bug-in-romania/",
-            "snippet": "Superbet pays out €30 million following slot machine software bug in Romania - iGaming Republic\n\n# Superbet pays out €30 million following slot machine software bug in Romania\n\nSuperbet has paid out m",
-            "published": "2025-09-23T13:15:57.000Z",
+            "snippet": "Superbet pays out €30 million following slot machine software bug in Romania - iGaming Republic\n\n# Superbet pays out €30 million following slot machine software bug in Romania \n\nSuperbet has paid out ",
+            "published": "2025-09-23T00:00:00.000Z",
             "score": 0.5
           },
           {
@@ -4393,9 +4393,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:26.070Z"
+        "enriched_at": "2026-09-10T05:41:32.828Z"
       },
-      "timestamp": "2026-09-02T05:31:27.825Z"
+      "timestamp": "2026-09-10T05:41:34.332Z"
     },
     "magic-eden": {
       "intel": {
@@ -4404,7 +4404,7 @@
             "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com",
             "url": "https://www.linkgeanie.com/news/magic-eden-will-refund-users-who-bought-25-fake-nfts-due-to-exploit",
             "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n raguvaran \n\nMultiple dozen phony NFTs were",
-            "published": "2023-01-06T09:41:55.000Z",
+            "published": "2023-01-06T00:00:00.000Z",
             "score": 1
           },
           {
@@ -4448,9 +4448,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:27.825Z"
+        "enriched_at": "2026-09-10T05:41:34.332Z"
       },
-      "timestamp": "2026-09-02T05:31:29.438Z"
+      "timestamp": "2026-09-10T05:41:35.818Z"
     },
     "boozt": {
       "intel": {
@@ -4465,14 +4465,14 @@
           {
             "title": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com",
             "url": "https://www.bugbountyhunter.com/program?id=boozt",
-            "snippet": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com\n\n# Bug Bounty Hunter \n\n### Boozt Fashion AB Program Statistics\n\n 28 total issues disclosed \n\n $1,830 total paid publicly \n\n Most di",
+            "snippet": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com\n\n### Boozt Fashion AB Program Statistics\n\n View program \n\n 28 total issues disclosed \n\n $1,830 total paid publicly \n\n Most disclose",
             "published": null,
             "score": 0.5
           },
           {
             "title": "Boozt Fashion Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/boozt-fashion/",
-            "snippet": "Boozt Fashion Bug Bounty Program - Bug Bounties\n\n# Boozt Fashion\n\nTop 100K site\n\nBounty Full Safe Harbor\n\n## Program Details\n\nHandle boozt Managed Yes\n\n## Response Metrics\n\nResponse Time 4 days Bounty",
+            "snippet": "Boozt Fashion Bug Bounty Program - Bug Bounties\n\n# Boozt Fashion\n\nBounty Full Safe Harbor \n\n## Program Details \n\n Handle \n: boozt \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 4 days \nBounty ",
             "published": null,
             "score": 0
           }
@@ -4503,9 +4503,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:29.438Z"
+        "enriched_at": "2026-09-10T05:41:35.819Z"
       },
-      "timestamp": "2026-09-02T05:31:31.080Z"
+      "timestamp": "2026-09-10T05:41:37.305Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -4513,22 +4513,22 @@
           {
             "title": "Sheer | Security Program",
             "url": "https://ooosec.com/programs/sheer",
-            "snippet": "Sheer | Security Program\n\n## Sheer\n\n# Sheer\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n## Details\n\nSheer | Security Program\n[OOOsecOOOsec](https://ooosec.com/)\n![Sheer](https://ooos",
+            "snippet": "Sheer | Security Program\n\n# Scope\n\nThe scope of this program is limited to security vulnerabilities found on Sheer. Vulnerabilities reported on other properties or applications are currently not eligi",
             "published": null,
             "score": 1
+          },
+          {
+            "title": "Sheer | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/sheer_bbp?type=team",
+            "snippet": "Sheer | Bounty Policy | HackerOne\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis program's response efficiency is above 90%.\n\nManaged by HackerOne Collabo",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "Sheer | Report #2337938 - Cleartext Transmission of password via Email | HackerOne",
             "url": "https://hackerone.com/reports/2337938",
             "snippet": "Sheer | Report #2337938 - Cleartext Transmission of password via Email | HackerOne\n\n84\n\nCopy report id\n\nCleartext Transmission of password via Email\n\nReport\n\nTimeline\n\nsubmitted a report to Sheer.\n\nJa",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "HackerOne Bug Bounty Disclosure: cleartext-transmission-of-password-via-email-tuannq-gg - RedPacket Security",
-            "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-cleartext-transmission-of-password-via-email-tuannq-gg/",
-            "snippet": "HackerOne Bug Bounty Disclosure: cleartext-transmission-of-password-via-email-tuannq-gg - RedPacket Security\n\nCompany Name: Sheer\n\nCompany HackerOne URL: https://hackerone.com/sheer_bbp\n\nSubmitted By:",
-            "published": "2024-04-22T18:00:30.000Z",
             "score": 0
           }
         ],
@@ -4537,30 +4537,30 @@
           {
             "title": "AdnaneKhan/Wp2Shell-RCE",
             "url": "https://github.com/AdnaneKhan/Wp2Shell-RCE",
-            "snippet": "# AdnaneKhan/Wp2Shell-RCE\n\nPoC Repository with Lab Setup for Wp2Shell RCE\n\n- Stars: 3\n- Forks: 2\n- Watchers: 3\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-17T22:08:25Z\n\n## Languages\n\n- ",
+            "snippet": "# AdnaneKhan/Wp2Shell-RCE\n\nPoC Repository with Lab Setup for Wp2Shell RCE\n\n- Stars: 3\n- Forks: 1\n- Watchers: 3\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-17T22:08:25Z\n\n## Languages\n\n- ",
             "published": null,
             "score": 1
           },
           {
-            "title": "Boreas37/CVE-2026-64638-PoC-XSS2Shell-",
+            "title": "Boreas37/CVE-2026-64638-PoC",
             "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
-            "snippet": "# Boreas37/CVE-2026-64638-PoC-XSS2Shell-\n\nXSS2Shell (CVE-2026-64638) WordPress pre-auth XSS to RCE chain — PoC exploit + defensive audit tool + nuclei template\n\n- Stars: 53\n- Forks: 10\n- Watchers: 53\n",
+            "snippet": "# Boreas37/CVE-2026-64638-PoC\n\nXSS2Shell (CVE-2026-64638) PoC — WordPress pre-auth XSS to RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-07T1",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "4minx/CVE-2026-64638",
-            "url": "https://github.com/4minx/CVE-2026-64638",
-            "snippet": "# 4minx/CVE-2026-64638\n\nCVE-2026-64638 (XSS2shell) POC.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-08T08:48:02Z\n\n## Languages\n\n- HTML\n\n## Top Contr",
+            "title": "llaytynher/ShieldBreak",
+            "url": "https://github.com/llaytynher/ShieldBreak",
+            "snippet": "# llaytynher/ShieldBreak\n\nWindows Defender 0day vulnerability\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-08-12T03:06:20Z\n- Fork",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:31.080Z"
+        "enriched_at": "2026-09-10T05:41:37.305Z"
       },
-      "timestamp": "2026-09-02T05:31:32.712Z"
+      "timestamp": "2026-09-10T05:41:38.782Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -5754,17 +5754,17 @@
             "score": 1
           },
           {
-            "title": "CVE-2024-22120: Zabbix's Audit Log Is the Read Primitive · nefariousplan.com",
-            "url": "https://nefariousplan.com/posts/zabbix-cve-2024-22120-audit-log-is-the-read-primitive",
-            "snippet": "CVE-2024-22120: Zabbix's Audit Log Is the Read Primitive · nefariousplan.com\n\nZabbix Server's trapper port accepts a`command` request from authenticated users who have permission to execute a global s",
-            "published": "2026-05-13T17:09:09.000Z",
+            "title": "[ZBX-12075] Bug 1. Zabbix Server Remote Code Execution ( CVSS: 10, SIR: Critical ) - ZABBIX SUPPORT",
+            "url": "https://support.zabbix.com/browse/ZBX-12075",
+            "snippet": "[ZBX-12075] Bug 1. Zabbix Server Remote Code Execution ( CVSS: 10, SIR: Critical ) - ZABBIX SUPPORT\n\n## Bug 1. Zabbix Server Remote Code Execution ( CVSS: 10, SIR: Critical )\n\n### Details\n\n- Type: Sub",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Zabbix SQL Injection/RCE - CVE-2013-5743 - Corelan | Exploit Development & Vulnerability Research",
-            "url": "https://www.corelan.be/index.php/2013/10/04/zabbix-sql-injectionrce-cve-2013-5743/",
-            "snippet": "Zabbix SQL Injection/RCE - CVE-2013-5743 - Corelan | Exploit Development & Vulnerability Research\n\n# Zabbix SQL Injection/RCE - CVE-2013-5743\n\nCorelan Team (Lincoln) October 4, 2013\n\nThis article has ",
-            "published": "2013-10-04T16:53:44.000Z",
+            "title": "CVE-2024-22120: Zabbix's Audit Log Is the Read Primitive · nefariousplan.com",
+            "url": "https://nefariousplan.com/posts/zabbix-cve-2024-22120-audit-log-is-the-read-primitive",
+            "snippet": "CVE-2024-22120: Zabbix's Audit Log Is the Read Primitive · nefariousplan.com\n\n2026.05.13· initial· CVE-2024-22120· quiet part named\n\n## patterns\n\n- todo that shipped\n- the detector is the target\n- tru",
+            "published": "2026-05-13T17:09:09.000Z",
             "score": 0
           }
         ],
@@ -5794,9 +5794,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-02T05:31:32.712Z"
+        "enriched_at": "2026-09-10T05:41:38.783Z"
       },
-      "timestamp": "2026-09-02T05:31:34.301Z"
+      "timestamp": "2026-09-10T05:41:40.333Z"
     },
     "coupang_tw": {
       "intel": {
@@ -6239,5 +6239,5 @@
       "timestamp": "2026-09-07T05:47:55.646Z"
     }
   },
-  "lastRun": "2026-09-09T05:46:52.694Z"
+  "lastRun": "2026-09-10T05:41:40.334Z"
 }
