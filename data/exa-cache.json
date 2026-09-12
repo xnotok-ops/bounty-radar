@@ -1799,16 +1799,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "url": "https://github.com/honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
-            "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
+            "title": "honestcorrupt/MEESHO-CVE_REQUEST_NEW",
+            "url": "https://github.com/honestcorrupt/MEESHO-CVE_REQUEST_NEW",
+            "snippet": "# honestcorrupt/MEESHO-CVE_REQUEST_NEW\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-07T09:24:31Z\n\n## Top Contributors\n\n- honestcorrupt (4 contributio",
             "published": null,
             "score": 1
           },
           {
-            "title": "honestcorrupt/MEESHO-CVE_REQUEST_NEW",
-            "url": "https://github.com/honestcorrupt/MEESHO-CVE_REQUEST_NEW",
-            "snippet": "# honestcorrupt/MEESHO-CVE_REQUEST_NEW\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-07T09:24:31Z\n\n## Top Contributors\n\n- honestcorrupt (4 contributio",
+            "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
+            "url": "https://github.com/honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
+            "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
             "published": null,
             "score": 0.5
           },
@@ -1822,9 +1822,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:28.977Z"
+        "enriched_at": "2026-09-12T05:27:59.239Z"
       },
-      "timestamp": "2026-09-05T05:21:30.501Z"
+      "timestamp": "2026-09-12T05:28:00.914Z"
     },
     "braze_inc": {
       "intel": {
@@ -4613,9 +4613,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:30.502Z"
+        "enriched_at": "2026-09-12T05:28:00.914Z"
       },
-      "timestamp": "2026-09-05T05:21:31.989Z"
+      "timestamp": "2026-09-12T05:28:02.618Z"
     },
     "frontegg": {
       "intel": {
@@ -4683,16 +4683,16 @@
             "score": 1
           },
           {
-            "title": "AbdullahMaqbool22/indrive-full-account-takeover-chain",
-            "url": "https://github.com/AbdullahMaqbool22/indrive-full-account-takeover-chain",
-            "snippet": "# AbdullahMaqbool22/indrive-full-account-takeover-chain\n\nA walkthrough that how i discovered an ATO chain in one of indrive subdomains. Which was marked as informational as we all know why xD\n\n- Stars",
-            "published": null,
+            "title": "inDrive | Report #1960107 - Rider can forcefully get passenger's order accepted resulting in multiple impacts including PII reveal  and more mentioned in the report. | HackerOne",
+            "url": "https://hackerone.com/reports/1960107",
+            "snippet": "inDrive | Report #1960107 - Rider can forcefully get passenger's order accepted resulting in multiple impacts including PII reveal and more mentioned in the report. | HackerOne\n\nRider can forcefully g",
+            "published": "2023-04-25T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "Untitled",
-            "url": "https://hackernoon.com/strengthening-cybersecurity-breaking-down-indrives-bug-bounty-program",
-            "snippet": "20,478 reads\n\n# Strengthening Cybersecurity: Breaking Down inDrive’s Bug Bounty Program\n\nby\n\ninDrive.Tech\n\nbyinDrive.Tech|@indrivetech\n\nTeam of inDrive developers who know how to experiment and learn ",
+            "title": "AbdullahMaqbool22/indrive-full-account-takeover-chain",
+            "url": "https://github.com/AbdullahMaqbool22/indrive-full-account-takeover-chain",
+            "snippet": "# AbdullahMaqbool22/indrive-full-account-takeover-chain\n\nA walkthrough that how i discovered an ATO chain in one of indrive subdomains. Which was marked as informational as we all know why xD\n\n- Stars",
             "published": null,
             "score": 0
           }
@@ -4723,9 +4723,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:31.989Z"
+        "enriched_at": "2026-09-12T05:28:02.618Z"
       },
-      "timestamp": "2026-09-05T05:21:33.441Z"
+      "timestamp": "2026-09-12T05:28:04.165Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4793,10 +4793,10 @@
             "score": 0.5
           },
           {
-            "title": "URL Hacking at REI.com  · Michael Jay Lissner",
-            "url": "https://michaeljaylissner.com/posts/2012/07/31/url-hacking-at-rei-dot-com/",
-            "snippet": "URL Hacking at REI.com · Michael Jay Lissner\n\nI’m about two hours away from heading on vacation to Montreal, but I wanted to post a quick update about a vulnerability I found on REI.com last night.\n\nT",
-            "published": "2012-08-01T02:19:00.000Z",
+            "title": "REI BBP | Top Hackers | HackerOne",
+            "url": "https://hackerone.com/rei_bbp/thanks",
+            "snippet": "REI BBP | Top Hackers | HackerOne\n\nbombon Reputation: 289\n\n2\n\nmooimacow Reputation: 218\n\n3\n\nrektile404 Reputation: 184\n\n4\n\ninhibitor181 Reputation: 133\n\n5\n\nkonstanz2412 Reputation: 101\n\nm0chan Reputat",
+            "published": null,
             "score": 0
           }
         ],
@@ -4826,9 +4826,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:33.442Z"
+        "enriched_at": "2026-09-12T05:28:04.166Z"
       },
-      "timestamp": "2026-09-05T05:21:34.914Z"
+      "timestamp": "2026-09-12T05:28:05.732Z"
     },
     "mergify": {
       "intel": {
@@ -4881,9 +4881,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:34.914Z"
+        "enriched_at": "2026-09-12T05:28:05.732Z"
       },
-      "timestamp": "2026-09-05T05:21:36.640Z"
+      "timestamp": "2026-09-12T05:28:07.340Z"
     },
     "coinhako": {
       "intel": {
@@ -4968,22 +4968,22 @@
           {
             "title": "Arkose Labs Client API Content-Security-Policy Bypass Scanner",
             "url": "https://s4e.io/tools/arkose-labs-client-api-content-security-policy-bypass-scanner",
-            "snippet": "Arkose Labs Client API Content-Security-Policy Bypass Scanner\n\n# Arkose Labs Client API Content-Security-Policy Bypass Scanner\n\nThis scanner detects the use of Arkose Labs Client API in digital assets",
+            "snippet": "# Arkose Labs Client API Content-Security-Policy Bypass Scanner\n\nThis scanner detects the use of Arkose Labs Client API in digital assets. It helps identify Content-Security-Policy Bypass vulnerabilit",
             "published": null,
             "score": 1
+          },
+          {
+            "title": "Private Bug Bounty Program with Bugcrowd",
+            "url": "https://www.arkoselabs.com/news/arkose-labs-announces-private-bug-bounty-program-with-bugcrowd-to-strengthen-fraud-prevention-system",
+            "snippet": "Private Bug Bounty Program with Bugcrowd\n\n# Arkose Labs Announces Private Bug Bounty Program with Bugcrowd to Strengthen Fraud Prevention System\n\nJuly 24, 2019\n\nImage courtesy of Help Net Security\n\nAr",
+            "published": "2026-05-13T00:00:00.000Z",
+            "score": 0.5
           },
           {
             "title": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement",
             "url": "https://blog.crawlex.net/blog/arkose-funcaptcha-internals/",
             "snippet": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement\n\n# Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement \n\n Daniel Mercer Sat, May 16, 2026 · ",
             "published": "2026-05-16T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Arkose Labs' token flow: from session to verdict, and how difficulty scales",
-            "url": "https://blog.crawlex.net/blog/arkose-labs-token-flow/",
-            "snippet": "Arkose Labs' token flow: from session to verdict, and how difficulty scales\n\n# Arkose Labs' token flow: from session to verdict, and how difficulty scales \n\n Daniel Mercer Fri, May 15, 2026 · 22 min r",
-            "published": "2026-05-15T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5013,9 +5013,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:36.640Z"
+        "enriched_at": "2026-09-12T05:28:07.341Z"
       },
-      "timestamp": "2026-09-05T05:21:38.130Z"
+      "timestamp": "2026-09-12T05:28:08.919Z"
     },
     "alsco": {
       "intel": {
@@ -5068,9 +5068,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:38.130Z"
+        "enriched_at": "2026-09-12T05:28:08.919Z"
       },
-      "timestamp": "2026-09-05T05:21:39.776Z"
+      "timestamp": "2026-09-12T05:28:10.487Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5131,41 +5131,41 @@
       "intel": {
         "writeups": [
           {
+            "title": "Modern Treasury | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/modern_treasury",
+            "snippet": "Modern Treasury | Bounty Policy | HackerOne\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nManaged by HackerOne Collaboration Enabled Includes Retesting\n\n1 day, 14 hours\n\nAverage time ",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Behind The Scenes: How Modern Treasury Ensures Payment Security",
             "url": "https://www.moderntreasury.com/journal/how-modern-treasury-ensures-payment-security",
-            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\n•January 17, 2024\n\n# Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nSecurity is the foundation for Modern Treasury op",
-            "published": "2024-01-17T09:50:58.000Z",
-            "score": 1
+            "snippet": "Behind The Scenes: How Modern Treasury Ensures Payment Security\n\n• January 17, 2024\n\n# Behind The Scenes: How Modern Treasury Ensures Payment Security\n\nSecurity is the foundation for Modern Treasury o",
+            "published": "2024-01-17T00:00:00.000Z",
+            "score": 0.5
           },
           {
             "title": "Modern Treasury Journal - Edge Cases in Complex Payment Operations",
             "url": "https://www.moderntreasury.com/journal/edge-cases-in-complex-payment-operations",
             "snippet": "Modern Treasury Journal - Edge Cases in Complex Payment Operations\n\n•July 1, 2022\n\n# Edge Cases in Complex Payment Operations\n\nPayment operations is complicated. Technical challenges can arise for myr",
             "published": "2022-07-01T13:06:31.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Network Security at Modern Treasury",
-            "url": "https://www.moderntreasury.com/journal/network-security-at-modern-treasury",
-            "snippet": "Network Security at Modern Treasury\n\n•March 10, 2022\n\n# Network Security at Modern Treasury\n\nSecurity is a priority for our customers and key feature of our products. Here are recent examples of our c",
-            "published": "2022-03-10T09:50:58.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "efeanilarslan/CVE-2026-42167-Exploit",
-            "url": "https://github.com/efeanilarslan/CVE-2026-42167-Exploit",
-            "snippet": "# efeanilarslan/CVE-2026-42167-Exploit\n\nPython exploit for CVE-2026-42167 (ProFTPD mod_sql). Features automated file scanning and timing-based blind data exfiltration.\n\n- Stars: 0\n- Forks: 0\n- Watcher",
-            "published": "2026-05-02T00:00:00.000Z",
-            "score": 1
-          },
-          {
             "title": "aivarsk/django-modern-treasury-poc",
             "url": "https://github.com/aivarsk/django-modern-treasury-poc",
             "snippet": "# aivarsk/django-modern-treasury-poc\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Homepage: https://aivarsk.com/2025/03/14/The-COST-of-double-entry-accounting/\n- Default branch: main\n- Crea",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "efeanilarslan/CVE-2026-42167-Exploit",
+            "url": "https://github.com/efeanilarslan/CVE-2026-42167-Exploit",
+            "snippet": "# efeanilarslan/CVE-2026-42167-Exploit\n\nPython exploit for CVE-2026-42167 (ProFTPD mod_sql). Features automated file scanning and timing-based blind data exfiltration.\n\n- Stars: 0\n- Forks: 0\n- Watcher",
+            "published": "2026-05-02T00:00:00.000Z",
             "score": 0.5
           },
           {
@@ -5178,9 +5178,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:05.524Z"
+        "enriched_at": "2026-09-12T05:28:13.641Z"
       },
-      "timestamp": "2026-09-03T05:32:06.985Z"
+      "timestamp": "2026-09-12T05:28:15.274Z"
     },
     "notion": {
       "intel": {
@@ -5970,13 +5970,13 @@
             "title": "Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers | Bitcoinist.com",
             "url": "https://bitcoinist.com/yuga-labs-just-pulled-off-a-500000-crypto-heist/",
             "snippet": "Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers | Bitcoinist.com\n\n# Yuga Labs Just Pulled Off A $500,000 Crypto Heist — Against These Hackers\n\n by James Halver \n\n Last Update",
-            "published": "2026-06-08T15:14:26.000Z",
+            "published": "2026-06-08T00:00:00.000Z",
             "score": 1
           },
           {
             "title": "How Yuga Labs Used Exploit Tactics to Save Stolen NFTs",
             "url": "https://turbonfts.com/articles/yuga-labs-executes-white-hat/",
-            "snippet": "How Yuga Labs Used Exploit Tactics to Save Stolen NFTs\n\nNews July 30, 13:57\n\n# Yuga Labs Executes White-Hat Rescue to Save $500K in Blue-Chip NFTs\n\nAs Crypto Briefing reports, Yuga Labs pulled 68 NFTs",
+            "snippet": "How Yuga Labs Used Exploit Tactics to Save Stolen NFTs\n\nA column by Silas Beckett\n\nNews July 30, 13:57\n\n# Yuga Labs Executes White-Hat Rescue to Save $500K in Blue-Chip NFTs\n\nAs Crypto Briefing report",
             "published": "2026-07-30T11:57:28.000Z",
             "score": 0.5
           },
@@ -5998,25 +5998,25 @@
             "score": 1
           },
           {
-            "title": "src/test/2026-08/USM_exp.sol",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2026-08/USM_exp.sol",
-            "snippet": "# src/test/2026-08/USM_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: MIT\npragma solidity ^0.8.20;\n\nimport \"forge-std/Test.sol\";\n\n// USM (Minimalist US",
+            "title": "DK27ss/FoomClub-1.6M-PoC",
+            "url": "https://github.com/DK27ss/FoomClub-1.6M-PoC",
+            "snippet": "# DK27ss/FoomClub-1.6M-PoC\n\n groth16 verifier had `delta2 == gamma2` \n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-26T09:09:52Z\n\n## Languages\n\n- Coff",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "DK27ss/FoomClub-1.6M-PoC",
-            "url": "https://github.com/DK27ss/FoomClub-1.6M-PoC",
-            "snippet": "# DK27ss/FoomClub-1.6M-PoC\n\n groth16 verifier had `delta2 == gamma2` \n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-26T09:09:52Z\n\n## Languages\n\n- Coff",
+            "title": "src/test/2026-08/USM_exp.sol",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2026-08/USM_exp.sol",
+            "snippet": "# src/test/2026-08/USM_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: MIT\npragma solidity ^0.8.20;\n\nimport \"forge-std/Test.sol\";\n\n// USM (Minimalist US",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:04.030Z"
+        "enriched_at": "2026-09-12T05:28:12.058Z"
       },
-      "timestamp": "2026-09-03T05:32:05.524Z"
+      "timestamp": "2026-09-12T05:28:13.641Z"
     },
     "abercrombie_fitch_bbp": {
       "intel": {
@@ -6036,10 +6036,10 @@
             "score": 0.5
           },
           {
-            "title": "Vulnerability Disclosure - Abercrombie",
-            "url": "https://corporate.abercrombie.com/vulnerability-disclosure/",
-            "snippet": "Vulnerability Disclosure - Abercrombie\n\n# Vulnerability Disclosure\n\nAbercrombie & Fitch Management Co. looks forward to working with the security community to find vulnerabilities to keep our business",
-            "published": "2023-03-15T12:43:54.000Z",
+            "title": "Abercrombie And Fitch Vulnerability Disclosure | APIs.io Security",
+            "url": "https://apis.io/security/abercrombie-and-fitch/abercrombie-and-fitch-vulnerability-disclosure/",
+            "snippet": "Abercrombie And Fitch Vulnerability Disclosure | APIs.io Security\n\n# Abercrombie And Fitch Vulnerability Disclosure\n\nVulnerability disclosure\n\nAbercrombie and Fitch runs a coordinated vulnerability di",
+            "published": null,
             "score": 0
           }
         ],
@@ -6069,9 +6069,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:39.776Z"
+        "enriched_at": "2026-09-12T05:28:10.487Z"
       },
-      "timestamp": "2026-09-05T05:21:41.262Z"
+      "timestamp": "2026-09-12T05:28:12.058Z"
     },
     "wolt": {
       "intel": {
@@ -6239,5 +6239,5 @@
       "timestamp": "2026-09-07T05:47:55.646Z"
     }
   },
-  "lastRun": "2026-09-11T05:41:13.615Z"
+  "lastRun": "2026-09-12T05:28:15.274Z"
 }
