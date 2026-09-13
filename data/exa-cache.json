@@ -1837,16 +1837,16 @@
             "score": 1
           },
           {
-            "title": "MAL-2025-169 - OSV",
-            "url": "https://osv.dev/vulnerability/MAL-2025-169",
-            "snippet": "Import Source\n: https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/braze-web-sdk/MAL-2025-169.json\nJSON Data\n: https://api.osv.dev/v1/vulns/MAL-2025-169\nAliases\n: - GHSA-v8q7-w2w7-",
+            "title": "Braze, Inc. | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/braze_inc",
+            "snippet": "Braze, Inc. | Bounty Policy | HackerOne\n\n## Introduction\n\nBraze is looking forward to working with the researcher community to help keep our users and their data safe.\n\n## Program highlights\n\nGold Sta",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "BrazeUI - Low Vulnerability - AIKIDO-2025-10027",
-            "url": "https://intel.aikido.dev/cve/AIKIDO-2025-10027",
-            "snippet": "BrazeUI - Low Vulnerability - AIKIDO-2025-10027\n\n# AIKIDO-2025-10027\n\nBrazeUI is vulnerable to Incorrect Authorization\n\nIncorrect Authorization Pre-CVE\n\nPublished Jan 20, 2025\n\n20\n\nLow Risk\n\n### This ",
+            "title": "MAL-2025-169 - OSV",
+            "url": "https://osv.dev/vulnerability/MAL-2025-169",
+            "snippet": "Import Source\n: https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/braze-web-sdk/MAL-2025-169.json\nJSON Data\n: https://api.osv.dev/v1/vulns/MAL-2025-169\nAliases\n: - GHSA-v8q7-w2w7-",
             "published": null,
             "score": 0
           }
@@ -1868,18 +1868,18 @@
             "score": 0.5
           },
           {
-            "title": "brace-expansion: DoS via unbounded intermediate arrays, bypassing the CVE-2026-14257 mitigation · CVE-2026-69152 · GitHub Advisory Database · GitHub",
-            "url": "https://github.com/advisories/GHSA-RGW5-RVV9-X895",
-            "snippet": "brace-expansion: DoS via unbounded intermediate arrays, bypassing the CVE-2026-14257 mitigation · CVE-2026-69152 · GitHub Advisory Database · GitHub\n\n## brace-expansion: DoS via unbounded intermediate",
-            "published": "2026-07-30T00:00:00.000Z",
+            "title": "Snizi/CVE-2026-18963-Exploit",
+            "url": "https://github.com/snizi/cve-2026-18963-Exploit",
+            "snippet": "# Snizi/CVE-2026-18963-Exploit\n\nExploit for KeyCloak CVE-2026-18963\n\n- Stars: 37\n- Forks: 11\n- Watchers: 37\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-08-20T22:01:1",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-06T05:38:01.638Z"
+        "enriched_at": "2026-09-13T05:44:04.901Z"
       },
-      "timestamp": "2026-09-06T05:38:03.340Z"
+      "timestamp": "2026-09-13T05:44:06.399Z"
     },
     "kong": {
       "intel": {
@@ -1932,9 +1932,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-06T05:38:03.340Z"
+        "enriched_at": "2026-09-13T05:44:06.400Z"
       },
-      "timestamp": "2026-09-06T05:38:04.906Z"
+      "timestamp": "2026-09-13T05:44:07.916Z"
     },
     "whoop_bug_bounty": {
       "intel": {
@@ -1987,25 +1987,25 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-06T05:38:04.906Z"
+        "enriched_at": "2026-09-13T05:44:07.917Z"
       },
-      "timestamp": "2026-09-06T05:38:06.517Z"
+      "timestamp": "2026-09-13T05:44:09.399Z"
     },
     "hubspot": {
       "intel": {
         "writeups": [
           {
-            "title": "Medium",
-            "url": "https://cao-cao.medium.com/my-very-first-bug-finding-bac-in-hubspot-5964dec7ade5",
-            "snippet": "MediumMy very first bug : Finding BAC in Hubspot | by CaoCao | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\n# My very first bug : Finding BAC in Hubspot\n\n4 min read\n\nMar 5, 2026\n\n--\n\nShare\n\nHello, ",
-            "published": "2026-03-05T20:07:56.000Z",
-            "score": 1
-          },
-          {
             "title": "Saving 100,000 websites from a Watering Hole attack | by mohamad mahmoudi | Medium",
             "url": "https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94",
             "snippet": "Saving 100,000 websites from a Watering Hole attack | by mohamad mahmoudi | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Saving 100,000 websites from a Watering Hole attack\n\n5 min read\n\nAug 31, 2022\n\n--\n\nShar",
             "published": "2022-08-31T11:45:56.000Z",
+            "score": 1
+          },
+          {
+            "title": "Medium",
+            "url": "https://cao-cao.medium.com/my-very-first-bug-finding-bac-in-hubspot-5964dec7ade5",
+            "snippet": "MediumMy very first bug : Finding BAC in Hubspot | by CaoCao | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\n# My very first bug : Finding BAC in Hubspot\n\n4 min read\n\nMar 5, 2026\n\n--\n\nShare\n\nHello, ",
+            "published": "2026-03-05T20:07:56.000Z",
             "score": 0.5
           },
           {
@@ -2042,9 +2042,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-06T05:38:06.517Z"
+        "enriched_at": "2026-09-13T05:44:09.400Z"
       },
-      "timestamp": "2026-09-06T05:38:08.157Z"
+      "timestamp": "2026-09-13T05:44:10.804Z"
     },
     "oppo_bbp": {
       "intel": {
@@ -2097,9 +2097,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-06T05:38:08.158Z"
+        "enriched_at": "2026-09-13T05:44:10.805Z"
       },
-      "timestamp": "2026-09-06T05:38:09.777Z"
+      "timestamp": "2026-09-13T05:44:12.330Z"
     },
     "1password_ctf": {
       "intel": {
@@ -2207,31 +2207,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-06T05:38:09.777Z"
+        "enriched_at": "2026-09-13T05:44:12.330Z"
       },
-      "timestamp": "2026-09-06T05:38:11.417Z"
+      "timestamp": "2026-09-13T05:44:13.774Z"
     },
     "bcny": {
       "intel": {
         "writeups": [
           {
             "title": "The Browser Company of NYC | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/bcny?type=team",
+            "url": "https://hackerone.com/bcny",
             "snippet": "The Browser Company of NYC | Bounty Policy | HackerOne\n\n## Introduction\n\nAt The Browser Company of New York, we care deeply about safeguarding the security and privacy of everyone who uses our product",
             "published": null,
             "score": 1
           },
           {
-            "title": "CVE Assignment Policy | The Browser Company",
-            "url": "https://www.thebrowser.company/security/cve-policy",
-            "snippet": "CVE Assignment Policy | The Browser Company\n\n0 Online\n\nShow\n\nTheme\n\n## Overview\n\nWe participate in the Common Vulnerabilities and Exposures (CVE) Program as a CVE Numbering Authority. Our aim is to pu",
+            "title": "The Browser Company of NYC | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/bcny?type=team",
+            "snippet": "The Browser Company of NYC | Bounty Policy | HackerOne\n\n## Introduction\n\nAt The Browser Company of New York, we care deeply about safeguarding the security and privacy of everyone who uses our product",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "The Browser Company of NYC Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/the-browser-company-of-nyc/",
-            "snippet": "The Browser Company of NYC Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: bcny \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 3 days \nBounty Time\n: 299 days \n\n Res",
+            "title": "CVE Assignment Policy | The Browser Company",
+            "url": "https://www.thebrowser.company/security/cve-policy",
+            "snippet": "CVE Assignment Policy | The Browser Company\n\n0 Online\n\nShow\n\nTheme\n\n## Overview\n\nWe participate in the Common Vulnerabilities and Exposures (CVE) Program as a CVE Numbering Authority. Our aim is to pu",
             "published": null,
             "score": 0
           }
@@ -2262,9 +2262,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-06T05:38:11.417Z"
+        "enriched_at": "2026-09-13T05:44:13.774Z"
       },
-      "timestamp": "2026-09-06T05:38:13.054Z"
+      "timestamp": "2026-09-13T05:44:15.214Z"
     },
     "verily_life_sciences": {
       "intel": {
@@ -2317,9 +2317,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-06T05:38:13.054Z"
+        "enriched_at": "2026-09-13T05:44:15.214Z"
       },
-      "timestamp": "2026-09-06T05:38:14.765Z"
+      "timestamp": "2026-09-13T05:44:16.650Z"
     },
     "neon_bbp": {
       "intel": {
@@ -2365,9 +2365,9 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-09-06T05:38:14.765Z"
+        "enriched_at": "2026-09-13T05:44:16.650Z"
       },
-      "timestamp": "2026-09-06T05:38:16.454Z"
+      "timestamp": "2026-09-13T05:44:18.082Z"
     },
     "bumba_bbp": {
       "intel": {
@@ -4133,17 +4133,17 @@
             "score": 1
           },
           {
+            "title": "1Win Data Breach Exposes 96.4M Accounts | Lunar",
+            "url": "https://lunarcyber.com/breach-catalog/1win/",
+            "snippet": "1Win Data Breach Exposes 96.4M Accounts | Lunar\n\n# 1Win\n\n- Breach Occurred: 21-11-2024\n- Added to Lunar: 11-02-2026\n- Affected Accounts: 96.4M\n\n## What Happened\n\nIn early November 2024, international ",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Leaked; High Risk of BEC & Supply-Chain Attacks",
             "url": "https://www.brinztech.com/breach-alerts/brinztech-alert-1win-betting-site-28gb-sql-db-96m-users-partners-employees-leaked-high-risk-of-bec-supply-chain-attacks/",
             "snippet": "1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Leaked; High Risk of BEC & Supply-Chain Attacks\n\n# Brinztech Alert: 1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Le",
             "published": "2025-10-31T20:19:46.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "1win Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/1win/",
-            "snippet": "1win Bug Bounty Program - Bug Bounties\n\n# 1win\n\nBounty \n\n## Program Details \n\n Handle \n: 1win_com \nManaged\n: No \n\n## Response Metrics \n\nResponse Time\n: 8 days \nBounty Time\n: 302 days \nResolution Time\n",
-            "published": null,
             "score": 0
           }
         ],
@@ -4173,9 +4173,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-06T05:37:59.664Z"
+        "enriched_at": "2026-09-13T05:44:03.378Z"
       },
-      "timestamp": "2026-09-06T05:38:01.638Z"
+      "timestamp": "2026-09-13T05:44:04.901Z"
     },
     "wisdomtree": {
       "intel": {
@@ -6239,5 +6239,5 @@
       "timestamp": "2026-09-07T05:47:55.646Z"
     }
   },
-  "lastRun": "2026-09-12T05:28:15.274Z"
+  "lastRun": "2026-09-13T05:44:18.083Z"
 }
