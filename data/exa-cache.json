@@ -2375,7 +2375,7 @@
           {
             "title": "Bumba Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/bumba/",
-            "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nBounty \n\n## Program Details \n\n Handle \n: bumba_bbp \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 11 days \nResolution Time\n: 2171 days \n\n Resp",
+            "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nBounty \n\n## Program Details \n\n Handle \n: bumba_bbp \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 15 days \nResolution Time\n: 2171 days \n\n Resp",
             "published": null,
             "score": 1
           },
@@ -2384,13 +2384,6 @@
             "url": "https://github.com/perplexityai/bumblebee/issues/6",
             "snippet": "# Security findings in bumblebee v0.1.x — please do not share publicly until maintainers respond\n\n- State: closed\n- Author: meadityabhi\n- Created: 2026-05-23T04:43:05Z\n- Updated: 2026-05-23T09:25:53Z\n",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Medium",
-            "url": "https://atanupal22256.medium.com/zero-requiem-the-5-000-blind-ssrf-chain-that-owned-lelouch-lamperouge-f0e00c919213",
-            "snippet": "Medium🎭 Zero Requiem: The $5,000 Blind SSRF Chain That Owned Lelouch Lamperouge | by 0B1To_X_ucH!h4 | Jul, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\nPress enter or click to view image in full size\n\nB",
-            "published": "2026-07-18T15:31:43.000Z",
             "score": 0
           }
         ],
@@ -2419,10 +2412,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-09-07T05:47:39.709Z"
+        "total_results": 5,
+        "enriched_at": "2026-09-14T05:54:43.032Z"
       },
-      "timestamp": "2026-09-07T05:47:41.421Z"
+      "timestamp": "2026-09-14T05:54:44.880Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -2475,18 +2468,18 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-07T05:47:41.421Z"
+        "enriched_at": "2026-09-14T05:54:44.880Z"
       },
-      "timestamp": "2026-09-07T05:47:43.019Z"
+      "timestamp": "2026-09-14T05:54:46.494Z"
     },
     "starbucks_china": {
       "intel": {
         "writeups": [
           {
-            "title": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章 - SecPulse.COM | 安全脉搏",
-            "url": "https://www.secpulse.com/archives/198427.html",
-            "snippet": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章 - SecPulse.COM | 安全脉搏\n\n#### 脉搏文库\n\n#### 安全建设\n\n#### 其他\n\n# 实战 | 猪猪侠以前的星巴克漏洞挖掘文章\n\n2023-03-30 13,358\n\n### 来源：http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0208769\n\n这是一篇2016",
-            "published": null,
+            "title": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章",
+            "url": "http://sechub.in/view/2644651",
+            "snippet": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章\n\n# 实战 | 猪猪侠以前的星巴克漏洞挖掘文章\n\n 安全脉搏 2023-03-30 14:06:27 漏洞 · .net · flipscript \n\n### 来源：http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0208769\n\n这是一篇2016年的乌云漏洞报告，带大家感受一下2016年",
+            "published": "2023-03-30T00:00:00.000Z",
             "score": 1
           },
           {
@@ -2530,9 +2523,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-07T05:47:43.019Z"
+        "enriched_at": "2026-09-14T05:54:46.494Z"
       },
-      "timestamp": "2026-09-07T05:47:44.591Z"
+      "timestamp": "2026-09-14T05:54:48.120Z"
     },
     "syfe_bbp": {
       "intel": {
@@ -2569,25 +2562,25 @@
             "score": 1
           },
           {
-            "title": "Scratchappy/CVE-2025-68937",
-            "url": "https://github.com/Scratchappy/CVE-2025-68937",
-            "snippet": "# Scratchappy/CVE-2025-68937\n\nAutomated PoC exploit for CVE-2025-68937 — Gitea/Forgejo Template Symlink RCE. Any authenticated user can get a shell as the git service user.\n\n- Stars: 0\n- Forks: 0\n- Wa",
-            "published": null,
+            "title": "TYehan/CVE-2025-58434-59528",
+            "url": "https://github.com/tyehan/cve-2025-58434-59528",
+            "snippet": "# Repository: TYehan/CVE-2025-58434-59528\n\nCVE-2025-58434 and CVE-2025-59528 chain POC - FlowiseAI Remote Code Execution\n\n- Stars: 5\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Pytho",
+            "published": "2026-04-12T06:39:37.000Z",
             "score": 0.5
           },
           {
-            "title": "BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal",
-            "url": "https://github.com/BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal",
-            "snippet": "# BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal\n\nPoC + analysis for CVE-2026-54917 — SeaweedFS S3 gateway cross-bucket path traversal (CVSS 10.0, <4.30). Read/write any bucket via .. in the o",
+            "title": "Scratchappy/CVE-2025-68937",
+            "url": "https://github.com/Scratchappy/CVE-2025-68937",
+            "snippet": "# Scratchappy/CVE-2025-68937\n\nAutomated PoC exploit for CVE-2025-68937 — Gitea/Forgejo Template Symlink RCE. Any authenticated user can get a shell as the git service user.\n\n- Stars: 0\n- Forks: 0\n- Wa",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-07T05:47:44.592Z"
+        "enriched_at": "2026-09-14T05:54:48.121Z"
       },
-      "timestamp": "2026-09-07T05:47:46.170Z"
+      "timestamp": "2026-09-14T05:54:49.779Z"
     },
     "nba-public": {
       "intel": {
@@ -2631,18 +2624,18 @@
             "score": 0.5
           },
           {
-            "title": "c0gnit00/CVE-2026-33937",
-            "url": "https://github.com/c0gnit00/CVE-2026-33937",
-            "snippet": "# c0gnit00/CVE-2026-33937\n\nPython POC, Exploit for Handlebars.js AST Injection RCE, Handlebars.js versions 4.0.0 through 4.7.8 are affected. CVSS score: 9.8 Critical.\n\n- Stars: 1\n- Forks: 0\n- Watchers",
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-07T05:47:46.170Z"
+        "enriched_at": "2026-09-14T05:54:49.780Z"
       },
-      "timestamp": "2026-09-07T05:47:47.753Z"
+      "timestamp": "2026-09-14T05:54:51.421Z"
     },
     "circle-bbp": {
       "intel": {
@@ -2686,18 +2679,18 @@
             "score": 0.5
           },
           {
-            "title": "src/test/2024-03/BBT_exp.sol",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2024-03/BBT_exp.sol",
-            "snippet": "# src/test/2024-03/BBT_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.10;\n\nimport \"forge-std/Test.sol\";\nimport \"./../in",
+            "title": "liang-junkai/Relic-bbs-fault-injection",
+            "url": "https://github.com/liang-junkai/Relic-bbs-fault-injection",
+            "snippet": "# liang-junkai/Relic-bbs-fault-injection\n\nContains a pdf vulnerability report for BB short signature in relic library\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-07T05:47:47.753Z"
+        "enriched_at": "2026-09-14T05:54:51.421Z"
       },
-      "timestamp": "2026-09-07T05:47:49.332Z"
+      "timestamp": "2026-09-14T05:54:52.992Z"
     },
     "varonis": {
       "intel": {
@@ -2750,9 +2743,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-07T05:47:49.332Z"
+        "enriched_at": "2026-09-14T05:54:52.992Z"
       },
-      "timestamp": "2026-09-07T05:47:50.859Z"
+      "timestamp": "2026-09-14T05:54:54.573Z"
     },
     "klarna": {
       "intel": {
@@ -2815,7 +2808,7 @@
           {
             "title": "Unico IDtech Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/unico-idtech/",
-            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nBounty \n\n## Program Details \n\n Handle \n: unico_idtech \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 8 days \nBounty Time\n: 240 d",
+            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nBounty \n\n## Program Details \n\n Handle \n: unico_idtech \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 8 days \nBounty Time\n: 312 d",
             "published": null,
             "score": 1
           },
@@ -2860,31 +2853,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-07T05:47:50.859Z"
+        "enriched_at": "2026-09-14T05:54:54.573Z"
       },
-      "timestamp": "2026-09-07T05:47:52.487Z"
+      "timestamp": "2026-09-14T05:54:56.179Z"
     },
     "wallet_on_telegram": {
       "intel": {
         "writeups": [
           {
             "title": "TENET: Telegram Mini App (in)security",
-            "url": "https://arxiv.org/html/2608.17538",
-            "snippet": "TENET: Telegram Mini App (in)security\n\n# TENET: Telegram Mini App (in)security\n\n Andrea Ciccotelli 1 , Federico Zappone 2 , and Roberto Di Pietro 1 1 King Abdullah University of Science and Technology",
+            "url": "http://arxiv.org/pdf/2608.17538",
+            "snippet": "TENET: TELEGRAM MINI APP (IN)SECURITY\n\nANDREA CICCOTELLI 1 , FEDERICO ZAPPONE 2 , AND ROBERTO DI PIETRO 1\n\n1King Abdullah University of Science and Technology (KAUST) Computer, Electrical and Mathemat",
             "published": null,
             "score": 1
-          },
-          {
-            "title": "OSV - Open Source Vulnerabilities",
-            "url": "https://osv.dev/vulnerability/MAL-2026-13346",
-            "snippet": "OSV - Open Source Vulnerabilities\n\nImport Source\n: https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hdkey-wallet/MAL-2026-13346.json\nJSON Data\n: https://api.osv.dev/v1/vulns/MAL-",
-            "published": null,
-            "score": 0.5
           },
           {
             "title": "[BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)",
             "url": "https://github.com/Scottcjn/rustchain-bounties/issues/69",
             "snippet": "# [BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)\n\n- State: closed\n- Author: Scottcjn\n- Created: 2026-02-06T01:03:51Z\n- Updated: 2026-03-26T12:52:10Z\n- Repository: Scottcjn/rus",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "OSV - Open Source Vulnerabilities",
+            "url": "https://osv.dev/vulnerability/MAL-2026-13346",
+            "snippet": "OSV - Open Source Vulnerabilities\n\nImport Source\n: https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hdkey-wallet/MAL-2026-13346.json\nJSON Data\n: https://api.osv.dev/v1/vulns/MAL-",
             "published": null,
             "score": 0
           }
@@ -2915,9 +2908,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-07T05:47:52.487Z"
+        "enriched_at": "2026-09-14T05:54:56.179Z"
       },
-      "timestamp": "2026-09-07T05:47:54.094Z"
+      "timestamp": "2026-09-14T05:54:58.060Z"
     },
     "chia_network": {
       "intel": {
@@ -5195,14 +5188,14 @@
           {
             "title": "Notion AI: Data Exfiltration | PromptArmor",
             "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
-            "snippet": "Notion AI: Data Exfiltration | PromptArmor\n\nShare on X Share by email\n\nShare by text message Subscribe\n\nThis hit #4 on HackerNews! To view the discussion, click here.\n\nNewPractical Guide to Navigating",
-            "published": "2026-01-09T01:54:17.000Z",
+            "snippet": "Notion AI: Data Exfiltration | PromptArmor\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team before it reached the Notion team. Once No",
+            "published": "2026-01-09T17:53:05.000Z",
             "score": 0.5
           },
           {
             "title": "Notion Labs, Inc. | Security Program",
             "url": "https://ooosec.com/programs/notion-labs-inc",
-            "snippet": "Notion Labs, Inc. | Security Program\n\n## Notion Labs, Inc.\n\n# Notion Labs, Inc.\n\nBounty Range\n\n$50 - $2,000\n\nexternal program\n\n## Details\n\n# Notion Labs, Inc. Bug Bounty Program\n\n## Program Highlights",
+            "snippet": "Notion Labs, Inc. | Security Program\n\n# Something went wrong\n\nWe've been notified and will look into it. You can try again, or head back home.",
             "published": null,
             "score": 0
           }
@@ -5210,17 +5203,17 @@
         "twitter": [],
         "github": [
           {
-            "title": "NotSooShariff/hog-c2",
-            "url": "https://github.com/NotSooShariff/hog-c2",
-            "snippet": "# Repository: NotSooShariff/hog-c2\n\nA trojan malware executable proof-of-concept that leverages a Notion page via integrations as a C2 server, enabling remote control and persistence on infiltrated sy",
-            "published": "2024-08-30T16:25:52.000Z",
-            "score": 1
-          },
-          {
             "title": "docs/case-studies/notion-ai-prompt-injection.md",
             "url": "https://github.com/vectara/awesome-agent-failures/blob/354b2043/docs/case-studies/notion-ai-prompt-injection.md",
             "snippet": "# docs/case-studies/notion-ai-prompt-injection.md\n\n- Branch: 354b2043\n- Repository: vectara/awesome-agent-failures\n\n---\n\n# Notion AI Prompt Injection via Malicious PDF - 2024\n\n## Incident Overview\n\n**",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "NotSooShariff/hog-c2",
+            "url": "https://github.com/NotSooShariff/hog-c2",
+            "snippet": "# Repository: NotSooShariff/hog-c2\n\nA trojan malware executable proof-of-concept that leverages a Notion page via integrations as a C2 server, enabling remote control and persistence on infiltrated sy",
+            "published": "2024-08-30T16:25:52.000Z",
             "score": 0.5
           },
           {
@@ -5233,9 +5226,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:06.985Z"
+        "enriched_at": "2026-09-14T05:54:58.061Z"
       },
-      "timestamp": "2026-09-03T05:32:08.526Z"
+      "timestamp": "2026-09-14T05:54:59.724Z"
     },
     "mpesa": {
       "intel": {
@@ -6239,5 +6232,5 @@
       "timestamp": "2026-09-07T05:47:55.646Z"
     }
   },
-  "lastRun": "2026-09-13T05:44:18.083Z"
+  "lastRun": "2026-09-14T05:54:59.724Z"
 }
