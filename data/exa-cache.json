@@ -2963,9 +2963,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:03.389Z"
+        "enriched_at": "2026-09-15T05:56:08.948Z"
       },
-      "timestamp": "2026-09-08T05:41:05.067Z"
+      "timestamp": "2026-09-15T05:56:10.616Z"
     },
     "3cx": {
       "intel": {
@@ -2978,26 +2978,26 @@
             "score": 1
           },
           {
+            "title": "3CX Supply Chain Attack (CVE-2023-29059): The First Cascading Software Compromise | ThreatPaper",
+            "url": "https://threatpaper.com/cases/3cx-supply-chain-attack-cve-2023-29059-the-first-cascading-software-compromise",
+            "snippet": "3CX Supply Chain Attack (CVE-2023-29059): The First Cascading Software Compromise | ThreatPaper\n\n# 3CX Supply Chain Attack (CVE-2023-29059): The First Cascading Software Compromise\n\nBy Sethu Satheesh ",
+            "published": "2026-09-02T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Medium",
             "url": "https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88",
             "snippet": "MediumPwning 3CX Phone Management Backends from the Internet | by frycos | Medium\n\nSign up\n\nGet app\n\nSign up\n\nExploitation\n\nUnauthorized Access\n\nVulnerability Research\n\n# Pwning 3CX Phone Management B",
             "published": "2022-03-30T22:01:22.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Inside the 3CX Supply Chain Compromise",
-            "url": "https://silentbreach.com/blog/inside-the-3cx-supply-chain-compromise",
-            "snippet": "Inside the 3CX Supply Chain Compromise\n\n## Inside the 3CX Supply Chain Compromise\n\nIn February of 2023, Silent Breach began to observe a significant anomaly surfacing across enterprise telemetry.\n\nIn ",
-            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "http/vulnerabilities/other/3cx-management-console.yaml",
-            "url": "https://github.com/projectdiscovery/nuclei-templates/blob/main/http/vulnerabilities/other/3cx-management-console.yaml",
-            "snippet": "# http/vulnerabilities/other/3cx-management-console.yaml\n\n- Branch: main\n- Repository: projectdiscovery/nuclei-templates\n\n---\n\nid: 3cx-management-console\n\ninfo:\n name: 3CX Management Console - Local F",
+            "title": "JazzTheRabbit/FreePBX-SQLi-RCE",
+            "url": "https://github.com/JazzTheRabbit/FreePBX-SQLi-RCE",
+            "snippet": "# JazzTheRabbit/FreePBX-SQLi-RCE\n\nCVE-2025-57819 FreePBX SQLi RCE PoC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-24T17:57:28Z\n\n## Languages\n\n- Pyth",
             "published": null,
             "score": 1
           },
@@ -3009,18 +3009,18 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2023-49954/CVE-2023-49954.github.io",
-            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954",
-            "snippet": "# CVE-2023-49954/CVE-2023-49954.github.io\n\nSQL Injection in 3CX CRM Integration\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2023-12-14T18:38:28Z\n\n## Top Con",
+            "title": "http/vulnerabilities/other/3cx-management-console.yaml",
+            "url": "https://github.com/projectdiscovery/nuclei-templates/blob/main/http/vulnerabilities/other/3cx-management-console.yaml",
+            "snippet": "# http/vulnerabilities/other/3cx-management-console.yaml\n\n- Branch: main\n- Repository: projectdiscovery/nuclei-templates\n\n---\n\nid: 3cx-management-console\n\ninfo:\n name: 3CX Management Console - Local F",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:05.067Z"
+        "enriched_at": "2026-09-15T05:56:10.616Z"
       },
-      "timestamp": "2026-09-08T05:41:06.777Z"
+      "timestamp": "2026-09-15T05:56:12.362Z"
     },
     "privy-bbp": {
       "intel": {
@@ -3040,10 +3040,10 @@
             "score": 0.5
           },
           {
-            "title": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library",
-            "url": "https://www.privy.io/blog/shamir-secret-sharing-deep-dive",
-            "snippet": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\n## Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nS\n\n|\n\nAug 7, 202",
-            "published": "2024-08-07T04:30:05.000Z",
+            "title": "Privy manages key reconstitution for 120M wallets, exposing risks",
+            "url": "https://cryptobriefing.com/privy-120m-wallets-key-reconstitution-risks/",
+            "snippet": "Privy manages key reconstitution for 120M wallets, exposing risks\n\n# Privy manages key reconstitution for 120M wallets, exposing risks \n\n Academic research into cache side-channel attacks raises fresh",
+            "published": "2026-07-11T16:10:03.000Z",
             "score": 0
           }
         ],
@@ -3073,9 +3073,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:06.777Z"
+        "enriched_at": "2026-09-15T05:56:12.362Z"
       },
-      "timestamp": "2026-09-08T05:41:08.473Z"
+      "timestamp": "2026-09-15T05:56:14.166Z"
     },
     "netflix": {
       "intel": {
@@ -3128,9 +3128,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:08.473Z"
+        "enriched_at": "2026-09-15T05:56:14.166Z"
       },
-      "timestamp": "2026-09-08T05:41:10.242Z"
+      "timestamp": "2026-09-15T05:56:15.822Z"
     },
     "23andme_bbp": {
       "intel": {
@@ -3143,17 +3143,17 @@
             "score": 1
           },
           {
+            "title": "23andMe Credential Stuffing: When Relatives Are the Payload | Hmmnm",
+            "url": "https://hmmnm.com/23andme-credential-stuffing-attack/",
+            "snippet": "23andMe Credential Stuffing: When Relatives Are the Payload | Hmmnm\n\n# 23andMe Credential Stuffing: When Relatives Are the Payload\n\n Hmmnm cover v2 — TECHNOLOGY \n\n## 23andMe Credential Stuffing: When ",
+            "published": "2023-10-25T06:45:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "23andMe data breach: What you need to know",
             "url": "https://www.expressvpn.com/blog/23andme-data-breach/",
             "snippet": "23andMe data breach: What you need to know\n\n# 23andMe data breach: What happened and how to protect your data\n\n Privacy 15.06.2026 14 mins \n\n Written by Kelvin Kiogora \n\n Reviewed by Ana Jovanovic \n\n ",
             "published": "2026-06-15T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "The 23andMe Data Breach: Analyzing Credential Stuffing Attacks, Security Vulnerabilities, and Mitigation Strategies",
-            "url": "https://doi.org/10.48550/arxiv.2502.04303",
-            "snippet": "# The 23andMe Data Breach: Analyzing Credential Stuffing Attacks, Security Vulnerabilities, and Mitigation Strategies\n\narXiv (Cornell University). Published: 2025-02-06. Preprint. 1 citation.\n\n## Auth",
-            "published": "2025-02-06T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3183,31 +3183,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:10.243Z"
+        "enriched_at": "2026-09-15T05:56:15.822Z"
       },
-      "timestamp": "2026-09-08T05:41:12.179Z"
+      "timestamp": "2026-09-15T05:56:17.557Z"
     },
     "audible": {
       "intel": {
         "writeups": [
           {
+            "title": "Audible | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/audible",
+            "snippet": "Audible | Bounty Policy | HackerOne\n\n## Program highlights\n\nClosed Scope\n\nOnly accepts reports based on the listed scope.\n\nFast Payment\n\nEnsures payment within 1 month of receiving a vulnerability rep",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "💀 Evanliewer Illi Link Party! ≤ 1.0 — PoC exploit for CVE-2023-7231 | Sploitus",
             "url": "https://sploitus.com/exploit?id=AD8BD113-373A-5E25-B892-F8D1555A97AC",
             "snippet": "💀 Evanliewer Illi Link Party! ≤ 1.0 — PoC exploit for CVE-2023-7231 | Sploitus\n\ngithubexploit · 2025-05-08\n\n## Description\n\nManual disclosure of Memcached RCE exploit via Gopher payloads with field-t",
             "published": "2025-05-08T00:00:00.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "BBO513/CVE-2023-7231",
             "url": "https://github.com/BBO513/CVE-2023-7231",
             "snippet": "# BBO513/CVE-2023-7231\n\nPoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 1\n- Default branch: main\n- Created: 2025-05-08T05:28:29Z\n\n",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Vulnerability Platform - Free CVE Database & AI Analysis",
-            "url": "https://cve.imfht.com/poc_detail/a6b854f9f1979db85e5925b3ba80586b706a1f10",
-            "snippet": "Vulnerability Platform - Free CVE Database & AI Analysis\n\n###### Support Us — Your donation helps us keep running\n\nGoal: 1000 CNY，Raised: 1000 CNY\n\n100.0%\n\n#### POC Details: a6b854f9f1979db85e5925b3ba",
             "published": null,
             "score": 0
           }
@@ -3238,9 +3238,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:12.179Z"
+        "enriched_at": "2026-09-15T05:56:17.557Z"
       },
-      "timestamp": "2026-09-08T05:41:14.497Z"
+      "timestamp": "2026-09-15T05:56:19.123Z"
     },
     "temu": {
       "intel": {
@@ -3293,9 +3293,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:14.497Z"
+        "enriched_at": "2026-09-15T05:56:19.123Z"
       },
-      "timestamp": "2026-09-08T05:41:16.628Z"
+      "timestamp": "2026-09-15T05:56:20.835Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -3396,31 +3396,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:16.628Z"
+        "enriched_at": "2026-09-15T05:56:20.835Z"
       },
-      "timestamp": "2026-09-08T05:41:18.419Z"
+      "timestamp": "2026-09-15T05:56:22.392Z"
     },
     "trip_com": {
       "intel": {
         "writeups": [
           {
+            "title": "Trip.com | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/trip_com",
+            "snippet": "Trip.com | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis p",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Medium",
             "url": "https://medium.com/@a.essam0_o/delete-any-comment-without-admin-privilege-d5af9105ed9d",
             "snippet": "MediumDelete any comment without admin privilege | by A.Essam | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## A.Essam\n\nPassionate Engineer about Offensive Security with full interest of CTF & put my hand on a",
             "published": "2024-12-30T13:31:33.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "6 ways Trip.com offers outstanding service",
             "url": "https://www.trip.com/pages/security",
             "snippet": "6 ways Trip.com offers outstanding service\n\n# Reporting potential technical concerns and security vulnerabilities related to Trip.com systems\n\nDear all,\n\nWe warmly welcome all security experts or rese",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "1a830f2 feat: trip.com 预案性接入 (external research, no实战)",
-            "url": "https://github.com/zy950618/oh_my_reverse_skill/commit/1a830f2414c02ee29d3be2d4134a988022602aba",
-            "snippet": "# 1a830f2 feat: trip.com 预案性接入 (external research, no实战)\n\n- SHA: 1a830f2414c02ee29d3be2d4134a988022602aba\n- Repository: zy950618/oh_my_reverse_skill\n- Author: zy950618\n- Date: 2026-05-25T07:46:02Z\n- +",
             "published": null,
             "score": 0
           }
@@ -3451,9 +3451,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:18.419Z"
+        "enriched_at": "2026-09-15T05:56:22.392Z"
       },
-      "timestamp": "2026-09-08T05:41:20.294Z"
+      "timestamp": "2026-09-15T05:56:24.104Z"
     },
     "bykea": {
       "intel": {
@@ -3473,10 +3473,10 @@
             "score": 0.5
           },
           {
-            "title": "Bykea | Report #2868164 - Bypassing Bronze Partner Wallet Restriction to Accept Trips with Negative Balance | HackerOne",
-            "url": "https://hackerone.com/reports/2868164",
-            "snippet": "Bykea | Report #2868164 - Bypassing Bronze Partner Wallet Restriction to Accept Trips with Negative Balance | HackerOne\n\n63\n\nCopy report id\n\nBypassing Bronze Partner Wallet Restriction to Accept Trips",
-            "published": null,
+            "title": "Bykea | Report #3328343 - Lack of minimum value bid wheel verification on customer_bid in Rental Trips | HackerOne",
+            "url": "https://hackerone.com/reports/3328343",
+            "snippet": "Bykea | Report #3328343 - Lack of minimum value bid wheel verification on customer_bid in Rental Trips | HackerOne\n\nLack of minimum value bid wheel verification on customer_bid in Rental Trips\n\nSummar",
+            "published": "2025-09-05T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3490,25 +3490,25 @@
             "score": 1
           },
           {
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "BYOVD-Research/Safetica at main · KOSEC-LLC/BYOVD-Research · GitHub",
             "url": "https://github.com/KOSEC-LLC/BYOVD-Research/tree/main/Safetica",
             "snippet": "BYOVD-Research/Safetica at main · KOSEC-LLC/BYOVD-Research · GitHub\n\n## FilesExpand file tree\n\nmain\n\n# Safetica\n\nView commit history for this file.\n\nmain\n\n# Safetica\n\nTop\n\n## README.md\n\n# Overview\n\n- ",
             "published": "2025-10-15T02:11:59.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass",
-            "url": "https://github.com/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass",
-            "snippet": "# Repository: hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass\n\nCVE-2026-50751 — Check Point IKEv1 Authentication Bypass\n\n- Stars: 1\n- Forks: 1\n- Watchers: 0\n- Open issues: 0\n- Primary ",
-            "published": "2026-06-12T14:25:40.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-08T05:41:20.294Z"
+        "enriched_at": "2026-09-15T05:56:24.104Z"
       },
-      "timestamp": "2026-09-08T05:41:22.488Z"
+      "timestamp": "2026-09-15T05:56:25.740Z"
     },
     "inditex": {
       "intel": {
@@ -6232,5 +6232,5 @@
       "timestamp": "2026-09-07T05:47:55.646Z"
     }
   },
-  "lastRun": "2026-09-14T05:54:59.724Z"
+  "lastRun": "2026-09-15T05:56:25.741Z"
 }
