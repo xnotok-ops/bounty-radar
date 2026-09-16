@@ -5245,23 +5245,23 @@
       "intel": {
         "writeups": [
           {
+            "title": "MetaMask Entropy Flaw [CVE-2026–99745] and the Coldcard Wake-Up Call | by Consensys Software | Sep, 2026 | Medium",
+            "url": "https://medium.com/@consensysllc/metamask-entropy-flaw-cve-2026-99745-and-the-coldcard-wake-up-call-88ca4369f16b",
+            "snippet": "MetaMask Entropy Flaw [CVE-2026–99745] and the Coldcard Wake-Up Call | by Consensys Software | Sep, 2026 | MediumMedium\n[Sitemap](https://medium.com/sitemap/sitemap.xml)\n[Open in app](https://play.goo",
+            "published": "2026-09-05T11:57:51.000Z",
+            "score": 1
+          },
+          {
             "title": "MetaMask | Report #2280279 - total Failure of password protection while extracting seed phrase! increases attack surface area for scammers | HackerOne",
             "url": "https://hackerone.com/reports/2280279",
             "snippet": "MetaMask | Report #2280279 - total Failure of password protection while extracting seed phrase! increases attack surface area for scammers | HackerOne\n\n131\n\nCopy report id\n\ntotal Failure of password p",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Pentest-Report MetaMask Signing Snap & Codebase 03.2024",
             "url": "https://cure53.de/pentest-report_metamask-signing-snap.pdf",
             "snippet": "Dr.-Ing. Mario Heiderich, Cure53 \nBielefelder Str. 14 \nD 10709 Berlin \ncure53.de · mario@cure53.de \n\n## Pentest-Report MetaMask Signing Snap & Codebase 03.2024\n\nCure53, Dr.-Ing. M. Heiderich, A. Belka",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "MetaMask – stealing ETH by exploiting clickjacking – $120,000 bug bounty – Bug Bounty Reports Explained",
-            "url": "https://www.bugbountyexplained.com/metamask-stealing-eth-by-exploiting-clickjacking-120000-bug-bounty/",
-            "snippet": "MetaMask – stealing ETH by exploiting clickjacking – $120,000 bug bounty – Bug Bounty Reports Explained\n\n# MetaMask – stealing ETH by exploiting clickjacking – $120,000 bug bounty\n\n✉️ Sign up for the ",
             "published": null,
             "score": 0
           }
@@ -5292,31 +5292,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:08.526Z"
+        "enriched_at": "2026-09-16T05:43:13.111Z"
       },
-      "timestamp": "2026-09-03T05:32:10.105Z"
+      "timestamp": "2026-09-16T05:43:14.872Z"
     },
     "floqast": {
       "intel": {
         "writeups": [
           {
-            "title": "FloQast Case Study | PortSwigger",
-            "url": "https://portswigger.net/customer-stories/floqast-case-study",
-            "snippet": "FloQast Case Study | PortSwigger\n\n# How FloQast are streamlining testing workflows and providing actionable reporting for their developers.\n\nIn this story\n\nIntroductionKey highlightsOwen's workflowMap",
+            "title": "FloQast | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/floqast?type=team",
+            "snippet": "FloQast | Bounty Policy | HackerOne\n\nCollaboration Enabled Includes Retesting\n\n5 hours\n\nAverage time to first response\n\n3 weeks, 3 days\n\nAverage time to triage\n\n1 month, 2 days\n\nAverage time to bounty",
             "published": null,
             "score": 1
           },
           {
-            "title": "Case Study: Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast | FloQast",
-            "url": "https://www.floqast.com/stories/qualys-inc-modernizes-sox-compliance-improves-the-annual-audit-with-floqast?_thumbnail_id=6981",
-            "snippet": "Case Study: Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast | FloQast\n\nQualys was founded in 1999 and provides cloud computing security and compliance solutions. Today, ",
+            "title": "FloQast Case Study | PortSwigger",
+            "url": "https://portswigger.net/customer-stories/floqast-case-study",
+            "snippet": "FloQast Case Study | PortSwigger\n\n# How FloQast are streamlining testing workflows and providing actionable reporting for their developers.\n\nIn this story\n\nIntroductionKey highlightsOwen's workflowMap",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Floqast vulnerable?",
-            "url": "https://github.com/EdOverflow/can-i-take-over-xyz/issues/204",
-            "snippet": "# Floqast vulnerable?\n\n- State: open\n- Author: pdelteil\n- Created: 2021-03-27T03:15:25Z\n- Updated: 2023-05-23T23:44:18Z\n- Repository: EdOverflow/can-i-take-over-xyz\n- Number: #204\n\n## Labels\n\n- questi",
+            "title": "Case Study: Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast | FloQast",
+            "url": "https://www.floqast.com/stories/qualys-inc-modernizes-sox-compliance-improves-the-annual-audit-with-floqast?_thumbnail_id=6981",
+            "snippet": "Case Study: Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast | FloQast\n\n# Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast\n\nobjective\n\nTo im",
             "published": null,
             "score": 0
           }
@@ -5347,9 +5347,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:10.105Z"
+        "enriched_at": "2026-09-16T05:43:14.872Z"
       },
-      "timestamp": "2026-09-03T05:32:11.598Z"
+      "timestamp": "2026-09-16T05:43:16.501Z"
     },
     "palantir_public": {
       "intel": {
@@ -5402,9 +5402,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:11.598Z"
+        "enriched_at": "2026-09-16T05:43:16.502Z"
       },
-      "timestamp": "2026-09-03T05:32:13.039Z"
+      "timestamp": "2026-09-16T05:43:18.068Z"
     },
     "mongodb": {
       "intel": {
@@ -5412,7 +5412,7 @@
           {
             "title": "MongoBleed (CVE-2025-14847): Exploiting MongoDB's Zlib Memory Leak",
             "url": "https://ibreak.cloud/posts/mongobleed-cve-2025-14847-mongodb-memory-leak/",
-            "snippet": "MongoBleed (CVE-2025-14847): Exploiting MongoDB's Zlib Memory Leak\n\n87,000 internet-exposed MongoDB servers. Zero authentication required. One malformed packet — and you’re reading heap memory that wa",
+            "snippet": "MongoBleed (CVE-2025-14847): Exploiting MongoDB's Zlib Memory Leak\n\n## Table of contents\n\n \n\n### A deep-dive into CVE-2025-14847 (MongoBleed) — an unauthenticated heap memory disclosure vulnerability ",
             "published": "2026-05-22T00:00:00.000Z",
             "score": 1
           },
@@ -5457,9 +5457,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:13.039Z"
+        "enriched_at": "2026-09-16T05:43:18.068Z"
       },
-      "timestamp": "2026-09-03T05:32:14.453Z"
+      "timestamp": "2026-09-16T05:43:19.674Z"
     },
     "ripio": {
       "intel": {
@@ -5467,7 +5467,7 @@
           {
             "title": "Ripio RCN Network Smart Contract Audit Report",
             "url": "https://www.coinfabrik.com/blog/ripio-credit-network-rcn-smart-contract-audit/",
-            "snippet": "Ripio RCN Network Smart Contract Audit Report\n\nCoinfabrik’s smart contract audit team was commissioned to conduct a security audit of the contracts for the Ripio RCN Network.\n\nTable of Contents\n\nToggl",
+            "snippet": "Ripio RCN Network Smart Contract Audit Report\n\n# RCN Network Smart Contract Audit\n\n Author CoinFabrik \n\n Published on: 15 November, 2017 \n\nCoinfabrik’s smart contract audit team was commissioned to co",
             "published": "2017-11-15T15:09:46.000Z",
             "score": 1
           },
@@ -5481,8 +5481,8 @@
           {
             "title": "Ripio Token Audit - OpenZeppelin blog",
             "url": "https://www.openzeppelin.com/news/ripio-token-audit-abe43b887664",
-            "snippet": "Ripio Token Audit - OpenZeppelin blog\n\nResearch/ Security Audits/\n\nRipio Token Audit\n\n# Ripio Token Audit\n\nTable of Content\n\nThe Ripio team asked us to review and audit their Ripio Credit Network Toke",
-            "published": "2017-10-23T15:51:04.000Z",
+            "snippet": "Ripio Token Audit - OpenZeppelin blog\n\n# Ripio Token Audit\n\nTable of Content\n\n- October 23, 2017 \n\nOpenZeppelin\n\nOpenZeppelin\n\nThe Ripio team asked us to review and audit their Ripio Credit Network To",
+            "published": "2017-10-23T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5503,18 +5503,18 @@
             "score": 0.5
           },
           {
-            "title": "[Windows] Remote code execution due to unsafe call stack on the hints system",
-            "url": "https://github.com/raphamorim/rio/issues/1811",
-            "snippet": "# [Windows] Remote code execution due to unsafe call stack on the hints system\n\n- State: closed\n- Author: lalvarezt\n- Created: 2026-08-04T10:00:37Z\n- Updated: 2026-08-04T17:27:25Z\n- Repository: rapham",
+            "title": "poc.py",
+            "url": "https://github.com/nanwinata/nginxrift-CVE-2026-42945/blob/main/poc.py",
+            "snippet": "# poc.py\n\n- Branch: main\n- Repository: nanwinata/nginxrift-CVE-2026-42945\n\n---\n\n#!/usr/bin/env python3\n\"\"\"\nNGINX Rift RCE Exploit (CVE-2026-42945) - Pro Edition\n---------------------------------------",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:14.453Z"
+        "enriched_at": "2026-09-16T05:43:19.675Z"
       },
-      "timestamp": "2026-09-03T05:32:15.917Z"
+      "timestamp": "2026-09-16T05:43:21.208Z"
     },
     "deribit": {
       "intel": {
@@ -5522,14 +5522,14 @@
           {
             "title": "Smart Contract Vulnerability Surface Analysis: Deribit - DEV Community",
             "url": "https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-deribit-lgc",
-            "snippet": "Smart Contract Vulnerability Surface Analysis: Deribit - DEV Community\n\n# Smart Contract Vulnerability Surface Analysis: Deribit\n\nTarget Protocol: Deribit (TVL: $4931.4M)\n\n# Deribit – Smart Contract V",
+            "snippet": "Smart Contract Vulnerability Surface Analysis: Deribit - DEV Community\n\nDannyDoes\n\n Posted on Aug 29 \n\nTarget Protocol: Deribit (TVL: $4931.4M)\n\nProtocol: Deribit (Derivatives Exchange) TVL (Ethereum/",
             "published": "2026-08-29T14:39:29.000Z",
             "score": 1
           },
           {
             "title": "Gas Optimization Audit: Deribit - DEV Community",
             "url": "https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-deribit-47ib",
-            "snippet": "Gas Optimization Audit: Deribit - DEV Community\n\n# Gas Optimization Audit: Deribit\n\nTarget Protocol: Deribit (TVL: $5051.5M)\n\n# Technical Security & Gas Optimization Audit Report\n\nProject: Deribit (Et",
+            "snippet": "Gas Optimization Audit: Deribit - DEV Community\n\nDannyDoes\n\n Posted on Aug 30 \n\nTarget Protocol: Deribit (TVL: $5051.5M)\n\nProject: Deribit (Ethereum/L2 Deployment) Scope: Smart Contract Gas Efficiency",
             "published": "2026-08-30T19:53:39.000Z",
             "score": 0.5
           },
@@ -5567,9 +5567,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:15.917Z"
+        "enriched_at": "2026-09-16T05:43:21.208Z"
       },
-      "timestamp": "2026-09-03T05:32:17.331Z"
+      "timestamp": "2026-09-16T05:43:22.851Z"
     },
     "sorare": {
       "intel": {
@@ -5577,8 +5577,8 @@
           {
             "title": "The $300 Bug: How a Long Email Field Triggered a Partial DoS on Sorare’s Backend | by Monika sharma | Mr. Plan ₿ Publication | Medium",
             "url": "https://medium.com/mr-plan-publication/the-300-bug-how-a-long-email-field-triggered-a-partial-dos-on-sorares-backend-e1455f11ac3f",
-            "snippet": "The $300 Bug: How a Long Email Field Triggered a Partial DoS on Sorare’s Backend | by Monika sharma | Mr. Plan ₿ Publication | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign ",
-            "published": "2025-07-04T18:34:06.000Z",
+            "snippet": "The $300 Bug: How a Long Email Field Triggered a Partial DoS on Sorare’s Backend | by Monika sharma | Mr. Plan ₿ Publication | Medium\n\n# The $300 Bug: How a Long Email Field Triggered a Partial DoS on",
+            "published": "2025-07-04T00:00:00.000Z",
             "score": 1
           },
           {
@@ -5622,9 +5622,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-03T05:32:17.331Z"
+        "enriched_at": "2026-09-16T05:43:22.852Z"
       },
-      "timestamp": "2026-09-03T05:32:18.763Z"
+      "timestamp": "2026-09-16T05:43:24.484Z"
     },
     "hilton": {
       "intel": {
@@ -5677,9 +5677,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:41.262Z"
+        "enriched_at": "2026-09-16T05:43:26.121Z"
       },
-      "timestamp": "2026-09-05T05:21:42.758Z"
+      "timestamp": "2026-09-16T05:43:27.718Z"
     },
     "compass-bbp": {
       "intel": {
@@ -5699,10 +5699,10 @@
             "score": 0.5
           },
           {
-            "title": "How to Fix CVE-2026-9101: Critical Vulnerability in Compass | HowToFixMe",
-            "url": "https://howtofixme.com/cves/posts/how-to-fix-cve-2026-9101.html",
-            "snippet": "How to Fix CVE-2026-9101: Critical Vulnerability in Compass | HowToFixMe\n\n# How to Fix CVE-2026-9101: Critical Vulnerability in Compass\n\nBy the Sai Kiran Pandrala · Reviewed and edited by Sai Kiran Pa",
-            "published": "2026-05-25T00:00:00.000Z",
+            "title": "GHSA-6X3F-G6JR-WQ84 - Vulnerability-Lookup",
+            "url": "https://vulnerability.circl.lu/vuln/ghsa-6x3f-g6jr-wq84",
+            "snippet": "GHSA-6X3F-G6JR-WQ84 - Vulnerability-Lookup\n\n#### GHSA-6X3F-G6JR-WQ84 \n\n Vulnerability from github – Published: 2026-07-22 21:32 – Updated: 2026-07-22 21:32 \n\nDetails\n\nWhen importing connections in Com",
+            "published": "2026-07-22T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5723,18 +5723,18 @@
             "score": 0.5
           },
           {
-            "title": "0xCyberstan/CVE-2026-42533-POC",
-            "url": "https://github.com/0xCyberstan/CVE-2026-42533-POC",
-            "snippet": "# 0xCyberstan/CVE-2026-42533-POC\n\nCVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0",
+            "title": "Debajyoti0-0/CVE-2026-27654-PoC",
+            "url": "https://github.com/Debajyoti0-0/CVE-2026-27654-PoC",
+            "snippet": "# Debajyoti0-0/CVE-2026-27654-PoC\n\nProof-of-Concept and technical analysis for CVE-2026-27654, a heap-based buffer overflow vulnerability in the NGINX HTTP WebDAV module, including root cause analysis",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-05T05:21:42.759Z"
+        "enriched_at": "2026-09-16T05:43:27.718Z"
       },
-      "timestamp": "2026-09-05T05:21:44.231Z"
+      "timestamp": "2026-09-16T05:43:29.254Z"
     },
     "zabbix": {
       "intel": {
@@ -6230,7 +6230,62 @@
         "enriched_at": "2026-09-07T05:47:54.094Z"
       },
       "timestamp": "2026-09-07T05:47:55.646Z"
+    },
+    "arc-bbp": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "CVE-2024-45489 Response – Arc",
+            "url": "https://arc.net/blog/CVE-2024-45489-incident-response",
+            "snippet": "CVE-2024-45489 Response – Arc\n\n# CVE-2024-45489 Incident Report\n\nTag: Security Bulletin Published: September 20, 2024 at 3:20 PM\n\nHursh here, CTO and Cofounder of The Browser Company. We want to let a",
+            "published": "2024-09-20T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Medium",
+            "url": "https://medium.com/@renwa/arc-browser-uxss-local-file-read-arbitrary-file-creation-and-path-traversal-to-rce-b439f2a299d1",
+            "snippet": "MediumArc Browser UXSS, Local File Read, Arbitrary File Creation and Path Traversal to RCE | by Renwa | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Arc Browser UXSS, Local File Read, Arbitrary File Creation ",
+            "published": "2024-11-13T12:22:09.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium",
+            "url": "https://medium.com/@techverissimo/my-first-bug-bounty-finding-memory-dos-vulnerabilities-in-circles-arc-blockchain-consensus-engine-ab96f4f8d9f1",
+            "snippet": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n1. The",
+            "published": "2026-04-15T12:33:58.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "K0D3IN/arc-browser-xss",
+            "url": "https://github.com/K0D3IN/arc-browser-xss",
+            "snippet": "# Repository: K0D3IN/arc-browser-xss\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: HTML\n- Languages: HTML\n- License: Other (NOASSERTION)\n- Default branch: main\n- Created: 2",
+            "published": "2026-05-16T11:31:53.000Z",
+            "score": 1
+          },
+          {
+            "title": "Himess/mppx-arc",
+            "url": "https://github.com/Himess/mppx-arc",
+            "snippet": "# Himess/mppx-arc\n\nMPP (Machine Payments Protocol) payment method for Circle's Arc chain — USDC-native charge + session support\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- License: MIT Lic",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "0xdak/CVE-2026-67340_exploit",
+            "url": "https://github.com/0xdak/CVE-2026-67340_exploit",
+            "snippet": "# 0xdak/CVE-2026-67340_exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-04T10:33:12Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- 0xdak (1 con",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-09-16T05:43:24.485Z"
+      },
+      "timestamp": "2026-09-16T05:43:26.121Z"
     }
   },
-  "lastRun": "2026-09-15T05:56:25.741Z"
+  "lastRun": "2026-09-16T05:43:29.254Z"
 }
