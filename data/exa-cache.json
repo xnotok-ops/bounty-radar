@@ -2760,7 +2760,7 @@
           {
             "title": "Medium",
             "url": "https://medium.com/@21bec131/how-a-race-condition-in-an-order-checkout-led-to-a-4-000-triple-coupon-glitch-09154fb205b8",
-            "snippet": "MediumHow a Race Condition in an Order Checkout Led to a $4,000 Triple-Coupon Glitch | by Tanvi Chauhan | Jul, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\nCybersecurity\n\nSecurity\n\nBug Bounty\n\nBug Bounty",
+            "snippet": "MediumHow a Race Condition in an Order Checkout Led to a $4,000 Triple-Coupon Glitch | by T4nv1 | Jul, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\nMember-only story\n\n# How a Race Condition in an Order C",
             "published": "2026-07-04T11:21:00.000Z",
             "score": 0.5
           },
@@ -2798,9 +2798,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-08-30T06:19:05.859Z"
+        "enriched_at": "2026-09-17T05:52:11.836Z"
       },
-      "timestamp": "2026-08-30T06:19:07.432Z"
+      "timestamp": "2026-09-17T05:52:13.193Z"
     },
     "unico_idtech": {
       "intel": {
@@ -3521,33 +3521,33 @@
             "score": 1
           },
           {
+            "title": "Inditex — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/inditex",
+            "snippet": "Inditex — HackerOne bug bounty | BountyHunte.rs\n\n# Inditex\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is not",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "Medium",
             "url": "https://atanupal22256.medium.com/the-phantom-price-glitch-how-i-hacked-750-000-from-a-japanese-e-commerce-giant-a36bc4413cd0",
             "snippet": "MediumThe Phantom Price Glitch: How I Hacked ¥750,000 From a Japanese E-Commerce Giant💀 | by 0B1To_X_ucH!h4 | Jun, 2026 | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\nPress enter or click to view ",
             "published": "2026-06-30T16:26:59.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "SecurityClaw Hunted Vinted on Intigriti — and Found 10 Gaps in Itself",
-            "url": "https://bughuntertools.com/articles/securityclaw-phase-d-vinted-live-hunt-capability-gaps-2026/",
-            "snippet": "SecurityClaw Hunted Vinted on Intigriti — and Found 10 Gaps in Itself\n\n🔍 Bug Hunter Tools\n\n🌙\n\n## The Hunt: Vinted, 45 Minutes, Cloudflare Everywhere\n\n| Field | Value |\n| --- | --- |\n| Target | Vinte",
-            "published": "2026-03-31T20:28:42.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "nospher3x2/cosmicsting-cnext-exploit",
-            "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
-            "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
+            "title": "nmmorette/CVE-2024-34102",
+            "url": "https://github.com/nmmorette/CVE-2024-34102",
+            "snippet": "# nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-02-13T18:02:36Z\n\n## L",
             "published": null,
             "score": 1
           },
           {
-            "title": "nmmorette/CVE-2024-34102",
-            "url": "https://github.com/nmmorette/CVE-2024-34102",
-            "snippet": "# nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-02-13T18:02:36Z\n\n## L",
+            "title": "nospher3x2/cosmicsting-cnext-exploit",
+            "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
+            "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
             "published": null,
             "score": 0.5
           },
@@ -3561,9 +3561,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-09T05:46:37.770Z"
+        "enriched_at": "2026-09-17T05:52:14.614Z"
       },
-      "timestamp": "2026-09-09T05:46:39.374Z"
+      "timestamp": "2026-09-17T05:52:15.973Z"
     },
     "visa": {
       "intel": {
@@ -3607,40 +3607,40 @@
             "score": 0.5
           },
           {
-            "title": "VinayaSathyanarayana/visa-vulnerability-agentic-harness",
-            "url": "https://github.com/VinayaSathyanarayana/visa-vulnerability-agentic-harness",
-            "snippet": "# VinayaSathyanarayana/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2",
+            "title": "freedomfighter-007/MPP_Visa-TAP_PoC",
+            "url": "https://github.com/freedomfighter-007/MPP_Visa-TAP_PoC",
+            "snippet": "# freedomfighter-007/MPP_Visa-TAP_PoC\n\nStripe/Tempo Machine Payments Protocol (MPP) + Visa TAP Proof of Concept\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-09T05:46:39.374Z"
+        "enriched_at": "2026-09-17T05:52:15.973Z"
       },
-      "timestamp": "2026-09-09T05:46:41.001Z"
+      "timestamp": "2026-09-17T05:52:17.383Z"
     },
     "toolsforhumanity": {
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security",
-            "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz/",
-            "snippet": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security\n\nCompany Name: Tools for H",
-            "published": "2024-06-19T18:00:08.000Z",
-            "score": 1
-          },
-          {
             "title": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch",
             "url": "https://vulnwatch.ai/entry/019f6870-0fb0-7005-9ac3-e5a58c5d2f0d",
             "snippet": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch\n\n# ToolHive: SSRF in remote MCP server authentication disco",
             "published": "2026-07-15T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security",
+            "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz/",
+            "snippet": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security\n\nCompany Name: Tools for H",
+            "published": "2024-06-19T18:00:08.000Z",
             "score": 0.5
           },
           {
-            "title": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/reports/2515808",
-            "snippet": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne\n\n105\n\nCopy report id\n\n[Meetup][W",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
             "published": null,
             "score": 0
           }
@@ -3648,32 +3648,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "terribledactyl/Form-Tools-3.1.1-RCE",
-            "url": "https://github.com/terribledactyl/Form-Tools-3.1.1-RCE",
-            "snippet": "# terribledactyl/Form-Tools-3.1.1-RCE\n\nCVE-2024-22722 RCE via SSTI, automated with Python.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-09-06T00:10:24Z\n",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "pemarine/cve-2026-41940-PoC",
             "url": "https://github.com/pemarine/cve-2026-41940-PoC",
             "snippet": "# pemarine/cve-2026-41940-PoC\n\nA cPanel and WHM authentication bypassing tool\n\n- Stars: 271\n- Forks: 12\n- Watchers: 271\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-13T16:03:48Z\n\n## Lang",
             "published": null,
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "xcalibure2/ToolShell",
             "url": "https://github.com/xcalibure2/ToolShell",
             "snippet": "# xcalibure2/ToolShell\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-09T07:06:",
             "published": "2026-01-09T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "contracts/ProofOfHumanity.sol",
+            "url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/blob/master/contracts/ProofOfHumanity.sol",
+            "snippet": "# contracts/ProofOfHumanity.sol\n\n- Branch: master\n- Repository: Proof-Of-Humanity/Proof-Of-Humanity\n\n---\n\n/**\n * @authors: [@unknownunknown1, @nix1g]\n * @reviewers: [@fnanni-0, @mtsalenc*, @nix1g, @cl",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-09T05:46:41.001Z"
+        "enriched_at": "2026-09-17T05:52:17.383Z"
       },
-      "timestamp": "2026-09-09T05:46:42.649Z"
+      "timestamp": "2026-09-17T05:52:18.774Z"
     },
     "ring": {
       "intel": {
@@ -3717,18 +3717,18 @@
             "score": 0.5
           },
           {
-            "title": "kinryulabs/rootpacket-cve-2026-31431",
-            "url": "https://github.com/kinryulabs/rootpacket-cve-2026-31431",
-            "snippet": "# kinryulabs/rootpacket-cve-2026-31431\n\nCVE-2026-31431 getroot from a Turkish Cryptominer\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Homepage: https://kinryu.sh/reports/rootpacket-linux-c",
+            "title": "letsr00t/CVE-2026-43494-PinTheft-PoC",
+            "url": "https://github.com/letsr00t/CVE-2026-43494-PinTheft-PoC",
+            "snippet": "# letsr00t/CVE-2026-43494-PinTheft-PoC\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-30T11:44:56Z\n\n## Languages\n\n- C\n\n## Top Contributors\n\n- letsr00t ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-09T05:46:42.649Z"
+        "enriched_at": "2026-09-17T05:52:18.774Z"
       },
-      "timestamp": "2026-09-09T05:46:44.325Z"
+      "timestamp": "2026-09-17T05:52:20.151Z"
     },
     "six-group": {
       "intel": {
@@ -3772,18 +3772,18 @@
             "score": 0.5
           },
           {
-            "title": "oguzylmzx/CVE-2025-64512-pdfminer-PoC",
-            "url": "https://github.com/oguzylmzx/CVE-2025-64512-pdfminer-PoC",
-            "snippet": "# oguzylmzx/CVE-2025-64512-pdfminer-PoC\n\nPoC for CVE-2025-64512: pdfminer.six CMapDB pickle deserialization RCE via crafted PDF\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: ",
+            "title": "xAL6/cve-2026-64638-banner-poc",
+            "url": "https://github.com/xAL6/cve-2026-64638-banner-poc",
+            "snippet": "# xAL6/cve-2026-64638-banner-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-08-24T23:17:23Z\n\n## Languages\n\n- Python\n\n## Top Contribut",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-09T05:46:44.325Z"
+        "enriched_at": "2026-09-17T05:52:20.151Z"
       },
-      "timestamp": "2026-09-09T05:46:46.008Z"
+      "timestamp": "2026-09-17T05:52:21.542Z"
     },
     "eufy_security": {
       "intel": {
@@ -3836,9 +3836,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-09T05:46:46.008Z"
+        "enriched_at": "2026-09-17T05:52:21.542Z"
       },
-      "timestamp": "2026-09-09T05:46:47.641Z"
+      "timestamp": "2026-09-17T05:52:22.963Z"
     },
     "eero": {
       "intel": {
@@ -3858,10 +3858,10 @@
             "score": 0.5
           },
           {
-            "title": "KRACK update 1: Fix available for all customers | eero Blog",
-            "url": "https://eero.com/blog/articles/krack-update-1-fix-available-for-all-customers",
-            "snippet": "KRACK update 1: Fix available for all customers | eero Blog\n\n## KRACK update 1: Fix available for all customers\n\nApr 8, 2020\n\neeroOS version 3.5, which includes a patch for the KRACK vulnerability, is",
-            "published": "2020-04-08T00:00:00.000Z",
+            "title": "Hacking Amazon's eero 6 (part 1) | Markuta",
+            "url": "https://markuta.com/eero-6-hacking-part-1/",
+            "snippet": "Hacking Amazon's eero 6 (part 1) | Markuta\n\n# Hacking Amazon's eero 6 (part 1) \n\n Hacking the Amazon eero 6 (3rd gen 2020) wireless device, part 1. This part covers device disassembly, identifying pin",
+            "published": "2023-06-15T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3891,9 +3891,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-09T05:46:47.641Z"
+        "enriched_at": "2026-09-17T05:52:22.963Z"
       },
-      "timestamp": "2026-09-09T05:46:49.238Z"
+      "timestamp": "2026-09-17T05:52:24.392Z"
     },
     "mozilla": {
       "intel": {
@@ -5874,16 +5874,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to arbitrary OS command execution. · GitHub",
-            "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
-            "snippet": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code lead",
+            "title": "brokensec/Claude-Code-awk",
+            "url": "https://github.com/brokensec/Claude-Code-awk",
+            "snippet": "# brokensec/Claude-Code-awk\n\nDue to an error in `awk` command parsing in Claude Code's permission system, it is possible to bypass the read-only validation and execute arbitrary commands, write to sen",
             "published": null,
             "score": 1
           },
           {
-            "title": "brokensec/Claude-Code-awk",
-            "url": "https://github.com/brokensec/Claude-Code-awk",
-            "snippet": "# brokensec/Claude-Code-awk\n\nDue to an error in `awk` command parsing in Claude Code's permission system, it is possible to bypass the read-only validation and execute arbitrary commands, write to sen",
+            "title": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to arbitrary OS command execution. · GitHub",
+            "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
+            "snippet": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code lead",
             "published": null,
             "score": 0.5
           },
@@ -5897,9 +5897,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-09T05:46:35.979Z"
+        "enriched_at": "2026-09-17T05:52:13.193Z"
       },
-      "timestamp": "2026-09-09T05:46:37.770Z"
+      "timestamp": "2026-09-17T05:52:14.613Z"
     },
     "agoda-public": {
       "intel": {
@@ -6285,7 +6285,62 @@
         "enriched_at": "2026-09-16T05:43:24.485Z"
       },
       "timestamp": "2026-09-16T05:43:26.121Z"
+    },
+    "common_codes": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "d-you: Personalausweis-App für Smartphones kommt",
+            "url": "https://www.appgamers.de/mobile-news/d-you-personalausweis-app-fuer-smartphones-kommt",
+            "snippet": "d-you: Personalausweis-App für Smartphones kommt\n\n# d-you: Personalausweis-App für Smartphones kommt\n\nBundesdigitalminister Karsten Wildberger hat die neue Bundes-App mitsamt Name und Design in Berlin",
+            "published": "2026-09-12T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Neuer Name, alte Baustellen: Das sind die Hürden zum Start der digitalen Brieftasche \"d-you\" - netzpolitik.org",
+            "url": "https://netzpolitik.org/2026/neuer-name-alte-baustellen-das-sind-die-huerden-zum-start-der-digitalen-brieftasche-d-you/",
+            "snippet": "Neuer Name, alte Baustellen: Das sind die Hürden zum Start der digitalen Brieftasche \"d-you\" - netzpolitik.org\n\n# Neuer Name, alte Baustellen: Das sind die Hürden zum Start der digitalen Brieftasche „",
+            "published": "2026-09-10T11:51:22.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Digitaler Personalausweis: Bundesregierung stellt Ausweis-App „d-you\" vor - Marzahn-Hellersdorf LIVE",
+            "url": "https://marzahn-hellersdorf.com/digitaler-personalausweis-bundesregierung-stellt-ausweis-app-d-you-vor/",
+            "snippet": "Digitaler Personalausweis: Bundesregierung stellt Ausweis-App „d-you\" vor - Marzahn-Hellersdorf LIVE\n\n Berlin & News Allgemein 10. September 2026 \n\n# Digitaler Personalausweis: Bundesregierung stellt ",
+            "published": "2026-09-10T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "Users can evade the `yDUSD` vault's withdrawal timelock mechanism",
+            "url": "https://github.com/code-423n4/2024-07-dittoeth-findings/issues/9",
+            "snippet": "# Users can evade the `yDUSD` vault's withdrawal timelock mechanism\n\n- State: open\n- Author: c4-bot-8\n- Created: 2024-07-15T18:10:59Z\n- Updated: 2024-07-23T19:55:39Z\n- Repository: code-423n4/2024-07-d",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Mibuw/miEUDIverifier",
+            "url": "https://github.com/Mibuw/miEUDIverifier",
+            "snippet": "# Mibuw/miEUDIverifier\n\nC#/.NET 8 EUDI Wallet verifier (OpenID4VP) reading PID identity data (name, given name, date of birth) — bilingual web UI, QR flow, Docker.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "docs/public-demo.md",
+            "url": "https://github.com/dominikschlosser/eudi-dev/blob/main/docs/public-demo.md",
+            "snippet": "# docs/public-demo.md\n\n- Branch: main\n- Repository: dominikschlosser/eudi-dev\n\n---\n\n# Hosting a Public Demo\n\nThe wallet server can run as a shared public demo (for example on `https://eudi-test.dev`).",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-09-17T05:52:10.324Z"
+      },
+      "timestamp": "2026-09-17T05:52:11.836Z"
     }
   },
-  "lastRun": "2026-09-16T05:43:29.254Z"
+  "lastRun": "2026-09-17T05:52:24.392Z"
 }
