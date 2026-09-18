@@ -4001,9 +4001,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-09T05:46:50.842Z"
+        "enriched_at": "2026-09-18T05:36:54.262Z"
       },
-      "timestamp": "2026-09-09T05:46:52.694Z"
+      "timestamp": "2026-09-18T05:36:55.797Z"
     },
     "redox_bbp": {
       "intel": {
@@ -4018,7 +4018,7 @@
           {
             "title": "redox/CVE-2024-57492/README.md",
             "url": "https://github.com/Marsman1996/pocs/blob/master/redox/CVE-2024-57492/README.md",
-            "snippet": "# redox/CVE-2024-57492/README.md\n\n- Branch: master\n- Repository: Marsman1996/pocs\n\n---\n\n# CVE-2024-57492\nThis is the brief description of [CVE-2024-57492](https://www.cve.org/CVERecord?id=CVE-2024-574",
+            "snippet": "# redox/CVE-2024-57492/README.md\n\n- Branch: master\n- Repository: Marsman1996/pocs\n\n---\n\n# CVE-2024-57492\nThis is the brief description of CVE-2024-57492. For more details, please refer to Issue Page.\n",
             "published": null,
             "score": 0.5
           },
@@ -4056,9 +4056,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:25.123Z"
+        "enriched_at": "2026-09-18T05:36:55.797Z"
       },
-      "timestamp": "2026-09-10T05:41:26.732Z"
+      "timestamp": "2026-09-18T05:36:57.363Z"
     },
     "okg": {
       "intel": {
@@ -4071,9 +4071,9 @@
             "score": 1
           },
           {
-            "title": "Decent Rouge Beetle - Missing Validation of recipient in `createOrder` Allows Attacker to back-Run Approvals, Resulting in Slippage Manipulation and Complete Fund Loss",
-            "url": "https://github.com/sherlock-audit/2024-11-oku-judging/issues/390",
-            "snippet": "# Decent Rouge Beetle - Missing Validation of recipient in `createOrder` Allows Attacker to back-Run Approvals, Resulting in Slippage Manipulation and Complete Fund Loss\n\n- State: open\n- Author: sherl",
+            "title": "OKG | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/okg",
+            "snippet": "OKG | Bounty Policy | HackerOne\n\n## Program highlights\n\nTop Response Efficiency\n\nThis program's response efficiency is above 90%.\n\nManaged by HackerOne Collaboration Enabled Includes Retesting\n\n4 hour",
             "published": null,
             "score": 0.5
           },
@@ -4111,9 +4111,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:26.732Z"
+        "enriched_at": "2026-09-18T05:36:57.364Z"
       },
-      "timestamp": "2026-09-10T05:41:28.226Z"
+      "timestamp": "2026-09-18T05:36:58.939Z"
     },
     "1win_com": {
       "intel": {
@@ -4174,23 +4174,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "WISDOMTREE DIGITAL TOKEN STANDARDS V3 FRAMEWORK SECURITY AUDIT REPORT",
-            "url": "https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-TokenStandards-Report.pdf",
-            "snippet": "#### AUGUST 23, 2024\n\nWISDOMTREE \nDIGITAL TOKEN \nSTANDARDS \nV3 \nFRAMEWORK \nSECURITY \nAUDIT REPORT \n\n## EXECUTIVE 1 SUMMARY\n\nEXECUTIVE SUMMARY 3\n\n### 1.1 EXECUTIVE SUMMARY\n\nThis document presents the s",
+            "title": "WisdomTree, Inc. — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/wisdomtree",
+            "snippet": "WisdomTree, Inc. — HackerOne bug bounty | BountyHunte.rs\n\n# WisdomTree, Inc.\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a lis",
             "published": null,
             "score": 1
           },
           {
-            "title": "OpenZeppelin Audit Report",
-            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/EVM-TOKENIZATION-AUDIT/",
-            "snippet": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., \nis providing access to the security audit reports conducted by O",
+            "title": "WisdomTree, Inc. | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/wisdomtree",
+            "snippet": "WisdomTree, Inc. | Bounty Policy | HackerOne\n\nFully compliant with Platform Standards.\n\nThis program's response efficiency is above 90%.\n\nManaged by HackerOne Collaboration Enabled Includes Retesting\n",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL",
-            "url": "https://dataspanapi.wisdomtree.com/pdr/documents/REGULATORY_MISC/WDM/US/EN-US/ERC20-REVOCABLE-COMPLIANCE-STANDARD-SECURITY-AUDIT-REPORT/",
-            "snippet": "### IMPORTANT INFORMATION FROM WISDOMTREE DIGITAL\n\nWisdomTree Digital, which operates through one or more subsidiaries of WisdomTree Inc., is \nproviding access to the security audit reports conducted ",
+            "title": "WISDOMTREE DIGITAL TOKEN STANDARDS V3 FRAMEWORK SECURITY AUDIT REPORT",
+            "url": "https://oxor-io.github.io/public_audits/WisdomTree/WisdomTree-TokenStandards-Report.pdf",
+            "snippet": "#### AUGUST 23, 2024\n\nWISDOMTREE \nDIGITAL TOKEN \nSTANDARDS \nV3 \nFRAMEWORK \nSECURITY \nAUDIT REPORT \n\n## EXECUTIVE 1 SUMMARY\n\nEXECUTIVE SUMMARY 3\n\n### 1.1 EXECUTIVE SUMMARY\n\nThis document presents the s",
             "published": null,
             "score": 0
           }
@@ -4221,48 +4221,48 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:28.226Z"
+        "enriched_at": "2026-09-18T05:36:58.939Z"
       },
-      "timestamp": "2026-09-10T05:41:29.810Z"
+      "timestamp": "2026-09-18T05:37:00.551Z"
     },
     "pornbox": {
       "intel": {
         "writeups": [
           {
-            "title": "Is pornbox.com Safe? Security Scan Report | PCrisk",
-            "url": "https://scanner.pcrisk.com/scan-results/pornbox.com",
-            "snippet": "Is pornbox.com Safe? Security Scan Report | PCrisk\n\n# pornbox.com\n\n Category: Adult Content \n\n Scanned: Jul 30, 2026, 05:27 PM UTC · First seen: May 8, 2026 · Threat Engines: 0 / 91 · Times Scanned: 2",
-            "published": "2026-05-08T00:00:00.000Z",
+            "title": "XSS vulns galore (plus a cool shirt!) — Jon Bottarini - Cybernoz",
+            "url": "https://cybernoz.com/xss-vulns-galore-plus-a-cool-shirt-jon-bottarini/",
+            "snippet": "XSS vulns galore (plus a cool shirt!) — Jon Bottarini - Cybernoz\n\n# XSS vulns galore (plus a cool shirt!) — Jon Bottarini\n\n Cybernoz \n\n September 14, 2026 4 min read\n\n \n\nWhen the adult website PornHub",
+            "published": "2026-09-14T04:25:03.000Z",
             "score": 1
           },
           {
-            "title": "CVE-2025-12122 – popup-box Proof of Concept - Atomic Edge",
-            "url": "https://atomicedge.io/cve-proof/cve-2025-12122-popup-box-version-3-2-12-medium-vulnerability-proof-of-concept/",
-            "snippet": "CVE-2025-12122 – popup-box Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-12122: Popup Box – Easily Create WordPress Popups <= 3.2.12 Authenticated (Contributor+) Stored Cross-",
-            "published": "2026-03-18T00:00:00.000Z",
+            "title": "XSS vulns galore (plus a cool shirt!) — Jon Bottarini",
+            "url": "https://jonbottarini.com/xss-vulns-galore-plus-a-cool-shirt/",
+            "snippet": "XSS vulns galore (plus a cool shirt!) — Jon Bottarini\n\n# XSS vulns galore (plus a cool shirt!)\n\nMarch 16, 2017· Cross Site Scripting (XSS)\n\nWhen the adult website PornHub launched their public bug bou",
+            "published": "2017-03-16T23:14:15.000Z",
             "score": 0.5
           },
           {
-            "title": "PornHub Pays Hackers $20,000 to Find Zero-day Flaws in its Website",
-            "url": "https://thehackernews.com/2016/07/pornhub-hack.html",
-            "snippet": "PornHub Pays Hackers $20,000 to Find Zero-day Flaws in its Website\n\n# PornHub Pays Hackers $20,000 to Find Zero-day Flaws in its Website\n\n Wang Wei Jul 25, 2016\n\n Cyber attacks get bigger, smarter, ",
-            "published": "2016-07-25T00:00:00.000Z",
+            "title": "Is pornbox.com Safe? Security Scan Report | PCrisk",
+            "url": "https://scanner.pcrisk.com/scan-results/pornbox.com",
+            "snippet": "Is pornbox.com Safe? Security Scan Report | PCrisk\n\n# pornbox.com\n\n Category: Adult Content \n\n Scanned: Jul 30, 2026, 17:27 UTC · First seen: May 8, 2026 · Threat Engines: 0 / 91 · Times Scanned: 2 \n\n",
+            "published": "2026-05-08T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "pbuff07/PoCBox",
-            "url": "https://github.com/pbuff07/PoCBox",
-            "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
+            "title": "y0uall/pwnbox",
+            "url": "https://github.com/y0uall/pwnbox",
+            "snippet": "# y0uall/pwnbox\n\nAutomated recon & enumeration for HackTheBox\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-04-02T15:13:55Z\n\n## La",
             "published": null,
             "score": 1
           },
           {
-            "title": "y0uall/pwnbox",
-            "url": "https://github.com/y0uall/pwnbox",
-            "snippet": "# y0uall/pwnbox\n\nAutomated recon & enumeration for HackTheBox\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-04-02T15:13:55Z\n\n## La",
+            "title": "pbuff07/PoCBox",
+            "url": "https://github.com/pbuff07/PoCBox",
+            "snippet": "# pbuff07/PoCBox\n\nPoCBox - Vulnerability Test Aid Platform\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-03-05T12:53:39Z\n- Fork: yes\n\n## Languages\n\n- C",
             "published": null,
             "score": 0.5
           },
@@ -4276,9 +4276,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:29.810Z"
+        "enriched_at": "2026-09-18T05:37:00.551Z"
       },
-      "timestamp": "2026-09-10T05:41:31.360Z"
+      "timestamp": "2026-09-18T05:37:02.116Z"
     },
     "tron_dao": {
       "intel": {
@@ -4331,9 +4331,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:31.360Z"
+        "enriched_at": "2026-09-18T05:37:02.117Z"
       },
-      "timestamp": "2026-09-10T05:41:32.828Z"
+      "timestamp": "2026-09-18T05:37:03.611Z"
     },
     "superbet": {
       "intel": {
@@ -4386,32 +4386,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:32.828Z"
+        "enriched_at": "2026-09-18T05:37:03.611Z"
       },
-      "timestamp": "2026-09-10T05:41:34.332Z"
+      "timestamp": "2026-09-18T05:37:05.091Z"
     },
     "magic-eden": {
       "intel": {
         "writeups": [
           {
-            "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com",
-            "url": "https://www.linkgeanie.com/news/magic-eden-will-refund-users-who-bought-25-fake-nfts-due-to-exploit",
-            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n raguvaran \n\nMultiple dozen phony NFTs were",
-            "published": "2023-01-06T00:00:00.000Z",
+            "title": "Magic Eden — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/magic-eden",
+            "snippet": "Magic Eden — HackerOne bug bounty | BountyHunte.rs\n\n# Magic Eden\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum ",
+            "published": null,
             "score": 1
+          },
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/magic-eden/policy_versions?change=3683280&type=team",
+            "snippet": "HackerOne\n\n## Policy versions\n\nIndex: magic-eden.policy =================================================================== --- magic-eden.policy @ 2023-02-10T05:59:06.479Z +++ magic-eden.policy @ 202",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "Scammers exploit NFT marketplace Magic Eden to sell fake NFTs",
             "url": "https://coingeek.com/scammers-exploit-nft-marketplace-magic-eden-to-sell-fake-nfts/",
             "snippet": "Scammers exploit NFT marketplace Magic Eden to sell fake NFTs\n\n# Scammers exploit NFT marketplace Magic Eden to sell fake NFTs\n\nBy Steve Kaaru\n\nPublished: Jan 10, 2023 / Last updated: Sep 19, 2025\n\n| ",
             "published": "2025-09-10T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "santipu_ - Attacker can block all votes to a specific pool by triggering an overflow error",
-            "url": "https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/237",
-            "snippet": "# santipu_ - Attacker can block all votes to a specific pool by triggering an overflow error\n\n- State: open\n- Author: sherlock-admin2\n- Created: 2024-07-15T13:33:56Z\n- Updated: 2024-08-23T11:48:40Z\n- ",
-            "published": null,
             "score": 0
           }
         ],
@@ -4441,9 +4441,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:34.332Z"
+        "enriched_at": "2026-09-18T05:37:05.091Z"
       },
-      "timestamp": "2026-09-10T05:41:35.818Z"
+      "timestamp": "2026-09-18T05:37:06.590Z"
     },
     "boozt": {
       "intel": {
@@ -4463,9 +4463,9 @@
             "score": 0.5
           },
           {
-            "title": "Boozt Fashion Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/boozt-fashion/",
-            "snippet": "Boozt Fashion Bug Bounty Program - Bug Bounties\n\n# Boozt Fashion\n\nBounty Full Safe Harbor \n\n## Program Details \n\n Handle \n: boozt \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 4 days \nBounty ",
+            "title": "Boozt Fashion AB — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/boozt",
+            "snippet": "Boozt Fashion AB — HackerOne bug bounty | BountyHunte.rs\n\n# Boozt Fashion AB\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a lis",
             "published": null,
             "score": 0
           }
@@ -4496,9 +4496,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:35.819Z"
+        "enriched_at": "2026-09-18T05:37:06.591Z"
       },
-      "timestamp": "2026-09-10T05:41:37.305Z"
+      "timestamp": "2026-09-18T05:37:08.166Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -4535,25 +4535,25 @@
             "score": 1
           },
           {
-            "title": "Boreas37/CVE-2026-64638-PoC",
-            "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
-            "snippet": "# Boreas37/CVE-2026-64638-PoC\n\nXSS2Shell (CVE-2026-64638) PoC — WordPress pre-auth XSS to RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-07T1",
+            "title": "yoerivegt/wp2shell-poc",
+            "url": "https://github.com/yoerivegt/wp2shell-poc",
+            "snippet": "# yoerivegt/wp2shell-poc\n\nwp2shell (CVE-2026-60137 / CVE-2026-63030)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-18T19:02:08Z\n\n## Languages\n\n- Pytho",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "llaytynher/ShieldBreak",
-            "url": "https://github.com/llaytynher/ShieldBreak",
-            "snippet": "# llaytynher/ShieldBreak\n\nWindows Defender 0day vulnerability\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-08-12T03:06:20Z\n- Fork",
+            "title": "Boreas37/CVE-2026-64638-PoC",
+            "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
+            "snippet": "# Boreas37/CVE-2026-64638-PoC\n\nXSS2Shell (CVE-2026-64638) PoC — WordPress pre-auth XSS to RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-07T1",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:37.305Z"
+        "enriched_at": "2026-09-18T05:37:08.166Z"
       },
-      "timestamp": "2026-09-10T05:41:38.782Z"
+      "timestamp": "2026-09-18T05:37:09.667Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -6342,5 +6342,5 @@
       "timestamp": "2026-09-17T05:52:11.836Z"
     }
   },
-  "lastRun": "2026-09-17T05:52:24.392Z"
+  "lastRun": "2026-09-18T05:37:09.667Z"
 }
