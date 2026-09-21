@@ -2332,16 +2332,16 @@
             "score": 1
           },
           {
-            "title": "Bugbounty and Pentests at Neon - Neon",
-            "url": "https://neon.com/blog/bugbounty-and-pentests-at-neon",
-            "snippet": "Bugbounty and Pentests at Neon - Neon\n\nThe average Neon production DB resizes every 81 seconds. Here's a deep dive on how our autoscaling is built\n\n# Bugbounty and Pentests at Neon\n\nJoining forces wit",
-            "published": "2024-11-25T16:43:38.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Security Audit – Neon EVM",
             "url": "https://neodyme.io/reports/Neon-Update-2024.pdf",
             "snippet": "### Security Audit – Neon EVM\n\n#### Lead Auditor: Robert Reith Second Auditor: Sebastian Fritsch Second Auditor: Mathias Scherer Administrative Lead: Thomas Lambertz\n\n#### April 16 th 2024\n\n## Table o",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Security Audit – Neon v0.15.9",
+            "url": "https://neodyme.io/reports/Neon-Update-2023.pdf",
+            "snippet": "## Security Audit – Neon v0.15.9\n\n### Neodyme AG\n\n### June 7th, 2023\n\n### Contents\n\nIntroduction 4 \nProject Overview 4 \nScope 5 \nMethodology 6 \nNeon Architecture 7 \nLifecycle of a Neon Transaction . .",
             "published": null,
             "score": 0
           }
@@ -2365,19 +2365,26 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-09-13T05:44:16.650Z"
+        "enriched_at": "2026-09-21T05:58:48.214Z"
       },
-      "timestamp": "2026-09-13T05:44:18.082Z"
+      "timestamp": "2026-09-21T05:58:50.049Z"
     },
     "bumba_bbp": {
       "intel": {
         "writeups": [
           {
+            "title": "Bumba | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/bumba_bbp?type=team",
+            "snippet": "Bumba | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response E",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Bumba Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/bumba/",
             "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nBounty \n\n## Program Details \n\n Handle \n: bumba_bbp \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 15 days \nResolution Time\n: 2171 days \n\n Resp",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Security findings in bumblebee v0.1.x — please do not share publicly until maintainers respond",
@@ -2412,10 +2419,10 @@
           }
         ],
         "defi_audit": [],
-        "total_results": 5,
-        "enriched_at": "2026-09-14T05:54:43.032Z"
+        "total_results": 6,
+        "enriched_at": "2026-09-21T05:58:50.049Z"
       },
-      "timestamp": "2026-09-14T05:54:44.880Z"
+      "timestamp": "2026-09-21T05:58:51.639Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -2428,17 +2435,17 @@
             "score": 1
           },
           {
+            "title": "Starbucks | Report #496375 - Reflected XSS in https://www.starbucks.co.jp/store/search/ | HackerOne",
+            "url": "https://hackerone.com/reports/496375",
+            "snippet": "Starbucks | Report #496375 - Reflected XSS in https://www.starbucks.co.jp/store/search/ | HackerOne\n\nTimeline \n\nwa1m3im\n\n submitted a report to Starbucks.\n\nFebruary 15, 2019, 7:09am UTC\n\n> NOTE! Thank",
+            "published": "2019-02-15T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies",
             "url": "https://dreamlab.net/en/blog/post/starbucks-idor-how-we-prevented-an-information-leak-of-6-million-starbucks-customers/",
             "snippet": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies\n\n# Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers\n\n",
             "published": "2020-03-18T11:02:05.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec",
-            "url": "http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/",
-            "snippet": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec\n\n# RCE on Starbucks Singapore and more for $5600\n\nPosted at — Apr 3, 2021\n\n### Recon\n\nAfter I found a critical vulnerabili",
-            "published": "2021-04-03T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2468,9 +2475,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-14T05:54:44.880Z"
+        "enriched_at": "2026-09-21T05:58:51.639Z"
       },
-      "timestamp": "2026-09-14T05:54:46.494Z"
+      "timestamp": "2026-09-21T05:58:53.272Z"
     },
     "starbucks_china": {
       "intel": {
@@ -2523,9 +2530,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-14T05:54:46.494Z"
+        "enriched_at": "2026-09-21T05:58:53.272Z"
       },
-      "timestamp": "2026-09-14T05:54:48.120Z"
+      "timestamp": "2026-09-21T05:58:54.903Z"
     },
     "syfe_bbp": {
       "intel": {
@@ -2569,18 +2576,18 @@
             "score": 0.5
           },
           {
-            "title": "Scratchappy/CVE-2025-68937",
-            "url": "https://github.com/Scratchappy/CVE-2025-68937",
-            "snippet": "# Scratchappy/CVE-2025-68937\n\nAutomated PoC exploit for CVE-2025-68937 — Gitea/Forgejo Template Symlink RCE. Any authenticated user can get a shell as the git service user.\n\n- Stars: 0\n- Forks: 0\n- Wa",
+            "title": "It is possible to steal all users' money due to incorrect price calculation",
+            "url": "https://github.com/code-423n4/2023-03-asymmetry-findings/issues/461",
+            "snippet": "# It is possible to steal all users' money due to incorrect price calculation\n\n- State: closed\n- Author: code423n4\n- Created: 2023-03-29T12:58:43Z\n- Updated: 2023-04-21T14:56:46Z\n- Repository: code-42",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-14T05:54:48.121Z"
+        "enriched_at": "2026-09-21T05:58:54.904Z"
       },
-      "timestamp": "2026-09-14T05:54:49.779Z"
+      "timestamp": "2026-09-21T05:58:56.632Z"
     },
     "nba-public": {
       "intel": {
@@ -2593,16 +2600,16 @@
             "score": 1
           },
           {
-            "title": "NBA | Response Policy | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/nba-vdp",
-            "snippet": "NBA | Response Policy | HackerOne\n\ncollapse menu\n\nSecurity page\n\nNBA is not accepting submissions at this time.\n\n## Program highlights\n\nTop Response EfficiencyThis program's response efficiency is abo",
+            "snippet": "HackerOne\n\nNBA is not accepting submissions at this time.",
             "published": null,
             "score": 0.5
           },
           {
             "title": "NBA Public Bug Bounty Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/nba-public-bug-bounty/",
-            "snippet": "NBA Public Bug Bounty Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: nba-public \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 2 days \nBounty Time\n: 164 days \nReso",
+            "snippet": "NBA Public Bug Bounty Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: nba-public \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 2 days \nBounty Time\n: 195 days \nReso",
             "published": null,
             "score": 0
           }
@@ -2624,18 +2631,18 @@
             "score": 0.5
           },
           {
-            "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "title": "c0gnit00/CVE-2026-33937",
+            "url": "https://github.com/c0gnit00/CVE-2026-33937",
+            "snippet": "# c0gnit00/CVE-2026-33937\n\nPython POC, Exploit for Handlebars.js AST Injection RCE, Handlebars.js versions 4.0.0 through 4.7.8 are affected. CVSS score: 9.8 Critical.\n\n- Stars: 1\n- Forks: 0\n- Watchers",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-14T05:54:49.780Z"
+        "enriched_at": "2026-09-21T05:58:56.632Z"
       },
-      "timestamp": "2026-09-14T05:54:51.421Z"
+      "timestamp": "2026-09-21T05:58:58.255Z"
     },
     "circle-bbp": {
       "intel": {
@@ -2648,27 +2655,27 @@
             "score": 1
           },
           {
-            "title": "Asymmetric Research",
-            "url": "https://www.asymmetric.re/blog-archived/circles-cctp-noble-mint-bug",
-            "snippet": "Asymmetric Research\n\n# Circle's CCTP Noble Mint Bug\n\nAugust 27, 2024\n\nResearch\n\nRuslan Habalov\n\nRuslan Habalov\n\n## Intro\n\n We privately disclosed a vulnerability to Circle via their bug bounty program",
-            "published": "2024-08-27T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium",
             "url": "https://medium.com/@techverissimo/my-first-bug-bounty-finding-memory-dos-vulnerabilities-in-circles-arc-blockchain-consensus-engine-ab96f4f8d9f1",
             "snippet": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n1. The",
             "published": "2026-04-15T12:33:58.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "(unspecified)",
+            "url": "https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/CCTP/%5BPublic%5D%20%5BChainSecurity%5D%20Circle_Gateway_audit.pdf",
+            "snippet": "##### PUBLIC\n\n## Code Assessment of the Circle Gateway Smart Contracts\n\nJuly 08, 2025\n\nProduced for\n\nby\n\n### Contents\n\n1 Executive Summary 3 \n2 Assessment Overview 5 \n3 Limitations and use of report 1",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "advisories/2024-08-27_circle_noble-cctp-mint-bug.md",
-            "url": "https://github.com/asymmetric-research/security-advisories/blob/main/advisories/2024-08-27_circle_noble-cctp-mint-bug.md",
-            "snippet": "# advisories/2024-08-27_circle_noble-cctp-mint-bug.md\n\n- Branch: main\n- Repository: asymmetric-research/security-advisories\n\n---\n\n# Circle Noble CCTP Mint Bug\n\n## Intro\n\nWe privately disclosed a vulne",
-            "published": null,
+            "title": "feat: Add POCs for Circle (2 attacks) · 0f1db22 · SunWeb3Sec/DeFiHackLabs",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/commit/0f1db225d3561590bfa29698cc9d81acfa235541",
+            "snippet": "# Commit: SunWeb3Sec/DeFiHackLabs@0f1db22\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 7K stars | Solidity\n\n## feat: Add POCs for Circle (2 attacks)\n\n- Aut",
+            "published": "2024-08-08T07:06:56.000Z",
             "score": 1
           },
           {
@@ -2679,18 +2686,18 @@
             "score": 0.5
           },
           {
-            "title": "liang-junkai/Relic-bbs-fault-injection",
-            "url": "https://github.com/liang-junkai/Relic-bbs-fault-injection",
-            "snippet": "# liang-junkai/Relic-bbs-fault-injection\n\nContains a pdf vulnerability report for BB short signature in relic library\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.",
+            "title": "advisories/2024-08-27_circle_noble-cctp-mint-bug.md",
+            "url": "https://github.com/asymmetric-research/security-advisories/blob/main/advisories/2024-08-27_circle_noble-cctp-mint-bug.md",
+            "snippet": "# advisories/2024-08-27_circle_noble-cctp-mint-bug.md\n\n- Branch: main\n- Repository: asymmetric-research/security-advisories\n\n---\n\n# Circle Noble CCTP Mint Bug\n\n## Intro\n\nWe privately disclosed a vulne",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-14T05:54:51.421Z"
+        "enriched_at": "2026-09-21T05:58:58.255Z"
       },
-      "timestamp": "2026-09-14T05:54:52.992Z"
+      "timestamp": "2026-09-21T05:58:59.868Z"
     },
     "varonis": {
       "intel": {
@@ -2720,16 +2727,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "hypnguyen1209/CVE-2026-62911",
-            "url": "https://github.com/hypnguyen1209/CVE-2026-62911",
-            "snippet": "# hypnguyen1209/CVE-2026-62911\n\nPOC pre-auth RCE on Exchange\n\n- Stars: 102\n- Forks: 15\n- Watchers: 102\n- Open issues: 1\n- Default branch: main\n- Created: 2026-08-22T04:49:33Z\n\n## Languages\n\n- Python\n\n",
+            "title": "SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC",
+            "url": "https://gist.github.com/4V4loon/54719b32c4dcef8d082b4ea4065fd541",
+            "snippet": "# SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC\n\n- Owner: 4V4loon\n- Created: 2024-03-28T20:09:27Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## SharePwn_public.py\n\nLang",
             "published": null,
             "score": 1
           },
           {
-            "title": "SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC",
-            "url": "https://gist.github.com/4V4loon/54719b32c4dcef8d082b4ea4065fd541",
-            "snippet": "# SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC\n\n- Owner: 4V4loon\n- Created: 2024-03-28T20:09:27Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## SharePwn_public.py\n\nLang",
+            "title": "hypnguyen1209/CVE-2026-62911",
+            "url": "https://github.com/hypnguyen1209/CVE-2026-62911",
+            "snippet": "# hypnguyen1209/CVE-2026-62911\n\nPOC pre-auth RCE on Exchange\n\n- Stars: 102\n- Forks: 15\n- Watchers: 102\n- Open issues: 1\n- Default branch: main\n- Created: 2026-08-22T04:49:33Z\n\n## Languages\n\n- Python\n\n",
             "published": null,
             "score": 0.5
           },
@@ -2743,9 +2750,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-14T05:54:52.992Z"
+        "enriched_at": "2026-09-21T05:58:59.868Z"
       },
-      "timestamp": "2026-09-14T05:54:54.573Z"
+      "timestamp": "2026-09-21T05:59:01.461Z"
     },
     "klarna": {
       "intel": {
@@ -2813,16 +2820,16 @@
             "score": 1
           },
           {
-            "title": "Unico IDtech | Security Program",
-            "url": "https://ooosec.com/programs/unico-idtech",
-            "snippet": "Unico IDtech | Security Program\n\n# Unico IDTech Bug Bounty Program\n\nUnico IDTech is pioneering the future of biometric authentication through our advanced liveness detection engine. We're inviting sec",
+            "title": "Unico IDtech — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/unico_idtech",
+            "snippet": "Unico IDtech — HackerOne bug bounty | BountyHunte.rs\n\n# Unico IDtech\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maxi",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/unico_idtech",
-            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\n2 Out of Scope\n\nIn-Scope Assets (14)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| *.uat.",
+            "title": "Unico IDtech | Security Program",
+            "url": "https://ooosec.com/programs/unico-idtech",
+            "snippet": "Unico IDtech | Security Program\n\n# Unico IDTech Bug Bounty Program\n\nUnico IDTech is pioneering the future of biometric authentication through our advanced liveness detection engine. We're inviting sec",
             "published": null,
             "score": 0
           }
@@ -2853,9 +2860,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-14T05:54:54.573Z"
+        "enriched_at": "2026-09-21T05:59:01.461Z"
       },
-      "timestamp": "2026-09-14T05:54:56.179Z"
+      "timestamp": "2026-09-21T05:59:03.075Z"
     },
     "wallet_on_telegram": {
       "intel": {
@@ -2899,18 +2906,18 @@
             "score": 0.5
           },
           {
-            "title": "DavisDmitry/BitPurseBot",
-            "url": "https://github.com/DavisDmitry/BitPurseBot",
-            "snippet": "# DavisDmitry/BitPurseBot\n\nSelf-custody Bitcoin wallet within Telegram\n\n- Stars: 6\n- Forks: 3\n- Watchers: 6\n- Open issues: 0\n- License: MIT License\n- Default branch: master\n- Created: 2023-10-10T13:15",
-            "published": "2023-10-10T00:00:00.000Z",
+            "title": "expert985/TG_walletbot",
+            "url": "https://github.com/expert985/TG_walletbot",
+            "snippet": "# expert985/TG_walletbot\n\nTelegram 链上钱包 Bot - OKPay 复刻\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-03-19T15:20:16Z\n- Fork: yes\n\n",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-14T05:54:56.179Z"
+        "enriched_at": "2026-09-21T05:59:03.075Z"
       },
-      "timestamp": "2026-09-14T05:54:58.060Z"
+      "timestamp": "2026-09-21T05:59:04.769Z"
     },
     "chia_network": {
       "intel": {
@@ -6342,5 +6349,5 @@
       "timestamp": "2026-09-17T05:52:11.836Z"
     }
   },
-  "lastRun": "2026-09-20T05:50:39.868Z"
+  "lastRun": "2026-09-21T05:59:04.769Z"
 }
