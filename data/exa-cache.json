@@ -4566,24 +4566,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "Vodafone Oman Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/vodafone-oman/",
+            "snippet": "Vodafone Oman Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: vodafone_oman \nManaged\n: No \n\n## Response Metrics \n\nResponse Time\n: 21 days \nResolution Time\n: 36 days \n\n Resp",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Vodafone Oman | Security Program",
             "url": "https://ooosec.com/programs/vodafone-oman",
             "snippet": "Vodafone Oman | Security Program\n\n## Vodafone Oman\n\n# Vodafone Oman\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n## Details\n\nVodafone Oman looks forward to working with the security c",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman",
             "url": "https://cdn-4.timesofoman.com/article/122530-vodafone-oman-challenges-local-and-international-ethical-hackers-to-to-take-their-best-shot",
             "snippet": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman\n\n# Vodafone Oman challenges local and international ethical hackers to to take their best sh",
             "published": "2022-10-19T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Vodafone Oman Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/vodafone-oman/",
-            "snippet": "Vodafone Oman Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: vodafone_oman \nManaged\n: No \n\n## Response Metrics \n\nResponse Time\n: 20 days \nResolution Time\n: 36 days \n\n Resp",
-            "published": null,
             "score": 0
           }
         ],
@@ -4613,9 +4613,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-12T05:28:00.914Z"
+        "enriched_at": "2026-09-22T05:55:18.950Z"
       },
-      "timestamp": "2026-09-12T05:28:02.618Z"
+      "timestamp": "2026-09-22T05:55:20.769Z"
     },
     "frontegg": {
       "intel": {
@@ -4723,9 +4723,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-12T05:28:02.618Z"
+        "enriched_at": "2026-09-22T05:55:22.437Z"
       },
-      "timestamp": "2026-09-12T05:28:04.165Z"
+      "timestamp": "2026-09-22T05:55:24.106Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4793,9 +4793,9 @@
             "score": 0.5
           },
           {
-            "title": "REI BBP | Top Hackers | HackerOne",
-            "url": "https://hackerone.com/rei_bbp/thanks",
-            "snippet": "REI BBP | Top Hackers | HackerOne\n\nbombon Reputation: 289\n\n2\n\nmooimacow Reputation: 218\n\n3\n\nrektile404 Reputation: 184\n\n4\n\ninhibitor181 Reputation: 133\n\n5\n\nkonstanz2412 Reputation: 101\n\nm0chan Reputat",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/rei_bbp/policy_versions",
+            "snippet": "HackerOne\n\n## Policy versions\n\nIndex: rei_bbp.policy =================================================================== --- rei_bbp.policy @ 2026-04-20T18:00:15.284Z +++ rei_bbp.policy @ 2026-04-20T1",
             "published": null,
             "score": 0
           }
@@ -4826,9 +4826,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-12T05:28:04.166Z"
+        "enriched_at": "2026-09-22T05:55:24.106Z"
       },
-      "timestamp": "2026-09-12T05:28:05.732Z"
+      "timestamp": "2026-09-22T05:55:25.789Z"
     },
     "mergify": {
       "intel": {
@@ -4881,9 +4881,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-12T05:28:05.732Z"
+        "enriched_at": "2026-09-22T05:55:25.789Z"
       },
-      "timestamp": "2026-09-12T05:28:07.340Z"
+      "timestamp": "2026-09-22T05:55:27.508Z"
     },
     "coinhako": {
       "intel": {
@@ -4980,10 +4980,10 @@
             "score": 0.5
           },
           {
-            "title": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement",
-            "url": "https://blog.crawlex.net/blog/arkose-funcaptcha-internals/",
-            "snippet": "Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement\n\n# Arkose Labs FunCaptcha internals: the game challenge and risk-based enforcement \n\n Daniel Mercer Sat, May 16, 2026 · ",
-            "published": "2026-05-16T00:00:00.000Z",
+            "title": "Cryptography and RSA Key Recovery | buggerlogger/arkose-solver | DeepWiki",
+            "url": "https://deepwiki.com/buggerlogger/arkose-solver/2.4-cryptography-and-rsa-key-recovery",
+            "snippet": "Cryptography and RSA Key Recovery | buggerlogger/arkose-solver | DeepWiki\n\nRelevant source files\n\n- arkose/encryption.go\n- arkose/logger.go\n- arkose/vmkey.go\n\n## Purpose and Scope Copy link to header\n",
+            "published": null,
             "score": 0
           }
         ],
@@ -5013,9 +5013,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-12T05:28:07.341Z"
+        "enriched_at": "2026-09-22T05:55:29.202Z"
       },
-      "timestamp": "2026-09-12T05:28:08.919Z"
+      "timestamp": "2026-09-22T05:55:30.829Z"
     },
     "alsco": {
       "intel": {
@@ -5035,9 +5035,9 @@
             "score": 0.5
           },
           {
-            "title": "ALSCO Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/alsco/",
-            "snippet": "ALSCO Bug Bounty Program - Bug Bounties\n\n# ALSCO\n\nBounty Recognition Swag Full Safe Harbor \n\n## Program Details \n\n Handle \n: alsco \nManaged\n: No \n\n## Response Metrics \n\nResponse Time\n: 13 days \n\n Resp",
+            "title": "ALSCO — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/alsco",
+            "snippet": "ALSCO — HackerOne bug bounty | BountyHunte.rs\n\n# ALSCO\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is not a g",
             "published": null,
             "score": 0
           }
@@ -5068,9 +5068,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-12T05:28:08.919Z"
+        "enriched_at": "2026-09-22T05:55:30.830Z"
       },
-      "timestamp": "2026-09-12T05:28:10.487Z"
+      "timestamp": "2026-09-22T05:55:32.603Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5785,18 +5785,18 @@
             "score": 0.5
           },
           {
-            "title": "g4nkd/CVE-2024-22120-RCE-with-gopher",
-            "url": "https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher",
-            "snippet": "# g4nkd/CVE-2024-22120-RCE-with-gopher\n\nThis exploit was created to exploit an XXE (XML External Entity). Through it, I read the backend code of the web service and found an endpoint where I could use",
+            "title": "darkbytehunter/CVE-2024-22120-RCE-with-gopher",
+            "url": "https://github.com/darkbytehunter/CVE-2024-22120-RCE-with-gopher",
+            "snippet": "# darkbytehunter/CVE-2024-22120-RCE-with-gopher\n\nProof-of-concept exploit for CVE-2024-22120 that leverages time-based SQL injection and gopher-based SSRF to achieve remote code execution on vulnerabl",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-10T05:41:38.783Z"
+        "enriched_at": "2026-09-22T05:55:27.508Z"
       },
-      "timestamp": "2026-09-10T05:41:40.333Z"
+      "timestamp": "2026-09-22T05:55:29.202Z"
     },
     "coupang_tw": {
       "intel": {
@@ -5983,7 +5983,7 @@
           {
             "title": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit – Aspire Market Guides",
             "url": "https://aspiremarketguides.com/cryptocurrency/yuga-labs-rescues-68-nfts-after-flooring-protocol-exploit/",
-            "snippet": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit – Aspire Market Guides\n\nClose Menu\n\nPrivate equity kicked the tyres at Mayne’s Adelaide plant, but no dice\n\nBitcoin holds near $62K ahead of k",
+            "snippet": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit – Aspire Market Guides\n\n# Yuga Labs rescues 68 NFTs after Flooring Protocol exploit\n\nBy Charlotte July 9, 2026 4 Mins Read\n\n \n\nYuga Labs has c",
             "published": "2026-07-09T07:38:33.000Z",
             "score": 0
           }
@@ -6005,18 +6005,18 @@
             "score": 0.5
           },
           {
-            "title": "src/test/2026-08/USM_exp.sol",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2026-08/USM_exp.sol",
-            "snippet": "# src/test/2026-08/USM_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: MIT\npragma solidity ^0.8.20;\n\nimport \"forge-std/Test.sol\";\n\n// USM (Minimalist US",
+            "title": "ast3ros - Malious users can drain the prize from the winner",
+            "url": "https://github.com/sherlock-audit/2024-01-looksrare-judging/issues/140",
+            "snippet": "# ast3ros - Malious users can drain the prize from the winner\n\n- State: closed\n- Author: sherlock-admin2\n- Created: 2024-01-24T17:33:03Z\n- Updated: 2024-02-04T12:39:58Z\n- Repository: sherlock-audit/20",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-12T05:28:12.058Z"
+        "enriched_at": "2026-09-22T05:55:34.237Z"
       },
-      "timestamp": "2026-09-12T05:28:13.641Z"
+      "timestamp": "2026-09-22T05:55:35.955Z"
     },
     "abercrombie_fitch_bbp": {
       "intel": {
@@ -6029,16 +6029,16 @@
             "score": 1
           },
           {
-            "title": "Abercrombie & Fitch Management Co. | Hacktivity | HackerOne",
-            "url": "https://hackerone.com/abercrombie_fitch/hacktivity",
-            "snippet": "Abercrombie & Fitch Management Co. | Hacktivity | HackerOne\n\nAbercrombie & Fitch Management Co.\n\nBug reported by\n\nmalithonline\n\nwas resolved\n\n3 months ago\n\nAbercrombie & Fitch Management Co.\n\nBug repo",
+            "title": "Untitled",
+            "url": "https://raw.githubusercontent.com/api-evangelist/abercrombie-and-fitch/refs/heads/main/security/abercrombie-and-fitch-vulnerability-disclosure.yml",
+            "snippet": "generated: '2026-08-29'\nmethod: searched\nsource: https://corporate.abercrombie.com/vulnerability-disclosure/\nprogram:\n published: true\n name: Abercrombie & Fitch Co. Vulnerability Disclosure\n policy_u",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Abercrombie And Fitch Vulnerability Disclosure | APIs.io Security",
-            "url": "https://apis.io/security/abercrombie-and-fitch/abercrombie-and-fitch-vulnerability-disclosure/",
-            "snippet": "Abercrombie And Fitch Vulnerability Disclosure | APIs.io Security\n\n# Abercrombie And Fitch Vulnerability Disclosure\n\nVulnerability disclosure\n\nAbercrombie and Fitch runs a coordinated vulnerability di",
+            "title": "Abercrombie & Fitch Management Co. | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/abercrombie_fitch/hacktivity",
+            "snippet": "Abercrombie & Fitch Management Co. | Hacktivity | HackerOne\n\nAbercrombie & Fitch Management Co.\n\nBug reported by\n\nmalithonline\n\nwas resolved\n\n3 months ago\n\nAbercrombie & Fitch Management Co.\n\nBug repo",
             "published": null,
             "score": 0
           }
@@ -6062,16 +6062,16 @@
           {
             "title": "AChecker/CVE-2024-34523.md",
             "url": "https://github.com/piuppi/Proof-of-Concepts/blob/main/AChecker/CVE-2024-34523.md",
-            "snippet": "# AChecker/CVE-2024-34523.md\n\n- Branch: main\n- Repository: piuppi/Proof-of-Concepts\n\n---\n\n# [CVE-2024-34523](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-34523): AChecker 1.5 Unauthenticate",
+            "snippet": "# AChecker/CVE-2024-34523.md\n\n- Branch: main\n- Repository: piuppi/Proof-of-Concepts\n\n---\n\n# CVE-2024-34523: AChecker 1.5 Unauthenticated Path Traversal\nScreenshot\n### Overview\nAChecker (https://github",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-12T05:28:10.487Z"
+        "enriched_at": "2026-09-22T05:55:32.603Z"
       },
-      "timestamp": "2026-09-12T05:28:12.058Z"
+      "timestamp": "2026-09-22T05:55:34.236Z"
     },
     "wolt": {
       "intel": {
@@ -6347,7 +6347,62 @@
         "enriched_at": "2026-09-17T05:52:10.324Z"
       },
       "timestamp": "2026-09-17T05:52:11.836Z"
+    },
+    "vercel": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "$170k in Bypasses: The Vercel React2Shell Challenge | Hacktron AI",
+            "url": "https://www.hacktron.ai/blog/react2shell-vercel-waf-bypass",
+            "snippet": "$170k in Bypasses: The Vercel React2Shell Challenge | Hacktron AI\n\n Overview \n\n- Intro\n- The WAF Grammar Problem\n- Understanding the WAF\n- Bypass 1: Duplicate Boundary Parameter\n- Updating Our Observa",
+            "published": "2026-05-04T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "SvelteSpill: A Cache Deception Bug in SvelteKit + Vercel",
+            "url": "https://www.aikido.dev/blog/sveltespill-cache-deception-sveltekit-vercel",
+            "snippet": "Solutions\n\nSolutions\n\nResources\n\nAbout\n\nPricing Contact\n\nLogin Start for Free\n\nLogin\n\nMenu\n\nEN\n\nLogin Start for FreeNo CC required\n\nBlog Vulnerabilities & Threats\n\nSvelteSpill: A Cache Deception Bug i",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "fix(security): arbitrary code execution via path traversal in x-matched-path header",
+            "url": "https://github.com/vercel/vercel/pull/15995",
+            "snippet": "# fix(security): arbitrary code execution via path traversal in x-matched-path header\n\n- State: open\n- Author: failsafesecurity\n- Created: 2026-04-16T01:54:51Z\n- Updated: 2026-04-22T07:16:53Z\n- Reposi",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass",
+            "url": "https://github.com/Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass",
+            "snippet": "# Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass\n\nFull-Read SSRF in Vercel AI SDK. validateDownloadUrl() only checks hostname strings, never resolves DNS. Any domain pointing to a private IP",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "yuchant/critical-cve-demo",
+            "url": "https://github.com/yuchant/critical-cve-demo",
+            "snippet": "# yuchant/critical-cve-demo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- Default branch: main\n- Created: 2025-12-09T07:14:20Z\n\n## Languages\n\n- CSS\n- TypeScript\n\n## Top Contributors\n\n- yucha",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "fix(security): arbitrary code execution via path traversal in x-matched-path header",
+            "url": "https://github.com/vercel/vercel/pull/15995",
+            "snippet": "# fix(security): arbitrary code execution via path traversal in x-matched-path header\n\n- State: open\n- Author: failsafesecurity\n- Created: 2026-04-16T01:54:51Z\n- Updated: 2026-04-22T07:16:53Z\n- Reposi",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-09-22T05:55:20.769Z"
+      },
+      "timestamp": "2026-09-22T05:55:22.437Z"
     }
   },
-  "lastRun": "2026-09-21T05:59:04.769Z"
+  "lastRun": "2026-09-22T05:55:35.955Z"
 }
