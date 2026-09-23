@@ -2970,18 +2970,18 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:08.948Z"
+        "enriched_at": "2026-09-23T05:36:28.179Z"
       },
-      "timestamp": "2026-09-15T05:56:10.616Z"
+      "timestamp": "2026-09-23T05:36:30.182Z"
     },
     "3cx": {
       "intel": {
         "writeups": [
           {
-            "title": "Untitled",
-            "url": "https://www.praetorian.com/blog/3cx-phone-system-local-privilege-escalation-vulnerability/",
-            "snippet": "Skip to content\n\n- Vulnerability Research\n\n# 3CX Phone System Local Privilege Escalation Vulnerability\n\n- Adam Crosser\n- August 28, 2024 \n\n## Overview\n\nIn an effort to safeguard our customers, we perf",
-            "published": null,
+            "title": "Medium",
+            "url": "https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88",
+            "snippet": "MediumPwning 3CX Phone Management Backends from the Internet | by frycos | Medium\n\nSign up\n\nGet app\n\nSign up\n\nExploitation\n\nUnauthorized Access\n\nVulnerability Research\n\n# Pwning 3CX Phone Management B",
+            "published": "2022-03-30T22:01:22.000Z",
             "score": 1
           },
           {
@@ -2992,65 +2992,65 @@
             "score": 0.5
           },
           {
-            "title": "Medium",
-            "url": "https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88",
-            "snippet": "MediumPwning 3CX Phone Management Backends from the Internet | by frycos | Medium\n\nSign up\n\nGet app\n\nSign up\n\nExploitation\n\nUnauthorized Access\n\nVulnerability Research\n\n# Pwning 3CX Phone Management B",
-            "published": "2022-03-30T22:01:22.000Z",
+            "title": "3CX Phone System Local Privilege Escalation Vulnerability",
+            "url": "https://www.praetorian.com/blog/3cx-phone-system-local-privilege-escalation-vulnerability/",
+            "snippet": "Skip to content\n\n- Vulnerability Research\n\n# 3CX Phone System Local Privilege Escalation Vulnerability\n\n- Adam Crosser\n- August 28, 2024 \n\n## Overview\n\nIn an effort to safeguard our customers, we perf",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "JazzTheRabbit/FreePBX-SQLi-RCE",
-            "url": "https://github.com/JazzTheRabbit/FreePBX-SQLi-RCE",
-            "snippet": "# JazzTheRabbit/FreePBX-SQLi-RCE\n\nCVE-2025-57819 FreePBX SQLi RCE PoC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-24T17:57:28Z\n\n## Languages\n\n- Pyth",
+            "title": "CVE-2023-49954/CVE-2023-49954.github.io",
+            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954",
+            "snippet": "# CVE-2023-49954/CVE-2023-49954.github.io\n\nSQL Injection in 3CX CRM Integration\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2023-12-14T18:38:28Z\n\n## Top Con",
             "published": null,
             "score": 1
-          },
-          {
-            "title": "MindCOld/FreePBX-16-RCE-PoC-Unauthenticated-",
-            "url": "https://github.com/MindCOld/FreePBX-16-RCE-PoC-Unauthenticated-",
-            "snippet": "# Repository: MindCOld/FreePBX-16-RCE-PoC-Unauthenticated-\n\nFreePBX versions 15, 16, and 17 contain a Remote Code Execution (RCE) vulnerability caused by insufficient sanitization of user-supplied dat",
-            "published": "2026-06-08T07:27:59.000Z",
-            "score": 0.5
           },
           {
             "title": "http/vulnerabilities/other/3cx-management-console.yaml",
             "url": "https://github.com/projectdiscovery/nuclei-templates/blob/main/http/vulnerabilities/other/3cx-management-console.yaml",
             "snippet": "# http/vulnerabilities/other/3cx-management-console.yaml\n\n- Branch: main\n- Repository: projectdiscovery/nuclei-templates\n\n---\n\nid: 3cx-management-console\n\ninfo:\n name: 3CX Management Console - Local F",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "JazzTheRabbit/FreePBX-SQLi-RCE",
+            "url": "https://github.com/JazzTheRabbit/FreePBX-SQLi-RCE",
+            "snippet": "# JazzTheRabbit/FreePBX-SQLi-RCE\n\nCVE-2025-57819 FreePBX SQLi RCE PoC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-24T17:57:28Z\n\n## Languages\n\n- Pyth",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:10.616Z"
+        "enriched_at": "2026-09-23T05:36:30.183Z"
       },
-      "timestamp": "2026-09-15T05:56:12.362Z"
+      "timestamp": "2026-09-23T05:36:31.880Z"
     },
     "privy-bbp": {
       "intel": {
         "writeups": [
           {
+            "title": "Finding React vulnerabilities as part of our security work at Privy",
+            "url": "https://www.privy.io/insights/finding-react-vulnerabilities-as-part-of-our-security-work-at-privy",
+            "snippet": "[Products], [Solutions], [Developer], [Resources]\n\nPricing\n\nDocs\n\nLog in\n\nBack to blog\n\nEngineering\n\n# Finding React vulnerabilities as part of our security work at Privy\n\nAndrew MacPherson\n\nDec 19, 2",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Privy (Bounty) — HackerOne bug bounty | BountyHunte.rs",
             "url": "https://bountyhunte.rs/programs/privy-bbp",
-            "snippet": "Privy (Bounty) — HackerOne bug bounty | BountyHunte.rs\n\nHackerOne\n\nbounty\n\nManaged\n\n# Privy (Bounty)\n\nSubmit a report on HackerOne\n\nSign in for alerts Launched 2/2/2024\n\nReward model\n\npaid\n\ngeneral pl",
-            "published": "2024-02-02T19:10:37.000Z",
-            "score": 1
+            "snippet": "Privy (Bounty) — HackerOne bug bounty | BountyHunte.rs\n\n# Privy (Bounty)\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed ",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "Untitled",
             "url": "https://privy-c2af3412.mintlify.app/security/security-faqs",
             "snippet": "> ## Documentation Index\n> \n> Fetch the complete documentation index at: https://docs.privy.io/llms.txt\n> Use this file to discover all available pages before exploring further.\n\n# Threat models & sec",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Privy manages key reconstitution for 120M wallets, exposing risks",
-            "url": "https://cryptobriefing.com/privy-120m-wallets-key-reconstitution-risks/",
-            "snippet": "Privy manages key reconstitution for 120M wallets, exposing risks\n\n# Privy manages key reconstitution for 120M wallets, exposing risks \n\n Academic research into cache side-channel attacks raises fresh",
-            "published": "2026-07-11T16:10:03.000Z",
             "score": 0
           }
         ],
@@ -3064,25 +3064,25 @@
             "score": 1
           },
           {
-            "title": "starknet-edu/starknet-privy-demo",
-            "url": "https://github.com/starknet-edu/starknet-privy-demo",
-            "snippet": "# starknet-edu/starknet-privy-demo\n\nA demo showcasing Privy integrating with Starknet\n\n- Stars: 4\n- Forks: 2\n- Watchers: 4\n- Open issues: 0\n- License: MIT License\n- Homepage: https://starknet-privy-de",
-            "published": "2025-09-11T00:00:00.000Z",
+            "title": "README.md at master · starknet-edu/starknet-privy-demo",
+            "url": "https://github.com/starknet-edu/starknet-privy-demo/blob/master/README.md",
+            "snippet": "# File: starknet-edu/starknet-privy-demo/README.md\n\n- Repository: starknet-edu/starknet-privy-demo | A demo showcasing Privy integrating with Starknet | 4 stars | TypeScript\n- Branch: master\n\n```md\n# ",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "tuantran-genetica/privy-demo",
-            "url": "https://github.com/tuantran-genetica/privy-demo",
-            "snippet": "# tuantran-genetica/privy-demo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-09-17T07:18:30Z\n\n## Languages\n\n- CSS\n- HTML\n- JavaScript\n- Solidity\n\n## To",
-            "published": null,
+            "title": "examples/examples/privy-next-yield-demo at main · privy-io/examples · GitHub",
+            "url": "https://github.com/privy-io/examples/tree/main/examples/privy-next-yield-demo",
+            "snippet": "examples/examples/privy-next-yield-demo at main · privy-io/examples · GitHub\n\n/ examples Public\n\n## Files\n\nmain\n\n# privy-next-yield-demo\n\nView commit history for this file.\n\nmain\n\n# privy-next-yield-d",
+            "published": "2025-09-16T02:56:10.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:12.362Z"
+        "enriched_at": "2026-09-23T05:36:31.880Z"
       },
-      "timestamp": "2026-09-15T05:56:14.166Z"
+      "timestamp": "2026-09-23T05:36:33.654Z"
     },
     "netflix": {
       "intel": {
@@ -3102,10 +3102,10 @@
             "score": 0.5
           },
           {
-            "title": "Medium",
-            "url": "https://blog.viktormares.com/hacking-netflix-for-stored-xss-idor-to-session-hijacking-account-takeover-9ba1cdeabbf8",
-            "snippet": "Medium\n\n# Hacking Netflix for $$$ — Stored XSS + IDOR to Session Hijacking & Account Takeover\n\nViktor Mares\n\nFeb 28, 2025\n\nHi everyone, after quite a break from writing and focusing on the more techni",
-            "published": "2025-02-28T00:00:00.000Z",
+            "title": "Here’s the Netflix account compromise Bugcrowd doesn’t want you to know about [Updated] - Ars Technica",
+            "url": "https://arstechnica.com/information-technology/2020/03/bugcrowd-tries-to-muzzle-hacker-who-found-netflix-account-compromise-weakness/",
+            "snippet": "Here’s the Netflix account compromise Bugcrowd doesn’t want you to know about [Updated] - Ars Technica\n\nText settings\n\nStory text\n\nSize Small Standard Large Width * Standard Wide Links Standard Orange",
+            "published": "2020-03-23T22:37:03.000Z",
             "score": 0
           }
         ],
@@ -3135,9 +3135,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:14.166Z"
+        "enriched_at": "2026-09-23T05:36:33.654Z"
       },
-      "timestamp": "2026-09-15T05:56:15.822Z"
+      "timestamp": "2026-09-23T05:36:35.518Z"
     },
     "23andme_bbp": {
       "intel": {
@@ -3190,9 +3190,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:15.822Z"
+        "enriched_at": "2026-09-23T05:36:35.518Z"
       },
-      "timestamp": "2026-09-15T05:56:17.557Z"
+      "timestamp": "2026-09-23T05:36:37.515Z"
     },
     "audible": {
       "intel": {
@@ -3245,9 +3245,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:17.557Z"
+        "enriched_at": "2026-09-23T05:36:37.515Z"
       },
-      "timestamp": "2026-09-15T05:56:19.123Z"
+      "timestamp": "2026-09-23T05:36:39.519Z"
     },
     "temu": {
       "intel": {
@@ -3260,16 +3260,16 @@
             "score": 1
           },
           {
-            "title": "Search code, repositories, users, issues, pull requests...",
-            "url": "https://github.com/Jonathanjimenez123/temu-vuln-hunter-pro",
-            "snippet": "GitHub - Jonathanjimenez123/temu-vuln-hunter-pro: Critical vulnerability chain in Temu: open redirect →reflected XSS →account takeover via stolen session cookies.\n[Skip to content](#start-of-content)\n",
-            "published": "2025-07-18T08:00:55.000Z",
+            "title": "Temu — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/temu",
+            "snippet": "Temu — HackerOne bug bounty | BountyHunte.rs\n\n# Temu\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is not a gua",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "UNTITLED",
-            "url": "https://static.md/md/CweAGG",
-            "snippet": "# UNTITLED\n\n# Temu Native Library Technical Security Analysis\n\nVersion: 1.0\nDate: 2026-03-27\nTarget: com.einnovation.temu v4.39.0 (split APK, US region)\nClassification: Technical reference for securit",
+            "title": "Temu customer story | HackerOne",
+            "url": "https://www.hackerone.com/customer-stories/temu",
+            "snippet": "Temu customer story | HackerOne\n\nCustomer Story\n\nTrust on Both Sides: How Temu Secures Its Global Marketplace\n\nBy pairing a strong internal information security team with an elite global researcher co",
             "published": null,
             "score": 0
           }
@@ -3279,7 +3279,7 @@
           {
             "title": "Search code, repositories, users, issues, pull requests...",
             "url": "https://github.com/Jonathanjimenez123/temu-vuln-hunter-pro",
-            "snippet": "GitHub - Jonathanjimenez123/temu-vuln-hunter-pro: Critical vulnerability chain in Temu: open redirect →reflected XSS →account takeover via stolen session cookies.\n[Skip to content](#start-of-content)\n",
+            "snippet": "GitHub - Jonathanjimenez123/temu-vuln-hunter-pro: Critical vulnerability chain in Temu: open redirect →reflected XSS →account takeover via stolen session cookies.\nSkip to content\n## Navigation Menu\nTo",
             "published": "2025-07-18T08:00:55.000Z",
             "score": 1
           },
@@ -3300,9 +3300,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:19.123Z"
+        "enriched_at": "2026-09-23T05:36:39.519Z"
       },
-      "timestamp": "2026-09-15T05:56:20.835Z"
+      "timestamp": "2026-09-23T05:36:41.220Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -3370,10 +3370,10 @@
             "score": 0.5
           },
           {
-            "title": "Bybit Hack Analysis: Strengthening Crypto Exchange Security | Cremit",
-            "url": "https://www.cremit.io/blog/bybit-hacking-incident-analysis-how-to-strengthen-cryptocurrency-exchange-security",
-            "snippet": "Bybit Hack Analysis: Strengthening Crypto Exchange Security | Cremit\n\nNEW: RSAC 2026 NHI Field Report. How Non-Human Identity became cybersecurity's central axis\n\nOn this page(17)\n\n### Table of Conten",
-            "published": "2025-02-18T11:59:04.000Z",
+            "title": "Bybit: a \"legitimate\" multisig approval signed by trusting the UI drained a supposedly secure Ethereum wallet | Lemma Critical Brief No.081",
+            "url": "https://lemma.frame00.com/critical/briefs/081-bybit-safe-wallet-ui-injection/",
+            "snippet": "Bybit: a \"legitimate\" multisig approval signed by trusting the UI drained a supposedly secure Ethereum wallet | Lemma Critical Brief No.081\n\n# Bybit: a \"legitimate\" multisig approval signed by trustin",
+            "published": "2026-06-26T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3403,9 +3403,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:20.835Z"
+        "enriched_at": "2026-09-23T05:36:41.220Z"
       },
-      "timestamp": "2026-09-15T05:56:22.392Z"
+      "timestamp": "2026-09-23T05:36:42.960Z"
     },
     "trip_com": {
       "intel": {
@@ -3458,32 +3458,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:22.392Z"
+        "enriched_at": "2026-09-23T05:36:42.960Z"
       },
-      "timestamp": "2026-09-15T05:56:24.104Z"
+      "timestamp": "2026-09-23T05:36:44.663Z"
     },
     "bykea": {
       "intel": {
         "writeups": [
           {
+            "title": "Bykea | Report #2861888 - Ability to increase any customer offered fare (BAC) | HackerOne",
+            "url": "https://hackerone.com/reports/2861888",
+            "snippet": "Bykea | Report #2861888 - Ability to increase any customer offered fare (BAC) | HackerOne\n\nAbility to increase any customer offered fare (BAC)\n\nSummary by Bykea\n\nA business logic flaw was discovered b",
+            "published": "2024-11-23T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Bykea | Report #2867022 - Improper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosure | HackerOne",
+            "url": "https://hackerone.com/reports/2867022",
+            "snippet": "Bykea | Report #2867022 - Improper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosure | HackerOne\n\nImproper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosu",
+            "published": "2024-11-27T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Multimillion-dollar Pakistani delivery company leaks 400+ million files",
             "url": "https://www.safetydetectives.com/blog/bykea-leak-report/",
             "snippet": "Multimillion-dollar Pakistani delivery company leaks 400+ million files\n\nclose\n\n# Multimillion-dollar Pakistani delivery company leaks 400+ million files\n\nSafetyDetectives Cybersecurity Team SafetyDet",
             "published": "2021-01-28T13:47:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "Bykea’s VRP (Vulnerability Reward Program) Policy",
-            "url": "https://bykea.com/security/",
-            "snippet": "Security - Bykea\n[![](https://bykea.com/wp-content/uploads/2021/09/Bykea_logo.svg)](https://bykea.com)\n**Menu\n[Contact Bykea](https://bykea.com/contact/)\n# Bykea’s VRP (Vulnerability Reward Program) P",
-            "published": "2021-02-01T11:26:22.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Bykea | Report #3328343 - Lack of minimum value bid wheel verification on customer_bid in Rental Trips | HackerOne",
-            "url": "https://hackerone.com/reports/3328343",
-            "snippet": "Bykea | Report #3328343 - Lack of minimum value bid wheel verification on customer_bid in Rental Trips | HackerOne\n\nLack of minimum value bid wheel verification on customer_bid in Rental Trips\n\nSummar",
-            "published": "2025-09-05T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3513,9 +3513,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-15T05:56:24.104Z"
+        "enriched_at": "2026-09-23T05:36:44.663Z"
       },
-      "timestamp": "2026-09-15T05:56:25.740Z"
+      "timestamp": "2026-09-23T05:36:46.331Z"
     },
     "inditex": {
       "intel": {
@@ -6404,5 +6404,5 @@
       "timestamp": "2026-09-22T05:55:22.437Z"
     }
   },
-  "lastRun": "2026-09-22T05:55:35.955Z"
+  "lastRun": "2026-09-23T05:36:46.331Z"
 }
