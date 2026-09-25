@@ -4008,9 +4008,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:36:54.262Z"
+        "enriched_at": "2026-09-25T05:56:39.753Z"
       },
-      "timestamp": "2026-09-18T05:36:55.797Z"
+      "timestamp": "2026-09-25T05:56:41.382Z"
     },
     "redox_bbp": {
       "intel": {
@@ -4030,9 +4030,9 @@
             "score": 0.5
           },
           {
-            "title": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub",
-            "url": "https://github.com/redaxo/core/security/advisories/GHSA-mf2p-wjp4-99pq",
-            "snippet": "Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()` · Advisory · redaxo/core · GitHub\n\n/ core Public\n\n# Stored XSS via Unescaped Media Manager Type Name in `mediaIsInUse()`\n\nModerate\n",
+            "title": "Redox Bug Bounty",
+            "url": "https://www.bountytalk.org/index.php?topic=24283.0",
+            "snippet": "Redox Bug Bounty\n\nForums Advertising & Bounty Hub\n\nWelcome, Guest. Please login or register.\n\n1 Hour 1 Day 1 Week 1 Month Forever\n\nLogin with username, password and session length\n\n## News:\n\nBountytal",
             "published": null,
             "score": 0
           }
@@ -4054,18 +4054,18 @@
             "score": 0.5
           },
           {
-            "title": "rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept",
-            "url": "https://github.com/rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept",
-            "snippet": "# rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept\n\nProof of concept with GDB‑assisted exploitation (educational / lab use only)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default b",
-            "published": null,
+            "title": "saneki/cve-2025-49844",
+            "url": "https://github.com/saneki/cve-2025-49844",
+            "snippet": "# saneki/cve-2025-49844\n\nProof-of-concept for CVE-2025-49844\n\n- Stars: 25\n- Forks: 6\n- Watchers: 25\n- Open issues: 2\n- License: MIT License\n- Default branch: main\n- Created: 2025-10-31T05:59:25Z\n\n## L",
+            "published": "2025-10-31T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:36:55.797Z"
+        "enriched_at": "2026-09-25T05:56:41.382Z"
       },
-      "timestamp": "2026-09-18T05:36:57.363Z"
+      "timestamp": "2026-09-25T05:56:43.068Z"
     },
     "okg": {
       "intel": {
@@ -4085,10 +4085,10 @@
             "score": 0.5
           },
           {
-            "title": "Untitled",
-            "url": "https://hackmd.io/Vn1IK8BoTh-Al7UGGH7hmA",
-            "snippet": "# Vulnerability Report: 0G Foundation Reward Contract Emergency Withdrawal Exploit\n\n---\n\n## 1. Executive Summary\n\nVulnerability Name: 0G Foundation Private Key Compromise and Emergency Withdrawal Hija",
-            "published": null,
+            "title": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge",
+            "url": "https://atomicedge.io/cve-proof/cve-2025-68851-okay-toolkit-version-2-3-medium-vulnerability-proof-of-concept/",
+            "snippet": "CVE-2025-68851 – okay-toolkit Proof of Concept - Atomic Edge\n\nPublished : March 18, 2026\n\n# CVE-2025-68851: Okay Toolkit <= 2.3 Reflected Cross-Site Scripting PoC, Patch Analysis & Rule\n\n### Analysis ",
+            "published": "2026-03-18T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -4109,18 +4109,18 @@
             "score": 0.5
           },
           {
-            "title": "Young Lime Porpoise - Keeper can DoS any order through token donation griefing",
-            "url": "https://github.com/sherlock-audit/2025-07-oku-trade-order-types-judging/issues/61",
-            "snippet": "# Young Lime Porpoise - Keeper can DoS any order through token donation griefing\n\n- State: open\n- Author: sherlock-admin2\n- Created: 2025-07-31T15:23:27Z\n- Updated: 2025-07-31T15:23:27Z\n- Repository: ",
+            "title": "Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections",
+            "url": "https://github.com/sherlock-audit/2025-07-oku-trade-order-types-judging/issues/33",
+            "snippet": "# Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections\n\n- State: open\n- Author: sherlock-admin2\n- Created: 2025-07-31T15:20:40Z\n- Update",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:36:57.364Z"
+        "enriched_at": "2026-09-25T05:56:43.068Z"
       },
-      "timestamp": "2026-09-18T05:36:58.939Z"
+      "timestamp": "2026-09-25T05:56:44.684Z"
     },
     "1win_com": {
       "intel": {
@@ -4212,25 +4212,25 @@
             "score": 1
           },
           {
-            "title": "Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode",
-            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/260",
-            "snippet": "# Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode\n\n- State: open\n- Author: c4-bot-1\n- Created: 2024-03-11T18:28:20Z\n- Updated: 2024-04-29T14:31:16Z\n- ",
+            "title": "User can erase their position debt for free",
+            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/215",
+            "snippet": "# User can erase their position debt for free\n\n- State: open\n- Author: c4-bot-4\n- Created: 2024-03-11T15:57:32Z\n- Updated: 2024-04-29T14:25:52Z\n- Repository: code-423n4/2024-02-wise-lending-findings\n-",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "User can erase their position debt for free",
-            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/215",
-            "snippet": "# User can erase their position debt for free\n\n- State: open\n- Author: c4-bot-4\n- Created: 2024-03-11T15:57:32Z\n- Updated: 2024-04-29T14:25:52Z\n- Repository: code-423n4/2024-02-wise-lending-findings\n-",
+            "title": "Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode",
+            "url": "https://github.com/code-423n4/2024-02-wise-lending-findings/issues/260",
+            "snippet": "# Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode\n\n- State: open\n- Author: c4-bot-1\n- Created: 2024-03-11T18:28:20Z\n- Updated: 2024-04-29T14:31:16Z\n- ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:36:58.939Z"
+        "enriched_at": "2026-09-25T05:56:44.685Z"
       },
-      "timestamp": "2026-09-18T05:37:00.551Z"
+      "timestamp": "2026-09-25T05:56:46.309Z"
     },
     "pornbox": {
       "intel": {
@@ -4250,10 +4250,10 @@
             "score": 0.5
           },
           {
-            "title": "Is pornbox.com Safe? Security Scan Report | PCrisk",
-            "url": "https://scanner.pcrisk.com/scan-results/pornbox.com",
-            "snippet": "Is pornbox.com Safe? Security Scan Report | PCrisk\n\n# pornbox.com\n\n Category: Adult Content \n\n Scanned: Jul 30, 2026, 17:27 UTC · First seen: May 8, 2026 · Threat Engines: 0 / 91 · Times Scanned: 2 \n\n",
-            "published": "2026-05-08T00:00:00.000Z",
+            "title": "PornBox | Top Hackers | HackerOne",
+            "url": "https://hackerone.com/pornbox/thanks",
+            "snippet": "PornBox | Top Hackers | HackerOne\n\n0xpotato Reputation: 443\n\n2\n\nerrorinhuman Reputation: 214\n\n3\n\nnetfuzzer Reputation: 200\n\n4\n\nassassin_marcos Reputation: 184\n\n5\n\nredhunter01 Reputation: 153\n\nspandan0",
+            "published": null,
             "score": 0
           }
         ],
@@ -4283,9 +4283,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:37:00.551Z"
+        "enriched_at": "2026-09-25T05:56:46.309Z"
       },
-      "timestamp": "2026-09-18T05:37:02.116Z"
+      "timestamp": "2026-09-25T05:56:47.981Z"
     },
     "tron_dao": {
       "intel": {
@@ -4305,10 +4305,10 @@
             "score": 0.5
           },
           {
-            "title": "TRON Protocol Security Audit Report",
-            "url": "https://leastauthority.com/static/publications/LeastAuthority_TRON_Protocol_Audit_Report.pdf",
-            "snippet": "### TRON Protocol Security Audit Report\n\n## TRON\n\nUpdated Final Report Version: 6 March 2020\n\n### Table of Contents\n\nOverview \nBackground \nProject Dates \nReview Team \nCoverage \nTarget Code and Revisio",
-            "published": null,
+            "title": "Dissecting The TRON Honeypot Scam | Multi-Sig Trap | Hussein Saleh",
+            "url": "https://husseinsaleh.com/2026/09/04/dissecting-the-tron-honeypot-scam-how-attackers-weaponize-native-multi-sig-permissions-to-trap-usdt-and-farm-gas-fees/",
+            "snippet": "Dissecting The TRON Honeypot Scam | Multi-Sig Trap | Hussein Saleh\n\n# Dissecting the Tron Honeypot Scam | How Attackers Weaponize Native Multi-Sig Permissions to Trap USDT and Farm Gas Fees\n\n- \n\n Auth",
+            "published": "2026-09-04T07:35:55.000Z",
             "score": 0
           }
         ],
@@ -4338,9 +4338,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:37:02.117Z"
+        "enriched_at": "2026-09-25T05:56:47.981Z"
       },
-      "timestamp": "2026-09-18T05:37:03.611Z"
+      "timestamp": "2026-09-25T05:56:49.669Z"
     },
     "superbet": {
       "intel": {
@@ -4393,9 +4393,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:37:03.611Z"
+        "enriched_at": "2026-09-25T05:56:49.669Z"
       },
-      "timestamp": "2026-09-18T05:37:05.091Z"
+      "timestamp": "2026-09-25T05:56:51.361Z"
     },
     "magic-eden": {
       "intel": {
@@ -4408,17 +4408,17 @@
             "score": 1
           },
           {
+            "title": "NFT Marketplace Magic Eden Promises to Refund Users Who Were Sold Fake NFTs in ‘Massive Exploit’ | Cryptoproductivity",
+            "url": "https://www.cryptoproductivity.org/nft-marketplace-magic-eden-promises-to-refund-users-who-were-sold-fake-nfts-in-massive-exploit/",
+            "snippet": "NFT Marketplace Magic Eden Promises to Refund Users Who Were Sold Fake NFTs in ‘Massive Exploit’ | Cryptoproductivity\n\n# NFT Marketplace Magic Eden Promises to Refund Users Who Were Sold Fake NFTs in ",
+            "published": "2023-01-05T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "HackerOne",
             "url": "https://hackerone.com/magic-eden/policy_versions?change=3683280&type=team",
             "snippet": "HackerOne\n\n## Policy versions\n\nIndex: magic-eden.policy =================================================================== --- magic-eden.policy @ 2023-02-10T05:59:06.479Z +++ magic-eden.policy @ 202",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Scammers exploit NFT marketplace Magic Eden to sell fake NFTs",
-            "url": "https://coingeek.com/scammers-exploit-nft-marketplace-magic-eden-to-sell-fake-nfts/",
-            "snippet": "Scammers exploit NFT marketplace Magic Eden to sell fake NFTs\n\n# Scammers exploit NFT marketplace Magic Eden to sell fake NFTs\n\nBy Steve Kaaru\n\nPublished: Jan 10, 2023 / Last updated: Sep 19, 2025\n\n| ",
-            "published": "2025-09-10T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -4439,18 +4439,18 @@
             "score": 0.5
           },
           {
-            "title": "src/test/2026-07/MOKE_exp.sol",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2026-07/MOKE_exp.sol",
-            "snippet": "# src/test/2026-07/MOKE_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: MIT\npragma solidity ^0.8.20;\n\nimport \"forge-std/Test.sol\";\n\n// MOKE (Moke) - unp",
-            "published": null,
+            "title": "camerodev/solana-nft-sniper",
+            "url": "https://github.com/slickcharmer/solana-nft-sniper",
+            "snippet": "# Repository: camerodev/solana-nft-sniper\n\nMagic eden marketplace sniper.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (93.3%), CSS (3.5",
+            "published": "2024-03-14T01:34:27.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:37:05.091Z"
+        "enriched_at": "2026-09-25T05:56:51.362Z"
       },
-      "timestamp": "2026-09-18T05:37:06.590Z"
+      "timestamp": "2026-09-25T05:56:52.937Z"
     },
     "boozt": {
       "intel": {
@@ -4503,9 +4503,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:37:06.591Z"
+        "enriched_at": "2026-09-25T05:56:52.937Z"
       },
-      "timestamp": "2026-09-18T05:37:08.166Z"
+      "timestamp": "2026-09-25T05:56:54.599Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -6402,7 +6402,62 @@
         "enriched_at": "2026-09-22T05:55:20.769Z"
       },
       "timestamp": "2026-09-22T05:55:22.437Z"
+    },
+    "live_nation": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "How a researcher used Claude to expose a takeover flaw in Live Nation's Front Gate Tickets · Time To House",
+            "url": "https://timetohouse.com/en/articles/front-gate-tickets-claude-sql-injection",
+            "snippet": "How a researcher used Claude to expose a takeover flaw in Live Nation's Front Gate Tickets · Time To House\n\n# A Researcher Used Claude to Take Over the Ticketing Behind EDC and Bonnaroo. Ticketmaster ",
+            "published": "2026-07-07T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Claude Opus wrote the exploit that cracked Live Nation's ticketing system all by itself",
+            "url": "https://korben.info/en/claude-opus-exploit-live-nation-ticketing.html",
+            "snippet": "Aller au contenu principal\n\n❤️ Korben.info stays free — No paywall or programmatic ads, thanks to readers Support\n\n# Claude Opus wrote the exploit that cracked Live Nation's ticketing system all by it",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Hacker Uses Claude AI to Score Free Tickets for US Concerts",
+            "url": "https://www.rswebsols.com/news/hacker-exploits-claude-ai-to-obtain-complimentary-tickets-for-almost-all-us-concerts/",
+            "snippet": "Hacker Uses Claude AI to Score Free Tickets for US Concerts\n\n# Hacker Exploits Claude AI to Obtain Complimentary Tickets for Almost All US Concerts\n\n Last updated on July 5, 2026 July 5, 2026 by Neil ",
+            "published": "2026-07-05T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "noirnoir77/Livepyre",
+            "url": "https://github.com/noirnoir77/Livepyre",
+            "snippet": "# noirnoir77/Livepyre\n\nA tool designed to exploit CVE-2025-54068 and Remote Command Execution if the APP_KEY of the Livewire project is known.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- L",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "POC RCE Plausible >= 3.0.0-rc.0 and < 3.2.1",
+            "url": "https://gist.github.com/Calyhre/67337024ece3762cbc3c9e4956b0e3d4",
+            "snippet": "# POC RCE Plausible >= 3.0.0-rc.0 and < 3.2.1\n\n- Owner: Calyhre\n- Created: 2026-06-01T16:29:08Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## poc.mjs\n\nLanguage: JavaScript\n\n#!/usr/bin/env node\n//\n// CVE-",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "tc4dy/CVE-2026-6875-PoC-Exploit",
+            "url": "https://github.com/tc4dy/CVE-2026-6875-PoC-Exploit",
+            "snippet": "# tc4dy/CVE-2026-6875-PoC-Exploit\n\nCVE-2026-6875 ServiceNow Pre-Auth RCE Framework 🔥 JS Injection → Sandbox Escape → RCE → Root. Features: --detect, --exec, reverse/interactive shell, batch threading",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-09-25T05:56:37.991Z"
+      },
+      "timestamp": "2026-09-25T05:56:39.753Z"
     }
   },
-  "lastRun": "2026-09-24T05:55:46.628Z"
+  "lastRun": "2026-09-25T05:56:54.600Z"
 }
