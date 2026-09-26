@@ -1437,9 +1437,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-19T05:33:01.721Z"
+        "enriched_at": "2026-09-26T05:56:39.952Z"
       },
-      "timestamp": "2026-09-19T05:33:03.228Z"
+      "timestamp": "2026-09-26T05:56:42.297Z"
     },
     "twilio": {
       "intel": {
@@ -1452,17 +1452,17 @@
             "score": 1
           },
           {
+            "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials - InfoSec Today",
+            "url": "https://www.infosectoday.io/malicious-npm-package-poses-as-twilio-bug-bounty-probe-can-exfiltrate-credentials/",
+            "snippet": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials - InfoSec Today\n\n# Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials\n\n AndyC 23 Sept",
+            "published": "2026-09-23T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "CVE-2026-4984: Twilio Integration Information Disclosure",
             "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4984/",
             "snippet": "CVE-2026-4984: Twilio Integration Information Disclosure\n\n# CVE-2026-4984: Twilio Integration Information Disclosure\n\nCVE-2026-4984 is an information disclosure flaw in Twilio webhook integration that",
             "published": "2026-04-03T00:05:15.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Forays into Security Testing with Bugcrowd and Twilio - Nick Palmer - palmr.co.uk",
-            "url": "https://palmr.co.uk/posts/10---bugcrowd/",
-            "snippet": "Forays into Security Testing with Bugcrowd and Twilio - Nick Palmer - palmr.co.uk\n\n# Forays into Security Testing with Bugcrowd and Twilio\n\nPosted on Jan 18, 2015\n\nUntil recently I had heard of securi",
-            "published": "2015-01-18T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -1492,18 +1492,18 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-19T05:33:03.228Z"
+        "enriched_at": "2026-09-26T05:56:42.298Z"
       },
-      "timestamp": "2026-09-19T05:33:04.709Z"
+      "timestamp": "2026-09-26T05:56:44.257Z"
     },
     "doordash": {
       "intel": {
         "writeups": [
           {
-            "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute - Geek Feed",
-            "url": "https://geekfeed.net/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
-            "snippet": "DoorDash email spoofing vulnerability sparks messy disclosure dispute - Geek Feed\n\n# DoorDash email spoofing vulnerability sparks messy disclosure dispute\n\n November 19, 2025 November 19, 2025 geekfee",
-            "published": "2025-11-19T14:48:15.000Z",
+            "title": "DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical Clashes | LavX News",
+            "url": "https://news.lavx.hu/article/doordash-email-spoofing-flaw-ignites-bug-bounty-battle-15-months-of-neglect-and-ethical-clashes",
+            "snippet": "DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical Clashes | LavX News\n\n# DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical",
+            "published": "2025-11-17T00:00:00.000Z",
             "score": 1
           },
           {
@@ -1547,9 +1547,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-19T05:33:04.710Z"
+        "enriched_at": "2026-09-26T05:56:44.258Z"
       },
-      "timestamp": "2026-09-19T05:33:06.213Z"
+      "timestamp": "2026-09-26T05:56:45.936Z"
     },
     "robinhood": {
       "intel": {
@@ -1602,9 +1602,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-19T05:33:06.213Z"
+        "enriched_at": "2026-09-26T05:56:45.936Z"
       },
-      "timestamp": "2026-09-19T05:33:07.666Z"
+      "timestamp": "2026-09-26T05:56:47.742Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1665,17 +1665,17 @@
       "intel": {
         "writeups": [
           {
-            "title": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/banco_plata",
-            "snippet": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com\n\n# banco_plata\n\n2 Out of Scope\n\nIn-Scope Assets (4)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| *.bancopl",
+            "title": "Banco Plata | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/banco_plata/hacktivity",
+            "snippet": "Banco Plata | Hacktivity | HackerOne\n\nBanco Plata\n\nBug reported by\n\nabd\n\nwas resolved\n\n6 months ago\n\nBanco Plata\n\nBounty launched in Jan 2026\n\nResponse efficiency: 99%\n\nSeverity\n\nRewards\n\nSeverity\n\nRe",
             "published": null,
             "score": 1
           },
           {
-            "title": "Banco Plata Bug Bounty Program - BBRadar.io",
-            "url": "https://bbradar.io/program/HackerOne:banco_plata",
-            "snippet": "Banco Plata Bug Bounty Program - BBRadar.io\n\n# Banco Plata\n\nBug Bounty program\n\nReward Range\n\n$100 - $3,000\n\nPlatform\n\nHackerone\n\nAdded\n\nJan 8, 2026\n\nReport count\n\nScope\n\ndomain mobile wildcard\n\nJan 8",
-            "published": "2024-01-01T00:00:00.000Z",
+            "title": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com",
+            "url": "https://bbscope.com/program/h1/banco_plata",
+            "snippet": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com\n\n# banco_plata\n\n2 Out of Scope\n\nIn-Scope Assets (4)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| *.bancopl",
+            "published": null,
             "score": 0.5
           },
           {
@@ -1712,9 +1712,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-19T05:33:09.170Z"
+        "enriched_at": "2026-09-26T05:56:47.743Z"
       },
-      "timestamp": "2026-09-19T05:33:10.769Z"
+      "timestamp": "2026-09-26T05:56:49.334Z"
     },
     "netscaler_public_program": {
       "intel": {
@@ -1767,9 +1767,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-19T05:33:10.770Z"
+        "enriched_at": "2026-09-26T05:56:49.334Z"
       },
-      "timestamp": "2026-09-19T05:33:12.234Z"
+      "timestamp": "2026-09-26T05:56:50.893Z"
     },
     "meesho_bbp": {
       "intel": {
@@ -5849,9 +5849,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-19T05:33:00.232Z"
+        "enriched_at": "2026-09-26T05:56:38.226Z"
       },
-      "timestamp": "2026-09-19T05:33:01.721Z"
+      "timestamp": "2026-09-26T05:56:39.952Z"
     },
     "anthropic": {
       "intel": {
@@ -5929,7 +5929,7 @@
             "title": "Tourism platform Agoda launches public bug bounty program on HackerOne, rewards up to $6,000 - TNGlobal",
             "url": "https://technode.global/2026/06/23/tourism-platform-agoda-launches-public-bug-bounty-program-on-hackerone-rewards-up-to-6000/",
             "snippet": "Tourism platform Agoda launches public bug bounty program on HackerOne, rewards up to $6,000 - TNGlobal\n\n## Tourism platform Agoda launches public bug bounty program on HackerOne, rewards up to $6,000",
-            "published": "2026-06-23T09:10:40.000Z",
+            "published": "2026-06-23T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5959,9 +5959,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-19T05:32:58.748Z"
+        "enriched_at": "2026-09-26T05:56:36.475Z"
       },
-      "timestamp": "2026-09-19T05:33:00.231Z"
+      "timestamp": "2026-09-26T05:56:38.226Z"
     },
     "yuga_labs": {
       "intel": {
@@ -6115,18 +6115,18 @@
             "score": 0.5
           },
           {
-            "title": "mrx-arafat/CVE-2026-63030-POC",
-            "url": "https://github.com/mrx-arafat/CVE-2026-63030-POC",
-            "snippet": "# mrx-arafat/CVE-2026-63030-POC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-07-18T17:07:39Z\n\n## Languages\n\n- Python\n\n## Top Cont",
+            "title": "sowarma/wp2shell-PoC",
+            "url": "https://github.com/sowarma/wp2shell-PoC",
+            "snippet": "# sowarma/wp2shell-PoC\n\nCVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept\n\n- Stars: 185\n- Forks: 22\n- Watchers: 185\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-05T12:48:03Z\n\n##",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-19T05:32:56.875Z"
+        "enriched_at": "2026-09-26T05:56:34.665Z"
       },
-      "timestamp": "2026-09-19T05:32:58.748Z"
+      "timestamp": "2026-09-26T05:56:36.475Z"
     },
     "vercel_sandbox": {
       "intel": {
@@ -6457,7 +6457,62 @@
         "enriched_at": "2026-09-25T05:56:37.991Z"
       },
       "timestamp": "2026-09-25T05:56:39.753Z"
+    },
+    "kaltura": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "One Parameter, Two Bugs: From a Forgotten Video Player to Unauthenticated RCE · AndDone",
+            "url": "https://anddone-git.github.io/2026/one-parameter-two-bugs/",
+            "snippet": "One Parameter, Two Bugs: From a Forgotten Video Player to Unauthenticated RCE · AndDone\n\n# One Parameter, Two Bugs: From a Forgotten Video Player to Unauthenticated RCE\n\nA bug bounty hunt that started",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Kaltura mwEmbed/html5lib video player: unauthenticated RCE and arbitrary file read via an undocumented ServiceUrl parameter; patched for legacy Player V2 after months of no vendor response, 630+ exposed instances found by the discoverer",
+            "url": "https://ctipilot.ch/entries/2026-08-28/kaltura-mwembed-unauth-rce-file-read-no-patch/",
+            "snippet": "Kaltura mwEmbed/html5lib video player: unauthenticated RCE and arbitrary file read via an undocumented ServiceUrl parameter; patched for legacy Player V2 after months of no vendor response, 630+ expos",
+            "published": "2026-08-28T06:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Unpatched Kaltura HTML5 Player Bugs Enable RCE, Data Theft",
+            "url": "https://cybersecurefox.com/en/kaltura-html5lib-rce-file-read-vulnerabilities/",
+            "snippet": "Unpatched Kaltura HTML5 Player Bugs Enable RCE, Data Theft\n\n# CERT/CC discloses Kaltura HTML5lib RCE and file read flaws\n\nCyberSecureFox Editorial Team\n\nPublished: 27.08.2026\n\nThe CERT Coordination Ce",
+            "published": "2026-08-27T14:33:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "modules/exploits/linux/http/kaltura_unserialize_cookie_rce.rb",
+            "url": "https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/kaltura_unserialize_cookie_rce.rb",
+            "snippet": "# modules/exploits/linux/http/kaltura_unserialize_cookie_rce.rb\n\n- Branch: master\n- Repository: rapid7/metasploit-framework\n\n---\n\n##\n# This module requires Metasploit: https://metasploit.com/download\n",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Kaltura <= 13.1.0 Remote Code Execution (CVE-2017-14143)",
+            "url": "https://gist.github.com/rverton/8b1ae5aa3d5e344559703c9b86e5e3aa",
+            "snippet": "# Gist: Kaltura <= 13.1.0 Remote Code Execution (CVE-2017-14143)\n\n- Author: [@rverton](https://github.com/rverton)\n- Public gist (1 file)\n- Created: 2017-10-24T16:35:05Z\n- Updated: 2017-10-24T16:35:05",
+            "published": "2017-10-24T16:35:05.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "modules/exploits/linux/http/kaltura_unserialize_rce.rb at master · rapid7/metasploit-framework",
+            "url": "https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/kaltura_unserialize_rce.rb",
+            "snippet": "# File: rapid7/metasploit-framework/modules/exploits/linux/http/kaltura_unserialize_rce.rb\n\n- Repository: rapid7/metasploit-framework | Metasploit Framework | 38K stars | Ruby\n- Branch: master\n\n```rb\n",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-09-26T05:56:50.893Z"
+      },
+      "timestamp": "2026-09-26T05:56:52.442Z"
     }
   },
-  "lastRun": "2026-09-25T05:56:54.600Z"
+  "lastRun": "2026-09-26T05:56:52.442Z"
 }
