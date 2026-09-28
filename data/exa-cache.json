@@ -2360,14 +2360,21 @@
             "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
             "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "exploit/exploit.py",
+            "url": "https://github.com/imbas007/CVE-2026-42533/blob/782319ca/exploit/exploit.py",
+            "snippet": "# exploit/exploit.py\n\n- Branch: 782319ca\n- Repository: imbas007/CVE-2026-42533\n\n---\n\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-42533 — nginx Heap Buffer Overflow — Full Exploit Chain\nPre-Auth Remote Code Ex",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 5,
-        "enriched_at": "2026-09-21T05:58:48.214Z"
+        "total_results": 6,
+        "enriched_at": "2026-09-28T06:25:07.782Z"
       },
-      "timestamp": "2026-09-21T05:58:50.049Z"
+      "timestamp": "2026-09-28T06:25:09.555Z"
     },
     "bumba_bbp": {
       "intel": {
@@ -2382,7 +2389,7 @@
           {
             "title": "Bumba Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/bumba/",
-            "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nBounty \n\n## Program Details \n\n Handle \n: bumba_bbp \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 15 days \nResolution Time\n: 2171 days \n\n Resp",
+            "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nBounty \n\n## Program Details \n\n Handle \n: bumba_bbp \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 19 days \nResolution Time\n: 2171 days \n\n Resp",
             "published": null,
             "score": 0.5
           },
@@ -2420,9 +2427,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-21T05:58:50.049Z"
+        "enriched_at": "2026-09-28T06:25:09.556Z"
       },
-      "timestamp": "2026-09-21T05:58:51.639Z"
+      "timestamp": "2026-09-28T06:25:11.229Z"
     },
     "starbucks_japan": {
       "intel": {
@@ -2442,10 +2449,10 @@
             "score": 0.5
           },
           {
-            "title": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies",
-            "url": "https://dreamlab.net/en/blog/post/starbucks-idor-how-we-prevented-an-information-leak-of-6-million-starbucks-customers/",
-            "snippet": "Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers - Dreamlab Technologies\n\n# Starbucks IDOR: How we prevented an information leak of 6 million Starbucks customers\n\n",
-            "published": "2020-03-18T11:02:05.000Z",
+            "title": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec",
+            "url": "http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/",
+            "snippet": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec\n\n# RCE on Starbucks Singapore and more for $5600\n\nPosted at — Apr 3, 2021\n\n### Recon\n\nAfter I found a critical vulnerabili",
+            "published": "2021-04-03T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2475,9 +2482,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-21T05:58:51.639Z"
+        "enriched_at": "2026-09-28T06:25:11.229Z"
       },
-      "timestamp": "2026-09-21T05:58:53.272Z"
+      "timestamp": "2026-09-28T06:25:12.863Z"
     },
     "starbucks_china": {
       "intel": {
@@ -2530,9 +2537,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-21T05:58:53.272Z"
+        "enriched_at": "2026-09-28T06:25:12.864Z"
       },
-      "timestamp": "2026-09-21T05:58:54.903Z"
+      "timestamp": "2026-09-28T06:25:14.586Z"
     },
     "syfe_bbp": {
       "intel": {
@@ -2569,25 +2576,25 @@
             "score": 1
           },
           {
-            "title": "TYehan/CVE-2025-58434-59528",
-            "url": "https://github.com/tyehan/cve-2025-58434-59528",
-            "snippet": "# Repository: TYehan/CVE-2025-58434-59528\n\nCVE-2025-58434 and CVE-2025-59528 chain POC - FlowiseAI Remote Code Execution\n\n- Stars: 5\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Pytho",
-            "published": "2026-04-12T06:39:37.000Z",
-            "score": 0.5
-          },
-          {
             "title": "It is possible to steal all users' money due to incorrect price calculation",
             "url": "https://github.com/code-423n4/2023-03-asymmetry-findings/issues/461",
             "snippet": "# It is possible to steal all users' money due to incorrect price calculation\n\n- State: closed\n- Author: code423n4\n- Created: 2023-03-29T12:58:43Z\n- Updated: 2023-04-21T14:56:46Z\n- Repository: code-42",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "TYehan/CVE-2025-58434-59528",
+            "url": "https://github.com/tyehan/cve-2025-58434-59528",
+            "snippet": "# Repository: TYehan/CVE-2025-58434-59528\n\nCVE-2025-58434 and CVE-2025-59528 chain POC - FlowiseAI Remote Code Execution\n\n- Stars: 5\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Pytho",
+            "published": "2026-04-12T06:39:37.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-21T05:58:54.904Z"
+        "enriched_at": "2026-09-28T06:25:14.587Z"
       },
-      "timestamp": "2026-09-21T05:58:56.632Z"
+      "timestamp": "2026-09-28T06:25:16.262Z"
     },
     "nba-public": {
       "intel": {
@@ -2631,18 +2638,18 @@
             "score": 0.5
           },
           {
-            "title": "c0gnit00/CVE-2026-33937",
-            "url": "https://github.com/c0gnit00/CVE-2026-33937",
-            "snippet": "# c0gnit00/CVE-2026-33937\n\nPython POC, Exploit for Handlebars.js AST Injection RCE, Handlebars.js versions 4.0.0 through 4.7.8 are affected. CVSS score: 9.8 Critical.\n\n- Stars: 1\n- Forks: 0\n- Watchers",
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-21T05:58:56.632Z"
+        "enriched_at": "2026-09-28T06:25:16.263Z"
       },
-      "timestamp": "2026-09-21T05:58:58.255Z"
+      "timestamp": "2026-09-28T06:25:18.001Z"
     },
     "circle-bbp": {
       "intel": {
@@ -2662,10 +2669,10 @@
             "score": 0.5
           },
           {
-            "title": "(unspecified)",
-            "url": "https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/CCTP/%5BPublic%5D%20%5BChainSecurity%5D%20Circle_Gateway_audit.pdf",
-            "snippet": "##### PUBLIC\n\n## Code Assessment of the Circle Gateway Smart Contracts\n\nJuly 08, 2025\n\nProduced for\n\nby\n\n### Contents\n\n1 Executive Summary 3 \n2 Assessment Overview 5 \n3 Limitations and use of report 1",
-            "published": null,
+            "title": "Vicious Circle: Owning CircleCI's MCP Server With a Filename and a DNS Record - Pluto Security",
+            "url": "https://pluto.security/blog/vicious-circle-owning-circlecis-mcp-server-with-a-filename-and-a-dns-record/",
+            "snippet": "Vicious Circle: Owning CircleCI's MCP Server With a Filename and a DNS Record - Pluto Security\n\n# Vicious Circle: Owning CircleCI’s MCP Server With a Filename and a DNS Record\n\nYotam Perkal\n\nAvishai G",
+            "published": "2026-07-29T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2695,9 +2702,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-21T05:58:58.255Z"
+        "enriched_at": "2026-09-28T06:25:18.001Z"
       },
-      "timestamp": "2026-09-21T05:58:59.868Z"
+      "timestamp": "2026-09-28T06:25:19.653Z"
     },
     "varonis": {
       "intel": {
@@ -2750,9 +2757,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-21T05:58:59.868Z"
+        "enriched_at": "2026-09-28T06:25:19.653Z"
       },
-      "timestamp": "2026-09-21T05:59:01.461Z"
+      "timestamp": "2026-09-28T06:25:21.346Z"
     },
     "klarna": {
       "intel": {
@@ -2815,7 +2822,7 @@
           {
             "title": "Unico IDtech Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/unico-idtech/",
-            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nBounty \n\n## Program Details \n\n Handle \n: unico_idtech \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 8 days \nBounty Time\n: 312 d",
+            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nBounty \n\n## Program Details \n\n Handle \n: unico_idtech \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 9 days \nBounty Time\n: 370 d",
             "published": null,
             "score": 1
           },
@@ -2860,31 +2867,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-21T05:59:01.461Z"
+        "enriched_at": "2026-09-28T06:25:21.347Z"
       },
-      "timestamp": "2026-09-21T05:59:03.075Z"
+      "timestamp": "2026-09-28T06:25:23.013Z"
     },
     "wallet_on_telegram": {
       "intel": {
         "writeups": [
           {
-            "title": "TENET: Telegram Mini App (in)security",
-            "url": "http://arxiv.org/pdf/2608.17538",
-            "snippet": "TENET: TELEGRAM MINI APP (IN)SECURITY\n\nANDREA CICCOTELLI 1 , FEDERICO ZAPPONE 2 , AND ROBERTO DI PIETRO 1\n\n1King Abdullah University of Science and Technology (KAUST) Computer, Electrical and Mathemat",
+            "title": "Wallet on Telegram — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/wallet_on_telegram",
+            "snippet": "Wallet on Telegram — HackerOne bug bounty | BountyHunte.rs\n\n# Wallet on Telegram\n\nReward range\n\n$100 – $100,000\n\nListed provider data. Verify current payout terms and eligibility at the source; a list",
             "published": null,
             "score": 1
           },
           {
-            "title": "[BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)",
-            "url": "https://github.com/Scottcjn/rustchain-bounties/issues/69",
-            "snippet": "# [BOUNTY] 🔴 Red Team: Python SDK & Telegram Bot Security Audit (75 RTC)\n\n- State: closed\n- Author: Scottcjn\n- Created: 2026-02-06T01:03:51Z\n- Updated: 2026-03-26T12:52:10Z\n- Repository: Scottcjn/rus",
+            "title": "TENET: Telegram Mini App (in)security",
+            "url": "http://arxiv.org/pdf/2608.17538",
+            "snippet": "TENET: TELEGRAM MINI APP (IN)SECURITY\n\nANDREA CICCOTELLI 1 , FEDERICO ZAPPONE 2 , AND ROBERTO DI PIETRO 1\n\n1King Abdullah University of Science and Technology (KAUST) Computer, Electrical and Mathemat",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "OSV - Open Source Vulnerabilities",
-            "url": "https://osv.dev/vulnerability/MAL-2026-13346",
-            "snippet": "OSV - Open Source Vulnerabilities\n\nImport Source\n: https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/hdkey-wallet/MAL-2026-13346.json\nJSON Data\n: https://api.osv.dev/v1/vulns/MAL-",
+            "title": "Wallet on Telegram | Security Program",
+            "url": "https://ooosec.com/programs/wallet-on-telegram",
+            "snippet": "Wallet on Telegram | Security Program\n\n## Program Overview\n\nWallet on Telegram looks forward to working with the security community to find vulnerabilities in order to keep our businesses and customer",
             "published": null,
             "score": 0
           }
@@ -2915,9 +2922,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-21T05:59:03.075Z"
+        "enriched_at": "2026-09-28T06:25:23.013Z"
       },
-      "timestamp": "2026-09-21T05:59:04.769Z"
+      "timestamp": "2026-09-28T06:25:24.751Z"
     },
     "chia_network": {
       "intel": {
@@ -6514,5 +6521,5 @@
       "timestamp": "2026-09-26T05:56:52.442Z"
     }
   },
-  "lastRun": "2026-09-27T06:22:57.302Z"
+  "lastRun": "2026-09-28T06:25:24.751Z"
 }
