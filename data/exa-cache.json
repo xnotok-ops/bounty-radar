@@ -4549,25 +4549,25 @@
             "score": 1
           },
           {
-            "title": "yoerivegt/wp2shell-poc",
-            "url": "https://github.com/yoerivegt/wp2shell-poc",
-            "snippet": "# yoerivegt/wp2shell-poc\n\nwp2shell (CVE-2026-60137 / CVE-2026-63030)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-18T19:02:08Z\n\n## Languages\n\n- Pytho",
+            "title": "exploit/exploit.py",
+            "url": "https://github.com/imbas007/CVE-2026-42533/blob/782319ca/exploit/exploit.py",
+            "snippet": "# exploit/exploit.py\n\n- Branch: 782319ca\n- Repository: imbas007/CVE-2026-42533\n\n---\n\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-42533 — nginx Heap Buffer Overflow — Full Exploit Chain\nPre-Auth Remote Code Ex",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Boreas37/CVE-2026-64638-PoC",
-            "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
-            "snippet": "# Boreas37/CVE-2026-64638-PoC\n\nXSS2Shell (CVE-2026-64638) PoC — WordPress pre-auth XSS to RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-07T1",
+            "title": "0xCyberstan/CVE-2026-42533-POC",
+            "url": "https://github.com/0xCyberstan/CVE-2026-42533-POC",
+            "snippet": "# 0xCyberstan/CVE-2026-42533-POC\n\nCVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-18T05:37:08.166Z"
+        "enriched_at": "2026-09-29T06:39:14.225Z"
       },
-      "timestamp": "2026-09-18T05:37:09.667Z"
+      "timestamp": "2026-09-29T06:39:15.889Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -4588,7 +4588,7 @@
           },
           {
             "title": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman",
-            "url": "https://cdn-4.timesofoman.com/article/122530-vodafone-oman-challenges-local-and-international-ethical-hackers-to-to-take-their-best-shot",
+            "url": "https://timesofoman.com/article/122530-vodafone-oman-challenges-local-and-international-ethical-hackers-to-to-take-their-best-shot",
             "snippet": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman\n\n# Vodafone Oman challenges local and international ethical hackers to to take their best sh",
             "published": "2022-10-19T00:00:00.000Z",
             "score": 0
@@ -4620,9 +4620,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:18.950Z"
+        "enriched_at": "2026-09-29T06:39:15.889Z"
       },
-      "timestamp": "2026-09-22T05:55:20.769Z"
+      "timestamp": "2026-09-29T06:39:17.495Z"
     },
     "frontegg": {
       "intel": {
@@ -4730,9 +4730,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:22.437Z"
+        "enriched_at": "2026-09-29T06:39:19.071Z"
       },
-      "timestamp": "2026-09-22T05:55:24.106Z"
+      "timestamp": "2026-09-29T06:39:20.675Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4833,9 +4833,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:24.106Z"
+        "enriched_at": "2026-09-29T06:39:20.675Z"
       },
-      "timestamp": "2026-09-22T05:55:25.789Z"
+      "timestamp": "2026-09-29T06:39:22.184Z"
     },
     "mergify": {
       "intel": {
@@ -4888,9 +4888,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:25.789Z"
+        "enriched_at": "2026-09-29T06:39:22.184Z"
       },
-      "timestamp": "2026-09-22T05:55:27.508Z"
+      "timestamp": "2026-09-29T06:39:23.730Z"
     },
     "coinhako": {
       "intel": {
@@ -5020,9 +5020,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:29.202Z"
+        "enriched_at": "2026-09-29T06:39:25.970Z"
       },
-      "timestamp": "2026-09-22T05:55:30.829Z"
+      "timestamp": "2026-09-29T06:39:27.499Z"
     },
     "alsco": {
       "intel": {
@@ -5035,16 +5035,16 @@
             "score": 1
           },
           {
-            "title": "ACSC 2024 writeup - HackMD",
-            "url": "https://hackmd.io/@BlackFrost/BJeEgqNZR",
-            "snippet": "ACSC 2024 writeup - HackMD\n\n# ACSC 2024 writeup ## Web: ### Login! A simple login page, our target is to login as `user`. ```javascript const user = USER_DB[username]; if (user && user.password == pas",
+            "title": "NoScope: Finding RCE",
+            "url": "https://thm-write-ups.hashnode.dev/noscope",
+            "snippet": "# NoScope: Finding RCE\n\n---\n\n## Lab Info\n\n| Detail | Info |\n| --- | --- |\n| Room | NoScope: Finding RCE |\n| Platform | TryHackMe |\n| Difficulty | Medium |\n| Type | CVE Exploitation / AI-Assisted Pente",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "ALSCO — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/alsco",
-            "snippet": "ALSCO — HackerOne bug bounty | BountyHunte.rs\n\n# ALSCO\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is not a g",
+            "title": "ACSC 2024 writeup - HackMD",
+            "url": "https://hackmd.io/@BlackFrost/BJeEgqNZR",
+            "snippet": "ACSC 2024 writeup - HackMD\n\n# ACSC 2024 writeup ## Web: ### Login! A simple login page, our target is to login as `user`. ```javascript const user = USER_DB[username]; if (user && user.password == pas",
             "published": null,
             "score": 0
           }
@@ -5075,9 +5075,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:30.830Z"
+        "enriched_at": "2026-09-29T06:39:27.499Z"
       },
-      "timestamp": "2026-09-22T05:55:32.603Z"
+      "timestamp": "2026-09-29T06:39:29.045Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5792,18 +5792,18 @@
             "score": 0.5
           },
           {
-            "title": "darkbytehunter/CVE-2024-22120-RCE-with-gopher",
-            "url": "https://github.com/darkbytehunter/CVE-2024-22120-RCE-with-gopher",
-            "snippet": "# darkbytehunter/CVE-2024-22120-RCE-with-gopher\n\nProof-of-concept exploit for CVE-2024-22120 that leverages time-based SQL injection and gopher-based SSRF to achieve remote code execution on vulnerabl",
+            "title": "g4nkd/CVE-2024-22120-RCE-with-gopher",
+            "url": "https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher",
+            "snippet": "# g4nkd/CVE-2024-22120-RCE-with-gopher\n\nThis exploit was created to exploit an XXE (XML External Entity). Through it, I read the backend code of the web service and found an endpoint where I could use",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:27.508Z"
+        "enriched_at": "2026-09-29T06:39:23.730Z"
       },
-      "timestamp": "2026-09-22T05:55:29.202Z"
+      "timestamp": "2026-09-29T06:39:25.969Z"
     },
     "coupang_tw": {
       "intel": {
@@ -6060,25 +6060,25 @@
             "score": 1
           },
           {
-            "title": "0xdak/CVE-2026-53595_exploit",
-            "url": "https://github.com/0xdak/CVE-2026-53595_exploit",
-            "snippet": "# 0xdak/CVE-2026-53595_exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-21T19:36:31Z\n\n## Languages\n\n- Shell\n\n## Top Contributors\n\n- 0xdak (1 cont",
+            "title": "AChecker/CVE-2024-34523.md",
+            "url": "https://github.com/piuppi/Proof-of-Concepts/blob/main/AChecker/CVE-2024-34523.md",
+            "snippet": "# AChecker/CVE-2024-34523.md\n\n- Branch: main\n- Repository: piuppi/Proof-of-Concepts\n\n---\n\n# CVE-2024-34523: AChecker 1.5 Unauthenticated Path Traversal\nScreenshot\n### Overview\nAChecker (https://github",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "AChecker/CVE-2024-34523.md",
-            "url": "https://github.com/piuppi/Proof-of-Concepts/blob/main/AChecker/CVE-2024-34523.md",
-            "snippet": "# AChecker/CVE-2024-34523.md\n\n- Branch: main\n- Repository: piuppi/Proof-of-Concepts\n\n---\n\n# CVE-2024-34523: AChecker 1.5 Unauthenticated Path Traversal\nScreenshot\n### Overview\nAChecker (https://github",
+            "title": "0xdak/CVE-2026-53595_exploit",
+            "url": "https://github.com/0xdak/CVE-2026-53595_exploit",
+            "snippet": "# 0xdak/CVE-2026-53595_exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-21T19:36:31Z\n\n## Languages\n\n- Shell\n\n## Top Contributors\n\n- 0xdak (1 cont",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:32.603Z"
+        "enriched_at": "2026-09-29T06:39:29.046Z"
       },
-      "timestamp": "2026-09-22T05:55:34.236Z"
+      "timestamp": "2026-09-29T06:39:30.570Z"
     },
     "wolt": {
       "intel": {
@@ -6390,25 +6390,25 @@
             "score": 1
           },
           {
-            "title": "yuchant/critical-cve-demo",
-            "url": "https://github.com/yuchant/critical-cve-demo",
-            "snippet": "# yuchant/critical-cve-demo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- Default branch: main\n- Created: 2025-12-09T07:14:20Z\n\n## Languages\n\n- CSS\n- TypeScript\n\n## Top Contributors\n\n- yucha",
+            "title": "fix(security): arbitrary code execution via path traversal in x-matched-path header",
+            "url": "https://github.com/vercel/vercel/pull/15995",
+            "snippet": "# fix(security): arbitrary code execution via path traversal in x-matched-path header\n\n- State: open\n- Author: failsafesecurity\n- Created: 2026-04-16T01:54:51Z\n- Updated: 2026-04-22T07:16:53Z\n- Reposi",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "fix(security): arbitrary code execution via path traversal in x-matched-path header",
-            "url": "https://github.com/vercel/vercel/pull/15995",
-            "snippet": "# fix(security): arbitrary code execution via path traversal in x-matched-path header\n\n- State: open\n- Author: failsafesecurity\n- Created: 2026-04-16T01:54:51Z\n- Updated: 2026-04-22T07:16:53Z\n- Reposi",
+            "title": "yuchant/critical-cve-demo",
+            "url": "https://github.com/yuchant/critical-cve-demo",
+            "snippet": "# yuchant/critical-cve-demo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- Default branch: main\n- Created: 2025-12-09T07:14:20Z\n\n## Languages\n\n- CSS\n- TypeScript\n\n## Top Contributors\n\n- yucha",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:20.769Z"
+        "enriched_at": "2026-09-29T06:39:17.496Z"
       },
-      "timestamp": "2026-09-22T05:55:22.437Z"
+      "timestamp": "2026-09-29T06:39:19.071Z"
     },
     "live_nation": {
       "intel": {
@@ -6521,5 +6521,5 @@
       "timestamp": "2026-09-26T05:56:52.442Z"
     }
   },
-  "lastRun": "2026-09-28T06:25:24.751Z"
+  "lastRun": "2026-09-29T06:39:30.570Z"
 }
