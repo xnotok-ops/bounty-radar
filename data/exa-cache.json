@@ -2944,10 +2944,10 @@
             "score": 0.5
           },
           {
-            "title": "NVD - CVE-2026-3194",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-3194",
-            "snippet": "NVD - CVE-2026-3194\n\n### Description \n\nA flaw has been found in Chia Blockchain 2.1.0. The affected element is the function send_transaction/get_private_key of the component RPC Server Master Passphra",
-            "published": null,
+            "title": "CAT1 Vulnerability Explained - CVE and CWE - Chia Network",
+            "url": "https://www.chia.net/2022/07/29/cat1-vulnerability-explained-cve-and-cwe/",
+            "snippet": "CAT1 Vulnerability Explained - CVE and CWE - Chia Network\n\n##### Chia Blog\n\n# CAT1 Vulnerability Explained – CVE and CWE\n\n###### July 29, 2022\n\n###### by Chia Team\n\nPart of our commitment to the secur",
+            "published": "2022-07-29T19:55:00.000Z",
             "score": 0
           }
         ],
@@ -2977,9 +2977,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:28.179Z"
+        "enriched_at": "2026-09-30T06:21:58.980Z"
       },
-      "timestamp": "2026-09-23T05:36:30.182Z"
+      "timestamp": "2026-09-30T06:22:00.654Z"
     },
     "3cx": {
       "intel": {
@@ -3009,16 +3009,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "CVE-2023-49954/CVE-2023-49954.github.io",
-            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954",
-            "snippet": "# CVE-2023-49954/CVE-2023-49954.github.io\n\nSQL Injection in 3CX CRM Integration\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2023-12-14T18:38:28Z\n\n## Top Con",
+            "title": "http/vulnerabilities/other/3cx-management-console.yaml",
+            "url": "https://github.com/projectdiscovery/nuclei-templates/blob/main/http/vulnerabilities/other/3cx-management-console.yaml",
+            "snippet": "# http/vulnerabilities/other/3cx-management-console.yaml\n\n- Branch: main\n- Repository: projectdiscovery/nuclei-templates\n\n---\n\nid: 3cx-management-console\n\ninfo:\n name: 3CX Management Console - Local F",
             "published": null,
             "score": 1
           },
           {
-            "title": "http/vulnerabilities/other/3cx-management-console.yaml",
-            "url": "https://github.com/projectdiscovery/nuclei-templates/blob/main/http/vulnerabilities/other/3cx-management-console.yaml",
-            "snippet": "# http/vulnerabilities/other/3cx-management-console.yaml\n\n- Branch: main\n- Repository: projectdiscovery/nuclei-templates\n\n---\n\nid: 3cx-management-console\n\ninfo:\n name: 3CX Management Console - Local F",
+            "title": "CVE-2023-49954/CVE-2023-49954.github.io",
+            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954",
+            "snippet": "# CVE-2023-49954/CVE-2023-49954.github.io\n\nSQL Injection in 3CX CRM Integration\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2023-12-14T18:38:28Z\n\n## Top Con",
             "published": null,
             "score": 0.5
           },
@@ -3032,9 +3032,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:30.183Z"
+        "enriched_at": "2026-09-30T06:22:00.654Z"
       },
-      "timestamp": "2026-09-23T05:36:31.880Z"
+      "timestamp": "2026-09-30T06:22:02.304Z"
     },
     "privy-bbp": {
       "intel": {
@@ -3054,10 +3054,10 @@
             "score": 0.5
           },
           {
-            "title": "Untitled",
-            "url": "https://privy-c2af3412.mintlify.app/security/security-faqs",
-            "snippet": "> ## Documentation Index\n> \n> Fetch the complete documentation index at: https://docs.privy.io/llms.txt\n> Use this file to discover all available pages before exploring further.\n\n# Threat models & sec",
-            "published": null,
+            "title": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library",
+            "url": "https://www.privy.io/blog/shamir-secret-sharing-deep-dive",
+            "snippet": "Privy Blog | Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\n## Sharing the secret: a peek under the hood of Privy’s Shamir Secret Sharing library\n\nS\n\n|\n\nAug 7, 202",
+            "published": "2024-08-07T04:30:05.000Z",
             "score": 0
           }
         ],
@@ -3078,18 +3078,18 @@
             "score": 0.5
           },
           {
-            "title": "examples/examples/privy-next-yield-demo at main · privy-io/examples · GitHub",
-            "url": "https://github.com/privy-io/examples/tree/main/examples/privy-next-yield-demo",
-            "snippet": "examples/examples/privy-next-yield-demo at main · privy-io/examples · GitHub\n\n/ examples Public\n\n## Files\n\nmain\n\n# privy-next-yield-demo\n\nView commit history for this file.\n\nmain\n\n# privy-next-yield-d",
-            "published": "2025-09-16T02:56:10.000Z",
+            "title": "tuantran-genetica/privy-demo",
+            "url": "https://github.com/tuantran-genetica/privy-demo",
+            "snippet": "# tuantran-genetica/privy-demo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2025-09-17T07:18:30Z\n\n## Languages\n\n- CSS\n- HTML\n- JavaScript\n- Solidity\n\n## To",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:31.880Z"
+        "enriched_at": "2026-09-30T06:22:02.304Z"
       },
-      "timestamp": "2026-09-23T05:36:33.654Z"
+      "timestamp": "2026-09-30T06:22:03.922Z"
     },
     "netflix": {
       "intel": {
@@ -3142,9 +3142,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:33.654Z"
+        "enriched_at": "2026-09-30T06:22:03.922Z"
       },
-      "timestamp": "2026-09-23T05:36:35.518Z"
+      "timestamp": "2026-09-30T06:22:05.550Z"
     },
     "23andme_bbp": {
       "intel": {
@@ -3159,8 +3159,8 @@
           {
             "title": "23andMe Credential Stuffing: When Relatives Are the Payload | Hmmnm",
             "url": "https://hmmnm.com/23andme-credential-stuffing-attack/",
-            "snippet": "23andMe Credential Stuffing: When Relatives Are the Payload | Hmmnm\n\n# 23andMe Credential Stuffing: When Relatives Are the Payload\n\n Hmmnm cover v2 — TECHNOLOGY \n\n## 23andMe Credential Stuffing: When ",
-            "published": "2023-10-25T06:45:00.000Z",
+            "snippet": "23andMe Credential Stuffing: When Relatives Are the Payload | Hmmnm\n\n# 23andMe Credential Stuffing: When Relatives Are the Payload\n\n- Post author: Prabhu Kalyan Samal\n- Post published: September 5, 20",
+            "published": "2026-09-04T18:17:19.000Z",
             "score": 0.5
           },
           {
@@ -3197,9 +3197,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:35.518Z"
+        "enriched_at": "2026-09-30T06:22:05.551Z"
       },
-      "timestamp": "2026-09-23T05:36:37.515Z"
+      "timestamp": "2026-09-30T06:22:07.176Z"
     },
     "audible": {
       "intel": {
@@ -3252,9 +3252,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:37.515Z"
+        "enriched_at": "2026-09-30T06:22:07.176Z"
       },
-      "timestamp": "2026-09-23T05:36:39.519Z"
+      "timestamp": "2026-09-30T06:22:08.774Z"
     },
     "temu": {
       "intel": {
@@ -3307,9 +3307,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:39.519Z"
+        "enriched_at": "2026-09-30T06:22:08.774Z"
       },
-      "timestamp": "2026-09-23T05:36:41.220Z"
+      "timestamp": "2026-09-30T06:22:10.510Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -3363,24 +3363,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "Bybit hack: lessons for exchange security | Cremit",
+            "url": "https://www.cremit.io/blog/bybit-hacking-incident-analysis-how-to-strengthen-cryptocurrency-exchange-security",
+            "snippet": "# Bybit Hack Analysis: Strengthening Crypto Exchange Security\n\nBybit lost 401,347 ETH, about $1.4 billion, on February 21. How the attack worked, and what it changes for exchange security.\n\nWritten by",
+            "published": "2025-02-18T00:00:00.000Z",
+            "score": 1
+          },
+          {
             "title": "In-depth study of Bybit attack incident Part 1 — About Safe{Wallet} | by lunaray | Medium",
             "url": "https://lunaray.medium.com/in-depth-study-of-bybit-attack-incident-part-1-about-safe-wallet-d7af7ca6bc61",
             "snippet": "In-depth study of Bybit attack incident Part 1 — About Safe{Wallet} | by lunaray | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# In-depth study of Bybit attack inciden",
             "published": "2025-04-16T02:42:25.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Security Audit Report: Reentrancy & Access Control Review: Bybit - DEV Community",
             "url": "https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-bybit-7eb",
             "snippet": "Security Audit Report: Reentrancy & Access Control Review: Bybit - DEV Community\n\nDannyDoes\n\n Posted on Aug 29 \n\n# Security Audit Report: Reentrancy & Access Control Review: Bybit \n\nTarget Protocol: B",
             "published": "2026-08-29T19:01:48.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Bybit: a \"legitimate\" multisig approval signed by trusting the UI drained a supposedly secure Ethereum wallet | Lemma Critical Brief No.081",
-            "url": "https://lemma.frame00.com/critical/briefs/081-bybit-safe-wallet-ui-injection/",
-            "snippet": "Bybit: a \"legitimate\" multisig approval signed by trusting the UI drained a supposedly secure Ethereum wallet | Lemma Critical Brief No.081\n\n# Bybit: a \"legitimate\" multisig approval signed by trustin",
-            "published": "2026-06-26T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3410,31 +3410,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:41.220Z"
+        "enriched_at": "2026-09-30T06:22:10.510Z"
       },
-      "timestamp": "2026-09-23T05:36:42.960Z"
+      "timestamp": "2026-09-30T06:22:12.120Z"
     },
     "trip_com": {
       "intel": {
         "writeups": [
           {
-            "title": "Trip.com | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/trip_com",
-            "snippet": "Trip.com | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis p",
+            "title": "trip.com Cross Site Scripting vulnerability OBB-974343 | Open Bug Bounty",
+            "url": "https://www.openbugbounty.org/reports/974343/",
+            "snippet": "trip.com Cross Site Scripting vulnerability OBB-974343 | Open Bug Bounty\n\nNotify specific security contact: \n\nTo my best knowledge this email belongs to the website owner/admin \n\n# trip.com Cross Site",
             "published": null,
             "score": 1
           },
           {
-            "title": "Medium",
-            "url": "https://medium.com/@a.essam0_o/delete-any-comment-without-admin-privilege-d5af9105ed9d",
-            "snippet": "MediumDelete any comment without admin privilege | by A.Essam | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## A.Essam\n\nPassionate Engineer about Offensive Security with full interest of CTF & put my hand on a",
-            "published": "2024-12-30T13:31:33.000Z",
+            "title": "trip.com Cross Site Scripting vulnerability OBB-975582 | Open Bug Bounty",
+            "url": "https://www.openbugbounty.org/reports/975582/",
+            "snippet": "trip.com Cross Site Scripting vulnerability OBB-975582 | Open Bug Bounty\n\nNotify specific security contact: \n\nTo my best knowledge this email belongs to the website owner/admin \n\n# trip.com Cross Site",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "6 ways Trip.com offers outstanding service",
-            "url": "https://www.trip.com/pages/security",
-            "snippet": "6 ways Trip.com offers outstanding service\n\n# Reporting potential technical concerns and security vulnerabilities related to Trip.com systems\n\nDear all,\n\nWe warmly welcome all security experts or rese",
+            "title": "Trip.com | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/trip_com",
+            "snippet": "Trip.com | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis p",
             "published": null,
             "score": 0
           }
@@ -3465,9 +3465,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:42.960Z"
+        "enriched_at": "2026-09-30T06:22:12.120Z"
       },
-      "timestamp": "2026-09-23T05:36:44.663Z"
+      "timestamp": "2026-09-30T06:22:13.728Z"
     },
     "bykea": {
       "intel": {
@@ -6519,7 +6519,62 @@
         "enriched_at": "2026-09-26T05:56:50.893Z"
       },
       "timestamp": "2026-09-26T05:56:52.442Z"
+    },
+    "walt_io": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Exclusive. Waltio: behind the scenes of a hidden security flaw | The Big Whale",
+            "url": "https://www.thebigwhale.io/article/exclusive-waltio-behind-the-scenes-of-a-hidden-security-flaw",
+            "snippet": "Exclusive. Waltio: behind the scenes of a hidden security flaw | The Big Whale\n\n# Exclusive. Waltio: behind the scenes of a hidden security flaw\n\nGrégory Raymond\n\n26.01.2026\n\n## As the wave of attacks",
+            "published": "2026-01-26T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "TBW - Exclusive. Waltio: behind the scenes of a hidden security flaw",
+            "url": "https://digitalassets.ghost.io/exclusive-waltio-behind-the-scenes-of-a-hidden-security-flaw/",
+            "snippet": "TBW - Exclusive. Waltio: behind the scenes of a hidden security flaw\n\n# TBW - Exclusive. Waltio: behind the scenes of a hidden security flaw\n\n#### The Big Whale\n\n 26 Jan 2026 — 6 min read \n\nIn the wor",
+            "published": "2026-01-26T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "FKIE_CVE-2022-41240 - Vulnerability-Lookup",
+            "url": "https://vulnerability.circl.lu/vuln/fkie_cve-2022-41240",
+            "snippet": "FKIE_CVE-2022-41240 - Vulnerability-Lookup\n\n#### FKIE_CVE-2022-41240\n\n Vulnerability from fkie_nvd - Published: 2022-09-21 16:15 - Updated: 2026-06-17 05:02 \n\n Severity \n\n 5.4 (Medium) - CVSS:3.1/AV:N",
+            "published": "2026-06-17T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "Ch4120N/CVE-2026-3891",
+            "url": "https://github.com/Ch4120N/CVE-2026-3891",
+            "snippet": "# Ch4120N/CVE-2026-3891\n\nPoC for CVE-2026-3891 – Unauthenticated File Upload RCE in Pix for WooCommerce ≤ 1.5.0. Automated nonce retrieval, PHP upload, and command execution.\n\n- Stars: 2\n- Forks: 0\n- ",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "2ceb9d6068ca7af4c870451f610de04c",
+            "url": "https://gist.github.com/ASkyeye/2ceb9d6068ca7af4c870451f610de04c",
+            "snippet": "# 2ceb9d6068ca7af4c870451f610de04c\n\n- Owner: ASkyeye\n- Created: 2026-01-02T09:42:08Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## blasty-fw-fiwix.c\n\nLanguage: C\n\n/*\n * blasty-vs-fiwix.c -- by blasty <pe",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-09-30T06:21:57.089Z"
+      },
+      "timestamp": "2026-09-30T06:21:58.980Z"
     }
   },
-  "lastRun": "2026-09-29T06:39:30.570Z"
+  "lastRun": "2026-09-30T06:22:13.728Z"
 }
