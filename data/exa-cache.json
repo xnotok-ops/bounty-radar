@@ -2765,24 +2765,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "KLUE vs. a Hardened Target: One Bug, No Signature Required | Shellvoide",
+            "url": "https://shellvoide.com/blog/websocket-auth-bypass-bug-bounty-case-study/",
+            "snippet": "KLUE vs. a Hardened Target: One Bug, No Signature Required | Shellvoide\n\nJuly 17, 2026· klue\n\n# KLUE vs. a Hardened Target: One Bug, No Signature Required\n\nNOTE\n\nKLUE is Shellvoide's AI Security Engin",
+            "published": "2026-07-17T00:00:00.000Z",
+            "score": 1
+          },
+          {
             "title": "Medium",
             "url": "https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81",
             "snippet": "MediumThe hunt for the cluster-killer Erlang bug | by Dániel Szoboszlay | Klarna Engineering\n\nSign up\n\nGet app\n\nSign up\n\n## Klarna Engineering\n\nDisrupting the financial sector starts and ends with pro",
             "published": "2021-11-09T13:27:47.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Medium",
             "url": "https://medium.com/@21bec131/how-a-race-condition-in-an-order-checkout-led-to-a-4-000-triple-coupon-glitch-09154fb205b8",
             "snippet": "MediumHow a Race Condition in an Order Checkout Led to a $4,000 Triple-Coupon Glitch | by T4nv1 | Jul, 2026 | Medium\n\nSign up\n\nGet app\n\nSign up\n\nMember-only story\n\n# How a Race Condition in an Order C",
             "published": "2026-07-04T11:21:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2025-58598: Klarna WooCommerce Information Disclosure",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2025-58598/",
-            "snippet": "CVE-2025-58598: Klarna WooCommerce Information Disclosure\n\n# CVE-2025-58598: Klarna WooCommerce Information Disclosure\n\nCVE-2025-58598 is an information disclosure vulnerability in Klarna Order Manage",
-            "published": "2026-09-08T13:17:22.000Z",
             "score": 0
           }
         ],
@@ -2812,9 +2812,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:32.284Z"
+        "enriched_at": "2026-10-01T06:57:50.507Z"
       },
-      "timestamp": "2026-09-24T05:55:33.835Z"
+      "timestamp": "2026-10-01T06:57:52.138Z"
     },
     "unico_idtech": {
       "intel": {
@@ -3480,17 +3480,17 @@
             "score": 1
           },
           {
-            "title": "Bykea | Report #2867022 - Improper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosure | HackerOne",
-            "url": "https://hackerone.com/reports/2867022",
-            "snippet": "Bykea | Report #2867022 - Improper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosure | HackerOne\n\nImproper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosu",
-            "published": "2024-11-27T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "Multimillion-dollar Pakistani delivery company leaks 400+ million files",
             "url": "https://www.safetydetectives.com/blog/bykea-leak-report/",
             "snippet": "Multimillion-dollar Pakistani delivery company leaks 400+ million files\n\nclose\n\n# Multimillion-dollar Pakistani delivery company leaks 400+ million files\n\nSafetyDetectives Cybersecurity Team SafetyDet",
             "published": "2021-01-28T13:47:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Bykea’s VRP (Vulnerability Reward Program) Policy",
+            "url": "https://bykea.com/security/",
+            "snippet": "Security - Bykea\n\n**Menu\nContact Bykea\n# Bykea’s VRP (Vulnerability Reward Program) Policy\nBykea’s management and senior leadership is committed towards protecting its brands, drivers and users. As a ",
+            "published": "2021-02-01T11:26:22.000Z",
             "score": 0
           }
         ],
@@ -3498,7 +3498,7 @@
         "github": [
           {
             "title": "ctxis/beemka",
-            "url": "https://github.com/ctxis/beemka",
+            "url": "https://github.com/ctxis/beemka/",
             "snippet": "# ctxis/beemka\n\nBasic Electron Exploitation\n\n- Stars: 210\n- Forks: 35\n- Watchers: 210\n- Open issues: 0\n- License: MIT License\n- Homepage: https://www.contextis.com/en/blog/basic-electron-framework-exp",
             "published": null,
             "score": 1
@@ -3508,21 +3508,14 @@
             "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
             "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "BYOVD-Research/Safetica at main · KOSEC-LLC/BYOVD-Research · GitHub",
-            "url": "https://github.com/KOSEC-LLC/BYOVD-Research/tree/main/Safetica",
-            "snippet": "BYOVD-Research/Safetica at main · KOSEC-LLC/BYOVD-Research · GitHub\n\n## FilesExpand file tree\n\nmain\n\n# Safetica\n\nView commit history for this file.\n\nmain\n\n# Safetica\n\nTop\n\n## README.md\n\n# Overview\n\n- ",
-            "published": "2025-10-15T02:11:59.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-09-23T05:36:44.663Z"
+        "total_results": 5,
+        "enriched_at": "2026-10-01T06:57:52.138Z"
       },
-      "timestamp": "2026-09-23T05:36:46.331Z"
+      "timestamp": "2026-10-01T06:57:54.333Z"
     },
     "inditex": {
       "intel": {
@@ -3575,9 +3568,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:35.339Z"
+        "enriched_at": "2026-10-01T06:57:55.893Z"
       },
-      "timestamp": "2026-09-24T05:55:36.963Z"
+      "timestamp": "2026-10-01T06:57:57.506Z"
     },
     "visa": {
       "intel": {
@@ -3630,25 +3623,25 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:36.963Z"
+        "enriched_at": "2026-10-01T06:57:57.506Z"
       },
-      "timestamp": "2026-09-24T05:55:38.555Z"
+      "timestamp": "2026-10-01T06:57:59.125Z"
     },
     "toolsforhumanity": {
       "intel": {
         "writeups": [
           {
+            "title": "ToolUniverse CVE-2026-81096 (CRITICAL 9.3) - vuln.today",
+            "url": "https://vuln.today/cve/CVE-2026-81096",
+            "snippet": "ToolUniverse CVE-2026-81096 (CRITICAL 9.3) - vuln.today\n\n# ToolUniverse CVE-2026-81096 \n\n| EUVD-2026-67024 CRITICAL \n\n Code Injection (CWE-94) \n\n 2026-08-27 VulnCheck GHSA-rg68-wg77-c3wm \n\n 9.3 CVSS 4",
+            "published": "2026-08-27T00:00:00.000Z",
+            "score": 1
+          },
+          {
             "title": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security",
             "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz/",
             "snippet": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security\n\nCompany Name: Tools for H",
             "published": "2024-06-19T18:00:08.000Z",
-            "score": 1
-          },
-          {
-            "title": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch",
-            "url": "https://vulnwatch.ai/entry/019f6870-0fb0-7005-9ac3-e5a58c5d2f0d",
-            "snippet": "[Low] GHSA-pr64-jmmf-jp54 ToolHive: SSRF in remote MCP server authentication discovery (host-side, bypasses container isolation) — VulnWatch\n\n# ToolHive: SSRF in remote MCP server authentication disco",
-            "published": "2026-07-15T00:00:00.000Z",
             "score": 0.5
           },
           {
@@ -3669,25 +3662,25 @@
             "score": 1
           },
           {
-            "title": "xcalibure2/ToolShell",
-            "url": "https://github.com/xcalibure2/ToolShell",
-            "snippet": "# xcalibure2/ToolShell\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-09T07:06:",
-            "published": "2026-01-09T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "contracts/ProofOfHumanity.sol",
             "url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/blob/master/contracts/ProofOfHumanity.sol",
             "snippet": "# contracts/ProofOfHumanity.sol\n\n- Branch: master\n- Repository: Proof-Of-Humanity/Proof-Of-Humanity\n\n---\n\n/**\n * @authors: [@unknownunknown1, @nix1g]\n * @reviewers: [@fnanni-0, @mtsalenc*, @nix1g, @cl",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "xcalibure2/ToolShell",
+            "url": "https://github.com/xcalibure2/ToolShell",
+            "snippet": "# xcalibure2/ToolShell\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-09T07:06:",
+            "published": "2026-01-09T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:38.555Z"
+        "enriched_at": "2026-10-01T06:57:59.125Z"
       },
-      "timestamp": "2026-09-24T05:55:40.245Z"
+      "timestamp": "2026-10-01T06:58:00.681Z"
     },
     "ring": {
       "intel": {
@@ -3740,9 +3733,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:40.245Z"
+        "enriched_at": "2026-10-01T06:58:00.681Z"
       },
-      "timestamp": "2026-09-24T05:55:41.912Z"
+      "timestamp": "2026-10-01T06:58:02.396Z"
     },
     "six-group": {
       "intel": {
@@ -3795,9 +3788,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:41.912Z"
+        "enriched_at": "2026-10-01T06:58:02.397Z"
       },
-      "timestamp": "2026-09-24T05:55:43.574Z"
+      "timestamp": "2026-10-01T06:58:04.054Z"
     },
     "eufy_security": {
       "intel": {
@@ -3850,9 +3843,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:43.574Z"
+        "enriched_at": "2026-10-01T06:58:04.054Z"
       },
-      "timestamp": "2026-09-24T05:55:45.117Z"
+      "timestamp": "2026-10-01T06:58:05.661Z"
     },
     "eero": {
       "intel": {
@@ -5902,18 +5895,18 @@
             "score": 0.5
           },
           {
-            "title": "Authentication Bypass via Insecure Credential Pool Synchronization during Anthropic Exhaustion",
-            "url": "https://gist.github.com/YLChen-007/caf38652afeccbbd53a9d77152b6198d",
-            "snippet": "# Authentication Bypass via Insecure Credential Pool Synchronization during Anthropic Exhaustion\n\n- Owner: YLChen-007\n- Created: 2026-05-07T09:07:29Z\n- Public: no\n- Comments: 0\n- Forks: 0\n\n## CVE-2026",
+            "title": "exploit.py",
+            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
+            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:33.836Z"
+        "enriched_at": "2026-10-01T06:57:54.333Z"
       },
-      "timestamp": "2026-09-24T05:55:35.338Z"
+      "timestamp": "2026-10-01T06:57:55.893Z"
     },
     "agoda-public": {
       "intel": {
@@ -6318,10 +6311,10 @@
             "score": 0.5
           },
           {
-            "title": "d-you: Personalausweis-App für Smartphones kommt",
-            "url": "https://www.appgamers.de/mobile-news/d-you-personalausweis-app-fuer-smartphones-kommt",
-            "snippet": "d-you: Personalausweis-App für Smartphones kommt\n\n# d-you: Personalausweis-App für Smartphones kommt\n\nBundesdigitalminister Karsten Wildberger hat die neue Bundes-App mitsamt Name und Design in Berlin",
-            "published": "2026-09-12T00:00:00.000Z",
+            "title": "d-you - CPG",
+            "url": "https://www.cpg.de/en/glossary/d-you/",
+            "snippet": "d-you - CPG\n\n# d-you\n\nPublished on\n\n10/09/2026\n\nUpdated on\n\n10/09/2026\n\nReading time\n\nLast updated: 10 September 2026\n\nd-you is the name of the German state implementation of the European identity wal",
+            "published": "2026-09-10T09:40:16.000Z",
             "score": 0
           }
         ],
@@ -6351,9 +6344,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:29.659Z"
+        "enriched_at": "2026-10-01T06:57:48.646Z"
       },
-      "timestamp": "2026-09-24T05:55:32.283Z"
+      "timestamp": "2026-10-01T06:57:50.506Z"
     },
     "vercel": {
       "intel": {
@@ -6576,5 +6569,5 @@
       "timestamp": "2026-09-30T06:21:58.980Z"
     }
   },
-  "lastRun": "2026-09-30T06:22:13.728Z"
+  "lastRun": "2026-10-01T06:58:05.661Z"
 }
