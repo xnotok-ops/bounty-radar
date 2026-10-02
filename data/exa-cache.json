@@ -3898,9 +3898,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-24T05:55:45.118Z"
+        "enriched_at": "2026-10-02T06:47:35.099Z"
       },
-      "timestamp": "2026-09-24T05:55:46.628Z"
+      "timestamp": "2026-10-02T06:47:36.659Z"
     },
     "mozilla": {
       "intel": {
@@ -3970,7 +3970,7 @@
           {
             "title": "Stripchat — HackerOne bug bounty | BountyHunte.rs",
             "url": "https://bountyhunte.rs/programs/stripchat",
-            "snippet": "Stripchat — HackerOne bug bounty | BountyHunte.rs\n\n# Stripchat\n\nSubmit a report on HackerOne Sign in for alerts Launched 2/7/2023\n\nReward model\n\npaid\n\ngeneral platform\n\nLaunched\n\n2/7/2023\n\nprovider da",
+            "snippet": "Stripchat — HackerOne bug bounty | BountyHunte.rs\n\n# Stripchat\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is",
             "published": "2023-02-07T00:00:00.000Z",
             "score": 0.5
           },
@@ -4008,9 +4008,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:39.753Z"
+        "enriched_at": "2026-10-02T06:47:36.660Z"
       },
-      "timestamp": "2026-09-25T05:56:41.382Z"
+      "timestamp": "2026-10-02T06:47:38.331Z"
     },
     "redox_bbp": {
       "intel": {
@@ -4063,9 +4063,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:41.382Z"
+        "enriched_at": "2026-10-02T06:47:38.331Z"
       },
-      "timestamp": "2026-09-25T05:56:43.068Z"
+      "timestamp": "2026-10-02T06:47:39.884Z"
     },
     "okg": {
       "intel": {
@@ -4109,18 +4109,18 @@
             "score": 0.5
           },
           {
-            "title": "Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections",
-            "url": "https://github.com/sherlock-audit/2025-07-oku-trade-order-types-judging/issues/33",
-            "snippet": "# Creamy Currant Platypus - Authorization Bypass: Malicious txData Enables Fund Theft Despite Whitelisting Protections\n\n- State: open\n- Author: sherlock-admin2\n- Created: 2025-07-31T15:20:40Z\n- Update",
+            "title": "web/CVE-2019-16131%20OKLite%20v1.2.25%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md",
+            "url": "https://github.com/mr-xn/penetration_testing_poc/blob/HEAD/web/CVE-2019-16131%20OKLite%20v1.2.25%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md",
+            "snippet": "# web/CVE-2019-16131%20OKLite%20v1.2.25%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md\n\n- Branch: HEAD\n- Repository: Mr-xn/Penetration_Testing_POC\n\n---\n\n## 前言 \n \nOKLite ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:43.068Z"
+        "enriched_at": "2026-10-02T06:47:39.884Z"
       },
-      "timestamp": "2026-09-25T05:56:44.684Z"
+      "timestamp": "2026-10-02T06:47:41.516Z"
     },
     "1win_com": {
       "intel": {
@@ -4228,32 +4228,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:44.685Z"
+        "enriched_at": "2026-10-02T06:47:41.516Z"
       },
-      "timestamp": "2026-09-25T05:56:46.309Z"
+      "timestamp": "2026-10-02T06:47:43.050Z"
     },
     "pornbox": {
       "intel": {
         "writeups": [
           {
-            "title": "XSS vulns galore (plus a cool shirt!) — Jon Bottarini - Cybernoz",
+            "title": "XSS vulns galore (plus a cool shirt!) — Jon Bottarini",
             "url": "https://cybernoz.com/xss-vulns-galore-plus-a-cool-shirt-jon-bottarini/",
-            "snippet": "XSS vulns galore (plus a cool shirt!) — Jon Bottarini - Cybernoz\n\n# XSS vulns galore (plus a cool shirt!) — Jon Bottarini\n\n Cybernoz \n\n September 14, 2026 4 min read\n\n \n\nWhen the adult website PornHub",
-            "published": "2026-09-14T04:25:03.000Z",
+            "snippet": "# XSS vulns galore (plus a cool shirt!) — Jon Bottarini\n\nWhen the adult website PornHub launched their public bug bounty program, I was pretty sure that most of the low hanging fruits of vulnerabiliti",
+            "published": "2026-09-14T00:00:00.000Z",
             "score": 1
+          },
+          {
+            "title": "How we broke PHP, hacked Pornhub and earned $20,000 | Bug Bounties - Evonide",
+            "url": "https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/",
+            "snippet": "How we broke PHP, hacked Pornhub and earned $20,000 | Bug Bounties - Evonide\n\n# How we broke PHP, hacked Pornhub and earned $20,000\n\nJuly 23, 2016 Ruslan Habalov 20 Min Read 34 Comments\n\n(c) cc-by-nc-",
+            "published": "2016-07-23T00:00:00.000Z",
+            "score": 0.5
           },
           {
             "title": "XSS vulns galore (plus a cool shirt!) — Jon Bottarini",
             "url": "https://jonbottarini.com/xss-vulns-galore-plus-a-cool-shirt/",
             "snippet": "XSS vulns galore (plus a cool shirt!) — Jon Bottarini\n\n# XSS vulns galore (plus a cool shirt!)\n\nMarch 16, 2017· Cross Site Scripting (XSS)\n\nWhen the adult website PornHub launched their public bug bou",
             "published": "2017-03-16T23:14:15.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "PornBox | Top Hackers | HackerOne",
-            "url": "https://hackerone.com/pornbox/thanks",
-            "snippet": "PornBox | Top Hackers | HackerOne\n\n0xpotato Reputation: 443\n\n2\n\nerrorinhuman Reputation: 214\n\n3\n\nnetfuzzer Reputation: 200\n\n4\n\nassassin_marcos Reputation: 184\n\n5\n\nredhunter01 Reputation: 153\n\nspandan0",
-            "published": null,
             "score": 0
           }
         ],
@@ -4283,9 +4283,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:46.309Z"
+        "enriched_at": "2026-10-02T06:47:43.050Z"
       },
-      "timestamp": "2026-09-25T05:56:47.981Z"
+      "timestamp": "2026-10-02T06:47:44.664Z"
     },
     "tron_dao": {
       "intel": {
@@ -4338,9 +4338,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:47.981Z"
+        "enriched_at": "2026-10-02T06:47:44.664Z"
       },
-      "timestamp": "2026-09-25T05:56:49.669Z"
+      "timestamp": "2026-10-02T06:47:46.270Z"
     },
     "superbet": {
       "intel": {
@@ -4393,9 +4393,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:49.669Z"
+        "enriched_at": "2026-10-02T06:47:46.270Z"
       },
-      "timestamp": "2026-09-25T05:56:51.361Z"
+      "timestamp": "2026-10-02T06:47:47.739Z"
     },
     "magic-eden": {
       "intel": {
@@ -6407,24 +6407,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "Live Nation | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/live_nation",
+            "snippet": "Live Nation | Bounty Policy | HackerOne\n\n## Introduction\n\nLive Nation Entertainment takes the security of our artists, fans, venues, and partners seriously, and we look forward to working with the sec",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "How a researcher used Claude to expose a takeover flaw in Live Nation's Front Gate Tickets · Time To House",
             "url": "https://timetohouse.com/en/articles/front-gate-tickets-claude-sql-injection",
             "snippet": "How a researcher used Claude to expose a takeover flaw in Live Nation's Front Gate Tickets · Time To House\n\n# A Researcher Used Claude to Take Over the Ticketing Behind EDC and Bonnaroo. Ticketmaster ",
             "published": "2026-07-07T00:00:00.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Claude Opus wrote the exploit that cracked Live Nation's ticketing system all by itself",
             "url": "https://korben.info/en/claude-opus-exploit-live-nation-ticketing.html",
             "snippet": "Aller au contenu principal\n\n❤️ Korben.info stays free — No paywall or programmatic ads, thanks to readers Support\n\n# Claude Opus wrote the exploit that cracked Live Nation's ticketing system all by it",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Hacker Uses Claude AI to Score Free Tickets for US Concerts",
-            "url": "https://www.rswebsols.com/news/hacker-exploits-claude-ai-to-obtain-complimentary-tickets-for-almost-all-us-concerts/",
-            "snippet": "Hacker Uses Claude AI to Score Free Tickets for US Concerts\n\n# Hacker Exploits Claude AI to Obtain Complimentary Tickets for Almost All US Concerts\n\n Last updated on July 5, 2026 July 5, 2026 by Neil ",
-            "published": "2026-07-05T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -6454,9 +6454,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:37.991Z"
+        "enriched_at": "2026-10-02T06:47:33.501Z"
       },
-      "timestamp": "2026-09-25T05:56:39.753Z"
+      "timestamp": "2026-10-02T06:47:35.099Z"
     },
     "kaltura": {
       "intel": {
@@ -6567,7 +6567,62 @@
         "enriched_at": "2026-09-30T06:21:57.089Z"
       },
       "timestamp": "2026-09-30T06:21:58.980Z"
+    },
+    "omarchy": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Omarchy: Any User Process Can Escalate to Root",
+            "url": "https://0xcc.io/posts/omarchy-root-creds/?=0",
+            "snippet": "Omarchy: Any User Process Can Escalate to Root\n\n2026-08-28\n\n# Omarchy: Any User Process Can Escalate to Root\n\nA security issue in Omarchy’s default Docker configuration meant that essentially every pr",
+            "published": "2026-08-28T00:00:00.000Z",
+            "score": 1
+          },
+          {
+            "title": "Omarchy docker group root escalation: 21 Security Fixes in 6 Days, 433 Days in the Default Install, and 5 Catches Before You Update - Sean Kim — Arts and Tech",
+            "url": "https://blog.imseankim.com/omarchy-docker-group-root-21-security-fixes-6-days-no-cve-5-catches/",
+            "snippet": "Omarchy docker group root escalation: 21 Security Fixes in 6 Days, 433 Days in the Default Install, and 5 Catches Before You Update - Sean Kim — Arts and Tech\n\n# Omarchy docker group root escalation: ",
+            "published": "2026-09-01T05:37:40.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Omarchy Breach: Fix the API Flaw Threatening 18K Stores Now - DEV Community",
+            "url": "https://dev.to/leojulieta/omarchy-breach-fix-the-api-flaw-threatening-18k-stores-now-56ia",
+            "snippet": "Omarchy Breach: Fix the API Flaw Threatening 18K Stores Now - DEV Community\n\nLeoJulieta\n\n Posted on Aug 26 \n\n# Omarchy Breach: Fix the API Flaw Threatening 18K Stores Now \n\n## Introduction \n\nWhen “Oma",
+            "published": "2026-08-26T12:47:05.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "Omarchy is vulnerable to copy.fail exploit",
+            "url": "https://github.com/basecamp/omarchy/issues/5505",
+            "snippet": "# Omarchy is vulnerable to copy.fail exploit\n\n- State: closed\n- Author: alpiua\n- Created: 2026-04-30T09:02:39Z\n- Updated: 2026-05-02T06:01:27Z\n- Repository: basecamp/omarchy\n- Number: #5505\n\n## Labels",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Run notification click actions as safe argv",
+            "url": "https://github.com/basecamp/omarchy/pull/7926",
+            "snippet": "# Run notification click actions as safe argv\n\n- State: merged\n- Author: ryanrhughes\n- Created: 2026-08-23T17:00:00Z\n- Updated: 2026-08-23T23:51:57Z\n- Repository: basecamp/omarchy\n- Number: #7926\n- +5",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "0ad64a5 Fix command injection in theme install, drop tzupdate NOPASSWD (#6694)",
+            "url": "https://github.com/omarchy-mac/omarchy-mac/commit/0ad64a59df1c129cc08d183d5ccd857e3c7f36e9",
+            "snippet": "# 0ad64a5 Fix command injection in theme install, drop tzupdate NOPASSWD (#6694)\n\n- SHA: 0ad64a59df1c129cc08d183d5ccd857e3c7f36e9\n- Repository: omarchy-mac/omarchy-mac\n- Author: KazeTachinuu\n- Date: 2",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-10-02T06:47:31.921Z"
+      },
+      "timestamp": "2026-10-02T06:47:33.501Z"
     }
   },
-  "lastRun": "2026-10-01T06:58:05.661Z"
+  "lastRun": "2026-10-02T06:47:47.740Z"
 }
