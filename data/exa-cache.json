@@ -1437,9 +1437,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-26T05:56:39.952Z"
+        "enriched_at": "2026-10-03T06:09:14.144Z"
       },
-      "timestamp": "2026-09-26T05:56:42.297Z"
+      "timestamp": "2026-10-03T06:09:15.650Z"
     },
     "twilio": {
       "intel": {
@@ -1452,17 +1452,17 @@
             "score": 1
           },
           {
-            "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials - InfoSec Today",
-            "url": "https://www.infosectoday.io/malicious-npm-package-poses-as-twilio-bug-bounty-probe-can-exfiltrate-credentials/",
-            "snippet": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials - InfoSec Today\n\n# Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials\n\n AndyC 23 Sept",
-            "published": "2026-09-23T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "CVE-2026-4984: Twilio Integration Information Disclosure",
             "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4984/",
             "snippet": "CVE-2026-4984: Twilio Integration Information Disclosure\n\n# CVE-2026-4984: Twilio Integration Information Disclosure\n\nCVE-2026-4984 is an information disclosure flaw in Twilio webhook integration that",
             "published": "2026-04-03T00:05:15.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials - InfoSec Today",
+            "url": "https://www.infosectoday.io/malicious-npm-package-poses-as-twilio-bug-bounty-probe-can-exfiltrate-credentials/",
+            "snippet": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials - InfoSec Today\n\n# Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials\n\n AndyC 23 Sept",
+            "published": "2026-09-23T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -1492,9 +1492,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-26T05:56:42.298Z"
+        "enriched_at": "2026-10-03T06:09:15.650Z"
       },
-      "timestamp": "2026-09-26T05:56:44.257Z"
+      "timestamp": "2026-10-03T06:09:17.234Z"
     },
     "doordash": {
       "intel": {
@@ -1514,10 +1514,10 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2019-17397: Doordash Vulnerability (CVSS 9.8) — Fix & Details",
-            "url": "https://www.strix.ai/cve/CVE-2019-17397",
-            "snippet": "CVE-2019-17397: Doordash Vulnerability (CVSS 9.8) — Fix & Details\n\n# CVE-2019-17397\n\nCRITICAL CVSS 9.8/10 EPSS 1.30%\n\nLast modified Jun 17, 2026\n\nCVE-2019-17397 is a critical-severity vulnerability ra",
-            "published": "2019-10-15T15:15:11.000Z",
+            "title": "DoorDash made third-party access a delivery-data accountability test",
+            "url": "https://btw.media/en/doordash-2019-third-party-breach-delivery-data-accountability",
+            "snippet": "DoorDash made third-party access a delivery-data accountability test\n\n## Why it matters\n\nDoorDash is a risk and accountability case because its 2019 third-party service provider breach showed how a de",
+            "published": "2026-07-15T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -1547,31 +1547,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-26T05:56:44.258Z"
+        "enriched_at": "2026-10-03T06:09:17.235Z"
       },
-      "timestamp": "2026-09-26T05:56:45.936Z"
+      "timestamp": "2026-10-03T06:09:18.859Z"
     },
     "robinhood": {
       "intel": {
         "writeups": [
           {
-            "title": "Robinhood Markets Bounty | Bounty Policy | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/robinhood?type=team",
-            "snippet": "Robinhood Markets Bounty | Bounty Policy | HackerOne\n\n## Introduction\n\nWelcome to the Robinhood Bug Bounty Program! We’re excited to work more closely with you on discovering bugs in Robinhood. Thank ",
+            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
             "published": null,
             "score": 1
+          },
+          {
+            "title": "Robinhood — Cantina bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/robinhood-2acbecd1",
+            "snippet": "Robinhood — Cantina bug bounty | BountyHunte.rs\n\n# Robinhood\n\nReward range\n\nUp to $1,000,000\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is not a",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "Robinhood Markets — HackerOne bug bounty | BountyHunte.rs",
             "url": "https://bountyhunte.rs/programs/robinhood_markets",
             "snippet": "Robinhood Markets — HackerOne bug bounty | BountyHunte.rs\n\n# Robinhood Markets\n\nReward range\n\nNo paid bounty (VDP)\n\nListed provider data. Verify current payout terms and eligibility at the source; a l",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "mohamedfhafah/robinhood-bounty-starter",
-            "url": "https://github.com/mohamedfhafah/robinhood-bounty-starter",
-            "snippet": "# mohamedfhafah/robinhood-bounty-starter\n\nBug bounty starter workspace for compliant reconnaissance, testing, and reporting.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT Licens",
             "published": null,
             "score": 0
           }
@@ -1602,9 +1602,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-26T05:56:45.936Z"
+        "enriched_at": "2026-10-03T06:09:18.859Z"
       },
-      "timestamp": "2026-09-26T05:56:47.742Z"
+      "timestamp": "2026-10-03T06:09:20.446Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1667,7 +1667,7 @@
           {
             "title": "Banco Plata | Hacktivity | HackerOne",
             "url": "https://hackerone.com/banco_plata/hacktivity",
-            "snippet": "Banco Plata | Hacktivity | HackerOne\n\nBanco Plata\n\nBug reported by\n\nabd\n\nwas resolved\n\n6 months ago\n\nBanco Plata\n\nBounty launched in Jan 2026\n\nResponse efficiency: 99%\n\nSeverity\n\nRewards\n\nSeverity\n\nRe",
+            "snippet": "Banco Plata | Hacktivity | HackerOne\n\nBanco Plata\n\nBug reported by\n\nnismo\n\nwas resolved\n\n22 hrs ago\n\nBanco Plata\n\nBug reported by\n\nnismo\n\nwas resolved\n\n3 days ago\n\nBanco Plata\n\nBug reported by\n\nnismo\n",
             "published": null,
             "score": 1
           },
@@ -1679,10 +1679,10 @@
             "score": 0.5
           },
           {
-            "title": "Is Banco Plata Legit & Safe? What Users Say (2026) | Unstar",
-            "url": "https://unstar.app/it/blog/is-banco-plata-legit-safe-credit-card-app-reviews-2026",
-            "snippet": "Is Banco Plata Legit & Safe? What Users Say (2026) | Unstar\n\nApp Reviews July 5, 2026 10 min read\n\n# Is Banco Plata Legit & Safe? What Users Say (2026)\n\nU By Unstar · Editorial Team\n\nBanco Plata is a ",
-            "published": "2026-07-05T00:00:00.000Z",
+            "title": "Banco Plata Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/banco-plata/",
+            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\n# Banco Plata\n\nBounty \n\n## Program Details \n\n Handle \n: banco_plata \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 7 days \nBounty Time\n: 352 days",
+            "published": null,
             "score": 0
           }
         ],
@@ -1712,9 +1712,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-26T05:56:47.743Z"
+        "enriched_at": "2026-10-03T06:09:20.446Z"
       },
-      "timestamp": "2026-09-26T05:56:49.334Z"
+      "timestamp": "2026-10-03T06:09:22.064Z"
     },
     "netscaler_public_program": {
       "intel": {
@@ -1767,9 +1767,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-26T05:56:49.334Z"
+        "enriched_at": "2026-10-03T06:09:22.064Z"
       },
-      "timestamp": "2026-09-26T05:56:50.893Z"
+      "timestamp": "2026-10-03T06:09:23.612Z"
     },
     "meesho_bbp": {
       "intel": {
@@ -4401,23 +4401,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "Magic Eden — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/magic-eden",
-            "snippet": "Magic Eden — HackerOne bug bounty | BountyHunte.rs\n\n# Magic Eden\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum ",
-            "published": null,
+            "title": "Magic Eden Exploit: $2.8M Stolen, $5.7M NFTs Saved",
+            "url": "https://shattered.io/magic-eden-limit-break-exploit-2-8-million-2026/",
+            "snippet": "Magic Eden Exploit: $2.8M Stolen, $5.7M NFTs Saved\n\n# Magic Eden Exploit: $2.8M Stolen, $5.7M in NFTs Saved [2026]\n\nDr. Elena Marchetti Updated Sep 30, 2026 · 15 min read\n\nA vulnerability in a marketp",
+            "published": "2026-09-30T04:05:47.000Z",
             "score": 1
           },
           {
-            "title": "NFT Marketplace Magic Eden Promises to Refund Users Who Were Sold Fake NFTs in ‘Massive Exploit’ | Cryptoproductivity",
-            "url": "https://www.cryptoproductivity.org/nft-marketplace-magic-eden-promises-to-refund-users-who-were-sold-fake-nfts-in-massive-exploit/",
-            "snippet": "NFT Marketplace Magic Eden Promises to Refund Users Who Were Sold Fake NFTs in ‘Massive Exploit’ | Cryptoproductivity\n\n# NFT Marketplace Magic Eden Promises to Refund Users Who Were Sold Fake NFTs in ",
-            "published": "2023-01-05T00:00:00.000Z",
+            "title": "Magic Eden Exploit Explained: A Dead Marketplace, Living Approvals, and a $5.7M Whitehat Rescue — Onchain Diary",
+            "url": "https://theonchaindiary.com/articles/magic-eden-payment-processor-exploit/",
+            "snippet": "Magic Eden Exploit Explained: A Dead Marketplace, Living Approvals, and a $5.7M Whitehat Rescue — Onchain Diary\n\nOn this page\n\n# Magic Eden Exploit Explained: A Dead Marketplace, Living Approvals, and",
+            "published": "2026-09-25T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/magic-eden/policy_versions?change=3683280&type=team",
-            "snippet": "HackerOne\n\n## Policy versions\n\nIndex: magic-eden.policy =================================================================== --- magic-eden.policy @ 2023-02-10T05:59:06.479Z +++ magic-eden.policy @ 202",
+            "title": "Magic Eden Legacy Approvals Expose $5.7M in NFTs as Limit Break Bug Triggers Rescue",
+            "url": "https://financefeeds.com/magic-eden-legacy-approvals-expose-5-7m-in-nfts-as-limit-break-bug-triggers-rescue/",
+            "snippet": "Skip to content\n\n- CMC, Digital Assets\n\n# Magic Eden Legacy Approvals Expose $5.7M in NFTs as Limit Break Bug Triggers Rescue\n\n- By Abdelaziz Fathi\n- September 26, 2026\n- Share\n\nPreferred source\n\nMagi",
             "published": null,
             "score": 0
           }
@@ -4448,9 +4448,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:51.362Z"
+        "enriched_at": "2026-10-03T06:09:23.612Z"
       },
-      "timestamp": "2026-09-25T05:56:52.937Z"
+      "timestamp": "2026-10-03T06:09:25.208Z"
     },
     "boozt": {
       "intel": {
@@ -5849,9 +5849,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-26T05:56:38.226Z"
+        "enriched_at": "2026-10-03T06:09:12.581Z"
       },
-      "timestamp": "2026-09-26T05:56:39.952Z"
+      "timestamp": "2026-10-03T06:09:14.144Z"
     },
     "anthropic": {
       "intel": {
@@ -5914,8 +5914,8 @@
           {
             "title": "Medium",
             "url": "https://medium.com/agoda-engineering/how-agoda-works-with-hackers-to-strengthen-its-security-2e4129299b8b",
-            "snippet": "MediumInside Agoda’s Bug Bounty Program: How We Stay Ahead of Cyber Threats | by Agoda Engineering | Agoda Engineering & Design | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## Agoda Engineering & Design\n\nLear",
-            "published": "2025-02-19T06:19:12.000Z",
+            "snippet": "Medium\n\n# Inside Agoda’s Bug Bounty Program: How We Stay Ahead of Cyber Threats\n\nAgoda Engineering\n\nFeb 19, 2025\n\nby Well Vittayaphorn\n\nPress enter or click to view image in full size\n\nAt Agoda, ensur",
+            "published": "2025-02-19T00:00:00.000Z",
             "score": 1
           },
           {
@@ -5959,9 +5959,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-26T05:56:36.475Z"
+        "enriched_at": "2026-10-03T06:09:10.946Z"
       },
-      "timestamp": "2026-09-26T05:56:38.226Z"
+      "timestamp": "2026-10-03T06:09:12.581Z"
     },
     "yuga_labs": {
       "intel": {
@@ -6091,10 +6091,10 @@
             "score": 0.5
           },
           {
-            "title": "CVE-2023-22429 — Using Hardcoded Credentials in Wolt Wolt Delivery: Food/More | dbugs",
-            "url": "https://dbugs.ptsecurity.com/vulnerability/PT-2023-18492",
-            "snippet": "CVE-2023-22429 — Using Hardcoded Credentials in Wolt Wolt Delivery: Food/More | dbugs\n\nBack\n\n## PT-2023-18492 · Wolt · Wolt Delivery: Food/More\n\n·\n\n# CVE-2023-22429\n\n·\n\nPublished\n\n2023-04-11\n\n·\n\nUpdat",
-            "published": "2023-04-11T07:08:56.000Z",
+            "title": "Wolt: Rating & Reviews · BugRater",
+            "url": "https://bugs.maliqbarnard.com/programs/wolt",
+            "snippet": "Wolt: Rating & Reviews · BugRater\n\n NR Unrated \n\nWolt Wolt HackerOne \n\n 3 more reviews needed for a grade \n\n Program page hackerone.com ↗ \n\n If you would rather not deal with the vendor yourself, a Bu",
+            "published": null,
             "score": 0
           }
         ],
@@ -6124,9 +6124,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-26T05:56:34.665Z"
+        "enriched_at": "2026-10-03T06:09:09.180Z"
       },
-      "timestamp": "2026-09-26T05:56:36.475Z"
+      "timestamp": "2026-10-03T06:09:10.946Z"
     },
     "vercel_sandbox": {
       "intel": {
@@ -6624,5 +6624,5 @@
       "timestamp": "2026-10-02T06:47:33.501Z"
     }
   },
-  "lastRun": "2026-10-02T06:47:47.740Z"
+  "lastRun": "2026-10-03T06:09:25.208Z"
 }
