@@ -2339,10 +2339,10 @@
             "score": 0.5
           },
           {
-            "title": "Security Audit – Neon v0.15.9",
-            "url": "https://neodyme.io/reports/Neon-Update-2023.pdf",
-            "snippet": "## Security Audit – Neon v0.15.9\n\n### Neodyme AG\n\n### June 7th, 2023\n\n### Contents\n\nIntroduction 4 \nProject Overview 4 \nScope 5 \nMethodology 6 \nNeon Architecture 7 \nLifecycle of a Neon Transaction . .",
-            "published": null,
+            "title": "Bugbounty and Pentests at Neon - Neon",
+            "url": "https://neon.com/blog/bugbounty-and-pentests-at-neon",
+            "snippet": "Bugbounty and Pentests at Neon - Neon\n\nThe average Neon production DB resizes every 81 seconds. Here's a deep dive on how our autoscaling is built\n\n# Bugbounty and Pentests at Neon\n\nJoining forces wit",
+            "published": "2024-11-25T16:43:38.000Z",
             "score": 0
           }
         ],
@@ -2360,28 +2360,21 @@
             "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
             "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "exploit/exploit.py",
-            "url": "https://github.com/imbas007/CVE-2026-42533/blob/782319ca/exploit/exploit.py",
-            "snippet": "# exploit/exploit.py\n\n- Branch: 782319ca\n- Repository: imbas007/CVE-2026-42533\n\n---\n\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-42533 — nginx Heap Buffer Overflow — Full Exploit Chain\nPre-Auth Remote Code Ex",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-09-28T06:25:07.782Z"
+        "total_results": 5,
+        "enriched_at": "2026-10-05T06:37:25.638Z"
       },
-      "timestamp": "2026-09-28T06:25:09.555Z"
+      "timestamp": "2026-10-05T06:37:27.328Z"
     },
     "bumba_bbp": {
       "intel": {
         "writeups": [
           {
             "title": "Bumba | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/bumba_bbp?type=team",
+            "url": "https://hackerone.com/bumba_bbp",
             "snippet": "Bumba | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response E",
             "published": null,
             "score": 1
@@ -2427,18 +2420,18 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-28T06:25:09.556Z"
+        "enriched_at": "2026-10-05T06:37:27.328Z"
       },
-      "timestamp": "2026-09-28T06:25:11.229Z"
+      "timestamp": "2026-10-05T06:37:29.057Z"
     },
     "starbucks_japan": {
       "intel": {
         "writeups": [
           {
-            "title": "Starbucks | Report #1113559 - Japan - CSRF in webapp.starbucks.co.jp with user interaction could leak an access token if the user was not using Chrome | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/reports/1113559",
-            "snippet": "Starbucks | Report #1113559 - Japan - CSRF in webapp.starbucks.co.jp with user interaction could leak an access token if the user was not using Chrome | HackerOne\n\nJapan - CSRF in webapp.starbucks.co.",
-            "published": "2021-03-01T00:00:00.000Z",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "published": null,
             "score": 1
           },
           {
@@ -2482,9 +2475,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-28T06:25:11.229Z"
+        "enriched_at": "2026-10-05T06:37:29.057Z"
       },
-      "timestamp": "2026-09-28T06:25:12.863Z"
+      "timestamp": "2026-10-05T06:37:30.791Z"
     },
     "starbucks_china": {
       "intel": {
@@ -2497,17 +2490,17 @@
             "score": 1
           },
           {
+            "title": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章 - SecPulse.COM | 安全脉搏",
+            "url": "https://www.secpulse.com/archives/198427.html",
+            "snippet": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章 - SecPulse.COM | 安全脉搏\n\n# 实战 | 猪猪侠以前的星巴克漏洞挖掘文章\n\n 2023-03-30 14,746 \n\n### 来源：http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0208769\n\n这是一篇2016年的乌云漏洞报告，带大家感受一下2016年的猪哥就这么强了",
+            "published": "2023-03-30T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Starbucks | Report #440629 - Starbucks China Android app cloud storage service leaks a credential. | HackerOne",
             "url": "https://hackerone.com/reports/440629",
             "snippet": "Starbucks | Report #440629 - Starbucks China Android app cloud storage service leaks a credential. | HackerOne\n\nStarbucks China Android app cloud storage service leaks a credential.\n\nSummary by Starbu",
             "published": "2018-11-27T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "RCE on Starbucks Singapore and more for $5600 | CTF导航",
-            "url": "https://www.ctfiot.com/35023.html",
-            "snippet": "RCE on Starbucks Singapore and more for $5600 | CTF导航\n\n# RCE on Starbucks Singapore and more for $5600\n\n渗透技巧 4年前 (2022)发布 admin\n\n### Recon\n\nAfter I found a critical vulnerability in Starbucks Singapor",
-            "published": null,
             "score": 0
           }
         ],
@@ -2537,9 +2530,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-28T06:25:12.864Z"
+        "enriched_at": "2026-10-05T06:37:30.791Z"
       },
-      "timestamp": "2026-09-28T06:25:14.586Z"
+      "timestamp": "2026-10-05T06:37:32.518Z"
     },
     "syfe_bbp": {
       "intel": {
@@ -2592,31 +2585,31 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-28T06:25:14.587Z"
+        "enriched_at": "2026-10-05T06:37:32.518Z"
       },
-      "timestamp": "2026-09-28T06:25:16.262Z"
+      "timestamp": "2026-10-05T06:37:34.169Z"
     },
     "nba-public": {
       "intel": {
         "writeups": [
           {
-            "title": "NBA Public Bug Bounty — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/nba-public",
-            "snippet": "NBA Public Bug Bounty — HackerOne bug bounty | BountyHunte.rs\n\n# NBA Public Bug Bounty\n\nSubmit a report on HackerOne Sign in for alerts Launched 7/31/2024\n\nReward model\n\npaid\n\ngeneral platform\n\nLaunch",
-            "published": "2024-07-31T00:00:00.000Z",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/nba-public",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "published": null,
             "score": 1
           },
           {
             "title": "HackerOne",
-            "url": "https://hackerone.com/nba-vdp",
-            "snippet": "HackerOne\n\nNBA is not accepting submissions at this time.",
+            "url": "https://hackerone.com/nba-public/policy_versions",
+            "snippet": "HackerOne\n\n## Policy versions\n\nChanges are shown in the Unified Diff Format.",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "NBA Public Bug Bounty Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/nba-public-bug-bounty/",
-            "snippet": "NBA Public Bug Bounty Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: nba-public \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 2 days \nBounty Time\n: 195 days \nReso",
+            "title": "NBA Public Bug Bounty | Security Program",
+            "url": "https://ooosec.com/programs/nba-public-bug-bounty",
+            "snippet": "NBA Public Bug Bounty | Security Program\n\n- Purpose\n- Scope\n- Rules of Engagement\n- In-Scope Vulnerabilities\n- Out of Scope Vulnerabilities\n- Make Your Submission Count\n- Reward Structure\n- Response T",
             "published": null,
             "score": 0
           }
@@ -2638,34 +2631,34 @@
             "score": 0.5
           },
           {
-            "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "title": "c0gnit00/CVE-2026-33937",
+            "url": "https://github.com/c0gnit00/CVE-2026-33937",
+            "snippet": "# c0gnit00/CVE-2026-33937\n\nPython POC, Exploit for Handlebars.js AST Injection RCE, Handlebars.js versions 4.0.0 through 4.7.8 are affected. CVSS score: 9.8 Critical.\n\n- Stars: 1\n- Forks: 0\n- Watchers",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-28T06:25:16.263Z"
+        "enriched_at": "2026-10-05T06:37:34.170Z"
       },
-      "timestamp": "2026-09-28T06:25:18.001Z"
+      "timestamp": "2026-10-05T06:37:35.880Z"
     },
     "circle-bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "Circle's CCTP Noble Mint Bug",
-            "url": "https://blog.asymmetric.re/circles-cctp-noble-mint-bug/",
-            "snippet": "Circle's CCTP Noble Mint Bug\n\n Research · Aug 27, 2024 · 4 min read \n\n# Circle's CCTP Noble Mint Bug \n\nWe privately disclosed a vulnerability to Circle via their bug bounty program. The vulnerability ",
-            "published": "2024-08-27T00:00:00.000Z",
-            "score": 1
-          },
-          {
             "title": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium",
             "url": "https://medium.com/@techverissimo/my-first-bug-bounty-finding-memory-dos-vulnerabilities-in-circles-arc-blockchain-consensus-engine-ab96f4f8d9f1",
             "snippet": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n1. The",
             "published": "2026-04-15T12:33:58.000Z",
+            "score": 1
+          },
+          {
+            "title": "Circle's CCTP Noble Mint Bug",
+            "url": "https://blog.asymmetric.re/circles-cctp-noble-mint-bug/",
+            "snippet": "Circle's CCTP Noble Mint Bug\n\n Research · Aug 27, 2024 · 4 min read \n\n# Circle's CCTP Noble Mint Bug \n\nWe privately disclosed a vulnerability to Circle via their bug bounty program. The vulnerability ",
+            "published": "2024-08-27T00:00:00.000Z",
             "score": 0.5
           },
           {
@@ -2702,9 +2695,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-28T06:25:18.001Z"
+        "enriched_at": "2026-10-05T06:37:35.880Z"
       },
-      "timestamp": "2026-09-28T06:25:19.653Z"
+      "timestamp": "2026-10-05T06:37:37.520Z"
     },
     "varonis": {
       "intel": {
@@ -2717,17 +2710,17 @@
             "score": 1
           },
           {
+            "title": "From CPU Spikes To Defense: How Varonis Prevented A Ransomware Disaster",
+            "url": "https://www.hendryadrian.com/from-cpu-spikes-to-defense-how-varonis-prevented-a-ransomware-disaster/",
+            "snippet": "From CPU Spikes To Defense: How Varonis Prevented A Ransomware Disaster\n\n# From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster\n\n October 9, 2025 October 13, 2025 Varonis \n\n \n\nhendr",
+            "published": "2025-10-09T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "Prompt Parkour: How I Tricked Claude into Building Ransomware",
             "url": "https://www.varonis.com/blog/building-ransomware-in-claude",
             "snippet": "Prompt Parkour: How I Tricked Claude into Building Ransomware\n\n# Prompt Parkour: How I Tricked Claude into Building Ransomware \n\n See how Varonis' MDDR team bypassed Claude's safeguards, highlighting ",
             "published": "2026-05-06T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Varonis Incident Response: Preventing PII Exposure in Box",
-            "url": "https://www.varonis.com/blog/prevent-pii-exposure",
-            "snippet": "Varonis Incident Response: Preventing PII Exposure in Box \n\n# Varonis Incident Response: Preventing PII Exposure in Box \n\n Learn how the Varonis Incident Response team prevented PII from being comprom",
-            "published": "2025-07-10T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2757,9 +2750,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-28T06:25:19.653Z"
+        "enriched_at": "2026-10-05T06:37:37.520Z"
       },
-      "timestamp": "2026-09-28T06:25:21.346Z"
+      "timestamp": "2026-10-05T06:37:39.155Z"
     },
     "klarna": {
       "intel": {
@@ -2820,23 +2813,23 @@
       "intel": {
         "writeups": [
           {
+            "title": "Unico IDtech | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/unico_idtech",
+            "snippet": "Unico IDtech | Bounty Policy | HackerOne\n\n## Program highlights\n\nTop Response Efficiency\n\nThis program's response efficiency is above 90%.\n\nManaged by HackerOne Collaboration Enabled Includes Retestin",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Unico IDtech Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/unico-idtech/",
             "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nBounty \n\n## Program Details \n\n Handle \n: unico_idtech \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 9 days \nBounty Time\n: 370 d",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Unico IDtech — HackerOne bug bounty | BountyHunte.rs",
             "url": "https://bountyhunte.rs/programs/unico_idtech",
             "snippet": "Unico IDtech — HackerOne bug bounty | BountyHunte.rs\n\n# Unico IDtech\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maxi",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Unico IDtech | Security Program",
-            "url": "https://ooosec.com/programs/unico-idtech",
-            "snippet": "Unico IDtech | Security Program\n\n# Unico IDTech Bug Bounty Program\n\nUnico IDTech is pioneering the future of biometric authentication through our advanced liveness detection engine. We're inviting sec",
             "published": null,
             "score": 0
           }
@@ -2867,9 +2860,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-28T06:25:21.347Z"
+        "enriched_at": "2026-10-05T06:37:39.156Z"
       },
-      "timestamp": "2026-09-28T06:25:23.013Z"
+      "timestamp": "2026-10-05T06:37:40.813Z"
     },
     "wallet_on_telegram": {
       "intel": {
@@ -4463,16 +4456,16 @@
             "score": 1
           },
           {
-            "title": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com",
-            "url": "https://www.bugbountyhunter.com/program?id=boozt",
-            "snippet": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com\n\n### Boozt Fashion AB Program Statistics\n\n View program \n\n 28 total issues disclosed \n\n $1,830 total paid publicly \n\n Most disclose",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/boozt",
+            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n‌‌‌\n\n‌‌‌‌‌\n\n‌‌\n\n‌‌\n\n‌‌‌‌‌\n\n‌‌‌\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.s",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Boozt Fashion AB — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/boozt",
-            "snippet": "Boozt Fashion AB — HackerOne bug bounty | BountyHunte.rs\n\n# Boozt Fashion AB\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a lis",
+            "title": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com",
+            "url": "https://www.bugbountyhunter.com/program?id=boozt",
+            "snippet": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com\n\n### Boozt Fashion AB Program Statistics\n\n View program \n\n 28 total issues disclosed \n\n $1,830 total paid publicly \n\n Most disclose",
             "published": null,
             "score": 0
           }
@@ -4503,9 +4496,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-25T05:56:52.937Z"
+        "enriched_at": "2026-10-05T06:37:40.813Z"
       },
-      "timestamp": "2026-09-25T05:56:54.599Z"
+      "timestamp": "2026-10-05T06:37:42.455Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -6624,5 +6617,5 @@
       "timestamp": "2026-10-02T06:47:33.501Z"
     }
   },
-  "lastRun": "2026-10-04T06:40:02.743Z"
+  "lastRun": "2026-10-05T06:37:42.455Z"
 }
