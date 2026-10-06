@@ -4504,16 +4504,16 @@
       "intel": {
         "writeups": [
           {
-            "title": "Sheer | Security Program",
-            "url": "https://ooosec.com/programs/sheer",
-            "snippet": "Sheer | Security Program\n\n# Scope\n\nThe scope of this program is limited to security vulnerabilities found on Sheer. Vulnerabilities reported on other properties or applications are currently not eligi",
+            "title": "Sheer — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/sheer_bbp",
+            "snippet": "Sheer — HackerOne bug bounty | BountyHunte.rs\n\n# Sheer\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is not a g",
             "published": null,
             "score": 1
           },
           {
-            "title": "Sheer | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/sheer_bbp?type=team",
-            "snippet": "Sheer | Bounty Policy | HackerOne\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis program's response efficiency is above 90%.\n\nManaged by HackerOne Collabo",
+            "title": "Sheer | Security Program",
+            "url": "https://ooosec.com/programs/sheer",
+            "snippet": "Sheer | Security Program\n\n# Scope\n\nThe scope of this program is limited to security vulnerabilities found on Sheer. Vulnerabilities reported on other properties or applications are currently not eligi",
             "published": null,
             "score": 0.5
           },
@@ -4535,48 +4535,48 @@
             "score": 1
           },
           {
-            "title": "exploit/exploit.py",
-            "url": "https://github.com/imbas007/CVE-2026-42533/blob/782319ca/exploit/exploit.py",
-            "snippet": "# exploit/exploit.py\n\n- Branch: 782319ca\n- Repository: imbas007/CVE-2026-42533\n\n---\n\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-42533 — nginx Heap Buffer Overflow — Full Exploit Chain\nPre-Auth Remote Code Ex",
+            "title": "Boreas37/CVE-2026-64638-PoC",
+            "url": "https://github.com/Boreas37/CVE-2026-64638-PoC",
+            "snippet": "# Boreas37/CVE-2026-64638-PoC\n\nXSS2Shell (CVE-2026-64638) PoC — WordPress pre-auth XSS to RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-07T1",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "0xCyberstan/CVE-2026-42533-POC",
-            "url": "https://github.com/0xCyberstan/CVE-2026-42533-POC",
-            "snippet": "# 0xCyberstan/CVE-2026-42533-POC\n\nCVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0",
+            "title": "4minx/CVE-2026-64638",
+            "url": "https://github.com/4minx/CVE-2026-64638",
+            "snippet": "# 4minx/CVE-2026-64638\n\nCVE-2026-64638 (XSS2shell) POC.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-08T08:48:02Z\n\n## Languages\n\n- HTML\n\n## Top Contr",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-29T06:39:14.225Z"
+        "enriched_at": "2026-10-06T07:18:03.337Z"
       },
-      "timestamp": "2026-09-29T06:39:15.889Z"
+      "timestamp": "2026-10-06T07:18:05.540Z"
     },
     "vodafone_oman": {
       "intel": {
         "writeups": [
           {
-            "title": "Vodafone Oman Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/vodafone-oman/",
-            "snippet": "Vodafone Oman Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: vodafone_oman \nManaged\n: No \n\n## Response Metrics \n\nResponse Time\n: 21 days \nResolution Time\n: 36 days \n\n Resp",
+            "title": "Vodafone Oman — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/vodafone_oman",
+            "snippet": "Vodafone Oman — HackerOne bug bounty | BountyHunte.rs\n\n# Vodafone Oman\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed ma",
             "published": null,
             "score": 1
           },
           {
-            "title": "Vodafone Oman | Security Program",
-            "url": "https://ooosec.com/programs/vodafone-oman",
-            "snippet": "Vodafone Oman | Security Program\n\n## Vodafone Oman\n\n# Vodafone Oman\n\nExternal Program\n\nSubmit bugs directly to this organization\n\n## Details\n\nVodafone Oman looks forward to working with the security c",
+            "title": "Vodafone Oman Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/vodafone-oman/",
+            "snippet": "Vodafone Oman Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: vodafone_oman \nManaged\n: No \n\n## Response Metrics \n\nResponse Time\n: 9 days \nResolution Time\n: 171 days \n\n Resp",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman",
-            "url": "https://timesofoman.com/article/122530-vodafone-oman-challenges-local-and-international-ethical-hackers-to-to-take-their-best-shot",
-            "snippet": "Vodafone Oman challenges local and international ethical hackers to to take their best shot - Times of Oman\n\n# Vodafone Oman challenges local and international ethical hackers to to take their best sh",
-            "published": "2022-10-19T00:00:00.000Z",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/vodafone_oman",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "published": null,
             "score": 0
           }
         ],
@@ -4606,9 +4606,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-29T06:39:15.889Z"
+        "enriched_at": "2026-10-06T07:18:05.540Z"
       },
-      "timestamp": "2026-09-29T06:39:17.495Z"
+      "timestamp": "2026-10-06T07:18:07.378Z"
     },
     "frontegg": {
       "intel": {
@@ -4676,9 +4676,9 @@
             "score": 1
           },
           {
-            "title": "inDrive | Report #1960107 - Rider can forcefully get passenger's order accepted resulting in multiple impacts including PII reveal  and more mentioned in the report. | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/reports/1960107",
-            "snippet": "inDrive | Report #1960107 - Rider can forcefully get passenger's order accepted resulting in multiple impacts including PII reveal and more mentioned in the report. | HackerOne\n\nRider can forcefully g",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
             "published": "2023-04-25T00:00:00.000Z",
             "score": 0.5
           },
@@ -4716,9 +4716,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-29T06:39:19.071Z"
+        "enriched_at": "2026-10-06T07:18:09.122Z"
       },
-      "timestamp": "2026-09-29T06:39:20.675Z"
+      "timestamp": "2026-10-06T07:18:10.972Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4788,7 +4788,7 @@
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/rei_bbp/policy_versions",
-            "snippet": "HackerOne\n\n## Policy versions\n\nIndex: rei_bbp.policy =================================================================== --- rei_bbp.policy @ 2026-04-20T18:00:15.284Z +++ rei_bbp.policy @ 2026-04-20T1",
+            "snippet": "HackerOne\n\n## Policy versions\n\nChanges are shown in the Unified Diff Format.",
             "published": null,
             "score": 0
           }
@@ -4819,9 +4819,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-29T06:39:20.675Z"
+        "enriched_at": "2026-10-06T07:18:10.972Z"
       },
-      "timestamp": "2026-09-29T06:39:22.184Z"
+      "timestamp": "2026-10-06T07:18:12.697Z"
     },
     "mergify": {
       "intel": {
@@ -4829,7 +4829,7 @@
           {
             "title": "Mergify Bug Bounty Program: Ready To Hack Us?",
             "url": "https://articles.mergify.com/mergify-bug-bounty-program-hack-us/",
-            "snippet": "Mergify Bug Bounty Program: Ready To Hack Us?\n\nWith cyberattacks becoming increasingly sophisticated and pervasive, organizations are compelled to fortify their digital defenses.\n\nOne powerful weapon ",
+            "snippet": "Mergify Bug Bounty Program: Ready To Hack Us?\n\n# Mergify Bug Bounty Program: Ready To Hack Us?\n\nAnnouncing the Launch of Our Public Bug Bounty Program with HackerOne\n\n#### Hugo Escafit\n\n 23 Oct 2023 —",
             "published": "2023-10-23T10:25:37.000Z",
             "score": 1
           },
@@ -4874,9 +4874,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-29T06:39:22.184Z"
+        "enriched_at": "2026-10-06T07:18:12.697Z"
       },
-      "timestamp": "2026-09-29T06:39:23.730Z"
+      "timestamp": "2026-10-06T07:18:14.435Z"
     },
     "coinhako": {
       "intel": {
@@ -4966,17 +4966,17 @@
             "score": 1
           },
           {
+            "title": "Arkose Labs: Anthropic and Arkose Labs: Claude Chrome Extension 0-Click Vulnerability Enables Silent Prompt Injection Attacks - Critical Severity Incident Analysis | Rankiteo",
+            "url": "https://www.rankiteo.com/company/arkoselabs/incident/ANTARK1774585435",
+            "snippet": "Arkose Labs: Anthropic and Arkose Labs: Claude Chrome Extension 0-Click Vulnerability Enables Silent Prompt Injection Attacks - Critical Severity Incident Analysis | Rankiteo\n\n# Incident Score: Analys",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "Private Bug Bounty Program with Bugcrowd",
             "url": "https://www.arkoselabs.com/news/arkose-labs-announces-private-bug-bounty-program-with-bugcrowd-to-strengthen-fraud-prevention-system",
             "snippet": "Private Bug Bounty Program with Bugcrowd\n\n# Arkose Labs Announces Private Bug Bounty Program with Bugcrowd to Strengthen Fraud Prevention System\n\nJuly 24, 2019\n\nImage courtesy of Help Net Security\n\nAr",
             "published": "2026-05-13T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Cryptography and RSA Key Recovery | buggerlogger/arkose-solver | DeepWiki",
-            "url": "https://deepwiki.com/buggerlogger/arkose-solver/2.4-cryptography-and-rsa-key-recovery",
-            "snippet": "Cryptography and RSA Key Recovery | buggerlogger/arkose-solver | DeepWiki\n\nRelevant source files\n\n- arkose/encryption.go\n- arkose/logger.go\n- arkose/vmkey.go\n\n## Purpose and Scope Copy link to header\n",
-            "published": null,
             "score": 0
           }
         ],
@@ -5006,9 +5006,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-29T06:39:25.970Z"
+        "enriched_at": "2026-10-06T07:18:14.435Z"
       },
-      "timestamp": "2026-09-29T06:39:27.499Z"
+      "timestamp": "2026-10-06T07:18:16.241Z"
     },
     "alsco": {
       "intel": {
@@ -5061,9 +5061,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-29T06:39:27.499Z"
+        "enriched_at": "2026-10-06T07:18:16.241Z"
       },
-      "timestamp": "2026-09-29T06:39:29.045Z"
+      "timestamp": "2026-10-06T07:18:17.993Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5974,10 +5974,10 @@
             "score": 0.5
           },
           {
-            "title": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit – Aspire Market Guides",
-            "url": "https://aspiremarketguides.com/cryptocurrency/yuga-labs-rescues-68-nfts-after-flooring-protocol-exploit/",
-            "snippet": "Yuga Labs rescues 68 NFTs after Flooring Protocol exploit – Aspire Market Guides\n\n# Yuga Labs rescues 68 NFTs after Flooring Protocol exploit\n\nBy Charlotte July 9, 2026 4 Mins Read\n\n \n\nYuga Labs has c",
-            "published": "2026-07-09T07:38:33.000Z",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/yuga_labs/policy_versions",
+            "snippet": "HackerOne\n\n## Policy versions\n\nIndex: yuga_labs.policy =================================================================== --- yuga_labs.policy @ 2024-07-08T17:54:19.582Z +++ yuga_labs.policy @ 2025-0",
+            "published": null,
             "score": 0
           }
         ],
@@ -6007,17 +6007,17 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-22T05:55:34.237Z"
+        "enriched_at": "2026-10-06T07:18:19.715Z"
       },
-      "timestamp": "2026-09-22T05:55:35.955Z"
+      "timestamp": "2026-10-06T07:18:21.398Z"
     },
     "abercrombie_fitch_bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/abercrombie_fitch_bbp",
-            "snippet": "Abercrombie & Fitch Bug Bounty | Bounty Policy | HackerOne\n\nClosed Scope\n\nOnly accepts reports based on the listed scope.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nManaged by Hack",
+            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
             "published": null,
             "score": 1
           },
@@ -6046,25 +6046,25 @@
             "score": 1
           },
           {
-            "title": "AChecker/CVE-2024-34523.md",
-            "url": "https://github.com/piuppi/Proof-of-Concepts/blob/main/AChecker/CVE-2024-34523.md",
-            "snippet": "# AChecker/CVE-2024-34523.md\n\n- Branch: main\n- Repository: piuppi/Proof-of-Concepts\n\n---\n\n# CVE-2024-34523: AChecker 1.5 Unauthenticated Path Traversal\nScreenshot\n### Overview\nAChecker (https://github",
+            "title": "0xdak/CVE-2026-53595_exploit",
+            "url": "https://github.com/0xdak/CVE-2026-53595_exploit",
+            "snippet": "# 0xdak/CVE-2026-53595_exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-21T19:36:31Z\n\n## Languages\n\n- Shell\n\n## Top Contributors\n\n- 0xdak (1 cont",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "0xdak/CVE-2026-53595_exploit",
-            "url": "https://github.com/0xdak/CVE-2026-53595_exploit",
-            "snippet": "# 0xdak/CVE-2026-53595_exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-21T19:36:31Z\n\n## Languages\n\n- Shell\n\n## Top Contributors\n\n- 0xdak (1 cont",
+            "title": "AChecker/CVE-2024-34523.md",
+            "url": "https://github.com/piuppi/Proof-of-Concepts/blob/main/AChecker/CVE-2024-34523.md",
+            "snippet": "# AChecker/CVE-2024-34523.md\n\n- Branch: main\n- Repository: piuppi/Proof-of-Concepts\n\n---\n\n# CVE-2024-34523: AChecker 1.5 Unauthenticated Path Traversal\nScreenshot\n### Overview\nAChecker (https://github",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-29T06:39:29.046Z"
+        "enriched_at": "2026-10-06T07:18:17.993Z"
       },
-      "timestamp": "2026-09-29T06:39:30.570Z"
+      "timestamp": "2026-10-06T07:18:19.715Z"
     },
     "wolt": {
       "intel": {
@@ -6347,14 +6347,14 @@
           {
             "title": "$170k in Bypasses: The Vercel React2Shell Challenge | Hacktron AI",
             "url": "https://www.hacktron.ai/blog/react2shell-vercel-waf-bypass",
-            "snippet": "$170k in Bypasses: The Vercel React2Shell Challenge | Hacktron AI\n\n Overview \n\n- Intro\n- The WAF Grammar Problem\n- Understanding the WAF\n- Bypass 1: Duplicate Boundary Parameter\n- Updating Our Observa",
+            "snippet": "$170k in Bypasses: The Vercel React2Shell Challenge | Hacktron AI\n\n# $170k in Bypasses: The Vercel React2Shell Challenge\n\nWorking with Vercel Team to Keep the Internet Secure from React2Shell \n\nginoah",
             "published": "2026-05-04T00:00:00.000Z",
             "score": 1
           },
           {
             "title": "SvelteSpill: A Cache Deception Bug in SvelteKit + Vercel",
             "url": "https://www.aikido.dev/blog/sveltespill-cache-deception-sveltekit-vercel",
-            "snippet": "Solutions\n\nSolutions\n\nResources\n\nAbout\n\nPricing Contact\n\nLogin Start for Free\n\nLogin\n\nMenu\n\nEN\n\nLogin Start for FreeNo CC required\n\nBlog Vulnerabilities & Threats\n\nSvelteSpill: A Cache Deception Bug i",
+            "snippet": "Login\n\nMenu\n\nEN\n\nLogin Start for Free No CC required\n\nBlog Vulnerabilities & Threats\n\nSvelteSpill: A Cache Deception Bug in SvelteKit + Vercel\n\n# SvelteSpill: A Cache Deception Bug in SvelteKit + Verc",
             "published": null,
             "score": 0.5
           },
@@ -6376,25 +6376,25 @@
             "score": 1
           },
           {
-            "title": "fix(security): arbitrary code execution via path traversal in x-matched-path header",
-            "url": "https://github.com/vercel/vercel/pull/15995",
-            "snippet": "# fix(security): arbitrary code execution via path traversal in x-matched-path header\n\n- State: open\n- Author: failsafesecurity\n- Created: 2026-04-16T01:54:51Z\n- Updated: 2026-04-22T07:16:53Z\n- Reposi",
+            "title": "yuchant/critical-cve-demo",
+            "url": "https://github.com/yuchant/critical-cve-demo",
+            "snippet": "# yuchant/critical-cve-demo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- Default branch: main\n- Created: 2025-12-09T07:14:20Z\n\n## Languages\n\n- CSS\n- TypeScript\n\n## Top Contributors\n\n- yucha",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "yuchant/critical-cve-demo",
-            "url": "https://github.com/yuchant/critical-cve-demo",
-            "snippet": "# yuchant/critical-cve-demo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- Default branch: main\n- Created: 2025-12-09T07:14:20Z\n\n## Languages\n\n- CSS\n- TypeScript\n\n## Top Contributors\n\n- yucha",
+            "title": "fix(security): arbitrary code execution via path traversal in x-matched-path header",
+            "url": "https://github.com/vercel/vercel/pull/15995",
+            "snippet": "# fix(security): arbitrary code execution via path traversal in x-matched-path header\n\n- State: open\n- Author: failsafesecurity\n- Created: 2026-04-16T01:54:51Z\n- Updated: 2026-04-22T07:16:53Z\n- Reposi",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-29T06:39:17.496Z"
+        "enriched_at": "2026-10-06T07:18:07.379Z"
       },
-      "timestamp": "2026-09-29T06:39:19.071Z"
+      "timestamp": "2026-10-06T07:18:09.122Z"
     },
     "live_nation": {
       "intel": {
@@ -6617,5 +6617,5 @@
       "timestamp": "2026-10-02T06:47:33.501Z"
     }
   },
-  "lastRun": "2026-10-05T06:37:42.455Z"
+  "lastRun": "2026-10-06T07:18:21.398Z"
 }
