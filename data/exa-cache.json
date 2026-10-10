@@ -1390,24 +1390,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "Anduril’s 0B AI Kill-Chain Fails: How To Pen-Test Autonomous Drone Systems & Harden Counter-UAS Platforms - Undercode Testing",
+            "url": "https://undercodetesting.com/andurils-0b-ai-kill-chain-fails-how-to-pen-test-autonomous-drone-systems-harden-counter-uas-platforms/",
+            "snippet": "Anduril’s 0B AI Kill-Chain Fails: How To Pen-Test Autonomous Drone Systems & Harden Counter-UAS Platforms - Undercode Testing\n\n# Anduril’s 0B AI Kill-Chain Fails: How to Pen-Test Autonomous Drone Syst",
+            "published": "2026-06-13T16:47:43.000Z",
+            "score": 1
+          },
+          {
             "title": "Unchiseled, the story of my first CVE (CVE-2024-43798)",
             "url": "https://blog.fyralabs.com/unchiseled/",
-            "snippet": "Unchiseled, the story of my first CVE (CVE-2024-43798)\n\nI've always found it ironic how the worst vulnerabilities are often caused by the simplest mistakes. Today, I will be talking about CVE-2024-437",
+            "snippet": "Unchiseled, the story of my first CVE (CVE-2024-43798)\n\n# Unchiseled, the story of my first CVE (CVE-2024-43798)\n\nWe discovered a major flaw in Chisel, the upstream for Chisel Operator. Manual interve",
             "published": "2024-08-27T04:48:06.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way",
             "url": "https://sechub.in/view/3198032",
             "snippet": "How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way\n\n# How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way\n\n InfoSec Write-ups - Medium 2026-0",
             "published": "2026-03-28T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "MAL-2026-2083 - Vulnerability-Lookup",
-            "url": "https://cve.circl.lu/vuln/mal-2026-2083",
-            "snippet": "MAL-2026-2083 - Vulnerability-Lookup\n\n###### Vulnerability from ossf_malicious_packages \n\nPublished 2026-03-23 08:06\n\nModified 2026-04-10 15:51\n\nSummary Malicious code in anduril-sdk (PyPI)\n\nDetails\n\n",
-            "published": "2026-03-23T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -1437,9 +1437,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:14.144Z"
+        "enriched_at": "2026-10-10T06:46:06.107Z"
       },
-      "timestamp": "2026-10-03T06:09:15.650Z"
+      "timestamp": "2026-10-10T06:46:07.730Z"
     },
     "twilio": {
       "intel": {
@@ -1455,7 +1455,7 @@
             "title": "CVE-2026-4984: Twilio Integration Information Disclosure",
             "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-4984/",
             "snippet": "CVE-2026-4984: Twilio Integration Information Disclosure\n\n# CVE-2026-4984: Twilio Integration Information Disclosure\n\nCVE-2026-4984 is an information disclosure flaw in Twilio webhook integration that",
-            "published": "2026-04-03T00:05:15.000Z",
+            "published": "2026-03-27T15:17:03.000Z",
             "score": 0.5
           },
           {
@@ -1492,32 +1492,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:15.650Z"
+        "enriched_at": "2026-10-10T06:46:07.730Z"
       },
-      "timestamp": "2026-10-03T06:09:17.234Z"
+      "timestamp": "2026-10-10T06:46:09.310Z"
     },
     "doordash": {
       "intel": {
         "writeups": [
           {
-            "title": "DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical Clashes | LavX News",
-            "url": "https://news.lavx.hu/article/doordash-email-spoofing-flaw-ignites-bug-bounty-battle-15-months-of-neglect-and-ethical-clashes",
-            "snippet": "DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical Clashes | LavX News\n\n# DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical",
-            "published": "2025-11-17T00:00:00.000Z",
+            "title": "From One Tracking URL to Every DoorDash Customer's PII — luke farchione",
+            "url": "https://j4eva.io/blog/doordash-sendbird-pii",
+            "snippet": "From One Tracking URL to Every DoorDash Customer's PII — luke farchione\n\n# From One Tracking URL to Every DoorDash Customer's PII\n\nj4eva June 2026 CVSS 9.1 P1 + CVSS 7.5 Still exploitable\n\n## TL;DR\n\nD",
+            "published": null,
             "score": 1
           },
           {
-            "title": "Untitled",
-            "url": "https://cybernoz.com/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
-            "snippet": "# DoorDash email spoofing vulnerability sparks messy disclosure dispute\n\nTable of Contents\n\n1. Anyone could send 'official' DoorDash emails\n2. Escalated after 15 months\n3. Ethical disclosure derailed,",
-            "published": null,
+            "title": "DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical Clashes | LavX News",
+            "url": "https://news.lavx.hu/article/doordash-email-spoofing-flaw-ignites-bug-bounty-battle-15-months-of-neglect-and-ethical-clashes",
+            "snippet": "DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical Clashes | LavX News\n\n# DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical",
+            "published": "2025-11-17T17:02:29.000Z",
             "score": 0.5
           },
           {
-            "title": "DoorDash made third-party access a delivery-data accountability test",
-            "url": "https://btw.media/en/doordash-2019-third-party-breach-delivery-data-accountability",
-            "snippet": "DoorDash made third-party access a delivery-data accountability test\n\n## Why it matters\n\nDoorDash is a risk and accountability case because its 2019 third-party service provider breach showed how a de",
-            "published": "2026-07-15T00:00:00.000Z",
+            "title": "RDXS-2026-004: OAuth Account Takeover in DoorDash Android App | Redeux Security",
+            "url": "https://security.redeux.ai/advisories/doordash-oauth-ato",
+            "snippet": "RDXS-2026-004: OAuth Account Takeover in DoorDash Android App | Redeux Security\n\n# OAuth Account Takeover in DoorDash Android App\n\nCustom scheme redirect hijacking, no PKCE enforcement, and a hardcode",
+            "published": "2026-03-10T01:15:53.000Z",
             "score": 0
           }
         ],
@@ -1531,25 +1531,25 @@
             "score": 1
           },
           {
-            "title": "francisschmaltz/doordash-cli-mcp",
-            "url": "https://github.com/francisschmaltz/doordash-cli-mcp",
-            "snippet": "# francisschmaltz/doordash-cli-mcp\n\nLocal Streamable HTTP MCP wrapper for DoorDash CLI\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-31T00:24:59Z\n\n## ",
+            "title": "shivanished/doordash-mcp",
+            "url": "https://github.com/shivanished/doordash-mcp",
+            "snippet": "# shivanished/doordash-mcp\n\ndoordash mcp so agents without shell access can order food\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: upgrade/dd-cli-v0.",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "shivanished/doordash-mcp",
-            "url": "https://github.com/shivanished/doordash-mcp",
-            "snippet": "# shivanished/doordash-mcp\n\ndoordash mcp so agents without shell access can order food\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: upgrade/dd-cli-v0.",
+            "title": "francisschmaltz/doordash-cli-mcp",
+            "url": "https://github.com/francisschmaltz/doordash-cli-mcp",
+            "snippet": "# francisschmaltz/doordash-cli-mcp\n\nLocal Streamable HTTP MCP wrapper for DoorDash CLI\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-31T00:24:59Z\n\n## ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:17.235Z"
+        "enriched_at": "2026-10-10T06:46:09.310Z"
       },
-      "timestamp": "2026-10-03T06:09:18.859Z"
+      "timestamp": "2026-10-10T06:46:10.871Z"
     },
     "robinhood": {
       "intel": {
@@ -1602,9 +1602,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:18.859Z"
+        "enriched_at": "2026-10-10T06:46:10.871Z"
       },
-      "timestamp": "2026-10-03T06:09:20.446Z"
+      "timestamp": "2026-10-10T06:46:12.426Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1665,23 +1665,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "Banco Plata | Hacktivity | HackerOne",
-            "url": "https://hackerone.com/banco_plata/hacktivity",
-            "snippet": "Banco Plata | Hacktivity | HackerOne\n\nBanco Plata\n\nBug reported by\n\nnismo\n\nwas resolved\n\n22 hrs ago\n\nBanco Plata\n\nBug reported by\n\nnismo\n\nwas resolved\n\n3 days ago\n\nBanco Plata\n\nBug reported by\n\nnismo\n",
+            "title": "Banco Plata — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/banco_plata",
+            "snippet": "Banco Plata — HackerOne bug bounty | BountyHunte.rs\n\n# Banco Plata\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximu",
             "published": null,
             "score": 1
           },
           {
-            "title": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/banco_plata",
-            "snippet": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com\n\n# banco_plata\n\n2 Out of Scope\n\nIn-Scope Assets (4)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| *.bancopl",
+            "title": "Banco Plata | Security Program",
+            "url": "https://ooosec.com/programs/banco-plata",
+            "snippet": "Banco Plata | Security Program\n\n## Introduction\n\n🛡️ Banco Plata\n\nSecurity is a shared responsibility - and a shared passion. At Banco Plata, we believe the best way to build secure systems is to open",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Banco Plata Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/banco-plata/",
-            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\n# Banco Plata\n\nBounty \n\n## Program Details \n\n Handle \n: banco_plata \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 7 days \nBounty Time\n: 352 days",
+            "title": "Banco Plata: Rating & Reviews · BugRater",
+            "url": "https://bugrater.com/programs/banco-plata",
+            "snippet": "Banco Plata: Rating & Reviews · BugRater\n\n NR Unrated \n\nBanco Plata Banco Plata HackerOne \n\n 3 more reviews needed for a grade \n\n If you would rather not deal with the vendor yourself, a BugRater anal",
             "published": null,
             "score": 0
           }
@@ -1712,9 +1712,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:20.446Z"
+        "enriched_at": "2026-10-10T06:46:12.426Z"
       },
-      "timestamp": "2026-10-03T06:09:22.064Z"
+      "timestamp": "2026-10-10T06:46:13.998Z"
     },
     "netscaler_public_program": {
       "intel": {
@@ -1727,17 +1727,17 @@
             "score": 1
           },
           {
+            "title": "You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?))",
+            "url": "https://labs.watchtowr.com/youre-back-in-the-room-citrix-netscaler-pre-auth-rce-cve-2026-8452/",
+            "snippet": "You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?))\n\n# You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?))\n\nAuthor\n\n- Sina Kheirkhah (@SinSinology)\n\n Publishe",
+            "published": "2026-08-14T07:08:20.000Z",
+            "score": 0.5
+          },
+          {
             "title": "0xBlackash/CVE-2026-3055",
             "url": "https://github.com/0xBlackash/CVE-2026-3055",
             "snippet": "# 0xBlackash/CVE-2026-3055\n\nCVE-2026-3055\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-29T10:58:13Z\n\n## Top Contributors\n\n- 0xBlackash (2 contributio",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "💀 Citrix Netscaler Application Delivery Controller — PoC exploit for CVE-2025-5777 | Sploitus",
-            "url": "https://sploitus.com/exploit?id=1ECCA324-B41F-5BF1-AFB8-3822010A8AE1",
-            "snippet": "💀 Citrix Netscaler Application Delivery Controller — PoC exploit for CVE-2025-5777 | Sploitus\n\n# Exploit for Out-of-bounds Read in Citrix Netscaler Application Delivery Controller\n\ngithubexploit · 20",
-            "published": "2025-08-20T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -1758,18 +1758,18 @@
             "score": 0.5
           },
           {
-            "title": "modules%2Fauxiliary%2Fscanner%2Fhttp%2Fcitrix_netscaler_cve_2026_3055.rb",
-            "url": "https://github.com/rapid7/metasploit-framework/blob/4a8bcefecfa0c00b9257f8f35eaf34097a6c1ae2/modules%2Fauxiliary%2Fscanner%2Fhttp%2Fcitrix_netscaler_cve_2026_3055.rb",
-            "snippet": "# modules%2Fauxiliary%2Fscanner%2Fhttp%2Fcitrix_netscaler_cve_2026_3055.rb\n\n- Branch: 4a8bcefecfa0c00b9257f8f35eaf34097a6c1ae2\n- Repository: rapid7/metasploit-framework\n\n---\n\n##\n# This module requires",
+            "title": "mpgn/CVE-2019-19781",
+            "url": "https://github.com/mpgn/cve-2019-19781",
+            "snippet": "# mpgn/CVE-2019-19781\n\nCVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit\n\n- Stars: 158\n- Forks: 34\n- Watchers: 158\n- Open issues: 2\n- Default branch: master\n- Created: 2020-01-11T",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:22.064Z"
+        "enriched_at": "2026-10-10T06:46:13.998Z"
       },
-      "timestamp": "2026-10-03T06:09:23.612Z"
+      "timestamp": "2026-10-10T06:46:15.568Z"
     },
     "meesho_bbp": {
       "intel": {
@@ -4394,24 +4394,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "Magic Eden Recovers $5.7M in NFTs After Limit Break Exploit | Kurslog",
+            "url": "https://kurslog.com/en/news/magic-eden-nft-exploit-payment-processor",
+            "snippet": "Magic Eden Recovers $5.7M in NFTs After Limit Break Exploit | Kurslog\n\n# Magic Eden Recovers $5.7M in NFTs After Limit Break Exploit\n\nSeptember 25, 2026 3 min read\n\nNataliia Dorofieieva\n\nMagic Eden wa",
+            "published": "2026-09-25T18:27:01.000Z",
+            "score": 1
+          },
+          {
             "title": "Magic Eden Exploit: $2.8M Stolen, $5.7M NFTs Saved",
             "url": "https://shattered.io/magic-eden-limit-break-exploit-2-8-million-2026/",
             "snippet": "Magic Eden Exploit: $2.8M Stolen, $5.7M NFTs Saved\n\n# Magic Eden Exploit: $2.8M Stolen, $5.7M in NFTs Saved [2026]\n\nDr. Elena Marchetti Updated Sep 30, 2026 · 15 min read\n\nA vulnerability in a marketp",
             "published": "2026-09-30T04:05:47.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Magic Eden Exploit Explained: A Dead Marketplace, Living Approvals, and a $5.7M Whitehat Rescue — Onchain Diary",
             "url": "https://theonchaindiary.com/articles/magic-eden-payment-processor-exploit/",
             "snippet": "Magic Eden Exploit Explained: A Dead Marketplace, Living Approvals, and a $5.7M Whitehat Rescue — Onchain Diary\n\nOn this page\n\n# Magic Eden Exploit Explained: A Dead Marketplace, Living Approvals, and",
             "published": "2026-09-25T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Magic Eden Legacy Approvals Expose $5.7M in NFTs as Limit Break Bug Triggers Rescue",
-            "url": "https://financefeeds.com/magic-eden-legacy-approvals-expose-5-7m-in-nfts-as-limit-break-bug-triggers-rescue/",
-            "snippet": "Skip to content\n\n- CMC, Digital Assets\n\n# Magic Eden Legacy Approvals Expose $5.7M in NFTs as Limit Break Bug Triggers Rescue\n\n- By Abdelaziz Fathi\n- September 26, 2026\n- Share\n\nPreferred source\n\nMagi",
-            "published": null,
             "score": 0
           }
         ],
@@ -4441,9 +4441,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:23.612Z"
+        "enriched_at": "2026-10-10T06:46:15.568Z"
       },
-      "timestamp": "2026-10-03T06:09:25.208Z"
+      "timestamp": "2026-10-10T06:46:17.181Z"
     },
     "boozt": {
       "intel": {
@@ -5802,17 +5802,17 @@
             "score": 1
           },
           {
+            "title": "Coupang Taiwan Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
+            "url": "https://blog.pentestnepal.tech/bugbounty/coupang-taiwan/",
+            "snippet": "Coupang Taiwan Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# Coupang Taiwan Bug Bounty Program\n\nComplete guide to Coupang Taiwan's bug bounty program on HackerOne. View in-sc",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach - Huli's blog",
             "url": "https://blog.huli.tw/2026/03/19/en/coupang-insider-kms-and-jwt/",
             "snippet": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach - Huli's blog\n\n# Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach \n\n 19 March 2026 Security \n\n(",
             "published": "2026-03-19T02:28:05.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach",
-            "url": "https://unsafe.sh/go-403500.html",
-            "snippet": "Learn Internal Threats, Key Management, and JWT from the Coupang Data Breach\n\n---\n\nSince November last year, the data breach incident at Coupang has attracted considerable attention, partly due to the",
-            "published": null,
             "score": 0
           }
         ],
@@ -5842,9 +5842,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:12.581Z"
+        "enriched_at": "2026-10-10T06:46:04.545Z"
       },
-      "timestamp": "2026-10-03T06:09:14.144Z"
+      "timestamp": "2026-10-10T06:46:06.107Z"
     },
     "anthropic": {
       "intel": {
@@ -5952,9 +5952,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:10.946Z"
+        "enriched_at": "2026-10-10T06:46:02.871Z"
       },
-      "timestamp": "2026-10-03T06:09:12.581Z"
+      "timestamp": "2026-10-10T06:46:04.544Z"
     },
     "yuga_labs": {
       "intel": {
@@ -6070,23 +6070,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "Wolt — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/wolt",
-            "snippet": "Wolt — HackerOne bug bounty | BountyHunte.rs\n\n# Wolt\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is not a gua",
+            "title": "Wolt - Bug Bounty Program - Intigriti",
+            "url": "https://app.intigriti.com/programs/wolt/wolt/detail",
+            "snippet": "Wolt - Bug Bounty Program - Intigriti\n\n Description \n\nWe provide a platform for: - Businesses to sell products (like food, clothing and even electronics). - Customers to purchase such products and get",
             "published": null,
             "score": 1
           },
           {
-            "title": "CVE-2023-22429 - Vulnerability Details - OpenCVE",
-            "url": "https://app.opencve.io/cve/CVE-2023-22429",
-            "snippet": "CVE-2023-22429 - Vulnerability Details - OpenCVE\n\nDescription\n\n Android App 'Wolt Delivery: Food and more' version 4.27.2 and earlier uses hard-coded credentials (API key for an external service), whi",
-            "published": "2023-04-11T00:00:00.000Z",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/wolt/policy_versions",
+            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Wolt: Rating & Reviews · BugRater",
-            "url": "https://bugs.maliqbarnard.com/programs/wolt",
-            "snippet": "Wolt: Rating & Reviews · BugRater\n\n NR Unrated \n\nWolt Wolt HackerOne \n\n 3 more reviews needed for a grade \n\n Program page hackerone.com ↗ \n\n If you would rather not deal with the vendor yourself, a Bu",
+            "title": "Wolt — HackerOne bug bounty | BountyHunte.rs",
+            "url": "https://bountyhunte.rs/programs/wolt",
+            "snippet": "Wolt — HackerOne bug bounty | BountyHunte.rs\n\n# Wolt\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is not a gua",
             "published": null,
             "score": 0
           }
@@ -6117,9 +6117,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-03T06:09:09.180Z"
+        "enriched_at": "2026-10-10T06:46:01.296Z"
       },
-      "timestamp": "2026-10-03T06:09:10.946Z"
+      "timestamp": "2026-10-10T06:46:02.871Z"
     },
     "vercel_sandbox": {
       "intel": {
@@ -6617,5 +6617,5 @@
       "timestamp": "2026-10-09T07:11:30.786Z"
     }
   },
-  "lastRun": "2026-10-09T07:11:45.518Z"
+  "lastRun": "2026-10-10T06:46:17.181Z"
 }
