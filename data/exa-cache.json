@@ -5124,9 +5124,9 @@
       "intel": {
         "writeups": [
           {
-            "title": "Modern Treasury | Bounty Policy | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/modern_treasury",
-            "snippet": "Modern Treasury | Bounty Policy | HackerOne\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nManaged by HackerOne Collaboration Enabled Includes Retesting\n\n1 day, 14 hours\n\nAverage time ",
+            "snippet": "HackerOne\n\n‌‌‌\n\n‌‌‌‌‌\n\n‌‌\n\n‌‌\n\n‌‌‌‌‌\n\n‌‌‌\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:imag",
             "published": null,
             "score": 1
           },
@@ -5140,8 +5140,8 @@
           {
             "title": "Modern Treasury Journal - Edge Cases in Complex Payment Operations",
             "url": "https://www.moderntreasury.com/journal/edge-cases-in-complex-payment-operations",
-            "snippet": "Modern Treasury Journal - Edge Cases in Complex Payment Operations\n\n•July 1, 2022\n\n# Edge Cases in Complex Payment Operations\n\nPayment operations is complicated. Technical challenges can arise for myr",
-            "published": "2022-07-01T13:06:31.000Z",
+            "snippet": "Modern Treasury Journal - Edge Cases in Complex Payment Operations\n\n• July 1, 2022\n\n# Edge Cases in Complex Payment Operations\n\nPayment operations is complicated. Technical challenges can arise for my",
+            "published": "2022-07-01T20:35:47.000Z",
             "score": 0
           }
         ],
@@ -5155,48 +5155,48 @@
             "score": 1
           },
           {
-            "title": "efeanilarslan/CVE-2026-42167-Exploit",
-            "url": "https://github.com/efeanilarslan/CVE-2026-42167-Exploit",
-            "snippet": "# efeanilarslan/CVE-2026-42167-Exploit\n\nPython exploit for CVE-2026-42167 (ProFTPD mod_sql). Features automated file scanning and timing-based blind data exfiltration.\n\n- Stars: 0\n- Forks: 0\n- Watcher",
-            "published": "2026-05-02T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "CVE-2024-57698.py",
             "url": "https://github.com/rodolfomarianocy/xpl-ModernWMS-CVE-2024-57698/blob/main/CVE-2024-57698.py",
             "snippet": "# CVE-2024-57698.py\n\n- Branch: main\n- Repository: rodolfomarianocy/xpl-ModernWMS-CVE-2024-57698\n\n---\n\n# Exploit Title: ModernWMS v1.0 - Admin MD5 Password Hash Disclosure - CVE-2024-57698\n# Date: 31/1",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "efeanilarslan/CVE-2026-42167-Exploit",
+            "url": "https://github.com/efeanilarslan/CVE-2026-42167-Exploit",
+            "snippet": "# efeanilarslan/CVE-2026-42167-Exploit\n\nPython exploit for CVE-2026-42167 (ProFTPD mod_sql). Features automated file scanning and timing-based blind data exfiltration.\n\n- Stars: 0\n- Forks: 0\n- Watcher",
+            "published": "2026-05-02T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-12T05:28:13.641Z"
+        "enriched_at": "2026-10-14T05:54:19.684Z"
       },
-      "timestamp": "2026-09-12T05:28:15.274Z"
+      "timestamp": "2026-10-14T05:54:21.357Z"
     },
     "notion": {
       "intel": {
         "writeups": [
           {
-            "title": "@notionhq/client - High Vulnerability - AIKIDO-2026-10135",
-            "url": "https://intel.aikido.dev/cve/AIKIDO-2026-10135",
-            "snippet": "@notionhq/client - High Vulnerability - AIKIDO-2026-10135\n\n# AIKIDO-2026-10135\n\n@notionhq/client is vulnerable to Directory Traversal\n\nDirectory Traversal Pre-CVE\n\nPublished Feb 9, 2026\n\n70\n\nHigh Risk",
+            "title": "Files to Notion: How I Won $2,000 in the Notion Bug Bounty Program",
+            "url": "https://www.files2notion.com/blog/how-i-won-in-the-notion-bug-bounty-program",
+            "snippet": "Files to Notion: How I Won $2,000 in the Notion Bug Bounty Program\n\n## TLDR\n\nThe bug allowed downloading paid Notion Templates for free, if they were listed on the Notion Template Marketplace (https:/",
             "published": null,
             "score": 1
+          },
+          {
+            "title": "@notionhq/client - High Vulnerability - AIKIDO-2026-10135",
+            "url": "https://intel.aikido.dev/cve/AIKIDO-2026-10135",
+            "snippet": "@notionhq/client - High Vulnerability - AIKIDO-2026-10135\n\n# AIKIDO-2026-10135\n\n@notionhq/client is vulnerable to Directory Traversal\n\n Pre-CVE \n\n Found by Aikido Intel before public disclosure or CVE",
+            "published": "2026-02-09T00:00:00.000Z",
+            "score": 0.5
           },
           {
             "title": "Notion AI: Data Exfiltration | PromptArmor",
             "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
             "snippet": "Notion AI: Data Exfiltration | PromptArmor\n\n# Notion AI: Data Exfiltration\n\nUPDATE Jan 8th: It seems our initial disclosure was triaged by the HackerOne team before it reached the Notion team. Once No",
-            "published": "2026-01-09T17:53:05.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Notion Labs, Inc. | Security Program",
-            "url": "https://ooosec.com/programs/notion-labs-inc",
-            "snippet": "Notion Labs, Inc. | Security Program\n\n# Something went wrong\n\nWe've been notified and will look into it. You can try again, or head back home.",
-            "published": null,
+            "published": "2026-01-09T19:06:12.000Z",
             "score": 0
           }
         ],
@@ -5217,18 +5217,18 @@
             "score": 0.5
           },
           {
-            "title": "giovannipajeu1/CVE-2024-23743",
-            "url": "https://github.com/V3x0r/CVE-2024-23743",
-            "snippet": "# giovannipajeu1/CVE-2024-23743\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2023-12-19T17:07:27Z\n\n## Top Contributors\n\n- giovannipajeu1 (3 contributions)\n\n-",
+            "title": "makenotion-security/vulnerability-factory",
+            "url": "https://github.com/makenotion-security/vulnerability-factory",
+            "snippet": "# makenotion-security/vulnerability-factory\n\nVulnerability Factory: a Notion-backed multi-agent workflow for security vulnerability discovery, triage, validation, and patching.\n\n- Stars: 1\n- Forks: 0\n",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-14T05:54:58.061Z"
+        "enriched_at": "2026-10-14T05:54:21.357Z"
       },
-      "timestamp": "2026-09-14T05:54:59.724Z"
+      "timestamp": "2026-10-14T05:54:23.051Z"
     },
     "mpesa": {
       "intel": {
@@ -5300,23 +5300,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "FloQast | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/floqast?type=team",
-            "snippet": "FloQast | Bounty Policy | HackerOne\n\nCollaboration Enabled Includes Retesting\n\n5 hours\n\nAverage time to first response\n\n3 weeks, 3 days\n\nAverage time to triage\n\n1 month, 2 days\n\nAverage time to bounty",
+            "title": "FloQast Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
+            "url": "https://blog.pentestnepal.tech/bugbounty/floqast/",
+            "snippet": "FloQast Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# FloQast Bug Bounty Program\n\nComplete guide to FloQast's bug bounty program on HackerOne. View in-scope assets, reward am",
             "published": null,
             "score": 1
           },
           {
-            "title": "FloQast Case Study | PortSwigger",
-            "url": "https://portswigger.net/customer-stories/floqast-case-study",
-            "snippet": "FloQast Case Study | PortSwigger\n\n# How FloQast are streamlining testing workflows and providing actionable reporting for their developers.\n\nIn this story\n\nIntroductionKey highlightsOwen's workflowMap",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/floqast?type=team",
+            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n‌‌‌\n\n‌‌‌‌‌\n\n‌‌\n\n‌‌\n\n‌‌‌‌‌\n\n‌‌‌\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.s",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Case Study: Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast | FloQast",
-            "url": "https://www.floqast.com/stories/qualys-inc-modernizes-sox-compliance-improves-the-annual-audit-with-floqast?_thumbnail_id=6981",
-            "snippet": "Case Study: Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast | FloQast\n\n# Qualys Inc. Modernizes SOX Compliance & Improves the Annual Audit with FloQast\n\nobjective\n\nTo im",
+            "title": "FloQast Case Study | PortSwigger",
+            "url": "https://portswigger.net/customer-stories/floqast-case-study",
+            "snippet": "FloQast Case Study | PortSwigger\n\nDownload the latest version of Burp Suite.\n\nHow FloQast are streamlining testing workflows and providing actionable reporting for their developers.\n\nIn this story\n\nIn",
             "published": null,
             "score": 0
           }
@@ -5347,9 +5347,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-16T05:43:14.872Z"
+        "enriched_at": "2026-10-14T05:54:23.051Z"
       },
-      "timestamp": "2026-09-16T05:43:16.501Z"
+      "timestamp": "2026-10-14T05:54:24.637Z"
     },
     "palantir_public": {
       "intel": {
@@ -5369,9 +5369,9 @@
             "score": 0.5
           },
           {
-            "title": "Palantir Public | Report #1525200 - SQL Injection at https://files.palantir.com/ due to CVE-2021-38159 | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/reports/1525200",
-            "snippet": "Palantir Public | Report #1525200 - SQL Injection at https://files.palantir.com/ due to CVE-2021-38159 | HackerOne\n\n120\n\nCopy report id\n\nSQL Injection at https://files.palantir.com/ due to CVE-2021-38",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
             "published": null,
             "score": 0
           }
@@ -5388,23 +5388,23 @@
           {
             "title": "horizon3ai/CVE-2024-9464",
             "url": "https://github.com/horizon3ai/CVE-2024-9464",
-            "snippet": "# horizon3ai/CVE-2024-9464\n\nProof of Concept Exploit for CVE-2024-9464\n\n- Stars: 44\n- Forks: 9\n- Watchers: 44\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-09T16:36:25Z\n\n## Languages\n\n- P",
+            "snippet": "# horizon3ai/CVE-2024-9464\n\nProof of Concept Exploit for CVE-2024-9464\n\n- Stars: 45\n- Forks: 9\n- Watchers: 45\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-09T16:36:25Z\n\n## Languages\n\n- P",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "sam00/POC-CVE-2026-0300-exploit",
-            "url": "https://github.com/sam00/POC-CVE-2026-0300-exploit",
-            "snippet": "# sam00/POC-CVE-2026-0300-exploit\n\nPalo Alto - CVE-2026-0300 exploit\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-06T12:37:02Z\n\n## Languages\n\n- Pytho",
+            "title": "modules/exploits/linux/http/paloalto_expedition_rce.rb",
+            "url": "https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/paloalto_expedition_rce.rb",
+            "snippet": "# modules/exploits/linux/http/paloalto_expedition_rce.rb\n\n- Branch: master\n- Repository: rapid7/metasploit-framework\n\n---\n\nclass MetasploitModule < Msf::Exploit::Remote\n\n class XsrfExceptionError < St",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-16T05:43:16.502Z"
+        "enriched_at": "2026-10-14T05:54:24.637Z"
       },
-      "timestamp": "2026-09-16T05:43:18.068Z"
+      "timestamp": "2026-10-14T05:54:26.191Z"
     },
     "mongodb": {
       "intel": {
@@ -5426,7 +5426,7 @@
           {
             "title": "[pymongo] out-of-bounds read PoC (CVE-2024-5629)",
             "url": "https://gist.github.com/keltecc/62a7c2bf74a997d0a7b48a0ff3853a03",
-            "snippet": "# [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Owner: keltecc\n- Created: 2024-03-03T23:53:34Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## !README.md\n\nLanguage: Markdown\n\n_Assigned CVE_: [CVE-202",
+            "snippet": "# [pymongo] out-of-bounds read PoC (CVE-2024-5629)\n\n- Owner: keltecc\n- Created: 2024-03-03T23:53:34Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## !README.md\n\nLanguage: Markdown\n\n_Assigned CVE_: CVE-2024",
             "published": null,
             "score": 0
           }
@@ -5457,32 +5457,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-16T05:43:18.068Z"
+        "enriched_at": "2026-10-14T05:54:26.192Z"
       },
-      "timestamp": "2026-09-16T05:43:19.674Z"
+      "timestamp": "2026-10-14T05:54:27.813Z"
     },
     "ripio": {
       "intel": {
         "writeups": [
           {
-            "title": "Ripio RCN Network Smart Contract Audit Report",
-            "url": "https://www.coinfabrik.com/blog/ripio-credit-network-rcn-smart-contract-audit/",
-            "snippet": "Ripio RCN Network Smart Contract Audit Report\n\n# RCN Network Smart Contract Audit\n\n Author CoinFabrik \n\n Published on: 15 November, 2017 \n\nCoinfabrik’s smart contract audit team was commissioned to co",
-            "published": "2017-11-15T15:09:46.000Z",
+            "title": "Ripio Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
+            "url": "https://blog.pentestnepal.tech/bugbounty/ripio/",
+            "snippet": "Ripio Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# Ripio Bug Bounty Program\n\nComplete guide to Ripio's bug bounty program on HackerOne. View in-scope assets, reward amounts,",
+            "published": null,
             "score": 1
+          },
+          {
+            "title": "Medium",
+            "url": "https://medium.com/@ethan_hunt/when-account-lockout-isnt-really-a-lockout-a-security-flaw-in-authentication-b4835a74f28c",
+            "snippet": "Medium\n\n# When “Account Lockout” Isn’t Really a Lockout: A Security Flaw in Authentication\n\nMandar Satam\n\nOct 2, 2025\n\nBackground\n\nOn September 29, 2025 I submitted a responsible disclosure to Ripio’s",
+            "published": "2025-10-02T00:10:24.000Z",
+            "score": 0.5
           },
           {
             "title": "Ripio audit by Hacken",
             "url": "https://hacken.io/audits/ripio/sca-lachain-bridge-oct2023/",
-            "snippet": "Ripio audit by Hacken\n\nQ2 2026 Security & Compliance Report67 incidents, $764M in losses, 88% from operational failures.Get the report →\n\n- Hacken\n- Audits\n- ripio\n- [SCA] LaChain | Bridge | Oct2023\n\n",
+            "snippet": "Q2 2026 Security & Compliance Report67 incidents, $764M in losses, 88% from operational failures.Get the report →\n\n- Hacken\n- Audits\n- ripio\n- [SCA] LaChain | Bridge | Oct2023\n\nRipio\n\nAudit name:\n\n[SC",
             "published": "2023-10-17T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Ripio Token Audit - OpenZeppelin blog",
-            "url": "https://www.openzeppelin.com/news/ripio-token-audit-abe43b887664",
-            "snippet": "Ripio Token Audit - OpenZeppelin blog\n\n# Ripio Token Audit\n\nTable of Content\n\n- October 23, 2017 \n\nOpenZeppelin\n\nOpenZeppelin\n\nThe Ripio team asked us to review and audit their Ripio Credit Network To",
-            "published": "2017-10-23T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5503,41 +5503,41 @@
             "score": 0.5
           },
           {
-            "title": "poc.py",
-            "url": "https://github.com/nanwinata/nginxrift-CVE-2026-42945/blob/main/poc.py",
-            "snippet": "# poc.py\n\n- Branch: main\n- Repository: nanwinata/nginxrift-CVE-2026-42945\n\n---\n\n#!/usr/bin/env python3\n\"\"\"\nNGINX Rift RCE Exploit (CVE-2026-42945) - Pro Edition\n---------------------------------------",
+            "title": "modules/auxiliary/scanner/http/rips_traversal.rb",
+            "url": "https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/http/rips_traversal.rb",
+            "snippet": "# modules/auxiliary/scanner/http/rips_traversal.rb\n\n- Branch: master\n- Repository: rapid7/metasploit-framework\n\n---\n\n##\n# This module requires Metasploit: https://metasploit.com/download\n# Current sou",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-16T05:43:19.675Z"
+        "enriched_at": "2026-10-14T05:54:27.813Z"
       },
-      "timestamp": "2026-09-16T05:43:21.208Z"
+      "timestamp": "2026-10-14T05:54:29.380Z"
     },
     "deribit": {
       "intel": {
         "writeups": [
           {
+            "title": "Security Audit Report: Reentrancy & Access Control Review: Deribit - DEV Community",
+            "url": "https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-deribit-1pnj",
+            "snippet": "Security Audit Report: Reentrancy & Access Control Review: Deribit - DEV Community\n\nDannyDoes\n\n Posted on Oct 2 \n\nTarget Protocol: Deribit (TVL: $4176.6M)\n\nReentrancy & Access‑Control Review – Deribit",
+            "published": "2026-10-02T19:24:36.000Z",
+            "score": 1
+          },
+          {
             "title": "Smart Contract Vulnerability Surface Analysis: Deribit - DEV Community",
             "url": "https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-deribit-lgc",
             "snippet": "Smart Contract Vulnerability Surface Analysis: Deribit - DEV Community\n\nDannyDoes\n\n Posted on Aug 29 \n\nTarget Protocol: Deribit (TVL: $4931.4M)\n\nProtocol: Deribit (Derivatives Exchange) TVL (Ethereum/",
             "published": "2026-08-29T14:39:29.000Z",
-            "score": 1
-          },
-          {
-            "title": "Gas Optimization Audit: Deribit - DEV Community",
-            "url": "https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-deribit-47ib",
-            "snippet": "Gas Optimization Audit: Deribit - DEV Community\n\nDannyDoes\n\n Posted on Aug 30 \n\nTarget Protocol: Deribit (TVL: $5051.5M)\n\nProject: Deribit (Ethereum/L2 Deployment) Scope: Smart Contract Gas Efficiency",
-            "published": "2026-08-30T19:53:39.000Z",
             "score": 0.5
           },
           {
-            "title": "Deribit $28 Million Hot Wallet Hack Analysis | by QuillAudits Team | Medium | Medium",
-            "url": "https://quillaudits.medium.com/deribit-28-million-hot-wallet-hack-analysis-quillaudits-1ae00c6b946d",
-            "snippet": "Deribit $28 Million Hot Wallet Hack Analysis | by QuillAudits Team | Medium | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Deribit’s $28 Million Hot Wallet Hack Analysis | QuillAudits\n\nQuillAudits - Web3 Secu",
-            "published": "2022-11-08T12:40:46.000Z",
+            "title": "Flash Loan Attack Vector Analysis: Deribit - DEV Community",
+            "url": "https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-deribit-4abj",
+            "snippet": "Flash Loan Attack Vector Analysis: Deribit - DEV Community\n\nDannyDoes\n\n Posted on Sep 22 \n\nTarget Protocol: Deribit (TVL: $5631.8M)\n\n# Deribit – Flash‑Loan Attack‑Vector Analysis \n\nPrepared by: [Your ",
+            "published": "2026-09-22T19:38:49.000Z",
             "score": 0
           }
         ],
@@ -5567,32 +5567,32 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-16T05:43:21.208Z"
+        "enriched_at": "2026-10-14T05:54:29.380Z"
       },
-      "timestamp": "2026-09-16T05:43:22.851Z"
+      "timestamp": "2026-10-14T05:54:30.923Z"
     },
     "sorare": {
       "intel": {
         "writeups": [
           {
+            "title": "Sorare | Report #2048725 - Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql | HackerOne",
+            "url": "https://hackerone.com/reports/2048725",
+            "snippet": "Sorare | Report #2048725 - Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql | HackerOne\n\nCircular based intro",
+            "published": "2023-07-05T00:00:00.000Z",
+            "score": 1
+          },
+          {
             "title": "The $300 Bug: How a Long Email Field Triggered a Partial DoS on Sorare’s Backend | by Monika sharma | Mr. Plan ₿ Publication | Medium",
             "url": "https://medium.com/mr-plan-publication/the-300-bug-how-a-long-email-field-triggered-a-partial-dos-on-sorares-backend-e1455f11ac3f",
             "snippet": "The $300 Bug: How a Long Email Field Triggered a Partial DoS on Sorare’s Backend | by Monika sharma | Mr. Plan ₿ Publication | Medium\n\n# The $300 Bug: How a Long Email Field Triggered a Partial DoS on",
             "published": "2025-07-04T00:00:00.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | by Monika sharma | T3CH | Medium",
             "url": "https://medium.com/h7w/how-300-was-earned-by-exploiting-sorares-captain-logic-flaw-9dbd836c315b",
             "snippet": "How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | by Monika sharma | T3CH | Medium\n\nSitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nMedium Logo\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n## T3CH",
             "published": "2025-06-20T17:28:05.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Sorare | Report #2048725 - Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql | HackerOne",
-            "url": "https://hackerone.com/reports/2048725",
-            "snippet": "Sorare | Report #2048725 - Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql | HackerOne\n\n56\n\nCopy report id\n\n",
-            "published": null,
             "score": 0
           }
         ],
@@ -5622,25 +5622,25 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-16T05:43:22.852Z"
+        "enriched_at": "2026-10-14T05:54:30.923Z"
       },
-      "timestamp": "2026-09-16T05:43:24.484Z"
+      "timestamp": "2026-10-14T05:54:32.493Z"
     },
     "hilton": {
       "intel": {
         "writeups": [
           {
+            "title": "Live Bug Bounty Recon: Hilton Hotels",
+            "url": "https://gist.ly/youtube-summarizer/live-bug-bounty-recon-hilton-hotels",
+            "snippet": "Live Bug Bounty Recon: Hilton Hotels\n\n# Live Bug Bounty Recon: Hilton Hotels\n\nBy Adam S. Published Feb 11, 2025 7 min read Education\n\nJoin me as I dive into live bug bounty recon on Hilton Hotels' web",
+            "published": "2025-02-11T00:00:00.000Z",
+            "score": 1
+          },
+          {
             "title": "Hilton Tomfoolery | Engineered.at",
             "url": "https://engineered.at/articles/hilton-tomfoolery",
             "snippet": "Hilton Tomfoolery | Engineered.at\n\n# Hilton Tomfoolery \n\n site@zera · Oct 13, 2024· 10 min read·\n\n## AI Summary\n\nHilton Honors Digital Key unlock flows were reverse-engineered via mitmproxy, showing G",
             "published": "2024-10-13T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "Live Bug Bounty Recon: Hilton Hotels",
-            "url": "https://gist.ly/youtube-summarizer/live-bug-bounty-recon-hilton-hotels",
-            "snippet": "Live Bug Bounty Recon: Hilton Hotels\n\n# Live Bug Bounty Recon: Hilton Hotels\n\nBy Adam S.Published Feb 11, 20257 min read Education\n\nJoin me as I dive into live bug bounty recon on Hilton Hotels' web a",
-            "published": null,
             "score": 0.5
           },
           {
@@ -5677,9 +5677,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-16T05:43:26.121Z"
+        "enriched_at": "2026-10-14T05:54:34.052Z"
       },
-      "timestamp": "2026-09-16T05:43:27.718Z"
+      "timestamp": "2026-10-14T05:54:35.618Z"
     },
     "compass-bbp": {
       "intel": {
@@ -6238,21 +6238,21 @@
             "title": "CVE-2024-45489 Response – Arc",
             "url": "https://arc.net/blog/CVE-2024-45489-incident-response",
             "snippet": "CVE-2024-45489 Response – Arc\n\n# CVE-2024-45489 Incident Report\n\nTag: Security Bulletin Published: September 20, 2024 at 3:20 PM\n\nHursh here, CTO and Cofounder of The Browser Company. We want to let a",
-            "published": "2024-09-20T00:00:00.000Z",
+            "published": "2024-09-20T15:20:00.000Z",
             "score": 1
+          },
+          {
+            "title": "Arc Browser Critical Remote Code Execution Zero- | Shellcode",
+            "url": "https://sh3llc0d3.com/blog/arc-browser-critical-remote-code-execution-zero-day-dissecting-firebase-boost-injection-cve-2024-45489/",
+            "snippet": "Arc Browser Critical Remote Code Execution Zero- | Shellcode\n\n# Arc Browser Critical Remote Code Execution Zero-Day: Dissecting Firebase Boost Injection (CVE-2024-45489)\n\n October 07, 2026 Sh3llc0d3 7",
+            "published": "2026-10-07T18:50:24.000Z",
+            "score": 0.5
           },
           {
             "title": "Medium",
             "url": "https://medium.com/@renwa/arc-browser-uxss-local-file-read-arbitrary-file-creation-and-path-traversal-to-rce-b439f2a299d1",
             "snippet": "MediumArc Browser UXSS, Local File Read, Arbitrary File Creation and Path Traversal to RCE | by Renwa | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Arc Browser UXSS, Local File Read, Arbitrary File Creation ",
             "published": "2024-11-13T12:22:09.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium",
-            "url": "https://medium.com/@techverissimo/my-first-bug-bounty-finding-memory-dos-vulnerabilities-in-circles-arc-blockchain-consensus-engine-ab96f4f8d9f1",
-            "snippet": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n1. The",
-            "published": "2026-04-15T12:33:58.000Z",
             "score": 0
           }
         ],
@@ -6266,10 +6266,10 @@
             "score": 1
           },
           {
-            "title": "Himess/mppx-arc",
-            "url": "https://github.com/Himess/mppx-arc",
-            "snippet": "# Himess/mppx-arc\n\nMPP (Machine Payments Protocol) payment method for Circle's Arc chain — USDC-native charge + session support\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- License: MIT Lic",
-            "published": null,
+            "title": "0xzap/CVE-2026-23520",
+            "url": "https://github.com/0xzap/CVE-2026-23520",
+            "snippet": "# Repository: 0xzap/CVE-2026-23520\n\nA proof‑of‑concept exploit demonstrating unauthenticated remote command execution in Arcane MCP (CVE‑2026‑23520) via the /api/mcp/connect endpoint.\n\n- Stars: 0\n- Fo",
+            "published": "2026-03-21T22:02:27.000Z",
             "score": 0.5
           },
           {
@@ -6282,9 +6282,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-09-16T05:43:24.485Z"
+        "enriched_at": "2026-10-14T05:54:32.493Z"
       },
-      "timestamp": "2026-09-16T05:43:26.121Z"
+      "timestamp": "2026-10-14T05:54:34.052Z"
     },
     "common_codes": {
       "intel": {
@@ -6617,5 +6617,5 @@
       "timestamp": "2026-10-09T07:11:30.786Z"
     }
   },
-  "lastRun": "2026-10-13T07:27:15.658Z"
+  "lastRun": "2026-10-14T05:54:35.618Z"
 }
