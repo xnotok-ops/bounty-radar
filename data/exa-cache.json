@@ -2758,56 +2758,56 @@
       "intel": {
         "writeups": [
           {
-            "title": "KLUE vs. a Hardened Target: One Bug, No Signature Required | Shellvoide",
-            "url": "https://shellvoide.com/blog/websocket-auth-bypass-bug-bounty-case-study/",
-            "snippet": "KLUE vs. a Hardened Target: One Bug, No Signature Required | Shellvoide\n\nJuly 17, 2026· klue\n\n# KLUE vs. a Hardened Target: One Bug, No Signature Required\n\nNOTE\n\nKLUE is Shellvoide's AI Security Engin",
-            "published": "2026-07-17T00:00:00.000Z",
+            "title": "Detailed incident report: Incorrect Cache Configuration leading to Klarna App Exposing Personal Information | Vuink.com",
+            "url": "https://vuink.com/post/xynean-d-dpbz/se/blogg/detailed-incident-report-incorrect-cache-configuration-leading-to-klarna-app-exposing-personal-information",
+            "snippet": "Detailed incident report: Incorrect Cache Configuration leading to Klarna App Exposing Personal Information | Vuink.com\n\n# Detailed incident report: Incorrect Cache Configuration leading to Klarna App",
+            "published": "2021-06-07T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "Medium",
-            "url": "https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81",
-            "snippet": "MediumThe hunt for the cluster-killer Erlang bug | by Dániel Szoboszlay | Klarna Engineering\n\nSign up\n\nGet app\n\nSign up\n\n## Klarna Engineering\n\nDisrupting the financial sector starts and ends with pro",
-            "published": "2021-11-09T13:27:47.000Z",
+            "title": "Klarna Cyber Incident: What Happened and Why It Matters - A Jolly Consulting",
+            "url": "https://www.ajollyconsulting.co.uk/klarna-cyber-incident-what-happened-and-why-it-matters/",
+            "snippet": "Klarna Cyber Incident: What Happened and Why It Matters - A Jolly Consulting\n\n# Klarna Cyber Incident: What Happened and Why It Matters\n\n##### The recent Klarna cyber incident has sparked widespread c",
+            "published": "2025-12-11T14:21:52.000Z",
             "score": 0.5
           },
           {
-            "title": "CVE-2026-15571: Keycloak Account Linking Auth Bypass - 1dayexploit",
-            "url": "https://1dayexploit.com/blog/cve-2026-15571-keycloak-account-linking-auth-bypass/",
-            "snippet": "CVE-2026-15571: Keycloak Account Linking Auth Bypass - 1dayexploit\n\n 2026-08-19 CVE-2026-15571 ALIM-2026-15571 PoC view on github \n\n# CVE-2026-15571: Keycloak Account Linking Auth Bypass\n\n by ÂLIM by ",
-            "published": "2026-08-19T11:39:32.000Z",
+            "title": "Missing Authorization vulnerability in Klarna Klarna... · CVE-2024-30477 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/ghsa-fvj3-jc98-5xq5",
+            "snippet": "Missing Authorization vulnerability in Klarna Klarna... · CVE-2024-30477 · GitHub Advisory Database · GitHub\n\n Moderate severity Unreviewed \n\n Published \n\nMar 29, 2024\n\n to the GitHub Advisory Databas",
+            "published": "2024-03-29T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "BlackHatExploitation/Exploit-For-CVE-2026-18963",
-            "url": "https://github.com/BlackHatExploitation/Exploit-For-CVE-2026-18963",
-            "snippet": "# BlackHatExploitation/Exploit-For-CVE-2026-18963\n\nExploit for CVE-2026-18963 by BlackHatExploitation\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-25",
-            "published": null,
+            "title": "Dev: Fix Klarna product page message E2E test · Pull Request #9361 · Automattic/woocommerce-payments",
+            "url": "https://github.com/Automattic/woocommerce-payments/pull/9361",
+            "snippet": "# Pull Request: Automattic/woocommerce-payments #9361\n\n- Repository: Automattic/woocommerce-payments | Securely accept major credit and debit cards, and allow customers to pay you directly without lea",
+            "published": "2024-08-29T18:35:15.000Z",
             "score": 1
           },
           {
-            "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
-            "published": null,
+            "title": "Insertion of Sensitive Information Into Debugging Code... · CVE-2025-58598 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/ghsa-prj4-jp6f-vpf4",
+            "snippet": "Insertion of Sensitive Information Into Debugging Code... · CVE-2025-58598 · GitHub Advisory Database · GitHub\n\n Moderate severity Unreviewed \n\n Published \n\nSep 3, 2025\n\n to the GitHub Advisory Databa",
+            "published": "2025-09-03T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "prot0tw/Keycloak_CVE-2026-18963_PoC",
-            "url": "https://github.com/Anhquan-1508/CVE-2026-18963",
-            "snippet": "# prot0tw/Keycloak_CVE-2026-18963_PoC\n\nThis repo is poc of cve-2026-18963. Please use it on legal products (lab, local,...).\n\n- Stars: 13\n- Forks: 0\n- Watchers: 13\n- Open issues: 0\n- Default branch: m",
+            "title": "cbedf00 🆕 feat(v1.41-3): dogfood-payment-bnpl-installment-app 新規 (Klarna + Affirm + Afterpay BNPL + installment schedule + credit-check risk scoring + late fee collection、 72 test) (#1151)",
+            "url": "https://github.com/cardene777/kiwa/commit/cbedf008eb64b59e621c856d3cc8f84850fd6fef",
+            "snippet": "# cbedf00 🆕 feat(v1.41-3): dogfood-payment-bnpl-installment-app 新規 (Klarna + Affirm + Afterpay BNPL + installment schedule + credit-check risk scoring + late fee collection、 72 test) (#1151)\n\n- SHA: ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-08T07:04:48.813Z"
+        "enriched_at": "2026-10-16T05:34:36.685Z"
       },
-      "timestamp": "2026-10-08T07:04:50.488Z"
+      "timestamp": "2026-10-16T05:34:38.397Z"
     },
     "unico_idtech": {
       "intel": {
@@ -3452,57 +3452,64 @@
       "intel": {
         "writeups": [
           {
-            "title": "Bykea | Report #2861888 - Ability to increase any customer offered fare (BAC) | HackerOne",
-            "url": "https://hackerone.com/reports/2861888",
-            "snippet": "Bykea | Report #2861888 - Ability to increase any customer offered fare (BAC) | HackerOne\n\nAbility to increase any customer offered fare (BAC)\n\nSummary by Bykea\n\nA business logic flaw was discovered b",
-            "published": "2024-11-23T00:00:00.000Z",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/reports/3295503",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "published": null,
             "score": 1
           },
           {
-            "title": "Bykea | Report #2209750 - Exposed trip_no in WebSocket Responses Leading to Excessive information Disclosure | HackerOne",
-            "url": "https://hackerone.com/reports/2209750",
-            "snippet": "Bykea | Report #2209750 - Exposed trip_no in WebSocket Responses Leading to Excessive information Disclosure | HackerOne\n\nSummary by Bykea\n\n@mrrhacker discovered a vulnerability in Bykea’s WebSocket i",
-            "published": "2023-10-15T00:00:00.000Z",
+            "title": "HackerOne Bug Bounty Disclosure: mongodb-query-logs-schema-leak-via-unauthenticated-endpoint-sameer-ali - RedPacket Security",
+            "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-mongodb-query-logs-schema-leak-via-unauthenticated-endpoint-sameer-ali/",
+            "snippet": "HackerOne Bug Bounty Disclosure: mongodb-query-logs-schema-leak-via-unauthenticated-endpoint-sameer-ali - RedPacket Security\n\nCompany Name: Bykea\n\nCompany HackerOne URL: https://hackerone.com/bykea\n\nS",
+            "published": "2025-09-17T18:00:27.000Z",
             "score": 0.5
           },
           {
-            "title": "Multimillion-dollar Pakistani delivery company leaks 400+ million files",
-            "url": "https://www.safetydetectives.com/blog/bykea-leak-report/",
-            "snippet": "Multimillion-dollar Pakistani delivery company leaks 400+ million files\n\n# Multimillion-dollar Pakistani delivery company leaks 400+ million files\n\n SafetyDetectives Cybersecurity Team SafetyDetective",
-            "published": "2021-01-28T13:47:00.000Z",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/reports/2209750",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "ctxis/beemka",
-            "url": "https://github.com/ctxis/beemka/",
-            "snippet": "# ctxis/beemka\n\nBasic Electron Exploitation\n\n- Stars: 210\n- Forks: 35\n- Watchers: 210\n- Open issues: 0\n- License: MIT License\n- Homepage: https://www.contextis.com/en/blog/basic-electron-framework-exp",
-            "published": null,
+            "title": "immunefi-team/hack-analysis-pocs",
+            "url": "https://github.com/immunefi-team/hack-analysis-pocs",
+            "snippet": "# immunefi-team/hack-analysis-pocs\n\n- Stars: 42\n- Forks: 10\n- Watchers: 42\n- Open issues: 0\n- Default branch: main\n- Created: 2022-12-23T16:49:42Z\n\n## Languages\n\n- Go\n- Solidity\n\n## Top Contributors\n\n",
+            "published": "2022-12-23T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "title": "effortlessdevsec/Android_Hackerone",
+            "url": "https://github.com/effortlessdevsec/Android_Hackerone",
+            "snippet": "# effortlessdevsec/Android_Hackerone\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2025-04-05T17:20:39Z\n\n## Languages\n\n- Python\n- Shell\n\n## Top Contributors\n\n",
+            "published": "2025-04-05T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "bikinl/exploitarium",
+            "url": "https://github.com/bikinl/exploitarium",
+            "snippet": "# bikinl/exploitarium\n\nA single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 5,
-        "enriched_at": "2026-10-08T07:04:50.488Z"
+        "total_results": 6,
+        "enriched_at": "2026-10-16T05:34:38.397Z"
       },
-      "timestamp": "2026-10-08T07:04:52.170Z"
+      "timestamp": "2026-10-16T05:34:40.037Z"
     },
     "inditex": {
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/inditex",
-            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "title": "inditex on HackerOne - Bug Bounty Scope | bbscope.com",
+            "url": "https://bbscope.com/program/h1/inditex",
+            "snippet": "inditex on HackerOne - Bug Bounty Scope | bbscope.com\n\n# inditex\n\n0 Out of Scope\n\nIn-Scope Assets (4)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| Main corporate si",
             "published": null,
             "score": 1
           },
@@ -3524,151 +3531,151 @@
         "twitter": [],
         "github": [
           {
-            "title": "nmmorette/CVE-2024-34102",
-            "url": "https://github.com/nmmorette/CVE-2024-34102",
-            "snippet": "# nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-02-13T18:02:36Z\n\n## L",
+            "title": "usbt0p/product-matching-hackudc-inditex",
+            "url": "https://github.com/usbt0p/product-matching-hackudc-inditex",
+            "snippet": "# usbt0p/product-matching-hackudc-inditex\n\nWinner project of the HackUDC 2026 Inditex AI challenge. From a photo of an outfit and given the Zara catalog, identify all the individual pieces the model i",
             "published": null,
             "score": 1
           },
           {
-            "title": "nospher3x2/cosmicsting-cnext-exploit",
-            "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
-            "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
+            "title": "GabyB73/boost-backend",
+            "url": "https://github.com/GabyB73/boost-backend",
+            "snippet": "# GabyB73/boost-backend\n\n🏆 BOOST Hackathon Inditex - Sistema de gestión logística | Java Backend Challenge\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2025",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Chocapikk/CVE-2025-67494",
-            "url": "https://github.com/Chocapikk/CVE-2025-67494",
-            "snippet": "# Repository: Chocapikk/CVE-2025-67494\n\n- Stars: 6\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: master\n- Created: 2025-12-10T13:13:57Z\n- L",
-            "published": "2025-12-10T13:13:57.000Z",
+            "title": "README.md",
+            "url": "https://github.com/jraporta/IndiLogistics/blob/main/README.md",
+            "snippet": "# README.md\n\n- Branch: main\n- Repository: jraporta/IndiLogistics\n\n---\n\n# 🚚 INDITEX Java Backend Challenge ☕️\n\nCategory ➡️ Software\n\nSubcategory ➡️ Java Backend\n\nDifficulty ➡️ Easy\n\n---\n\n## 🌐 Backgro",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-08T07:04:53.843Z"
+        "enriched_at": "2026-10-16T05:34:41.720Z"
       },
-      "timestamp": "2026-10-08T07:04:55.509Z"
+      "timestamp": "2026-10-16T05:34:43.477Z"
     },
     "visa": {
       "intel": {
         "writeups": [
           {
-            "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Global Intelligence and Insight Platform: IT Innovation, ETF Investment, plus Health Wellbeing",
-            "url": "https://genesis-aka.net/information-technology/professional/2026/08/05/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible/",
-            "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Global Intelligence and Insight Platform: IT Innovation, ETF Investment, plus Health",
-            "published": "2026-08-05T12:00:00.000Z",
+            "title": "Bugzilla #2032468: VISA: Misissuance detected by PKIMetal; bu | CCADB",
+            "url": "https://thameur.org/ccadb/bugzilla-summary/2032468",
+            "snippet": "Bugzilla #2032468: VISA: Misissuance detected by PKIMetal; bu | CCADB\n\n# VISA: Misissuance detected by PKIMetal; bug closed RESOLVED/WONTFIX after incident-reporting non-compliance\n\n RESOLVED WONTFIX ",
+            "published": null,
             "score": 1
           },
           {
-            "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - NOVALOGIQ",
-            "url": "https://novalogiq.com/2026/07/29/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible/",
-            "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - NOVALOGIQ\n\n# Visa used Mythos to hunt for bugs in its own payment network, then open",
-            "published": "2026-07-29T17:32:41.000Z",
+            "title": "Visa Warns Hackers Are Targeting Gas Station POS Systems To Pilfer Credit Card Info",
+            "url": "https://hothardware.com/news/visa-warns-hackers-targeting-gas-station-pilfer-credit-card-info",
+            "snippet": "Visa Warns Hackers Are Targeting Gas Station POS Systems To Pilfer Credit Card Info\n\n# Visa Warns Hackers Are Targeting Gas Station POS Systems To Pilfer Credit Card Info\n\n by Paul Lilly — Monday, Dec",
+            "published": "2019-12-16T17:30:00.000Z",
             "score": 0.5
           },
           {
-            "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Cube Letter",
-            "url": "https://cubeletter.com/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible/",
-            "snippet": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible - Cube Letter\n\n# Visa used Mythos to hunt for bugs in its own payment network, then op",
-            "published": "2026-07-29T02:01:32.000Z",
+            "title": "OWASP Global AppSec USA 2026: When Finding Bugs Is the Easy Part: Less...",
+            "url": "https://owaspglobalappsecusa2026.sched.com/event/2VvPw/when-finding-bugs-is-the-easy-part-lessons-from-an-agentic-vulnerability-harness",
+            "snippet": "OWASP Global AppSec USA 2026: When Finding Bugs Is the Easy Part: Less...\n\n When Finding Bugs Is the Easy Part: Lessons from an Agentic Vulnerability Harness \n\n Friday November 6, 2026 10:30am - 11:15",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "usinfosec/visa-vulnerability-agentic-harness",
-            "url": "https://github.com/usinfosec/visa-vulnerability-agentic-harness",
-            "snippet": "# usinfosec/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2026-06-11T1",
+            "title": "BlackSnufkin/CredsHunter",
+            "url": "https://github.com/BlackSnufkin/CredsHunter",
+            "snippet": "# BlackSnufkin/CredsHunter\n\nPoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping\n\n- Stars: 37\n- Forks: 4\n- Watchers: 37\n- Open issues: 0\n- License: GNU Gene",
             "published": null,
             "score": 1
-          },
-          {
-            "title": "ericzundel/visa-mcp",
-            "url": "https://github.com/ericzundel/visa-mcp",
-            "snippet": "# Repository: ericzundel/visa-mcp (fork of [visa/ai](https://github.com/visa/ai))\n\nIntegration toolkit for connecting AI agents to the Visa Intelligent Commerce platform via MCP.\n\n- Stars: 0\n- Forks: ",
-            "published": "2026-02-19T13:13:10.000Z",
-            "score": 0.5
           },
           {
             "title": "VinayaSathyanarayana/visa-vulnerability-agentic-harness",
             "url": "https://github.com/VinayaSathyanarayana/visa-vulnerability-agentic-harness",
             "snippet": "# VinayaSathyanarayana/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "puckiestyle/CVE-2023-27532-RCE-Only",
+            "url": "https://github.com/puckiestyle/CVE-2023-27532-RCE-Only",
+            "snippet": "# puckiestyle/CVE-2023-27532-RCE-Only\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2024-07-05T14:00:48Z\n\n## Languages\n\n- C#\n- Python\n\n## Top Contributors\n\n- ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-08T07:04:55.510Z"
+        "enriched_at": "2026-10-16T05:34:43.477Z"
       },
-      "timestamp": "2026-10-08T07:04:57.213Z"
+      "timestamp": "2026-10-16T05:34:45.159Z"
     },
     "toolsforhumanity": {
       "intel": {
         "writeups": [
           {
-            "title": "ToolUniverse CVE-2026-81096 (CRITICAL 9.3) - vuln.today",
-            "url": "https://vuln.today/cve/CVE-2026-81096",
-            "snippet": "ToolUniverse CVE-2026-81096 (CRITICAL 9.3) - vuln.today\n\n# ToolUniverse CVE-2026-81096 \n\n| EUVD-2026-67024 CRITICAL \n\n Code Injection (CWE-94) \n\n 2026-08-27 VulnCheck GHSA-rg68-wg77-c3wm \n\n 9.3 CVSS 4",
-            "published": "2026-08-27T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "CVE-2026-58197: ToolHive Auth Bypass Vulnerability",
-            "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-58197/",
-            "snippet": "CVE-2026-58197: ToolHive Auth Bypass Vulnerability\n\n# CVE-2026-58197: ToolHive Auth Bypass Vulnerability\n\nCVE-2026-58197 is an authentication bypass flaw in ToolHive that allows malicious MCP servers ",
-            "published": "2026-09-18T17:16:57.000Z",
-            "score": 0.5
-          },
-          {
             "title": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security",
             "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz/",
             "snippet": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security\n\nCompany Name: Tools for H",
             "published": "2024-06-19T18:00:08.000Z",
+            "score": 1
+          },
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/reports/2110030",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/reports/2515808",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "pemarine/cve-2026-41940-PoC",
-            "url": "https://github.com/pemarine/cve-2026-41940-PoC",
-            "snippet": "# pemarine/cve-2026-41940-PoC\n\nA cPanel and WHM authentication bypassing tool\n\n- Stars: 271\n- Forks: 12\n- Watchers: 271\n- Open issues: 0\n- Default branch: main\n- Created: 2026-08-13T16:03:48Z\n\n## Lang",
+            "title": "BlackHatModed/GiftToHumanity",
+            "url": "https://github.com/BlackHatModed/GiftToHumanity",
+            "snippet": "# BlackHatModed/GiftToHumanity\n\nThe Official 2021 Synapse X RCE\n\n- Stars: 7\n- Forks: 0\n- Watchers: 7\n- Open issues: 0\n- Default branch: main\n- Created: 2025-05-24T23:59:48Z\n\n## Languages\n\n- Lua\n\n## To",
             "published": null,
             "score": 1
           },
           {
-            "title": "xcalibure2/ToolShell",
-            "url": "https://github.com/xcalibure2/ToolShell",
-            "snippet": "# xcalibure2/ToolShell\n\nSharePoint Server Unauthenticated Remote Code Execution exploit chain.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-01-09T07:06:",
-            "published": "2026-01-09T00:00:00.000Z",
+            "title": "rossja/agent-tool-misuse-poc",
+            "url": "https://github.com/rossja/agent-tool-misuse-poc",
+            "snippet": "# Repository: rossja/agent-tool-misuse-poc\n\nProof-of-Concept Demo Agent Highlighting ASI02 - Tool Misuse and Exploitation\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: HTML",
+            "published": "2026-03-26T02:04:05.000Z",
             "score": 0.5
           },
           {
-            "title": "contracts/ProofOfHumanity.sol",
-            "url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/blob/master/contracts/ProofOfHumanity.sol",
-            "snippet": "# contracts/ProofOfHumanity.sol\n\n- Branch: master\n- Repository: Proof-Of-Humanity/Proof-Of-Humanity\n\n---\n\n/**\n * @authors: [@unknownunknown1, @nix1g]\n * @reviewers: [@fnanni-0, @mtsalenc*, @nix1g, @cl",
+            "title": "svespalec/tower-of-flaws",
+            "url": "https://github.com/svespalec/TowerOfFlaws",
+            "snippet": "# svespalec/tower-of-flaws\n\ntower of fantasy anti-cheat driver exploit research\n\n- Stars: 20\n- Forks: 2\n- Watchers: 20\n- Open issues: 0\n- Default branch: master\n- Created: 2026-02-05T20:55:48Z\n\n## Lan",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-08T07:04:57.213Z"
+        "enriched_at": "2026-10-16T05:34:45.159Z"
       },
-      "timestamp": "2026-10-08T07:04:58.929Z"
+      "timestamp": "2026-10-16T05:34:46.811Z"
     },
     "ring": {
       "intel": {
         "writeups": [
           {
-            "title": "Medium",
-            "url": "https://suicdalteddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
-            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## harmless-teddy\n\nwork: ethical ",
-            "published": "2026-05-25T14:19:29.000Z",
+            "title": "Ring Video Doorbell Pro Under the Scope",
+            "url": "https://www.bitdefender.com/files/News/CaseStudies/study/294/Bitdefender-WhitePaper-RDoor-CREA3949-en-EN-GenericUse.pdf",
+            "snippet": "## Ring Video Doorbell Pro Under the Scope\n\nInternet-connected doorbells with motion-sensing and notification capabilities have become extremely popular among smart home enthusiasts. So popular, in fa",
+            "published": null,
             "score": 1
           },
           {
@@ -3679,82 +3686,82 @@
             "score": 0.5
           },
           {
-            "title": "Medium",
-            "url": "https://harmless-teddy.medium.com/i-reverse-engineered-rings-end-to-end-encryption-what-i-found-should-terrify-40-million-a634c17560a1",
-            "snippet": "MediumI Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million Households | by harmless-teddy | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# I Reverse-Engineered Ring’s “En",
-            "published": "2026-05-25T14:19:29.000Z",
+            "title": "Ring Doorbell - Exploitee.rs",
+            "url": "https://web.archive.org/web/20230105084854/https:/www.exploitee.rs/index.php/Ring_Doorbell",
+            "snippet": "Ring Doorbell - Exploitee.rs\n\n25 Nov 2017 - 04 Jul 2025\n\n| Dec | JAN | Feb |\n| --- | --- | --- |\n| 05 |\n| 2022 | 2023 | 2024 |\n\nsuccess\n\nfail\n\nSign In Get some help using the Wayback Machine\n\nAbout th",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "Nxploited/CVE-2025-7955",
-            "url": "https://github.com/Nxploited/CVE-2025-7955",
-            "snippet": "# Nxploited/CVE-2025-7955\n\nRingCentral Communications 1.5 - 1.6.8 - Missing Server‑Side Verification to Authentication Bypass via ringcentral_admin_login_2fa_verify Function\n\n- Stars: 2\n- Forks: 0\n- W",
+            "title": "PoC for CVE-2021-41073 (type confusion in Linux io_uring)",
+            "url": "https://gist.github.com/FDlucifer/59f9b876585449a21d39c6f4f935f482",
+            "snippet": "# PoC for CVE-2021-41073 (type confusion in Linux io_uring)\n\n- Owner: FDlucifer\n- Created: 2022-03-29T14:45:58Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## poc.c\n\nLanguage: C\n\n/*\n * PoC for CVE-2021-41",
             "published": null,
             "score": 1
           },
           {
-            "title": "EvilCheetah/MonitoRing",
-            "url": "https://github.com/EvilCheetah/MonitoRing",
-            "snippet": "# EvilCheetah/MonitoRing\n\nA simple demonstration allowing an attacker to passively monitor behavior in and around a Ring camera owner's home. \n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- L",
+            "title": "IoRingReadWritePrimitive/Source.cpp at main · yardenshafir/IoRingReadWritePrimitive",
+            "url": "https://github.com/yardenshafir/IoRingReadWritePrimitive/blob/main/IoRingReadWritePrimitive/Source.cpp",
+            "snippet": "# File: yardenshafir/IoRingReadWritePrimitive/IoRingReadWritePrimitive/Source.cpp\n\n- Repository: yardenshafir/IoRingReadWritePrimitive | Post exploitation technique to turn arbitrary kernel write / in",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "letsr00t/CVE-2026-43494-PinTheft-PoC",
-            "url": "https://github.com/letsr00t/CVE-2026-43494-PinTheft-PoC",
-            "snippet": "# letsr00t/CVE-2026-43494-PinTheft-PoC\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-30T11:44:56Z\n\n## Languages\n\n- C\n\n## Top Contributors\n\n- letsr00t ",
+            "title": "aruxiee/siliconhook",
+            "url": "https://github.com/aruxiee/siliconhook",
+            "snippet": "# aruxiee/siliconhook\n\nRing -1 engine for MitM attacks on CPU registers. Leverages $DR0$-$DR7$ for zero-footprint interception, real-time data sniffing, and active argument tampering via WriteProcessM",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-08T07:04:58.929Z"
+        "enriched_at": "2026-10-16T05:34:46.811Z"
       },
-      "timestamp": "2026-10-08T07:05:00.629Z"
+      "timestamp": "2026-10-16T05:34:48.557Z"
     },
     "six-group": {
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/six-group/",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "A Bug Bounty Program for SIX  | SIX",
-            "url": "https://www.six-group.com/en/blog/six-bug-bounty-program.html",
-            "snippet": "A Bug Bounty Program for SIX | SIX\n\n# A Bug Bounty Program for SIX: When Companies Invite In Hackers\n\n Oct 1, 2024 5 minutes \n\nSIX rewards hackers who search for security holes. Learn what a bug bount",
-            "published": "2024-10-01T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "SIX Group Private Bug Bounty",
             "url": "https://www.bountytalk.org/index.php?topic=24129.0",
             "snippet": "SIX Group Private Bug Bounty\n\nForums Advertising & Bounty Hub\n\nWelcome, Guest. Please login or register.\n\n1 Hour 1 Day 1 Week 1 Month Forever\n\nLogin with username, password and session length\n\n## News",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "sixgroup-security/bug-bounty",
+            "url": "https://github.com/sixgroup-security/bug-bounty",
+            "snippet": "# sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-08T11:05:51Z\n\n## Languages\n\n- Python\n\n##",
+            "published": "2024-10-08T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Advisories/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365 at main · sixgroup-security/Advisories · GitHub",
+            "url": "https://github.com/sixgroup-security/Advisories/tree/main/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365",
+            "snippet": "Advisories/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365 at main · sixgroup-security/Advisories · GitHub\n\n## Files\n\nmain\n\n# 20211209_Missing-Session-Hijacking-Protection-in-Microsoft",
+            "published": "2021-11-11T18:26:11.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "Sixth Remote Code Execution Vulnerability",
-            "url": "https://github.com/Secsys-FDU/LLM-Tool-Calling-CVEs/issues/12",
-            "snippet": "# Sixth Remote Code Execution Vulnerability\n\n- State: open\n- Author: Secsys-FDU\n- Created: 2026-03-27T13:37:44Z\n- Updated: 2026-03-27T13:37:44Z\n- Repository: Secsys-FDU/LLM-Tool-Calling-CVEs\n- Number:",
+            "title": "stoic-crawler/CVE-2025-64512",
+            "url": "https://github.com/stoic-crawler/CVE-2025-64512",
+            "snippet": "# stoic-crawler/CVE-2025-64512\n\nExploit for CVE-2025-64512 to get a reverse shell.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.0\n- Default branch: main\n- Created:",
             "published": null,
             "score": 1
           },
           {
-            "title": "hg0434hongzh0/CVE-2026-34197",
-            "url": "https://github.com/hg0434hongzh0/CVE-2026-34197",
-            "snippet": "# Repository: hg0434hongzh0/CVE-2026-34197\n\nPOC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2026-04-10T01:29:",
-            "published": "2026-04-10T01:29:12.000Z",
+            "title": "BlackSnufkin/CredsHunter",
+            "url": "https://github.com/BlackSnufkin/CredsHunter",
+            "snippet": "# BlackSnufkin/CredsHunter\n\nPoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping\n\n- Stars: 37\n- Forks: 4\n- Watchers: 37\n- Open issues: 0\n- License: GNU Gene",
+            "published": null,
             "score": 0.5
           },
           {
@@ -3767,18 +3774,18 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-08T07:05:00.629Z"
+        "enriched_at": "2026-10-16T05:34:48.557Z"
       },
-      "timestamp": "2026-10-08T07:05:02.321Z"
+      "timestamp": "2026-10-16T05:34:50.242Z"
     },
     "eufy_security": {
       "intel": {
         "writeups": [
           {
-            "title": "💀 victorGoeman — PoC exploit for CVE-2024-51346 | Sploitus",
-            "url": "https://sploitus.com/exploit?id=FBE9C018-3EB6-5EC5-99AC-7BD862BF7F37",
-            "snippet": "💀 victorGoeman — PoC exploit for CVE-2024-51346 | Sploitus\n\ngithubexploit · 2026-03-23\n\n## Description\n\nCVE-2024-51346 exposes weak keys from over-the-air data and headers, compromising Eufy P2P and ",
-            "published": null,
+            "title": "Our Commitment to Protect You - Archived - eufy Community",
+            "url": "https://community.eufy.com/t/our-commitment-to-protect-you/3810067",
+            "snippet": "Our Commitment to Protect You - Archived - eufy Community\n\n# Our Commitment to Protect You \n\n eufy-official June 25, 2023, 2:49am 1 \n\nDear eufy Security Users,\n\nAs you might have noticed, we’ve been w",
+            "published": "2023-06-25T02:49:46.000Z",
             "score": 1
           },
           {
@@ -3789,42 +3796,42 @@
             "score": 0.5
           },
           {
-            "title": "Reverse engineering the Eufy Ecosystem",
-            "url": "https://www.usenix.org/system/files/woot24_slides-goeman.pdf",
-            "snippet": "## Reverse Engineering the Eufy\n\nEcosystem: a Deep Dive Into Security Vulnerabilities and Proprietary Protocols\n\nVictor Goeman, Dairo de Ruck, Tom Cordemans, Jorn Lapon, Vincent Naessens\n\n## Who is Eu",
-            "published": null,
+            "title": "VAR-202205-2009 - Vulnerability-Lookup",
+            "url": "https://db.gcve.eu/vuln/var-202205-2009",
+            "snippet": "VAR-202205-2009 - Vulnerability-Lookup\n\n#### VAR-202205-2009\n\n Vulnerability from variot - Updated: 2025-01-30 20:07 \n\nA Buffer Overflow vulnerability in the RSTP server component of Eufy Indoor 2K In",
+            "published": "2022-05-31T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "CVE-2024-51346.md at main · victorGoeman/Eufy-Ecosystem-Security-Research",
-            "url": "https://github.com/victorGoeman/Eufy-Ecosystem-Security-Research/blob/main/CVE-2024-51346.md",
-            "snippet": "# File: victorGoeman/Eufy-Ecosystem-Security-Research/CVE-2024-51346.md\n\n- Repository: victorGoeman/Eufy-Ecosystem-Security-Research | 2 stars\n- Branch: main\n\n```md\n# CVE-2024-51346: Cryptographic Byp",
+            "title": "victorGoeman/Eufy-Ecosystem-Security-Research",
+            "url": "https://github.com/victorGoeman/Eufy-Ecosystem-Security-Research",
+            "snippet": "# victorGoeman/Eufy-Ecosystem-Security-Research\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-23T15:22:14Z\n\n## Top Contributors\n\n- victorGoeman (11 co",
             "published": null,
             "score": 1
           },
           {
-            "title": "bropat/eufy-security-client",
-            "url": "https://github.com/bropat/eufy-security-client?tab=readme-ov-file",
-            "snippet": "# bropat/eufy-security-client\n\nThis shared library allows to control Eufy security devices by connecting to the Eufy cloud servers and local/remote stations over p2p.\n\n- Stars: 704\n- Forks: 155\n- Watc",
+            "title": "CVE-2024-51346.md",
+            "url": "https://github.com/victorGoeman/Eufy-Ecosystem-Security-Research/blob/main/CVE-2024-51346.md",
+            "snippet": "# CVE-2024-51346.md\n\n- Branch: main\n- Repository: victorGoeman/Eufy-Ecosystem-Security-Research\n\n---\n\n# CVE-2024-51346: Cryptographic Bypass and Media Decryption in Eufy Ecosystem\n\n## Vulnerability Me",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "README.md at main · victorGoeman/Eufy-Ecosystem-Security-Research",
-            "url": "https://github.com/victorGoeman/Eufy-Ecosystem-Security-Research/blob/main/README.md",
-            "snippet": "# File: victorGoeman/Eufy-Ecosystem-Security-Research/README.md\n\n- Repository: victorGoeman/Eufy-Ecosystem-Security-Research | 2 stars\n- Branch: main\n\n```md\n# Eufy Ecosystem: Security Research\r\n\r\n## R",
-            "published": null,
+            "title": "Hack around to allow HA users to change the Eufy-Security-client github - to allow users to test unreleased builds to confirm support works or not · Issue #33 · bropat/hassio-eufy-security-ws",
+            "url": "https://github.com/bropat/hassio-eufy-security-ws/issues/33",
+            "snippet": "# Issue: bropat/hassio-eufy-security-ws #33\n\n- Repository: bropat/hassio-eufy-security-ws | Official eufy-security-ws Home Assistant add-on repository | 225 stars | Shell\n\n## Hack around to allow HA u",
+            "published": "2025-12-10T11:59:12.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-08T07:05:02.321Z"
+        "enriched_at": "2026-10-16T05:34:50.242Z"
       },
-      "timestamp": "2026-10-08T07:05:03.947Z"
+      "timestamp": "2026-10-16T05:34:51.888Z"
     },
     "eero": {
       "intel": {
@@ -5836,56 +5843,56 @@
       "intel": {
         "writeups": [
           {
-            "title": "Anthropic Mythos Finds Rejetto HFS RCE | Horizon3",
-            "url": "https://horizon3.ai/attack-research/disclosures/anthropic-mythos-rejetto-hfs-rce/",
-            "snippet": "Anthropic Mythos Finds Rejetto HFS RCE | Horizon3\n\n# Horizon3’s Tales from the Trenches: Anthropic’s Mythos and Rejetto HFS\n\nZach Hanley September 30, 2026 Disclosures\n\nAnthropic started Project Glass",
-            "published": "2026-09-30T00:00:00.000Z",
+            "title": "Anthropic Silently Patches Claude Code Sandbox Bypass - SecurityWeek",
+            "url": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
+            "snippet": "Anthropic Silently Patches Claude Code Sandbox Bypass - SecurityWeek\n\n# Anthropic Silently Patches Claude Code Sandbox Bypass\n\nThe researcher who found it says the vulnerability could have been chaine",
+            "published": "2026-05-20T13:00:00.000Z",
             "score": 1
           },
           {
-            "title": "anthropickit: likely PyPI package behind Anthropic's one-hour credential theft incident | Corgea",
-            "url": "https://corgea.com/research/anthropickit-pypi-anthropic-agent-malware-july-2026",
-            "snippet": "anthropickit: likely PyPI package behind Anthropic's one-hour credential theft incident | Corgea\n\nResearch · Aug 1, 2026\n\n# anthropickit: likely PyPI package behind Anthropic's one-hour credential the",
-            "published": "2026-08-01T00:00:00.000Z",
+            "title": "Claude Code GitHub Action Flaw Enabled Repository Hijacking",
+            "url": "https://theoutpost.ai/news-story/critical-flaw-in-anthropic-s-claude-code-let-attackers-hijack-public-repositories-with-a-single-issue-27004/",
+            "snippet": "Claude Code GitHub Action Flaw Enabled Repository Hijacking\n\n# Critical flaw in Anthropic's Claude Code let attackers hijack public repositories with a single issue\n\n4 Jun 2026, 11:03 PM UTC\n\n2 Source",
+            "published": "2026-06-04T23:03:23.000Z",
             "score": 0.5
           },
           {
-            "title": "ANT-2026-TZQ1KH7E · libyang",
-            "url": "https://red.anthropic.com/2026/cvd/snapshots/2026-05-22-1027/findings/ANT-2026-TZQ1KH7E",
-            "snippet": "ANT-2026-TZQ1KH7E · libyang\n\n Severity Claude medium · Security research firm medium · Maintainer unknown \n\nREPORT\n\nAnthropic's analysis, sealed at approval. Disclosure to the maintainer was performed",
-            "published": null,
+            "title": "Claude Code GitHub Actions Flaw Enables Repository Compromise",
+            "url": "https://cyberpress.org/claude-code-github-actions-flaw/",
+            "snippet": "Claude Code GitHub Actions Flaw Enables Repository Compromise\n\n# Claude Code GitHub Actions Flaw Enables Repository Compromise\n\nBy Tamilselvan\n\nJune 2, 2026\n\nA critical supply chain vulnerability disc",
+            "published": "2026-06-02T12:19:46.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to arbitrary OS command execution. · GitHub",
-            "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
-            "snippet": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code lead",
+            "title": "Boyan-MILANOV/friendly-fire-ai-agent-exploit",
+            "url": "https://github.com/Boyan-MILANOV/friendly-fire-ai-agent-exploit",
+            "snippet": "# Boyan-MILANOV/friendly-fire-ai-agent-exploit\n\nThis repository contains a proof-of-concept exploit that enables remote code execution in Anthropic's Claude Code CLI (with Claude Sonnet 4.6 & 5, Opus ",
             "published": null,
             "score": 1
           },
           {
-            "title": "brokensec/Claude-Code-awk",
-            "url": "https://github.com/brokensec/Claude-Code-awk",
-            "snippet": "# brokensec/Claude-Code-awk\n\nDue to an error in `awk` command parsing in Claude Code's permission system, it is possible to bypass the read-only validation and execute arbitrary commands, write to sen",
+            "title": "strotski/claude-4.6-jailbreak-vulnerability-disclosure-unredacted",
+            "url": "https://github.com/strotski/claude-4.6-jailbreak-vulnerability-disclosure-unredacted",
+            "snippet": "# strotski/claude-4.6-jailbreak-vulnerability-disclosure-unredacted\n\nI Jailbroke Claude Opus/Sonnet 4.6 & Haiku 4.5 with \"more+\"\n\n- Stars: 3\n- Forks: 2\n- Watchers: 3\n- Open issues: 0\n- License: Creati",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Authentication Bypass via Insecure Credential Pool Synchronization during Anthropic Exhaustion",
-            "url": "https://gist.github.com/YLChen-007/caf38652afeccbbd53a9d77152b6198d",
-            "snippet": "# Authentication Bypass via Insecure Credential Pool Synchronization during Anthropic Exhaustion\n\n- Owner: YLChen-007\n- Created: 2026-05-07T09:07:29Z\n- Public: no\n- Comments: 0\n- Forks: 0\n\n## CVE-2026",
+            "title": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to arbitrary OS command execution. · GitHub",
+            "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
+            "snippet": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code lead",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-08T07:04:52.170Z"
+        "enriched_at": "2026-10-16T05:34:40.037Z"
       },
-      "timestamp": "2026-10-08T07:04:53.843Z"
+      "timestamp": "2026-10-16T05:34:41.720Z"
     },
     "agoda-public": {
       "intel": {
@@ -6276,56 +6283,56 @@
       "intel": {
         "writeups": [
           {
-            "title": "d-you App & German EUDI Wallet Ecosystem Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/d-you-app-and-german-eudi-wallet-ecosystem/",
-            "snippet": "d-you App & German EUDI Wallet Ecosystem Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: common_codes \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 12 days \n\n Resp",
-            "published": null,
+            "title": "Neuer Name, alte Baustellen: Das sind die Hürden zum Start der digitalen Brieftasche \"d-you\" - netzpolitik.org",
+            "url": "https://netzpolitik.org/2026/neuer-name-alte-baustellen-das-sind-die-huerden-zum-start-der-digitalen-brieftasche-d-you/",
+            "snippet": "Neuer Name, alte Baustellen: Das sind die Hürden zum Start der digitalen Brieftasche \"d-you\" - netzpolitik.org\n\n# Neuer Name, alte Baustellen: Das sind die Hürden zum Start der digitalen Brieftasche „",
+            "published": "2026-09-10T09:51:22.000Z",
             "score": 1
           },
           {
-            "title": "d-you App & German EUDI Wallet Ecosystem — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/common_codes",
-            "snippet": "d-you App & German EUDI Wallet Ecosystem — HackerOne bug bounty | BountyHunte.rs\n\n# d-you App & German EUDI Wallet Ecosystem\n\nReward range\n\nUp to $40,000\n\nListed provider data. Verify current payout t",
-            "published": null,
+            "title": "Deutschland startet digitale Brieftasche „d-you\": Hacker sollen Schwachstellen suchen",
+            "url": "https://www.berliner-zeitung.de/article/deutschland-startet-digitale-brieftasche-d-you-hacker-sollen-luecken-suchen-10386202",
+            "snippet": "Deutschland startet digitale Brieftasche „d-you\": Hacker sollen Schwachstellen suchen\n\n# Deutschland startet digitale Brieftasche „d-you\": Hacker sollen Schwachstellen suchen \n\n Ab Januar soll die dig",
+            "published": "2026-09-12T10:42:44.000Z",
             "score": 0.5
           },
           {
-            "title": "d-you App & German EUDI Wallet Ecosystem: Rating & Reviews · BugRater",
-            "url": "https://bugs.maliqbarnard.com/programs/common-codes",
-            "snippet": "d-you App & German EUDI Wallet Ecosystem: Rating & Reviews · BugRater\n\n NR Unrated \n\nd-you App & German EUDI Wallet Ecosystem d-you App & German EUDI Wallet Ecosystem HackerOne \n\n 3 more reviews neede",
-            "published": null,
+            "title": "Digitale Brieftasche „d-you“: Wie das neue System funktioniert",
+            "url": "https://www.morgenpost.de/wirtschaft/article412460178/digitale-brieftasche-d-you-wie-das-neue-system-funktioniert.html",
+            "snippet": "Digitale Brieftasche „d-you“: Wie das neue System funktioniert\n\n## Neuer digitaler Ausweis: „d-you“ soll das Smartphone zur Brieftasche machen\n\nBerlin. Die digitale Brieftasche fürs Smartphone kommt: ",
+            "published": "2026-09-10T08:24:53.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "Users can evade the `yDUSD` vault's withdrawal timelock mechanism",
-            "url": "https://github.com/code-423n4/2024-07-dittoeth-findings/issues/9",
-            "snippet": "# Users can evade the `yDUSD` vault's withdrawal timelock mechanism\n\n- State: open\n- Author: c4-bot-8\n- Created: 2024-07-15T18:10:59Z\n- Updated: 2024-07-23T19:55:39Z\n- Repository: code-423n4/2024-07-d",
+            "title": "feat(auth): patient QR login via EUDI Wallet (OpenID4VP) — ADR-028 (#72)",
+            "url": "https://github.com/ma3u/MinimumViableHealthDataspacev2/pull/74",
+            "snippet": "# feat(auth): patient QR login via EUDI Wallet (OpenID4VP) — ADR-028 (#72)\n\n- State: merged\n- Author: ma3u\n- Created: 2026-06-04T11:54:12Z\n- Updated: 2026-07-15T11:59:39Z\n- Repository: ma3u/MinimumVia",
             "published": null,
             "score": 1
           },
           {
-            "title": "Mibuw/miEUDIverifier",
-            "url": "https://github.com/Mibuw/miEUDIverifier",
-            "snippet": "# Mibuw/miEUDIverifier\n\nC#/.NET 8 EUDI Wallet verifier (OpenID4VP) reading PID identity data (name, given name, date of birth) — bilingual web UI, QR flow, Docker.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0",
-            "published": null,
+            "title": "2026.06.38-Demo",
+            "url": "https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui/releases/tag/Wallet%2FDemo_Version%3D2026.06.38-Demo_Build%3D38",
+            "snippet": "# Release: eu-digital-identity-wallet/eudi-app-android-wallet-ui Wallet/Demo_Version=2026.06.38-Demo_Build=38\n\n- Repository: eu-digital-identity-wallet/eudi-app-android-wallet-ui | EUDI Wallet Prototy",
+            "published": "2026-06-10T14:04:00.000Z",
             "score": 0.5
           },
           {
-            "title": "docs/public-demo.md",
-            "url": "https://github.com/dominikschlosser/eudi-dev/blob/main/docs/public-demo.md",
-            "snippet": "# docs/public-demo.md\n\n- Branch: main\n- Repository: dominikschlosser/eudi-dev\n\n---\n\n# Hosting a Public Demo\n\nThe wallet server can run as a shared public demo (for example on `https://eudi-test.dev`).",
+            "title": "eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py",
+            "url": "https://github.com/eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py",
+            "snippet": "# eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py\n\nWallet-driven rQES web tester\n\n- Stars: 1\n- Forks: 1\n- Watchers: 1\n- Open issues: 3\n- License: Apache License 2.0\n- Default branch: ma",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-08T07:04:47.054Z"
+        "enriched_at": "2026-10-16T05:34:34.874Z"
       },
-      "timestamp": "2026-10-08T07:04:48.813Z"
+      "timestamp": "2026-10-16T05:34:36.685Z"
     },
     "vercel": {
       "intel": {
@@ -6603,5 +6610,5 @@
       "timestamp": "2026-10-09T07:11:30.786Z"
     }
   },
-  "lastRun": "2026-10-15T05:38:37.461Z"
+  "lastRun": "2026-10-16T05:34:51.889Z"
 }
