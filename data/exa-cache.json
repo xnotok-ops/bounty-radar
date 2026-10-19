@@ -1761,134 +1761,134 @@
       "intel": {
         "writeups": [
           {
-            "title": "Medium",
-            "url": "https://medium.com/@manugowdahd896/cyber-security-assessment-ad806a0aa307",
-            "snippet": "MediumCyber security assessment. 1. Bug Bounty Platform Analysis | by Manugowdahd | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\n# Cyber security assessment\n\n6 min read\n\nMar 13, 2026\n\n--\n\nShare\n\n##",
-            "published": "2026-03-13T09:41:36.000Z",
+            "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
+            "url": "https://github.com/honestcorrupt/MEESHO-CVE",
+            "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
+            "published": null,
             "score": 1
           },
+          {
+            "title": "honestcorrupt/MEESHO-CVE_REQUEST_NEW",
+            "url": "https://github.com/honestcorrupt/MEESHO-CVE_REQUEST_NEW",
+            "snippet": "# honestcorrupt/MEESHO-CVE_REQUEST_NEW\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-07T09:24:31Z\n\n## Top Contributors\n\n- honestcorrupt (4 contributio",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Medium",
+            "url": "https://medium.com/@manugowdahd896/cyber-security-assessment-ad806a0aa307",
+            "snippet": "Medium\n\n# Cyber security assessment\n\nManugowdahd\n\nMar 13, 2026\n\n## Bug Bounty Program Report\n\nProgram Name: Meesho Bug Bounty Program\n\nPlatform: HackerOne Company: Meesho\n\nPress enter or click to view",
+            "published": "2026-03-13T09:41:36.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
           {
             "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
             "url": "https://github.com/honestcorrupt/MEESHO-CVE",
             "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
             "published": null,
-            "score": 0.5
+            "score": 1
           },
-          {
-            "title": "honestcorrupt/MEESHO-CVE_REQUEST_NEW",
-            "url": "https://github.com/honestcorrupt/MEESHO-CVE_REQUEST_NEW",
-            "snippet": "# honestcorrupt/MEESHO-CVE_REQUEST_NEW\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-07T09:24:31Z\n\n## Top Contributors\n\n- honestcorrupt (4 contributio",
-            "published": null,
-            "score": 0
-          }
-        ],
-        "twitter": [],
-        "github": [
           {
             "title": "honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
             "url": "https://github.com/honestcorrupt/meesho-android-improper-encryption-cve-2026-5682",
             "snippet": "# honestcorrupt/meesho-android-improper-encryption-cve-2026-5682\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-03-30T07:15:05Z\n\n## Top Contributors\n\n- ho",
             "published": null,
-            "score": 1
-          },
-          {
-            "title": "honestcorrupt/MEESHO-CVE_REQUEST_NEW",
-            "url": "https://github.com/honestcorrupt/MEESHO-CVE_REQUEST_NEW",
-            "snippet": "# honestcorrupt/MEESHO-CVE_REQUEST_NEW\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-07T09:24:31Z\n\n## Top Contributors\n\n- honestcorrupt (4 contributio",
-            "published": null,
             "score": 0.5
           },
           {
-            "title": "A vulnerability has been found in Meesho Online Shopping... · CVE-2026-5682 · GitHub Advisory Database · GitHub",
-            "url": "https://github.com/advisories/ghsa-2j2r-9pgw-95hp",
-            "snippet": "A vulnerability has been found in Meesho Online Shopping... · CVE-2026-5682 · GitHub Advisory Database · GitHub\n\n## A vulnerability has been found in Meesho Online Shopping... \n\n Moderate severity Unr",
-            "published": "2026-04-06T00:00:00.000Z",
+            "title": "A vulnerability was identified in Meesho Online Shopping... · CVE-2026-18591 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/ghsa-7gc3-pw6r-7mq6",
+            "snippet": "A vulnerability was identified in Meesho Online Shopping... · CVE-2026-18591 · GitHub Advisory Database · GitHub\n\n Low severity Unreviewed \n\n Published \n\nAug 3, 2026\n\n to the GitHub Advisory Database ",
+            "published": "2026-08-03T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:37.086Z"
+        "enriched_at": "2026-10-19T05:50:58.114Z"
       },
-      "timestamp": "2026-10-11T06:53:38.633Z"
+      "timestamp": "2026-10-19T05:50:59.766Z"
     },
     "braze_inc": {
       "intel": {
         "writeups": [
           {
-            "title": "Medium",
+            "title": "How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gateways On A Web3 Platform. | by D0loresH4ze | Medium",
             "url": "https://d0loreh4z3.medium.com/how-we-prevented-a-mass-breach-on-one-of-the-biggest-cryptocurrency-gateways-on-a-web3-platform-2d8393070b10",
-            "snippet": "MediumHow We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gateways On A Web3 Platform. | by D0loresH4ze | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nB",
+            "snippet": "How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gateways On A Web3 Platform. | by D0loresH4ze | Medium\n\n# How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gatewa",
             "published": "2024-04-26T15:36:03.000Z",
             "score": 1
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/braze_inc",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n‌‌‌\n\n‌‌‌‌‌\n\n‌‌\n\n‌‌\n\n‌‌‌‌‌\n\n‌‌‌\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.s",
-            "published": null,
+            "title": "Braze 10-K Cybersecurity (Mar 2025) - Board Cybersecurity",
+            "url": "https://www.board-cybersecurity.com/annual-reports/tracker/20250331-braze-cybersecurity-10k",
+            "snippet": "Braze 10-K Cybersecurity (Mar 2025) - Board Cybersecurity\n\n# Braze, Inc. 10-K Item 1C. Cybersecurity - 2025-03-31\n\nBraze, Inc. disclosed their cybersecurity strategy, risk management and governance pr",
+            "published": "2025-03-31T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "BrazeUI - Low Vulnerability - AIKIDO-2025-10027",
-            "url": "https://intel.aikido.dev/cve/AIKIDO-2025-10027",
-            "snippet": "BrazeUI - Low Vulnerability - AIKIDO-2025-10027\n\n# AIKIDO-2025-10027\n\nBrazeUI is vulnerable to Incorrect Authorization\n\nIncorrect Authorization Pre-CVE Published Jan 19, 2025\n\n20\n\nLow Risk\n\n### This A",
-            "published": "2025-01-19T00:00:00.000Z",
+            "title": "OSV - Open Source Vulnerabilities",
+            "url": "https://osv.dev/vulnerability/MAL-2025-169",
+            "snippet": "OSV - Open Source Vulnerabilities\n\nImport Source\n: https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/braze-web-sdk/MAL-2025-169.json\nJSON Data\n: https://api.osv.dev/v1/vulns/MAL-2",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "halilkirazkaya/CVE-2026-3844",
-            "url": "https://github.com/halilkirazkaya/CVE-2026-3844",
-            "snippet": "# halilkirazkaya/CVE-2026-3844\n\nCVE-2026-3844 — Breeze Cache Plugin RCE Exploit\n\n- Stars: 4\n- Forks: 0\n- Watchers: 4\n- Open issues: 0\n- Default branch: main\n- Created: 2026-04-30T11:04:00Z\n\n## Languag",
+            "title": "kushaln3/brave-rewards-exploit-analysis",
+            "url": "https://github.com/kushaln3/brave-rewards-exploit-analysis",
+            "snippet": "# kushaln3/brave-rewards-exploit-analysis\n\nVulnerability in Brave Browser's Reward system and how I exploited it to Farm Cryptocurrency. Uses Python automation to bypass ad-view limits via profile iso",
             "published": null,
             "score": 1
           },
           {
-            "title": "exploit.py",
-            "url": "https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: tc4dy/CVE-2026-29000-PoC-Exploit\n\n---\n\nimport argparse\nimport base64\nimport hashlib\nimport json\nimport logging\nimport random\nimport sys\nimport time\nimport ur",
+            "title": "README.md",
+            "url": "https://github.com/tausifzaman/CVE-2026-3844/blob/main/README.md",
+            "snippet": "# README.md\n\n- Branch: main\n- Repository: tausifzaman/CVE-2026-3844\n\n---\n\n# CVE-2026-3844\nPoC exploit for CVE-2026-3844, a critical unauthenticated file upload vulnerability in the WordPress Breeze pl",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "brace-expansion: DoS via unbounded intermediate arrays, bypassing the CVE-2026-14257 mitigation · CVE-2026-69152 · GitHub Advisory Database · GitHub",
-            "url": "https://github.com/advisories/GHSA-RGW5-RVV9-X895",
-            "snippet": "brace-expansion: DoS via unbounded intermediate arrays, bypassing the CVE-2026-14257 mitigation · CVE-2026-69152 · GitHub Advisory Database · GitHub\n\n## brace-expansion: DoS via unbounded intermediate",
-            "published": "2026-07-30T00:00:00.000Z",
+            "title": "README.md",
+            "url": "https://github.com/0xMarcio/cve/blob/main/README.md",
+            "snippet": "# README.md\n\n- Branch: main\n- Repository: 0xMarcio/pocindex\n\n---\n\n \n\n \n\nlast sync CI CVEs with PoCs known exploited stars\n\n \n\n \n\n**PoC Index**: Search public CVE proof-of-concept exploits from GitHub,",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:38.634Z"
+        "enriched_at": "2026-10-19T05:50:59.767Z"
       },
-      "timestamp": "2026-10-11T06:53:40.153Z"
+      "timestamp": "2026-10-19T05:51:01.423Z"
     },
     "kong": {
       "intel": {
         "writeups": [
           {
-            "title": "Kong & Konga Exploitation & Hardening • Think\nLove\nShare",
-            "url": "https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/",
-            "snippet": "Kong & Konga Exploitation & Hardening • Think Love Share\n\n# Kong & Konga Exploitation & Hardening\n\n May 10, 2023 20 min read Translate Any typos? Any ideas to suggest? Feedback appreciated! \n\n## What ",
-            "published": "2023-05-10T00:00:00.000Z",
+            "title": "Medium",
+            "url": "https://sewan.medium.com/cve-2021-27306-access-an-authenticated-route-on-kong-api-gateway-6ae3d81968a3",
+            "snippet": "Medium\n\n# CVE-2021–27306: Access an authenticated route on Kong API Gateway\n\nsewan\n\nMar 18, 2021\n\nThis vulnerability allows access to an authenticated route through an unauthenticated route on service",
+            "published": "2021-03-18T02:57:38.000Z",
             "score": 1
           },
           {
-            "title": "Postmortem: How a Kong 3.5.0 Rate Limit Bug Caused Our API to Be Accessible During a DDoS Attack — johal.in",
-            "url": "https://johal.in/postmortem-kong-350-rate-limit-bug-caused-our",
-            "snippet": "Postmortem: How a Kong 3.5.0 Rate Limit Bug Caused Our API to Be Accessible During a DDoS Attack — johal.in\n\n# Postmortem: How a Kong 3.5.0 Rate Limit Bug Caused Our API to Be Accessible During a DDoS",
-            "published": "2026-04-28T14:31:58.000Z",
+            "title": "Medium",
+            "url": "https://medium.com/manomano-tech/kong-konga-exploitation-hardening-d54ea75a870a",
+            "snippet": "Medium\n\n# Kong & Konga Exploitation & Hardening\n\nLoukajc\n\nMay 9, 2023\n\nPress enter or click to view image in full size\n\n## What is kong & why we’re relying on it\n\nIf you’re a frequent reader, you migh",
+            "published": "2023-05-09T12:24:47.000Z",
             "score": 0.5
           },
           {
-            "title": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI Cybersecurity",
-            "url": "https://kensai.app/blog/kong-api-gateway-cve-2026-authentication-bypass-rate-limiting",
-            "snippet": "Kong API Gateway CVE-2026: Authentication Bypass & Rate Limiting Vulnerabilities | KENSAI Cybersecurity\n\nIs your Kong gateway exposed? Scan your API infrastructure for these CVEs and 331,910+ other vu",
-            "published": "2026-04-02T11:57:08.000Z",
+            "title": "【urgency】I find a suspected serious RCE vulnerability in kong gateway",
+            "url": "https://github.com/Kong/kong/issues/9697",
+            "snippet": "# 【urgency】I find a suspected serious RCE vulnerability in kong gateway\n\n- State: closed\n- Author: fwatcher\n- Created: 2022-11-07T02:06:06Z\n- Updated: 2022-11-16T05:51:45Z\n- Repository: Kong/kong\n- Nu",
+            "published": null,
             "score": 0
           }
         ],
@@ -1909,40 +1909,40 @@
             "score": 0.5
           },
           {
-            "title": "RandomRobbieBF/kong-pwn",
-            "url": "https://github.com/RandomRobbieBF/kong-pwn",
-            "snippet": "# RandomRobbieBF/kong-pwn\n\nUse Exposed KongAPI to act like a proxy and get metadata urls or internal urls\n\n- Stars: 6\n- Forks: 2\n- Watchers: 6\n- Open issues: 0\n- Default branch: master\n- Created: 2020",
+            "title": "paulotrindadec/CVE-2021-44103",
+            "url": "https://github.com/paulotrindadec/CVE-2021-44103",
+            "snippet": "# paulotrindadec/CVE-2021-44103\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issues: 0\n- Default branch: main\n- Created: 2022-10-16T16:02:47Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- paulotrinda",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:40.153Z"
+        "enriched_at": "2026-10-19T05:51:01.424Z"
       },
-      "timestamp": "2026-10-11T06:53:41.715Z"
+      "timestamp": "2026-10-19T05:51:03.094Z"
     },
     "whoop_bug_bounty": {
       "intel": {
         "writeups": [
           {
-            "title": "Medium",
+            "title": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium",
             "url": "https://cyphernova1337.medium.com/unveiling-a-covert-redirect-the-unicode-vulnerability-in-whoop-coms-infrastructure-45303d5c7208",
-            "snippet": "MediumUnveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n# Unveilin",
+            "snippet": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium\n\n# Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructur",
             "published": "2025-07-25T13:55:31.000Z",
             "score": 1
           },
           {
-            "title": "WHOOP's -bash Product Bug: How An API Authorization Flaw Is Bleeding Revenue And What It Means For Subscription-Based IoT Security + Video - Undercode Testing",
-            "url": "https://undercodetesting.com/whoops-bash-product-bug-how-an-api-authorization-flaw-is-bleeding-revenue-and-what-it-means-for-subscription-based-iot-security-video/",
-            "snippet": "WHOOP's -bash Product Bug: How An API Authorization Flaw Is Bleeding Revenue And What It Means For Subscription-Based IoT Security + Video - Undercode Testing\n\n# WHOOP’s -bash Product Bug: How an API ",
-            "published": "2026-08-02T14:34:37.000Z",
+            "title": "Whoop Bug Bounty | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/whoop_bug_bounty?type=team",
+            "snippet": "Whoop Bug Bounty | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nMan",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "Whoop Bug Bounty — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/whoop_bug_bounty",
-            "snippet": "Whoop Bug Bounty — HackerOne bug bounty | BountyHunte.rs\n\n# Whoop Bug Bounty\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a lis",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/whoop_bug_bounty/scope_versions",
+            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
             "published": null,
             "score": 0
           }
@@ -1950,109 +1950,109 @@
         "twitter": [],
         "github": [
           {
-            "title": "OpenStrap/edge",
-            "url": "https://github.com/abdulsaheel/whoopsie",
-            "snippet": "# OpenStrap/edge\n\nAn app that makes a WHOOP 4.0 useful without a WHOOP subscription — pairs over Bluetooth, computes everything on your phone, no cloud required.\n\n- Stars: 346\n- Forks: 54\n- Watchers: ",
-            "published": "2026-03-30T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "[Bounty $200] security: whoop-app — seven /tools/* routes trust body uid and read the victim's health data",
-            "url": "https://github.com/BasedHardware/omi/issues/14453",
-            "snippet": "# [Bounty $200] security: whoop-app — seven /tools/* routes trust body uid and read the victim's health data\n\n- State: open\n- Author: hridaya423\n- Created: 2026-09-18T01:02:33Z\n- Updated: 2026-10-06T0",
+            "title": "asdam1/CVE-2026-41940-PoC",
+            "url": "https://github.com/asdam1/CVE-2026-41940-PoC",
+            "snippet": "# asdam1/CVE-2026-41940-PoC\n\nCVE-2026-41940 is a critical authentication bypass vulnerability affecting cPanel and WHM. This repository is designed to demonstrate its Proof-Of-Concept\n\n- Stars: 0\n- Fo",
             "published": null,
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "sushrutb17/doop-showcase",
             "url": "https://github.com/sushrutb17/doop-showcase",
             "snippet": "# sushrutb17/doop-showcase\n\nPrivacy-safe method-and-evidence showcase for a local-first WHOOP 4.0 training agent\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.0\n- H",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "ciaranightingale/WOOFi-PoC",
+            "url": "https://github.com/ciaranightingale/WOOFi-PoC",
+            "snippet": "# ciaranightingale/WOOFi-PoC\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2024-03-11T19:15:32Z\n\n## Languages\n\n- Solidity\n\n## Top Contributors\n\n- ciaranightin",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:41.715Z"
+        "enriched_at": "2026-10-19T05:51:03.094Z"
       },
-      "timestamp": "2026-10-11T06:53:43.246Z"
+      "timestamp": "2026-10-19T05:51:04.726Z"
     },
     "hubspot": {
       "intel": {
         "writeups": [
           {
-            "title": "Saving 100,000 websites from a Watering Hole attack | by mohamad mahmoudi | Medium",
-            "url": "https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94",
-            "snippet": "Saving 100,000 websites from a Watering Hole attack | by mohamad mahmoudi | Medium\n\nSign up\n\nGet app\n\nSign up\n\n# Saving 100,000 websites from a Watering Hole attack\n\n5 min read\n\nAug 31, 2022\n\n--\n\nShar",
-            "published": "2022-08-31T11:45:56.000Z",
+            "title": "CVE-2026-24559 - Integration for Contact Form 7 HubSpot <= 1.4.3 - Authenticated (Subscriber+) Information Exposure",
+            "url": "https://notcve.org/cve/CVE-2026-24559",
+            "snippet": "CVE-2026-24559 - Integration for Contact Form 7 HubSpot <= 1.4.3 - Authenticated (Subscriber+) Information Exposure\n\n# CVE-2026-24559 Copy ID\n\nIntegration for Contact Form 7 HubSpot <= 1.4.3 - Authent",
+            "published": "2026-01-23T13:02:22.000Z",
             "score": 1
           },
           {
-            "title": "Medium",
-            "url": "https://cao-cao.medium.com/my-very-first-bug-finding-bac-in-hubspot-5964dec7ade5",
-            "snippet": "MediumMy very first bug : Finding BAC in Hubspot | by CaoCao | Medium\n\nOpen in app\n\nSign up\n\nGet app\n\nSign up\n\n# My very first bug : Finding BAC in Hubspot\n\n4 min read\n\nMar 5, 2026\n\n--\n\nShare\n\nHello, ",
-            "published": "2026-03-05T20:07:56.000Z",
+            "title": "HubSpot Full Account Takeover in Bug Bounty",
+            "url": "https://dayzerosec.com/vulns/2023/03/13/hubspot-full-account-takeover-in-bug-bounty.html",
+            "snippet": "HubSpot Full Account Takeover in Bug Bounty\n\n 13 March 2023 \n\nThis vulnerability was analyzed during Episode 195 on 13 March 2023\n\nA lot of wrong turns, eventually leading to some parameter brute forc",
+            "published": "2023-03-13T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "RCE in Hubspot with EL injection in HubL",
-            "url": "https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html",
-            "snippet": "RCE in Hubspot with EL injection in HubL\n\n### RCE in Hubspot with EL injection in HubL \n\n December 07, 2018 \n\nThis is the story of how I was able to get remote code execution on Hubspot's servers by e",
-            "published": "2018-12-07T05:30:00.000Z",
+            "title": "CVE Record: CVE-2026-57736",
+            "url": "https://www.cve.org/CVERecord?id=CVE-2026-57736",
+            "snippet": "CVE Record: CVE-2026-57736\n\nexpand\n\nUpdated: 2026-07-01\n\n#### Description\n\nInsertion of Sensitive Information Into Sent Data vulnerability in HubSpot allows Retrieve Embedded Sensitive Data. This issu",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "Insertion of Sensitive Information Into Sent Data... · CVE-2026-57736 · GitHub Advisory Database · GitHub",
-            "url": "https://github.com/advisories/GHSA-j6hf-cv7p-rr4m",
-            "snippet": "Insertion of Sensitive Information Into Sent Data... · CVE-2026-57736 · GitHub Advisory Database · GitHub\n\n## Insertion of Sensitive Information Into Sent Data...\n\nHigh severity Unreviewed Published J",
+            "title": "WordPress Plugin Metform <= 2.1.3 - Improper Access Control Allowing Unauthenticated Sensitive Information Disclosure",
+            "url": "https://gist.github.com/Xib3rR4dAr/6e6c6e5fa1f8818058c7f03de1eda6bf",
+            "snippet": "# WordPress Plugin Metform <= 2.1.3 - Improper Access Control Allowing Unauthenticated Sensitive Information Disclosure\n\n- Owner: Xib3rR4dAr\n- Created: 2022-04-21T06:19:46Z\n- Public: no\n- Comments: 0\n",
             "published": null,
             "score": 1
           },
           {
-            "title": "yuriisanin/CVE-2022-25262",
-            "url": "https://github.com/yuriisanin/CVE-2022-25262",
-            "snippet": "# Repository: yuriisanin/CVE-2022-25262\n\nPoC + vulnerability details for CVE-2022-25262 / JetBrains Hub single-click SAML response takeover\n\n- Stars: 17\n- Forks: 5\n- Watchers: 2\n- Open issues: 0\n- Pri",
-            "published": "2022-05-03T21:38:58.000Z",
+            "title": "Insertion of Sensitive Information Into Sent Data... · CVE-2026-57736 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/GHSA-j6hf-cv7p-rr4m",
+            "snippet": "Insertion of Sensitive Information Into Sent Data... · CVE-2026-57736 · GitHub Advisory Database · GitHub\n\n High severity Unreviewed \n\n Published \n\nJul 1, 2026\n\n to the GitHub Advisory Database • Upda",
+            "published": "2026-07-01T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "SECURITY VULNERABILITIES",
-            "url": "https://github.com/HubSpot/hubspot-cli/issues/1554",
-            "snippet": "# SECURITY VULNERABILITIES\n\n- State: open\n- Author: EmilioHerreraSoukup\n- Created: 2025-09-15T09:37:22Z\n- Updated: 2026-04-21T19:59:38Z\n- Repository: HubSpot/hubspot-cli\n- Number: #1554\n\n## Labels\n\n- ",
-            "published": "2025-09-15T00:00:00.000Z",
+            "title": "pp/hubspot.md",
+            "url": "https://github.com/BlackFan/client-side-prototype-pollution/blob/master/pp/hubspot.md",
+            "snippet": "# pp/hubspot.md\n\n- Branch: master\n- Repository: BlackFan/client-side-prototype-pollution\n\n---\n\n## HubSpot Tracking Code \n \nURL: https://knowledge.hubspot.com/reports/install-the-hubspot-tracking-code ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:43.246Z"
+        "enriched_at": "2026-10-19T05:51:04.726Z"
       },
-      "timestamp": "2026-10-11T06:53:44.819Z"
+      "timestamp": "2026-10-19T05:51:06.407Z"
     },
     "oppo_bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "Thiasap/oppo-pgem10-ghostlock",
-            "url": "https://exploit-intel.com/exploit/8822474410206031",
-            "snippet": "Skip to content\n\n# Thiasap/oppo-pgem10-ghostlock\n\nGitHubRepository PoC Writeup\n\n## PoC files\n\n35 file s\n\nFile viewing is interactive and short-lived. Downloads are password-protected ZIP archives usin",
-            "published": null,
+            "title": "Cracking ATO in Oppo with a Simple Trick! | by Abdelrahman Y. (DbgMan) | Medium",
+            "url": "https://medium.com/@DbgMan/cracking-ato-in-oppo-with-a-simple-trick-98c27f8d2b3a",
+            "snippet": "Cracking ATO in Oppo with a Simple Trick! | by Abdelrahman Y. (DbgMan) | Medium\n\n# Cracking ATO in Oppo with a Simple Trick!\n\nAbdelrahman Y. (DbgMan)\n\nMar 5, 2025\n\nPress enter or click to view image i",
+            "published": "2025-03-05T21:46:55.000Z",
             "score": 1
           },
           {
-            "title": "pubglite55/oppo-ghostlock | DeepWiki",
-            "url": "https://deepwiki.com/pubglite55/oppo-ghostlock",
-            "snippet": "pubglite55/oppo-ghostlock | DeepWiki\n\n# Overview Copy link to header\n\nRelevant source files\n\n- CHANGELOG.md\n- HANDOFF.md\n- README.md\n\nThe oppo-ghostlock research project is a technical endeavor to ada",
-            "published": "2026-07-17T00:00:00.000Z",
+            "title": "Medium",
+            "url": "https://medium.com/@shibinbshaji007/a-long-overdue-write-up-how-i-got-into-the-oppo-hall-of-fame-bac95ee44a4e",
+            "snippet": "MediumA Long Overdue Write-up: How I got into the Oppo Hall of Fame | by Shibin B Shaji | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## Shibin B Shaji\n\niOS Pentester | Gamer | Designer\n\n# A Long Overdue Write",
+            "published": "2020-05-29T13:29:13.000Z",
             "score": 0.5
           },
           {
-            "title": "pubglite55/oppo-ghostlock",
-            "url": "https://exploit-intel.com/exploit/7569645141502937",
-            "snippet": "Skip to content\n\n# pubglite55/oppo-ghostlock\n\nGitHubRepository PoC Exploit\n\n## PoC files\n\n28 file s\n\nFile viewing is interactive and short-lived. Downloads are password-protected ZIP archives using pa",
+            "title": "OPPO分站nginx解析可以拿下权限 | wooyun-2013-021118| WooYun.org",
+            "url": "https://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2013-021118",
+            "snippet": "OPPO分站nginx解析可以拿下权限 | wooyun-2013-021118| WooYun.org\n* 转到评论\n* 我要反馈\n* 回到顶部\n# WooYun.org\n乌云白帽子\n\n乌云Drops文章在线浏览 | 登录 | 注册\n乌云(WooYun.org)历史漏洞查询---http://wy.zone.ci/\n乌云 Drops 文章在线浏览--------http://drop.zone.",
             "published": null,
             "score": 0
           }
@@ -2060,32 +2060,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "soralis0912/CVE-2026-43499-pmg110-root",
-            "url": "https://github.com/soralis0912/pmg110-root",
-            "snippet": "# soralis0912/CVE-2026-43499-pmg110-root\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2026-07-27T07:18:47Z\n\n## Languages\n\n- Assembly\n- C\n- Makefile\n- Pytho",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "2932796375github/CVE-2026-43499_OPPO-MT6835",
             "url": "https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835",
             "snippet": "# 2932796375github/CVE-2026-43499_OPPO-MT6835\n\n- Stars: 0\n- Forks: 1\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-17T00:40:53Z\n\n## Languages\n\n- Assembly\n- C\n- Makefile\n- Py",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "soralis0912/CVE-2026-43499-pmg110-root",
+            "url": "https://github.com/soralis0912/pmg110-root",
+            "snippet": "# soralis0912/CVE-2026-43499-pmg110-root\n\n- Stars: 5\n- Forks: 0\n- Watchers: 5\n- Open issues: 1\n- Default branch: master\n- Created: 2026-07-27T07:18:47Z\n\n## Languages\n\n- Assembly\n- C\n- Makefile\n- Pytho",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "yijiacloud/GhostLock-OPPO-PCKM00",
-            "url": "https://github.com/yijiacloud/GhostLock-OPPO-PCKM00",
-            "snippet": "# yijiacloud/GhostLock-OPPO-PCKM00\n\nCVE-2026-43499 GhostLock futex UAF LPE PoC for OPPO PCKM00 (SM6150) / Linux 4.14.180\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License",
+            "title": "HANDOFF.md",
+            "url": "https://github.com/pubglite55/oppo-ghostlock/blob/3a898532/HANDOFF.md",
+            "snippet": "# HANDOFF.md\n\n- Branch: 3a898532\n- Repository: pubglite55/oppo-ghostlock\n\n---\n\n# handoff.md\n\n# 项目交接文档\n\n## 项目基本信息\n\n| 项目 | 详情 |\n|------|------|\n| 项目名称 | oppo-ghostlock |\n| 核心定位 | GhostLock CVE-2026-4349",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:44.820Z"
+        "enriched_at": "2026-10-19T05:51:06.407Z"
       },
-      "timestamp": "2026-10-11T06:53:46.333Z"
+      "timestamp": "2026-10-19T05:51:08.175Z"
     },
     "1password_ctf": {
       "intel": {
@@ -2146,24 +2146,24 @@
       "intel": {
         "writeups": [
           {
-            "title": "Pentest-Report 1Password B5 & Permissions 10.2020",
-            "url": "https://cure53.de/pentest-report_1password-b5.pdf",
-            "snippet": "Dr.-Ing. Mario Heiderich, Cure53 \nBielefelder Str. 14 \nD 10709 Berlin \ncure53.de · mario@cure53.de \n\n## Pentest-Report 1Password B5 & Permissions 10.2020\n\nCure53, Dr.-Ing. M. Heiderich, MSc. S. Moritz",
-            "published": null,
+            "title": "How You Respond to Security Researchers Says Everything About You - Dhole Moments",
+            "url": "https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/",
+            "snippet": "How You Respond to Security Researchers Says Everything About You - Dhole Moments\n\n# How You Respond to Security Researchers Says Everything About You\n\nTails from the Cryptographic Side of Security Re",
+            "published": "2023-01-21T07:37:36.000Z",
             "score": 1
           },
           {
-            "title": "The Importance of Establishing Boundaries with your DOM — Stealing 1Password Keys",
-            "url": "https://guyfischman.com/posts/1password-delegation/",
-            "snippet": "The Importance of Establishing Boundaries with your DOM — Stealing 1Password Keys\n\n# The Importance of Establishing Boundaries with your DOM — Stealing 1Password Keys\n\n Jun 23, 2026 \n\n> Disclosure sta",
-            "published": "2026-06-23T00:00:00.000Z",
+            "title": "HackerOne Bug Bounty Disclosure: api-key-exposed-in-javascript-file-on-password-developer-site-sudosu - RedPacket Security",
+            "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-api-key-exposed-in-javascript-file-on-password-developer-site-sudosu/",
+            "snippet": "HackerOne Bug Bounty Disclosure: api-key-exposed-in-javascript-file-on-password-developer-site-sudosu - RedPacket Security\n\n# HackerOne Bug Bounty Disclosure: api-key-exposed-in-javascript-file-on-pas",
+            "published": "2025-07-18T18:00:57.000Z",
             "score": 0.5
           },
           {
-            "title": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper",
-            "url": "https://scotthelme.co.uk/passkeys-permissions-policy-and-bug-hunting-in-1passwords-webauthn-wrapper/",
-            "snippet": "Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\n# Passkeys, Permissions Policy and Bug Hunting in 1Password's WebAuthn Wrapper\n\n- ## Scott Helme\n\nSecurity researcher, ent",
-            "published": "2026-05-21T14:40:02.000Z",
+            "title": "DOM-based Extension Clickjacking: Your Password Manager Data at Risk | Marek Tóth",
+            "url": "https://marektoth.com/blog/dom-based-extension-clickjacking/",
+            "snippet": "DOM-based Extension Clickjacking: Your Password Manager Data at Risk | Marek Tóth \n\n## DOM-based Extension Clickjacking: Your Password Manager Data at Risk\n\n##### 9 August 2025 (Updated: 14 January 20",
+            "published": "2025-08-09T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2177,57 +2177,57 @@
             "score": 1
           },
           {
-            "title": "sho-luv/1password-exploits",
-            "url": "https://github.com/sho-luv/1password-exploits",
-            "snippet": "# sho-luv/1password-exploits\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-12-11T07:54:10Z\n- Fork: yes\n\n## Languages\n\n- C\n- HTML\n- JavaScript\n- Mustache\n",
-            "published": null,
+            "title": "enzo2alive/1password-family-rce-repro",
+            "url": "https://github.com/enzo2alive/1password-family-rce-repro",
+            "snippet": "# Repository: enzo2alive/1password-family-rce-repro\n\n1Password Families CSV injection RCE repro—vault export lag to multi-user exec\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary lang",
+            "published": "2025-10-08T14:20:53.000Z",
             "score": 0.5
           },
           {
-            "title": "MrTiz/1Password-Secrets-Dump",
-            "url": "https://github.com/MrTiz/1Password-Secrets-Dump",
-            "snippet": "# MrTiz/1Password-Secrets-Dump\n\nExfiltrates 1Password secrets by performing a memory dump\n\n- Stars: 6\n- Forks: 0\n- Watchers: 6\n- Open issues: 0\n- License: GNU General Public License v3.0\n- Default bra",
-            "published": "2022-09-17T00:00:00.000Z",
+            "title": "djhohnstein/1PasswordSuite",
+            "url": "https://github.com/djhohnstein/1PasswordSuite",
+            "snippet": "# Repository: djhohnstein/1PasswordSuite\n\nUtilities to extract secrets from 1Password\n\n- Stars: 109\n- Forks: 15\n- Watchers: 109\n- Open issues: 0\n- Primary language: C\n- Languages: C (91.2%), C# (5.9%)",
+            "published": "2021-08-13T18:33:15.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:46.333Z"
+        "enriched_at": "2026-10-19T05:51:08.175Z"
       },
-      "timestamp": "2026-10-11T06:53:47.805Z"
+      "timestamp": "2026-10-19T05:51:09.818Z"
     },
     "bcny": {
       "intel": {
         "writeups": [
           {
-            "title": "The Browser Company of NYC Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
-            "url": "https://blog.pentestnepal.tech/bugbounty/the-browser-company-of-nyc/",
-            "snippet": "The Browser Company of NYC Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# The Browser Company of NYC Bug Bounty Program\n\nComplete guide to The Browser Company of NYC's bug bou",
-            "published": null,
+            "title": "Researcher reveals ‘catastrophic’ security flaw in the Arc browser | The Verge",
+            "url": "https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched",
+            "snippet": "Researcher reveals ‘catastrophic’ security flaw in the Arc browser | The Verge\n\n# Researcher reveals ‘catastrophic’ security flaw in the Arc browser\n\nAn exploit patched last month could have allowed a",
+            "published": "2024-09-20T16:12:39.000Z",
             "score": 1
           },
           {
-            "title": "The Browser Company of NYC — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/bcny",
-            "snippet": "The Browser Company of NYC — HackerOne bug bounty | BountyHunte.rs\n\n# The Browser Company of NYC\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility ",
-            "published": null,
+            "title": "CVE-2024-45489 Response – Arc",
+            "url": "https://arc.net/blog/CVE-2024-45489-incident-response",
+            "snippet": "CVE-2024-45489 Response – Arc\n\n# CVE-2024-45489 Incident Report\n\nTag: Security Bulletin Published: September 20, 2024 at 3:20 PM\n\nHursh here, CTO and Cofounder of The Browser Company. We want to let a",
+            "published": "2024-09-20T15:20:00.000Z",
             "score": 0.5
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/bcny",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n‌‌‌\n\n‌‌‌‌‌\n\n‌‌\n\n‌‌\n\n‌‌‌‌‌\n\n‌‌‌\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.s",
-            "published": null,
+            "title": "How we’re investing in security at The Browser Company – Arc",
+            "url": "https://arc.net/blog/investing-in-security",
+            "snippet": "How we’re investing in security at The Browser Company – Arc\n\n# Investing in Security at The Browser Company\n\nTag: Security Bulletin Published: September 27, 2024 at 5:23 PM\n\nHi there, Josh here, CEO ",
+            "published": "2024-09-27T17:23:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "Path Traversal File Read Vulnerability in Component Server of browser-operator-core",
-            "url": "https://github.com/BrowserOperator/browser-operator-core/issues/96",
-            "snippet": "# Path Traversal File Read Vulnerability in Component Server of browser-operator-core\n\n- State: open\n- Author: BruceJqs\n- Created: 2026-04-11T06:17:35Z\n- Updated: 2026-04-11T06:17:35Z\n- Repository: Br",
+            "title": "hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC",
+            "url": "https://github.com/hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC",
+            "snippet": "# hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC\n\nCVE-2024-25733 | ARC Browser Address Bar Spoofing PoC - iOS/iPadOS\n\n- Stars: 6\n- Forks: 0\n- Watchers: 6\n- Open issues: 0\n- Default branch: main",
             "published": null,
             "score": 1
           },
@@ -2239,26 +2239,26 @@
             "score": 0.5
           },
           {
-            "title": "mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass",
-            "url": "https://github.com/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass",
-            "snippet": "# mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-19T21:20:27Z\n\n## Top Contributors\n\n- mbanya",
+            "title": "SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box",
+            "url": "https://github.com/SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box",
+            "snippet": "# SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box\n\nFirefox content-to-parent IPDL privilege escalation (N-day, bug 2054416): forged PDocumentChannel with RemoteTypeOverride -> privilegedabout ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:47.805Z"
+        "enriched_at": "2026-10-19T05:51:09.818Z"
       },
-      "timestamp": "2026-10-11T06:53:49.320Z"
+      "timestamp": "2026-10-19T05:51:11.458Z"
     },
     "verily_life_sciences": {
       "intel": {
         "writeups": [
           {
-            "title": "Verily Life Sciences Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
-            "url": "https://blog.pentestnepal.tech/bugbounty/verily-life-sciences/",
-            "snippet": "Verily Life Sciences Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# Verily Life Sciences Bug Bounty Program\n\nComplete guide to Verily Life Sciences's bug bounty program on Hac",
+            "title": "Verily Life Sciences | Updates | HackerOne",
+            "url": "https://hackerone.com/verily_life_sciences/updates",
+            "snippet": "Verily Life Sciences | Updates | HackerOne\n\n2026-08-26\n\nAugust 26th, 2026 (2 months ago)\n\nHello, \n\nThis message is going out to all those that have received a bounty on the program. Thank you for the ",
             "published": null,
             "score": 1
           },
@@ -2271,7 +2271,7 @@
           },
           {
             "title": "HackerOne",
-            "url": "https://hackerone.com/verily_life_sciences/safe_harbor",
+            "url": "https://hackerone.com/verily_life_sciences",
             "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
             "published": null,
             "score": 0
@@ -2280,32 +2280,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "l1m3syc/CVE-2024-4947-PoC",
-            "url": "https://github.com/l1m3syc/CVE-2024-4947-PoC",
-            "snippet": "# l1m3syc/CVE-2024-4947-PoC\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-08-20T12:47:51Z\n\n## Languages\n\n- Assembly\n- JavaScript\n-",
+            "title": "jacob-baines/veralite_upnp_exploit_poc",
+            "url": "https://github.com/jacob-baines/veralite_upnp_exploit_poc",
+            "snippet": "# jacob-baines/veralite_upnp_exploit_poc\n\nA proof of concept exploit against the Veralite\n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- License: BSD 3-Clause \"New\" or \"Revised\" License\n- Def",
             "published": null,
             "score": 1
           },
           {
-            "title": "megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "url": "https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud",
-            "snippet": "# Repository: megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud\n\nExpose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.",
-            "published": "2026-03-10T14:40:04.000Z",
+            "title": "JxB1990/test2",
+            "url": "https://github.com/JxB1990/test2",
+            "snippet": "# JxB1990/test2\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2023-03-26T01:34:53Z\n\n## Languages\n\n- C#\n\n## Top Contributors\n\n- sfewer-r7 (11 contributions)\n\n-",
+            "published": "2023-03-26T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm",
-            "url": "https://github.com/SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm",
-            "snippet": "# SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm\n\nPoC exploit chain for CVE-2026-15718: SpiderMonkey wasm baseline compiler array.fill missing-sync -> invalid pointer -> addrOf/fakeobj -> arbitra",
+            "title": "verilylifesciences/medtimeline",
+            "url": "https://github.com/verilylifesciences/medtimeline",
+            "snippet": "# verilylifesciences/medtimeline\n\nMedTimeLine is a web application to help clinicians view how a patient's status is changing over time.\n\n- Stars: 10\n- Forks: 3\n- Watchers: 10\n- Open issues: 47\n- Lice",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:49.320Z"
+        "enriched_at": "2026-10-19T05:51:11.458Z"
       },
-      "timestamp": "2026-10-11T06:53:50.867Z"
+      "timestamp": "2026-10-19T05:51:13.063Z"
     },
     "neon_bbp": {
       "intel": {
@@ -4105,17 +4105,17 @@
             "score": 1
           },
           {
-            "title": "Smart Contract Assessment Audit | 1win | Halborn Audit Reports",
-            "url": "https://www.halborn.com/audits/1win/smart-contract-assessment-928be7",
-            "snippet": "by HALBORN\n\n## Disclaimer#\n\nHalborn strongly recommends conducting a follow-up assessment of the project either within six months or immediately following any material changes to the codebase, whichev",
-            "published": null,
+            "title": "Medium",
+            "url": "https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da",
+            "snippet": "Medium\n\n# From a Simple CSRF to Full Account Takeover\n\nmontaser mohsen\n\nMay 9, 2026\n\nPress enter or click to view image in full size\n\nSecurity researchers often say that “small bugs become big bugs wh",
+            "published": "2026-05-09T17:48:44.000Z",
             "score": 0.5
           },
           {
-            "title": "1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Leaked; High Risk of BEC & Supply-Chain Attacks",
-            "url": "https://www.brinztech.com/breach-alerts/brinztech-alert-1win-betting-site-28gb-sql-db-96m-users-partners-employees-leaked-high-risk-of-bec-supply-chain-attacks/",
-            "snippet": "1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Leaked; High Risk of BEC & Supply-Chain Attacks\n\n# Brinztech Alert: 1win (Betting Site) 28GB SQL DB (96M Users + Partners/Employees) Le",
-            "published": "2025-10-31T20:19:46.000Z",
+            "title": "1win.rar",
+            "url": "https://spear.cx/Thread-Database-1win-rar",
+            "snippet": "1win.rar\n\n# DATABASE 1win.rar\n\n [Mod] Tanaka \n\n \n\nModerator\n\n \n\n07-18-2026, 06:12 PM\n\n penlfg \n\n07-18-2026, 06:33 PM\n\n source of this? \n\n Fatiboii \n\nBanned\n\n07-23-2026, 09:10 PM (Edited 07-23-2026, 09",
+            "published": "2026-07-18T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -4129,25 +4129,25 @@
             "score": 1
           },
           {
-            "title": "wpoc/1Panel/1Panel%E9%9D%A2%E6%9D%BF%E6%9C%80%E6%96%B0%E5%89%8D%E5%8F%B0RCE%E6%BC%8F%E6%B4%9E(CVE-2024-39911).md at main · adysec/POC",
-            "url": "https://github.com/adysec/POC/blob/main/wpoc/1Panel/1Panel%E9%9D%A2%E6%9D%BF%E6%9C%80%E6%96%B0%E5%89%8D%E5%8F%B0RCE%E6%BC%8F%E6%B4%9E(CVE-2024-39911).md",
-            "snippet": "# File: adysec/POC/wpoc/1Panel/1Panel%E9%9D%A2%E6%9D%BF%E6%9C%80%E6%96%B0%E5%89%8D%E5%8F%B0RCE%E6%BC%8F%E6%B4%9E(CVE-2024-39911).md\n\n- Repository: adysec/POC | wy876 POC | wy876的poc仓库已删库，该项目为其仓库镜像 | 4",
+            "title": "Anjula12/1Win",
+            "url": "https://github.com/Anjula12/1Win",
+            "snippet": "# Anjula12/1Win\n\n1Win mines hack \n\n- Stars: 34\n- Forks: 10\n- Watchers: 34\n- Open issues: 4\n- Default branch: main\n- Created: 2023-09-03T03:26:36Z\n\n## Top Contributors\n\n- Anjula12 (3 contributions)\n\n--",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Chocapikk/Windfall",
-            "url": "https://github.com/Chocapikk/Windfall",
-            "snippet": "# Chocapikk/Windfall\n\nWindfall - Unauthenticated RCE exploit chain for Windmill & Nextcloud Flow (CVE-2026-29059). Path traversal + credential leak + PostgreSQL heap dump + Nextcloud AppAPI takeover.\n",
+            "title": "Emille Bruce",
+            "url": "https://github.com/moneyhacksrwanda",
+            "snippet": "# Emille Bruce\n\nI am a passionate trader with over 6 years of experience. One of my primary goal is to help others master the world of trading and achieve success in their own \n\n- Login: moneyhacksrwa",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-11T06:53:35.509Z"
+        "enriched_at": "2026-10-19T05:50:56.208Z"
       },
-      "timestamp": "2026-10-11T06:53:37.086Z"
+      "timestamp": "2026-10-19T05:50:58.114Z"
     },
     "wisdomtree": {
       "intel": {
@@ -6596,5 +6596,5 @@
       "timestamp": "2026-10-17T05:23:00.401Z"
     }
   },
-  "lastRun": "2026-10-18T05:30:30.376Z"
+  "lastRun": "2026-10-19T05:51:13.063Z"
 }
