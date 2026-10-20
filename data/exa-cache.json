@@ -2311,81 +2311,88 @@
       "intel": {
         "writeups": [
           {
-            "title": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon",
-            "url": "https://neon.com/blog/neons-bug-bounty-program-with-hackerone-goes-public",
-            "snippet": "Neon’s Bug Bounty Program with HackerOne Goes Public - Neon\n\n# Neon’s Bug Bounty Program with HackerOne Goes Public\n\nDoubling down on our commitment to security\n\nBusra Demir– Lead Security Engineer\n\nM",
-            "published": "2025-03-01T00:08:55.000Z",
+            "title": "Exposed Segment Analytics API Key in Neon’s Web Console — A Critical Oversight with Serious Implications",
+            "url": "https://medium.com/@m.habibgpi/exposed-segment-analytics-api-key-in-neons-web-console-a-critical-oversight-with-serious-c0849a01754c",
+            "snippet": "Exposed Segment Analytics API Key in Neon’s Web Console — A Critical Oversight with Serious Implications | by Muhammad Habib | Apr, 2025 | Medium\n\nOpen in app\n\nSign up\n\nSign in\n\nWrite\n\nSign up\n\nSign i",
+            "published": "2025-04-12T07:57:59.000Z",
             "score": 1
           },
           {
-            "title": "Security Audit – Neon EVM",
-            "url": "https://neodyme.io/reports/Neon-Update-2024.pdf",
-            "snippet": "### Security Audit – Neon EVM\n\n#### Lead Auditor: Robert Reith Second Auditor: Sebastian Fritsch Second Auditor: Mathias Scherer Administrative Lead: Thomas Lambertz\n\n#### April 16 th 2024\n\n## Table o",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/neon_bbp/policy_versions",
+            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Bugbounty and Pentests at Neon - Neon",
-            "url": "https://neon.com/blog/bugbounty-and-pentests-at-neon",
-            "snippet": "Bugbounty and Pentests at Neon - Neon\n\n# Bugbounty and Pentests at Neon\n\nJoining forces with HackerOne to bulletproof our security\n\nBusra Demir– Lead Security Engineer\n\nNov 25, 2024\n\nAt Neon, security",
-            "published": "2024-11-25T16:43:38.000Z",
+            "title": "33428 - [BC - Critical] Validators can be crashed via pp | Immunefi Audit Competitions",
+            "url": "https://reports.immunefi.com/shardeum-core/33428-bc-critical-validators-can-be-crashed-via-pp",
+            "snippet": "33428 - [BC - Critical] Validators can be crashed via pp | Immunefi Audit Competitions\n\n- README\n- Alchemix\n- BadgerDAO (eBTC)\n- DeGate\n- Firedancer v0.1\n- Folks Finance\n- Fuel Network | Attackathon\n-",
+            "published": "2024-07-20T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "cosmicsting-cnext-exploit.py",
-            "url": "https://github.com/ambionics/cnext-exploits/blob/main/cosmicsting-cnext-exploit.py",
-            "snippet": "# cosmicsting-cnext-exploit.py\n\n- Branch: main\n- Repository: ambionics/cnext-exploits\n\n---\n\n#!/usr/bin/env python3\n#\n# CNEXT (CVE-2024-2961) + CosmicSting (CVE-2024-34102): RCE on Magento 2.4.7\n# Date",
+            "title": "An malicious user can mint a huge amount of BYTES 2.0 tokens for himself",
+            "url": "https://github.com/code-423n4/2023-03-neotokyo-findings/issues/366",
+            "snippet": "# An malicious user can mint a huge amount of BYTES 2.0 tokens for himself\n\n- State: closed\n- Author: code423n4\n- Created: 2023-03-15T17:37:26Z\n- Updated: 2023-03-17T01:14:47Z\n- Repository: code-423n4",
             "published": null,
             "score": 1
           },
           {
-            "title": "nospher3x2/cosmicsting-cnext-exploit",
-            "url": "https://github.com/nospher3x2/cosmicsting-cnext-exploit",
-            "snippet": "# nospher3x2/cosmicsting-cnext-exploit\n\nExploit for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv() + CosmicSting (CVE-2024-34102), a XXE blind in Magento\n\n- Stars: 8\n- Forks: 1\n- Watc",
+            "title": "README.md at main · huzpsb/JavaObfuscatorTest",
+            "url": "https://github.com/huzpsb/JavaObfuscatorTest/blob/main/README.md",
+            "snippet": "# File: huzpsb/JavaObfuscatorTest/README.md\n\n- Repository: huzpsb/JavaObfuscatorTest | A list of Java obfuscators, obfuscated samples and benchmarks. | 103 stars | Java\n- Branch: main\n\n```md\n# JavaObf",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "fix(register): allowlist headers persisted at client registration",
+            "url": "https://github.com/neondatabase/mcp-server-neon/pull/264",
+            "snippet": "# fix(register): allowlist headers persisted at client registration\n\n- State: open\n- Author: andesyteoss\n- Created: 2026-05-14T21:24:16Z\n- Updated: 2026-08-18T17:14:08Z\n- Repository: neondatabase/mcp-",
+            "published": "2026-05-14T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 5,
-        "enriched_at": "2026-10-12T07:02:36.111Z"
+        "total_results": 6,
+        "enriched_at": "2026-10-20T05:43:36.058Z"
       },
-      "timestamp": "2026-10-12T07:02:37.946Z"
+      "timestamp": "2026-10-20T05:43:37.728Z"
     },
     "bumba_bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "Bumba | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/bumba_bbp?type=team",
-            "snippet": "Bumba | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response E",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/bumba_bbp/policy_scopes?type=team",
+            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
             "published": null,
             "score": 1
           },
           {
-            "title": "Bumba Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/bumba/",
-            "snippet": "Bumba Bug Bounty Program - Bug Bounties\n\n# Bumba\n\nBounty \n\n## Program Details \n\n Handle \n: bumba_bbp \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 17 days \nResolution Time\n: 2171 days \n\n Resp",
+            "title": "Bambu%20Lab/Bambu%20Studio/README.md",
+            "url": "https://github.com/piuppi/Proof-of-Concepts/blob/main/Bambu%20Lab/Bambu%20Studio/README.md",
+            "snippet": "# Bambu%20Lab/Bambu%20Studio/README.md\n\n- Branch: main\n- Repository: piuppi/Proof-of-Concepts\n\n---\n\n# CVE-2025-57521\n\n### Description\nBambu Studio 2.2.2.56 and earlier is affected by a vulnerability t",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Bumba Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
-            "url": "https://blog.pentestnepal.tech/bugbounty/bumba/",
-            "snippet": "Bumba Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# Bumba Bug Bounty Program\n\nComplete guide to Bumba's bug bounty program on HackerOne. View in-scope assets, reward amounts,",
-            "published": null,
+            "title": "Bumba Bug Bounty | bbradar.io",
+            "url": "https://bbradar.io/program/HackerOne:bumba_bbp",
+            "snippet": "Bumba Bug Bounty | bbradar.io\n\n# Bumba\n\nHackerone· Bug Bounty Program Active\n\nReward range\n\n$50 - $2,000\n\nPublished rewards\n\nIn-scope targets\n\n…\n\nScope movement · 7 days\n\n…\n\nLoading recorded movement\n",
+            "published": "2024-01-01T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "core/src/exploit/heapbait.rs",
-            "url": "https://github.com/shomykohai/penumbra/blob/main/core/src/exploit/heapbait.rs",
-            "snippet": "# core/src/exploit/heapbait.rs\n\n- Branch: main\n- Repository: shomykohai/penumbra\n\n---\n\n/*\n SPDX-License-Identifier: AGPL-3.0-or-later\n SPDX-FileCopyrightText: 2026 Shomy, R0rt1z2\n\n Original exploit cr",
+            "title": "docs/pwn/linux/stackoverflow/basic-rop.md at master · mahaloz/ctf-wiki-en",
+            "url": "https://github.com/mahaloz/ctf-wiki-en/blob/master/docs/pwn/linux/stackoverflow/basic-rop.md",
+            "snippet": "# File: mahaloz/ctf-wiki-en/docs/pwn/linux/stackoverflow/basic-rop.md\n\n- Repository: mahaloz/ctf-wiki-en | A full English version of the popular ctf-wiki | 116 stars | HTML\n- Branch: master\n\n```md\n# 基",
             "published": null,
             "score": 1
           },
@@ -2397,41 +2404,41 @@
             "score": 0.5
           },
           {
-            "title": "exploitarium/php857-streambucket-soap-rce-rpoc at main · bikini/exploitarium · GitHub",
-            "url": "https://github.com/bikini/exploitarium/tree/main/php857-streambucket-soap-rce-rpoc",
-            "snippet": "exploitarium/php857-streambucket-soap-rce-rpoc at main · bikini/exploitarium · GitHub\n\n/ exploitarium Public\n\n## Files\n\nmain\n\n# php857-streambucket-soap-rce-rpoc\n\nView commit history for this file.\n\nm",
-            "published": "2026-06-23T05:14:11.000Z",
+            "title": "CVE-2021-44142 PoC Samba 4.15.0 OOB Read/Write",
+            "url": "https://gist.github.com/0xsha/0859033e1777490576923a27fbcd23ac",
+            "snippet": "# CVE-2021-44142 PoC Samba 4.15.0 OOB Read/Write \n\n- Owner: 0xsha\n- Created: 2022-02-19T09:31:39Z\n- Public: yes\n- Comments: 0\n- Forks: 6\n\n## CVE-2021-44142.py\n\nLanguage: Python\n\n# CVE-2021-44142 PoC S",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-12T07:02:37.946Z"
+        "enriched_at": "2026-10-20T05:43:37.729Z"
       },
-      "timestamp": "2026-10-12T07:02:39.716Z"
+      "timestamp": "2026-10-20T05:43:39.426Z"
     },
     "starbucks_japan": {
       "intel": {
         "writeups": [
           {
-            "title": "Starbucks | Report #1113559 - Japan - CSRF in webapp.starbucks.co.jp with user interaction could leak an access token if the user was not using Chrome | HackerOne",
-            "url": "https://hackerone.com/reports/1113559",
-            "snippet": "Starbucks | Report #1113559 - Japan - CSRF in webapp.starbucks.co.jp with user interaction could leak an access token if the user was not using Chrome | HackerOne\n\nJapan - CSRF in webapp.starbucks.co.",
-            "published": "2021-03-01T00:00:00.000Z",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/reports/389454",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "published": null,
             "score": 1
           },
           {
-            "title": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec",
-            "url": "http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/",
-            "snippet": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec\n\n# RCE on Starbucks Singapore and more for $5600\n\nPosted at — Apr 3, 2021\n\n### Recon\n\nAfter I found a critical vulnerabili",
-            "published": "2021-04-03T12:24:01.000Z",
+            "title": "Starbucks Bug Bounty Program Statistics | BugBountyHunter.com",
+            "url": "https://www.bugbountyhunter.com/program?id=starbucks",
+            "snippet": "Starbucks Bug Bounty Program Statistics | BugBountyHunter.com\n\n- Getting started\n\n Learn about vulnerability types Getting started in bug bounties \n- Test your knowledge\n\n Free Web Application Challen",
+            "published": null,
             "score": 0.5
           },
           {
             "title": "HackerOne",
-            "url": "https://hackerone.com/reports/496375",
+            "url": "https://hackerone.com/elber",
             "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
-            "published": "2019-02-15T00:00:00.000Z",
+            "published": null,
             "score": 0
           }
         ],
@@ -2445,190 +2452,190 @@
             "score": 1
           },
           {
-            "title": "2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
+            "title": "2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md at master · flameddd/blog",
             "url": "https://github.com/flameddd/blog/blob/master/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
-            "snippet": "# 2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md\n\n- Branch: master\n- Repository: flameddd/blog\n\n-",
+            "snippet": "# File: flameddd/blog/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md\n\n- Repository: flameddd/blog",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "sonya75/starbucks-botdetection-cracked",
-            "url": "https://github.com/sonya75/starbucks-botdetection-cracked",
-            "snippet": "# sonya75/starbucks-botdetection-cracked\n\nStarbucks uses Shape Security for bot detection. This script is to pass that bot detection for any website using Shape Security, like Starbucks or Chipotle fo",
+            "title": "88c334be272f411e614030fde2f3aef9",
+            "url": "https://gist.github.com/alexrrodriguez/88c334be272f411e614030fde2f3aef9",
+            "snippet": "# 88c334be272f411e614030fde2f3aef9\n\n- Owner: alexrrodriguez\n- Created: 2022-03-18T14:18:17Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## captive_portal.md\n\nLanguage: Markdown\n\n### This document shows ca",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-12T07:02:39.716Z"
+        "enriched_at": "2026-10-20T05:43:39.427Z"
       },
-      "timestamp": "2026-10-12T07:02:41.396Z"
+      "timestamp": "2026-10-20T05:43:41.061Z"
     },
     "starbucks_china": {
       "intel": {
         "writeups": [
           {
-            "title": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章",
-            "url": "http://sechub.in/view/2644651",
-            "snippet": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章\n\n# 实战 | 猪猪侠以前的星巴克漏洞挖掘文章\n\n 安全脉搏 2023-03-30 14:06:27 漏洞 · .net · flipscript \n\n### 来源：http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0208769\n\n这是一篇2016年的乌云漏洞报告，带大家感受一下2016年",
-            "published": "2023-03-30T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章 - SecPulse.COM | 安全脉搏",
-            "url": "https://www.secpulse.com/archives/198427.html",
-            "snippet": "实战 | 猪猪侠以前的星巴克漏洞挖掘文章 - SecPulse.COM | 安全脉搏\n\n# 实战 | 猪猪侠以前的星巴克漏洞挖掘文章\n\n 2023-03-30 14,807 \n\n### 来源：http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0208769\n\n这是一篇2016年的乌云漏洞报告，带大家感受一下2016年的猪哥就这么强了",
-            "published": "2023-03-30T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec",
-            "url": "http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/",
-            "snippet": "RCE on Starbucks Singapore and more for $5600 - Kamil Onur Özkaleli as ko2sec\n\n# RCE on Starbucks Singapore and more for $5600\n\nPosted at — Apr 3, 2021\n\n### Recon\n\nAfter I found a critical vulnerabili",
-            "published": "2021-04-03T12:24:01.000Z",
-            "score": 0
-          }
-        ],
-        "twitter": [],
-        "github": [
-          {
-            "title": "2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
-            "url": "https://github.com/flameddd/blog/blob/master/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
-            "snippet": "# 2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md\n\n- Branch: master\n- Repository: flameddd/blog\n\n-",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "%E5%96%B0%E6%98%9F%E4%BA%91-%E6%95%B0%E5%AD%97%E5%8C%96%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9F/%E5%96%B0%E6%98%9F%E4%BA%91-%E6%95%B0%E5%AD%97%E5%8C%96%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9Fstock.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md",
-            "url": "https://github.com/zan8in/wy876-POC/blob/main/%E5%96%B0%E6%98%9F%E4%BA%91-%E6%95%B0%E5%AD%97%E5%8C%96%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9F/%E5%96%B0%E6%98%9F%E4%BA%91-%E6%95%B0%E5%AD%97%E5%8C%96%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9Fstock.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md",
-            "snippet": "# %E5%96%B0%E6%98%9F%E4%BA%91-%E6%95%B0%E5%AD%97%E5%8C%96%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9F/%E5%96%B0%E6%98%9F%E4%BA%91-%E6%95%B0%E5%AD%97%E5%8C%96%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "wpoc/%E5%88%9B%E5%AE%A213%E6%98%9F%E9%9B%B6%E5%94%AE%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F/%E5%88%9B%E5%AE%A213%E6%98%9F%E9%9B%B6%E5%94%AE%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md",
-            "url": "https://github.com/eeeeeeeeee-code/POC/blob/main/wpoc/%E5%88%9B%E5%AE%A213%E6%98%9F%E9%9B%B6%E5%94%AE%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F/%E5%88%9B%E5%AE%A213%E6%98%9F%E9%9B%B6%E5%94%AE%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md",
-            "snippet": "# wpoc/%E5%88%9B%E5%AE%A213%E6%98%9F%E9%9B%B6%E5%94%AE%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F/%E5%88%9B%E5%AE%A213%E6%98%9F%E9%9B%B6%E5%94%AE%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F%E5%89%8D%E5%8F%B0%E4%BB%B",
-            "published": null,
-            "score": 0
-          }
-        ],
-        "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-10-12T07:02:41.396Z"
-      },
-      "timestamp": "2026-10-12T07:02:43.240Z"
-    },
-    "syfe_bbp": {
-      "intel": {
-        "writeups": [
-          {
-            "title": "Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack :: ESTHERops.tech",
-            "url": "https://estherops.tech/methods/syfe-security-audit/",
-            "snippet": "Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack :: ESTHERops.tech\n\n# Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack\n\n2026-04-09 5 min read (890 words)\n\nI s",
-            "published": "2026-04-09T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "Medium",
-            "url": "https://medium.com/@engmohaned550/security-report-idor-vulnerability-in-syfe-bug-bounty-program-cfee2f7dd9bd",
-            "snippet": "MediumSecurity Report: IDOR Vulnerability in Syfe Bug Bounty Program | by Eng_mohaned Ashraf | Medium\n\nSign up\n\nGet app\n\nSign up\n\nPress enter or click to view image in full size\n\n# Security Report: ID",
-            "published": "2025-06-20T10:58:18.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Bug Bounty",
-            "url": "https://www.syfe.com/bug-bounty",
-            "snippet": "Bug Bounty\n\n# BUG BOUNTY\n\nOverview How it works The Syfe Promise Rewards Hall of Fame overview overview overview\n\n## Syfe security custodian\n\nKeeping user information safe and secure is a top priority",
-            "published": null,
-            "score": 0
-          }
-        ],
-        "twitter": [],
-        "github": [
-          {
-            "title": "LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof",
-            "url": "https://github.com/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof",
-            "snippet": "# LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2025-05-07T01:51:30Z\n\n## Languages\n\n- C\n\n## Top Contributors\n\n-",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "It is possible to steal all users' money due to incorrect price calculation",
-            "url": "https://github.com/code-423n4/2023-03-asymmetry-findings/issues/461",
-            "snippet": "# It is possible to steal all users' money due to incorrect price calculation\n\n- State: closed\n- Author: code423n4\n- Created: 2023-03-29T12:58:43Z\n- Updated: 2023-04-21T14:56:46Z\n- Repository: code-42",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "TYehan/CVE-2025-58434-59528",
-            "url": "https://github.com/tyehan/cve-2025-58434-59528",
-            "snippet": "# Repository: TYehan/CVE-2025-58434-59528\n\nCVE-2025-58434 and CVE-2025-59528 chain POC - FlowiseAI Remote Code Execution\n\n- Stars: 5\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Pytho",
-            "published": "2026-04-12T06:39:37.000Z",
-            "score": 0
-          }
-        ],
-        "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-10-12T07:02:43.240Z"
-      },
-      "timestamp": "2026-10-12T07:02:44.881Z"
-    },
-    "nba-public": {
-      "intel": {
-        "writeups": [
-          {
             "title": "HackerOne",
-            "url": "https://hackerone.com/nba-public/policy_versions",
+            "url": "https://hackerone.com/reports/440629",
             "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
             "published": null,
             "score": 1
           },
           {
-            "title": "NBA Public Bug Bounty | Security Program",
-            "url": "https://ooosec.com/programs/nba-public-bug-bounty",
-            "snippet": "NBA Public Bug Bounty | Security Program\n\n- Purpose\n- Scope\n- Rules of Engagement\n- In-Scope Vulnerabilities\n- Out of Scope Vulnerabilities\n- Make Your Submission Count\n- Reward Structure\n- Response T",
-            "published": null,
+            "title": "星巴克新漏洞：可访问1亿客户记录-腾讯云开发者社区-腾讯云",
+            "url": "https://cloud.tencent.com/developer/article/1652563",
+            "snippet": "星巴克新漏洞：可访问1亿客户记录-腾讯云开发者社区-腾讯云\n\n# 星巴克新漏洞：可访问1亿客户记录\n\nFB客服\n\n发布于 2020-06-29 16:33:58\n\n发布于 2020-06-29 16:33:58\n\nSam花了一整天的尝试，仍然没有在Verizon Media漏洞赏金计划中有所收获，于是，他决定先退出做一些其他事情。他上网准备订购星巴克的礼品卡，作为朋友的生日礼物。\n\n当sam在星巴",
+            "published": "2020-06-29T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "NBA Public Bug Bounty — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/nba-public",
-            "snippet": "NBA Public Bug Bounty — HackerOne bug bounty | BountyHunte.rs\n\n# NBA Public Bug Bounty\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the sou",
-            "published": "2024-07-31T00:00:00.000Z",
+            "title": "Starbucks | Report #881548 - Default credentials for the temporary POC site alipoc.stg.starbucks.com.cn permitted WAF bypass and RCE | HackerOne",
+            "url": "https://hackerone.com/reports/881548",
+            "snippet": "Starbucks | Report #881548 - Default credentials for the temporary POC site alipoc.stg.starbucks.com.cn permitted WAF bypass and RCE | HackerOne\n\nDefault credentials for the temporary POC site alipoc.",
+            "published": "2020-05-30T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "340c13d fix: restrict access(all) var fields to prevent unauthenticated writes",
-            "url": "https://github.com/dapperlabs/nba-smart-contracts/commit/340c13d516fcfedb41b05212d50c1b66e008d3d8",
-            "snippet": "# 340c13d fix: restrict access(all) var fields to prevent unauthenticated writes\n\n- SHA: 340c13d516fcfedb41b05212d50c1b66e008d3d8\n- Repository: dapperlabs/nba-smart-contracts\n- Author: fkenji\n- Date: ",
+            "title": "2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md at master · flameddd/blog",
+            "url": "https://github.com/flameddd/blog/blob/master/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md",
+            "snippet": "# File: flameddd/blog/2023-05-04%EF%BC%9A%E7%AD%86%E8%A8%98%20samcurry%20%E7%9A%84%20Hacking%20Starbucks%20and%20Accessing%20Nearly%20100%20Million%20Customer%20Records.md\n\n- Repository: flameddd/blog",
             "published": null,
             "score": 1
           },
           {
-            "title": "b45652e fix: make admin-gated Convex queries internal to close public bypass (#46)",
-            "url": "https://github.com/wkoverfield/nba2kapi/commit/b45652e93cee3ff45ecb1172ae98401b83c744b5",
-            "snippet": "# b45652e fix: make admin-gated Convex queries internal to close public bypass (#46)\n\n- SHA: b45652e93cee3ff45ecb1172ae98401b83c744b5\n- Repository: wkoverfield/nba2kapi\n- Author: wkoverfield\n- Date: 2",
+            "title": "docs/tops_by_program/TOPSTARBUCKS.md",
+            "url": "https://github.com/reddelexc/hackerone-reports/blob/master/docs/tops_by_program/TOPSTARBUCKS.md",
+            "snippet": "# docs/tops_by_program/TOPSTARBUCKS.md\n\n- Branch: master\n- Repository: reddelexc/hackerone-reports\n\n---\n\nTop reports from Starbucks program at HackerOne:\n\n1. SQL Injection Extracts Starbucks Enterpris",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "c0gnit00/CVE-2026-33937",
-            "url": "https://github.com/c0gnit00/CVE-2026-33937",
-            "snippet": "# c0gnit00/CVE-2026-33937\n\nPython POC, Exploit for Handlebars.js AST Injection RCE, Handlebars.js versions 4.0.0 through 4.7.8 are affected. CVSS score: 9.8 Critical.\n\n- Stars: 1\n- Forks: 0\n- Watchers",
+            "title": "tops_by_bug_type/TOPXXE.md at master · reddelexc/hackerone-reports",
+            "url": "https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPXXE.md",
+            "snippet": "# File: reddelexc/hackerone-reports/tops_by_bug_type/TOPXXE.md\n\n- Repository: reddelexc/hackerone-reports | Top disclosed reports from HackerOne | 6K stars | Python\n- Branch: master\n\n```md\nTop XXE rep",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-12T07:02:44.881Z"
+        "enriched_at": "2026-10-20T05:43:41.061Z"
       },
-      "timestamp": "2026-10-12T07:02:46.606Z"
+      "timestamp": "2026-10-20T05:43:42.723Z"
+    },
+    "syfe_bbp": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "Syfe Bug Bounty: Security Header Issues | PDF",
+            "url": "https://www.scribd.com/document/861630043/syfe-bug-report-april2025",
+            "snippet": "Syfe Bug Bounty: Security Header Issues | PDF\n\n# Bug Bounty Report: Misconfigured Headers and Internal Subdomain Expos\n\nSummary During a reconnaissance scan of [Link], several HTTP/HTTPS services were",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "Security Report: IDOR Vulnerability in Syfe Bug Bounty Program | by Eng_mohaned Ashraf | Medium",
+            "url": "https://medium.com/@engmohaned550/security-report-idor-vulnerability-in-syfe-bug-bounty-program-cfee2f7dd9bd",
+            "snippet": "Security Report: IDOR Vulnerability in Syfe Bug Bounty Program | by Eng_mohaned Ashraf | Medium\n\nPress enter or click to view image in full size\n\n# Security Report: IDOR Vulnerability in Syfe Bug Boun",
+            "published": "2025-06-20T10:58:18.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack :: ESTHERops.tech",
+            "url": "https://estherops.tech/methods/syfe-security-audit/",
+            "snippet": "Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack :: ESTHERops.tech\n\n# Syfe Security Audit: Zero Vulnerabilities in a Hardened Fintech Stack\n\n2026-04-09 5 min read (890 words)\n\nI s",
+            "published": "2026-04-09T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "heads/main/exploit.c",
+            "url": "https://github.com/tgies/copy-fail-c/blob/refs/heads/main/exploit.c",
+            "snippet": "# heads/main/exploit.c\n\n- Branch: refs\n- Repository: tgies/copy-fail-c\n\n---\n\n/* SPDX-License-Identifier: LGPL-2.1-or-later OR MIT */\n/*\n * Copy Fail -- CVE-2026-31431\n * AF_ALG + splice() page-cache-m",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "svespalec/tower-of-flaws",
+            "url": "https://github.com/svespalec/tower-of-flaws",
+            "snippet": "# svespalec/tower-of-flaws\n\ntower of fantasy anti-cheat driver exploit research\n\n- Stars: 20\n- Forks: 2\n- Watchers: 20\n- Open issues: 0\n- Default branch: master\n- Created: 2026-02-05T20:55:48Z\n\n## Lan",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "PendleConnector.sol::supply doesn't pass a valid slippance protection min",
+            "url": "https://github.com/code-423n4/2024-04-noya-findings/issues/1018",
+            "snippet": "# PendleConnector.sol::supply doesn't pass a valid slippance protection min\n\n- State: open\n- Author: c4-bot-10\n- Created: 2024-05-16T22:10:58Z\n- Updated: 2024-06-28T12:56:35Z\n- Repository: code-423n4/",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-10-20T05:43:42.723Z"
+      },
+      "timestamp": "2026-10-20T05:43:44.380Z"
+    },
+    "nba-public": {
+      "intel": {
+        "writeups": [
+          {
+            "title": "nba-public on HackerOne - Bug Bounty Scope | bbscope.com",
+            "url": "https://bbscope.com/program/h1/nba-public",
+            "snippet": "nba-public on HackerOne - Bug Bounty Scope | bbscope.com\n\n# nba-public\n\nRaw AI Enhanced\n\n460 In Scope\n\n29 Out of Scope\n\nIn-Scope Assets (460)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | ---",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "NBA Public Bug Bounty Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/nba-public-bug-bounty/",
+            "snippet": "NBA Public Bug Bounty Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: nba-public \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 2 days \nBounty Time\n: 184 days \nReso",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "security(api): Job creation allows IDOR Client spoofing",
+            "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/5807",
+            "snippet": "# security(api): Job creation allows IDOR Client spoofing\n\n- State: open\n- Author: Ajithkelangath\n- Created: 2026-06-08T10:26:07Z\n- Updated: 2026-06-08T12:30:38Z\n- Repository: SecureBananaLabs/bug-bou",
+            "published": null,
+            "score": 0
+          }
+        ],
+        "twitter": [],
+        "github": [
+          {
+            "title": "others/bugbounty.md",
+            "url": "https://github.com/sbnsec/pentest-book/blob/master/others/bugbounty.md",
+            "snippet": "# others/bugbounty.md\n\n- Branch: master\n- Repository: sbnsec/pentest-book\n\n---\n\n# BugBounty\n\n## Good PoC\n\n \n \n \n Issue type \n PoC \n \n \n \n \n Cross-site scripting \n alert(document.domain) or setInterval",
+            "published": null,
+            "score": 1
+          },
+          {
+            "title": "webexplo1t/BugBounty",
+            "url": "https://github.com/webexplo1t/BugBounty",
+            "snippet": "# Repository: webexplo1t/BugBounty\n\n- Stars: 1\n- Forks: 1\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: master\n- Created: 2022-02-15T18:57:50Z\n- Last ",
+            "published": "2022-02-15T18:57:50.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "blitz-cmd/Bugbounty-writeups",
+            "url": "https://github.com/blitz-cmd/Bugbounty-writeups",
+            "snippet": "# blitz-cmd/Bugbounty-writeups\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2020-08-21T07:29:29Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- devanshbat",
+            "published": "2020-08-21T00:00:00.000Z",
+            "score": 0
+          }
+        ],
+        "defi_audit": [],
+        "total_results": 6,
+        "enriched_at": "2026-10-20T05:43:44.380Z"
+      },
+      "timestamp": "2026-10-20T05:43:46.037Z"
     },
     "circle-bbp": {
       "intel": {
@@ -2637,108 +2644,108 @@
             "title": "Circle's CCTP Noble Mint Bug",
             "url": "https://blog.asymmetric.re/circles-cctp-noble-mint-bug/",
             "snippet": "Circle's CCTP Noble Mint Bug\n\n Research · Aug 27, 2024 · 4 min read \n\n# Circle's CCTP Noble Mint Bug \n\nWe privately disclosed a vulnerability to Circle via their bug bounty program. The vulnerability ",
-            "published": "2024-08-27T00:00:00.000Z",
+            "published": "2024-08-27T15:41:00.000Z",
             "score": 1
           },
           {
-            "title": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium",
+            "title": "Medium",
             "url": "https://medium.com/@techverissimo/my-first-bug-bounty-finding-memory-dos-vulnerabilities-in-circles-arc-blockchain-consensus-engine-ab96f4f8d9f1",
-            "snippet": "My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | by Veríssimo | Medium\n\nSitemap\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\n1. The",
+            "snippet": "Medium\n\nPress enter or click to view image in full size\n\n# My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine\n\nVeríssimo\n\nApr 15, 2026\n\nA beginner’s jo",
             "published": "2026-04-15T12:33:58.000Z",
             "score": 0.5
           },
           {
-            "title": "Circle's CCTP Noble Mint Bug — Asymmetric Research",
-            "url": "https://asymmetric.com/blog/circles-cctp-noble-mint-bug/",
-            "snippet": "Circle's CCTP Noble Mint Bug — Asymmetric Research\n\nAugust 27, 2024 · 4 min read research\n\n# Circle's CCTP Noble Mint Bug\n\nBy Ruslan Habalov\n\n## Intro\n\nWe privately disclosed a vulnerability to Circle",
-            "published": "2024-08-27T00:00:00.000Z",
+            "title": "Medium",
+            "url": "https://medium.com/@brotheralameen/the-rise-of-scammer-bug-bounty-programs-and-the-reason-i-quit-bug-bounty-hunting-4cc661c92e09",
+            "snippet": "Medium\n\n# The rise of scammer bug bounty programs — and the reason I quit bug bounty hunting.\n\nAlameen Karim Merali\n\nJan 17, 2025\n\n> Introduction\n\nWhen I started my journey as a Bug Bounty Hunter, I s",
+            "published": "2025-01-17T13:58:10.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
+          {
+            "title": "Reentrancy Vulnerability in `_executeRefund` (CEI Pattern Violation)",
+            "url": "https://github.com/circlefin/refund-protocol/issues/12",
+            "snippet": "# Reentrancy Vulnerability in `_executeRefund` (CEI Pattern Violation)\n\n- State: open\n- Author: lukepuplett\n- Created: 2026-02-03T14:07:21Z\n- Updated: 2026-02-03T14:07:33Z\n- Repository: circlefin/refu",
+            "published": null,
+            "score": 1
+          },
           {
             "title": "feat: Add POCs for Circle (2 attacks) · 0f1db22 · SunWeb3Sec/DeFiHackLabs",
             "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/commit/0f1db225d3561590bfa29698cc9d81acfa235541",
             "snippet": "# Commit: SunWeb3Sec/DeFiHackLabs@0f1db22\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 7K stars | Solidity\n\n## feat: Add POCs for Circle (2 attacks)\n\n- Aut",
             "published": "2024-08-08T07:06:56.000Z",
-            "score": 1
-          },
-          {
-            "title": "Teycir/fft-exploit-poc",
-            "url": "https://github.com/Teycir/fft-exploit-poc",
-            "snippet": "# Repository: Teycir/fft-exploit-poc\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Shell\n- Languages: Shell (80.9%), JavaScript (10.3%), SMT (4.7%), Circom (4.1%)\n- License",
-            "published": "2026-03-04T19:55:38.000Z",
             "score": 0.5
           },
           {
-            "title": "Remote transport serves to unauthenticated non-browser clients when request auth is disabled (Host/Origin bypass) · Advisory · CircleCI-Public/mcp-server-circleci · GitHub",
-            "url": "https://github.com/CircleCI-Public/mcp-server-circleci/security/advisories/GHSA-xv5j-cwgj-22r4",
-            "snippet": "Remote transport serves to unauthenticated non-browser clients when request auth is disabled (Host/Origin bypass) · Advisory · CircleCI-Public/mcp-server-circleci · GitHub\n\n# Remote transport serves t",
-            "published": "2026-08-10T00:00:00.000Z",
+            "title": "services/probes/circle-signer.ts",
+            "url": "https://github.com/Jr-kenny/prime-compute/blob/main/services/probes/circle-signer.ts",
+            "snippet": "# services/probes/circle-signer.ts\n\n- Branch: main\n- Repository: Jr-kenny/prime-compute\n\n---\n\n// Probe: can a Circle developer-controlled wallet be the x402/Gateway payer's signer?\n//\n// The hypothesi",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-12T07:02:46.606Z"
+        "enriched_at": "2026-10-20T05:43:46.037Z"
       },
-      "timestamp": "2026-10-12T07:02:48.287Z"
+      "timestamp": "2026-10-20T05:43:47.679Z"
     },
     "varonis": {
       "intel": {
         "writeups": [
           {
-            "title": "From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster",
-            "url": "https://www.varonis.com/blog/varonis-prevents-ransomware-disaster",
-            "snippet": "From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster\n\n# From CPU Spikes to Defense: How Varonis Prevented a Ransomware Disaster \n\n Discover how Varonis' advanced threat response ens",
-            "published": "2025-10-09T14:00:26.000Z",
+            "title": "Indirect Prompt Injection in Atlassian Rovo Exposes Enterprise Data",
+            "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-atlassian-rovo-prompt-injection-20260811-c/",
+            "snippet": "Skip to content\n\n# Indirect Prompt Injection in Atlassian Rovo Exposes Enterprise Data\n\nAuthors: Cloud Security Alliance AI Safety Initiative\nPublished: 2026-08-11\n\nCategories: Agentic AI Security\n\nDo",
+            "published": "2026-08-11T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "Prompt Parkour: How I Tricked Claude into Building Ransomware",
-            "url": "https://www.varonis.com/blog/building-ransomware-in-claude",
-            "snippet": "Prompt Parkour: How I Tricked Claude into Building Ransomware\n\n# Prompt Parkour: How I Tricked Claude into Building Ransomware \n\n See how Varonis' MDDR team bypassed Claude's safeguards, highlighting ",
-            "published": "2026-05-06T04:00:00.000Z",
+            "title": "Atlassian Rovo's Prompt Injection Flaw Exposes AI Risks - Application Security Standards",
+            "url": "https://appsecuritystandards.org/blog/atlassian-rovo-s-prompt-injection-flaw",
+            "snippet": "Atlassian Rovo's Prompt Injection Flaw Exposes AI Risks - Application Security Standards\n\n# Atlassian Rovo's Prompt Injection Flaw\n\nA single malicious link. One click. Access to data across 50+ enterp",
+            "published": "2026-08-12T07:55:01.000Z",
             "score": 0.5
           },
           {
-            "title": "Varonis Incident Response: Preventing PII Exposure in Box",
-            "url": "https://www.varonis.com/blog/prevent-pii-exposure",
-            "snippet": "Varonis Incident Response: Preventing PII Exposure in Box \n\n# Varonis Incident Response: Preventing PII Exposure in Box \n\n Learn how the Varonis Incident Response team prevented PII from being comprom",
-            "published": "2025-07-10T13:00:00.000Z",
+            "title": "Rusty Pearl: Remote Code Execution in Postgres Instances",
+            "url": "https://www.varonis.com/blog/rusty-pearl",
+            "snippet": "Rusty Pearl: Remote Code Execution in Postgres Instances \n\n# Rusty Pearl: Remote Code Execution in Postgres Instances \n\n Varonis uncovers an RCE vulnerability in PostgreSQL via PL/Perl and PL/Rust. Le",
+            "published": "2025-08-11T13:29:16.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC",
-            "url": "https://gist.github.com/4V4loon/54719b32c4dcef8d082b4ea4065fd541",
-            "snippet": "# SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC\n\n- Owner: 4V4loon\n- Created: 2024-03-28T20:09:27Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## SharePwn_public.py\n\nLang",
+            "title": "atomics/T1546/T1546.md",
+            "url": "https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1546/T1546.md",
+            "snippet": "# atomics/T1546/T1546.md\n\n- Branch: master\n- Repository: redcanaryco/atomic-red-team\n\n---\n\n# T1546 - Event Triggered Execution\n\n## Description from ATT&CK\n\n> Adversaries may establish persistence and/",
             "published": null,
             "score": 1
           },
           {
-            "title": "AzureADTrent/CVE-2025-4517-POC",
-            "url": "https://github.com/AzureADTrent/CVE-2025-4517-POC-HTB",
-            "snippet": "# Repository: AzureADTrent/CVE-2025-4517-POC\n\nPrivilege Escalation script for CVE-2025-4517\n\n- Stars: 9\n- Forks: 0\n- Watchers: 0\n- Open issues: 1\n- Primary language: Python\n- Languages: Python\n- Defau",
-            "published": "2026-02-15T22:09:53.000Z",
+            "title": "VaronisThreatLabs/SnowGoat",
+            "url": "https://github.com/VaronisThreatLabs/SnowGoat",
+            "snippet": "# VaronisThreatLabs/SnowGoat\n\nOperation Frostbyte, AKA SnowGoat. A misconfigured Snowflake environment.\n\n- Stars: 16\n- Forks: 2\n- Watchers: 16\n- Open issues: 0\n- License: Apache License 2.0\n- Homepage",
+            "published": "2025-07-15T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "hypnguyen1209/CVE-2026-62911",
-            "url": "https://github.com/hypnguyen1209/CVE-2026-62911",
-            "snippet": "# hypnguyen1209/CVE-2026-62911\n\nPOC pre-auth RCE on Exchange\n\n- Stars: 102\n- Forks: 15\n- Watchers: 102\n- Open issues: 1\n- Default branch: main\n- Created: 2026-08-22T04:49:33Z\n\n## Languages\n\n- Python\n\n",
-            "published": null,
+            "title": "release: v1.1.8 — auto-improvement cycle 2 (data-exfiltration) · ca2e219 · killertcell428/aigis",
+            "url": "https://github.com/killertcell428/aigis/commit/ca2e21999c5be1ae7def824aa1127187c190d6f5",
+            "snippet": "# Commit: killertcell428/aigis@ca2e219\n\n- Repository: killertcell428/aigis | Deterministic, zero-dependency Python firewall for AI agents — MCP rug-pull, memory poisoning, indirect injection, exfil ch",
+            "published": "2026-05-20T09:29:26.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-12T07:02:48.288Z"
+        "enriched_at": "2026-10-20T05:43:47.680Z"
       },
-      "timestamp": "2026-10-12T07:02:50.025Z"
+      "timestamp": "2026-10-20T05:43:49.295Z"
     },
     "klarna": {
       "intel": {
@@ -2799,23 +2806,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "Unico IDtech | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/unico_idtech",
-            "snippet": "Unico IDtech | Bounty Policy | HackerOne\n\n## Program highlights\n\nManaged by HackerOne Collaboration Enabled Includes Retesting\n\n8 hours\n\nAverage time to first response\n\n3 days, 18 hours\n\nAverage time ",
+            "title": "Unico IDtech | Security Program",
+            "url": "https://ooosec.com/programs/unico-idtech",
+            "snippet": "Unico IDtech | Security Program\n\n# Unico IDTech Bug Bounty Program\n\nUnico IDTech is pioneering the future of biometric authentication through our advanced liveness detection engine. We're inviting sec",
             "published": null,
             "score": 1
           },
           {
-            "title": "Unico IDtech Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/unico-idtech/",
-            "snippet": "Unico IDtech Bug Bounty Program - Bug Bounties\n\n# Unico IDtech\n\nBounty \n\n## Program Details \n\n Handle \n: unico_idtech \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 9 days \nBounty Time\n: 335 d",
+            "title": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com",
+            "url": "https://bbscope.com/program/h1/unico_idtech",
+            "snippet": "unico_idtech on HackerOne - Bug Bounty Scope | bbscope.com\n\n# unico_idtech\n\n2 Out of Scope\n\nIn-Scope Assets (14)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| *.uat.",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Unico IDtech — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/unico_idtech",
-            "snippet": "Unico IDtech — HackerOne bug bounty | BountyHunte.rs\n\n# Unico IDtech\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maxi",
+            "title": "Unico Vulnerability Disclosure | APIs.io Security",
+            "url": "https://apis.io/security/unico/unico-vulnerability-disclosure/",
+            "snippet": "Unico Vulnerability Disclosure | APIs.io Security\n\n# Unico Vulnerability Disclosure\n\nVulnerability disclosure\n\nUnico runs a coordinated vulnerability disclosure program on Hackerone. A dedicated secur",
             "published": null,
             "score": 0
           }
@@ -2823,32 +2830,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "unico-labs/unico-cbu-poc-react",
-            "url": "https://github.com/unico-labs/unico-cbu-poc-react",
-            "snippet": "# unico-labs/unico-cbu-poc-react\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-01-30T12:59:38Z\n\n## Languages\n\n- CSS\n- HTML\n- JavaScript\n\n## Top Contribut",
+            "title": "unico-labs/unico-sdks-poc-kotlin",
+            "url": "https://github.com/unico-labs/unico-sdks-poc-kotlin",
+            "snippet": "# unico-labs/unico-sdks-poc-kotlin\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.0\n- Default branch: main\n- Created: 2026-04-14T19:41:19Z\n\n## Languages\n\n- Kotlin\n- ",
             "published": null,
             "score": 1
           },
           {
-            "title": "unico-labs/unico-cbu-poc-vuejs",
-            "url": "https://github.com/unico-labs/unico-cbu-poc-vuejs",
-            "snippet": "# unico-labs/unico-cbu-poc-vuejs\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 3\n- Default branch: main\n- Created: 2025-01-30T13:01:32Z\n\n## Languages\n\n- CSS\n- HTML\n- JavaScript\n- Vue\n\n## Top Con",
-            "published": null,
+            "title": "UNICORDev/exploit-CVE-2021-22204",
+            "url": "https://github.com/UNICORDev/exploit-CVE-2021-22204",
+            "snippet": "# UNICORDev/exploit-CVE-2021-22204\n\nExploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution\n\n- Stars: 55\n- Forks: 6\n- Watchers: 55\n- Open issues: 0\n- Homepage: https://unicord.dev/exploit-CVE",
+            "published": "2022-04-16T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "unico-labs/unico-cbu-poc-angular",
-            "url": "https://github.com/unico-labs/unico-cbu-poc-angular",
-            "snippet": "# Repository: unico-labs/unico-cbu-poc-angular\n\n- Stars: 0\n- Forks: 0\n- Watchers: 1\n- Open issues: 12\n- Primary language: CSS\n- Languages: CSS (54.9%), TypeScript (27.6%), HTML (17.5%)\n- Default branc",
-            "published": "2025-01-30T13:00:59.000Z",
+            "title": "unico-labs/unico-sdks-flutter",
+            "url": "https://github.com/unico-labs/unico-sdks-flutter",
+            "snippet": "# unico-labs/unico-sdks-flutter\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-04-14T19:40:26Z\n\n## Languages\n\n- C\n- C++\n- CMake\n- Dart\n- HTML\n- Kotlin\n- O",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-12T07:02:50.025Z"
+        "enriched_at": "2026-10-20T05:43:49.295Z"
       },
-      "timestamp": "2026-10-12T07:02:51.744Z"
+      "timestamp": "2026-10-20T05:43:50.963Z"
     },
     "wallet_on_telegram": {
       "intel": {
@@ -4428,56 +4435,56 @@
       "intel": {
         "writeups": [
           {
-            "title": "Full Disclosure: Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]",
-            "url": "https://seclists.org/fulldisclosure/2017/Jul/73",
-            "snippet": "Full Disclosure: Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]\n\n# Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]\n\nFrom: Nightwatch Cybersecurity Research Dat",
-            "published": "2017-07-27T00:00:00.000Z",
-            "score": 1
-          },
-          {
             "title": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com",
             "url": "https://www.bugbountyhunter.com/program?id=boozt",
             "snippet": "Boozt Fashion AB Bug Bounty Program Statistics | BugBountyHunter.com\n\n### Boozt Fashion AB Program Statistics\n\n View program \n\n 28 total issues disclosed \n\n $1,830 total paid publicly \n\n Most disclose",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "Full Disclosure: Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]",
+            "url": "https://seclists.org/fulldisclosure/2017/Jul/73",
+            "snippet": "Full Disclosure: Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]\n\n# Boozt Fashion Android App Didn’t Use SSL for Login [CVE-2017-11706]\n\nFrom: Nightwatch Cybersecurity Research Dat",
+            "published": "2017-07-27T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "CVE-2017-11706 — Information Disclosure in Boozt Boozt Fashion | dbugs",
-            "url": "https://dbugs.ptsecurity.com/vulnerability/PT-2017-12192",
-            "snippet": "CVE-2017-11706 — Information Disclosure in Boozt Boozt Fashion | dbugs\n\nBack\n\n## PT-2017-12192 · Boozt · Boozt Fashion\n\n+1\n\n·\n\n# CVE-2017-11706\n\n·\n\nPublished\n\n2017-07-28\n\n·\n\nUpdated\n\n2017-08-15\n\nGener",
-            "published": "2017-07-28T15:04:02.000Z",
+            "title": "Boozt Fashion AB - HackerOne Bug Reports",
+            "url": "https://h1.security.nathan.sx/boozt.html",
+            "snippet": "Boozt Fashion AB - HackerOne Bug Reports\n\nPublic Boozt Fashion AB bug reports.\n\n| Team | Bounty | Title |\n| --- | --- | --- |\n| Boozt Fashion AB | $60 | Password reset token issue |\n| Boozt Fashion AB",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "exploit.py",
-            "url": "https://github.com/aelmokhtar/CVE-2024-34716/blob/main/exploit.py",
-            "snippet": "# exploit.py\n\n- Branch: main\n- Repository: aelmokhtar/CVE-2024-34716\n\n---\n\nimport argparse, requests, subprocess, time, threading, atexit, http.server, socketserver,zipfile,shutil,os\nfrom bs4 import B",
+            "title": "CVE-2026-1600",
+            "url": "https://github.com/4m3rr0r/PoCVulDb/issues/14",
+            "snippet": "# CVE-2026-1600\n\n- State: closed\n- Author: 4m3rr0r\n- Created: 2026-01-16T10:35:03Z\n- Updated: 2026-03-29T12:37:34Z\n- Repository: 4m3rr0r/PoCVulDb\n- Number: #14\n\n## Labels\n\n- CVE\n\n---\n\n# [Insecure Pric",
             "published": null,
             "score": 1
           },
           {
-            "title": "exploits/CVE-2026-24479/hustoj_problem_import_rce.rb",
-            "url": "https://github.com/oxagast/oxasploits/blob/JoshuaJohnWard/exploits/CVE-2026-24479/hustoj_problem_import_rce.rb",
-            "snippet": "# exploits/CVE-2026-24479/hustoj_problem_import_rce.rb\n\n- Branch: JoshuaJohnWard\n- Repository: oxasploits/oxasploits\n\n---\n\n##\n# This module requires Metasploit: https://metasploit.com/download\n# Curre",
+            "title": "shocker-cgi_list at master · nccgroup/shocker",
+            "url": "https://github.com/nccgroup/shocker/blob/master/shocker-cgi_list",
+            "snippet": "# File: nccgroup/shocker/shocker-cgi_list\n\n- Repository: nccgroup/shocker | A tool to find and exploit servers vulnerable to Shellshock | 328 stars | Python\n- Branch: master\n\n```\n# Resource file for s",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "nmmorette/CVE-2024-34102",
-            "url": "https://github.com/nmmorette/CVE-2024-34102",
-            "snippet": "# nmmorette/CVE-2024-34102\n\nCVE-2024-34102 exploit for python3\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2026-02-13T18:02:36Z\n\n## L",
+            "title": "exploitintel/eip-pocs-and-cves",
+            "url": "https://github.com/exploitintel/eip-pocs-and-cves",
+            "snippet": "# exploitintel/eip-pocs-and-cves\n\nProof-of-concept exploits and reproduction labs for CVEs analyzed by the Exploit Intelligence Platform\n\n- Stars: 25\n- Forks: 2\n- Watchers: 25\n- Open issues: 0\n- Licen",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-12T07:02:51.744Z"
+        "enriched_at": "2026-10-20T05:43:50.963Z"
       },
-      "timestamp": "2026-10-12T07:02:53.405Z"
+      "timestamp": "2026-10-20T05:43:52.555Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -6596,5 +6603,5 @@
       "timestamp": "2026-10-17T05:23:00.401Z"
     }
   },
-  "lastRun": "2026-10-19T05:51:13.063Z"
+  "lastRun": "2026-10-20T05:43:52.555Z"
 }
