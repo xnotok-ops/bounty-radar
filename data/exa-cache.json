@@ -2754,7 +2754,7 @@
             "title": "Detailed incident report: Incorrect Cache Configuration leading to Klarna App Exposing Personal Information | Vuink.com",
             "url": "https://vuink.com/post/xynean-d-dpbz/se/blogg/detailed-incident-report-incorrect-cache-configuration-leading-to-klarna-app-exposing-personal-information",
             "snippet": "Detailed incident report: Incorrect Cache Configuration leading to Klarna App Exposing Personal Information | Vuink.com\n\n# Detailed incident report: Incorrect Cache Configuration leading to Klarna App",
-            "published": "2021-06-07T00:00:00.000Z",
+            "published": "2021-06-07T08:00:06.000Z",
             "score": 1
           },
           {
@@ -2798,9 +2798,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:36.685Z"
+        "enriched_at": "2026-10-23T05:48:47.476Z"
       },
-      "timestamp": "2026-10-16T05:34:38.397Z"
+      "timestamp": "2026-10-23T05:48:49.239Z"
     },
     "unico_idtech": {
       "intel": {
@@ -3452,16 +3452,16 @@
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "Bykea | Report #3295503 - Customer can cancel a individual booking in a batch, causing locking of partner. | HackerOne",
             "url": "https://hackerone.com/reports/3295503",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
-            "published": null,
+            "snippet": "Bykea | Report #3295503 - Customer can cancel a individual booking in a batch, causing locking of partner. | HackerOne\n\nCustomer can cancel a individual booking in a batch, causing locking of partner.",
+            "published": "2025-08-13T00:00:00.000Z",
             "score": 1
           },
           {
             "title": "HackerOne Bug Bounty Disclosure: mongodb-query-logs-schema-leak-via-unauthenticated-endpoint-sameer-ali - RedPacket Security",
             "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-mongodb-query-logs-schema-leak-via-unauthenticated-endpoint-sameer-ali/",
-            "snippet": "HackerOne Bug Bounty Disclosure: mongodb-query-logs-schema-leak-via-unauthenticated-endpoint-sameer-ali - RedPacket Security\n\nCompany Name: Bykea\n\nCompany HackerOne URL: https://hackerone.com/bykea\n\nS",
+            "snippet": "Skip to content\n\n- Home\n- Bug Bounty\n- HackerOne Bug Bounty Disclosure: mongodb-query-logs-schema-leak-via-unauthenticated-endpoint-sameer-ali\n\nCompany Name:\nBykea\n\nCompany HackerOne URL:\nhttps://hack",
             "published": "2025-09-17T18:00:27.000Z",
             "score": 0.5
           },
@@ -3499,9 +3499,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:38.397Z"
+        "enriched_at": "2026-10-23T05:48:49.239Z"
       },
-      "timestamp": "2026-10-16T05:34:40.037Z"
+      "timestamp": "2026-10-23T05:48:50.838Z"
     },
     "inditex": {
       "intel": {
@@ -3554,9 +3554,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:41.720Z"
+        "enriched_at": "2026-10-23T05:48:52.644Z"
       },
-      "timestamp": "2026-10-16T05:34:43.477Z"
+      "timestamp": "2026-10-23T05:48:54.379Z"
     },
     "visa": {
       "intel": {
@@ -3609,9 +3609,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:43.477Z"
+        "enriched_at": "2026-10-23T05:48:54.379Z"
       },
-      "timestamp": "2026-10-16T05:34:45.159Z"
+      "timestamp": "2026-10-23T05:48:56.025Z"
     },
     "toolsforhumanity": {
       "intel": {
@@ -3619,7 +3619,7 @@
           {
             "title": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security",
             "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz/",
-            "snippet": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security\n\nCompany Name: Tools for H",
+            "snippet": "HackerOne Bug Bounty Disclosure: -meetup-world-id-oidc-insufficient-filtering-of-state-parameter-in-response-mode-form-post-leads-to-xss-and-ato-lauritz - RedPacket Security\n\n# HackerOne Bug Bounty Di",
             "published": "2024-06-19T18:00:08.000Z",
             "score": 1
           },
@@ -3650,8 +3650,8 @@
           {
             "title": "rossja/agent-tool-misuse-poc",
             "url": "https://github.com/rossja/agent-tool-misuse-poc",
-            "snippet": "# Repository: rossja/agent-tool-misuse-poc\n\nProof-of-Concept Demo Agent Highlighting ASI02 - Tool Misuse and Exploitation\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: HTML",
-            "published": "2026-03-26T02:04:05.000Z",
+            "snippet": "# rossja/agent-tool-misuse-poc\n\nProof-of-Concept Demo Agent Highlighting ASI02 - Tool Misuse and Exploitation\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.0\n- Defa",
+            "published": null,
             "score": 0.5
           },
           {
@@ -3664,9 +3664,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:45.159Z"
+        "enriched_at": "2026-10-23T05:48:56.025Z"
       },
-      "timestamp": "2026-10-16T05:34:46.811Z"
+      "timestamp": "2026-10-23T05:48:57.678Z"
     },
     "ring": {
       "intel": {
@@ -3688,7 +3688,7 @@
           {
             "title": "Ring Doorbell - Exploitee.rs",
             "url": "https://web.archive.org/web/20230105084854/https:/www.exploitee.rs/index.php/Ring_Doorbell",
-            "snippet": "Ring Doorbell - Exploitee.rs\n\n25 Nov 2017 - 04 Jul 2025\n\n| Dec | JAN | Feb |\n| --- | --- | --- |\n| 05 |\n| 2022 | 2023 | 2024 |\n\nsuccess\n\nfail\n\nSign In Get some help using the Wayback Machine\n\nAbout th",
+            "snippet": "Ring Doorbell - Exploitee.rs\n\n# Ring Doorbell\n\n\" Although the information we release has been verified and shown to work to the best our knowledge, we cant be held accountable for bricked devices or r",
             "published": null,
             "score": 0
           }
@@ -3719,9 +3719,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:46.811Z"
+        "enriched_at": "2026-10-23T05:48:57.678Z"
       },
-      "timestamp": "2026-10-16T05:34:48.557Z"
+      "timestamp": "2026-10-23T05:48:59.297Z"
     },
     "six-group": {
       "intel": {
@@ -3729,8 +3729,8 @@
           {
             "title": "SIX Group Private Bug Bounty",
             "url": "https://www.bountytalk.org/index.php?topic=24129.0",
-            "snippet": "SIX Group Private Bug Bounty\n\nForums Advertising & Bounty Hub\n\nWelcome, Guest. Please login or register.\n\n1 Hour 1 Day 1 Week 1 Month Forever\n\nLogin with username, password and session length\n\n## News",
-            "published": null,
+            "snippet": "SIX Group Private Bug Bounty\n\n#### Angelina \n\n- Moderator\n- Experienced Member\n- Posts: 357\n\n##### SIX Group Private Bug Bounty \n\n« on: April 26, 2023, 05:48:21 pm »\n\nSubmit bug report: https://six-gr",
+            "published": "2023-04-26T00:00:00.000Z",
             "score": 1
           },
           {
@@ -3741,10 +3741,10 @@
             "score": 0.5
           },
           {
-            "title": "Advisories/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365 at main · sixgroup-security/Advisories · GitHub",
-            "url": "https://github.com/sixgroup-security/Advisories/tree/main/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365",
-            "snippet": "Advisories/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365 at main · sixgroup-security/Advisories · GitHub\n\n## Files\n\nmain\n\n# 20211209_Missing-Session-Hijacking-Protection-in-Microsoft",
-            "published": "2021-11-11T18:26:11.000Z",
+            "title": "SixCMS <= 6 - Multiple XSS and directory traversal vulnerabilities - CXSecurity.com",
+            "url": "https://cxsecurity.com/issue/WLB-2006060106",
+            "snippet": "SixCMS <= 6 - Multiple XSS and directory traversal vulnerabilities - CXSecurity.com\n\n#### SixCMS <= 6 - Multiple XSS and directory traversal vulnerabilities\n\n2006.06.18\n\nCredit: admin majorsecurity de",
+            "published": "2006-06-18T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3774,9 +3774,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:48.557Z"
+        "enriched_at": "2026-10-23T05:48:59.297Z"
       },
-      "timestamp": "2026-10-16T05:34:50.242Z"
+      "timestamp": "2026-10-23T05:49:00.951Z"
     },
     "eufy_security": {
       "intel": {
@@ -3820,18 +3820,18 @@
             "score": 0.5
           },
           {
-            "title": "Hack around to allow HA users to change the Eufy-Security-client github - to allow users to test unreleased builds to confirm support works or not · Issue #33 · bropat/hassio-eufy-security-ws",
-            "url": "https://github.com/bropat/hassio-eufy-security-ws/issues/33",
-            "snippet": "# Issue: bropat/hassio-eufy-security-ws #33\n\n- Repository: bropat/hassio-eufy-security-ws | Official eufy-security-ws Home Assistant add-on repository | 225 stars | Shell\n\n## Hack around to allow HA u",
-            "published": "2025-12-10T11:59:12.000Z",
+            "title": "DarkFunct/CVE_Exploits",
+            "url": "https://github.com/DarkFunct/CVE_Exploits",
+            "snippet": "# DarkFunct/CVE_Exploits\n\nCVE Exploit PoC's\n\n- Stars: 34\n- Forks: 14\n- Watchers: 34\n- Open issues: 0\n- Default branch: main\n- Created: 2021-09-29T15:35:22Z\n\n## Languages\n\n- Assembly\n- Batchfile\n- C\n- ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:50.242Z"
+        "enriched_at": "2026-10-23T05:49:00.951Z"
       },
-      "timestamp": "2026-10-16T05:34:51.888Z"
+      "timestamp": "2026-10-23T05:49:02.650Z"
     },
     "eero": {
       "intel": {
@@ -5881,18 +5881,18 @@
             "score": 0.5
           },
           {
-            "title": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to arbitrary OS command execution. · GitHub",
+            "title": "Rohitberiwala/Claude-Code-MCP-Injection-PoC",
             "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
-            "snippet": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code lead",
+            "snippet": "# Rohitberiwala/Claude-Code-MCP-Injection-PoC\n\nProfessional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:40.037Z"
+        "enriched_at": "2026-10-23T05:48:50.838Z"
       },
-      "timestamp": "2026-10-16T05:34:41.720Z"
+      "timestamp": "2026-10-23T05:48:52.643Z"
     },
     "agoda-public": {
       "intel": {
@@ -6316,23 +6316,23 @@
           {
             "title": "2026.06.38-Demo",
             "url": "https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui/releases/tag/Wallet%2FDemo_Version%3D2026.06.38-Demo_Build%3D38",
-            "snippet": "# Release: eu-digital-identity-wallet/eudi-app-android-wallet-ui Wallet/Demo_Version=2026.06.38-Demo_Build=38\n\n- Repository: eu-digital-identity-wallet/eudi-app-android-wallet-ui | EUDI Wallet Prototy",
-            "published": "2026-06-10T14:04:00.000Z",
+            "snippet": "# 2026.06.38-Demo\n\n- Tag: Wallet/Demo_Version=2026.06.38-Demo_Build=38\n- Repository: eu-digital-identity-wallet/eudi-app-android-wallet-ui\n- Published: 2026-06-10T14:04:00Z\n- Author: stzouvaras\n\n---\n\n",
+            "published": null,
             "score": 0.5
           },
           {
             "title": "eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py",
             "url": "https://github.com/eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py",
-            "snippet": "# eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py\n\nWallet-driven rQES web tester\n\n- Stars: 1\n- Forks: 1\n- Watchers: 1\n- Open issues: 3\n- License: Apache License 2.0\n- Default branch: ma",
+            "snippet": "# eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py\n\nWallet-driven rQES web tester\n\n- Stars: 1\n- Forks: 1\n- Watchers: 1\n- Open issues: 2\n- License: Apache License 2.0\n- Default branch: ma",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-16T05:34:34.874Z"
+        "enriched_at": "2026-10-23T05:48:45.790Z"
       },
-      "timestamp": "2026-10-16T05:34:36.685Z"
+      "timestamp": "2026-10-23T05:48:47.476Z"
     },
     "vercel": {
       "intel": {
@@ -6610,5 +6610,5 @@
       "timestamp": "2026-10-17T05:23:00.401Z"
     }
   },
-  "lastRun": "2026-10-22T05:52:13.294Z"
+  "lastRun": "2026-10-23T05:49:02.650Z"
 }
