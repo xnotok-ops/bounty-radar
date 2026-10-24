@@ -3884,9 +3884,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:23:02.061Z"
+        "enriched_at": "2026-10-24T05:29:51.362Z"
       },
-      "timestamp": "2026-10-17T05:23:03.657Z"
+      "timestamp": "2026-10-24T05:29:52.830Z"
     },
     "mozilla": {
       "intel": {
@@ -3956,7 +3956,7 @@
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/stripchat?type=team",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
+            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
             "published": null,
             "score": 0.5
           },
@@ -3994,9 +3994,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:23:03.657Z"
+        "enriched_at": "2026-10-24T05:29:52.831Z"
       },
-      "timestamp": "2026-10-17T05:23:05.303Z"
+      "timestamp": "2026-10-24T05:29:54.303Z"
     },
     "redox_bbp": {
       "intel": {
@@ -4049,9 +4049,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:23:05.303Z"
+        "enriched_at": "2026-10-24T05:29:54.304Z"
       },
-      "timestamp": "2026-10-17T05:23:06.902Z"
+      "timestamp": "2026-10-24T05:29:55.821Z"
     },
     "okg": {
       "intel": {
@@ -4104,9 +4104,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:23:06.902Z"
+        "enriched_at": "2026-10-24T05:29:55.821Z"
       },
-      "timestamp": "2026-10-17T05:23:08.498Z"
+      "timestamp": "2026-10-24T05:29:57.330Z"
     },
     "1win_com": {
       "intel": {
@@ -4167,16 +4167,16 @@
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "WisdomTree, Inc. | Hacktivity | HackerOne",
             "url": "https://hackerone.com/wisdomtree/hacktivity",
-            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "snippet": "WisdomTree, Inc. | Hacktivity | HackerOne\n\n hasn’t submitted any reports yet.",
             "published": null,
             "score": 1
           },
           {
-            "title": "HackerOne",
+            "title": "WisdomTree, Inc. | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/wisdomtree",
-            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "snippet": "WisdomTree, Inc. | Bounty Policy | HackerOne\n\nFully compliant with Platform Standards.\n\nThis program's response efficiency is above 90%.\n\nSignal Requirement\n\n1.0 or higher past-year Signal required, w",
             "published": null,
             "score": 0.5
           },
@@ -4214,17 +4214,17 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:23:08.498Z"
+        "enriched_at": "2026-10-24T05:29:57.330Z"
       },
-      "timestamp": "2026-10-17T05:23:10.066Z"
+      "timestamp": "2026-10-24T05:29:58.809Z"
     },
     "pornbox": {
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "诺兰 | Profile | HackerOne",
             "url": "https://hackerone.com/riyane",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "诺兰 | Profile | HackerOne\n\n诺兰 (riyane)\n\nSecurity researcher\n\nJoined August 2020\n\nStats\n\n90 Days\n\n#### -\n\n#### -\n\nPercentile\n\nImpact\n\n#### -\n\nPercentile\n\n#### 62\n\nReputation\n\n#### -\n\nRank\n\n## 0 months s",
             "published": null,
             "score": 1
           },
@@ -4253,25 +4253,25 @@
             "score": 1
           },
           {
-            "title": "Mr-xn/Penetration_Testing_POC",
-            "url": "https://github.com/Mr-xn/Penetration_Testing_POC",
-            "snippet": "# Mr-xn/Penetration_Testing_POC\n\n渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc ",
-            "published": null,
-            "score": 0.5
-          },
-          {
             "title": "hackerhouse-opensource/exploits",
             "url": "https://github.com/hackerhouse-opensource/exploits",
             "snippet": "# hackerhouse-opensource/exploits\n\nexploits and proof-of-concept vulnerability demonstration files from the team at Hacker House\n\n- Stars: 470\n- Forks: 122\n- Watchers: 470\n- Open issues: 2\n- License: ",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "shildenbrand/WinboxExploit",
+            "url": "https://github.com/shildenbrand/WinboxExploit",
+            "snippet": "# Repository: shildenbrand/WinboxExploit\n\n- Stars: 1\n- Forks: 6\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- License: MIT License (MIT)\n- Default branch: master\n- Cr",
+            "published": "2018-08-20T20:47:52.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:23:10.066Z"
+        "enriched_at": "2026-10-24T05:29:58.809Z"
       },
-      "timestamp": "2026-10-17T05:23:11.678Z"
+      "timestamp": "2026-10-24T05:30:00.295Z"
     },
     "tron_dao": {
       "intel": {
@@ -4324,9 +4324,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:23:11.678Z"
+        "enriched_at": "2026-10-24T05:30:00.295Z"
       },
-      "timestamp": "2026-10-17T05:23:13.407Z"
+      "timestamp": "2026-10-24T05:30:01.820Z"
     },
     "superbet": {
       "intel": {
@@ -4339,9 +4339,9 @@
             "score": 1
           },
           {
-            "title": "User Profile | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/xzemit42/hacktivity?type=user",
-            "snippet": "User Profile | HackerOne\n\nCredits\n\nThanks received\n\nxzemit42 hasn’t submitted any reports yet.",
+            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
             "published": null,
             "score": 0.5
           },
@@ -4379,9 +4379,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:23:13.407Z"
+        "enriched_at": "2026-10-24T05:30:01.820Z"
       },
-      "timestamp": "2026-10-17T05:23:15.001Z"
+      "timestamp": "2026-10-24T05:30:03.303Z"
     },
     "magic-eden": {
       "intel": {
@@ -6424,9 +6424,9 @@
             "score": 1
           },
           {
-            "title": "jacob-baines/veralite_upnp_exploit_poc",
-            "url": "https://github.com/jacob-baines/veralite_upnp_exploit_poc",
-            "snippet": "# jacob-baines/veralite_upnp_exploit_poc\n\nA proof of concept exploit against the Veralite\n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- License: BSD 3-Clause \"New\" or \"Revised\" License\n- Def",
+            "title": "mvondracek/VR-MitR-C2-Bigscreen",
+            "url": "https://github.com/mvondracek/VR-MitR-C2-Bigscreen",
+            "snippet": "# mvondracek/VR-MitR-C2-Bigscreen\n\nVR Man-in-the-Room Attack and Command & Control Server Proof of Concept — Bigscreen\n\n- Stars: 4\n- Forks: 1\n- Watchers: 4\n- Open issues: 1\n- Default branch: master\n- ",
             "published": null,
             "score": 0.5
           },
@@ -6440,9 +6440,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:23:00.401Z"
+        "enriched_at": "2026-10-24T05:29:49.872Z"
       },
-      "timestamp": "2026-10-17T05:23:02.060Z"
+      "timestamp": "2026-10-24T05:29:51.361Z"
     },
     "kaltura": {
       "intel": {
@@ -6560,7 +6560,7 @@
           {
             "title": "[Security] Stop USB device names from being executed as Hyprland Lua",
             "url": "https://github.com/basecamp/omarchy/pull/8129",
-            "snippet": "# [Security] Stop USB device names from being executed as Hyprland Lua\n\n- State: merged\n- Author: acrogenesis\n- Created: 2026-08-25T01:38:10Z\n- Updated: 2026-08-25T17:36:26Z\n- Repository: basecamp/oma",
+            "snippet": "# [Security] Stop USB device names from being executed as Hyprland Lua\n\n- State: merged\n- Author: acrogenesis\n- Created: 2026-08-25T01:38:10Z\n- Updated: 2026-10-17T23:01:31Z\n- Repository: omacom/omarc",
             "published": null,
             "score": 1
           },
@@ -6605,10 +6605,10 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-17T05:22:58.748Z"
+        "enriched_at": "2026-10-24T05:29:48.279Z"
       },
-      "timestamp": "2026-10-17T05:23:00.401Z"
+      "timestamp": "2026-10-24T05:29:49.871Z"
     }
   },
-  "lastRun": "2026-10-23T05:49:02.650Z"
+  "lastRun": "2026-10-24T05:30:03.303Z"
 }
