@@ -1397,9 +1397,9 @@
             "score": 1
           },
           {
-            "title": "HackerOne",
+            "title": "Anduril Industries | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/anduril_industries",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "Anduril Industries | Bounty Policy | HackerOne\n\n## Introduction\n\nAnduril Industries looks forward to working with the security community to find vulnerabilities and help keep our systems and mission p",
             "published": null,
             "score": 0.5
           },
@@ -1437,9 +1437,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-18T05:30:19.586Z"
+        "enriched_at": "2026-10-25T05:47:38.168Z"
       },
-      "timestamp": "2026-10-18T05:30:21.092Z"
+      "timestamp": "2026-10-25T05:47:39.622Z"
     },
     "twilio": {
       "intel": {
@@ -1454,7 +1454,7 @@
           {
             "title": "Twilio Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/twilio/",
-            "snippet": "Twilio Bug Bounty Program - Bug Bounties\n\nBounty Recognition Full Safe Harbor \n\n## Program Details \n\n Handle \n: twilio \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 2 days \nBounty Time\n: 59 d",
+            "snippet": "Twilio Bug Bounty Program - Bug Bounties\n\nBounty Recognition Full Safe Harbor \n\n## Program Details \n\n Handle \n: twilio \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 2 days \nBounty Time\n: 58 d",
             "published": null,
             "score": 0
           }
@@ -1469,25 +1469,25 @@
             "score": 1
           },
           {
+            "title": "The Twilio integration webhook handler accepts any POST... · CVE-2026-4984 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/GHSA-6mjh-67rm-ph7x",
+            "snippet": "The Twilio integration webhook handler accepts any POST... · CVE-2026-4984 · GitHub Advisory Database · GitHub\n\n High severity Unreviewed \n\n Published \n\nMar 27, 2026\n\n to the GitHub Advisory Database ",
+            "published": "2026-03-27T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "fix(security): add Twilio webhook signature validation to prevent unauthenticated RCE",
             "url": "https://github.com/NousResearch/hermes-agent/issues/7904/linked_closing_reference?reference_location=REPO_ISSUES_INDEX",
             "snippet": "# fix(security): add Twilio webhook signature validation to prevent unauthenticated RCE\n\n- State: closed\n- Author: entropidelic\n- Created: 2026-04-11T19:00:32Z\n- Updated: 2026-04-11T21:05:50Z\n- Reposi",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Missing Authentication on Notification Endpoints · Advisory · OneUptime/oneuptime · GitHub",
-            "url": "https://github.com/OneUptime/oneuptime/security/advisories/GHSA-q253-6wcm-h8hp",
-            "snippet": "Missing Authentication on Notification Endpoints · Advisory · OneUptime/oneuptime · GitHub\n\nsimlarsen published GHSA-q253-6wcm-h8hp\n\nMar 30, 2026\n\n## Package\n\n oneuptime (npm) \n\n## Affected versions\n\n",
-            "published": "2026-03-30T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-10-18T05:30:21.092Z"
+        "enriched_at": "2026-10-25T05:47:39.623Z"
       },
-      "timestamp": "2026-10-18T05:30:22.565Z"
+      "timestamp": "2026-10-25T05:47:41.102Z"
     },
     "doordash": {
       "intel": {
@@ -1533,9 +1533,9 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-10-18T05:30:22.566Z"
+        "enriched_at": "2026-10-25T05:47:41.103Z"
       },
-      "timestamp": "2026-10-18T05:30:24.106Z"
+      "timestamp": "2026-10-25T05:47:42.529Z"
     },
     "robinhood": {
       "intel": {
@@ -1543,7 +1543,7 @@
           {
             "title": "Robinhood Markets Bounty Bug Bounty Program Statistics | BugBountyHunter.com",
             "url": "https://www.bugbountyhunter.com/program?id=robinhood",
-            "snippet": "Robinhood Markets Bounty Bug Bounty Program Statistics | BugBountyHunter.com\n\n- Getting started\n\n Learn about vulnerability types Getting started in bug bounties \n- Test your knowledge\n\n Free Web Appl",
+            "snippet": "Robinhood Markets Bounty Bug Bounty Program Statistics | BugBountyHunter.com\n\n### Robinhood Markets Bounty Program Statistics\n\n View program \n\n 2 total issues disclosed \n\n $100 total paid publicly \n\n ",
             "published": null,
             "score": 1
           },
@@ -1557,7 +1557,7 @@
           {
             "title": "ashwarya | Profile | HackerOne",
             "url": "https://hackerone.com/ashwarya",
-            "snippet": "ashwarya | Profile | HackerOne\n\n (ashwarya)\n\nJoined March 2014\n\nStats\n\n90 Days\n\n#### 7.00\n\n#### 99th\n\nPercentile\n\n#### 30.00\n\nImpact\n\n#### 92nd\n\nPercentile\n\n#### 283\n\nReputation\n\n#### -\n\nRank\n\n## 0 mo",
+            "snippet": "ashwarya | Profile | HackerOne\n\n (ashwarya)\n\nJoined March 2014\n\nStats\n\n90 Days\n\n#### 7.00\n\n#### 99th\n\nPercentile\n\n#### 26.67\n\nImpact\n\n#### 88th\n\nPercentile\n\n#### 226\n\nReputation\n\n#### -\n\nRank\n\n## 0 mo",
             "published": null,
             "score": 0
           }
@@ -1579,18 +1579,18 @@
             "score": 0.5
           },
           {
-            "title": "Search code, repositories, users, issues, pull requests...",
-            "url": "https://github.com/BugHunterID/bug-bounty-reference",
-            "snippet": "GitHub - BugHunterID/bug-bounty-reference: Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature\n\n/ bug-bounty-reference Public",
-            "published": "2018-12-07T14:41:15.000Z",
+            "title": "ParkerRex/trading-de-compile",
+            "url": "https://github.com/ParkerRex/trading-de-compile",
+            "snippet": "# ParkerRex/trading-de-compile\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: dev\n- Created: 2026-01-23T18:53:34Z\n\n## Languages\n\n- HTML\n- Java\n- JavaScript\n- PureBasic\n- Rust\n",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-18T05:30:24.107Z"
+        "enriched_at": "2026-10-25T05:47:42.529Z"
       },
-      "timestamp": "2026-10-18T05:30:25.589Z"
+      "timestamp": "2026-10-25T05:47:44.012Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1660,14 +1660,14 @@
           {
             "title": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com",
             "url": "https://bbscope.com/program/h1/banco_plata",
-            "snippet": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com\n\n# banco_plata\n\n2 Out of Scope\n\nIn-Scope Assets (4)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| *.bancopl",
+            "snippet": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com\n\n# banco_plata\n\n2 Out of Scope\n\nIn-Scope Assets (7)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| *.bancopl",
             "published": null,
             "score": 0.5
           },
           {
             "title": "Banco Plata Bug Bounty | bbradar.io",
             "url": "https://bbradar.io/program/HackerOne:banco_plata",
-            "snippet": "Banco Plata Bug Bounty | bbradar.io\n\n# Banco Plata\n\nHackerone· Bug Bounty Program Active\n\nReward range\n\n$100 - $5,000\n\nPublished rewards\n\nIn-scope targets\n\n4\n\n6 tracked targets in total\n\nScope movemen",
+            "snippet": "Banco Plata Bug Bounty | bbradar.io\n\n# Banco Plata\n\nHackerone· Bug Bounty Program Active\n\nReward range\n\n$100 - $5,000\n\nPublished rewards\n\nIn-scope targets\n\n7\n\n9 tracked targets in total\n\nScope movemen",
             "published": "2024-01-01T00:00:00.000Z",
             "score": 0
           }
@@ -1698,9 +1698,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-18T05:30:25.589Z"
+        "enriched_at": "2026-10-25T05:47:44.012Z"
       },
-      "timestamp": "2026-10-18T05:30:27.087Z"
+      "timestamp": "2026-10-25T05:47:45.420Z"
     },
     "netscaler_public_program": {
       "intel": {
@@ -1713,9 +1713,9 @@
             "score": 1
           },
           {
-            "title": "HackerOne",
+            "title": "U.S. Dept Of Defense | Report #2509402 - Out-Of-Bounds Memory Read on ███ | HackerOne",
             "url": "https://hackerone.com/reports/2509402",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "U.S. Dept Of Defense | Report #2509402 - Out-Of-Bounds Memory Read on ███ | HackerOne\n\nTimeline \n\nmaskedpersian\n\n submitted a report to U.S. Dept Of Defense.\n\nMay 16, 2024, 7:04pm UTC\n\nVulnerability I",
             "published": null,
             "score": 0.5
           },
@@ -1753,9 +1753,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-18T05:30:27.087Z"
+        "enriched_at": "2026-10-25T05:47:45.420Z"
       },
-      "timestamp": "2026-10-18T05:30:28.895Z"
+      "timestamp": "2026-10-25T05:47:46.894Z"
     },
     "meesho_bbp": {
       "intel": {
@@ -4413,8 +4413,8 @@
           {
             "title": "Anonymous-Rob/Solana-NFT-Sniper",
             "url": "https://github.com/Anonymous-Rob/Solana-NFT-Sniper",
-            "snippet": "# Repository: Anonymous-Rob/Solana-NFT-Sniper\n\nMagic Eden bot designed to sniff for new listings, and to snipe them automatically at the desired price.\n\n- Stars: 3\n- Forks: 0\n- Watchers: 1\n- Open issu",
-            "published": "2022-05-07T00:40:39.000Z",
+            "snippet": "# Anonymous-Rob/Solana-NFT-Sniper\n\nMagic Eden bot designed to sniff for new listings, and to snipe them automatically at the desired price.\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issues: 0\n- Defa",
+            "published": "2022-05-07T00:00:00.000Z",
             "score": 1
           },
           {
@@ -4434,9 +4434,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-18T05:30:28.896Z"
+        "enriched_at": "2026-10-25T05:47:46.895Z"
       },
-      "timestamp": "2026-10-18T05:30:30.375Z"
+      "timestamp": "2026-10-25T05:47:48.384Z"
     },
     "boozt": {
       "intel": {
@@ -5835,9 +5835,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-18T05:30:18.090Z"
+        "enriched_at": "2026-10-25T05:47:36.720Z"
       },
-      "timestamp": "2026-10-18T05:30:19.586Z"
+      "timestamp": "2026-10-25T05:47:38.168Z"
     },
     "anthropic": {
       "intel": {
@@ -5922,32 +5922,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "tools/%E9%80%9A%E8%BE%BEOA_v11.6_RCE_EXP.py",
-            "url": "https://github.com/Mr-xn/Penetration_Testing_POC/blob/master/tools/%E9%80%9A%E8%BE%BEOA_v11.6_RCE_EXP.py",
-            "snippet": "# tools/%E9%80%9A%E8%BE%BEOA_v11.6_RCE_EXP.py\n\n- Branch: master\n- Repository: Mr-xn/Penetration_Testing_POC\n\n---\n\nimport requests \n \n# 通达OA v11.6 RCE EXP \n# 注意，会删除 auth.inc.php 文件，这个文件是判断用户是否登陆的文件，如果没",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "templates/Dockerfile",
             "url": "https://github.com/agoda-com/docker-emulator-android/blob/master/templates/Dockerfile",
             "snippet": "# templates/Dockerfile\n\n- Branch: master\n- Repository: agoda-com/docker-emulator-android\n\n---\n\nFROM ubuntu:18.04\n\nMAINTAINER Anton Malinskiy \"anton@malinskiy.com\"\n\n# Set up insecure default key\nCOPY a",
             "published": null,
+            "score": 1
+          },
+          {
+            "title": "src/test/2022-03/Agave_exp.sol",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2022-03/Agave_exp.sol",
+            "snippet": "# src/test/2022-03/Agave_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.10;\n\nimport \"./../basetest.sol\";\nimport \"./../i",
+            "published": null,
             "score": 0.5
           },
           {
-            "title": "src/test/2022-03/Agave_exp.sol at main · SunWeb3Sec/DeFiHackLabs",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2022-03/Agave_exp.sol",
-            "snippet": "# File: SunWeb3Sec/DeFiHackLabs/src/test/2022-03/Agave_exp.sol\n\n- Repository: SunWeb3Sec/DeFiHackLabs | Reproduce DeFi hacked incidents using Foundry. | 7K stars | Solidity\n- Branch: main\n\n```sol\n// S",
+            "title": "SandiRidwan/tiktok-hotel-search-aggregator",
+            "url": "https://github.com/SandiRidwan/tiktok-hotel-search-aggregator",
+            "snippet": "# SandiRidwan/tiktok-hotel-search-aggregator\n\nHarvests hotel listings + live OTA prices (Agoda, Traveloka, Trip.com) from TikTok's in-app Places search — 1,617 keywords, mitmproxy session capture, SQL",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-18T05:30:16.623Z"
+        "enriched_at": "2026-10-25T05:47:35.254Z"
       },
-      "timestamp": "2026-10-18T05:30:18.090Z"
+      "timestamp": "2026-10-25T05:47:36.720Z"
     },
     "yuga_labs": {
       "intel": {
@@ -6094,10 +6094,10 @@
             "score": 1
           },
           {
-            "title": "feat(wolt): add wolt (#799) · df09d22 · mvanhorn/printing-press-library",
+            "title": "df09d22 feat(wolt): add wolt (#799)",
             "url": "https://github.com/mvanhorn/printing-press-library/commit/df09d22de939323d71923667a7d0f402e6273123",
-            "snippet": "# Commit: mvanhorn/printing-press-library@df09d22\n\n- Repository: mvanhorn/printing-press-library | Official library of CLIs generated by the CLI Printing Press. Endorsed, tested, and community-contrib",
-            "published": "2026-05-26T02:01:15.000Z",
+            "snippet": "# df09d22 feat(wolt): add wolt (#799)\n\n- SHA: df09d22de939323d71923667a7d0f402e6273123\n- Repository: mvanhorn/printing-press-library\n- Author: Amit-Tabibi\n- Date: 2026-05-26T02:01:15Z\n- +16885 -0 in 9",
+            "published": "2026-05-26T00:00:00.000Z",
             "score": 0.5
           },
           {
@@ -6110,9 +6110,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-18T05:30:15.083Z"
+        "enriched_at": "2026-10-25T05:47:33.508Z"
       },
-      "timestamp": "2026-10-18T05:30:16.623Z"
+      "timestamp": "2026-10-25T05:47:35.254Z"
     },
     "vercel_sandbox": {
       "intel": {
@@ -6610,5 +6610,5 @@
       "timestamp": "2026-10-24T05:29:49.871Z"
     }
   },
-  "lastRun": "2026-10-24T05:30:03.303Z"
+  "lastRun": "2026-10-25T05:47:48.384Z"
 }
