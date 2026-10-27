@@ -1808,9 +1808,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:50:58.114Z"
+        "enriched_at": "2026-10-27T06:02:51.154Z"
       },
-      "timestamp": "2026-10-19T05:50:59.766Z"
+      "timestamp": "2026-10-27T06:02:52.826Z"
     },
     "braze_inc": {
       "intel": {
@@ -1863,9 +1863,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:50:59.767Z"
+        "enriched_at": "2026-10-27T06:02:52.826Z"
       },
-      "timestamp": "2026-10-19T05:51:01.423Z"
+      "timestamp": "2026-10-27T06:02:54.427Z"
     },
     "kong": {
       "intel": {
@@ -1918,9 +1918,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:51:01.424Z"
+        "enriched_at": "2026-10-27T06:02:54.427Z"
       },
-      "timestamp": "2026-10-19T05:51:03.094Z"
+      "timestamp": "2026-10-27T06:02:56.059Z"
     },
     "whoop_bug_bounty": {
       "intel": {
@@ -1933,16 +1933,16 @@
             "score": 1
           },
           {
-            "title": "Whoop Bug Bounty | Bounty Policy | HackerOne",
+            "title": "HackerOne",
             "url": "https://hackerone.com/whoop_bug_bounty?type=team",
-            "snippet": "Whoop Bug Bounty | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nMan",
+            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
             "published": null,
             "score": 0.5
           },
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/whoop_bug_bounty/scope_versions",
-            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "snippet": "HackerOne\n\n## Scopes\n\n| Type | Identifier | Max. Severity | In Scope | Bounty |\n| --- | --- | --- | --- | --- |\n| OtherAsset | WHOOP 5.0/MG STRAP | Critical | Yes | Yes |\n\nChanges are shown in the Uni",
             "published": null,
             "score": 0
           }
@@ -1959,7 +1959,7 @@
           {
             "title": "sushrutb17/doop-showcase",
             "url": "https://github.com/sushrutb17/doop-showcase",
-            "snippet": "# sushrutb17/doop-showcase\n\nPrivacy-safe method-and-evidence showcase for a local-first WHOOP 4.0 training agent\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.0\n- H",
+            "snippet": "# sushrutb17/doop-showcase\n\nPrivacy-safe method-and-evidence showcase for a local-first WHOOP 4.0 training agent\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 4\n- License: Apache License 2.0\n- H",
             "published": null,
             "score": 0.5
           },
@@ -1973,9 +1973,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:51:03.094Z"
+        "enriched_at": "2026-10-27T06:02:56.059Z"
       },
-      "timestamp": "2026-10-19T05:51:04.726Z"
+      "timestamp": "2026-10-27T06:02:57.754Z"
     },
     "hubspot": {
       "intel": {
@@ -1984,7 +1984,7 @@
             "title": "CVE-2026-24559 - Integration for Contact Form 7 HubSpot <= 1.4.3 - Authenticated (Subscriber+) Information Exposure",
             "url": "https://notcve.org/cve/CVE-2026-24559",
             "snippet": "CVE-2026-24559 - Integration for Contact Form 7 HubSpot <= 1.4.3 - Authenticated (Subscriber+) Information Exposure\n\n# CVE-2026-24559 Copy ID\n\nIntegration for Contact Form 7 HubSpot <= 1.4.3 - Authent",
-            "published": "2026-01-23T13:02:22.000Z",
+            "published": "2026-01-23T18:53:43.000Z",
             "score": 1
           },
           {
@@ -2012,48 +2012,48 @@
             "score": 1
           },
           {
-            "title": "Insertion of Sensitive Information Into Sent Data... · CVE-2026-57736 · GitHub Advisory Database · GitHub",
-            "url": "https://github.com/advisories/GHSA-j6hf-cv7p-rr4m",
-            "snippet": "Insertion of Sensitive Information Into Sent Data... · CVE-2026-57736 · GitHub Advisory Database · GitHub\n\n High severity Unreviewed \n\n Published \n\nJul 1, 2026\n\n to the GitHub Advisory Database • Upda",
-            "published": "2026-07-01T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "pp/hubspot.md",
             "url": "https://github.com/BlackFan/client-side-prototype-pollution/blob/master/pp/hubspot.md",
             "snippet": "# pp/hubspot.md\n\n- Branch: master\n- Repository: BlackFan/client-side-prototype-pollution\n\n---\n\n## HubSpot Tracking Code \n \nURL: https://knowledge.hubspot.com/reports/install-the-hubspot-tracking-code ",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "fix(hubspot-takeover): use header-based detection for NotFoundResolver",
+            "url": "https://github.com/projectdiscovery/nuclei-templates/pull/15583",
+            "snippet": "# fix(hubspot-takeover): use header-based detection for NotFoundResolver\n\n- State: merged\n- Author: SrFlipFlop\n- Created: 2026-03-10T11:45:27Z\n- Updated: 2026-03-26T00:30:10Z\n- Repository: projectdisc",
+            "published": "2026-03-10T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:51:04.726Z"
+        "enriched_at": "2026-10-27T06:02:57.755Z"
       },
-      "timestamp": "2026-10-19T05:51:06.407Z"
+      "timestamp": "2026-10-27T06:02:59.339Z"
     },
     "oppo_bbp": {
       "intel": {
         "writeups": [
           {
+            "title": "OPPO分站nginx解析可以拿下权限 | wooyun-2013-021118| WooYun.org",
+            "url": "https://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2013-021118",
+            "snippet": "OPPO分站nginx解析可以拿下权限 | wooyun-2013-021118| WooYun.org\n* 转到评论\n* 我要反馈\n* 回到顶部\n# WooYun.org\n乌云白帽子\n\n乌云Drops文章在线浏览 | 登录 | 注册\n乌云(WooYun.org)历史漏洞查询---http://wy.zone.ci/\n乌云 Drops 文章在线浏览--------http://drop.zone.",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "Cracking ATO in Oppo with a Simple Trick! | by Abdelrahman Y. (DbgMan) | Medium",
             "url": "https://medium.com/@DbgMan/cracking-ato-in-oppo-with-a-simple-trick-98c27f8d2b3a",
             "snippet": "Cracking ATO in Oppo with a Simple Trick! | by Abdelrahman Y. (DbgMan) | Medium\n\n# Cracking ATO in Oppo with a Simple Trick!\n\nAbdelrahman Y. (DbgMan)\n\nMar 5, 2025\n\nPress enter or click to view image i",
             "published": "2025-03-05T21:46:55.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Medium",
             "url": "https://medium.com/@shibinbshaji007/a-long-overdue-write-up-how-i-got-into-the-oppo-hall-of-fame-bac95ee44a4e",
             "snippet": "MediumA Long Overdue Write-up: How I got into the Oppo Hall of Fame | by Shibin B Shaji | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## Shibin B Shaji\n\niOS Pentester | Gamer | Designer\n\n# A Long Overdue Write",
             "published": "2020-05-29T13:29:13.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "OPPO分站nginx解析可以拿下权限 | wooyun-2013-021118| WooYun.org",
-            "url": "https://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2013-021118",
-            "snippet": "OPPO分站nginx解析可以拿下权限 | wooyun-2013-021118| WooYun.org\n* 转到评论\n* 我要反馈\n* 回到顶部\n# WooYun.org\n乌云白帽子\n\n乌云Drops文章在线浏览 | 登录 | 注册\n乌云(WooYun.org)历史漏洞查询---http://wy.zone.ci/\n乌云 Drops 文章在线浏览--------http://drop.zone.",
-            "published": null,
             "score": 0
           }
         ],
@@ -2062,7 +2062,7 @@
           {
             "title": "2932796375github/CVE-2026-43499_OPPO-MT6835",
             "url": "https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835",
-            "snippet": "# 2932796375github/CVE-2026-43499_OPPO-MT6835\n\n- Stars: 0\n- Forks: 1\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-17T00:40:53Z\n\n## Languages\n\n- Assembly\n- C\n- Makefile\n- Py",
+            "snippet": "# 2932796375github/CVE-2026-43499_OPPO-MT6835\n\n- Stars: 4\n- Forks: 2\n- Watchers: 4\n- Open issues: 0\n- Default branch: master\n- Created: 2026-07-30T04:01:11Z\n\n## Top Contributors\n\n- 2932796375github (2",
             "published": null,
             "score": 1
           },
@@ -2083,9 +2083,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:51:06.407Z"
+        "enriched_at": "2026-10-27T06:02:59.339Z"
       },
-      "timestamp": "2026-10-19T05:51:08.175Z"
+      "timestamp": "2026-10-27T06:03:00.928Z"
     },
     "1password_ctf": {
       "intel": {
@@ -2160,10 +2160,10 @@
             "score": 0.5
           },
           {
-            "title": "DOM-based Extension Clickjacking: Your Password Manager Data at Risk | Marek Tóth",
-            "url": "https://marektoth.com/blog/dom-based-extension-clickjacking/",
-            "snippet": "DOM-based Extension Clickjacking: Your Password Manager Data at Risk | Marek Tóth \n\n## DOM-based Extension Clickjacking: Your Password Manager Data at Risk\n\n##### 9 August 2025 (Updated: 14 January 20",
-            "published": "2025-08-09T00:00:00.000Z",
+            "title": "# Full Vault Decryption: Cracking the 1Password Security Challenge | by Fazul Rehman | Apr, 2026 | Medium",
+            "url": "https://medium.com/@fazul1324/full-vault-decryption-cracking-the-1password-security-challenge-c7233f7fc9d6",
+            "snippet": "# Full Vault Decryption: Cracking the 1Password Security Challenge | by Fazul Rehman | Apr, 2026 | Medium\n\nFazul Rehman\n\nApr 15, 2026\n\nPress enter or click to view image in full size\n\n# Full Vault Dec",
+            "published": "2026-04-15T06:54:59.000Z",
             "score": 0
           }
         ],
@@ -2193,9 +2193,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:51:08.175Z"
+        "enriched_at": "2026-10-27T06:03:00.929Z"
       },
-      "timestamp": "2026-10-19T05:51:09.818Z"
+      "timestamp": "2026-10-27T06:03:02.503Z"
     },
     "bcny": {
       "intel": {
@@ -2248,9 +2248,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:51:09.818Z"
+        "enriched_at": "2026-10-27T06:03:02.503Z"
       },
-      "timestamp": "2026-10-19T05:51:11.458Z"
+      "timestamp": "2026-10-27T06:03:04.074Z"
     },
     "verily_life_sciences": {
       "intel": {
@@ -2258,7 +2258,7 @@
           {
             "title": "Verily Life Sciences | Updates | HackerOne",
             "url": "https://hackerone.com/verily_life_sciences/updates",
-            "snippet": "Verily Life Sciences | Updates | HackerOne\n\n2026-08-26\n\nAugust 26th, 2026 (2 months ago)\n\nHello, \n\nThis message is going out to all those that have received a bounty on the program. Thank you for the ",
+            "snippet": "Verily Life Sciences | Updates | HackerOne\n\n2026-10-20\n\nOctober 20th, 2026 (6 days ago)\n\nWe are still in the process of hiring a replacement for Detectorist, we are actively interviewing and should ho",
             "published": null,
             "score": 1
           },
@@ -2270,9 +2270,9 @@
             "score": 0.5
           },
           {
-            "title": "HackerOne",
+            "title": "Verily Life Sciences | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/verily_life_sciences",
-            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "snippet": "Verily Life Sciences | Bounty Policy | HackerOne\n\n## Introduction\n\nVerily is committed to building trust and protecting the privacy and security of our users, customers and partners. We look forward t",
             "published": null,
             "score": 0
           }
@@ -2303,9 +2303,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:51:11.458Z"
+        "enriched_at": "2026-10-27T06:03:04.074Z"
       },
-      "timestamp": "2026-10-19T05:51:13.063Z"
+      "timestamp": "2026-10-27T06:03:05.675Z"
     },
     "neon_bbp": {
       "intel": {
@@ -4159,9 +4159,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-19T05:50:56.208Z"
+        "enriched_at": "2026-10-27T06:02:49.330Z"
       },
-      "timestamp": "2026-10-19T05:50:58.114Z"
+      "timestamp": "2026-10-27T06:02:51.153Z"
     },
     "wisdomtree": {
       "intel": {
@@ -6596,5 +6596,5 @@
       "timestamp": "2026-10-24T05:29:49.871Z"
     }
   },
-  "lastRun": "2026-10-26T05:50:45.029Z"
+  "lastRun": "2026-10-27T06:03:05.675Z"
 }
