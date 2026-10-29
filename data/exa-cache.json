@@ -2930,10 +2930,10 @@
             "score": 0.5
           },
           {
-            "title": "TibetSwap V1 - Post-Mortem | yakuhito's blog",
-            "url": "https://blog.kuhi.to/tibetswap-v1-post-mortem",
-            "snippet": "TibetSwap V1 - Post-Mortem | yakuhito's blog\n\n# TibetSwap V1 - Post-Mortem\n\nOn April 26th, we confirmed a critical bug in the TibetSwap v1 puzzles. A tweet asking users to withdraw their liquidity was",
-            "published": "2023-05-01T00:00:00.000Z",
+            "title": "2023-05/2023-05-08-Remote-Denial-of-Service-attack-on-full_nodes.md",
+            "url": "https://github.com/Chia-Network/post-mortem/blob/main/2023-05/2023-05-08-Remote-Denial-of-Service-attack-on-full_nodes.md",
+            "snippet": "# 2023-05/2023-05-08-Remote-Denial-of-Service-attack-on-full_nodes.md\n\n- Branch: main\n- Repository: Chia-Network/post-mortem\n\n---\n\n# Remote Denial of Service attack on full_nodes\n\n## Issue Summary\n\nFu",
+            "published": "2021-05-10T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2963,9 +2963,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-22T05:52:00.020Z"
+        "enriched_at": "2026-10-29T06:48:43.577Z"
       },
-      "timestamp": "2026-10-22T05:52:01.515Z"
+      "timestamp": "2026-10-29T06:48:45.171Z"
     },
     "3cx": {
       "intel": {
@@ -3018,9 +3018,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-22T05:52:01.516Z"
+        "enriched_at": "2026-10-29T06:48:45.171Z"
       },
-      "timestamp": "2026-10-22T05:52:03.006Z"
+      "timestamp": "2026-10-29T06:48:46.705Z"
     },
     "privy-bbp": {
       "intel": {
@@ -3028,7 +3028,7 @@
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/privy-bbp/scope_versions",
-            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "snippet": "HackerOne\n\n## Scopes\n\n| Type | Identifier | Max. Severity | In Scope | Bounty |\n| --- | --- | --- | --- | --- |\n| Domain | api.privy.io | Critical | Yes | Yes |\n\nChanges are shown in the Unified Diff ",
             "published": null,
             "score": 1
           },
@@ -3052,8 +3052,8 @@
           {
             "title": "octal-crypto/cipher-privy-script-injection",
             "url": "https://github.com/octal-crypto/cipher-privy-script-injection",
-            "snippet": "# Repository: octal-crypto/cipher-privy-script-injection\n\n- Stars: 5\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: JavaScript\n- Languages: JavaScript (95.8%), HTML (4.2%)\n- Default bra",
-            "published": "2023-10-02T00:53:35.000Z",
+            "snippet": "# octal-crypto/cipher-privy-script-injection\n\n- Stars: 5\n- Forks: 0\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2023-10-02T00:53:35Z\n\n## Languages\n\n- HTML\n- JavaScript\n\n## Top Con",
+            "published": "2023-10-02T00:00:00.000Z",
             "score": 1
           },
           {
@@ -3073,9 +3073,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-22T05:52:03.006Z"
+        "enriched_at": "2026-10-29T06:48:46.705Z"
       },
-      "timestamp": "2026-10-22T05:52:04.456Z"
+      "timestamp": "2026-10-29T06:48:48.209Z"
     },
     "netflix": {
       "intel": {
@@ -3112,9 +3112,9 @@
             "score": 1
           },
           {
-            "title": "Ch4120N/CVE-2026-58138",
+            "title": "GitHub - Ch4120N/CVE-2026-58138: CVE-2026-58138 — Conductor (3.21.21..<3.30.2) unauthenticated RCE via INLINE GraalVM evaluator (HostAccess.ALL). Lab + PoC, verified e2e (root). · GitHub",
             "url": "https://github.com/Ch4120N/CVE-2026-58138",
-            "snippet": "# Ch4120N/CVE-2026-58138\n\nCVE-2026-58138 — Conductor (3.21.21..<3.30.2) unauthenticated RCE via INLINE GraalVM evaluator (HostAccess.ALL). Lab + PoC, verified e2e (root).\n\n- Stars: 2\n- Forks: 0\n- Watc",
+            "snippet": "GitHub - Ch4120N/CVE-2026-58138: CVE-2026-58138 — Conductor (3.21.21..<3.30.2) unauthenticated RCE via INLINE GraalVM evaluator (HostAccess.ALL). Lab + PoC, verified e2e (root). · GitHub\n\n## About\n\nCV",
             "published": null,
             "score": 0.5
           },
@@ -3128,9 +3128,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-22T05:52:04.457Z"
+        "enriched_at": "2026-10-29T06:48:48.209Z"
       },
-      "timestamp": "2026-10-22T05:52:05.903Z"
+      "timestamp": "2026-10-29T06:48:49.732Z"
     },
     "23andme_bbp": {
       "intel": {
@@ -3183,9 +3183,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-22T05:52:05.903Z"
+        "enriched_at": "2026-10-29T06:48:49.732Z"
       },
-      "timestamp": "2026-10-22T05:52:07.415Z"
+      "timestamp": "2026-10-29T06:48:51.320Z"
     },
     "audible": {
       "intel": {
@@ -3198,9 +3198,9 @@
             "score": 1
           },
           {
-            "title": "HackerOne",
+            "title": "Audible | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/audible",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
+            "snippet": "Audible | Bounty Policy | HackerOne\n\n## Program highlights\n\nClosed Scope\n\nOnly accepts reports based on the listed scope.\n\nFast Payment\n\nEnsures payment within 1 month of receiving a vulnerability rep",
             "published": null,
             "score": 0.5
           },
@@ -3238,9 +3238,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-22T05:52:07.415Z"
+        "enriched_at": "2026-10-29T06:48:51.320Z"
       },
-      "timestamp": "2026-10-22T05:52:08.833Z"
+      "timestamp": "2026-10-29T06:48:52.799Z"
     },
     "temu": {
       "intel": {
@@ -3277,18 +3277,18 @@
             "score": 0.5
           },
           {
-            "title": "IEATASICS/m300-repeater-bugs",
-            "url": "https://github.com/IEATASICS/m300-repeater-bugs",
-            "snippet": "# IEATASICS/m300-repeater-bugs\n\n0 days located on the M300 mt02 wifi repeater that have not been publicly released. \n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Crea",
+            "title": "DevRafaelprogrammer/F5-BIG-IP",
+            "url": "https://github.com/DevRafaelprogrammer/F5-BIG-IP",
+            "snippet": "# DevRafaelprogrammer/F5-BIG-IP\n\nO F5 BIG-IP é uma plataforma de entrega e segurança de aplicações amplamente utilizada em ambientes corporativos. A CVE-2020-5902 é uma vulnerabilidade crítica no TMUI",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-10-22T05:52:08.833Z"
+        "enriched_at": "2026-10-29T06:48:52.799Z"
       },
-      "timestamp": "2026-10-22T05:52:10.303Z"
+      "timestamp": "2026-10-29T06:48:54.382Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -3389,17 +3389,17 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-22T05:52:10.304Z"
+        "enriched_at": "2026-10-29T06:48:54.382Z"
       },
-      "timestamp": "2026-10-22T05:52:11.782Z"
+      "timestamp": "2026-10-29T06:48:56.017Z"
     },
     "trip_com": {
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "Trip.com | Hacktivity | HackerOne",
             "url": "https://hackerone.com/trip_com/hacktivity",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "Trip.com | Hacktivity | HackerOne\n\nTrip.com\n\nBug reported by\n\nexploitmsf\n\nwas resolved\n\nabout 1 month ago\n\nTrip.com\n\njayesh25\n\nwas resolved\n\nTrip.com\n\ndeehay\n\nTrip.com\n\n$50\n\nyquefue\n\n$50\n\nTrip.com\n\n$2",
             "published": null,
             "score": 1
           },
@@ -3411,9 +3411,9 @@
             "score": 0.5
           },
           {
-            "title": "Trip.com - 25,187 Infostealer Credentials from Cybercrime & Ransomware Hacks | Hudson Rock",
+            "title": "Trip.com - 25,434 Infostealer Credentials from Cybercrime & Ransomware Hacks | Hudson Rock",
             "url": "https://www.hudsonrock.com/search/domain/trip.com",
-            "snippet": "Trip.com - 25,187 Infostealer Credentials from Cybercrime & Ransomware Hacks | Hudson Rock\n\n25,187\n\nTotal compromised records\n\nMost recent 4 days ago\n\n12\n\nCompromised employees\n\nLast compromised 393 d",
+            "snippet": "Trip.com - 25,434 Infostealer Credentials from Cybercrime & Ransomware Hacks | Hudson Rock\n\n25,434\n\nTotal compromised records\n\nMost recent 1 day ago\n\n12\n\nCompromised employees\n\nLast compromised 400 da",
             "published": null,
             "score": 0
           }
@@ -3428,25 +3428,25 @@
             "score": 1
           },
           {
-            "title": "chenchong6/crawl-ctriptravelhotel",
-            "url": "https://github.com/chenchong6/crawl-ctriptravelhotel",
-            "snippet": "# Repository: chenchong6/crawl-ctriptravelhotel\n\n携程破解\n\n- Stars: 1\n- Forks: 1\n- Watchers: 1\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (91.2%), JavaScript (8.8%)\n- Default branch: ",
-            "published": "2020-05-25T09:19:09.000Z",
-            "score": 0.5
-          },
-          {
             "title": "README.md",
             "url": "https://github.com/302Found1/Awesome-Writeups/blob/master/README.md",
             "snippet": "# README.md\n\n- Branch: master\n- Repository: TheBountyBox/Awesome-Writeups\n\n---\n\n## Contents \n\n - Cross Site Scripting (XSS)\n - Cross Site Request Forgery (CSRF)\n - Clickjacking (UI Redressing Attack)\n",
+            "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Haxxnet/traefik-CVE-2024-45410-poc",
+            "url": "https://github.com/Haxxnet/traefik-CVE-2024-45410-poc",
+            "snippet": "# Haxxnet/traefik-CVE-2024-45410-poc\n\nA proof of concept of traefik CVE to understand the impact\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-01-31T16:3",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-22T05:52:11.782Z"
+        "enriched_at": "2026-10-29T06:48:56.018Z"
       },
-      "timestamp": "2026-10-22T05:52:13.293Z"
+      "timestamp": "2026-10-29T06:48:57.565Z"
     },
     "bykea": {
       "intel": {
@@ -6513,9 +6513,9 @@
         "twitter": [],
         "github": [
           {
-            "title": "anirbala98/CVE-2026-67206",
-            "url": "https://github.com/anirbala98/CVE-2026-67206",
-            "snippet": "# anirbala98/CVE-2026-67206\n\nWolf CMS <= 0.8.3.1 - RCE via Arbitrary File Write\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: master\n- Created: 2026-08",
+            "title": "iktok90-design/trezor-cve-2026-65058",
+            "url": "https://github.com/iktok90-design/trezor-cve-2026-65058",
+            "snippet": "# iktok90-design/trezor-cve-2026-65058\n\nSecurity research: Trezor Safe calldata confirmation-binding bypass vulnerability analysis. Educational proof-of-concept for hardware wallet transaction display",
             "published": null,
             "score": 1
           },
@@ -6529,16 +6529,16 @@
           {
             "title": "trustsig-eu/wasm2c-tableflip",
             "url": "https://github.com/trustsig-eu/wasm2c-tableflip",
-            "snippet": "# trustsig-eu/wasm2c-tableflip\n\nwasm2c sandbox escape. An untrusted WebAssembly module breaks out of the generated C sandbox and executes an arbitrary shell command on the host.\n\n- Stars: 3\n- Forks: 0",
+            "snippet": "# trustsig-eu/wasm2c-tableflip\n\nwasm2c sandbox escape. An untrusted WebAssembly module breaks out of the generated C sandbox and executes an arbitrary shell command on the host.\n\n- Stars: 5\n- Forks: 0",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-22T05:51:58.541Z"
+        "enriched_at": "2026-10-29T06:48:41.871Z"
       },
-      "timestamp": "2026-10-22T05:52:00.019Z"
+      "timestamp": "2026-10-29T06:48:43.576Z"
     },
     "omarchy": {
       "intel": {
@@ -6596,5 +6596,5 @@
       "timestamp": "2026-10-24T05:29:49.871Z"
     }
   },
-  "lastRun": "2026-10-28T06:41:39.311Z"
+  "lastRun": "2026-10-29T06:48:57.566Z"
 }
