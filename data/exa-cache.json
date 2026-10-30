@@ -2782,25 +2782,25 @@
             "score": 1
           },
           {
+            "title": "mpgn/CRIME-poc",
+            "url": "https://github.com/mpgn/CRIME-poc/",
+            "snippet": "# mpgn/CRIME-poc\n\n:hocho: CRIME attack PoC : a compression oracle attacks CVE-2012-4929 :hocho:\n\n- Stars: 31\n- Forks: 10\n- Watchers: 31\n- Open issues: 2\n- License: MIT License\n- Default branch: master",
+            "published": null,
+            "score": 0.5
+          },
+          {
             "title": "Insertion of Sensitive Information Into Debugging Code... · CVE-2025-58598 · GitHub Advisory Database · GitHub",
             "url": "https://github.com/advisories/ghsa-prj4-jp6f-vpf4",
             "snippet": "Insertion of Sensitive Information Into Debugging Code... · CVE-2025-58598 · GitHub Advisory Database · GitHub\n\n Moderate severity Unreviewed \n\n Published \n\nSep 3, 2025\n\n to the GitHub Advisory Databa",
             "published": "2025-09-03T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "cbedf00 🆕 feat(v1.41-3): dogfood-payment-bnpl-installment-app 新規 (Klarna + Affirm + Afterpay BNPL + installment schedule + credit-check risk scoring + late fee collection、 72 test) (#1151)",
-            "url": "https://github.com/cardene777/kiwa/commit/cbedf008eb64b59e621c856d3cc8f84850fd6fef",
-            "snippet": "# cbedf00 🆕 feat(v1.41-3): dogfood-payment-bnpl-installment-app 新規 (Klarna + Affirm + Afterpay BNPL + installment schedule + credit-check risk scoring + late fee collection、 72 test) (#1151)\n\n- SHA: ",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:48:47.476Z"
+        "enriched_at": "2026-10-30T06:52:22.885Z"
       },
-      "timestamp": "2026-10-23T05:48:49.239Z"
+      "timestamp": "2026-10-30T06:52:24.449Z"
     },
     "unico_idtech": {
       "intel": {
@@ -3466,42 +3466,42 @@
             "score": 0.5
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/reports/2209750",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
-            "published": null,
+            "title": "Bykea | Report #2374730 - Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure | HackerOne",
+            "url": "https://hackerone.com/reports/2374730",
+            "snippet": "Bykea | Report #2374730 - Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure | HackerOne\n\nTimeline \n\n submitted a report to Bykea.\n\nFebruary 15, 20",
+            "published": "2024-02-15T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "immunefi-team/hack-analysis-pocs",
-            "url": "https://github.com/immunefi-team/hack-analysis-pocs",
-            "snippet": "# immunefi-team/hack-analysis-pocs\n\n- Stars: 42\n- Forks: 10\n- Watchers: 42\n- Open issues: 0\n- Default branch: main\n- Created: 2022-12-23T16:49:42Z\n\n## Languages\n\n- Go\n- Solidity\n\n## Top Contributors\n\n",
-            "published": "2022-12-23T00:00:00.000Z",
+            "title": "CVE18-1.md",
+            "url": "https://github.com/DeepMountains/Mirage/blob/main/CVE18-1.md",
+            "snippet": "# CVE18-1.md\n\n- Branch: main\n- Repository: DeepMountains/Mirage\n\n---\n\n# Vendor\n\nChengdu Guangda Network Technology\n\n# Product\n\nBeikeShop\n\n# version\n\n<=v1.5.5\n\n# Download \n\nhttps://beikeshop.cn/downloa",
+            "published": null,
             "score": 1
           },
           {
-            "title": "effortlessdevsec/Android_Hackerone",
-            "url": "https://github.com/effortlessdevsec/Android_Hackerone",
-            "snippet": "# effortlessdevsec/Android_Hackerone\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2025-04-05T17:20:39Z\n\n## Languages\n\n- Python\n- Shell\n\n## Top Contributors\n\n",
-            "published": "2025-04-05T00:00:00.000Z",
+            "title": "GitHub - immunefi-team/hack-analysis-pocs · GitHub",
+            "url": "https://github.com/immunefi-team/hack-analysis-pocs",
+            "snippet": "GitHub - immunefi-team/hack-analysis-pocs · GitHub\n\nNo description, website, or topics provided.\n\nMerge pull request #5 from immunefi-team/janbro-readme-patch-1\n\n18 Commits\n\nOpen commit details\n\n## Fo",
+            "published": "2022-12-23T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "bikinl/exploitarium",
-            "url": "https://github.com/bikinl/exploitarium",
-            "snippet": "# bikinl/exploitarium\n\nA single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit",
-            "published": null,
+            "title": "BeikeShop Stripe Plugin Missing Webhook Signature Verification Leads to Payment Bypass · Advisory · beikeshop/beikeshop · GitHub",
+            "url": "https://github.com/beikeshop/beikeshop/security/advisories/GHSA-vj8x-99j7-w53h",
+            "snippet": "BeikeShop Stripe Plugin Missing Webhook Signature Verification Leads to Payment Bypass · Advisory · beikeshop/beikeshop · GitHub\n\n# BeikeShop Stripe Plugin Missing Webhook Signature Verification Leads",
+            "published": "2026-06-07T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:48:49.239Z"
+        "enriched_at": "2026-10-30T06:52:24.449Z"
       },
-      "timestamp": "2026-10-23T05:48:50.838Z"
+      "timestamp": "2026-10-30T06:52:25.986Z"
     },
     "inditex": {
       "intel": {
@@ -3521,9 +3521,9 @@
             "score": 0.5
           },
           {
-            "title": "Inditex — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/inditex",
-            "snippet": "Inditex — HackerOne bug bounty | BountyHunte.rs\n\n# Inditex\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is not",
+            "title": "Inditex Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/inditex/",
+            "snippet": "Inditex Bug Bounty Program - Bug Bounties\n\n# Inditex\n\nBounty \n\n## Program Details \n\n Handle \n: inditex \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 4 days \nBounty Time\n: 256 days \n\n Response",
             "published": null,
             "score": 0
           }
@@ -3531,32 +3531,32 @@
         "twitter": [],
         "github": [
           {
+            "title": "Nacho Guisado Obregón",
+            "url": "https://github.com/gitnachogo",
+            "snippet": "# Nacho Guisado Obregón\n\n#DevSecOps. Interested in security development throught the whole lifecycle.\n\n- Login: gitnachogo\n- Company: Orchestra.eu\n- Location: Seville\n- Blog: https://www.linkedin.com/",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "usbt0p/product-matching-hackudc-inditex",
             "url": "https://github.com/usbt0p/product-matching-hackudc-inditex",
             "snippet": "# usbt0p/product-matching-hackudc-inditex\n\nWinner project of the HackUDC 2026 Inditex AI challenge. From a photo of an outfit and given the Zara catalog, identify all the individual pieces the model i",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "GabyB73/boost-backend",
             "url": "https://github.com/GabyB73/boost-backend",
             "snippet": "# GabyB73/boost-backend\n\n🏆 BOOST Hackathon Inditex - Sistema de gestión logística | Java Backend Challenge\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2025",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "README.md",
-            "url": "https://github.com/jraporta/IndiLogistics/blob/main/README.md",
-            "snippet": "# README.md\n\n- Branch: main\n- Repository: jraporta/IndiLogistics\n\n---\n\n# 🚚 INDITEX Java Backend Challenge ☕️\n\nCategory ➡️ Software\n\nSubcategory ➡️ Java Backend\n\nDifficulty ➡️ Easy\n\n---\n\n## 🌐 Backgro",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:48:52.644Z"
+        "enriched_at": "2026-10-30T06:52:27.545Z"
       },
-      "timestamp": "2026-10-23T05:48:54.379Z"
+      "timestamp": "2026-10-30T06:52:29.108Z"
     },
     "visa": {
       "intel": {
@@ -3588,30 +3588,30 @@
           {
             "title": "BlackSnufkin/CredsHunter",
             "url": "https://github.com/BlackSnufkin/CredsHunter",
-            "snippet": "# BlackSnufkin/CredsHunter\n\nPoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping\n\n- Stars: 37\n- Forks: 4\n- Watchers: 37\n- Open issues: 0\n- License: GNU Gene",
+            "snippet": "# BlackSnufkin/CredsHunter\n\nPoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping\n\n- Stars: 39\n- Forks: 5\n- Watchers: 39\n- Open issues: 0\n- License: GNU Gene",
             "published": null,
             "score": 1
+          },
+          {
+            "title": "GitHub - zer0dayf/CVE-2026-15013: CVE-2026-15013 · GitHub",
+            "url": "https://github.com/zer0dayf/CVE-2026-15013",
+            "snippet": "GitHub - zer0dayf/CVE-2026-15013: CVE-2026-15013 · GitHub\n\n4 Commits\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| docker | docker | Updat",
+            "published": null,
+            "score": 0.5
           },
           {
             "title": "VinayaSathyanarayana/visa-vulnerability-agentic-harness",
             "url": "https://github.com/VinayaSathyanarayana/visa-vulnerability-agentic-harness",
             "snippet": "# VinayaSathyanarayana/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Other\n- Default branch: main\n- Created: 2",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "puckiestyle/CVE-2023-27532-RCE-Only",
-            "url": "https://github.com/puckiestyle/CVE-2023-27532-RCE-Only",
-            "snippet": "# puckiestyle/CVE-2023-27532-RCE-Only\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2024-07-05T14:00:48Z\n\n## Languages\n\n- C#\n- Python\n\n## Top Contributors\n\n- ",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:48:54.379Z"
+        "enriched_at": "2026-10-30T06:52:29.109Z"
       },
-      "timestamp": "2026-10-23T05:48:56.025Z"
+      "timestamp": "2026-10-30T06:52:30.702Z"
     },
     "toolsforhumanity": {
       "intel": {
@@ -3624,17 +3624,17 @@
             "score": 1
           },
           {
-            "title": "HackerOne",
+            "title": "Tools for Humanity | Report #2110030 - Race Condition Enables Bypassing Verification Check | HackerOne",
             "url": "https://hackerone.com/reports/2110030",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
-            "published": null,
+            "snippet": "Tools for Humanity | Report #2110030 - Race Condition Enables Bypassing Verification Check | HackerOne\n\nSummary by Tools for Humanity\n\nA race condition was discovered in the WorldID platform that coul",
+            "published": "2023-08-15T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "HackerOne",
+            "title": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne",
             "url": "https://hackerone.com/reports/2515808",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
-            "published": null,
+            "snippet": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne\n\n[Meetup][World ID][OIDC] Insuff",
+            "published": "2024-05-23T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3664,9 +3664,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:48:56.025Z"
+        "enriched_at": "2026-10-30T06:52:30.702Z"
       },
-      "timestamp": "2026-10-23T05:48:57.678Z"
+      "timestamp": "2026-10-30T06:52:32.268Z"
     },
     "ring": {
       "intel": {
@@ -3710,18 +3710,18 @@
             "score": 0.5
           },
           {
-            "title": "aruxiee/siliconhook",
+            "title": "arushacracks/siliconhook",
             "url": "https://github.com/aruxiee/siliconhook",
-            "snippet": "# aruxiee/siliconhook\n\nRing -1 engine for MitM attacks on CPU registers. Leverages $DR0$-$DR7$ for zero-footprint interception, real-time data sniffing, and active argument tampering via WriteProcessM",
+            "snippet": "# arushacracks/siliconhook\n\nRing -1 engine for MitM attacks on CPU registers. Leverages $DR0$-$DR7$ for zero-footprint interception, real-time data sniffing, and active argument tampering via WritePro",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:48:57.678Z"
+        "enriched_at": "2026-10-30T06:52:32.269Z"
       },
-      "timestamp": "2026-10-23T05:48:59.297Z"
+      "timestamp": "2026-10-30T06:52:33.929Z"
     },
     "six-group": {
       "intel": {
@@ -3734,17 +3734,17 @@
             "score": 1
           },
           {
-            "title": "sixgroup-security/bug-bounty",
+            "title": "GitHub - sixgroup-security/bug-bounty: SIX Group AG bug bounty program · GitHub",
             "url": "https://github.com/sixgroup-security/bug-bounty",
-            "snippet": "# sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-08T11:05:51Z\n\n## Languages\n\n- Python\n\n##",
+            "snippet": "GitHub - sixgroup-security/bug-bounty: SIX Group AG bug bounty program · GitHub\n\n## About\n\nSIX Group AG bug bounty program\n\n## Latest commit\n\ncryxnet\n\nAutomated update of Hall of Fame\n\nOct 29, 2026\n\nO",
             "published": "2024-10-08T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "SixCMS <= 6 - Multiple XSS and directory traversal vulnerabilities - CXSecurity.com",
-            "url": "https://cxsecurity.com/issue/WLB-2006060106",
-            "snippet": "SixCMS <= 6 - Multiple XSS and directory traversal vulnerabilities - CXSecurity.com\n\n#### SixCMS <= 6 - Multiple XSS and directory traversal vulnerabilities\n\n2006.06.18\n\nCredit: admin majorsecurity de",
-            "published": "2006-06-18T00:00:00.000Z",
+            "title": "Advisories/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365 at main · sixgroup-security/Advisories · GitHub",
+            "url": "https://github.com/sixgroup-security/Advisories/tree/main/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365",
+            "snippet": "Advisories/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365 at main · sixgroup-security/Advisories · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date",
+            "published": "2021-11-11T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3760,23 +3760,23 @@
           {
             "title": "BlackSnufkin/CredsHunter",
             "url": "https://github.com/BlackSnufkin/CredsHunter",
-            "snippet": "# BlackSnufkin/CredsHunter\n\nPoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping\n\n- Stars: 37\n- Forks: 4\n- Watchers: 37\n- Open issues: 0\n- License: GNU Gene",
+            "snippet": "# BlackSnufkin/CredsHunter\n\nPoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping\n\n- Stars: 39\n- Forks: 5\n- Watchers: 39\n- Open issues: 0\n- License: GNU Gene",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "sixgroup-security/bug-bounty",
+            "title": "GitHub - sixgroup-security/bug-bounty: SIX Group AG bug bounty program · GitHub",
             "url": "https://github.com/sixgroup-security/bug-bounty",
-            "snippet": "# sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-08T11:05:51Z\n\n## Languages\n\n- Python\n\n##",
+            "snippet": "GitHub - sixgroup-security/bug-bounty: SIX Group AG bug bounty program · GitHub\n\n## About\n\nSIX Group AG bug bounty program\n\n## Latest commit\n\ncryxnet\n\nAutomated update of Hall of Fame\n\nOct 29, 2026\n\nO",
             "published": "2024-10-08T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:48:59.297Z"
+        "enriched_at": "2026-10-30T06:52:33.929Z"
       },
-      "timestamp": "2026-10-23T05:49:00.951Z"
+      "timestamp": "2026-10-30T06:52:35.516Z"
     },
     "eufy_security": {
       "intel": {
@@ -3829,9 +3829,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:49:00.951Z"
+        "enriched_at": "2026-10-30T06:52:35.516Z"
       },
-      "timestamp": "2026-10-23T05:49:02.650Z"
+      "timestamp": "2026-10-30T06:52:37.147Z"
     },
     "eero": {
       "intel": {
@@ -5853,16 +5853,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "Boyan-MILANOV/friendly-fire-ai-agent-exploit",
+            "title": "GitHub - Boyan-MILANOV/friendly-fire-ai-agent-exploit: This repository contains a proof-of-concept exploit that enables remote code execution in Anthropic's Claude Code CLI (with Claude Sonnet 4.6 & 5, Opus 4.8) and OpenAI's Codex CLI (with GPT-5.5) when employed to defensively assess the security of an untrusted open-source or third-party library · GitHub",
             "url": "https://github.com/Boyan-MILANOV/friendly-fire-ai-agent-exploit",
-            "snippet": "# Boyan-MILANOV/friendly-fire-ai-agent-exploit\n\nThis repository contains a proof-of-concept exploit that enables remote code execution in Anthropic's Claude Code CLI (with Claude Sonnet 4.6 & 5, Opus ",
+            "snippet": "GitHub - Boyan-MILANOV/friendly-fire-ai-agent-exploit: This repository contains a proof-of-concept exploit that enables remote code execution in Anthropic's Claude Code CLI (with Claude Sonnet 4.6 & 5",
             "published": null,
             "score": 1
           },
           {
-            "title": "strotski/claude-4.6-jailbreak-vulnerability-disclosure-unredacted",
+            "title": "GitHub - strotski/claude-4.6-jailbreak-vulnerability-disclosure-unredacted: I Jailbroke Claude Opus/Sonnet 4.6 & Haiku 4.5 with \"more+\" · GitHub",
             "url": "https://github.com/strotski/claude-4.6-jailbreak-vulnerability-disclosure-unredacted",
-            "snippet": "# strotski/claude-4.6-jailbreak-vulnerability-disclosure-unredacted\n\nI Jailbroke Claude Opus/Sonnet 4.6 & Haiku 4.5 with \"more+\"\n\n- Stars: 3\n- Forks: 2\n- Watchers: 3\n- Open issues: 0\n- License: Creati",
+            "snippet": "GitHub - strotski/claude-4.6-jailbreak-vulnerability-disclosure-unredacted: I Jailbroke Claude Opus/Sonnet 4.6 & Haiku 4.5 with \"more+\" · GitHub\n\nclaude-4.6-jailbreak-vulnerability-disclosure-unredact",
             "published": null,
             "score": 0.5
           },
@@ -5876,9 +5876,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:48:50.838Z"
+        "enriched_at": "2026-10-30T06:52:25.987Z"
       },
-      "timestamp": "2026-10-23T05:48:52.643Z"
+      "timestamp": "2026-10-30T06:52:27.544Z"
     },
     "agoda-public": {
       "intel": {
@@ -6300,25 +6300,25 @@
             "score": 1
           },
           {
-            "title": "2026.06.38-Demo",
-            "url": "https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui/releases/tag/Wallet%2FDemo_Version%3D2026.06.38-Demo_Build%3D38",
-            "snippet": "# 2026.06.38-Demo\n\n- Tag: Wallet/Demo_Version=2026.06.38-Demo_Build=38\n- Repository: eu-digital-identity-wallet/eudi-app-android-wallet-ui\n- Published: 2026-06-10T14:04:00Z\n- Author: stzouvaras\n\n---\n\n",
-            "published": null,
+            "title": "[Security] No root / tampered-device detection · Issue #73 · eu-digital-identity-wallet/av-app-android-wallet-ui",
+            "url": "https://github.com/eu-digital-identity-wallet/av-app-android-wallet-ui/issues/73",
+            "snippet": "# Issue: eu-digital-identity-wallet/av-app-android-wallet-ui #73\n\n- Repository: eu-digital-identity-wallet/av-app-android-wallet-ui | 252 stars | Kotlin\n\n## [Security] No root / tampered-device detect",
+            "published": "2026-04-16T18:47:22.000Z",
             "score": 0.5
           },
           {
-            "title": "eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py",
-            "url": "https://github.com/eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py",
-            "snippet": "# eu-digital-identity-wallet/eudi-app-web-walletdriven-tester-py\n\nWallet-driven rQES web tester\n\n- Stars: 1\n- Forks: 1\n- Watchers: 1\n- Open issues: 2\n- License: Apache License 2.0\n- Default branch: ma",
+            "title": "2026.06.38-Demo",
+            "url": "https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui/releases/tag/Wallet%2FDemo_Version%3D2026.06.38-Demo_Build%3D38",
+            "snippet": "# 2026.06.38-Demo\n\n- Tag: Wallet/Demo_Version=2026.06.38-Demo_Build=38\n- Repository: eu-digital-identity-wallet/eudi-app-android-wallet-ui\n- Published: 2026-06-10T14:04:00Z\n- Author: stzouvaras\n\n---\n\n",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-23T05:48:45.790Z"
+        "enriched_at": "2026-10-30T06:52:21.162Z"
       },
-      "timestamp": "2026-10-23T05:48:47.476Z"
+      "timestamp": "2026-10-30T06:52:22.884Z"
     },
     "vercel": {
       "intel": {
@@ -6596,5 +6596,5 @@
       "timestamp": "2026-10-24T05:29:49.871Z"
     }
   },
-  "lastRun": "2026-10-29T06:48:57.566Z"
+  "lastRun": "2026-10-30T06:52:37.147Z"
 }
