@@ -1437,9 +1437,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-25T05:47:38.168Z"
+        "enriched_at": "2026-11-01T07:12:06.392Z"
       },
-      "timestamp": "2026-10-25T05:47:39.622Z"
+      "timestamp": "2026-11-01T07:12:07.733Z"
     },
     "twilio": {
       "intel": {
@@ -1454,7 +1454,7 @@
           {
             "title": "Twilio Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/twilio/",
-            "snippet": "Twilio Bug Bounty Program - Bug Bounties\n\nBounty Recognition Full Safe Harbor \n\n## Program Details \n\n Handle \n: twilio \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 2 days \nBounty Time\n: 58 d",
+            "snippet": "Twilio Bug Bounty Program - Bug Bounties\n\nBounty Recognition Full Safe Harbor \n\n## Program Details \n\n Handle \n: twilio \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 1 day \nBounty Time\n: 75 da",
             "published": null,
             "score": 0
           }
@@ -1462,32 +1462,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "typical-pashochek/CVE-2024-39713",
-            "url": "https://github.com/typical-pashochek/CVE-2024-39713",
-            "snippet": "# typical-pashochek/CVE-2024-39713\n\n- Stars: 5\n- Forks: 2\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2025-02-07T13:22:36Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- typical-",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "The Twilio integration webhook handler accepts any POST... · CVE-2026-4984 · GitHub Advisory Database · GitHub",
             "url": "https://github.com/advisories/GHSA-6mjh-67rm-ph7x",
             "snippet": "The Twilio integration webhook handler accepts any POST... · CVE-2026-4984 · GitHub Advisory Database · GitHub\n\n High severity Unreviewed \n\n Published \n\nMar 27, 2026\n\n to the GitHub Advisory Database ",
             "published": "2026-03-27T00:00:00.000Z",
-            "score": 0.5
+            "score": 1
           },
           {
             "title": "fix(security): add Twilio webhook signature validation to prevent unauthenticated RCE",
             "url": "https://github.com/NousResearch/hermes-agent/issues/7904/linked_closing_reference?reference_location=REPO_ISSUES_INDEX",
             "snippet": "# fix(security): add Twilio webhook signature validation to prevent unauthenticated RCE\n\n- State: closed\n- Author: entropidelic\n- Created: 2026-04-11T19:00:32Z\n- Updated: 2026-04-11T21:05:50Z\n- Reposi",
             "published": null,
+            "score": 0.5
+          },
+          {
+            "title": "Missing Authentication on Notification Endpoints · Advisory · OneUptime/oneuptime · GitHub",
+            "url": "https://github.com/OneUptime/oneuptime/security/advisories/GHSA-q253-6wcm-h8hp",
+            "snippet": "Missing Authentication on Notification Endpoints · Advisory · OneUptime/oneuptime · GitHub\n\nsimlarsen published GHSA-q253-6wcm-h8hp\n\nMar 30, 2026\n\n## Package\n\n oneuptime (npm) \n\n## Affected versions\n\n",
+            "published": "2026-03-30T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-10-25T05:47:39.623Z"
+        "enriched_at": "2026-11-01T07:12:07.733Z"
       },
-      "timestamp": "2026-10-25T05:47:41.102Z"
+      "timestamp": "2026-11-01T07:12:09.091Z"
     },
     "doordash": {
       "intel": {
@@ -1533,9 +1533,9 @@
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-10-25T05:47:41.103Z"
+        "enriched_at": "2026-11-01T07:12:09.091Z"
       },
-      "timestamp": "2026-10-25T05:47:42.529Z"
+      "timestamp": "2026-11-01T07:12:10.449Z"
     },
     "robinhood": {
       "intel": {
@@ -1557,7 +1557,7 @@
           {
             "title": "ashwarya | Profile | HackerOne",
             "url": "https://hackerone.com/ashwarya",
-            "snippet": "ashwarya | Profile | HackerOne\n\n (ashwarya)\n\nJoined March 2014\n\nStats\n\n90 Days\n\n#### 7.00\n\n#### 99th\n\nPercentile\n\n#### 26.67\n\nImpact\n\n#### 88th\n\nPercentile\n\n#### 226\n\nReputation\n\n#### -\n\nRank\n\n## 0 mo",
+            "snippet": "ashwarya | Profile | HackerOne\n\n (ashwarya)\n\nJoined March 2014\n\nStats\n\n90 Days\n\n#### 7.00\n\n#### 99th\n\nPercentile\n\n#### 26.67\n\nImpact\n\n#### 88th\n\nPercentile\n\n#### 197\n\nReputation\n\n#### -\n\nRank\n\n## 0 mo",
             "published": null,
             "score": 0
           }
@@ -1567,7 +1567,7 @@
           {
             "title": "mohamedfhafah/robinhood-bounty-starter",
             "url": "https://github.com/mohamedfhafah/robinhood-bounty-starter",
-            "snippet": "# mohamedfhafah/robinhood-bounty-starter\n\nBug bounty starter workspace for compliant reconnaissance, testing, and reporting.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT Licens",
+            "snippet": "# mohamedfhafah/robinhood-bounty-starter\n\nBug-bounty operations kit: scope checks, recon automation, authorization-diff probe, report templates (no confirmed finding)\n\n- Stars: 0\n- Forks: 0\n- Watchers",
             "published": null,
             "score": 1
           },
@@ -1579,18 +1579,18 @@
             "score": 0.5
           },
           {
-            "title": "ParkerRex/trading-de-compile",
-            "url": "https://github.com/ParkerRex/trading-de-compile",
-            "snippet": "# ParkerRex/trading-de-compile\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: dev\n- Created: 2026-01-23T18:53:34Z\n\n## Languages\n\n- HTML\n- Java\n- JavaScript\n- PureBasic\n- Rust\n",
+            "title": "hackerone-bug-bounty-reports/results/based_on_program/h1_5411_ctf.md at master · codebygk/hackerone-bug-bounty-reports · GitHub",
+            "url": "https://github.com/codebygk/hackerone-bug-bounty-reports/blob/master/results/based_on_program/h1_5411_ctf.md",
+            "snippet": "hackerone-bug-bounty-reports/results/based_on_program/h1_5411_ctf.md at master · codebygk/hackerone-bug-bounty-reports · GitHub\n\nAll results updated\n\nOct 13, 2024\n\n13 lines (13 loc) · 1.14 KB\n\n13 line",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-25T05:47:42.529Z"
+        "enriched_at": "2026-11-01T07:12:10.449Z"
       },
-      "timestamp": "2026-10-25T05:47:44.012Z"
+      "timestamp": "2026-11-01T07:12:11.834Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1653,7 +1653,7 @@
           {
             "title": "Banco Plata Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/banco-plata/",
-            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\n# Banco Plata\n\nBounty \n\n## Program Details \n\n Handle \n: banco_plata \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 5 days \nBounty Time\n: 627 days",
+            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: banco_plata \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 4 days \nBounty Time\n: 627 days \nResolution Ti",
             "published": null,
             "score": 1
           },
@@ -1689,18 +1689,18 @@
             "score": 0.5
           },
           {
-            "title": "20matan/hacker101-challenges-writeup",
-            "url": "https://github.com/20matan/hacker101-challenges-writeup",
-            "snippet": "# 20matan/hacker101-challenges-writeup\n\nin this repository i write the solutions for the hacker101 challenges. If you have some better solutions, please share with us :)\n\n- Stars: 4\n- Forks: 0\n- Watch",
+            "title": "GitHub - Mr-xn/Penetration_Testing_POC: 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms · GitHub",
+            "url": "https://github.com/Mr-xn/Penetration%5FTesting%5FPOC",
+            "snippet": "GitHub - Mr-xn/Penetration_Testing_POC: 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql s",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-25T05:47:44.012Z"
+        "enriched_at": "2026-11-01T07:12:11.834Z"
       },
-      "timestamp": "2026-10-25T05:47:45.420Z"
+      "timestamp": "2026-11-01T07:12:13.160Z"
     },
     "netscaler_public_program": {
       "intel": {
@@ -1753,9 +1753,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-25T05:47:45.420Z"
+        "enriched_at": "2026-11-01T07:12:13.160Z"
       },
-      "timestamp": "2026-10-25T05:47:46.894Z"
+      "timestamp": "2026-11-01T07:12:14.544Z"
     },
     "meesho_bbp": {
       "intel": {
@@ -4394,10 +4394,10 @@
             "score": 1
           },
           {
-            "title": "Scammers exploit NFT marketplace Magic Eden to sell fake NFTs",
-            "url": "https://coingeek.com/scammers-exploit-nft-marketplace-magic-eden-to-sell-fake-nfts/",
-            "snippet": "Scammers exploit NFT marketplace Magic Eden to sell fake NFTs\n\n# Scammers exploit NFT marketplace Magic Eden to sell fake NFTs\n\nBy Steve Kaaru\n\nPublished: Jan 10, 2023 / Last updated: Sep 19, 2025\n\n| ",
-            "published": "2025-09-10T00:00:00.000Z",
+            "title": "Magic Eden Hit With 'Massive Exploit', Customers Accidentally Purchase 25 Fake NFTs on Platform | Technology News",
+            "url": "https://www.gadgets360.com/cryptocurrency/news/magic-eden-massive-exploit-buyers-accidentally-purchase-25-fake-nfts-3665835",
+            "snippet": "Magic Eden Hit With 'Massive Exploit', Customers Accidentally Purchase 25 Fake NFTs on Platform | Technology News\n\n# Magic Eden Hit With 'Massive Exploit', Customers Accidentally Purchase 25 Fake NFTs",
+            "published": "2023-01-05T08:46:46.000Z",
             "score": 0.5
           },
           {
@@ -4411,32 +4411,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "Anonymous-Rob/Solana-NFT-Sniper",
+            "title": "GitHub - Anonymous-Rob/Solana-NFT-Sniper: Magic Eden bot designed to sniff for new listings, and to snipe them automatically at the desired price. · GitHub",
             "url": "https://github.com/Anonymous-Rob/Solana-NFT-Sniper",
-            "snippet": "# Anonymous-Rob/Solana-NFT-Sniper\n\nMagic Eden bot designed to sniff for new listings, and to snipe them automatically at the desired price.\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issues: 0\n- Defa",
+            "snippet": "GitHub - Anonymous-Rob/Solana-NFT-Sniper: Magic Eden bot designed to sniff for new listings, and to snipe them automatically at the desired price. · GitHub\n\n## About\n\nMagic Eden bot designed to sniff ",
             "published": "2022-05-07T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "Miscalculation in addLiquidity of Router results in unauthorized spending of tokens",
-            "url": "https://github.com/code-423n4/2024-03-abracadabra-money-findings/issues/231",
-            "snippet": "# Miscalculation in addLiquidity of Router results in unauthorized spending of tokens\n\n- State: open\n- Author: c4-bot-7\n- Created: 2024-03-12T19:40:14Z\n- Updated: 2024-04-08T13:05:00Z\n- Repository: co",
-            "published": null,
+            "title": "Pause function can be bricked · Issue #25 · code-423n4/2024-10-kleidi-findings",
+            "url": "https://github.com/code-423n4/2024-10-kleidi-findings/issues/25",
+            "snippet": "# Issue: code-423n4/2024-10-kleidi-findings #25\n\n- Repository: code-423n4/2024-10-kleidi-findings | 0 stars\n\n## Pause function can be bricked\n\n- Author: [@howlbot-integration[bot]](https://github.com/",
+            "published": "2024-10-27T19:55:04.000Z",
             "score": 0.5
           },
           {
-            "title": "IamHarrie-Labs/midnight-ownpublickey-poc",
-            "url": "https://github.com/IamHarrie-Labs/midnight-ownpublickey-poc",
-            "snippet": "# IamHarrie-Labs/midnight-ownpublickey-poc\n\nownPublicKey() access control vulnerability PoC for Midnight Network — Bounty #295\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: m",
-            "published": null,
+            "title": "Attacker Can Frontruns User's Withdrawals To Make Them Reverts Without Costs · Issue #930 · code-423n4/2024-04-dyad-findings",
+            "url": "https://github.com/code-423n4/2024-04-dyad-findings/issues/930",
+            "snippet": "# Issue: code-423n4/2024-04-dyad-findings #930\n\n- Repository: code-423n4/2024-04-dyad-findings | 8 stars\n\n## Attacker Can Frontruns User's Withdrawals To Make Them Reverts Without Costs\n\n- Author: [@c",
+            "published": "2024-04-25T14:13:57.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-25T05:47:46.895Z"
+        "enriched_at": "2026-11-01T07:12:14.545Z"
       },
-      "timestamp": "2026-10-25T05:47:48.384Z"
+      "timestamp": "2026-11-01T07:12:15.955Z"
     },
     "boozt": {
       "intel": {
@@ -5821,9 +5821,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-25T05:47:36.720Z"
+        "enriched_at": "2026-11-01T07:12:05.025Z"
       },
-      "timestamp": "2026-10-25T05:47:38.168Z"
+      "timestamp": "2026-11-01T07:12:06.392Z"
     },
     "anthropic": {
       "intel": {
@@ -5908,32 +5908,32 @@
         "twitter": [],
         "github": [
           {
+            "title": "tools/%E9%80%9A%E8%BE%BEOA_v11.6_RCE_EXP.py",
+            "url": "https://github.com/Mr-xn/Penetration_Testing_POC/blob/master/tools/%E9%80%9A%E8%BE%BEOA_v11.6_RCE_EXP.py",
+            "snippet": "# tools/%E9%80%9A%E8%BE%BEOA_v11.6_RCE_EXP.py\n\n- Branch: master\n- Repository: Mr-xn/Penetration_Testing_POC\n\n---\n\nimport requests \n \n# 通达OA v11.6 RCE EXP \n# 注意，会删除 auth.inc.php 文件，这个文件是判断用户是否登陆的文件，如果没",
+            "published": null,
+            "score": 1
+          },
+          {
             "title": "templates/Dockerfile",
             "url": "https://github.com/agoda-com/docker-emulator-android/blob/master/templates/Dockerfile",
             "snippet": "# templates/Dockerfile\n\n- Branch: master\n- Repository: agoda-com/docker-emulator-android\n\n---\n\nFROM ubuntu:18.04\n\nMAINTAINER Anton Malinskiy \"anton@malinskiy.com\"\n\n# Set up insecure default key\nCOPY a",
             "published": null,
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "src/test/2022-03/Agave_exp.sol",
             "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2022-03/Agave_exp.sol",
             "snippet": "# src/test/2022-03/Agave_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.10;\n\nimport \"./../basetest.sol\";\nimport \"./../i",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "SandiRidwan/tiktok-hotel-search-aggregator",
-            "url": "https://github.com/SandiRidwan/tiktok-hotel-search-aggregator",
-            "snippet": "# SandiRidwan/tiktok-hotel-search-aggregator\n\nHarvests hotel listings + live OTA prices (Agoda, Traveloka, Trip.com) from TikTok's in-app Places search — 1,617 keywords, mitmproxy session capture, SQL",
-            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-25T05:47:35.254Z"
+        "enriched_at": "2026-11-01T07:12:03.637Z"
       },
-      "timestamp": "2026-10-25T05:47:36.720Z"
+      "timestamp": "2026-11-01T07:12:05.025Z"
     },
     "yuga_labs": {
       "intel": {
@@ -6080,9 +6080,9 @@
             "score": 1
           },
           {
-            "title": "df09d22 feat(wolt): add wolt (#799)",
+            "title": "feat(wolt): add wolt (#799) · mvanhorn/printing-press-library@df09d22 · GitHub",
             "url": "https://github.com/mvanhorn/printing-press-library/commit/df09d22de939323d71923667a7d0f402e6273123",
-            "snippet": "# df09d22 feat(wolt): add wolt (#799)\n\n- SHA: df09d22de939323d71923667a7d0f402e6273123\n- Repository: mvanhorn/printing-press-library\n- Author: Amit-Tabibi\n- Date: 2026-05-26T02:01:15Z\n- +16885 -0 in 9",
+            "snippet": "feat(wolt): add wolt (#799) · mvanhorn/printing-press-library@df09d22 · GitHub\n\n# Commit df09d22\n\n \n\nAmit-Tabibi\n\nfeat(wolt): add wolt (#799)\n\n* feat(wolt): add wolt Browse-only Wolt food delivery CLI",
             "published": "2026-05-26T00:00:00.000Z",
             "score": 0.5
           },
@@ -6096,9 +6096,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-25T05:47:33.508Z"
+        "enriched_at": "2026-11-01T07:12:01.667Z"
       },
-      "timestamp": "2026-10-25T05:47:35.254Z"
+      "timestamp": "2026-11-01T07:12:03.636Z"
     },
     "vercel_sandbox": {
       "intel": {
@@ -6596,5 +6596,5 @@
       "timestamp": "2026-10-31T06:44:36.538Z"
     }
   },
-  "lastRun": "2026-10-31T06:44:49.232Z"
+  "lastRun": "2026-11-01T07:12:15.955Z"
 }
