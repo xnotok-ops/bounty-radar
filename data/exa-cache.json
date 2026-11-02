@@ -4497,23 +4497,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "Sheer | Report #2337938 - Cleartext Transmission of password via Email | HackerOne",
             "url": "https://hackerone.com/reports/2337938",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "Sheer | Report #2337938 - Cleartext Transmission of password via Email | HackerOne\n\nTimeline \n\ntuannq_gg\n\n submitted a report to Sheer.\n\nJanuary 28, 2024, 2:57pm UTC\n\n## Summary:\n\nAfter successfully s",
             "published": null,
             "score": 1
           },
           {
             "title": "Sheer Bug Bounty Program Statistics | BugBountyHunter.com",
             "url": "https://www.bugbountyhunter.com/program?id=sheer_bbp",
-            "snippet": "Sheer Bug Bounty Program Statistics | BugBountyHunter.com\n\n- Getting started\n\n Learn about vulnerability types Getting started in bug bounties \n- Test your knowledge\n\n Free Web Application Challenges ",
+            "snippet": "Sheer Bug Bounty Program Statistics | BugBountyHunter.com\n\n### Sheer Program Statistics\n\n 1 total issues disclosed \n\n $150 total paid publicly \n\n Most disclosed (1 disclosures) — `Cleartext Transmissi",
             "published": null,
             "score": 0.5
           },
           {
             "title": "Sheer | Hacktivity | HackerOne",
             "url": "https://hackerone.com/sheer_bbp/hacktivity",
-            "snippet": "Sheer | Hacktivity | HackerOne\n\nSheer\n\n$310\n\nBug reported by\n\nwizbdy\n\nwas awarded a bounty\n\n2 months ago\n\n$310\n\nSheer\n\n$3,000\n\nBug reported by\n\nerrorinhuman\n\nwas awarded a bounty\n\n$3,000\n\nSheer\n\n$150\n",
+            "snippet": "Sheer | Hacktivity | HackerOne\n\nSheer\n\nBug reported by\n\nopen89\n\nwas awarded a bounty\n\n7 days ago\n\nSheer\n\n$310\n\nBug reported by\n\nwizbdy\n\nwas awarded a bounty\n\n$310\n\nSheer\n\n$3,000\n\nerrorinhuman\n\nwas awa",
             "published": null,
             "score": 0
           }
@@ -4523,30 +4523,30 @@
           {
             "title": "0xShe/CVE-2026-31431",
             "url": "https://github.com/0xShe/CVE-2026-31431",
-            "snippet": "# 0xShe/CVE-2026-31431\n\n- Stars: 43\n- Forks: 20\n- Watchers: 43\n- Open issues: 0\n- Default branch: main\n- Created: 2026-04-30T07:09:23Z\n\n## Languages\n\n- C\n\n## Top Contributors\n\n- 0xShe (7 contributions",
+            "snippet": "# 0xShe/CVE-2026-31431\n\n- Stars: 45\n- Forks: 20\n- Watchers: 45\n- Open issues: 0\n- Default branch: main\n- Created: 2026-04-30T07:09:23Z\n\n## Languages\n\n- C\n\n## Top Contributors\n\n- 0xShe (7 contributions",
             "published": "2026-04-30T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "panchocosil/CVE-2026-65400-poc",
-            "url": "https://github.com/panchocosil/CVE-2026-65400-poc",
-            "snippet": "# panchocosil/CVE-2026-65400-poc\n\nRead-only PoC for CVE-2026-65400 — macOS Screen Sharing (screensharingd) pre-auth SRP bypass giving root file read. Patched in macOS 26.6.1 / 15.7.9 / 14.8.9.\n\n- Star",
+            "title": "0xarno - **Attacker Can Cause DoS in SuperPool Deployment**",
+            "url": "https://github.com/sherlock-audit/2024-08-sentiment-v2-judging/issues/485",
+            "snippet": "# 0xarno - **Attacker Can Cause DoS in SuperPool Deployment**\n\n- State: closed\n- Author: sherlock-admin3\n- Created: 2024-08-24T16:44:56Z\n- Updated: 2024-10-11T19:14:54Z\n- Repository: sherlock-audit/20",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "heads/main/exploit.c",
+            "title": "copy-fail-c/exploit.c at refs/heads/main · tgies/copy-fail-c · GitHub",
             "url": "https://github.com/tgies/copy-fail-c/blob/refs/heads/main/exploit.c",
-            "snippet": "# heads/main/exploit.c\n\n- Branch: refs\n- Repository: tgies/copy-fail-c\n\n---\n\n/* SPDX-License-Identifier: LGPL-2.1-or-later OR MIT */\n/*\n * Copy Fail -- CVE-2026-31431\n * AF_ALG + splice() page-cache-m",
+            "snippet": "copy-fail-c/exploit.c at refs/heads/main · tgies/copy-fail-c · GitHub\n\ntgies\n\nfix: report AF_ALG/authencesn unavailability from exploit droppers\n\nJul 17, 2026\n\n94 lines (82 loc) · 3.64 KB\n\n## File met",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:12.799Z"
+        "enriched_at": "2026-11-02T07:24:57.030Z"
       },
-      "timestamp": "2026-10-21T05:47:14.492Z"
+      "timestamp": "2026-11-02T07:24:58.759Z"
     },
     "vodafone_oman": {
       "intel": {
@@ -4599,9 +4599,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:14.492Z"
+        "enriched_at": "2026-11-02T07:24:58.759Z"
       },
-      "timestamp": "2026-10-21T05:47:16.232Z"
+      "timestamp": "2026-11-02T07:25:00.204Z"
     },
     "frontegg": {
       "intel": {
@@ -4676,9 +4676,9 @@
             "score": 0.5
           },
           {
-            "title": "results/based_on_program/indrive.md",
+            "title": "hackerone-bug-bounty-reports/results/based_on_program/indrive.md at master · codebygk/hackerone-bug-bounty-reports · GitHub",
             "url": "https://github.com/codebygk/hackerone-bug-bounty-reports/blob/master/results/based_on_program/indrive.md",
-            "snippet": "# results/based_on_program/indrive.md\n\n- Branch: master\n- Repository: codebygk/hackerone-bug-bounty-reports\n\n---\n\n## Reports in indrive program:\n| S.No | Title | Bounty |\n| ---- | ----- | ------ |\n| 1",
+            "snippet": "hackerone-bug-bounty-reports/results/based_on_program/indrive.md at master · codebygk/hackerone-bug-bounty-reports · GitHub\n\nAll results updated\n\nOct 13, 2024\n\n21 lines (21 loc) · 2.21 KB\n\n## File met",
             "published": null,
             "score": 0
           }
@@ -4700,18 +4700,18 @@
             "score": 0.5
           },
           {
-            "title": "results/based_on_program/indrive.md",
+            "title": "hackerone-bug-bounty-reports/results/based_on_program/indrive.md at master · codebygk/hackerone-bug-bounty-reports · GitHub",
             "url": "https://github.com/codebygk/hackerone-bug-bounty-reports/blob/master/results/based_on_program/indrive.md",
-            "snippet": "# results/based_on_program/indrive.md\n\n- Branch: master\n- Repository: codebygk/hackerone-bug-bounty-reports\n\n---\n\n## Reports in indrive program:\n| S.No | Title | Bounty |\n| ---- | ----- | ------ |\n| 1",
+            "snippet": "hackerone-bug-bounty-reports/results/based_on_program/indrive.md at master · codebygk/hackerone-bug-bounty-reports · GitHub\n\nAll results updated\n\nOct 13, 2024\n\n21 lines (21 loc) · 2.21 KB\n\n## File met",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:17.923Z"
+        "enriched_at": "2026-11-02T07:25:01.771Z"
       },
-      "timestamp": "2026-10-21T05:47:19.586Z"
+      "timestamp": "2026-11-02T07:25:03.246Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4779,10 +4779,10 @@
             "score": 0.5
           },
           {
-            "title": "ReddCrow12/documents-BBP",
-            "url": "https://github.com/ReddCrow12/documents-BBP",
-            "snippet": "# ReddCrow12/documents-BBP\n\nמחקר מקיף על כל הפריצות הכי משמעותיות ב BBP ששוות יותר מ1000$ ב3 שנים האחרונות\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-",
-            "published": null,
+            "title": "Internet Bug Bounty | Report #139879 - Adobe Flash Player Regular Expression UAF Remote Code Execution Vulnerability | HackerOne",
+            "url": "https://hackerone.com/reports/139879",
+            "snippet": "Internet Bug Bounty | Report #139879 - Adobe Flash Player Regular Expression UAF Remote Code Execution Vulnerability | HackerOne\n\nTimeline \n\nbee13oy\n\n submitted a report to Internet Bug Bounty.\n\nMay 1",
+            "published": "2016-05-19T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -4812,24 +4812,24 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:19.587Z"
+        "enriched_at": "2026-11-02T07:25:03.247Z"
       },
-      "timestamp": "2026-10-21T05:47:21.242Z"
+      "timestamp": "2026-11-02T07:25:04.786Z"
     },
     "mergify": {
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "David | Hacktivity | HackerOne",
             "url": "https://hackerone.com/david96/hacktivity?type=user",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "David | Hacktivity | HackerOne\n\nDavid (david96)\n\nBe humble\n\nSpain\n\nJoined August 2019\n\nStats\n\n90 Days\n\n#### 7.00\n\n#### 99th\n\nPercentile\n\n#### 16.96\n\nImpact\n\n#### 62nd\n\nPercentile\n\n#### 592\n\nReputation",
             "published": null,
             "score": 1
           },
           {
             "title": "cryptographer | Hacktivity | HackerOne",
             "url": "https://hackerone.com/cryptographer/hacktivity?type=user",
-            "snippet": "cryptographer | Hacktivity | HackerOne\n\n (cryptographer)\n\nBe Kind, Be Happy, Be Generous \n\nJoined March 2018\n\nStats\n\n90 Days\n\n#### 4.60\n\n#### 34th\n\nPercentile\n\n#### 21.50\n\nImpact\n\n#### 76th\n\nPercentil",
+            "snippet": "cryptographer | Hacktivity | HackerOne\n\n (cryptographer)\n\nBe Kind, Be Happy, Be Generous \n\nJoined March 2018\n\nStats\n\n90 Days\n\n#### 4.27\n\n#### 32nd\n\nPercentile\n\n#### 20.36\n\nImpact\n\n#### 74th\n\nPercentil",
             "published": null,
             "score": 0.5
           },
@@ -4851,25 +4851,25 @@
             "score": 1
           },
           {
-            "title": "src/test/2024-07/Minterest_exp.sol",
+            "title": "DeFiHackLabs/src/test/2024-07/Minterest_exp.sol at main · SunWeb3Sec/DeFiHackLabs · GitHub",
             "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2024-07/Minterest_exp.sol",
-            "snippet": "# src/test/2024-07/Minterest_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.10;\n\nimport \"forge-std/Test.sol\";\nimport \".",
+            "snippet": "DeFiHackLabs/src/test/2024-07/Minterest_exp.sol at main · SunWeb3Sec/DeFiHackLabs · GitHub\n\nrotcivegaf\n\nadd linea and mantle RPCs\n\nApr 1, 2025\n\n150 lines (136 loc) · 5.17 KB\n\n150 lines (136 loc) · 5.1",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "poc.cpp at main · crisprss/CVE-2023-36874",
-            "url": "https://github.com/crisprss/CVE-2023-36874/blob/main/poc.cpp",
-            "snippet": "# File: crisprss/CVE-2023-36874/poc.cpp\n\n- Repository: crisprss/CVE-2023-36874 | CVE-2023-36874 Proof of Concept | 2 stars\n- Branch: main\n\n```cpp\n#include <Windows.h>\n#include <iostream>\n\ntypedef LONG",
-            "published": null,
+            "title": "GitHub - immunefi-team/hack-analysis-pocs · GitHub",
+            "url": "https://github.com/immunefi-team/hack-analysis-pocs",
+            "snippet": "GitHub - immunefi-team/hack-analysis-pocs · GitHub\n\nNo description, website, or topics provided.\n\nMerge pull request #5 from immunefi-team/janbro-readme-patch-1\n\n18 Commits\n\nOpen commit details\n\n## Fo",
+            "published": "2022-12-23T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:21.242Z"
+        "enriched_at": "2026-11-02T07:25:04.787Z"
       },
-      "timestamp": "2026-10-21T05:47:22.891Z"
+      "timestamp": "2026-11-02T07:25:06.207Z"
     },
     "coinhako": {
       "intel": {
@@ -4955,7 +4955,7 @@
             "title": "Private Bug Bounty Program with Bugcrowd",
             "url": "https://www.arkoselabs.com/news/arkose-labs-announces-private-bug-bounty-program-with-bugcrowd-to-strengthen-fraud-prevention-system",
             "snippet": "Private Bug Bounty Program with Bugcrowd\n\n# Arkose Labs Announces Private Bug Bounty Program with Bugcrowd to Strengthen Fraud Prevention System\n\nJuly 24, 2019\n\nImage courtesy of Help Net Security\n\nAr",
-            "published": "2019-07-24T20:18:36.000Z",
+            "published": "2019-07-24T20:50:03.000Z",
             "score": 1
           },
           {
@@ -4999,9 +4999,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:22.891Z"
+        "enriched_at": "2026-11-02T07:25:06.208Z"
       },
-      "timestamp": "2026-10-21T05:47:24.508Z"
+      "timestamp": "2026-11-02T07:25:07.684Z"
     },
     "alsco": {
       "intel": {
@@ -5009,7 +5009,7 @@
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/alsco/bounty_table_versions",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "HackerOne\n\n## Rewards\n\nDecember 23, 2022, 4:43am UTC\n\n| Low | Medium | High | Critical |\n| --- | --- | --- | --- |\n| $100 | $200 | $300$500 | $1,500$2,500 |\n\nCode• 230 Bytes\n\nIndex: alsco.bounty_table",
             "published": null,
             "score": 1
           },
@@ -5023,7 +5023,7 @@
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/alsco/policy_scopes",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
+            "snippet": "HackerOne\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | --- |\n| sandbox.securegateway.com 1- Check if you can pass t",
             "published": null,
             "score": 0
           }
@@ -5031,32 +5031,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "CVE/CVE-2019-18931 at master · DelspoN/CVE · GitHub",
-            "url": "https://github.com/DelspoN/CVE/tree/master/CVE-2019-18931",
-            "snippet": "CVE/CVE-2019-18931 at master · DelspoN/CVE · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| parent directory.. | | | |\n| README.md |",
-            "published": "2018-10-27T00:00:00.000Z",
+            "title": "GitHub - Sl4cK0TH/CVE-2026-31431-PoC · GitHub",
+            "url": "https://github.com/Sl4cK0TH/CVE-2026-31431-PoC",
+            "snippet": "GitHub - Sl4cK0TH/CVE-2026-31431-PoC · GitHub\n\nDelete .README.md.kate-swp\n\n5 Commits\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| assets ",
+            "published": "2026-04-29T00:00:00.000Z",
             "score": 1
           },
           {
-            "title": "Alucard0x1/CVE-2024-28000",
-            "url": "https://github.com/Alucard0x1/CVE-2024-28000",
-            "snippet": "# Alucard0x1/CVE-2024-28000\n\nLiteSpeed Cache Privilege Escalation PoC\n\n- Stars: 23\n- Forks: 9\n- Watchers: 23\n- Open issues: 1\n- Default branch: main\n- Created: 2024-08-24T05:12:56Z\n\n## Languages\n\n- Py",
+            "title": "kn32/parallels-file-move-privesc",
+            "url": "https://github.com/kn32/parallels-file-move-privesc",
+            "snippet": "# kn32/parallels-file-move-privesc\n\nParallels Desktop privilege escalation - CVE-2023-50226 / ZDI-CAN-21227\n\n- Stars: 9\n- Forks: 1\n- Watchers: 9\n- Open issues: 0\n- Default branch: main\n- Created: 2023",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "CyberResearchHub/cve_2026_31431_Walkthrough",
-            "url": "https://github.com/CyberResearchHub/cve_2026_31431_Walkthrough",
-            "snippet": "# CyberResearchHub/cve_2026_31431_Walkthrough\n\nExploit POC for CVE_2026_31431 with Detailed Walkthrough\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-05-",
-            "published": null,
+            "title": "CVE/CVE-2019-18931 at master · DelspoN/CVE · GitHub",
+            "url": "https://github.com/DelspoN/CVE/tree/master/CVE-2019-18931",
+            "snippet": "CVE/CVE-2019-18931 at master · DelspoN/CVE · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| parent directory.. | | | |\n| README.md |",
+            "published": "2018-10-27T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:24.508Z"
+        "enriched_at": "2026-11-02T07:25:07.684Z"
       },
-      "timestamp": "2026-10-21T05:47:26.152Z"
+      "timestamp": "2026-11-02T07:25:09.201Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5939,24 +5939,24 @@
       "intel": {
         "writeups": [
           {
+            "title": "Yuga Labs Rescues $500,000 Worth of NFTs – Aspire Market Guides",
+            "url": "https://aspiremarketguides.com/cryptocurrency/yuga-labs-rescues-500000-worth-of-nfts/",
+            "snippet": "Yuga Labs Rescues $500,000 Worth of NFTs – Aspire Market Guides\n\n# Yuga Labs Rescues $500,000 Worth of NFTs\n\nBy Charlotte August 22, 2026 2 Mins Read\n\n \n\nYuga Labs extracted 68 NFTs from vulnerable po",
+            "published": "2026-08-22T13:43:28.000Z",
+            "score": 1
+          },
+          {
             "title": "Major NFT Recovery: 36 BAYC and 18 MAYC Tokens Successfully Restored",
             "url": "https://cryptopotato.com/major-nft-recovery-36-bayc-and-18-mayc-tokens-successfully-restored/",
             "snippet": "Major NFT Recovery: 36 BAYC and 18 MAYC Tokens Successfully Restored\n\n# Major NFT Recovery: 36 BAYC and 18 MAYC Tokens Successfully Restored\n\n Yuga Labs co-founder Greg Solano aided the recovery of st",
             "published": "2023-12-18T12:27:02.000Z",
-            "score": 1
+            "score": 0.5
           },
           {
             "title": "Exploit su Flooring Protocol: Yuga Labs salva 68 NFT da $500K - Gammanews",
             "url": "https://www.gammanews.it/exploit-su-flooring-protocol-yuga-labs-salva/",
-            "snippet": "Exploit su Flooring Protocol: Yuga Labs salva 68 NFT da $500K - Gammanews\n\n# Exploit su Flooring Protocol: Yuga Labs salva 68 NFT da $500K\n\nBy\n\nMarco Fontana\n\n - \n\n09/06/2026 10:39\n\nUn bug nei contrat",
+            "snippet": "Exploit su Flooring Protocol: Yuga Labs salva 68 NFT da $500K - Gammanews\n\n# Exploit su Flooring Protocol: Yuga Labs salva 68 NFT da $500K\n\nBy\n\nMarco Fontana\n\n -\n\n09/06/2026 10:39\n\nUn bug nei contratt",
             "published": "2026-06-09T08:39:31.000Z",
-            "score": 0.5
-          },
-          {
-            "title": "Flooring Protocol Exploit Puts BAYC, CryptoPunks NFTs at Risk",
-            "url": "https://bitcoinfoundation.org/news/nft/flooring-protocol-exploit-put-bored-apes-cryptopunks-nfts-at-risk/",
-            "snippet": "Flooring Protocol Exploit Puts BAYC, CryptoPunks NFTs at Risk\n\n# Flooring Protocol Exploit Put Bored Apes, CryptoPunks NFTs at Risk\n\n Denis O. \n\n 8 June 2026 3 min read \n\n BTC price on Oct 20, 2026 at",
-            "published": "2026-06-08T11:29:00.000Z",
             "score": 0
           }
         ],
@@ -5970,47 +5970,47 @@
             "score": 1
           },
           {
-            "title": "2026/2026-06-07_FlooringProtocol_BT404GhostOwnershipUnderflow_ETH.md",
-            "url": "https://github.com/kismp123/DeFi-Security-Incident/blob/main/2026/2026-06-07_FlooringProtocol_BT404GhostOwnershipUnderflow_ETH.md",
-            "snippet": "# 2026/2026-06-07_FlooringProtocol_BT404GhostOwnershipUnderflow_ETH.md\n\n- Branch: main\n- Repository: kismp123/DeFi-Security-Incident\n\n---\n\n# Flooring Protocol — BT404 Ghost-Ownership Underflow Exploit",
+            "title": "disclosures/2020-10-30.md",
+            "url": "https://github.com/yearn/yearn-security/blob/master/disclosures/2020-10-30.md",
+            "snippet": "# disclosures/2020-10-30.md\n\n- Branch: master\n- Repository: yearn/yearn-security\n\n---\n\n# Vulnerability disclosure 2020-10-30\n\n## Summary\n\n- A potential vulnerability was mitigated ~1.5 hours after bei",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Vault treats all tokens exactly the same that creates (huge) arbitrage opportunities.",
-            "url": "https://github.com/code-423n4/2021-09-yaxis-findings/issues/2",
-            "snippet": "# Vault treats all tokens exactly the same that creates (huge) arbitrage opportunities.\n\n- State: open\n- Author: code423n4\n- Created: 2021-09-11T08:58:40Z\n- Updated: 2021-10-14T14:33:36Z\n- Repository:",
+            "title": "DeFi-Security-Incident/2026/2026-06-07_FlooringProtocol_BT404GhostOwnershipUnderflow_ETH.md at main · kismp123/DeFi-Security-Incident · GitHub",
+            "url": "https://github.com/kismp123/DeFi-Security-Incident/blob/main/2026/2026-06-07_FlooringProtocol_BT404GhostOwnershipUnderflow_ETH.md",
+            "snippet": "DeFi-Security-Incident/2026/2026-06-07_FlooringProtocol_BT404GhostOwnershipUnderflow_ETH.md at main · kismp123/DeFi-Security-Incident · GitHub\n\nand\n\nfeat: add 10 May–Jun 2026 incidents (810→820), veri",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:27.825Z"
+        "enriched_at": "2026-11-02T07:25:10.668Z"
       },
-      "timestamp": "2026-10-21T05:47:29.488Z"
+      "timestamp": "2026-11-02T07:25:12.191Z"
     },
     "abercrombie_fitch_bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "Caner | Hacktivity | HackerOne",
             "url": "https://hackerone.com/xzemit42/hacktivity?type=user",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "Caner | Hacktivity | HackerOne\n\nCaner (xzemit42)\n\nJoined November 2021\n\nStats\n\n90 Days\n\n#### 6.79\n\n#### 51st\n\nPercentile\n\n#### 19.64\n\nImpact\n\n#### 72nd\n\nPercentile\n\n#### 9721\n\nReputation\n\n#### 4th\n\nRa",
             "published": null,
             "score": 1
           },
           {
-            "title": "HackerOne",
+            "title": "solver1 | Profile | HackerOne",
             "url": "https://hackerone.com/solver1",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "solver1 | Profile | HackerOne\n\n (solver1)\n\nJoined February 2014\n\nStats\n\n90 Days\n\n#### -\n\nPercentile\n\nImpact\n\nPercentile\n\nReputation\n\nRank\n\n## 0 months streak!\n\nJan\n\nFeb\n\nMar\n\nApr\n\nMay\n\nJun\n\nJul\n\nAug\n\n",
             "published": null,
             "score": 0.5
           },
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/abercrombie_fitch/policy_scopes",
-            "snippet": "HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0'?%3e%3csvg%2",
+            "snippet": "HackerOne\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | --- |\n| hollisterco.com No credentials are required or provi",
             "published": null,
             "score": 0
           }
@@ -6041,9 +6041,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:26.153Z"
+        "enriched_at": "2026-11-02T07:25:09.201Z"
       },
-      "timestamp": "2026-10-21T05:47:27.825Z"
+      "timestamp": "2026-11-02T07:25:10.668Z"
     },
     "wolt": {
       "intel": {
@@ -6331,16 +6331,16 @@
             "score": 1
           },
           {
-            "title": "BS2010-AirborneTroops/NEXT-SSRF",
-            "url": "https://github.com/BS2010-AirborneTroops/NEXT-SSRF",
-            "snippet": "# BS2010-AirborneTroops/NEXT-SSRF\n\nSSRF — CVE-2026-44578 Scanner & Exploit ║ ║ Next.js WebSocket Upgrade Handler SSRF\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Cre",
+            "title": "Our $1 million hacker challenge for React2Shell",
+            "url": "https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell",
+            "snippet": "# Our $1 million hacker challenge for React2Shell\n\nPublished: December 19, 2025 | Authors: Malte Ubl | Category: Security\n\n---\n\nIn the weeks following React2Shell's disclosure, our firewall blocked ov",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "ynsmroztas/nextssrf",
-            "url": "https://github.com/ynsmroztas/nextssrf",
-            "snippet": "# ynsmroztas/nextssrf\n\nNextSSRF — CVE-2026-44578 Scanner & Exploit ║ ║ Next.js WebSocket Upgrade Handler SSRF\n\n- Stars: 77\n- Forks: 21\n- Watchers: 77\n- Open issues: 2\n- Default branch: main\n- Created:",
+            "title": "nextjs-horror/recon-results.md at main · LeonMotaung/nextjs-horror · GitHub",
+            "url": "https://github.com/LeonMotaung/nextjs-horror/blob/main/recon-results.md",
+            "snippet": "nextjs-horror/recon-results.md at main · LeonMotaung/nextjs-horror · GitHub\n\nLeonMotaung\n\nInitial commit\n\nDec 7, 2025\n\n222 lines (170 loc) · 5.31 KB\n\n222 lines (170 loc) · 5.31 KB\n\n## 🎯 Target Confir",
             "published": null,
             "score": 0
           }
@@ -6348,9 +6348,9 @@
         "twitter": [],
         "github": [
           {
-            "title": "poc/README.md",
+            "title": "next-16.2.4-pocs/poc/README.md at base · dwisiswant0/next-16.2.4-pocs · GitHub",
             "url": "https://github.com/dwisiswant0/next-16.2.4-pocs/blob/base/poc/README.md",
-            "snippet": "# poc/README.md\n\n- Branch: base\n- Repository: dwisiswant0/next-16.2.4-pocs\n\n---\n\n# Next.js v16.2.4 → v16.2.5 — Reverse-Engineered PoC Collection\n\n| | |\n|---|---|\n| **Author** | dwi.siswanto@projectdis",
+            "snippet": "next-16.2.4-pocs/poc/README.md at base · dwisiswant0/next-16.2.4-pocs · GitHub\n\ndwisiswant0\n\nfeat: add nuclei templates\n\nMay 8, 2026\n\n206 lines (152 loc) · 13.2 KB\n\n## File metadata and controls\n\n206 ",
             "published": null,
             "score": 1
           },
@@ -6362,18 +6362,18 @@
             "score": 0.5
           },
           {
-            "title": "duduLiu8787/react2shell-scanner",
-            "url": "https://github.com/duduLiu8787/react2shell-scanner",
-            "snippet": "# duduLiu8787/react2shell-scanner\n\nHigh Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: maste",
+            "title": "e25555ba8e92987ca32f55640247329f",
+            "url": "https://gist.github.com/AzureFlow/e25555ba8e92987ca32f55640247329f?permalink_comment_id=5505092",
+            "snippet": "# e25555ba8e92987ca32f55640247329f\n\n- Owner: AzureFlow\n- Created: 2024-03-14T01:39:21Z\n- Public: yes\n- Comments: 1\n- Forks: 0\n\n## vercel-pow.js\n\nLanguage: JavaScript\n\nconst { webcrypto: crypto } = req",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-21T05:47:16.233Z"
+        "enriched_at": "2026-11-02T07:25:00.204Z"
       },
-      "timestamp": "2026-10-21T05:47:17.922Z"
+      "timestamp": "2026-11-02T07:25:01.771Z"
     },
     "live_nation": {
       "intel": {
@@ -6596,5 +6596,5 @@
       "timestamp": "2026-10-31T06:44:36.538Z"
     }
   },
-  "lastRun": "2026-11-01T07:12:15.955Z"
+  "lastRun": "2026-11-02T07:25:12.191Z"
 }
