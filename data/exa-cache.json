@@ -1808,17 +1808,17 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-27T06:02:51.154Z"
+        "enriched_at": "2026-11-03T07:40:57.795Z"
       },
-      "timestamp": "2026-10-27T06:02:52.826Z"
+      "timestamp": "2026-11-03T07:40:59.246Z"
     },
     "braze_inc": {
       "intel": {
         "writeups": [
           {
-            "title": "How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gateways On A Web3 Platform. | by D0loresH4ze | Medium",
+            "title": "Medium",
             "url": "https://d0loreh4z3.medium.com/how-we-prevented-a-mass-breach-on-one-of-the-biggest-cryptocurrency-gateways-on-a-web3-platform-2d8393070b10",
-            "snippet": "How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gateways On A Web3 Platform. | by D0loresH4ze | Medium\n\n# How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gatewa",
+            "snippet": "Medium\n\n# How We Prevented a Mass Breach On One OF The Biggest CryptoCurrency Gateways On A Web3 Platform.\n\nD0loresH4ze\n\nApr 26, 2024\n\nLet’s get into the story directly\n\nMe And My Friend Abdelrahman S",
             "published": "2024-04-26T15:36:03.000Z",
             "score": 1
           },
@@ -1840,32 +1840,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "kushaln3/brave-rewards-exploit-analysis",
+            "title": "GitHub - kushaln3/brave-rewards-exploit-analysis: Vulnerability in Brave Browser's Reward system and how I exploited it to Farm Cryptocurrency. Uses Python automation to bypass ad-view limits via profile isolation exploitation and mass tipping. · GitHub",
             "url": "https://github.com/kushaln3/brave-rewards-exploit-analysis",
-            "snippet": "# kushaln3/brave-rewards-exploit-analysis\n\nVulnerability in Brave Browser's Reward system and how I exploited it to Farm Cryptocurrency. Uses Python automation to bypass ad-view limits via profile iso",
+            "snippet": "GitHub - kushaln3/brave-rewards-exploit-analysis: Vulnerability in Brave Browser's Reward system and how I exploited it to Farm Cryptocurrency. Uses Python automation to bypass ad-view limits via prof",
             "published": null,
             "score": 1
           },
           {
-            "title": "README.md",
+            "title": "CVE-2026-3844/README.md at main · tausifzaman/CVE-2026-3844 · GitHub",
             "url": "https://github.com/tausifzaman/CVE-2026-3844/blob/main/README.md",
-            "snippet": "# README.md\n\n- Branch: main\n- Repository: tausifzaman/CVE-2026-3844\n\n---\n\n# CVE-2026-3844\nPoC exploit for CVE-2026-3844, a critical unauthenticated file upload vulnerability in the WordPress Breeze pl",
-            "published": null,
+            "snippet": "CVE-2026-3844/README.md at main · tausifzaman/CVE-2026-3844 · GitHub\n\ntausifzaman\n\nUpdate README with CVE-2026-3844 details\n\nApr 24, 2026\n\n350 lines (248 loc) · 13 KB\n\n350 lines (248 loc) · 13 KB\n\n# C",
+            "published": "2026-04-24T10:26:40.000Z",
             "score": 0.5
           },
           {
-            "title": "README.md",
+            "title": "pocindex/README.md at main · 0xMarcio/pocindex · GitHub",
             "url": "https://github.com/0xMarcio/cve/blob/main/README.md",
-            "snippet": "# README.md\n\n- Branch: main\n- Repository: 0xMarcio/pocindex\n\n---\n\n \n\n \n\nlast sync CI CVEs with PoCs known exploited stars\n\n \n\n \n\n**PoC Index**: Search public CVE proof-of-concept exploits from GitHub,",
+            "snippet": "pocindex/README.md at main · 0xMarcio/pocindex · GitHub\n\n186 lines (150 loc) · 20.2 KB\n\n186 lines (150 loc) · 20.2 KB\n\n \n\nPoC Index: Search public CVE proof-of-concept exploits from GitHub, Nuclei, Ex",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-27T06:02:52.826Z"
+        "enriched_at": "2026-11-03T07:40:59.246Z"
       },
-      "timestamp": "2026-10-27T06:02:54.427Z"
+      "timestamp": "2026-11-03T07:41:00.683Z"
     },
     "kong": {
       "intel": {
@@ -1926,16 +1926,16 @@
       "intel": {
         "writeups": [
           {
-            "title": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium",
+            "title": "Medium",
             "url": "https://cyphernova1337.medium.com/unveiling-a-covert-redirect-the-unicode-vulnerability-in-whoop-coms-infrastructure-45303d5c7208",
-            "snippet": "Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | by CypherNova1337 | Medium\n\n# Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructur",
+            "snippet": "Medium\n\n# Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure\n\nCypherNova1337\n\nJul 25, 2025\n\nPress enter or click to view image in full size\n\nAs an ethical hacker dedi",
             "published": "2025-07-25T13:55:31.000Z",
             "score": 1
           },
           {
-            "title": "HackerOne",
+            "title": "Whoop Bug Bounty | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/whoop_bug_bounty?type=team",
-            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "snippet": "Whoop Bug Bounty | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nSig",
             "published": null,
             "score": 0.5
           },
@@ -1973,9 +1973,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-27T06:02:56.059Z"
+        "enriched_at": "2026-11-03T07:41:00.683Z"
       },
-      "timestamp": "2026-10-27T06:02:57.754Z"
+      "timestamp": "2026-11-03T07:41:02.152Z"
     },
     "hubspot": {
       "intel": {
@@ -1984,7 +1984,7 @@
             "title": "CVE-2026-24559 - Integration for Contact Form 7 HubSpot <= 1.4.3 - Authenticated (Subscriber+) Information Exposure",
             "url": "https://notcve.org/cve/CVE-2026-24559",
             "snippet": "CVE-2026-24559 - Integration for Contact Form 7 HubSpot <= 1.4.3 - Authenticated (Subscriber+) Information Exposure\n\n# CVE-2026-24559 Copy ID\n\nIntegration for Contact Form 7 HubSpot <= 1.4.3 - Authent",
-            "published": "2026-01-23T18:53:43.000Z",
+            "published": "2026-01-23T20:38:19.000Z",
             "score": 1
           },
           {
@@ -1997,7 +1997,7 @@
           {
             "title": "CVE Record: CVE-2026-57736",
             "url": "https://www.cve.org/CVERecord?id=CVE-2026-57736",
-            "snippet": "CVE Record: CVE-2026-57736\n\nexpand\n\nUpdated: 2026-07-01\n\n#### Description\n\nInsertion of Sensitive Information Into Sent Data vulnerability in HubSpot allows Retrieve Embedded Sensitive Data. This issu",
+            "snippet": "CVE Record: CVE-2026-57736\n\nSkip to main content\n\n---\n\n## Required CVE Record Information\n\n## Authorized Data Publishers\n\nCVE Record: CVE-2026-57736\nOpens in a new window Opens an external website Ope",
             "published": null,
             "score": 0
           }
@@ -2012,25 +2012,25 @@
             "score": 1
           },
           {
+            "title": "Insertion of Sensitive Information Into Sent Data... · CVE-2026-57736 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/GHSA-j6hf-cv7p-rr4m",
+            "snippet": "Insertion of Sensitive Information Into Sent Data... · CVE-2026-57736 · GitHub Advisory Database · GitHub\n\n High severity Unreviewed \n\n Published \n\nJul 1, 2026\n\n to the GitHub Advisory Database • Upda",
+            "published": "2026-07-01T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
             "title": "pp/hubspot.md",
             "url": "https://github.com/BlackFan/client-side-prototype-pollution/blob/master/pp/hubspot.md",
             "snippet": "# pp/hubspot.md\n\n- Branch: master\n- Repository: BlackFan/client-side-prototype-pollution\n\n---\n\n## HubSpot Tracking Code \n \nURL: https://knowledge.hubspot.com/reports/install-the-hubspot-tracking-code ",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "fix(hubspot-takeover): use header-based detection for NotFoundResolver",
-            "url": "https://github.com/projectdiscovery/nuclei-templates/pull/15583",
-            "snippet": "# fix(hubspot-takeover): use header-based detection for NotFoundResolver\n\n- State: merged\n- Author: SrFlipFlop\n- Created: 2026-03-10T11:45:27Z\n- Updated: 2026-03-26T00:30:10Z\n- Repository: projectdisc",
-            "published": "2026-03-10T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-27T06:02:57.755Z"
+        "enriched_at": "2026-11-03T07:41:02.152Z"
       },
-      "timestamp": "2026-10-27T06:02:59.339Z"
+      "timestamp": "2026-11-03T07:41:03.629Z"
     },
     "oppo_bbp": {
       "intel": {
@@ -2043,17 +2043,17 @@
             "score": 1
           },
           {
-            "title": "Cracking ATO in Oppo with a Simple Trick! | by Abdelrahman Y. (DbgMan) | Medium",
+            "title": "Medium",
             "url": "https://medium.com/@DbgMan/cracking-ato-in-oppo-with-a-simple-trick-98c27f8d2b3a",
-            "snippet": "Cracking ATO in Oppo with a Simple Trick! | by Abdelrahman Y. (DbgMan) | Medium\n\n# Cracking ATO in Oppo with a Simple Trick!\n\nAbdelrahman Y. (DbgMan)\n\nMar 5, 2025\n\nPress enter or click to view image i",
+            "snippet": "Medium\n\ni just do what i love ,,,New Blog => https://0xdbgman.github.io\n\n# Cracking ATO in Oppo with a Simple Trick!\n\nAbdelrahman Y. (DbgMan)\n\nMar 5, 2025\n\nPress enter or click to view image in full s",
             "published": "2025-03-05T21:46:55.000Z",
             "score": 0.5
           },
           {
-            "title": "Medium",
-            "url": "https://medium.com/@shibinbshaji007/a-long-overdue-write-up-how-i-got-into-the-oppo-hall-of-fame-bac95ee44a4e",
-            "snippet": "MediumA Long Overdue Write-up: How I got into the Oppo Hall of Fame | by Shibin B Shaji | Medium\n\nSign up\n\nGet app\n\nSign up\n\n## Shibin B Shaji\n\niOS Pentester | Gamer | Designer\n\n# A Long Overdue Write",
-            "published": "2020-05-29T13:29:13.000Z",
+            "title": "oppo某内部论坛从代码泄露到shell | wooyun-2016-0193302| WooYun.org",
+            "url": "https://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0193302",
+            "snippet": "oppo某内部论坛从代码泄露到shell | wooyun-2016-0193302| WooYun.org \n\n乌云(WooYun.org)历史漏洞查询--- http://wy.zone.ci/\n\n### 缺陷编号： wooyun-2016-0193302 \n\n### 漏洞作者： kobin97\n\n### 提交时间：2016-04-06 22:22\n\n### 修复时间：2016-05-22 1",
+            "published": "2016-05-22T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2067,9 +2067,9 @@
             "score": 1
           },
           {
-            "title": "soralis0912/CVE-2026-43499-pmg110-root",
+            "title": "GitHub - soralis0912/CVE-2026-43499-pmg110-root · GitHub",
             "url": "https://github.com/soralis0912/pmg110-root",
-            "snippet": "# soralis0912/CVE-2026-43499-pmg110-root\n\n- Stars: 5\n- Forks: 0\n- Watchers: 5\n- Open issues: 1\n- Default branch: master\n- Created: 2026-07-27T07:18:47Z\n\n## Languages\n\n- Assembly\n- C\n- Makefile\n- Pytho",
+            "snippet": "GitHub - soralis0912/CVE-2026-43499-pmg110-root · GitHub\n\nsoralis0912\n\n3 Commits\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| out | out |",
             "published": null,
             "score": 0.5
           },
@@ -2083,9 +2083,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-27T06:02:59.339Z"
+        "enriched_at": "2026-11-03T07:41:03.629Z"
       },
-      "timestamp": "2026-10-27T06:03:00.928Z"
+      "timestamp": "2026-11-03T07:41:05.061Z"
     },
     "1password_ctf": {
       "intel": {
@@ -2160,10 +2160,10 @@
             "score": 0.5
           },
           {
-            "title": "# Full Vault Decryption: Cracking the 1Password Security Challenge | by Fazul Rehman | Apr, 2026 | Medium",
-            "url": "https://medium.com/@fazul1324/full-vault-decryption-cracking-the-1password-security-challenge-c7233f7fc9d6",
-            "snippet": "# Full Vault Decryption: Cracking the 1Password Security Challenge | by Fazul Rehman | Apr, 2026 | Medium\n\nFazul Rehman\n\nApr 15, 2026\n\nPress enter or click to view image in full size\n\n# Full Vault Dec",
-            "published": "2026-04-15T06:54:59.000Z",
+            "title": "DOM-based Extension Clickjacking: Your Password Manager Data at Risk | Marek Tóth",
+            "url": "https://marektoth.com/blog/dom-based-extension-clickjacking/",
+            "snippet": "DOM-based Extension Clickjacking: Your Password Manager Data at Risk | Marek Tóth \n\n## DOM-based Extension Clickjacking: Your Password Manager Data at Risk\n\n##### 9 August 2025 (Updated: 14 January 20",
+            "published": "2025-08-09T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -2193,9 +2193,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-27T06:03:00.929Z"
+        "enriched_at": "2026-11-03T07:41:05.061Z"
       },
-      "timestamp": "2026-10-27T06:03:02.503Z"
+      "timestamp": "2026-11-03T07:41:06.545Z"
     },
     "bcny": {
       "intel": {
@@ -2215,10 +2215,10 @@
             "score": 0.5
           },
           {
-            "title": "How we’re investing in security at The Browser Company – Arc",
-            "url": "https://arc.net/blog/investing-in-security",
-            "snippet": "How we’re investing in security at The Browser Company – Arc\n\n# Investing in Security at The Browser Company\n\nTag: Security Bulletin Published: September 27, 2024 at 5:23 PM\n\nHi there, Josh here, CEO ",
-            "published": "2024-09-27T17:23:00.000Z",
+            "title": "Arc Browser Announces Bug Bounty Program Following RCE Vulnerability",
+            "url": "https://cybernoz.com/arc-browser-announces-bug-bounty-program-following-rce-vulnerability/",
+            "snippet": "# Arc Browser Announces Bug Bounty Program Following RCE Vulnerability\n\nTable of Contents\n\n1. CVE-2024-45489: A Swift Response\n2. Launch of the Bug Bounty Program\n3. Further Mitigations and Internal I",
+            "published": null,
             "score": 0
           }
         ],
@@ -2248,9 +2248,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-27T06:03:02.503Z"
+        "enriched_at": "2026-11-03T07:41:06.546Z"
       },
-      "timestamp": "2026-10-27T06:03:04.074Z"
+      "timestamp": "2026-11-03T07:41:08.242Z"
     },
     "verily_life_sciences": {
       "intel": {
@@ -2258,7 +2258,7 @@
           {
             "title": "Verily Life Sciences | Updates | HackerOne",
             "url": "https://hackerone.com/verily_life_sciences/updates",
-            "snippet": "Verily Life Sciences | Updates | HackerOne\n\n2026-10-20\n\nOctober 20th, 2026 (6 days ago)\n\nWe are still in the process of hiring a replacement for Detectorist, we are actively interviewing and should ho",
+            "snippet": "Verily Life Sciences | Updates | HackerOne\n\n2026-10-20\n\nOctober 20th, 2026 (13 days ago)\n\nWe are still in the process of hiring a replacement for Detectorist, we are actively interviewing and should h",
             "published": null,
             "score": 1
           },
@@ -2303,9 +2303,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-27T06:03:04.074Z"
+        "enriched_at": "2026-11-03T07:41:08.243Z"
       },
-      "timestamp": "2026-10-27T06:03:05.675Z"
+      "timestamp": "2026-11-03T07:41:09.668Z"
     },
     "neon_bbp": {
       "intel": {
@@ -4112,10 +4112,10 @@
       "intel": {
         "writeups": [
           {
-            "title": "KzuLMO/OAuth-CSRF-Account-Takeover-1win",
+            "title": "GitHub - KzuLMO/OAuth-CSRF-Account-Takeover-1win: Independent discovery of a High-severity OAuth CSRF vulnerability affecting all 7 social login providers on 1win.com — missing state validation, CAPTCHA bypass, and PKCE secret leak. Reported via HackerOne, confirmed valid, closed as duplicate. · GitHub",
             "url": "https://github.com/KzuLMO/OAuth-CSRF-Account-Takeover-1win",
-            "snippet": "# KzuLMO/OAuth-CSRF-Account-Takeover-1win\n\nIndependent discovery of a High-severity OAuth CSRF vulnerability affecting all 7 social login providers on 1win.com — missing state validation, CAPTCHA bypa",
-            "published": null,
+            "snippet": "GitHub - KzuLMO/OAuth-CSRF-Account-Takeover-1win: Independent discovery of a High-severity OAuth CSRF vulnerability affecting all 7 social login providers on 1win.com — missing state validation, CAPTC",
+            "published": "2026-04-08T10:46:11.000Z",
             "score": 1
           },
           {
@@ -4136,10 +4136,10 @@
         "twitter": [],
         "github": [
           {
-            "title": "KzuLMO/OAuth-CSRF-Account-Takeover-1win",
+            "title": "GitHub - KzuLMO/OAuth-CSRF-Account-Takeover-1win: Independent discovery of a High-severity OAuth CSRF vulnerability affecting all 7 social login providers on 1win.com — missing state validation, CAPTCHA bypass, and PKCE secret leak. Reported via HackerOne, confirmed valid, closed as duplicate. · GitHub",
             "url": "https://github.com/KzuLMO/OAuth-CSRF-Account-Takeover-1win",
-            "snippet": "# KzuLMO/OAuth-CSRF-Account-Takeover-1win\n\nIndependent discovery of a High-severity OAuth CSRF vulnerability affecting all 7 social login providers on 1win.com — missing state validation, CAPTCHA bypa",
-            "published": null,
+            "snippet": "GitHub - KzuLMO/OAuth-CSRF-Account-Takeover-1win: Independent discovery of a High-severity OAuth CSRF vulnerability affecting all 7 social login providers on 1win.com — missing state validation, CAPTC",
+            "published": "2026-04-08T10:46:11.000Z",
             "score": 1
           },
           {
@@ -4159,9 +4159,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-27T06:02:49.330Z"
+        "enriched_at": "2026-11-03T07:40:56.091Z"
       },
-      "timestamp": "2026-10-27T06:02:51.153Z"
+      "timestamp": "2026-11-03T07:40:57.795Z"
     },
     "wisdomtree": {
       "intel": {
@@ -5134,39 +5134,39 @@
             "title": "Modern Treasury Journal - Edge Cases in Complex Payment Operations",
             "url": "https://www.moderntreasury.com/journal/edge-cases-in-complex-payment-operations",
             "snippet": "Modern Treasury Journal - Edge Cases in Complex Payment Operations\n\n• July 1, 2022\n\n# Edge Cases in Complex Payment Operations\n\nPayment operations is complicated. Technical challenges can arise for my",
-            "published": "2022-07-01T01:49:34.000Z",
+            "published": "2022-07-01T06:39:44.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "src/test/2024-07/Minterest_exp.sol",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2024-07/Minterest_exp.sol",
-            "snippet": "# src/test/2024-07/Minterest_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.10;\n\nimport \"forge-std/Test.sol\";\nimport \".",
+            "title": "A Malicious Treasury Manager Can Burn Treasury Tokens By Setting `makerFee` To The Amount The Maker Receives",
+            "url": "https://github.com/code-423n4/2022-01-notional-findings/issues/230",
+            "snippet": "# A Malicious Treasury Manager Can Burn Treasury Tokens By Setting `makerFee` To The Amount The Maker Receives\n\n- State: open\n- Author: code423n4\n- Created: 2022-02-03T00:22:29Z\n- Updated: 2022-02-16T",
             "published": null,
             "score": 1
           },
           {
-            "title": "artifacts/analysis_0xb469a24ec737be16fe41367a7b5b315c7f03b4e0ff3af50b3a2db03b3066b982/0x9a17a918a5ee23f36d0107eab0effd77d14e7fd0/recovered.sol",
-            "url": "https://github.com/DarkNavySecurity/web3-exploit-analysis/blob/main/artifacts/analysis_0xb469a24ec737be16fe41367a7b5b315c7f03b4e0ff3af50b3a2db03b3066b982/0x9a17a918a5ee23f36d0107eab0effd77d14e7fd0/recovered.sol",
-            "snippet": "# artifacts/analysis_0xb469a24ec737be16fe41367a7b5b315c7f03b4e0ff3af50b3a2db03b3066b982/0x9a17a918a5ee23f36d0107eab0effd77d14e7fd0/recovered.sol\n\n- Branch: main\n- Repository: DarkNavySecurity/web3-exp",
+            "title": "DeFiHackLabs/src/test/2024-07/Minterest_exp.sol at main · SunWeb3Sec/DeFiHackLabs · GitHub",
+            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2024-07/Minterest_exp.sol",
+            "snippet": "DeFiHackLabs/src/test/2024-07/Minterest_exp.sol at main · SunWeb3Sec/DeFiHackLabs · GitHub\n\nrotcivegaf\n\nadd linea and mantle RPCs\n\nApr 1, 2025\n\n150 lines (136 loc) · 5.17 KB\n\n150 lines (136 loc) · 5.1",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Treasury module is vulnerable to cross-contract reentrancy",
-            "url": "https://github.com/code-423n4/2022-08-olympus-findings/issues/426",
-            "snippet": "# Treasury module is vulnerable to cross-contract reentrancy\n\n- State: open\n- Author: code423n4\n- Created: 2022-09-01T18:47:32Z\n- Updated: 2022-09-12T22:03:43Z\n- Repository: code-423n4/2022-08-olympus",
+            "title": "web3-exploit-analysis/artifacts/analysis_0xb469a24ec737be16fe41367a7b5b315c7f03b4e0ff3af50b3a2db03b3066b982/0x9a17a918a5ee23f36d0107eab0effd77d14e7fd0/recovered.sol at main · DarkNavySecurity/web3-exploit-analysis · GitHub",
+            "url": "https://github.com/DarkNavySecurity/web3-exploit-analysis/blob/main/artifacts/analysis_0xb469a24ec737be16fe41367a7b5b315c7f03b4e0ff3af50b3a2db03b3066b982/0x9a17a918a5ee23f36d0107eab0effd77d14e7fd0/recovered.sol",
+            "snippet": "web3-exploit-analysis/artifacts/analysis_0xb469a24ec737be16fe41367a7b5b315c7f03b4e0ff3af50b3a2db03b3066b982/0x9a17a918a5ee23f36d0107eab0effd77d14e7fd0/recovered.sol at main · DarkNavySecurity/web3-exp",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-26T05:50:30.602Z"
+        "enriched_at": "2026-11-03T07:41:09.668Z"
       },
-      "timestamp": "2026-10-26T05:50:32.075Z"
+      "timestamp": "2026-11-03T07:41:11.150Z"
     },
     "notion": {
       "intel": {
@@ -6596,5 +6596,5 @@
       "timestamp": "2026-10-31T06:44:36.538Z"
     }
   },
-  "lastRun": "2026-11-02T07:25:12.191Z"
+  "lastRun": "2026-11-03T07:41:11.150Z"
 }
