@@ -2933,7 +2933,7 @@
             "title": "2023-05/2023-05-08-Remote-Denial-of-Service-attack-on-full_nodes.md",
             "url": "https://github.com/Chia-Network/post-mortem/blob/main/2023-05/2023-05-08-Remote-Denial-of-Service-attack-on-full_nodes.md",
             "snippet": "# 2023-05/2023-05-08-Remote-Denial-of-Service-attack-on-full_nodes.md\n\n- Branch: main\n- Repository: Chia-Network/post-mortem\n\n---\n\n# Remote Denial of Service attack on full_nodes\n\n## Issue Summary\n\nFu",
-            "published": "2021-05-10T00:00:00.000Z",
+            "published": "2021-05-10T17:36:28.000Z",
             "score": 0
           }
         ],
@@ -2963,9 +2963,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-29T06:48:43.577Z"
+        "enriched_at": "2026-11-05T07:45:56.266Z"
       },
-      "timestamp": "2026-10-29T06:48:45.171Z"
+      "timestamp": "2026-11-05T07:45:57.988Z"
     },
     "3cx": {
       "intel": {
@@ -3018,9 +3018,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-29T06:48:45.171Z"
+        "enriched_at": "2026-11-05T07:45:57.988Z"
       },
-      "timestamp": "2026-10-29T06:48:46.705Z"
+      "timestamp": "2026-11-05T07:45:59.330Z"
     },
     "privy-bbp": {
       "intel": {
@@ -3028,7 +3028,7 @@
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/privy-bbp/scope_versions",
-            "snippet": "HackerOne\n\n## Scopes\n\n| Type | Identifier | Max. Severity | In Scope | Bounty |\n| --- | --- | --- | --- | --- |\n| Domain | api.privy.io | Critical | Yes | Yes |\n\nChanges are shown in the Unified Diff ",
+            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
             "published": null,
             "score": 1
           },
@@ -3053,7 +3053,7 @@
             "title": "octal-crypto/cipher-privy-script-injection",
             "url": "https://github.com/octal-crypto/cipher-privy-script-injection",
             "snippet": "# octal-crypto/cipher-privy-script-injection\n\n- Stars: 5\n- Forks: 0\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2023-10-02T00:53:35Z\n\n## Languages\n\n- HTML\n- JavaScript\n\n## Top Con",
-            "published": "2023-10-02T00:00:00.000Z",
+            "published": "2023-10-02T00:53:35.000Z",
             "score": 1
           },
           {
@@ -3064,26 +3064,26 @@
             "score": 0.5
           },
           {
-            "title": "Announcing the AZTEC bug bounty, and a bug discovery",
+            "title": "Announcing the AZTEC bug bounty, and a bug discovery · Issue #5 · AztecProtocol/aztec-v1",
             "url": "https://github.com/AztecProtocol/aztec-v1/issues/5",
-            "snippet": "# Announcing the AZTEC bug bounty, and a bug discovery\n\n- State: closed\n- Author: ArnSch\n- Created: 2018-12-03T20:49:56Z\n- Updated: 2020-02-01T03:28:13Z\n- Repository: AztecProtocol/aztec-v1\n- Number: ",
-            "published": "2018-12-03T00:00:00.000Z",
+            "snippet": "Announcing the AZTEC bug bounty, and a bug discovery · Issue #5 · AztecProtocol/aztec-v1\n\n #5\n\n## Description\n\non Dec 3, 2018\n\nOn the 29th of November 2018, we announced proof of concept Zero Knowledg",
+            "published": "2018-12-03T20:49:56.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-29T06:48:46.705Z"
+        "enriched_at": "2026-11-05T07:45:59.330Z"
       },
-      "timestamp": "2026-10-29T06:48:48.209Z"
+      "timestamp": "2026-11-05T07:46:00.727Z"
     },
     "netflix": {
       "intel": {
         "writeups": [
           {
-            "title": "Netflix — Bypassing Multi-Factor Authentication (MFA) | by Lyubomir Tsirkov | Medium",
+            "title": "Medium",
             "url": "https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50",
-            "snippet": "Netflix — Bypassing Multi-Factor Authentication (MFA) | by Lyubomir Tsirkov | Medium\n\n# Netflix — Bypassing Multi-Factor Authentication (MFA)\n\nLyubomir Tsirkov\n\nApr 29, 2023\n\nPress enter or click to v",
+            "snippet": "Medium\n\n# Netflix — Bypassing Multi-Factor Authentication (MFA)\n\nLyubomir Tsirkov\n\nApr 29, 2023\n\nPress enter or click to view image in full size\n\n## Introduction\n\nDuring my participation in Netflix Bu",
             "published": "2023-04-29T08:14:27.000Z",
             "score": 1
           },
@@ -3112,9 +3112,9 @@
             "score": 1
           },
           {
-            "title": "GitHub - Ch4120N/CVE-2026-58138: CVE-2026-58138 — Conductor (3.21.21..<3.30.2) unauthenticated RCE via INLINE GraalVM evaluator (HostAccess.ALL). Lab + PoC, verified e2e (root). · GitHub",
+            "title": "Ch4120N/CVE-2026-58138",
             "url": "https://github.com/Ch4120N/CVE-2026-58138",
-            "snippet": "GitHub - Ch4120N/CVE-2026-58138: CVE-2026-58138 — Conductor (3.21.21..<3.30.2) unauthenticated RCE via INLINE GraalVM evaluator (HostAccess.ALL). Lab + PoC, verified e2e (root). · GitHub\n\n## About\n\nCV",
+            "snippet": "# Ch4120N/CVE-2026-58138\n\nCVE-2026-58138 — Conductor (3.21.21..<3.30.2) unauthenticated RCE via INLINE GraalVM evaluator (HostAccess.ALL). Lab + PoC, verified e2e (root).\n\n- Stars: 2\n- Forks: 0\n- Watc",
             "published": null,
             "score": 0.5
           },
@@ -3128,9 +3128,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-29T06:48:48.209Z"
+        "enriched_at": "2026-11-05T07:46:00.727Z"
       },
-      "timestamp": "2026-10-29T06:48:49.732Z"
+      "timestamp": "2026-11-05T07:46:02.125Z"
     },
     "23andme_bbp": {
       "intel": {
@@ -3167,33 +3167,33 @@
             "score": 1
           },
           {
-            "title": "Large target BugBounty",
-            "url": "https://gist.github.com/shahwarshah/d8431efd95a358d01087d28f0ae47f9f",
-            "snippet": "# Large target BugBounty\n\n- Owner: shahwarshah\n- Created: 2025-12-23T18:45:37Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## target BB\n\n[\n {\n \"program_name\": \"(ISC)²\",\n \"policy_url\": \"https://bugcrowd.co",
+            "title": "BUG_BOUNTY.md",
+            "url": "https://github.com/systeminit/swamp/blob/main/BUG_BOUNTY.md",
+            "snippet": "# BUG_BOUNTY.md\n\n- Branch: main\n- Repository: swamp-club/swamp\n\n---\n\n# Bug Bounty at Swamp Club\n\n**Launch Date:** 27th November, 2024 | **Last updated:** 11th February, 2026\n\nWelcome to the **Swamp Cl",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "programs-list.csv",
-            "url": "https://github.com/yesnet0/bounty/blob/3bed32ee073a0a673a33da8feb8f3af324aefc75/programs-list.csv",
-            "snippet": "# programs-list.csv\n\n- Branch: 3bed32ee073a0a673a33da8feb8f3af324aefc75\n- Repository: yesnet0/bounty\n\n---\n\nprogram_name,policy_url,submission_url,launch_date,bug_bounty,swag,hall_of_fame,safe_harbor \n",
+            "title": "Large target BugBounty",
+            "url": "https://gist.github.com/shahwarshah/d8431efd95a358d01087d28f0ae47f9f",
+            "snippet": "# Large target BugBounty\n\n- Owner: shahwarshah\n- Created: 2025-12-23T18:45:37Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## target BB\n\n[\n {\n \"program_name\": \"(ISC)²\",\n \"policy_url\": \"https://bugcrowd.co",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-29T06:48:49.732Z"
+        "enriched_at": "2026-11-05T07:46:02.125Z"
       },
-      "timestamp": "2026-10-29T06:48:51.320Z"
+      "timestamp": "2026-11-05T07:46:03.517Z"
     },
     "audible": {
       "intel": {
         "writeups": [
           {
-            "title": "BBO513/CVE-2023-7231",
+            "title": "GitHub - BBO513/CVE-2023-7231: PoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain · GitHub",
             "url": "https://github.com/BBO513/CVE-2023-7231",
-            "snippet": "# BBO513/CVE-2023-7231\n\nPoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 1\n- Default branch: main\n- Created: 2025-05-08T05:28:29Z\n\n",
+            "snippet": "GitHub - BBO513/CVE-2023-7231: PoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain · GitHub\n\n## About\n\nFinal payload chain and metadata hit proof from Australia-based SSRF …\n\nMay 27, 202",
             "published": null,
             "score": 1
           },
@@ -3222,25 +3222,25 @@
             "score": 1
           },
           {
-            "title": "BBO513/CVE-2023-7231",
+            "title": "GitHub - BBO513/CVE-2023-7231: PoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain · GitHub",
             "url": "https://github.com/BBO513/CVE-2023-7231",
-            "snippet": "# BBO513/CVE-2023-7231\n\nPoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 1\n- Default branch: main\n- Created: 2025-05-08T05:28:29Z\n\n",
+            "snippet": "GitHub - BBO513/CVE-2023-7231: PoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain · GitHub\n\n## About\n\nFinal payload chain and metadata hit proof from Australia-based SSRF …\n\nMay 27, 202",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "ShamellJordan/audible-recon",
+            "title": "GitHub - ShamellJordan/audible-recon: Full-scope recon case study on Audible’s HackerOne program using whois, amass, and httpx. Over 1,000 subdomains discovered and documented in a legally scoped workflow. · GitHub",
             "url": "https://github.com/ShamellJordan/audible-recon",
-            "snippet": "# ShamellJordan/audible-recon\n\nFull-scope recon case study on Audible’s HackerOne program using whois, amass, and httpx. Over 1,000 subdomains discovered and documented in a legally scoped workflow.\n\n",
+            "snippet": "GitHub - ShamellJordan/audible-recon: Full-scope recon case study on Audible’s HackerOne program using whois, amass, and httpx. Over 1,000 subdomains discovered and documented in a legally scoped work",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-29T06:48:51.320Z"
+        "enriched_at": "2026-11-05T07:46:03.517Z"
       },
-      "timestamp": "2026-10-29T06:48:52.799Z"
+      "timestamp": "2026-11-05T07:46:04.912Z"
     },
     "temu": {
       "intel": {
@@ -3263,32 +3263,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "Jonathanjimenez123/temu-vuln-hunter-pro",
+            "title": "GitHub - Jonathanjimenez123/temu-vuln-hunter-pro: Critical vulnerability chain in Temu: open redirect → reflected XSS → account takeover via stolen session cookies. · GitHub",
             "url": "https://github.com/Jonathanjimenez123/temu-vuln-hunter-pro",
-            "snippet": "# Jonathanjimenez123/temu-vuln-hunter-pro\n\nCritical vulnerability chain in Temu: open redirect → reflected XSS → account takeover via stolen session cookies.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Ope",
-            "published": "2025-07-18T00:00:00.000Z",
+            "snippet": "GitHub - Jonathanjimenez123/temu-vuln-hunter-pro: Critical vulnerability chain in Temu: open redirect → reflected XSS → account takeover via stolen session cookies. · GitHub\n\n## About\n\nJonathanjimenez",
+            "published": "2025-07-18T08:00:55.000Z",
             "score": 1
           },
           {
-            "title": "mapt/6-android-bonus/README.md",
+            "title": "tcm-sec-notes/mapt/6-android-bonus/README.md at main · syselement/tcm-sec-notes · GitHub",
             "url": "https://github.com/syselement/tcm-sec-notes/blob/main/mapt/6-android-bonus/README.md",
-            "snippet": "# mapt/6-android-bonus/README.md\n\n- Branch: main\n- Repository: syselement/tcm-sec-notes\n\n---\n\n# 6. Android Bug Bounty\n\n## Android Bug Bounty Hunt\n\n> ❗ Always refer to a HackerOne Bug Bounty program to",
+            "snippet": "tcm-sec-notes/mapt/6-android-bonus/README.md at main · syselement/tcm-sec-notes · GitHub\n\nsyselement\n\nupdate mapt - Android done\n\nJan 21, 2024\n\n334 lines (229 loc) · 9.06 KB\n\n334 lines (229 loc) · 9.0",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "DevRafaelprogrammer/F5-BIG-IP",
-            "url": "https://github.com/DevRafaelprogrammer/F5-BIG-IP",
-            "snippet": "# DevRafaelprogrammer/F5-BIG-IP\n\nO F5 BIG-IP é uma plataforma de entrega e segurança de aplicações amplamente utilizada em ambientes corporativos. A CVE-2020-5902 é uma vulnerabilidade crítica no TMUI",
+            "title": "sorgloomer/writeup-0ctf-temmo",
+            "url": "https://github.com/sorgloomer/writeup-0ctf-temmo",
+            "snippet": "# sorgloomer/writeup-0ctf-temmo\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: master\n- Created: 2017-03-23T18:20:38Z\n\n## Top Contributors\n\n- sorgloomer (3 contributions)\n\n---",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 5,
-        "enriched_at": "2026-10-29T06:48:52.799Z"
+        "enriched_at": "2026-11-05T07:46:04.912Z"
       },
-      "timestamp": "2026-10-29T06:48:54.382Z"
+      "timestamp": "2026-11-05T07:46:06.285Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -3349,16 +3349,16 @@
             "score": 1
           },
           {
-            "title": "hacks-and-thefts/bybit.md",
+            "title": "lazarus-bluenoroff-research/hacks-and-thefts/bybit.md at main · tayvano/lazarus-bluenoroff-research · GitHub",
             "url": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/hacks-and-thefts/bybit.md",
-            "snippet": "# hacks-and-thefts/bybit.md\n\n- Branch: main\n- Repository: tayvano/lazarus-bluenoroff-research\n\n---\n\n# Bybit\n\nDate:: 2025-02-21\n\nTime:: 14:16 UTC\n\nAmount Stolen: $1,500,000,000\n\nTags:: 👛 TraderTraitor",
+            "snippet": "lazarus-bluenoroff-research/hacks-and-thefts/bybit.md at main · tayvano/lazarus-bluenoroff-research · GitHub\n\ntayvano\n\nbybit multisig updates\n\nNov 23, 2025\n\n381 lines (295 loc) · 19.2 KB\n\n381 lines (2",
             "published": null,
             "score": 0.5
           },
           {
             "title": "Bybit Security Incident: Timeline of Events and FAQs",
             "url": "https://www.bybit.com/en/learn/this-week-in-bybit/bybit-security-incident-timeline",
-            "snippet": "Bybit Security Incident: Timeline of Events and FAQs\n\n# Bybit Security Incident: Timeline of Events and FAQs\n\nB Bybit Learn\n\nMar 3, 2025 \n\nAI Summary\n\nQuickly grasp the article's content and gauge mar",
+            "snippet": "Bybit Security Incident: Timeline of Events and FAQs\n\n# Bybit Security Incident: Timeline of Events and FAQs\n\nB Bybit Learn\n\nMar 3, 2025 \n\nQuickly grasp the article's content and gauge market sentimen",
             "published": "2025-03-03T07:39:40.000Z",
             "score": 0
           }
@@ -3373,25 +3373,25 @@
             "score": 1
           },
           {
-            "title": "hacks-and-thefts/bybit.md",
+            "title": "lazarus-bluenoroff-research/hacks-and-thefts/bybit.md at main · tayvano/lazarus-bluenoroff-research · GitHub",
             "url": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/hacks-and-thefts/bybit.md",
-            "snippet": "# hacks-and-thefts/bybit.md\n\n- Branch: main\n- Repository: tayvano/lazarus-bluenoroff-research\n\n---\n\n# Bybit\n\nDate:: 2025-02-21\n\nTime:: 14:16 UTC\n\nAmount Stolen: $1,500,000,000\n\nTags:: 👛 TraderTraitor",
+            "snippet": "lazarus-bluenoroff-research/hacks-and-thefts/bybit.md at main · tayvano/lazarus-bluenoroff-research · GitHub\n\ntayvano\n\nbybit multisig updates\n\nNov 23, 2025\n\n381 lines (295 loc) · 19.2 KB\n\n381 lines (2",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "Daky/Messiah",
+            "title": "GitHub - Daky/Messiah: prevent next 1.5B hack · GitHub",
             "url": "https://github.com/Daky/Messiah",
-            "snippet": "# Daky/Messiah\n\nprevent next 1.5B hack\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issues: 0\n- License: Apache License 2.0\n- Default branch: main\n- Created: 2025-04-04T06:54:24Z\n\n## Languages\n\n- CSS\n-",
+            "snippet": "GitHub - Daky/Messiah: prevent next 1.5B hack · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| .github/ workflows | .github/ workflo",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-29T06:48:54.382Z"
+        "enriched_at": "2026-11-05T07:46:06.285Z"
       },
-      "timestamp": "2026-10-29T06:48:56.017Z"
+      "timestamp": "2026-11-05T07:46:07.611Z"
     },
     "trip_com": {
       "intel": {
@@ -3399,7 +3399,7 @@
           {
             "title": "Trip.com | Hacktivity | HackerOne",
             "url": "https://hackerone.com/trip_com/hacktivity",
-            "snippet": "Trip.com | Hacktivity | HackerOne\n\nTrip.com\n\nBug reported by\n\nexploitmsf\n\nwas resolved\n\nabout 1 month ago\n\nTrip.com\n\njayesh25\n\nwas resolved\n\nTrip.com\n\ndeehay\n\nTrip.com\n\n$50\n\nyquefue\n\n$50\n\nTrip.com\n\n$2",
+            "snippet": "Trip.com | Hacktivity | HackerOne\n\nTrip.com\n\nBug reported by\n\nexploitmsf\n\nwas resolved\n\n2 months ago\n\nTrip.com\n\njayesh25\n\n2 months ago\n\nTrip.com\n\ndx0\n\ndeehay\n\nCollaboration\n\nTrip.com\n\n$50\n\nyquefue\n\n$5",
             "published": null,
             "score": 1
           },
@@ -3407,13 +3407,6 @@
             "title": "6 ways Trip.com offers outstanding service",
             "url": "https://www.trip.com/pages/security",
             "snippet": "6 ways Trip.com offers outstanding service\n\n# Reporting potential technical concerns and security vulnerabilities related to Trip.com systems\n\nDear all,\n\nWe warmly welcome all security experts or rese",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Trip.com - 25,434 Infostealer Credentials from Cybercrime & Ransomware Hacks | Hudson Rock",
-            "url": "https://www.hudsonrock.com/search/domain/trip.com",
-            "snippet": "Trip.com - 25,434 Infostealer Credentials from Cybercrime & Ransomware Hacks | Hudson Rock\n\n25,434\n\nTotal compromised records\n\nMost recent 1 day ago\n\n12\n\nCompromised employees\n\nLast compromised 400 da",
             "published": null,
             "score": 0
           }
@@ -3435,18 +3428,18 @@
             "score": 0.5
           },
           {
-            "title": "Haxxnet/traefik-CVE-2024-45410-poc",
-            "url": "https://github.com/Haxxnet/traefik-CVE-2024-45410-poc",
-            "snippet": "# Haxxnet/traefik-CVE-2024-45410-poc\n\nA proof of concept of traefik CVE to understand the impact\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-01-31T16:3",
+            "title": "CVE-2019-16261 (UPDATE): Unauthenticated POST requests to Tripp Lite UPS Systems",
+            "url": "https://gist.github.com/Shlucus/ab762d6b148f2d2d046c956526a80ddc",
+            "snippet": "# CVE-2019-16261 (UPDATE): Unauthenticated POST requests to Tripp Lite UPS Systems\n\n- Owner: Shlucus\n- Created: 2025-03-19T16:44:35Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## Report_2025-03-19.md\n\nLa",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-10-29T06:48:56.018Z"
+        "total_results": 5,
+        "enriched_at": "2026-11-05T07:46:07.611Z"
       },
-      "timestamp": "2026-10-29T06:48:57.565Z"
+      "timestamp": "2026-11-05T07:46:08.983Z"
     },
     "bykea": {
       "intel": {
@@ -6513,32 +6506,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "iktok90-design/trezor-cve-2026-65058",
-            "url": "https://github.com/iktok90-design/trezor-cve-2026-65058",
-            "snippet": "# iktok90-design/trezor-cve-2026-65058\n\nSecurity research: Trezor Safe calldata confirmation-binding bypass vulnerability analysis. Educational proof-of-concept for hardware wallet transaction display",
+            "title": "trustsig-eu/wasm2c-tableflip",
+            "url": "https://github.com/trustsig-eu/wasm2c-tableflip",
+            "snippet": "# trustsig-eu/wasm2c-tableflip\n\nwasm2c sandbox escape. An untrusted WebAssembly module breaks out of the generated C sandbox and executes an arbitrary shell command on the host.\n\n- Stars: 5\n- Forks: 0",
             "published": null,
             "score": 1
           },
           {
-            "title": "VAULT: STORAGE COLLISION ATTACK IN DELEGATECALL TO TARGET CONTRACT",
-            "url": "https://github.com/code-423n4/2022-07-fractional-findings/issues/418",
-            "snippet": "# VAULT: STORAGE COLLISION ATTACK IN DELEGATECALL TO TARGET CONTRACT\n\n- State: closed\n- Author: code423n4\n- Created: 2022-07-14T13:38:52Z\n- Updated: 2022-07-26T23:58:10Z\n- Repository: code-423n4/2022-",
+            "title": "GitHub - Jaden-Nix/Verified-Wallet-Audit · GitHub",
+            "url": "https://github.com/Jaden-Nix/Verified-Wallet-Audit",
+            "snippet": "GitHub - Jaden-Nix/Verified-Wallet-Audit · GitHub\n\n## About\n\nNo description, website, or topics provided.\n\n## Latest commit\n\nfeat: verified wallet security audit flagship submission\n\n## History\n\n1 Com",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "trustsig-eu/wasm2c-tableflip",
-            "url": "https://github.com/trustsig-eu/wasm2c-tableflip",
-            "snippet": "# trustsig-eu/wasm2c-tableflip\n\nwasm2c sandbox escape. An untrusted WebAssembly module breaks out of the generated C sandbox and executes an arbitrary shell command on the host.\n\n- Stars: 5\n- Forks: 0",
+            "title": "IamHarrie-Labs/midnight-ownpublickey-poc",
+            "url": "https://github.com/IamHarrie-Labs/midnight-ownpublickey-poc",
+            "snippet": "# IamHarrie-Labs/midnight-ownpublickey-poc\n\nownPublicKey() access control vulnerability PoC for Midnight Network — Bounty #295\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: m",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-29T06:48:41.871Z"
+        "enriched_at": "2026-11-05T07:45:54.479Z"
       },
-      "timestamp": "2026-10-29T06:48:43.576Z"
+      "timestamp": "2026-11-05T07:45:56.266Z"
     },
     "omarchy": {
       "intel": {
@@ -6596,5 +6589,5 @@
       "timestamp": "2026-10-31T06:44:36.538Z"
     }
   },
-  "lastRun": "2026-11-04T07:19:24.468Z"
+  "lastRun": "2026-11-05T07:46:08.983Z"
 }
