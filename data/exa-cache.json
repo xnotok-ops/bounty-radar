@@ -2798,9 +2798,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:22.885Z"
+        "enriched_at": "2026-11-06T07:45:17.222Z"
       },
-      "timestamp": "2026-10-30T06:52:24.449Z"
+      "timestamp": "2026-11-06T07:45:18.657Z"
     },
     "unico_idtech": {
       "intel": {
@@ -3461,7 +3461,7 @@
           {
             "title": "Bykea | Report #2374730 - Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure | HackerOne",
             "url": "https://hackerone.com/reports/2374730",
-            "snippet": "Bykea | Report #2374730 - Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure | HackerOne\n\nTimeline \n\n submitted a report to Bykea.\n\nFebruary 15, 20",
+            "snippet": "Bykea | Report #2374730 - Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure | HackerOne\n\nBroken Access Control (IDOR) in Booking Detail and Bids C",
             "published": "2024-02-15T00:00:00.000Z",
             "score": 0
           }
@@ -3476,25 +3476,25 @@
             "score": 1
           },
           {
-            "title": "GitHub - immunefi-team/hack-analysis-pocs · GitHub",
-            "url": "https://github.com/immunefi-team/hack-analysis-pocs",
-            "snippet": "GitHub - immunefi-team/hack-analysis-pocs · GitHub\n\nNo description, website, or topics provided.\n\nMerge pull request #5 from immunefi-team/janbro-readme-patch-1\n\n18 Commits\n\nOpen commit details\n\n## Fo",
-            "published": "2022-12-23T00:00:00.000Z",
-            "score": 0.5
-          },
-          {
             "title": "BeikeShop Stripe Plugin Missing Webhook Signature Verification Leads to Payment Bypass · Advisory · beikeshop/beikeshop · GitHub",
             "url": "https://github.com/beikeshop/beikeshop/security/advisories/GHSA-vj8x-99j7-w53h",
             "snippet": "BeikeShop Stripe Plugin Missing Webhook Signature Verification Leads to Payment Bypass · Advisory · beikeshop/beikeshop · GitHub\n\n# BeikeShop Stripe Plugin Missing Webhook Signature Verification Leads",
             "published": "2026-06-07T00:00:00.000Z",
+            "score": 0.5
+          },
+          {
+            "title": "effortlessdevsec/Android_Hackerone",
+            "url": "https://github.com/effortlessdevsec/Android_Hackerone",
+            "snippet": "# effortlessdevsec/Android_Hackerone\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2025-04-05T17:20:39Z\n\n## Languages\n\n- Python\n- Shell\n\n## Top Contributors\n\n",
+            "published": "2025-04-05T17:20:39.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:24.449Z"
+        "enriched_at": "2026-11-06T07:45:18.657Z"
       },
-      "timestamp": "2026-10-30T06:52:25.986Z"
+      "timestamp": "2026-11-06T07:45:20.101Z"
     },
     "inditex": {
       "intel": {
@@ -3502,7 +3502,7 @@
           {
             "title": "inditex on HackerOne - Bug Bounty Scope | bbscope.com",
             "url": "https://bbscope.com/program/h1/inditex",
-            "snippet": "inditex on HackerOne - Bug Bounty Scope | bbscope.com\n\n# inditex\n\n0 Out of Scope\n\nIn-Scope Assets (4)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| Main corporate si",
+            "snippet": "inditex on HackerOne - Bug Bounty Scope | bbscope.com\n\n# inditex\n\n4 In Scope\n\n0 Out of Scope\n\nIn-Scope Assets (4)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| Main ",
             "published": null,
             "score": 1
           },
@@ -3516,7 +3516,7 @@
           {
             "title": "Inditex Bug Bounty Program - Bug Bounties",
             "url": "https://bug-bounties.as93.net/inditex/",
-            "snippet": "Inditex Bug Bounty Program - Bug Bounties\n\n# Inditex\n\nBounty \n\n## Program Details \n\n Handle \n: inditex \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 4 days \nBounty Time\n: 256 days \n\n Response",
+            "snippet": "Inditex Bug Bounty Program - Bug Bounties\n\n# Inditex\n\n## Program Details \n\n Handle \n: inditex \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 2 days \nBounty Time\n: 96 days \n\n Response Efficienc",
             "published": null,
             "score": 0
           }
@@ -3547,9 +3547,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:27.545Z"
+        "enriched_at": "2026-11-06T07:45:21.495Z"
       },
-      "timestamp": "2026-10-30T06:52:29.108Z"
+      "timestamp": "2026-11-06T07:45:23.174Z"
     },
     "visa": {
       "intel": {
@@ -3579,16 +3579,16 @@
         "twitter": [],
         "github": [
           {
-            "title": "BlackSnufkin/CredsHunter",
+            "title": "GitHub - BlackSnufkin/CredsHunter: PoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping · GitHub",
             "url": "https://github.com/BlackSnufkin/CredsHunter",
-            "snippet": "# BlackSnufkin/CredsHunter\n\nPoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping\n\n- Stars: 39\n- Forks: 5\n- Watchers: 39\n- Open issues: 0\n- License: GNU Gene",
+            "snippet": "GitHub - BlackSnufkin/CredsHunter: PoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping · GitHub\n\n## About\n\n## Folders and files\n\n| Name | Name | Last commi",
             "published": null,
             "score": 1
           },
           {
-            "title": "GitHub - zer0dayf/CVE-2026-15013: CVE-2026-15013 · GitHub",
+            "title": "zer0dayf/CVE-2026-15013",
             "url": "https://github.com/zer0dayf/CVE-2026-15013",
-            "snippet": "GitHub - zer0dayf/CVE-2026-15013: CVE-2026-15013 · GitHub\n\n4 Commits\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| docker | docker | Updat",
+            "snippet": "# zer0dayf/CVE-2026-15013\n\n CVE-2026-15013\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-27T08:54:38Z\n\n## Languages\n\n- Dockerfile\n- Python\n\n## Top Con",
             "published": null,
             "score": 0.5
           },
@@ -3602,9 +3602,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:29.109Z"
+        "enriched_at": "2026-11-06T07:45:23.174Z"
       },
-      "timestamp": "2026-10-30T06:52:30.702Z"
+      "timestamp": "2026-11-06T07:45:24.678Z"
     },
     "toolsforhumanity": {
       "intel": {
@@ -3657,9 +3657,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:30.702Z"
+        "enriched_at": "2026-11-06T07:45:24.679Z"
       },
-      "timestamp": "2026-10-30T06:52:32.268Z"
+      "timestamp": "2026-11-06T07:45:26.190Z"
     },
     "ring": {
       "intel": {
@@ -3712,9 +3712,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:32.269Z"
+        "enriched_at": "2026-11-06T07:45:26.190Z"
       },
-      "timestamp": "2026-10-30T06:52:33.929Z"
+      "timestamp": "2026-11-06T07:45:27.655Z"
     },
     "six-group": {
       "intel": {
@@ -3727,17 +3727,17 @@
             "score": 1
           },
           {
-            "title": "GitHub - sixgroup-security/bug-bounty: SIX Group AG bug bounty program · GitHub",
+            "title": "sixgroup-security/bug-bounty",
             "url": "https://github.com/sixgroup-security/bug-bounty",
-            "snippet": "GitHub - sixgroup-security/bug-bounty: SIX Group AG bug bounty program · GitHub\n\n## About\n\nSIX Group AG bug bounty program\n\n## Latest commit\n\ncryxnet\n\nAutomated update of Hall of Fame\n\nOct 29, 2026\n\nO",
-            "published": "2024-10-08T00:00:00.000Z",
+            "snippet": "# sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-08T11:05:51Z\n\n## Languages\n\n- Python\n\n##",
+            "published": "2024-10-08T11:05:51.000Z",
             "score": 0.5
           },
           {
-            "title": "Advisories/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365 at main · sixgroup-security/Advisories · GitHub",
-            "url": "https://github.com/sixgroup-security/Advisories/tree/main/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365",
-            "snippet": "Advisories/20211209_Missing-Session-Hijacking-Protection-in-Microsoft-O365 at main · sixgroup-security/Advisories · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date",
-            "published": "2021-11-11T00:00:00.000Z",
+            "title": "SixCMS <= 6 - Multiple XSS and directory traversal vulnerabilities - CXSecurity.com",
+            "url": "https://cxsecurity.com/issue/WLB-2006060106",
+            "snippet": "SixCMS <= 6 - Multiple XSS and directory traversal vulnerabilities - CXSecurity.com\n\n#### SixCMS <= 6 - Multiple XSS and directory traversal vulnerabilities\n\n2006.06.18\n\nCredit: admin majorsecurity de",
+            "published": "2006-06-18T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -3751,25 +3751,25 @@
             "score": 1
           },
           {
-            "title": "BlackSnufkin/CredsHunter",
+            "title": "GitHub - BlackSnufkin/CredsHunter: PoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping · GitHub",
             "url": "https://github.com/BlackSnufkin/CredsHunter",
-            "snippet": "# BlackSnufkin/CredsHunter\n\nPoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping\n\n- Stars: 39\n- Forks: 5\n- Watchers: 39\n- Open issues: 0\n- License: GNU Gene",
+            "snippet": "GitHub - BlackSnufkin/CredsHunter: PoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass and LSASS dumping · GitHub\n\n## About\n\n## Folders and files\n\n| Name | Name | Last commi",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "GitHub - sixgroup-security/bug-bounty: SIX Group AG bug bounty program · GitHub",
+            "title": "sixgroup-security/bug-bounty",
             "url": "https://github.com/sixgroup-security/bug-bounty",
-            "snippet": "GitHub - sixgroup-security/bug-bounty: SIX Group AG bug bounty program · GitHub\n\n## About\n\nSIX Group AG bug bounty program\n\n## Latest commit\n\ncryxnet\n\nAutomated update of Hall of Fame\n\nOct 29, 2026\n\nO",
-            "published": "2024-10-08T00:00:00.000Z",
+            "snippet": "# sixgroup-security/bug-bounty\n\nSIX Group AG bug bounty program\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2024-10-08T11:05:51Z\n\n## Languages\n\n- Python\n\n##",
+            "published": "2024-10-08T11:05:51.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:33.929Z"
+        "enriched_at": "2026-11-06T07:45:27.656Z"
       },
-      "timestamp": "2026-10-30T06:52:35.516Z"
+      "timestamp": "2026-11-06T07:45:29.091Z"
     },
     "eufy_security": {
       "intel": {
@@ -3815,16 +3815,16 @@
           {
             "title": "DarkFunct/CVE_Exploits",
             "url": "https://github.com/DarkFunct/CVE_Exploits",
-            "snippet": "# DarkFunct/CVE_Exploits\n\nCVE Exploit PoC's\n\n- Stars: 34\n- Forks: 14\n- Watchers: 34\n- Open issues: 0\n- Default branch: main\n- Created: 2021-09-29T15:35:22Z\n\n## Languages\n\n- Assembly\n- Batchfile\n- C\n- ",
+            "snippet": "# DarkFunct/CVE_Exploits\n\nCVE Exploit PoC's\n\n- Stars: 34\n- Forks: 15\n- Watchers: 34\n- Open issues: 0\n- Default branch: main\n- Created: 2021-09-29T15:35:22Z\n\n## Languages\n\n- Assembly\n- Batchfile\n- C\n- ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:35.516Z"
+        "enriched_at": "2026-11-06T07:45:29.091Z"
       },
-      "timestamp": "2026-10-30T06:52:37.147Z"
+      "timestamp": "2026-11-06T07:45:30.527Z"
     },
     "eero": {
       "intel": {
@@ -5860,18 +5860,18 @@
             "score": 0.5
           },
           {
-            "title": "Rohitberiwala/Claude-Code-MCP-Injection-PoC",
+            "title": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to arbitrary OS command execution. · GitHub",
             "url": "https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC",
-            "snippet": "# Rohitberiwala/Claude-Code-MCP-Injection-PoC\n\nProfessional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code leading to ",
+            "snippet": "GitHub - Rohitberiwala/Claude-Code-MCP-Injection-PoC: Professional PoC for CVE-2025-59536 and related CVEs. Demonstrates an MCP Tool Confirmation Prompt Misrepresentation in Anthropic Claude_Code lead",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:25.987Z"
+        "enriched_at": "2026-11-06T07:45:20.102Z"
       },
-      "timestamp": "2026-10-30T06:52:27.544Z"
+      "timestamp": "2026-11-06T07:45:21.495Z"
     },
     "agoda-public": {
       "intel": {
@@ -6286,10 +6286,10 @@
         "twitter": [],
         "github": [
           {
-            "title": "feat(auth): patient QR login via EUDI Wallet (OpenID4VP) — ADR-028 (#72)",
+            "title": "feat(auth): patient QR login via EUDI Wallet (OpenID4VP) — ADR-028 (#72) by ma3u · Pull Request #74 · ma3u/MinimumViableHealthDataspacev2 · GitHub",
             "url": "https://github.com/ma3u/MinimumViableHealthDataspacev2/pull/74",
-            "snippet": "# feat(auth): patient QR login via EUDI Wallet (OpenID4VP) — ADR-028 (#72)\n\n- State: merged\n- Author: ma3u\n- Created: 2026-06-04T11:54:12Z\n- Updated: 2026-07-15T11:59:39Z\n- Repository: ma3u/MinimumVia",
-            "published": null,
+            "snippet": "feat(auth): patient QR login via EUDI Wallet (OpenID4VP) — ADR-028 (#72) by ma3u · Pull Request #74 · ma3u/MinimumViableHealthDataspacev2 · GitHub\n\n# feat(auth): patient QR login via EUDI Wallet (Open",
+            "published": "2026-06-04T00:00:00.000Z",
             "score": 1
           },
           {
@@ -6309,9 +6309,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-30T06:52:21.162Z"
+        "enriched_at": "2026-11-06T07:45:15.674Z"
       },
-      "timestamp": "2026-10-30T06:52:22.884Z"
+      "timestamp": "2026-11-06T07:45:17.221Z"
     },
     "vercel": {
       "intel": {
@@ -6589,5 +6589,5 @@
       "timestamp": "2026-10-31T06:44:36.538Z"
     }
   },
-  "lastRun": "2026-11-05T07:46:08.983Z"
+  "lastRun": "2026-11-06T07:45:30.527Z"
 }
