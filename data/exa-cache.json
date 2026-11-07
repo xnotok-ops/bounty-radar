@@ -3877,9 +3877,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:37.977Z"
+        "enriched_at": "2026-11-07T06:52:47.094Z"
       },
-      "timestamp": "2026-10-31T06:44:39.364Z"
+      "timestamp": "2026-11-07T06:52:48.566Z"
     },
     "mozilla": {
       "intel": {
@@ -3942,14 +3942,14 @@
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/stripchat",
-            "snippet": "HackerOne\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/svg+xml,%3c?xml%20version='1.0",
+            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
             "published": null,
             "score": 1
           },
           {
-            "title": "HackerOne",
+            "title": "Stripchat | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/stripchat?type=team",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
+            "snippet": "Stripchat | Bounty Policy | HackerOne\n\n## Program highlights\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis program's response efficiency is above 90%.\n\nS",
             "published": null,
             "score": 0.5
           },
@@ -3957,7 +3957,7 @@
             "title": "Stripchat — HackerOne bug bounty | BountyHunte.rs",
             "url": "https://bountyhunte.rs/programs/stripchat",
             "snippet": "Stripchat — HackerOne bug bounty | BountyHunte.rs\n\n# Stripchat\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a listed maximum is",
-            "published": "2023-02-07T00:00:00.000Z",
+            "published": "2023-02-07T09:28:56.000Z",
             "score": 0
           }
         ],
@@ -3967,7 +3967,7 @@
             "title": "Looks like stripchat changed logic again? They added full encryption back and even moved the js key structure!",
             "url": "https://github.com/lossless1024/StreaMonitor/issues/261",
             "snippet": "# Looks like stripchat changed logic again? They added full encryption back and even moved the js key structure!\n\n- State: closed\n- Author: pukadenaeka\n- Created: 2025-11-25T00:09:52Z\n- Updated: 2026-",
-            "published": "2025-11-25T00:00:00.000Z",
+            "published": "2025-11-25T00:09:52.000Z",
             "score": 1
           },
           {
@@ -3981,15 +3981,15 @@
             "title": "We REALLY need to find a better way to extract the PDKEY for Stripchat",
             "url": "https://github.com/lossless1024/StreaMonitor/issues/283",
             "snippet": "# We REALLY need to find a better way to extract the PDKEY for Stripchat\n\n- State: open\n- Author: pukadenaeka\n- Created: 2025-12-11T23:35:17Z\n- Updated: 2025-12-27T16:18:12Z\n- Repository: lossless1024",
-            "published": "2025-12-11T00:00:00.000Z",
+            "published": "2025-12-11T23:35:17.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:39.364Z"
+        "enriched_at": "2026-11-07T06:52:48.567Z"
       },
-      "timestamp": "2026-10-31T06:44:40.751Z"
+      "timestamp": "2026-11-07T06:52:49.956Z"
     },
     "redox_bbp": {
       "intel": {
@@ -4005,14 +4005,14 @@
             "title": "pocs/redox/CVE-2026-38636 at master · Marsman1996/pocs · GitHub",
             "url": "https://github.com/Marsman1996/pocs/tree/master/redox/CVE-2026-38636",
             "snippet": "pocs/redox/CVE-2026-38636 at master · Marsman1996/pocs · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| parent directory.. | | | |\n|",
-            "published": "2018-08-14T00:00:00.000Z",
+            "published": "2018-08-14T01:49:12.000Z",
             "score": 0.5
           },
           {
             "title": "pocs/redox/CVE-2026-38638 at master · Marsman1996/pocs · GitHub",
             "url": "https://github.com/Marsman1996/pocs/tree/master/redox/CVE-2026-38638",
             "snippet": "pocs/redox/CVE-2026-38638 at master · Marsman1996/pocs · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| parent directory.. | | | |\n|",
-            "published": "2018-08-14T00:00:00.000Z",
+            "published": "2018-08-14T01:49:12.000Z",
             "score": 0
           }
         ],
@@ -4026,25 +4026,25 @@
             "score": 1
           },
           {
-            "title": "Haitam-lazaar/libextractor-ole2-rce",
-            "url": "https://github.com/Haitam-lazaar/libextractor-ole2-rce",
-            "snippet": "# Haitam-lazaar/libextractor-ole2-rce\n\nPoC for a Critical stack-based buffer overflow in GNU libextractor ≤ 1.14. A malicious .doc file triggers an unbounded VLA allocation causing unconditional DoS. ",
+            "title": "No-Github/cve-2025-49844",
+            "url": "https://github.com/No-Github/cve-2025-49844",
+            "snippet": "# No-Github/cve-2025-49844\n\nProof-of-concept for CVE-2025-49844\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Created: 2025-11-03T08:31:11Z\n- Fo",
             "published": null,
             "score": 0.5
           },
           {
-            "title": "wallyschag/CVE-2025-41656",
-            "url": "https://github.com/wallyschag/CVE-2025-41656",
-            "snippet": "# wallyschag/CVE-2025-41656\n\nThis repository includes the code and files needed to test and execute a PoC for CVE-2025-41656\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: mai",
-            "published": "2025-07-14T00:00:00.000Z",
+            "title": "Haitam-lazaar/libextractor-ole2-rce",
+            "url": "https://github.com/Haitam-lazaar/libextractor-ole2-rce",
+            "snippet": "# Haitam-lazaar/libextractor-ole2-rce\n\nPoC for a Critical stack-based buffer overflow in GNU libextractor ≤ 1.14. A malicious .doc file triggers an unbounded VLA allocation causing unconditional DoS. ",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:40.751Z"
+        "enriched_at": "2026-11-07T06:52:49.956Z"
       },
-      "timestamp": "2026-10-31T06:44:42.200Z"
+      "timestamp": "2026-11-07T06:52:51.386Z"
     },
     "okg": {
       "intel": {
@@ -4052,7 +4052,7 @@
           {
             "title": "Okta Verify for Windows Remote Code Execution – CVE-2024-0980 – Securifera",
             "url": "https://www.securifera.com/blog/2024/05/02/okta-verify-for-windows-remote-code-execution-cve-2024-0980/",
-            "snippet": "Okta Verify for Windows Remote Code Execution – CVE-2024-0980 – Securifera\n\n### These days I rarely have an opportunity to do bug hunting. Fortunately, over the holiday break, I found some free time. ",
+            "snippet": "Okta Verify for Windows Remote Code Execution – CVE-2024-0980 – Securifera\n\n## Poppin shells with Okta Verify on Windows\n\n### These days I rarely have an opportunity to do bug hunting. Fortunately, ov",
             "published": "2024-05-02T17:41:28.000Z",
             "score": 1
           },
@@ -4097,9 +4097,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:42.200Z"
+        "enriched_at": "2026-11-07T06:52:51.386Z"
       },
-      "timestamp": "2026-10-31T06:44:43.602Z"
+      "timestamp": "2026-11-07T06:52:52.812Z"
     },
     "1win_com": {
       "intel": {
@@ -4162,21 +4162,21 @@
           {
             "title": "WisdomTree, Inc. | Hacktivity | HackerOne",
             "url": "https://hackerone.com/wisdomtree/hacktivity",
-            "snippet": "WisdomTree, Inc. | Hacktivity | HackerOne\n\nWisdomTree, Inc.\n\n$15,500\n\nBug reported by\n\niacchus89\n\nwas awarded a bounty\n\n4 days ago\n\n$15,500\n\nWisdomTree, Inc.\n\n$16,000\n\nBug reported by\n\niacchus89\n\nwas ",
+            "snippet": "WisdomTree, Inc. | Hacktivity | HackerOne\n\nWisdomTree, Inc.\n\n$20,000\n\nBug reported by\n\niacchus89\n\nwas awarded a bounty\n\n6 hrs ago\n\n$20,000\n\nWisdomTree, Inc.\n\n$10,500\n\niacchus89\n\nwas awarded a bounty\n\n",
             "published": null,
             "score": 1
           },
           {
-            "title": "HackerOne",
+            "title": "WisdomTree, Inc. | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/wisdomtree",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
+            "snippet": "WisdomTree, Inc. | Bounty Policy | HackerOne\n\n## Program highlights\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis program's response efficiency is above ",
             "published": null,
             "score": 0.5
           },
           {
             "title": "WisdomTree, Inc. | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/wisdomtree?type=team",
-            "snippet": "WisdomTree, Inc. | Bounty Policy | HackerOne\n\nFully compliant with Platform Standards.\n\nThis program's response efficiency is above 90%.\n\nSignal Requirement\n\n1.0 or higher past-year Signal required, w",
+            "snippet": "WisdomTree, Inc. | Bounty Policy | HackerOne\n\n## Program highlights\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis program's response efficiency is above ",
             "published": null,
             "score": 0
           }
@@ -4207,9 +4207,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:43.603Z"
+        "enriched_at": "2026-11-07T06:52:52.812Z"
       },
-      "timestamp": "2026-10-31T06:44:44.989Z"
+      "timestamp": "2026-11-07T06:52:54.262Z"
     },
     "pornbox": {
       "intel": {
@@ -4217,7 +4217,7 @@
           {
             "title": "诺兰 | Profile | HackerOne",
             "url": "https://hackerone.com/riyane",
-            "snippet": "诺兰 | Profile | HackerOne\n\n诺兰 (riyane)\n\nSecurity researcher\n\nJoined August 2020\n\nStats\n\n90 Days\n\n#### -\n\n#### -\n\nPercentile\n\nImpact\n\n#### -\n\nPercentile\n\n#### 55\n\nReputation\n\n#### -\n\nRank\n\n## 0 months s",
+            "snippet": "诺兰 | Profile | HackerOne\n\n诺兰 (riyane)\n\nSecurity researcher\n\nJoined August 2020\n\nStats\n\n90 Days\n\n#### -\n\nSignal\n\nPercentile\n\nImpact\n\nPercentile\n\n#### 55\n\nReputation\n\n#### -\n\nRank\n\n## 0 months streak!\n\n",
             "published": null,
             "score": 1
           },
@@ -4229,9 +4229,9 @@
             "score": 0.5
           },
           {
-            "title": "390$ bounty from a 🔞Porn site. Account takeover using OAuth… | by SHARAN.K | Medium",
+            "title": "Medium",
             "url": "https://sharanthehunter.medium.com/390-bounty-from-a-porn-site-account-takeover-vulnerability-f5a126c01acf",
-            "snippet": "390$ bounty from a 🔞Porn site. Account takeover using OAuth… | by SHARAN.K | Medium\n\n# 390$ bounty from a 🔞Porn site\n\nSHARAN.K\n\nMay 7, 2023\n\n## (Pre-Account takeover vulnerability)\n\nPress enter or c",
+            "snippet": "Medium\n\n# 390$ bounty from a 🔞Porn site\n\nSHARAN.K\n\nMay 7, 2023\n\nPress enter or click to view image in full size\n\nPre-Account takeover using OAuth Misconfiguration\n\nWeakness: Business Logic Errors\n\nTa",
             "published": "2023-05-07T15:03:11.000Z",
             "score": 0
           }
@@ -4246,9 +4246,9 @@
             "score": 1
           },
           {
-            "title": "GitHub - hackerhouse-opensource/exploits: exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House · GitHub",
+            "title": "hackerhouse-opensource/exploits",
             "url": "https://github.com/hackerhouse-opensource/exploits",
-            "snippet": "GitHub - hackerhouse-opensource/exploits: exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House · GitHub\n\n## About\n\nexploits and proof-of-concept vulnerability ",
+            "snippet": "# hackerhouse-opensource/exploits\n\nexploits and proof-of-concept vulnerability demonstration files from the team at Hacker House\n\n- Stars: 470\n- Forks: 122\n- Watchers: 470\n- Open issues: 2\n- License: ",
             "published": null,
             "score": 0.5
           },
@@ -4256,15 +4256,15 @@
             "title": "shildenbrand/WinboxExploit",
             "url": "https://github.com/shildenbrand/WinboxExploit",
             "snippet": "# shildenbrand/WinboxExploit\n\n- Stars: 1\n- Forks: 4\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: master\n- Created: 2018-08-20T20:47:52Z\n\n## Languages\n\n- Python\n\n## Top Contr",
-            "published": "2018-08-20T00:00:00.000Z",
+            "published": "2018-08-20T20:47:52.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:44.989Z"
+        "enriched_at": "2026-11-07T06:52:54.262Z"
       },
-      "timestamp": "2026-10-31T06:44:46.456Z"
+      "timestamp": "2026-11-07T06:52:55.657Z"
     },
     "tron_dao": {
       "intel": {
@@ -4273,7 +4273,7 @@
             "title": "[CRITICAL] DelegateResourceProcessor Precision Loss - CVSS 9.3",
             "url": "https://github.com/tronprotocol/java-tron/issues/6599",
             "snippet": "# [CRITICAL] DelegateResourceProcessor Precision Loss - CVSS 9.3\n\n- State: closed\n- Author: Chetan-Biranje\n- Created: 2026-03-25T09:26:52Z\n- Updated: 2026-04-01T16:22:22Z\n- Repository: tronprotocol/ja",
-            "published": "2026-03-25T00:00:00.000Z",
+            "published": "2026-03-25T09:26:52.000Z",
             "score": 1
           },
           {
@@ -4297,13 +4297,13 @@
             "title": "[CRITICAL] DelegateResourceProcessor Precision Loss - CVSS 9.3",
             "url": "https://github.com/tronprotocol/java-tron/issues/6599",
             "snippet": "# [CRITICAL] DelegateResourceProcessor Precision Loss - CVSS 9.3\n\n- State: closed\n- Author: Chetan-Biranje\n- Created: 2026-03-25T09:26:52Z\n- Updated: 2026-04-01T16:22:22Z\n- Repository: tronprotocol/ja",
-            "published": "2026-03-25T00:00:00.000Z",
+            "published": "2026-03-25T09:26:52.000Z",
             "score": 1
           },
           {
-            "title": "more-hacks-and-thefts/onyx-dao.md at main · tayvano/lazarus-bluenoroff-research",
+            "title": "more-hacks-and-thefts/onyx-dao.md",
             "url": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/more-hacks-and-thefts/onyx-dao.md",
-            "snippet": "# File: tayvano/lazarus-bluenoroff-research/more-hacks-and-thefts/onyx-dao.md\n\n- Repository: tayvano/lazarus-bluenoroff-research | a collection of north korean apt articles, analysis and heists attrib",
+            "snippet": "# more-hacks-and-thefts/onyx-dao.md\n\n- Branch: main\n- Repository: tayvano/lazarus-bluenoroff-research\n\n---\n\n# Onyx Protocol / Onyx DAO \n\nDate:: 2024-09-26\n\nTags:: ❓DPRK IT Workers \n\n---\n\n## Details\n\n-",
             "published": null,
             "score": 0.5
           },
@@ -4317,9 +4317,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:46.456Z"
+        "enriched_at": "2026-11-07T06:52:55.657Z"
       },
-      "timestamp": "2026-10-31T06:44:47.877Z"
+      "timestamp": "2026-11-07T06:52:57.093Z"
     },
     "superbet": {
       "intel": {
@@ -4334,14 +4334,7 @@
           {
             "title": "Caner | Hacktivity | HackerOne",
             "url": "https://hackerone.com/xzemit42/hacktivity?type=user",
-            "snippet": "Caner | Hacktivity | HackerOne\n\nCaner (xzemit42)\n\nJoined November 2021\n\nStats\n\n90 Days\n\n#### 6.78\n\n#### 51st\n\nPercentile\n\n#### 19.27\n\nImpact\n\n#### 71st\n\nPercentile\n\n#### 9413\n\nReputation\n\n#### 4th\n\nRa",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2023-63: Malicious code in @superbet-group/web.lib.rest (npm)",
-            "url": "https://vulert.com/vuln-db/npm-@superbet-group-web.lib.rest-82100",
-            "snippet": "CVE-2023-63: Malicious code in @superbet-group/web.lib.rest (npm) \n\n# CVE-2023-63: Malicious code in @superbet-group/web.lib.rest (npm)\n\n Affected Package: @superbet-group/web.lib.rest (Click to see a",
+            "snippet": "Caner | Hacktivity | HackerOne\n\nCaner (xzemit42)\n\nJoined November 2021\n\nStats\n\n90 Days\n\n#### 6.80\n\nSignal\n\n#### 51st\n\nPercentile\n\n#### 20.10\n\nImpact\n\n#### 74th\n\nPercentile\n\n#### 10389\n\nReputation\n\n###",
             "published": null,
             "score": 0
           }
@@ -4352,29 +4345,29 @@
             "title": "a0eb6e3 awsWafToken demo",
             "url": "https://github.com/RiskByPass/riskbypass_demo/commit/a0eb6e34fa45b3d3e34e195980ed8c73001d4f52",
             "snippet": "# a0eb6e3 awsWafToken demo\n\n- SHA: a0eb6e34fa45b3d3e34e195980ed8c73001d4f52\n- Repository: RiskByPass/riskbypass_demo\n- Date: 2026-03-10T02:56:23Z\n- +96 -0 in 1 files\n\n## Changed Files\n\n| File | Status",
-            "published": "2026-03-10T00:00:00.000Z",
+            "published": "2026-03-10T02:56:23.000Z",
             "score": 1
           },
           {
             "title": "Malware in superbet-icons · GHSA-7xgc-mqxg-q5c7 · GitHub Advisory Database · GitHub",
             "url": "https://github.com/advisories/GHSA-7xgc-mqxg-q5c7",
-            "snippet": "Malware in superbet-icons · GHSA-7xgc-mqxg-q5c7 · GitHub Advisory Database · GitHub\n\n## Malware in superbet-icons \n\n Malware \n\n Published \n\nOct 24, 2025\n\n to the GitHub Advisory Database • Updated \n\nO",
+            "snippet": "Malware in superbet-icons · GHSA-7xgc-mqxg-q5c7 · GitHub Advisory Database · GitHub\n\n## Malware in superbet-icons \n\n Malware \n\nOct 24, 2025\n\n to the GitHub Advisory Database • Updated \n\nOct 24, 2025\n\n",
             "published": "2025-10-24T00:00:00.000Z",
             "score": 0.5
           },
           {
-            "title": "marian010/superbet-bot",
-            "url": "https://github.com/marian010/superbet-bot",
-            "snippet": "# Repository: marian010/superbet-bot\n\n- Stars: 3\n- Forks: 0\n- Watchers: 3\n- Open issues: 1\n- Primary language: JavaScript\n- Languages: JavaScript (98.8%), Shell (1.2%)\n- Default branch: master\n- Creat",
-            "published": "2023-02-08T13:52:19.000Z",
+            "title": "Exploit%20Server.md",
+            "url": "https://github.com/TheGetch/Burp-Suite-Certified-Practitioner-Prep/blob/main/Exploit%20Server.md",
+            "snippet": "# Exploit%20Server.md\n\n- Branch: main\n- Repository: TheGetch/Burp-Suite-Certified-Practitioner-Prep\n\n---\n\nSimple Reflected XSS in iFrame:\n\n` `\n\n---\n\nSteal cookie:\n- can be used in xss, web cache poiso",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:47.877Z"
+        "total_results": 5,
+        "enriched_at": "2026-11-07T06:52:57.093Z"
       },
-      "timestamp": "2026-10-31T06:44:49.232Z"
+      "timestamp": "2026-11-07T06:52:58.516Z"
     },
     "magic-eden": {
       "intel": {
@@ -6396,32 +6389,32 @@
         "twitter": [],
         "github": [
           {
+            "title": "GitHub - codedninja/Teradek-Livestream-Broadcaster-RCE: Teradek and Livestream Devices- Privilege Remote Command Execution · GitHub",
+            "url": "https://github.com/codedninja/Teradek-Livestream-Broadcaster-RCE",
+            "snippet": "GitHub - codedninja/Teradek-Livestream-Broadcaster-RCE: Teradek and Livestream Devices- Privilege Remote Command Execution · GitHub\n\nMichael Pivonka\n\nUpdate README.md\n\n3 Commits\n\n## Folders and files\n",
+            "published": "2019-12-20T04:19:42.000Z",
+            "score": 1
+          },
+          {
             "title": "kazehere4you/CVE-2025-15368-Exploit",
             "url": "https://github.com/kazehere4you/CVE-2025-15368-Exploit",
             "snippet": "# kazehere4you/CVE-2025-15368-Exploit\n\nExploit tool for SportsPress Plugin LFI & RCE (CVE-2025-15368) - Proof of Concept\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- ",
             "published": null,
-            "score": 1
-          },
-          {
-            "title": "Awesome-Writeups/README.md at main · TheBountyBox/Awesome-Writeups · GitHub",
-            "url": "https://github.com/302Found1/Awesome-Writeups/blob/master/README.md",
-            "snippet": "Awesome-Writeups/README.md at main · TheBountyBox/Awesome-Writeups · GitHub\n\nvlakhani28\n\n684 lines (645 loc) · 78.3 KB\n\n684 lines (645 loc) · 78.3 KB\n\n## Contents\n\n- Cross Site Scripting (XSS)\n- Cross",
-            "published": null,
             "score": 0.5
           },
           {
-            "title": "Lyrebirds/sagemcom-fast-3890-exploit",
-            "url": "https://github.com/lyrebirds/fast8690-exploit",
-            "snippet": "# Lyrebirds/sagemcom-fast-3890-exploit\n\n- Stars: 227\n- Forks: 48\n- Watchers: 227\n- Open issues: 3\n- Default branch: master\n- Created: 2020-01-07T11:31:39Z\n\n## Languages\n\n- C\n- HTML\n- JavaScript\n- Pyth",
+            "title": "hackerhouse-opensource/exploits",
+            "url": "https://github.com/hackerhouse-opensource/exploits",
+            "snippet": "# hackerhouse-opensource/exploits\n\nexploits and proof-of-concept vulnerability demonstration files from the team at Hacker House\n\n- Stars: 470\n- Forks: 122\n- Watchers: 470\n- Open issues: 2\n- License: ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:36.538Z"
+        "enriched_at": "2026-11-07T06:52:45.697Z"
       },
-      "timestamp": "2026-10-31T06:44:37.977Z"
+      "timestamp": "2026-11-07T06:52:47.094Z"
     },
     "kaltura": {
       "intel": {
@@ -6563,7 +6556,7 @@
           {
             "title": "Omarchy is vulnerable to copy.fail exploit",
             "url": "https://github.com/basecamp/omarchy/issues/5505",
-            "snippet": "# Omarchy is vulnerable to copy.fail exploit\n\n- State: closed\n- Author: alpiua\n- Created: 2026-04-30T09:02:39Z\n- Updated: 2026-05-02T06:01:27Z\n- Repository: basecamp/omarchy\n- Number: #5505\n\n## Labels",
+            "snippet": "# Omarchy is vulnerable to copy.fail exploit\n\n- State: closed\n- Author: alpiua\n- Created: 2026-04-30T09:02:39Z\n- Updated: 2026-05-02T06:01:27Z\n- Repository: omacom/omarchy\n- Number: #5505\n\n## Labels\n\n",
             "published": null,
             "score": 1
           },
@@ -6584,10 +6577,10 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-10-31T06:44:34.976Z"
+        "enriched_at": "2026-11-07T06:52:44.199Z"
       },
-      "timestamp": "2026-10-31T06:44:36.538Z"
+      "timestamp": "2026-11-07T06:52:45.696Z"
     }
   },
-  "lastRun": "2026-11-06T07:45:30.527Z"
+  "lastRun": "2026-11-07T06:52:58.516Z"
 }
