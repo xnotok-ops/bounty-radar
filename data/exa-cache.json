@@ -1390,23 +1390,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "anduril_industries on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/anduril_industries",
-            "snippet": "anduril_industries on HackerOne - Bug Bounty Scope | bbscope.com\n\n# anduril_industries\n\n2 Out of Scope\n\nIn-Scope Assets (6)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | ---",
-            "published": null,
-            "score": 1
-          },
-          {
             "title": "Anduril Industries | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/anduril_industries",
             "snippet": "Anduril Industries | Bounty Policy | HackerOne\n\n## Introduction\n\nAnduril Industries looks forward to working with the security community to find vulnerabilities and help keep our systems and mission p",
             "published": null,
-            "score": 0.5
+            "score": 0
           },
           {
-            "title": "Anduril Industries — HackerOne bug bounty | BountyHunte.rs",
-            "url": "https://bountyhunte.rs/programs/anduril_industries",
-            "snippet": "Anduril Industries — HackerOne bug bounty | BountyHunte.rs\n\n# Anduril Industries\n\nReward range\n\nReward not published\n\nListed provider data. Verify current payout terms and eligibility at the source; a",
+            "title": "Anduril Industries | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/anduril_industries/hacktivity",
+            "snippet": "Anduril Industries | Hacktivity | HackerOne\n\nAnduril Industries\n\n$5,500\n\nBug reported by\n\n0xjaydee\n\nwas resolved\n\n2 hrs ago\n\n$5,500\n\nAnduril Industries\n\nsnarch\n\n3 days ago\n\nAnduril Industries\n\n$100\n\np",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "Anduril Industries Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
+            "url": "https://blog.pentestnepal.tech/bugbounty/anduril-industries/",
+            "snippet": "Anduril Industries Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# Anduril Industries Bug Bounty Program\n\nComplete guide to Anduril Industries's bug bounty program on HackerOne",
             "published": null,
             "score": 0
           }
@@ -1414,32 +1414,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "README.md",
-            "url": "https://github.com/Polybolos-Institute/anduril-mavlink-lattice-bridge/blob/main/README.md",
-            "snippet": "# README.md\n\n- Branch: main\n- Repository: Polybolos-Institute/anduril-mavlink-lattice-bridge\n\n---\n\n# Anduril Lattice - MAVLink bridge (door only)\n\n## Status & recognition (factual)\n\n> Independent Poly",
+            "title": "brokensec/HackerOne-GraphQL",
+            "url": "https://github.com/brokensec/HackerOne-GraphQL",
+            "snippet": "# brokensec/HackerOne-GraphQL\n\nUnauthenticated GraphQL API exposes 188+ internal accounts (131 triagers + 21 mediation + 36 hidden), system-derived nationality data, real names, former handles, home a",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
-            "title": "Matthew Herbst",
-            "url": "https://github.com/MatthewHerbst?tab=projects",
-            "snippet": "# Matthew Herbst\n\n- Login: MatthewHerbst\n- Company: @anduril\n- Location: San Francisco\n- Blog: https://www.LinkedIn.com/in/MatthewHerbst\n- Public repos: 20\n- Public gists: 0\n- Followers: 78\n- Followin",
+            "title": "Lagrange-Labs/anduril-deep-prove-demo",
+            "url": "https://github.com/Lagrange-Labs/anduril-deep-prove-demo",
+            "snippet": "# Lagrange-Labs/anduril-deep-prove-demo\n\nA sample application demonstrating the integration of DeepProve into Anduril's Lattice to perform AI driven verifiable Entity Auto Reconnaissance\n\n- Stars: 4\n-",
             "published": null,
-            "score": 0.5
+            "score": 0
           },
           {
-            "title": "Matthew Herbst",
-            "url": "https://github.com/matthewherbst",
-            "snippet": "# Matthew Herbst\n\n- Login: MatthewHerbst\n- Company: @anduril\n- Location: San Francisco\n- Blog: https://www.LinkedIn.com/in/MatthewHerbst\n- Public repos: 20\n- Public gists: 0\n- Followers: 78\n- Followin",
+            "title": "Overview · fern-support/lattice-sdk-go · GitHub",
+            "url": "https://github.com/fern-support/lattice-sdk-go/security",
+            "snippet": "Overview · fern-support/lattice-sdk-go · GitHub\n\n## Reporting a Vulnerability\n\nPlease report any security issues to the Anduril Information Security team using the email disclosures@anduril.com. Addit",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-01T07:12:06.392Z"
+        "enriched_at": "2026-11-09T07:44:09.728Z"
       },
-      "timestamp": "2026-11-01T07:12:07.733Z"
+      "timestamp": "2026-11-09T07:44:11.176Z"
     },
     "twilio": {
       "intel": {
@@ -1449,12 +1449,19 @@
             "url": "http://sechub.in/view/2895469",
             "snippet": "Discovering a $5000 RCE via Dependency Confusion Vulnerability\n\n# Discovering a $5000 RCE via Dependency Confusion Vulnerability\n\n InfoSec Write-ups - Medium 2024-06-18 02:01:27 bug-bounty · hacking ·",
             "published": "2024-06-18T00:00:00.000Z",
-            "score": 1
+            "score": 0
           },
           {
-            "title": "Twilio Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/twilio/",
-            "snippet": "Twilio Bug Bounty Program - Bug Bounties\n\nBounty Recognition Full Safe Harbor \n\n## Program Details \n\n Handle \n: twilio \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 1 day \nBounty Time\n: 75 da",
+            "title": "Twilio | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/twilio/hacktivity",
+            "snippet": "Twilio | Hacktivity | HackerOne\n\nTwilio\n\nBug reported by\n\n0x200notfound\n\nwas awarded a bounty\n\n2 days ago\n\nTwilio\n\nBug reported by\n\nan1msh\n\ncrelic_\n\ndwbzn\n\nwas resolved\n\n4 days ago\n\nCollaboration\n\nTwi",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "Twilio | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/twilio?type=",
+            "snippet": "Twilio | Bounty Policy | HackerOne\n\n## Program highlights\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nSignal Requirement\n\n1.0 or higher past-year Signal required, with use of trial ",
             "published": null,
             "score": 0
           }
@@ -1462,66 +1469,66 @@
         "twitter": [],
         "github": [
           {
-            "title": "The Twilio integration webhook handler accepts any POST... · CVE-2026-4984 · GitHub Advisory Database · GitHub",
-            "url": "https://github.com/advisories/GHSA-6mjh-67rm-ph7x",
-            "snippet": "The Twilio integration webhook handler accepts any POST... · CVE-2026-4984 · GitHub Advisory Database · GitHub\n\n High severity Unreviewed \n\n Published \n\nMar 27, 2026\n\n to the GitHub Advisory Database ",
-            "published": "2026-03-27T00:00:00.000Z",
-            "score": 1
+            "title": "[Bug]: Unauthenticated Remote Code Execution via SMS Webhook — Missing Twilio Signature Validation",
+            "url": "https://github.com/NousResearch/hermes-agent/issues/7089",
+            "snippet": "# [Bug]: Unauthenticated Remote Code Execution via SMS Webhook — Missing Twilio Signature Validation\n\n- State: closed\n- Author: XuanwuAtuin\n- Created: 2026-04-10T10:02:21Z\n- Updated: 2026-04-11T21:05:",
+            "published": "2026-04-10T10:02:21.000Z",
+            "score": 0
           },
           {
-            "title": "fix(security): add Twilio webhook signature validation to prevent unauthenticated RCE",
-            "url": "https://github.com/NousResearch/hermes-agent/issues/7904/linked_closing_reference?reference_location=REPO_ISSUES_INDEX",
-            "snippet": "# fix(security): add Twilio webhook signature validation to prevent unauthenticated RCE\n\n- State: closed\n- Author: entropidelic\n- Created: 2026-04-11T19:00:32Z\n- Updated: 2026-04-11T21:05:50Z\n- Reposi",
+            "title": "Symfony: Twilio SMS Notifier allows unauthenticated webhook injection due to missing X-Twilio-Signature verification · CVE-2026-47212 · GitHub Advisory Database · GitHub",
+            "url": "https://github.com/advisories/GHSA-55RJ-X2VC-4WHQ",
+            "snippet": "Symfony: Twilio SMS Notifier allows unauthenticated webhook injection due to missing X-Twilio-Signature verification · CVE-2026-47212 · GitHub Advisory Database · GitHub\n\n## Symfony: Twilio SMS Notifi",
+            "published": "2026-05-20T00:00:00.000Z",
+            "score": 0
+          },
+          {
+            "title": "POS/cve.md",
+            "url": "https://github.com/whatyourname12345/CVE/blob/main/POS/cve.md",
+            "snippet": "# POS/cve.md\n\n- Branch: main\n- Repository: whatyourname12345/CVE\n\n---\n\n## Title: Authenticated Remote Code Execution (RCE) via Configuration Injection in Stocky POS\n\n**BUG_Author:** Chenkh\n\n**Affected",
             "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "Missing Authentication on Notification Endpoints · Advisory · OneUptime/oneuptime · GitHub",
-            "url": "https://github.com/OneUptime/oneuptime/security/advisories/GHSA-q253-6wcm-h8hp",
-            "snippet": "Missing Authentication on Notification Endpoints · Advisory · OneUptime/oneuptime · GitHub\n\nsimlarsen published GHSA-q253-6wcm-h8hp\n\nMar 30, 2026\n\n## Package\n\n oneuptime (npm) \n\n## Affected versions\n\n",
-            "published": "2026-03-30T00:00:00.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 5,
-        "enriched_at": "2026-11-01T07:12:07.733Z"
+        "total_results": 6,
+        "enriched_at": "2026-11-09T07:44:11.176Z"
       },
-      "timestamp": "2026-11-01T07:12:09.091Z"
+      "timestamp": "2026-11-09T07:44:12.630Z"
     },
     "doordash": {
       "intel": {
         "writeups": [
           {
-            "title": "DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical Clashes | LavX News",
-            "url": "https://news.lavx.hu/article/doordash-email-spoofing-flaw-ignites-bug-bounty-battle-15-months-of-neglect-and-ethical-clashes",
-            "snippet": "DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical Clashes | LavX News\n\n# DoorDash Email Spoofing Flaw Ignites Bug Bounty Battle: 15 Months of Neglect and Ethical",
-            "published": "2025-11-17T17:02:29.000Z",
-            "score": 1
+            "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
+            "url": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
+            "snippet": "DoorDash email spoofing vulnerability sparks messy disclosure dispute\n\n# DoorDash email spoofing vulnerability sparks messy disclosure dispute\n\n By \n\n###### Ax Sharma\n\n- November 17, 2025\n- 11:32 AM\n-",
+            "published": "2025-11-17T16:32:09.000Z",
+            "score": 0
           },
           {
-            "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute - Geek Feed",
-            "url": "https://geekfeed.net/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
-            "snippet": "DoorDash email spoofing vulnerability sparks messy disclosure dispute - Geek Feed\n\n# DoorDash email spoofing vulnerability sparks messy disclosure dispute\n\n November 19, 2025 November 19, 2025 geekfee",
-            "published": "2025-11-19T14:48:15.000Z",
+            "title": "DoorDash | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/doordash",
+            "snippet": "DoorDash | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nSignal Requ",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "HackerOne",
+            "url": "https://hackerone.com/doordash/policy_scopes",
+            "snippet": "HackerOne\n\nView changes (Last updated on October 23, 2025)\n\n1-19 of 19\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- |",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "n0shake/dash",
-            "url": "https://github.com/n0shake/dash",
-            "snippet": "# n0shake/dash\n\n🍲 DoorDash from your command line.\n\n- Stars: 47\n- Forks: 9\n- Watchers: 47\n- Open issues: 1\n- Default branch: master\n- Created: 2016-08-28T23:18:01Z\n- Status: ARCHIVED\n\n## Languages\n\n-",
-            "published": null,
-            "score": 1
-          },
-          {
-            "title": "docs/providers/evaluated.md",
-            "url": "https://github.com/abracadabra50/uk-grocery-cli/blob/main/docs/providers/evaluated.md",
-            "snippet": "# docs/providers/evaluated.md\n\n- Branch: main\n- Repository: abracadabra50/open-supermarkets\n\n---\n\n# Providers evaluated and not built\n\nBefore spending a weekend on a supermarket, check here. Each entr",
-            "published": null,
-            "score": 0.5
+            "title": "paras98/Threat-Modeling-Doordash",
+            "url": "https://github.com/paras98/Threat-Modeling-Doordash",
+            "snippet": "# paras98/Threat-Modeling-Doordash\n\nFor Cyber Risk Modeling Class , Threat model and case study for Doordash.\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 20",
+            "published": "2024-04-02T06:58:12.000Z",
+            "score": 0
           },
           {
             "title": "Add reproducible Linux release repackager",
@@ -1529,36 +1536,43 @@
             "snippet": "# Add reproducible Linux release repackager\n\n- State: open\n- Author: obnauticus\n- Created: 2026-07-31T21:30:29Z\n- Updated: 2026-08-05T22:20:08Z\n- Repository: doordash-oss/doordash-cli\n- Number: #46\n- ",
             "published": null,
             "score": 0
+          },
+          {
+            "title": "Overview · LatencyTDH/doordash-cli · GitHub",
+            "url": "https://github.com/LatencyTDH/doordash-cli/security",
+            "snippet": "Overview · LatencyTDH/doordash-cli · GitHub\n\n# Security Policy\n\n`doordash-cli` is an unofficial integration against DoorDash consumer-web traffic. Security work here is mostly about keeping the CLI ca",
+            "published": null,
+            "score": 0
           }
         ],
         "defi_audit": [],
-        "total_results": 5,
-        "enriched_at": "2026-11-01T07:12:09.091Z"
+        "total_results": 6,
+        "enriched_at": "2026-11-09T07:44:12.630Z"
       },
-      "timestamp": "2026-11-01T07:12:10.449Z"
+      "timestamp": "2026-11-09T07:44:14.071Z"
     },
     "robinhood": {
       "intel": {
         "writeups": [
           {
+            "title": "Robinhood Markets Bounty | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/robinhood",
+            "snippet": "Robinhood Markets Bounty | Bounty Policy | HackerOne\n\n## Introduction\n\nWelcome to the Robinhood Bug Bounty Program! We’re excited to work more closely with you on discovering bugs in Robinhood. Thank ",
+            "published": null,
+            "score": 0
+          },
+          {
             "title": "Robinhood Markets Bounty Bug Bounty Program Statistics | BugBountyHunter.com",
             "url": "https://www.bugbountyhunter.com/program?id=robinhood",
             "snippet": "Robinhood Markets Bounty Bug Bounty Program Statistics | BugBountyHunter.com\n\n### Robinhood Markets Bounty Program Statistics\n\n View program \n\n 2 total issues disclosed \n\n $100 total paid publicly \n\n ",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
-            "title": "Robinhood - HackerOne Bug Reports",
-            "url": "https://h1.security.nathan.sx/robinhood.html",
-            "snippet": "Robinhood - HackerOne Bug Reports\n\nPublic Robinhood bug reports.\n\n 4,419 Bug Reports - $2,030,173 Paid Out Last Updated: 12th September, 2017 \n\n| Team | Bounty | Title |\n| --- | --- | --- |\n| Robinhoo",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "ashwarya | Profile | HackerOne",
-            "url": "https://hackerone.com/ashwarya",
-            "snippet": "ashwarya | Profile | HackerOne\n\n (ashwarya)\n\nJoined March 2014\n\nStats\n\n90 Days\n\n#### 7.00\n\n#### 99th\n\nPercentile\n\n#### 26.67\n\nImpact\n\n#### 88th\n\nPercentile\n\n#### 197\n\nReputation\n\n#### -\n\nRank\n\n## 0 mo",
-            "published": null,
+            "title": "Robinhood Goes Long on Bug Bounty: Q&A with Ian Carroll and @ashwarya | HackerOne",
+            "url": "https://www.hackerone.com/blog/robinhood-goes-long-bug-bounty-qa-ian-carroll-and-ashwarya",
+            "snippet": "Robinhood Goes Long on Bug Bounty: Q&A with Ian Carroll and @ashwarya | HackerOne\n\n# Robinhood Goes Long on Bug Bounty: Q&A with Ian Carroll and @ashwarya \n\nFebruary 22, 2023 \n\nktansley@hackerone.com ",
+            "published": "2023-02-22T20:00:00.000Z",
             "score": 0
           }
         ],
@@ -1569,28 +1583,28 @@
             "url": "https://github.com/mohamedfhafah/robinhood-bounty-starter",
             "snippet": "# mohamedfhafah/robinhood-bounty-starter\n\nBug-bounty operations kit: scope checks, recon automation, authorization-diff probe, report templates (no confirmed finding)\n\n- Stars: 0\n- Forks: 0\n- Watchers",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
-            "title": "rh-first-deploy/lib/forge-std/test/StdCheats.t.sol",
-            "url": "https://github.com/nirholas/robinhood-toolkit/blob/main/rh-first-deploy/lib/forge-std/test/StdCheats.t.sol",
-            "snippet": "# rh-first-deploy/lib/forge-std/test/StdCheats.t.sol\n\n- Branch: main\n- Repository: nirholas/robinhood-toolkit\n\n---\n\n// SPDX-License-Identifier: MIT OR Apache-2.0\npragma solidity >=0.8.13 <0.9.0;\n\nimpo",
+            "title": "SECURITY.md",
+            "url": "https://github.com/sp0oby/twine/blob/main/SECURITY.md",
+            "snippet": "# SECURITY.md\n\n- Branch: main\n- Repository: sp0oby/woolfi\n\n---\n\n# Security Policy\n\nWoolFi is pre-launch, unaudited DeFi infrastructure handling real value. The way you report a problem matters as much",
             "published": null,
-            "score": 0.5
+            "score": 0
           },
           {
-            "title": "hackerone-bug-bounty-reports/results/based_on_program/h1_5411_ctf.md at master · codebygk/hackerone-bug-bounty-reports · GitHub",
-            "url": "https://github.com/codebygk/hackerone-bug-bounty-reports/blob/master/results/based_on_program/h1_5411_ctf.md",
-            "snippet": "hackerone-bug-bounty-reports/results/based_on_program/h1_5411_ctf.md at master · codebygk/hackerone-bug-bounty-reports · GitHub\n\nAll results updated\n\nOct 13, 2024\n\n13 lines (13 loc) · 1.14 KB\n\n13 line",
+            "title": "slkzgm/stonkbroker-agent",
+            "url": "https://github.com/slkzgm/stonkbroker-agent",
+            "snippet": "# slkzgm/stonkbroker-agent\n\nMCP agent for trading Robinhood stock tokens from a StonkBroker ERC-6551 wallet and posting confirmed trades to X.\n\n- Stars: 0\n- Forks: 1\n- Watchers: 0\n- Open issues: 7\n- L",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-01T07:12:10.449Z"
+        "enriched_at": "2026-11-09T07:44:14.071Z"
       },
-      "timestamp": "2026-11-01T07:12:11.834Z"
+      "timestamp": "2026-11-09T07:44:15.570Z"
     },
     "vercel-open-source": {
       "intel": {
@@ -1651,18 +1665,18 @@
       "intel": {
         "writeups": [
           {
-            "title": "Banco Plata Bug Bounty Program - Bug Bounties",
-            "url": "https://bug-bounties.as93.net/banco-plata/",
-            "snippet": "Banco Plata Bug Bounty Program - Bug Bounties\n\nBounty \n\n## Program Details \n\n Handle \n: banco_plata \nManaged\n: Yes \n\n## Response Metrics \n\nResponse Time\n: 4 days \nBounty Time\n: 627 days \nResolution Ti",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/banco_plata/scope_versions",
+            "snippet": "HackerOne\n\n| Type | Identifier | Max. Severity | In Scope | Bounty |\n| --- | --- | --- | --- | --- |\n| Api | prime.plata.co | Critical | Yes | Yes |\n\nBanco Plata\n\nhttp://bancoplata.mx\n\nBounty launched",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
-            "title": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/banco_plata",
-            "snippet": "banco_plata on HackerOne - Bug Bounty Scope | bbscope.com\n\n# banco_plata\n\n2 Out of Scope\n\nIn-Scope Assets (7)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| *.bancopl",
+            "title": "Banco Plata Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
+            "url": "https://blog.pentestnepal.tech/bugbounty/banco-plata/",
+            "snippet": "Banco Plata Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# Banco Plata Bug Bounty Program\n\nComplete guide to Banco Plata's bug bounty program on HackerOne. View in-scope asset",
             "published": null,
-            "score": 0.5
+            "score": 0
           },
           {
             "title": "Banco Plata Bug Bounty | bbradar.io",
@@ -1675,87 +1689,87 @@
         "twitter": [],
         "github": [
           {
-            "title": "Exploit scripts using pwntools",
-            "url": "https://github.com/Gallopsled/pwntools-write-ups/pull/37/files/fbc00bc5b5ac3ba9005929290ab66a7589353ef1",
-            "snippet": "# Exploit scripts using pwntools\n\n- State: open\n- Author: jkrshnmenon\n- Created: 2016-06-20T08:24:46Z\n- Updated: 2016-06-24T15:55:28Z\n- Repository: Gallopsled/pwntools-write-ups\n- Number: #37\n- +835 -",
+            "title": "careb36/CentralBank-SecLand-Vulnerable",
+            "url": "https://github.com/careb36/careb36-BancoCentral-SecLand-Vulnerable",
+            "snippet": "# careb36/CentralBank-SecLand-Vulnerable\n\nA deliberately vulnerable Spring Boot banking application designed for a master’s thesis on ethical hacking and AI-powered log analysis. It simulates user reg",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
-            "title": "2020 Plaid CTF mojo",
-            "url": "https://gist.github.com/ujin5/5b9a2ce2ffaf8f4222fe7381f792cb38",
-            "snippet": "# 2020 Plaid CTF mojo \n\n- Owner: ujin5\n- Created: 2020-04-20T00:11:47Z\n- Public: yes\n- Comments: 2\n- Forks: 2\n\n## exploit.html\n\nLanguage: HTML\n\n \n \n \n \n \n \n var heap;\n var replace_data;\n var count = 0",
+            "title": "GitHub - InfosecShinobi/vuln-bank-writeup: Findings and exploit scripts from an AI-powered penetration test of the Vuln-Bank application using Cline · GitHub",
+            "url": "https://github.com/InfosecShinobi/vuln-bank-writeup",
+            "snippet": "GitHub - InfosecShinobi/vuln-bank-writeup: Findings and exploit scripts from an AI-powered penetration test of the Vuln-Bank application using Cline · GitHub\n\n## About\n\nFindings and exploit scripts fr",
             "published": null,
-            "score": 0.5
+            "score": 0
           },
           {
-            "title": "GitHub - Mr-xn/Penetration_Testing_POC: 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms · GitHub",
-            "url": "https://github.com/Mr-xn/Penetration%5FTesting%5FPOC",
-            "snippet": "GitHub - Mr-xn/Penetration_Testing_POC: 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql s",
-            "published": null,
+            "title": "ckiellandpanw/brokenbank",
+            "url": "https://github.com/ckiellandpanw/brokenbank",
+            "snippet": "# Repository: ckiellandpanw/brokenbank\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Primary language: Python\n- Languages: Python (55.3%), HTML (15.7%), Java (10.5%), CSS (7.9%), JavaScript ",
+            "published": "2026-04-16T07:05:52.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-01T07:12:11.834Z"
+        "enriched_at": "2026-11-09T07:44:15.570Z"
       },
-      "timestamp": "2026-11-01T07:12:13.160Z"
+      "timestamp": "2026-11-09T07:44:17.178Z"
     },
     "netscaler_public_program": {
       "intel": {
         "writeups": [
           {
+            "title": "NetScaler Public Program | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/netscaler_public_program/hacktivity",
+            "snippet": "NetScaler Public Program | Hacktivity | HackerOne\n\nNetScaler Public Program\n\n$100\n\nBug reported by\n\nzhengg\n\nwas awarded a bounty\n\n7 months ago\n\n$100\n\nNetScaler Public Program\n\n$100\n\nBug reported by\n\nz",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "NetScaler Public Program Bug Bounty Program - Bug Bounties",
+            "url": "https://bug-bounties.as93.net/netscaler-public-program/",
+            "snippet": "NetScaler Public Program Bug Bounty Program - Bug Bounties\n\n# NetScaler Public Program\n\nBounty \n\n## Program Details \n\n Handle \n: netscaler_public_program \nManaged\n: No \n\n## Response Metrics \n\n Respons",
+            "published": null,
+            "score": 0
+          },
+          {
             "title": "CVE-2025-7775 - NetScaler ADC & Gateway - Remote Code Execution 💰",
             "url": "https://github.com/projectdiscovery/nuclei-templates/issues/13025",
             "snippet": "# CVE-2025-7775 - NetScaler ADC & Gateway - Remote Code Execution 💰\n\n- State: closed\n- Author: princechaddha\n- Created: 2025-08-29T02:00:07Z\n- Updated: 2025-10-13T03:00:08Z\n- Repository: projectdisco",
-            "published": "2025-08-29T00:00:00.000Z",
-            "score": 1
-          },
-          {
-            "title": "U.S. Dept Of Defense | Report #2509402 - Out-Of-Bounds Memory Read on ███ | HackerOne",
-            "url": "https://hackerone.com/reports/2509402",
-            "snippet": "U.S. Dept Of Defense | Report #2509402 - Out-Of-Bounds Memory Read on ███ | HackerOne\n\nTimeline \n\nmaskedpersian\n\n submitted a report to U.S. Dept Of Defense.\n\nMay 16, 2024, 7:04pm UTC\n\nVulnerability I",
-            "published": null,
-            "score": 0.5
-          },
-          {
-            "title": "CVE-2025-6543 - NetScaler ADC & Gateway - Buffer Overflow 💰",
-            "url": "https://github.com/projectdiscovery/nuclei-templates/issues/12906",
-            "snippet": "# CVE-2025-6543 - NetScaler ADC & Gateway - Buffer Overflow 💰\n\n- State: closed\n- Author: princechaddha\n- Created: 2025-08-17T02:00:07Z\n- Updated: 2025-10-01T03:00:07Z\n- Repository: projectdiscovery/n",
-            "published": "2025-08-17T00:00:00.000Z",
+            "published": "2025-08-29T02:00:07.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "mlynchcogent/CVE-2023-4966-POC",
-            "url": "https://github.com/mlynchcogent/CVE-2023-4966-POC",
-            "snippet": "# mlynchcogent/CVE-2023-4966-POC\n\nProof Of Concept for te NetScaler Vuln\n\n- Stars: 8\n- Forks: 3\n- Watchers: 8\n- Open issues: 0\n- License: GNU General Public License v3.0\n- Default branch: main\n- Creat",
+            "title": "oways/CitrixBleed2_POC",
+            "url": "https://github.com/oways/CitrixBleed2_POC",
+            "snippet": "# oways/CitrixBleed2_POC\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2025-07-06T10:18:34Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- oways (4 contribut",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
-            "title": "RickGeex/CVE-2025-5777-CitrixBleed",
-            "url": "https://github.com/RickGeex/CVE-2025-5777-CitrixBleed",
-            "snippet": "# RickGeex/CVE-2025-5777-CitrixBleed\n\nCitrixBleed-2 (CVE-2025-5777) – proof-of-concept exploit for NetScaler ADC/Gateway “memory bleed”\n\n- Stars: 1\n- Forks: 4\n- Watchers: 1\n- Open issues: 0\n- Default ",
+            "title": "bughuntar/CVE-2025-5777",
+            "url": "https://github.com/bughuntar/CVE-2025-5777",
+            "snippet": "# bughuntar/CVE-2025-5777\n\nCVE-2025-5777 Citrix NetScaler Memory Leak Exploit (CitrixBleed 2)\n\n- Stars: 30\n- Forks: 5\n- Watchers: 30\n- Open issues: 0\n- Default branch: main\n- Created: 2025-07-10T07:15",
             "published": null,
-            "score": 0.5
+            "score": 0
           },
           {
-            "title": "TNCX-byte/CVE-2025-5777-CitrixBleed2",
-            "url": "https://github.com/TNCX-byte/CVE-2025-5777-CitrixBleed2",
-            "snippet": "# TNCX-byte/CVE-2025-5777-CitrixBleed2\n\nCitrixBleed-2 (CVE-2025-5777) – POC for NetScaler ADC/Gateway “memory bleed”\n\n- Stars: 1\n- Forks: 1\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Crea",
+            "title": "craigsblackie/cve-2026-88771-netscaler",
+            "url": "https://github.com/craigsblackie/cve-2026-88771-netscaler",
+            "snippet": "# craigsblackie/cve-2026-88771-netscaler\n\n- Stars: 1\n- Forks: 1\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2026-09-28T10:06:54Z\n\n## Languages\n\n- C\n- PHP\n- Perl\n- Python\n- Shell\n\n",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-01T07:12:13.160Z"
+        "enriched_at": "2026-11-09T07:44:17.178Z"
       },
-      "timestamp": "2026-11-01T07:12:14.544Z"
+      "timestamp": "2026-11-09T07:44:18.651Z"
     },
     "meesho_bbp": {
       "intel": {
@@ -4373,23 +4387,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com",
-            "url": "https://www.linkgeanie.com/news/magic-eden-will-refund-users-who-bought-25-fake-nfts-due-to-exploit",
-            "snippet": "Magic Eden will refund users who bought 25 fake NFTs due to exploit | Linkgeanie.com\n\n# Magic Eden will refund users who bought 25 fake NFTs due to exploit\n\n raguvaran \n\nMultiple dozen phony NFTs were",
-            "published": "2023-01-06T09:41:55.000Z",
-            "score": 1
-          },
-          {
-            "title": "Magic Eden Hit With 'Massive Exploit', Customers Accidentally Purchase 25 Fake NFTs on Platform | Technology News",
-            "url": "https://www.gadgets360.com/cryptocurrency/news/magic-eden-massive-exploit-buyers-accidentally-purchase-25-fake-nfts-3665835",
-            "snippet": "Magic Eden Hit With 'Massive Exploit', Customers Accidentally Purchase 25 Fake NFTs on Platform | Technology News\n\n# Magic Eden Hit With 'Massive Exploit', Customers Accidentally Purchase 25 Fake NFTs",
-            "published": "2023-01-05T08:46:46.000Z",
-            "score": 0.5
+            "title": "Magic Eden | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/magic-eden",
+            "snippet": "Magic Eden | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nSignal Re",
+            "published": null,
+            "score": 0
           },
           {
             "title": "Frequently Asked Questions (FAQs)",
             "url": "https://docs.magiceden.io/reference/frequently-asked-questions-faqs",
-            "snippet": "Frequently Asked Questions (FAQs)\n\nSecurity Issues and Bug Bounties\n\nMagic Eden’s API and most other assets are covered under our bug bounty program with HackerOne. We invite you to explore our API an",
+            "snippet": "Frequently Asked Questions (FAQs)\n\n# Frequently Asked Questions (FAQs)\n\nSecurity Issues and Bug Bounties\n\nMagic Eden’s API and most other assets are covered under our bug bounty program with HackerOne",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "Magic Eden | Updates | HackerOne",
+            "url": "https://hackerone.com/magic-eden/updates",
+            "snippet": "Magic Eden | Updates | HackerOne\n\n### There are no updates yet.\n\nMagic Eden\n\nhttp://magiceden.io@magiceden\n\nMagic Eden is the leading community-centric NFT marketplace. Home to the next generation of ",
             "published": null,
             "score": 0
           }
@@ -4397,32 +4411,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "GitHub - Anonymous-Rob/Solana-NFT-Sniper: Magic Eden bot designed to sniff for new listings, and to snipe them automatically at the desired price. · GitHub",
-            "url": "https://github.com/Anonymous-Rob/Solana-NFT-Sniper",
-            "snippet": "GitHub - Anonymous-Rob/Solana-NFT-Sniper: Magic Eden bot designed to sniff for new listings, and to snipe them automatically at the desired price. · GitHub\n\n## About\n\nMagic Eden bot designed to sniff ",
-            "published": "2022-05-07T00:00:00.000Z",
-            "score": 1
+            "title": "index.ts",
+            "url": "https://github.com/Cissoko420/NFT-Buy-MagicEden-POC/blob/main/index.ts",
+            "snippet": "# index.ts\n\n- Branch: main\n- Repository: Cissoko420/NFT-Buy-MagicEden-POC\n\n---\n\nimport {\n Connection,\n PublicKey,\n Keypair,\n TransactionInstruction,\n SystemProgram,\n Transaction,\n Message,\n sendAndCon",
+            "published": null,
+            "score": 0
           },
           {
-            "title": "Pause function can be bricked · Issue #25 · code-423n4/2024-10-kleidi-findings",
-            "url": "https://github.com/code-423n4/2024-10-kleidi-findings/issues/25",
-            "snippet": "# Issue: code-423n4/2024-10-kleidi-findings #25\n\n- Repository: code-423n4/2024-10-kleidi-findings | 0 stars\n\n## Pause function can be bricked\n\n- Author: [@howlbot-integration[bot]](https://github.com/",
-            "published": "2024-10-27T19:55:04.000Z",
-            "score": 0.5
+            "title": "santidev95/mon-tools",
+            "url": "https://github.com/SantiSjp/mon-tools",
+            "snippet": "# santidev95/mon-tools\n\nMonTools is a Open Source Monad Web3 tool suite that lets you create, inspect, and manage tokens, NFTs, and on-chain data through a sleek, OS-inspired interface. Fast, modular,",
+            "published": null,
+            "score": 0
           },
           {
-            "title": "Attacker Can Frontruns User's Withdrawals To Make Them Reverts Without Costs · Issue #930 · code-423n4/2024-04-dyad-findings",
-            "url": "https://github.com/code-423n4/2024-04-dyad-findings/issues/930",
-            "snippet": "# Issue: code-423n4/2024-04-dyad-findings #930\n\n- Repository: code-423n4/2024-04-dyad-findings | 8 stars\n\n## Attacker Can Frontruns User's Withdrawals To Make Them Reverts Without Costs\n\n- Author: [@c",
-            "published": "2024-04-25T14:13:57.000Z",
+            "title": "Magic Eden On-Chain Transaction Parsing",
+            "url": "https://gist.github.com/jp4g/c800ed2f9b2bf7318ed656cc275f1e1d",
+            "snippet": "# Magic Eden On-Chain Transaction Parsing\n\n- Owner: jp4g\n- Created: 2022-04-25T22:21:51Z\n- Public: yes\n- Comments: 1\n- Forks: 1\n\n## magicEdenParser.js\n\nLanguage: JavaScript\n\nconst solanaWeb3 = require",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-01T07:12:14.545Z"
+        "enriched_at": "2026-11-09T07:44:18.652Z"
       },
-      "timestamp": "2026-11-01T07:12:15.955Z"
+      "timestamp": "2026-11-09T07:44:20.132Z"
     },
     "boozt": {
       "intel": {
@@ -5767,24 +5781,24 @@
       "intel": {
         "writeups": [
           {
-            "title": "Coupang Taiwan reveals 2025 data breach affecting 33.7 million accounts, launches bug bounty program | China LCD Display Manufacturer and Supplier for Alphanumeric,Character,Graphic LCD Panel and Module",
-            "url": "https://lcdproduct.com/coupang-taiwan-reveals-2025-data-breach-affecting-33-7-million-accounts-launches-bug-bounty-program/",
-            "snippet": "Coupang Taiwan reveals 2025 data breach affecting 33.7 million accounts, launches bug bounty program | China LCD Display Manufacturer and Supplier for Alphanumeric,Character,Graphic LCD Panel and Modu",
-            "published": "2026-05-10T00:01:49.000Z",
-            "score": 1
+            "title": "Coupang Taiwan | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/coupang_tw/hacktivity",
+            "snippet": "Coupang Taiwan | Hacktivity | HackerOne\n\nCoupang Taiwan\n\n$4,200\n\nBug reported by\n\nhyasin\n\nwas resolved\n\n5 days ago\n\n$4,200\n\nCoupang Taiwan\n\ncache-pool\n\n5 days ago\n\nCoupang Taiwan\n\ncache-pool\n\n7 days a",
+            "published": null,
+            "score": 0
           },
           {
-            "title": "Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, launches bug bounty",
-            "url": "https://www.digitimes.com/news/a20260508PD222/taiwan-data-2025-information-security-2026.html",
-            "snippet": "Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, launches bug bounty\n\n# Coupang Taiwan details local response to 2025 breach affecting 200,000 accounts, launches bug bo",
-            "published": "2026-05-09T23:17:53.000Z",
-            "score": 0.5
+            "title": "Coupang Taiwan | Safe Harbor | HackerOne",
+            "url": "https://hackerone.com/coupang_tw/safe_harbor",
+            "snippet": "Coupang Taiwan | Safe Harbor | HackerOne\n\nGold Standard Safe Harbor\n\n- Will not bring legal action against you or report you for Good Faith Security Research, including for bypassing technological mea",
+            "published": null,
+            "score": 0
           },
           {
-            "title": "【臺灣資安大會直擊】酷澎臺灣資安長陳浩維宣布：酷澎首個公開版漏洞獎勵計畫，並揭露背後的戰略藍圖 | iThome",
-            "url": "https://www.ithome.com.tw/news/175741",
-            "snippet": "【臺灣資安大會直擊】酷澎臺灣資安長陳浩維宣布：酷澎首個公開版漏洞獎勵計畫，並揭露背後的戰略藍圖 | iThome\n\n# 【臺灣資安大會直擊】酷澎臺灣資安長陳浩維宣布：酷澎首個公開版漏洞獎勵計畫，並揭露背後的戰略藍圖\n\n酷澎臺灣宣布與HackerOne合作，推出臺灣首個公開漏洞回報計畫，也是酷澎集團全球首發。這不只是一個資安工具的上線，更是一家跨國電商在臺灣重建信任的宣示。\n\n 文/黃彥棻| 202",
-            "published": "2026-05-12T00:00:00.000Z",
+            "title": "Coupang Taiwan Bug Bounty | bbradar.io",
+            "url": "https://bbradar.io/program/HackerOne:coupang_tw",
+            "snippet": "Coupang Taiwan Bug Bounty | bbradar.io\n\n# Coupang Taiwan\n\nHackerone· Bug Bounty Program Active\n\nReward range\n\n$50 - $6,000\n\nPublished rewards\n\nIn-scope targets\n\n47\n\n47 tracked targets in total\n\nScope ",
+            "published": "2024-01-01T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -5795,28 +5809,28 @@
             "url": "https://github.com/fkhb90/URL_Ultimate_Filter/pull/36",
             "snippet": "# V46.24 - [BugFix]: exempt Coupang functional paths\n\n- State: merged\n- Author: fkhb90\n- Created: 2026-06-13T05:11:49Z\n- Updated: 2026-06-13T05:12:57Z\n- Repository: fkhb90/URL_Ultimate_Filter\n- Number",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
-            "title": "PLATFORMS.md",
-            "url": "https://github.com/fivetaku/insane-search/blob/main/PLATFORMS.md",
-            "snippet": "# PLATFORMS.md\n\n- Branch: main\n- Repository: fivetaku/insane-search\n\n---\n\n# Supported platforms & reference\n\nFull platform coverage, the reference files behind each route, dependencies, and example pr",
+            "title": "AllenShi100/spike-first",
+            "url": "https://github.com/AllenShi100/spike-first",
+            "snippet": "# AllenShi100/spike-first\n\nSpike First | 先打靶再造枪 - 抓取/集成任务的强制可行性闸门 Agent Skill：开工前 5 分钟探针验证最大未知点，连跑 3-5 次测成功率，不通过当场喊停\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Crea",
             "published": null,
-            "score": 0.5
+            "score": 0
           },
           {
-            "title": "Yusang-park/insane-search",
-            "url": "https://github.com/Yusang-park/insane-search",
-            "snippet": "# Yusang-park/insane-search\n\nAuto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- ",
+            "title": "cd8c678 Release v1.3.10: 新增酷澎台灣 (Coupang Taiwan) URL 支援",
+            "url": "https://github.com/Oliver0804/chrome_plugin_shortURL/commit/cd8c6788147b77cd10603b8df60aac05659877d0",
+            "snippet": "# cd8c678 Release v1.3.10: 新增酷澎台灣 (Coupang Taiwan) URL 支援\n\n- SHA: cd8c6788147b77cd10603b8df60aac05659877d0\n- Repository: Oliver0804/chrome_plugin_shortURL\n- Author: Oliver0804\n- Date: 2025-11-21T17:30",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-01T07:12:05.025Z"
+        "enriched_at": "2026-11-09T07:44:08.210Z"
       },
-      "timestamp": "2026-11-01T07:12:06.392Z"
+      "timestamp": "2026-11-09T07:44:09.728Z"
     },
     "anthropic": {
       "intel": {
@@ -5877,56 +5891,56 @@
       "intel": {
         "writeups": [
           {
-            "title": "agoda-public on HackerOne - Bug Bounty Scope | bbscope.com",
-            "url": "https://bbscope.com/program/h1/agoda-public",
-            "snippet": "agoda-public on HackerOne - Bug Bounty Scope | bbscope.com\n\n# agoda-public\n\n0 Out of Scope\n\nIn-Scope Assets (3)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | --- |\n| https:/",
+            "title": "Agoda Public | Updates | HackerOne",
+            "url": "https://hackerone.com/agoda-public/updates",
+            "snippet": "Agoda Public | Updates | HackerOne\n\nSeptember 1st, 2026 (2 months ago)\n\nHi hackers! We have added 2 new assets to our scope, both with a maximum severity of Critical:\n\nHappy hacking! Agoda Team\n\n2026-",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
             "title": "Medium",
             "url": "https://medium.com/agoda-engineering/agoda-launches-bug-bounty-program-on-hackerone-to-connect-with-global-research-community-8e67530f0934",
             "snippet": "Medium\n\n# Agoda Launches Bug Bounty Program on HackerOne to Connect with Global Research Community\n\nAgoda Engineering\n\nJun 25, 2026\n\nPress enter or click to view image in full size\n\nLast year, we shar",
             "published": "2026-06-25T06:46:52.000Z",
-            "score": 0.5
+            "score": 0
           },
           {
-            "title": "Travel PR News | Agoda Invites Global Security Researchers to Test Travel Platform Through HackerOne",
-            "url": "https://travelprnews.com/agoda-invites-global-security-researchers-to-test-travel-platform-through-hackerone/travel-press-release/2026/06/23/",
-            "snippet": "Travel PR News | Agoda Invites Global Security Researchers to Test Travel Platform Through HackerOne\n\n# Agoda Invites Global Security Researchers to Test Travel Platform Through HackerOne\n\n Posted on ",
-            "published": "2026-06-23T17:33:34.000Z",
+            "title": "agoda-public on HackerOne - Bug Bounty Scope | bbscope.com",
+            "url": "https://bbscope.com/program/h1/agoda-public",
+            "snippet": "agoda-public on HackerOne - Bug Bounty Scope | bbscope.com\n\n# agoda-public\n\n3 In Scope\n\n0 Out of Scope\n\nIn-Scope Assets (3)\n\n| Asset | Category | Bounty | Quick Links | |\n| --- | --- | --- | --- | ---",
+            "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "tools/%E9%80%9A%E8%BE%BEOA_v11.6_RCE_EXP.py",
-            "url": "https://github.com/Mr-xn/Penetration_Testing_POC/blob/master/tools/%E9%80%9A%E8%BE%BEOA_v11.6_RCE_EXP.py",
-            "snippet": "# tools/%E9%80%9A%E8%BE%BEOA_v11.6_RCE_EXP.py\n\n- Branch: master\n- Repository: Mr-xn/Penetration_Testing_POC\n\n---\n\nimport requests \n \n# 通达OA v11.6 RCE EXP \n# 注意，会删除 auth.inc.php 文件，这个文件是判断用户是否登陆的文件，如果没",
+            "title": "Overview · agoda-com/llm-traces · GitHub",
+            "url": "https://github.com/agoda-com/llm-traces/security",
+            "snippet": "Overview · agoda-com/llm-traces · GitHub\n\n## Supported versions\n\nSecurity fixes are released for the latest published version of the plugin only. If you run an older version, upgrade to the latest rel",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
-            "title": "templates/Dockerfile",
-            "url": "https://github.com/agoda-com/docker-emulator-android/blob/master/templates/Dockerfile",
-            "snippet": "# templates/Dockerfile\n\n- Branch: master\n- Repository: agoda-com/docker-emulator-android\n\n---\n\nFROM ubuntu:18.04\n\nMAINTAINER Anton Malinskiy \"anton@malinskiy.com\"\n\n# Set up insecure default key\nCOPY a",
+            "title": "GitHub - mandes95/crawl-agoda · GitHub",
+            "url": "https://github.com/mandes95/crawl-agoda",
+            "snippet": "GitHub - mandes95/crawl-agoda · GitHub\n\nNo description or website provided.\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n| driver | driver ",
             "published": null,
-            "score": 0.5
+            "score": 0
           },
           {
-            "title": "src/test/2022-03/Agave_exp.sol",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2022-03/Agave_exp.sol",
-            "snippet": "# src/test/2022-03/Agave_exp.sol\n\n- Branch: main\n- Repository: SunWeb3Sec/DeFiHackLabs\n\n---\n\n// SPDX-License-Identifier: UNLICENSED\npragma solidity ^0.8.10;\n\nimport \"./../basetest.sol\";\nimport \"./../i",
+            "title": "yuroitaki/tomaru",
+            "url": "https://github.com/yuroitaki/tomaru",
+            "snippet": "# yuroitaki/tomaru\n\nAuthentic, anonymous hotel review web3 platform built as a hackathon demo\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2024-09-04T11:07:3",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-01T07:12:03.637Z"
+        "enriched_at": "2026-11-09T07:44:06.719Z"
       },
-      "timestamp": "2026-11-01T07:12:05.025Z"
+      "timestamp": "2026-11-09T07:44:08.209Z"
     },
     "yuga_labs": {
       "intel": {
@@ -6042,23 +6056,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "Update and rename 9GCIR5HR.md to Large-quantity-order-causes-application-unresponsiveness.md · 748651e · yuzadef/yuzadef.github.io",
-            "url": "https://github.com/yuzadef/yuzadef.github.io/commit/748651e60a1ed03d31713848771b450e343c16ee",
-            "snippet": "# Commit: yuzadef/yuzadef.github.io@748651e\n\n- Repository: yuzadef/yuzadef.github.io | Effortlessly share your thoughts in a calm & dustless space. | 0 stars | Astro\n\n## Update and rename 9GCIR5HR.md ",
-            "published": "2026-02-07T09:26:18.000Z",
-            "score": 1
+            "title": "Wolt | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/wolt",
+            "snippet": "Wolt | Bounty Policy | HackerOne\n\n## Introduction\n\nWolt provides a platform for:\n\n- Businesses to sell products (like food, clothing and even electronics).\n- Customers to purchase such products and ge",
+            "published": null,
+            "score": 0
           },
           {
-            "title": "Wolt Delivery: Food and more App for Android information disclosure | CVE-2023-22429 - RedPacket Security",
-            "url": "https://www.redpacketsecurity.com/wolt-delivery-food-and-more-app-for-android-information-disclosure-cve-2023-22429/",
-            "snippet": "Skip to content\n\n- Home\n- Vulnerabilities\n- Wolt Delivery: Food and more App for Android information disclosure | CVE-2023-22429\n\n> NAME\n> __________\n> Wolt Delivery: Food and more App for Android inf",
-            "published": "2023-03-14T10:02:16.000Z",
-            "score": 0.5
+            "title": "Wolt - Bug Bounty Program - Intigriti",
+            "url": "https://app.intigriti.com/programs/wolt/wolt/detail",
+            "snippet": "Wolt - Bug Bounty Program - Intigriti\n\n Description \n\nWe provide a platform for: - Businesses to sell products (like food, clothing and even electronics). - Customers to purchase such products and get",
+            "published": null,
+            "score": 0
           },
           {
-            "title": "NVD - CVE-2023-22429",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22429",
-            "snippet": "NVD - CVE-2023-22429\n\n| URL | Source(s) | Tag(s) |\n| --- | --- | --- |\n| https://jvn.jp/en/jp/JVN64453490/ | CVE, JPCERT/CC | Third Party Advisory |\n| https://play.google.com/store/apps/details?id=com",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/wolt/policy_scopes",
+            "snippet": "HackerOne\n\n### Tier 1\n\nLow$150 Avg. bounty n/a Medium$750 Avg. bounty $1,050 High$1,500 Avg. bounty n/a Critical$3,500 Avg. bounty n/a\n\n1-7 of 7\n\n| Asset name | Type | Max. severity | Bounty | Last up",
             "published": null,
             "score": 0
           }
@@ -6066,32 +6080,32 @@
         "twitter": [],
         "github": [
           {
-            "title": "anirbala98/CVE-2026-67206",
-            "url": "https://github.com/anirbala98/CVE-2026-67206",
-            "snippet": "# anirbala98/CVE-2026-67206\n\nWolf CMS <= 0.8.3.1 - RCE via Arbitrary File Write\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: master\n- Created: 2026-08",
+            "title": "Overview · selfish/ha-wait-for-wolt · GitHub",
+            "url": "https://github.com/selfish/ha-wait-for-wolt/security",
+            "snippet": "Overview · selfish/ha-wait-for-wolt · GitHub\n\n## Supported versions\n\nUntil the first stable release, only the latest release and the current `main` branch receive security fixes.\n\n## Reporting a vulne",
             "published": null,
-            "score": 1
+            "score": 0
           },
           {
-            "title": "feat(wolt): add wolt (#799) · mvanhorn/printing-press-library@df09d22 · GitHub",
-            "url": "https://github.com/mvanhorn/printing-press-library/commit/df09d22de939323d71923667a7d0f402e6273123",
-            "snippet": "feat(wolt): add wolt (#799) · mvanhorn/printing-press-library@df09d22 · GitHub\n\n# Commit df09d22\n\n \n\nAmit-Tabibi\n\nfeat(wolt): add wolt (#799)\n\n* feat(wolt): add wolt Browse-only Wolt food delivery CLI",
-            "published": "2026-05-26T00:00:00.000Z",
-            "score": 0.5
+            "title": "shalev396/WoltFlow",
+            "url": "https://github.com/shalev396/WoltFlow",
+            "snippet": "# shalev396/WoltFlow\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2025-05-16T12:16:33Z\n\n## Languages\n\n- Batchfile\n- CSS\n- Dockerfile\n- HTML\n- JavaScript\n- Py",
+            "published": null,
+            "score": 0
           },
           {
-            "title": "methosiea/yoshimitsu",
-            "url": "https://github.com/methosiea/yoshimitsu",
-            "snippet": "# Repository: methosiea/yoshimitsu\n\nWoltLab Suite Core 5.4.13 XSS Vulnerability Exploitation Framework\n\n- Stars: 0\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Primary language: TypeScript\n- Languages:",
-            "published": "2022-01-31T12:13:37.000Z",
+            "title": "Overview · mekedron/wolt-cli · GitHub",
+            "url": "https://github.com/mekedron/wolt-cli/security",
+            "snippet": "Overview · mekedron/wolt-cli · GitHub\n\n# Security Policy\n\nSecurity issues in `wolt-cli` are handled with priority.\n\n## Supported Versions\n\nUse the latest version from this repository and GitHub releas",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-01T07:12:01.667Z"
+        "enriched_at": "2026-11-09T07:44:04.886Z"
       },
-      "timestamp": "2026-11-01T07:12:03.636Z"
+      "timestamp": "2026-11-09T07:44:06.719Z"
     },
     "vercel_sandbox": {
       "intel": {
@@ -6582,5 +6596,5 @@
       "timestamp": "2026-11-07T06:52:45.696Z"
     }
   },
-  "lastRun": "2026-11-08T06:58:51.397Z"
+  "lastRun": "2026-11-09T07:44:20.132Z"
 }
