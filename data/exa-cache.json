@@ -4683,9 +4683,9 @@
       "intel": {
         "writeups": [
           {
-            "title": "🔓$4000 Blind SQL Injection in inDrive | by Abhijeet kumawat | Medium",
+            "title": "Medium",
             "url": "https://medium.com/@kumawatabhijeet2002/4000-blind-sql-injection-in-indrive-a0a4dcd99cb9",
-            "snippet": "🔓$4000 Blind SQL Injection in inDrive | by Abhijeet kumawat | Medium\n\n# 🔓$4000 Blind SQL Injection in inDrive\n\nAbhijeet kumawat\n\nFeb 18, 2025\n\nHi Fellow Hackers! 👋 I’m Abhijeet Kumawat, a security ",
+            "snippet": "Medium\n\n# 🔓$4000 Blind SQL Injection in inDrive\n\nAbhijeet kumawat\n\nFeb 18, 2025\n\nHi Fellow Hackers! 👋 I’m Abhijeet Kumawat, a security researcher passionate about breaking things (ethically!). Today",
             "published": "2025-02-18T16:05:15.000Z",
             "score": 0
           },
@@ -4697,10 +4697,10 @@
             "score": 0
           },
           {
-            "title": "inDrive | Report #2588329 - Change phone number OTP flaw leads to any phone number takeover | HackerOne",
-            "url": "https://hackerone.com/reports/2588329",
-            "snippet": "inDrive | Report #2588329 - Change phone number OTP flaw leads to any phone number takeover | HackerOne\n\nSummary by inDrive\n\nTimeline \n\npolem4rch\n\n submitted a report to inDrive.\n\nJuly 7, 2024, 3:16am",
-            "published": "2024-07-07T00:00:00.000Z",
+            "title": "inDrive | Report #2300358 - SSRF in https://couriers.indrive.com/api/file-storage | HackerOne",
+            "url": "https://hackerone.com/reports/2300358",
+            "snippet": "inDrive | Report #2300358 - SSRF in https://couriers.indrive.com/api/file-storage | HackerOne\n\nSummary by inDrive\n\nTimeline \n\ncypher-28\n\n submitted a report to inDrive.\n\nDecember 31, 2023, 1:31pm UTC\n",
+            "published": "2023-12-31T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -4721,18 +4721,18 @@
             "score": 0
           },
           {
-            "title": "results/based_on_program/indrive.md",
-            "url": "https://github.com/codebygk/hackerone-bug-bounty-reports/blob/master/results/based_on_program/indrive.md",
-            "snippet": "# results/based_on_program/indrive.md\n\n- Branch: master\n- Repository: codebygk/hackerone-bug-bounty-reports\n\n---\n\n## Reports in indrive program:\n| S.No | Title | Bounty |\n| ---- | ----- | ------ |\n| 1",
+            "title": "by-asset-type/wildcard.md",
+            "url": "https://github.com/ajaysenr/HackerOne-Disclosed-Reports/blob/e2f67323/by-asset-type/wildcard.md",
+            "snippet": "# by-asset-type/wildcard.md\n\n- Branch: e2f67323\n- Repository: ajaysenr/HackerOne-Disclosed-Reports\n\n---\n\n# Asset Type: Wildcard (732 reports)\n\n*Sorted by bounty amount, then severity, then votes.*\n\n| ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-13T07:39:59.637Z"
+        "enriched_at": "2026-11-23T08:40:25.974Z"
       },
-      "timestamp": "2026-11-13T07:40:01.204Z"
+      "timestamp": "2026-11-23T08:40:27.312Z"
     },
     "amazonvrp-devices": {
       "intel": {
@@ -4812,8 +4812,15 @@
           {
             "title": "Lightwalletd cancelled block-range streams leak worker goroutines · Advisory · zcash/lightwalletd · GitHub",
             "url": "https://github.com/zcash/lightwalletd/security/advisories/GHSA-9x94-88pq-6v7h",
-            "snippet": "Lightwalletd cancelled block-range streams leak worker goroutines · Advisory · zcash/lightwalletd · GitHub\n\nLarryRuane published GHSA-9x94-88pq-6v7h\n\nJul 28, 2026\n\n github.com/zcash/lightwalletd (Go) ",
+            "snippet": "Lightwalletd cancelled block-range streams leak worker goroutines · Advisory · zcash/lightwalletd · GitHub\n\n# Lightwalletd cancelled block-range streams leak worker goroutines \n\n High \n\nLarryRuane pub",
             "published": "2026-07-28T00:00:00.000Z",
+            "score": 0
+          },
+          {
+            "title": "PoC.md",
+            "url": "https://github.com/eBPF-Research/eBPF-Attack/blob/main/PoC.md",
+            "snippet": "# PoC.md\n\n- Branch: main\n- Repository: eBPF-Research/eBPF-Attack\n\n---\n\n# Universal Container Escape with eBPF (CVE-2022-42150)\n\nThis is the PoC for CVE-2022-42150.\n\n## Attack Requirements\nEnabling eBP",
+            "published": null,
             "score": 0
           },
           {
@@ -4822,20 +4829,13 @@
             "snippet": "# liang-junkai/Relic-bbs-fault-injection\n\nContains a pdf vulnerability report for BB short signature in relic library\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: Apache License 2.",
             "published": null,
             "score": 0
-          },
-          {
-            "title": "Botti01/eBPF-CVE-exploitation",
-            "url": "https://github.com/Botti01/eBPF-CVE-exploitation",
-            "snippet": "# Botti01/eBPF-CVE-exploitation\n\nAcademic research project focused on analyzing and exploiting recent eBPF verifier vulnerabilities (CVEs). Includes PoCs and exploit development for educational purpos",
-            "published": null,
-            "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-13T07:40:01.204Z"
+        "enriched_at": "2026-11-23T08:40:27.312Z"
       },
-      "timestamp": "2026-11-13T07:40:02.700Z"
+      "timestamp": "2026-11-23T08:40:28.718Z"
     },
     "mergify": {
       "intel": {
@@ -4848,17 +4848,17 @@
             "score": 0
           },
           {
-            "title": "Security",
-            "url": "https://docs.mergify.com/security/",
-            "snippet": "Mergify runs in front of GitHub to evaluate merge conditions and orchestrate\nyour pipeline. This page documents our compliance posture, how we handle your\ndata, the access controls in place, what an a",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/mergify/policy_scopes",
+            "snippet": "HackerOne\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | --- |\n| dashboard.mergify.com Cloudflare JavaScript | Domain",
             "published": null,
             "score": 0
           },
           {
-            "title": "We Stopped Our Config Builder From Destroying Your YAML, Then Found a Worse Bug Next to It | Mergify",
-            "url": "https://mergify.com/blog/yaml-config-builder-parser-bug",
-            "snippet": "We Stopped Our Config Builder From Destroying Your YAML, Then Found a Worse Bug Next to It | Mergify\n\nAlexandre Gaubert\n\nJuly 29, 2026 · 8 min read\n\n# We Stopped Our Config Builder From Destroying You",
-            "published": "2026-07-29T00:00:00.000Z",
+            "title": "Security",
+            "url": "https://docs.mergify.com/security/",
+            "snippet": "Mergify runs in front of GitHub to evaluate merge conditions and orchestrate\nyour pipeline. This page documents our compliance posture, how we handle your\ndata, the access controls in place, what an a",
+            "published": null,
             "score": 0
           }
         ],
@@ -4867,30 +4867,30 @@
           {
             "title": "Prototype Pollution in mergify · GHSA-3f95-w5h5-fq86 · GitHub Advisory Database · GitHub",
             "url": "https://github.com/advisories/GHSA-3f95-w5h5-fq86",
-            "snippet": "Prototype Pollution in mergify · GHSA-3f95-w5h5-fq86 · GitHub Advisory Database · GitHub\n\n## Prototype Pollution in mergify \n\n Moderate severity GitHub Reviewed \n\n Published \n\nSep 11, 2020\n\n## Package",
+            "snippet": "Prototype Pollution in mergify · GHSA-3f95-w5h5-fq86 · GitHub Advisory Database · GitHub\n\n# Prototype Pollution in mergify \n\n Moderate severity GitHub Reviewed \n\n Published \n\nSep 11, 2020\n\nJan 9, 2023",
             "published": "2020-09-11T00:00:00.000Z",
             "score": 0
           },
           {
-            "title": "v1.16: [zk-token-proof] Update docs for the ZK Token proof program in `zk-token-sdk` (backport of #32186)",
-            "url": "https://github.com/solana-labs/solana/pull/32221",
-            "snippet": "# v1.16: [zk-token-proof] Update docs for the ZK Token proof program in `zk-token-sdk` (backport of #32186)\n\n- State: merged\n- Author: mergify[bot]\n- Created: 2023-06-21T11:51:36Z\n- Updated: 2023-06-2",
-            "published": null,
+            "title": "fix!: prevent OOM via unbounded Groth16 verifying key deserialization (backport #6754) · Pull Request #6781 · celestiaorg/celestia-app",
+            "url": "https://github.com/celestiaorg/celestia-app/pull/6781",
+            "snippet": "# Pull Request: celestiaorg/celestia-app #6781\n\n- Repository: celestiaorg/celestia-app | Celestia consensus node | 411 stars | Go\n\n## fix!: prevent OOM via unbounded Groth16 verifying key deserializat",
+            "published": "2026-03-11T03:16:36.000Z",
             "score": 0
           },
           {
-            "title": "Security Fix for Prototype Pollution - huntr.dev · Pull Request #38 · swordev/merge",
-            "url": "https://github.com/yeikos/js.merge/pull/38",
-            "snippet": "# Pull Request: swordev/merge #38\n\n- Repository: swordev/merge | 176 stars | TypeScript\n\n## Security Fix for Prototype Pollution - huntr.dev\n\n- Author: [@huntr-helper](https://github.com/huntr-helper)",
-            "published": "2020-10-09T15:39:33.000Z",
+            "title": "exploitintel/eip-pocs-and-cves",
+            "url": "https://github.com/exploitintel/eip-pocs-and-cves",
+            "snippet": "# exploitintel/eip-pocs-and-cves\n\nProof-of-concept exploits and reproduction labs for CVEs analyzed by the Exploit Intelligence Platform\n\n- Stars: 33\n- Forks: 2\n- Watchers: 33\n- Open issues: 0\n- Licen",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-13T07:40:02.701Z"
+        "enriched_at": "2026-11-23T08:40:28.718Z"
       },
-      "timestamp": "2026-11-13T07:40:04.216Z"
+      "timestamp": "2026-11-23T08:40:30.063Z"
     },
     "coinhako": {
       "intel": {
@@ -4973,23 +4973,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "Arkose Labs | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/arkose_labs",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n‌‌‌\n\n‌‌‌‌‌\n\n‌‌\n\n‌‌\n\n‌‌‌‌‌\n\n‌‌‌\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.s",
+            "snippet": "Arkose Labs | Bounty Policy | HackerOne\n\n## Program highlights\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nSignal Requirement\n\n1.0 or higher past-year Signal required, with use of t",
             "published": null,
             "score": 0
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/arkose_labs/policy_scopes",
-            "snippet": "HackerOne\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | --- |\n| www.arkoselabs.com Public marketing site. No custome",
+            "title": "General Support and Bug Bounty",
+            "url": "https://developer.arkoselabs.com/docs/general-support-and-status",
+            "snippet": "General Support and Bug Bounty\n\n# General Support and Bug Bounty\n\nIntroduction\n\nThis page tells you:\n\n- How and where to get Support for Arkose Bot Manager.\n- How to use our Bug Bounty program.\n\nSuppo",
             "published": null,
             "score": 0
           },
           {
-            "title": "Arkose Labs Bug Bounty Program | Open Bug Bounty",
-            "url": "https://www.openbugbounty.org/bugbounty/ark_bb/",
-            "snippet": "Arkose Labs Bug Bounty Program | Open Bug Bounty\n\n# Arkose Labs Bug Bounty Program\n\nArkose Labs runs a bug bounty program to ensure the highest security and privacy of its websites. Everyone is eligib",
+            "title": "Arkose Labs | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/arkose_labs/hacktivity",
+            "snippet": "Arkose Labs | Hacktivity | HackerOne\n\nArkose Labs\n\nBug reported by\n\ngodiego\n\nwas resolved\n\n30 days ago\n\nArkose Labs\n\n$300\n\ntannusaif\n\n4 months ago\n\n$300\n\nArkose Labs\n\n$300\n\neh-iqra\n\nehtabbu\n\nCollabora",
             "published": null,
             "score": 0
           }
@@ -4997,9 +4997,9 @@
         "twitter": [],
         "github": [
           {
-            "title": "Negt-dev/Funcaptcha-Solve-RSA",
-            "url": "https://github.com/Negt-dev/Funcaptcha-Solve-RSA",
-            "snippet": "# Negt-dev/Funcaptcha-Solve-RSA\n\nFully decompiled source code for the Arkose Labs FunCaptcha VM\n\n- Stars: 37\n- Forks: 19\n- Watchers: 37\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-11T12",
+            "title": "rickyNg28/funcaptcha-proof-of-work",
+            "url": "https://github.com/rickyNg28/funcaptcha-proof-of-work",
+            "snippet": "# rickyNg28/funcaptcha-proof-of-work\n\nGo toolkit for authorized security research on JavaScript-driven proof-of-work challenge flows, including sequence script processing, PoW mode parsing, and contro",
             "published": null,
             "score": 0
           },
@@ -5011,22 +5011,29 @@
             "score": 0
           },
           {
-            "title": "GitHub - buggerlogger/arkose-solver: Arkose Labs / FunCaptcha solver for Go, Python and Node — produces sup=1 suppressed tokens. The site RSA key is derived from api.js on every solve: no capture, no replay, no headless browser. Includes a full VM disassembly. · GitHub",
-            "url": "https://github.com/buggerlogger/arkose-solver",
-            "snippet": "GitHub - buggerlogger/arkose-solver: Arkose Labs / FunCaptcha solver for Go, Python and Node — produces sup=1 suppressed tokens. The site RSA key is derived from api.js on every solve: no capture, no ",
+            "title": "JWally/dfp-redteam-arkose",
+            "url": "https://github.com/JWally/dfp-redteam-arkose",
+            "snippet": "# JWally/dfp-redteam-arkose\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-11-02T15:43:50Z\n\n## Languages\n\n- JavaScript\n- Python\n\n## Top Contributors\n\n- JW",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-13T07:40:04.216Z"
+        "enriched_at": "2026-11-23T08:40:30.064Z"
       },
-      "timestamp": "2026-11-13T07:40:05.592Z"
+      "timestamp": "2026-11-23T08:40:31.428Z"
     },
     "alsco": {
       "intel": {
         "writeups": [
+          {
+            "title": "ALSCO | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/alsco",
+            "snippet": "ALSCO | Bounty Policy | HackerOne\n\n## Program highlights\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis program's response efficiency is above 90%.\n\nSigna",
+            "published": null,
+            "score": 0
+          },
           {
             "title": "ALSCO Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
             "url": "https://blog.pentestnepal.tech/bugbounty/alsco/",
@@ -5035,16 +5042,9 @@
             "score": 0
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/alsco/policy_scopes",
-            "snippet": "HackerOne\n\nView changes (Last updated on April 7, 2025)\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | --- |\n| sandbo",
-            "published": null,
-            "score": 0
-          },
-          {
-            "title": "ALSCO | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/alsco?type=",
-            "snippet": "ALSCO | Bounty Policy | HackerOne\n\n## Program highlights\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis program's response efficiency is above 90%.\n\nSigna",
+            "title": "Bug Bounty Program- ALSCO",
+            "url": "https://www.alscotoday.com/go/bug",
+            "snippet": "Bug Bounty Program- ALSCO\n\n### Bug Bounty Program\n\n#### Bug Bounty Program\n\n##### The Secure Gateway®️ Security Bug Bounty Program is designed to encourage security research in Secure Gateway®️ Techno",
             "published": null,
             "score": 0
           }
@@ -5052,32 +5052,32 @@
         "twitter": [],
         "github": [
           {
+            "title": "Kenny",
+            "url": "https://github.com/KennySB-dev",
+            "snippet": "# Kenny\n\nFront-end, JS, PY and more developer! \nFor more info check my README.md ➡️ \nor go to my site, listed below ⬇️\n\n- Login: KennySB-dev\n- Location: Malta\n- Blog: https://kennysb.xyz\n- Public repo",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "ALSCO / Secure Gateway Recon Report",
+            "url": "https://github.com/Awarexone/Agentic-Bug-Hunter/diffs/0?base_sha=b2e9eb7a8e1c7a2e470b3c66069b72fedc60baa2&head_user=Ibrahimibrahimi&name=main&pull_number=95&qualified_name=refs%2Fheads%2Fmain&sha1=6c2ad7546dd2376f09bd67ad858cd3df901d24e1&sha2=d36ca07db94e3241e90d0737301f36fe53170797&short_path=11c9810&unchanged=expanded&w=false",
+            "snippet": "# ALSCO / Secure Gateway Recon Report\n\nTarget: ALSCO — Secure Gateway® Bug Bounty Program (HackerOne) Recon Date: 2026-07-05 Scope: SECURE GATEWAY®, WEB SECURE GATEWAY™, Cloud SECURE GATEWAY™, E-Mail ",
+            "published": null,
+            "score": 0
+          },
+          {
             "title": "mikeoliphant/Stompbox",
             "url": "https://github.com/mikeoliphant/StompboxUI",
-            "snippet": "# mikeoliphant/Stompbox\n\nGuitar amplification and effects pedalboard simulation\n\n- Stars: 130\n- Forks: 9\n- Watchers: 130\n- Open issues: 5\n- License: GNU General Public License v3.0\n- Default branch: m",
+            "snippet": "# mikeoliphant/Stompbox\n\nGuitar amplification and effects pedalboard simulation\n\n- Stars: 146\n- Forks: 11\n- Watchers: 146\n- Open issues: 6\n- License: GNU General Public License v3.0\n- Default branch: ",
             "published": null,
-            "score": 0
-          },
-          {
-            "title": "ig-labs/EDR-ALPC-Block-POC",
-            "url": "https://github.com/ig-labs/EDR-ALPC-Block-POC",
-            "snippet": "# ig-labs/EDR-ALPC-Block-POC\n\nBlocking Windows EDR agents by registering an own IPC-object in the Object Manager’s namespace (CVE-2023-3280, CVE-2024-5909, CVE-2024-20671)\n\n- Stars: 36\n- Forks: 3\n- Wa",
-            "published": null,
-            "score": 0
-          },
-          {
-            "title": "GitHub - fortra/CVE-2024-6769: Activation cache poisoning to elevate from medium to high integrity (CVE-2024-6769) · GitHub",
-            "url": "https://github.com/fortra/CVE-2024-6769",
-            "snippet": "GitHub - fortra/CVE-2024-6769: Activation cache poisoning to elevate from medium to high integrity (CVE-2024-6769) · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit dat",
-            "published": "2024-08-29T16:40:49.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-13T07:40:05.593Z"
+        "enriched_at": "2026-11-23T08:40:31.428Z"
       },
-      "timestamp": "2026-11-13T07:40:07.009Z"
+      "timestamp": "2026-11-23T08:40:32.735Z"
     },
     "dynamic_labs": {
       "intel": {
@@ -5152,9 +5152,9 @@
             "score": 0
           },
           {
-            "title": "Modern Treasury Vulnerability Disclosure | APIs.io",
-            "url": "https://apis.io/security/modern-treasury/modern-treasury-vulnerability-disclosure/",
-            "snippet": "Modern Treasury Vulnerability Disclosure | APIs.io\n\n# Modern Treasury Vulnerability Disclosure\n\nVulnerability disclosure\n\nModern Treasury runs a coordinated vulnerability disclosure program on Hackero",
+            "title": "Modern Treasury: bug bounty program on HackerOne",
+            "url": "https://bugs.maliqbarnard.com/programs/modern-treasury",
+            "snippet": "# Modern Treasury: bug bounty program on HackerOne\n\n> Modern Treasury is a bug bounty program on HackerOne. It received 86 reports in the 90 days to November 15, 2026, about 43 per in-scope asset.\n\n- ",
             "published": null,
             "score": 0
           }
@@ -5162,9 +5162,9 @@
         "twitter": [],
         "github": [
           {
-            "title": "Treasury module is vulnerable to cross-contract reentrancy",
-            "url": "https://github.com/code-423n4/2022-08-olympus-findings/issues/426",
-            "snippet": "# Treasury module is vulnerable to cross-contract reentrancy\n\n- State: open\n- Author: code423n4\n- Created: 2022-09-01T18:47:32Z\n- Updated: 2022-09-12T22:03:43Z\n- Repository: code-423n4/2022-08-olympus",
+            "title": "OperaCode/ARES_Protocol_TeasuryVault",
+            "url": "https://github.com/OperaCode/ARES_Protocol_TeasuryVault",
+            "snippet": "# OperaCode/ARES_Protocol_TeasuryVault\n\nModular treasury governance system featuring timelocked execution, proposal management, and security-focused smart contract design.\n\n- Stars: 0\n- Forks: 0\n- Wat",
             "published": null,
             "score": 0
           },
@@ -5176,22 +5176,29 @@
             "score": 0
           },
           {
-            "title": "OperaCode/ARES_Protocol_TeasuryVault",
-            "url": "https://github.com/OperaCode/ARES_Protocol_TeasuryVault",
-            "snippet": "# OperaCode/ARES_Protocol_TeasuryVault\n\nModular treasury governance system featuring timelocked execution, proposal management, and security-focused smart contract design.\n\n- Stars: 0\n- Forks: 0\n- Wat",
+            "title": "[Week 3] [Medium] Token creator can permanently lock protocol token fees by choosing the cooldown timestamp",
+            "url": "https://github.com/Frankcastleauditor/Solana-Audit-Arena/issues/99",
+            "snippet": "# [Week 3] [Medium] Token creator can permanently lock protocol token fees by choosing the cooldown timestamp\n\n- State: closed\n- Author: novoyd\n- Created: 2026-04-06T17:23:26Z\n- Updated: 2026-04-13T20",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-15T07:38:32.056Z"
+        "enriched_at": "2026-11-23T08:40:34.039Z"
       },
-      "timestamp": "2026-11-15T07:38:33.357Z"
+      "timestamp": "2026-11-23T08:40:35.379Z"
     },
     "notion": {
       "intel": {
         "writeups": [
+          {
+            "title": "Notion Labs, Inc. | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/notion",
+            "snippet": "Notion Labs, Inc. | Bounty Policy | HackerOne\n\n## Program highlights\n\nSignal Requirement\n\n0.0 or higher past-year Signal required, with use of trial reports for hackers below it.\n\nManaged by HackerOne",
+            "published": null,
+            "score": 0
+          },
           {
             "title": "Bug Bounty | Notion Trust Center | Powered by Wolfia",
             "url": "https://trust.notion.com/bug-bounty",
@@ -5200,16 +5207,9 @@
             "score": 0
           },
           {
-            "title": "Notion Labs, Inc. | Hacktivity | HackerOne",
-            "url": "https://hackerone.com/notion/hacktivity",
-            "snippet": "Notion Labs, Inc. | Hacktivity | HackerOne\n\nNotion Labs, Inc.\n\n$75\n\nBug reported by\n\nakihi\n\nwas resolved\n\n2 days ago\n\n$75\n\nNotion Labs, Inc.\n\nxsky\n\n2 days ago\n\nNotion Labs, Inc.\n\nlauritz\n\nwas awarded ",
-            "published": null,
-            "score": 0
-          },
-          {
-            "title": "Bug Bounty Program | Notion",
-            "url": "https://iterative.notion.site/Bug-Bounty-Program-c9c7719be9fc43fb941be156cd94d881",
-            "snippet": "Bug Bounty Program | Notion\n\nReality check!\n\nDataChain (aka Iterative) puts a lot of effort into keeping its systems, platforms and tools as secure as possible. Yet, we understand that no matter how m",
+            "title": "Untitled",
+            "url": "https://hackerone.com/teams/notion/assets/download_csv.csv",
+            "snippet": "identifier,asset_type,instruction,eligible_for_bounty,eligible_for_submission,availability_requirement,confidentiality_requirement,integrity_requirement,max_severity,system_tags,created_at,updated_at\n",
             "published": null,
             "score": 0
           }
@@ -5224,25 +5224,25 @@
             "score": 0
           },
           {
-            "title": "NotSooShariff/hog-c2",
-            "url": "https://github.com/notsooshariff/hog-c2/",
-            "snippet": "# NotSooShariff/hog-c2\n\nA trojan malware executable proof-of-concept that leverages a Notion page via integrations as a C2 server, enabling remote control and persistence on infiltrated systems.\n\n- St",
+            "title": "docs/failure-modes/prompt-injection.md",
+            "url": "https://github.com/vectara/awesome-agent-failures/blob/main/docs/failure-modes/prompt-injection.md",
+            "snippet": "# docs/failure-modes/prompt-injection.md\n\n- Branch: main\n- Repository: vectara/awesome-agent-failures\n\n---\n\n# Prompt Injection Failures\n\n## Definition\n\nPrompt injection occurs when malicious users cra",
             "published": null,
             "score": 0
           },
           {
-            "title": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub",
-            "url": "https://github.com/khoj-ai/khoj/security/advisories/GHSA-6whj-7qmg-86qj",
-            "snippet": "IDOR in Notion OAuth Flow Enables Index Poisoning · Advisory · khoj-ai/khoj · GitHub\n\n# IDOR in Notion OAuth Flow Enables Index Poisoning \n\n Moderate \n\ndebanjum published GHSA-6whj-7qmg-86qj\n\nFeb 1, 2",
-            "published": "2026-02-01T00:00:00.000Z",
+            "title": "Security Advisory: Prompt Injection Risk via Notion Page Content",
+            "url": "https://github.com/makenotion/notion-mcp-server/issues/238",
+            "snippet": "# Security Advisory: Prompt Injection Risk via Notion Page Content\n\n- State: open\n- Author: joergmichno\n- Created: 2026-03-25T08:26:12Z\n- Updated: 2026-03-28T09:43:36Z\n- Repository: makenotion/notion-",
+            "published": "2026-03-25T08:26:12.000Z",
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-16T07:44:06.319Z"
+        "enriched_at": "2026-11-23T08:40:35.380Z"
       },
-      "timestamp": "2026-11-16T07:44:07.645Z"
+      "timestamp": "2026-11-23T08:40:36.784Z"
     },
     "mpesa": {
       "intel": {
@@ -5322,28 +5322,21 @@
           },
           {
             "title": "FloQast | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/floqast",
+            "url": "https://hackerone.com/floqast?type=team",
             "snippet": "FloQast | Bounty Policy | HackerOne\n\n## Program highlights\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Efficiency\n\nThis program's response efficiency is above 90%.\n\nSig",
             "published": null,
             "score": 0
           },
           {
-            "title": "FloQast | Hacktivity | HackerOne",
-            "url": "https://hackerone.com/floqast/hacktivity",
-            "snippet": "FloQast | Hacktivity | HackerOne\n\nFloQast\n\nlast0ne\n\nwas resolved\n\n2 days ago\n\nFloQast\n\n$500\n\njim-hacker\n\n2 days ago\n\n$500\n\nFloQast\n\n$500\n\njim-hacker\n\n2 days ago\n\n$500\n\nFloQast\n\n$500\n\njim-hacker\n\n$500\n",
+            "title": "FloQast Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
+            "url": "https://blog.pentestnepal.tech/bugbounty/floqast/",
+            "snippet": "FloQast Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# FloQast Bug Bounty Program\n\nComplete guide to FloQast's bug bounty program on HackerOne. View in-scope assets, reward am",
             "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
-          {
-            "title": "Floqast vulnerable?",
-            "url": "https://github.com/EdOverflow/can-i-take-over-xyz/issues/204",
-            "snippet": "# Floqast vulnerable?\n\n- State: open\n- Author: pdelteil\n- Created: 2021-03-27T03:15:25Z\n- Updated: 2023-05-23T23:44:18Z\n- Repository: EdOverflow/can-i-take-over-xyz\n- Number: #204\n\n## Labels\n\n- questi",
-            "published": null,
-            "score": 0
-          },
           {
             "title": "Mohamed Omar Salama Abdelkader",
             "url": "https://github.com/3bkader-gpt",
@@ -5352,18 +5345,25 @@
             "score": 0
           },
           {
-            "title": "markthethomas’s gists · GitHub",
-            "url": "https://gist.github.com/markthethomas",
-            "snippet": "markthethomas’s gists · GitHub\n\n# Mark Thomas markthethomas \n\nPrincipal engineer @FloQast. Author for Manning (@react-in-action). Lover of beautiful systems.\n\n- @FloQast, @react-in-action \n- Los Angel",
+            "title": "Floqast vulnerable?",
+            "url": "https://github.com/EdOverflow/can-i-take-over-xyz/issues/204",
+            "snippet": "# Floqast vulnerable?\n\n- State: open\n- Author: pdelteil\n- Created: 2021-03-27T03:15:25Z\n- Updated: 2023-05-23T23:44:18Z\n- Repository: EdOverflow/can-i-take-over-xyz\n- Number: #204\n\n## Labels\n\n- questi",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "keybase",
+            "url": "https://gist.github.com/e1f83039d18a3d88556a234eb7e498d2",
+            "snippet": "# keybase\n\n- Owner: floqast-jimfazzone\n- Created: 2021-08-26T23:22:26Z\n- Public: yes\n- Comments: 0\n- Forks: 0\n\n## keybase.md\n\nLanguage: Markdown\n\n### Keybase proof\n\nI hereby claim:\n\n * I am floqast-ji",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-16T07:44:07.645Z"
+        "enriched_at": "2026-11-23T08:40:36.785Z"
       },
-      "timestamp": "2026-11-16T07:44:08.792Z"
+      "timestamp": "2026-11-23T08:40:38.235Z"
     },
     "palantir_public": {
       "intel": {
@@ -5974,16 +5974,16 @@
             "score": 0
           },
           {
-            "title": "HackerOne Bug Bounty Disclosure: origin-ip-exposed-waf-bypass-r-tsid - RedPacket Security",
-            "url": "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-origin-ip-exposed-waf-bypass-r-tsid/",
-            "snippet": "HackerOne Bug Bounty Disclosure: origin-ip-exposed-waf-bypass-r-tsid - RedPacket Security\n\n# HackerOne Bug Bounty Disclosure: origin-ip-exposed-waf-bypass-r-tsid\n\n May 14, 2026 \n\n## HackerOne report s",
-            "published": "2026-05-14T18:02:48.000Z",
+            "title": "Yuga Labs | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/yuga_labs/hacktivity",
+            "snippet": "Yuga Labs | Hacktivity | HackerOne\n\nYuga Labs\n\nBug reported by\n\nmaru1001\n\nwas resolved\n\n16 days ago\n\nYuga Labs\n\nmiauuu\n\nwas awarded a bounty\n\n25 days ago\n\nYuga Labs\n\n25 days ago\n\nYuga Labs\n\n$100\n\nyan_",
+            "published": null,
             "score": 0
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/yuga_labs/scope_versions",
-            "snippet": "HackerOne\n\n| Type | Identifier | Max. Severity | In Scope | Bounty |\n| --- | --- | --- | --- | --- |\n| Wildcard | *.otherside.xyz | Critical | Yes | Yes |\n| Code• 745 Bytes Index: yuga_labs.scope.inst",
+            "title": "Untitled",
+            "url": "https://hackerone.com/teams/yuga_labs/assets/download_csv.csv",
+            "snippet": "identifier,asset_type,instruction,eligible_for_bounty,eligible_for_submission,availability_requirement,confidentiality_requirement,integrity_requirement,max_severity,system_tags,created_at,updated_at\n",
             "published": null,
             "score": 0
           }
@@ -5991,16 +5991,9 @@
         "twitter": [],
         "github": [
           {
-            "title": "yuga-labs/proofxyz-solidify",
-            "url": "https://github.com/yuga-labs/proofxyz-solidify",
-            "snippet": "# yuga-labs/proofxyz-solidify\n\n- Stars: 126\n- Forks: 12\n- Watchers: 126\n- Open issues: 8\n- License: MIT License\n- Default branch: main\n- Created: 2022-11-22T16:17:47Z\n\n## Languages\n\n- Go\n- Solidity\n\n-",
-            "published": null,
-            "score": 0
-          },
-          {
-            "title": "yuga-labs/proofxyz-raffles",
-            "url": "https://github.com/proofxyz/raffles",
-            "snippet": "# yuga-labs/proofxyz-raffles\n\n- Stars: 6\n- Forks: 1\n- Watchers: 6\n- Open issues: 2\n- Default branch: main\n- Created: 2022-08-30T10:40:29Z\n\n## Languages\n\n- Go\n- JavaScript\n- Shell\n\n## Top Contributors\n",
+            "title": "2026/2026-06-07_FlooringProtocol_BT404GhostOwnershipUnderflow_ETH.md",
+            "url": "https://github.com/kismp123/DeFi-Security-Incident/blob/main/2026/2026-06-07_FlooringProtocol_BT404GhostOwnershipUnderflow_ETH.md",
+            "snippet": "# 2026/2026-06-07_FlooringProtocol_BT404GhostOwnershipUnderflow_ETH.md\n\n- Branch: main\n- Repository: kismp123/DeFi-Security-Incident\n\n---\n\n# Flooring Protocol — BT404 Ghost-Ownership Underflow Exploit",
             "published": null,
             "score": 0
           },
@@ -6010,13 +6003,20 @@
             "snippet": "Overview · yuga-labs/ape-portal-public · GitHub\n\n# Security Policy\n\nWe take the security of our repository seriously and appreciate your efforts in responsibly disclosing vulnerabilities. We aim to ad",
             "published": null,
             "score": 0
+          },
+          {
+            "title": "yuga-labs/proofxyz-raffles",
+            "url": "https://github.com/proofxyz/raffles",
+            "snippet": "# yuga-labs/proofxyz-raffles\n\n- Stars: 6\n- Forks: 1\n- Watchers: 6\n- Open issues: 2\n- Default branch: main\n- Created: 2022-08-30T10:40:29Z\n\n## Languages\n\n- Go\n- JavaScript\n- Shell\n\n## Top Contributors\n",
+            "published": null,
+            "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-13T07:40:08.521Z"
+        "enriched_at": "2026-11-23T08:40:32.735Z"
       },
-      "timestamp": "2026-11-13T07:40:10.097Z"
+      "timestamp": "2026-11-23T08:40:34.039Z"
     },
     "abercrombie_fitch_bbp": {
       "intel": {
@@ -6345,6 +6345,13 @@
       "intel": {
         "writeups": [
           {
+            "title": "Findings from the $1M Vercel Sandbox challenge",
+            "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+            "snippet": "# Findings from the $1M Vercel Sandbox challenge\n\nPublished: October 14, 2026 | Authors: Andy Riancho\n\n---\n\nIn August, we launched the $1M hacker challenge for Vercel Sandbox, inviting security resear",
+            "published": null,
+            "score": 0
+          },
+          {
             "title": "Postmortem on Next.js Middleware bypass",
             "url": "https://vercel.com/blog/postmortem-on-next-js-middleware-bypass",
             "snippet": "# Postmortem on Next.js Middleware bypass\n\nPublished: March 25, 2025 | Authors: Ty Sbano | Category: Security\n\n---\n\nLast week, we published CVE-2025-29927 and patched a critical severity vulnerability",
@@ -6352,26 +6359,19 @@
             "score": 0
           },
           {
-            "title": "Our $1 million hacker challenge for React2Shell",
-            "url": "https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell",
-            "snippet": "# Our $1 million hacker challenge for React2Shell\n\nPublished: December 19, 2025 | Authors: Malte Ubl | Category: Security\n\n---\n\nIn the weeks following React2Shell's disclosure, our firewall blocked ov",
-            "published": null,
-            "score": 0
-          },
-          {
-            "title": "$1 million hacker challenge for Vercel Sandbox",
-            "url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
-            "snippet": "# $1 million hacker challenge for Vercel Sandbox\n\nPublished: August 18, 2026 | Authors: Andy Riancho | Category: Security\n\n---\n\nAgents need to run untrusted code, and the microVM has become the standa",
-            "published": null,
+            "title": "Race condition to Cache Poisoning  · Advisory · vercel/next.js · GitHub",
+            "url": "https://github.com/vercel/next.js/security/advisories/GHSA-qpjv-v59x-3qc4",
+            "snippet": "Race condition to Cache Poisoning · Advisory · vercel/next.js · GitHub\n\n# Race condition to Cache Poisoning \n\n Low \n\naaronbrown-vercel published GHSA-qpjv-v59x-3qc4\n\nMay 14, 2025\n\n## Affected versions",
+            "published": "2025-05-14T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "GitHub - Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass: Full-Read SSRF in Vercel AI SDK. validateDownloadUrl() only checks hostname strings, never resolves DNS. Any domain pointing to a private IP bypasses the check. downloadBlob() returns complete response body from internal services. · GitHub",
+            "title": "Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass",
             "url": "https://github.com/Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass",
-            "snippet": "GitHub - Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass: Full-Read SSRF in Vercel AI SDK. validateDownloadUrl() only checks hostname strings, never resolves DNS. Any domain pointing to a pri",
+            "snippet": "# Rat5ak/Vercel-AI-SDK-SSRF-validateDownloadUrl-DNS-Bypass\n\nFull-Read SSRF in Vercel AI SDK. validateDownloadUrl() only checks hostname strings, never resolves DNS. Any domain pointing to a private IP",
             "published": null,
             "score": 0
           },
@@ -6383,18 +6383,18 @@
             "score": 0
           },
           {
-            "title": "LeonMotaung/nextjs-horror",
-            "url": "https://github.com/LeonMotaung/nextjs-horror",
-            "snippet": "# LeonMotaung/nextjs-horror\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2025-12-06T22:53:12Z\n\n## Languages\n\n- Python\n- TeX\n\n## Top Contributors\n\n- LeonMotau",
+            "title": "3bkader-gpt/vercel-skills-poc",
+            "url": "https://github.com/3bkader-gpt/vercel-skills-poc",
+            "snippet": "# 3bkader-gpt/vercel-skills-poc\n\nSecurity Advisory & Proof of Concept: Remote Code Execution (RCE) via Unsafe Skill Frontmatter Evaluation in Agentic AI Frameworks.\n\n- Stars: 0\n- Forks: 0\n- Watchers: ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-13T07:39:58.119Z"
+        "enriched_at": "2026-11-23T08:40:24.105Z"
       },
-      "timestamp": "2026-11-13T07:39:59.636Z"
+      "timestamp": "2026-11-23T08:40:25.973Z"
     },
     "live_nation": {
       "intel": {
@@ -6727,5 +6727,5 @@
       "timestamp": "2026-11-18T08:17:57.207Z"
     }
   },
-  "lastRun": "2026-11-22T07:50:48.010Z"
+  "lastRun": "2026-11-23T08:40:38.235Z"
 }
