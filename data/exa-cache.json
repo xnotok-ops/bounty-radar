@@ -2992,10 +2992,10 @@
             "score": 0
           },
           {
-            "title": "CVE-2023-49954/CVE-2023-49954.github.io",
-            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
-            "snippet": "# CVE-2023-49954/CVE-2023-49954.github.io\n\nSQL Injection in 3CX CRM Integration\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2023-12-14T18:38:28Z\n\n## Top Con",
-            "published": null,
+            "title": "Medium",
+            "url": "https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88",
+            "snippet": "Medium\n\n# Pwning 3CX Phone Management Backends from the Internet\n\nfrycos\n\nMar 30, 2022\n\nAfter an unplanned journey with Microsoft Exchange the month before, I started to look for new interesting vulne",
+            "published": "2022-03-30T22:01:22.000Z",
             "score": 0
           },
           {
@@ -3009,47 +3009,47 @@
         "twitter": [],
         "github": [
           {
-            "title": "3CX DesktopApp through 18.12.416 has embedded malicious... · CVE-2023-29059 · GitHub Advisory Database · GitHub",
-            "url": "https://github.com/advisories/GHSA-M2Q7-9C76-QC45",
-            "snippet": "3CX DesktopApp through 18.12.416 has embedded malicious... · CVE-2023-29059 · GitHub Advisory Database · GitHub\n\n## 3CX DesktopApp through 18.12.416 has embedded malicious... \n\n High severity Unreview",
-            "published": "2023-03-30T00:00:00.000Z",
-            "score": 0
-          },
-          {
-            "title": "tpez0/3CX-IOCs-Hunter",
-            "url": "https://github.com/tpez0/3CX-IOCs-Hunter",
-            "snippet": "# tpez0/3CX-IOCs-Hunter\n\nSimple tool to check Indicators of 3CX DLL-sideloading exploitation\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- License: MIT License\n- Default branch: main\n- Creat",
+            "title": "2022/CVE-2022-28005.md",
+            "url": "https://github.com/trickest/cve/blob/main/2022/CVE-2022-28005.md",
+            "snippet": "# 2022/CVE-2022-28005.md\n\n- Branch: main\n- Repository: trickest/cve\n\n---\n\n### CVE-2022-28005\n\n### Description\n\nAn issue was discovered in the 3CX Phone System Management Console prior to version 18 Up",
             "published": null,
             "score": 0
           },
           {
-            "title": "docs/advisories/20230421003-Supply-Chain-Attack-3CXDesktopApp.md",
-            "url": "https://github.com/wagov/wasocshared/blob/main/docs/advisories/20230421003-Supply-Chain-Attack-3CXDesktopApp.md",
-            "snippet": "# docs/advisories/20230421003-Supply-Chain-Attack-3CXDesktopApp.md\n\n- Branch: main\n- Repository: wagov/wasocshared\n\n---\n\n# Supply Chain Attack Against 3CXDesktopApp - 20230421003\n\n## Overview\n\nCISA is",
+            "title": "CVE-2023-49954/CVE-2023-49954.github.io",
+            "url": "https://github.com/CVE-2023-49954/CVE-2023-49954.github.io",
+            "snippet": "# CVE-2023-49954/CVE-2023-49954.github.io\n\nSQL Injection in 3CX CRM Integration\n\n- Stars: 2\n- Forks: 1\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2023-12-14T18:38:28Z\n\n## Top Con",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "Exploit-Garbage/0day-Rubbish",
+            "url": "https://github.com/Exploit-Garbage/0day-Rubbish",
+            "snippet": "# Exploit-Garbage/0day-Rubbish\n\nRedefining vulnerability disclosure in the AI era. We mass-produce exploitable 0days and disclose them directly, using event-driven pressure to elevate vendor security ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-19T08:28:51.506Z"
+        "enriched_at": "2026-11-27T09:29:55.181Z"
       },
-      "timestamp": "2026-11-19T08:28:52.813Z"
+      "timestamp": "2026-11-27T09:29:56.361Z"
     },
     "privy-bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "Privy (Bounty) | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/privy-bbp",
-            "snippet": "Privy (Bounty) | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop R",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/privy-bbp/policy_versions",
+            "snippet": "HackerOne\n\n## Policy versions\n\nIndex: privy-bbp.policy =================================================================== --- privy-bbp.policy @ 2026-03-11T23:13:44.544Z +++ privy-bbp.policy @ 2026-0",
             "published": null,
             "score": 0
           },
           {
-            "title": "Privy (Bounty) | Hacktivity | HackerOne",
-            "url": "https://hackerone.com/privy-bbp/hacktivity",
-            "snippet": "Privy (Bounty) | Hacktivity | HackerOne\n\nPrivy (Bounty)\n\nx9x\n\nwas resolved\n\n13 days ago\n\nPrivy (Bounty)\n\nslowscan\n\n16 days ago\n\nPrivy (Bounty)\n\ncodexabhi1\n\n16 days ago\n\nPrivy (Bounty)\n\nsanktjodel\n\n16 ",
+            "title": "Bug bounty program.",
+            "url": "https://www.privy.io/vulnerability-disclosure",
+            "snippet": "[Products], [Solutions], [Developer], [Resources]\n\nPricing\n\nDocs\n\nLog in\n\n# Bug bounty program.\n\nNeed to report an issue? Submit a potential vulnerability through our HackerOne bug bounty program\n\nSub",
             "published": null,
             "score": 0
           },
@@ -3067,13 +3067,6 @@
             "title": "octal-crypto/cipher-privy-script-injection",
             "url": "https://github.com/octal-crypto/cipher-privy-script-injection",
             "snippet": "# octal-crypto/cipher-privy-script-injection\n\n- Stars: 5\n- Forks: 0\n- Watchers: 5\n- Open issues: 0\n- Default branch: main\n- Created: 2023-10-02T00:53:35Z\n\n## Languages\n\n- HTML\n- JavaScript\n\n## Top Con",
-            "published": "2023-10-02T00:53:35.000Z",
-            "score": 0
-          },
-          {
-            "title": "SECURITY-TODO.md",
-            "url": "https://github.com/lsarta/gas-oracle/blob/main/SECURITY-TODO.md",
-            "snippet": "# SECURITY-TODO.md\n\n- Branch: main\n- Repository: lsarta/gas-oracle\n\n---\n\n# Security & quality TODO — post May 28 demo\n\nTracked work from the 2026-05-20 security audit on branch `security-hardening`.\nI",
             "published": null,
             "score": 0
           },
@@ -3083,13 +3076,20 @@
             "snippet": "# freakyyirus/monad-blitz-pune\n\nnop\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-07-04T11:56:40Z\n- Fork: yes\n\n## Languages\n\n- CSS\n- JavaScript\n- Rust\n- ",
             "published": null,
             "score": 0
+          },
+          {
+            "title": "nickthelegend/thenar-io",
+            "url": "https://github.com/nickthelegend/thenar-io",
+            "snippet": "# nickthelegend/thenar-io\n\nThenar: robot training data recorded by people, paid per run on Arc, sold and tokenized on Hedera, one human per set of runs with World ID. ETHOnline 2026.\n\n- Stars: 0\n- For",
+            "published": null,
+            "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:10:54.512Z"
+        "enriched_at": "2026-11-27T09:29:56.361Z"
       },
-      "timestamp": "2026-11-20T08:10:55.708Z"
+      "timestamp": "2026-11-27T09:29:57.462Z"
     },
     "netflix": {
       "intel": {
@@ -3103,21 +3103,28 @@
           },
           {
             "title": "Medium",
-            "url": "https://blog.viktormares.com/hacking-netflix-for-stored-xss-idor-to-session-hijacking-account-takeover-9ba1cdeabbf8",
-            "snippet": "Medium\n\n# Hacking Netflix for $$$ — Stored XSS + IDOR to Session Hijacking & Account Takeover\n\nViktor Mares\n\nFeb 28, 2025\n\nHi everyone, after quite a break from writing and focusing on the more techni",
-            "published": "2025-02-28T09:12:57.000Z",
+            "url": "https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50",
+            "snippet": "Medium\n\n# Netflix — Bypassing Multi-Factor Authentication (MFA)\n\nLyubomir Tsirkov\n\nApr 29, 2023\n\nPress enter or click to view image in full size\n\n## Introduction\n\nDuring my participation in Netflix Bu",
+            "published": "2023-04-29T08:14:27.000Z",
             "score": 0
           },
           {
             "title": "Medium",
-            "url": "https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50",
-            "snippet": "Medium\n\n# Netflix — Bypassing Multi-Factor Authentication (MFA)\n\nLyubomir Tsirkov\n\nApr 29, 2023\n\nPress enter or click to view image in full size\n\n## Introduction\n\nDuring my participation in Netflix Bu",
-            "published": "2023-04-29T08:14:27.000Z",
+            "url": "https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914",
+            "snippet": "Medium\n\n# [Netflix][Smart TV] — Chaining Self-XSS with Session poisoning.\n\nLyubomir Tsirkov\n\nMar 11, 2023\n\nI’d like to share my experience of discovering an interesting vulnerability on Netflix while ",
+            "published": "2023-03-11T09:01:45.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
+          {
+            "title": "NetflixNHack/Netflix-N-Hack",
+            "url": "https://github.com/NetflixNHack/Netflix-N-Hack",
+            "snippet": "# NetflixNHack/Netflix-N-Hack\n\nTakes advantage of Netflix for PS5 requesting JavaScript from localhost. Using a MITM attack we can inject and execute our own JavaScript into the error screen.\n\n- Stars",
+            "published": null,
+            "score": 0
+          },
           {
             "title": "JoeBeeton/CVE-2024-4701-POC",
             "url": "https://github.com/JoeBeeton/CVE-2024-4701-POC",
@@ -3126,53 +3133,53 @@
             "score": 0
           },
           {
-            "title": "NetflixNHack/Netflix-N-Hack",
-            "url": "https://github.com/earthonion/Netflix-N-Hack",
-            "snippet": "# NetflixNHack/Netflix-N-Hack\n\nTakes advantage of Netflix for PS5 requesting JavaScript from localhost. Using a MITM attack we can inject and execute our own JavaScript into the error screen.\n\n- Stars",
-            "published": null,
-            "score": 0
-          },
-          {
-            "title": "Ch4120N/CVE-2026-58138",
-            "url": "https://github.com/Ch4120N/CVE-2026-58138",
-            "snippet": "# Ch4120N/CVE-2026-58138\n\nCVE-2026-58138 — Conductor (3.21.21..<3.30.2) unauthenticated RCE via INLINE GraalVM evaluator (HostAccess.ALL). Lab + PoC, verified e2e (root).\n\n- Stars: 2\n- Forks: 0\n- Watc",
+            "title": "README.md",
+            "url": "https://github.com/zlw9991/netflix-password-sharing-with-vpn-risks/blob/main/README.md",
+            "snippet": "# README.md\n\n- Branch: main\n- Repository: zlw9991/netflix-password-sharing-with-vpn-risks\n\n---\n\n# Netflix Password Sharing With Vpn Risks / vulnerabilities\n\n| Table of contents | \n| ------------- | \n|",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:10:55.708Z"
+        "enriched_at": "2026-11-27T09:29:57.462Z"
       },
-      "timestamp": "2026-11-20T08:10:56.821Z"
+      "timestamp": "2026-11-27T09:29:58.581Z"
     },
     "23andme_bbp": {
       "intel": {
         "writeups": [
           {
-            "title": "23andMe Bug Bounty | Updates | HackerOne",
-            "url": "https://hackerone.com/23andme_bbp/updates",
-            "snippet": "23andMe Bug Bounty | Updates | HackerOne\n\nJanuary 2nd, 2025 (2 years ago)\n\nWe've increased our bounties for our primary web services to show our appreciation for your hard work:\n\nWe’re calling on you ",
+            "title": "23andMe Bug Bounty | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/23andme_bbp",
+            "snippet": "23andMe Bug Bounty | Bounty Policy | HackerOne\n\n## Introduction\n\nWelcome, Security Research Community! 23andMe recognizes the importance of working with skilled security researchers to identify and ad",
             "published": null,
             "score": 0
           },
           {
-            "title": "23andMe Bug Bounty Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
-            "url": "https://blog.pentestnepal.tech/bugbounty/23andme-bug-bounty/",
-            "snippet": "23andMe Bug Bounty Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# 23andMe Bug Bounty Bug Bounty Program\n\nComplete guide to 23andMe Bug Bounty's bug bounty program on HackerOne",
-            "published": "2026-05-25T04:30:02.000Z",
+            "title": "Report a Security Concern or Unauthorized Account Activity – 23andMe Support",
+            "url": "https://support.23andme.org/hc/en-us/articles/45255654685591-Report-a-Security-Concern-or-Unauthorized-Account-Activity",
+            "snippet": "Report a Security Concern or Unauthorized Account Activity – 23andMe Support\n\n# Report a Security Concern or Unauthorized Account Activity \n\nIf you notice anything unusual with your 23andMe account, o",
+            "published": null,
             "score": 0
           },
           {
-            "title": "23andMe Bug Bounty | Security Program",
-            "url": "https://ooosec.com/programs/23andme-bug-bounty",
-            "snippet": "23andMe Bug Bounty | Security Program\n\n# Welcome, Security Research Community!\n\n23andMe recognizes the importance of working with skilled security researchers to identify and address vulnerabilities i",
+            "title": "23andMe Bug Bounty | Safe Harbor | HackerOne",
+            "url": "https://hackerone.com/23andme_bbp/safe_harbor",
+            "snippet": "23andMe Bug Bounty | Safe Harbor | HackerOne\n\nGold Standard Safe Harbor\n\n- Will not bring legal action against you or report you for Good Faith Security Research, including for bypassing technological",
             "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
+          {
+            "title": "zobront/zkdna",
+            "url": "https://github.com/zobront/zkdna",
+            "snippet": "# zobront/zkdna\n\nzk proof of variant\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2024-05-29T18:26:14Z\n\n## Languages\n\n- Rust\n- Solidity\n\n## Top Contributors\n",
+            "published": null,
+            "score": 0
+          },
           {
             "title": "RCE Vulnerability in Yamale",
             "url": "https://github.com/23andMe/Yamale/issues/167",
@@ -3181,40 +3188,33 @@
             "score": 0
           },
           {
-            "title": "Overview · 23andMe/super-linter · GitHub",
-            "url": "https://github.com/23andMe/super-linter/security",
-            "snippet": "Overview · 23andMe/super-linter · GitHub\n\n# Security Policy\n\nIf you discover a security issue in this repo, please submit it through the GitHub Security Bug Bounty\n\nThanks for helping make GitHub Acti",
-            "published": null,
-            "score": 0
-          },
-          {
-            "title": "zobront/zkdna",
-            "url": "https://github.com/zobront/zkdna",
-            "snippet": "# zobront/zkdna\n\nzk proof of variant\n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Created: 2024-05-29T18:26:14Z\n\n## Languages\n\n- Rust\n- Solidity\n\n## Top Contributors\n",
+            "title": "mdublin/23andMe-SPA-ProxyAPI",
+            "url": "https://github.com/mdublin/23andMe-SPA-ProxyAPI",
+            "snippet": "# mdublin/23andMe-SPA-ProxyAPI\n\nA KnockoutJS-based SPA and Flask-based proxy API for interacting with 23andMe genetic data. \n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: mas",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:10:56.821Z"
+        "enriched_at": "2026-11-27T09:29:58.581Z"
       },
-      "timestamp": "2026-11-20T08:10:58.003Z"
+      "timestamp": "2026-11-27T09:29:59.737Z"
     },
     "audible": {
       "intel": {
         "writeups": [
           {
-            "title": "ShamellJordan/audible-recon",
-            "url": "https://github.com/ShamellJordan/audible-recon",
-            "snippet": "# ShamellJordan/audible-recon\n\nFull-scope recon case study on Audible’s HackerOne program using whois, amass, and httpx. Over 1,000 subdomains discovered and documented in a legally scoped workflow.\n\n",
+            "title": "BBO513/CVE-2023-7231",
+            "url": "https://github.com/BBO513/CVE-2023-7231",
+            "snippet": "# BBO513/CVE-2023-7231\n\nPoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 1\n- Default branch: main\n- Created: 2025-05-08T05:28:29Z\n\n",
             "published": null,
             "score": 0
           },
           {
-            "title": "BBO513/CVE-2023-7231",
-            "url": "https://github.com/BBO513/CVE-2023-7231",
-            "snippet": "# BBO513/CVE-2023-7231\n\nPoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 1\n- Default branch: main\n- Created: 2025-05-08T05:28:29Z\n\n",
+            "title": "ShamellJordan/audible-recon",
+            "url": "https://github.com/ShamellJordan/audible-recon",
+            "snippet": "# ShamellJordan/audible-recon\n\nFull-scope recon case study on Audible’s HackerOne program using whois, amass, and httpx. Over 1,000 subdomains discovered and documented in a legally scoped workflow.\n\n",
             "published": null,
             "score": 0
           },
@@ -3243,29 +3243,22 @@
             "score": 0
           },
           {
-            "title": "BBO513/CVE-2023-7231",
-            "url": "https://github.com/BBO513/CVE-2023-7231",
-            "snippet": "# BBO513/CVE-2023-7231\n\nPoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 1\n- Default branch: main\n- Created: 2025-05-08T05:28:29Z\n\n",
+            "title": "ShamellJordan/audible-recon",
+            "url": "https://github.com/ShamellJordan/audible-recon",
+            "snippet": "# ShamellJordan/audible-recon\n\nFull-scope recon case study on Audible’s HackerOne program using whois, amass, and httpx. Over 1,000 subdomains discovered and documented in a legally scoped workflow.\n\n",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:10:58.004Z"
+        "enriched_at": "2026-11-27T09:29:59.738Z"
       },
-      "timestamp": "2026-11-20T08:10:59.155Z"
+      "timestamp": "2026-11-27T09:30:00.899Z"
     },
     "temu": {
       "intel": {
         "writeups": [
-          {
-            "title": "Jonathanjimenez123/temu-vuln-hunter-pro",
-            "url": "https://github.com/Jonathanjimenez123/temu-vuln-hunter-pro",
-            "snippet": "# Jonathanjimenez123/temu-vuln-hunter-pro\n\nCritical vulnerability chain in Temu: open redirect → reflected XSS → account takeover via stolen session cookies.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Ope",
-            "published": "2025-07-18T08:00:55.000Z",
-            "score": 0
-          },
           {
             "title": "Medium",
             "url": "https://medium.com/@m.habibgpi/universal-link-hijacking-via-misconfigured-aasa-file-on-temu-com-eadfcb745e4e",
@@ -3274,10 +3267,17 @@
             "score": 0
           },
           {
-            "title": "Temu Bug Bounty | bbradar.io",
-            "url": "https://bbradar.io/program/HackerOne:temu",
-            "snippet": "Temu Bug Bounty | bbradar.io\n\n# Temu\n\nHackerone· Bug Bounty Program Active\n\nReward range\n\n$500 - $25,000\n\nPublished rewards\n\nIn-scope targets\n\n6\n\n6 tracked targets in total\n\nScope movement · 7 days\n\n+",
-            "published": "2024-01-01T00:00:00.000Z",
+            "title": "Jonathanjimenez123/temu-vuln-hunter-pro",
+            "url": "https://github.com/Jonathanjimenez123/temu-vuln-hunter-pro",
+            "snippet": "# Jonathanjimenez123/temu-vuln-hunter-pro\n\nCritical vulnerability chain in Temu: open redirect → reflected XSS → account takeover via stolen session cookies.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Ope",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "Temu | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/temu",
+            "snippet": "Temu | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response Ef",
+            "published": null,
             "score": 0
           }
         ],
@@ -3287,29 +3287,29 @@
             "title": "Jonathanjimenez123/temu-vuln-hunter-pro",
             "url": "https://github.com/Jonathanjimenez123/temu-vuln-hunter-pro",
             "snippet": "# Jonathanjimenez123/temu-vuln-hunter-pro\n\nCritical vulnerability chain in Temu: open redirect → reflected XSS → account takeover via stolen session cookies.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Ope",
-            "published": "2025-07-18T08:00:55.000Z",
-            "score": 0
-          },
-          {
-            "title": "GrizzlyResearch/TEMU_Android_malware",
-            "url": "https://github.com/GrizzlyResearch/TEMU_Android_malware",
-            "snippet": "# GrizzlyResearch/TEMU_Android_malware\n\n- Stars: 14\n- Forks: 1\n- Watchers: 14\n- Open issues: 2\n- Default branch: main\n- Created: 2023-09-07T14:46:09Z\n\n## Top Contributors\n\n- GrizzlyResearch (13 contri",
             "published": null,
             "score": 0
           },
           {
-            "title": "mapt/6-android-bonus/README.md",
-            "url": "https://github.com/syselement/tcm-sec-notes/blob/main/mapt/6-android-bonus/README.md",
-            "snippet": "# mapt/6-android-bonus/README.md\n\n- Branch: main\n- Repository: syselement/tcm-sec-notes\n\n---\n\n# 6. Android Bug Bounty\n\n## Android Bug Bounty Hunt\n\n> ❗ Always refer to a HackerOne Bug Bounty program to",
+            "title": "IEATASICS/m300-repeater-bugs",
+            "url": "https://github.com/IEATASICS/m300-repeater-bugs",
+            "snippet": "# IEATASICS/m300-repeater-bugs\n\n0 days located on the M300 mt02 wifi repeater that have not been publicly released. \n\n- Stars: 2\n- Forks: 0\n- Watchers: 2\n- Open issues: 0\n- Default branch: main\n- Crea",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "Musazadə Mövlud",
+            "url": "https://github.com/musazadam",
+            "snippet": "# Musazadə Mövlud\n\n- Login: musazadam\n- Public repos: 3\n- Public gists: 0\n- Followers: 2\n- Following: 2\n- Joined: 2023-08-30T13:05:22Z\n\n## Top Repositories\n\n- musazadam/temu-repeater-router-exploit - ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:10:59.156Z"
+        "enriched_at": "2026-11-27T09:30:00.899Z"
       },
-      "timestamp": "2026-11-20T08:11:00.285Z"
+      "timestamp": "2026-11-27T09:30:02.064Z"
     },
     "lightspark_bbp": {
       "intel": {
@@ -3363,23 +3363,23 @@
       "intel": {
         "writeups": [
           {
-            "title": "Bybit Fintech Ltd | Updates | HackerOne",
-            "url": "https://hackerone.com/bybit_fintech/updates",
-            "snippet": "Bybit Fintech Ltd | Updates | HackerOne\n\nAugust 28th, 2025 (a year ago)\n\nDear Security Researchers,\n\nWe're excited to announce a limited-time bounty event for the Bybit bug bounty program!\n\nEvent Deta",
+            "title": "Bybit Fintech Ltd | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/bybit_fintech",
+            "snippet": "Bybit Fintech Ltd | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTo",
             "published": null,
             "score": 0
           },
           {
-            "title": "Bybit Fintech Ltd Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
-            "url": "https://blog.pentestnepal.tech/bugbounty/bybit-fintech-ltd/",
-            "snippet": "Bybit Fintech Ltd Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# Bybit Fintech Ltd Bug Bounty Program\n\nComplete guide to Bybit Fintech Ltd's bug bounty program on HackerOne. V",
-            "published": "2026-05-25T04:30:02.000Z",
+            "title": "Bybit Bug Bounty Program - Help Center",
+            "url": "https://www.bybit.com/en/help-center/article/Bybit-Bug-Bounty-Program-T-C",
+            "snippet": "Bybit Bug Bounty Program - Help Center\n\n# Bybit Bug Bounty Program\n\nLast updated on 2026-09-18 15:29:52\n\nWhat is the Bybit Bug Bounty program methodology and how can you participate in the program?\n\nT",
+            "published": null,
             "score": 0
           },
           {
-            "title": "Bybit Fintech Ltd Bug Bounty | bbradar.io",
-            "url": "https://bbradar.io/program/HackerOne:bybit_fintech",
-            "snippet": "Bybit Fintech Ltd Bug Bounty | bbradar.io\n\n# Bybit Fintech Ltd\n\nHackerone· Bug Bounty Program Active\n\nReward range\n\n$50 - $10,000\n\nPublished rewards\n\nIn-scope targets\n\n9\n\n9 tracked targets in total\n\nS",
+            "title": "Bybit Fintech Ltd | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/bybit_fintech/hacktivity",
+            "snippet": "Bybit Fintech Ltd | Hacktivity | HackerOne\n\nBybit Fintech Ltd\n\nibh_\n\nwas resolved\n\n24 days ago\n\nBybit Fintech Ltd\n\n$2,789\n\nfearsoff\n\n24 days ago\n\n$2,789\n\nBybit Fintech Ltd\n\nibh_\n\nBybit Fintech Ltd\n\nib",
             "published": null,
             "score": 0
           }
@@ -3401,33 +3401,33 @@
             "score": 0
           },
           {
-            "title": "riccardoroselli/BLOCKCHAIN-Bybit-Hack",
-            "url": "https://github.com/riccardoroselli/BLOCKCHAIN-Bybit-Hack",
-            "snippet": "# riccardoroselli/BLOCKCHAIN-Bybit-Hack\n\nGraph-topological analysis of the $1.46B Bybit hack (Lazarus Group, Feb 2025) - Ethereum transaction network of 48k wallets, community detection, wallet role c",
+            "title": "Bybit%20Incident%20Investigation%20-%20Preliminary%20Report%20v1.0%20(for%20public%20release).pdf",
+            "url": "https://github.com/verichains/public-audit-reports/blob/main/Bybit%20Incident%20Investigation%20-%20Preliminary%20Report%20v1.0%20(for%20public%20release).pdf",
+            "snippet": "# Bybit%20Incident%20Investigation%20-%20Preliminary%20Report%20v1.0%20(for%20public%20release).pdf\n\n- Branch: main\n- Repository: verichains/public-audit-reports\n\nBinary file (application/octet-stream",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:11:00.285Z"
+        "enriched_at": "2026-11-27T09:30:02.064Z"
       },
-      "timestamp": "2026-11-20T08:11:01.466Z"
+      "timestamp": "2026-11-27T09:30:03.231Z"
     },
     "trip_com": {
       "intel": {
         "writeups": [
           {
-            "title": "Trip.com | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/trip_com",
-            "snippet": "Trip.com | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Respons",
+            "title": "trip.com Cross Site Scripting vulnerability OBB-996364 | Open Bug Bounty",
+            "url": "https://www.openbugbounty.org/reports/996364/",
+            "snippet": "trip.com Cross Site Scripting vulnerability OBB-996364 | Open Bug Bounty\n\nNotify specific security contact: \n\nTo my best knowledge this email belongs to the website owner/admin \n\n# trip.com Cross Site",
             "published": null,
             "score": 0
           },
           {
-            "title": "Trip.com | Hacktivity | HackerOne",
-            "url": "https://hackerone.com/trip_com/hacktivity",
-            "snippet": "Trip.com | Hacktivity | HackerOne\n\nTrip.com\n\nBug reported by\n\nexploitmsf\n\nwas resolved\n\n2 months ago\n\nTrip.com\n\njayesh25\n\n3 months ago\n\nTrip.com\n\ndx0\n\ndeehay\n\nCollaboration\n\nTrip.com\n\n$50\n\nyquefue\n\n$5",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/trip_com",
+            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
             "published": null,
             "score": 0
           },
@@ -3449,25 +3449,25 @@
             "score": 0
           },
           {
-            "title": "feat(trip): add Trip.com international adapter",
-            "url": "https://github.com/jackwener/OpenCLI/pull/2158",
-            "snippet": "# feat(trip): add Trip.com international adapter\n\n- State: merged\n- Author: Benjamin-eecs\n- Created: 2026-07-19T15:08:19Z\n- Updated: 2026-07-20T17:35:13Z\n- Repository: jackwener/OpenCLI\n- Number: #215",
+            "title": "takeoff.md",
+            "url": "https://github.com/lactobasilusprotectus/write-up-htb/blob/main/takeoff.md",
+            "snippet": "# takeoff.md\n\n- Branch: main\n- Repository: lactobasilusprotectus/write-up-htb\n\n---\n\n---\ntitle: \"HTB Takeoff — Walkthrough\"\nauthor: \"ewexexexe\"\ndate: 2026-11-01\nco: fmi\n---\n\n# HTB Takeoff — Walkthrough",
             "published": null,
             "score": 0
           },
           {
-            "title": "Stored cross-user HTML injection via trip title in the Journey suggestion banner · Advisory · liketrek/TREK · GitHub",
-            "url": "https://github.com/liketrek/TREK/security/advisories/GHSA-g8rf-gqrw-4qf9",
-            "snippet": "Stored cross-user HTML injection via trip title in the Journey suggestion banner · Advisory · liketrek/TREK · GitHub\n\n# Stored cross-user HTML injection via trip title in the Journey suggestion banner",
-            "published": "2026-06-16T00:00:00.000Z",
+            "title": "VABISMO/PHPAfterShell-poc",
+            "url": "https://github.com/VABISMO/PHPAfterShell-poc",
+            "snippet": "# VABISMO/PHPAfterShell-poc\n\nEducational proof of concept for CVE-2026-126714 (phpAfterShell): unauthenticated RCE via interrupted session writes in PHP's file-based session handler. Docker lab (vulne",
+            "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:11:01.466Z"
+        "enriched_at": "2026-11-27T09:30:03.231Z"
       },
-      "timestamp": "2026-11-20T08:11:02.609Z"
+      "timestamp": "2026-11-27T09:30:04.553Z"
     },
     "bykea": {
       "intel": {
@@ -4415,17 +4415,17 @@
             "score": 0
           },
           {
-            "title": "Magic Eden | Hacktivity | HackerOne",
-            "url": "https://hackerone.com/magic-eden/hacktivity",
-            "snippet": "Magic Eden | Hacktivity | HackerOne\n\nMagic Eden\n\n$7,750\n\nBug reported by\n\nno2exploits\n\nwas resolved\n\n3 months ago\n\n$7,750\n\nMagic Eden\n\n$750\n\nBug reported by\n\nno2exploits\n\nwas awarded a bounty\n\n$750\n\nM",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/magic-eden/policy_scopes",
+            "snippet": "HackerOne\n\nView changes (Last updated on May 18, 2026)\n\n1-17 of 17\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | ---",
             "published": null,
             "score": 0
           },
           {
-            "title": "Frequently Asked Questions (FAQs)",
-            "url": "https://docs.magiceden.io/reference/frequently-asked-questions-faqs",
-            "snippet": "Frequently Asked Questions (FAQs)\n\n# Frequently Asked Questions (FAQs)\n\nSecurity Issues and Bug Bounties\n\nMagic Eden’s API and most other assets are covered under our bug bounty program with HackerOne",
-            "published": null,
+            "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
+            "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
+            "snippet": "Looking for institutional-grade crypto trading? Discover LMAX Digital, the regulated exchange from LMAX Group\n\n Live BTCUSD$60,868.901.40%ETHUSD$ 1,705.891.48%SOLUSD$71.611.78%PYTHUSD$ 0.0491.24%LINKU",
+            "published": "2026-09-25T00:00:00.000Z",
             "score": 0
           }
         ],
@@ -4439,25 +4439,25 @@
             "score": 0
           },
           {
+            "title": "magicdrop/docs/AUDIT-PUBLIC-RELEASE-MagicEden-ERC721M1.pdf at main · me-foundation/magicdrop · GitHub",
+            "url": "https://github.com/me-foundation/magicdrop/blob/main/docs/AUDIT-PUBLIC-RELEASE-MagicEden-ERC721M1.pdf",
+            "snippet": "magicdrop/docs/AUDIT-PUBLIC-RELEASE-MagicEden-ERC721M1.pdf at main · me-foundation/magicdrop · GitHub",
+            "published": null,
+            "score": 0
+          },
+          {
             "title": "santidev95/mon-tools",
             "url": "https://github.com/SantiSjp/mon-tools",
             "snippet": "# santidev95/mon-tools\n\nMonTools is a Open Source Monad Web3 tool suite that lets you create, inspect, and manage tokens, NFTs, and on-chain data through a sleek, OS-inspired interface. Fast, modular,",
             "published": null,
             "score": 0
-          },
-          {
-            "title": "feat: TASK 4.1.4 — Magic Eden v2 + Squads V4 decoders with real-tx validation · Pull Request #60 · OpenSubmissionn/Open_DevTool",
-            "url": "https://github.com/OpenSubmissionn/Open_DevTool/pull/60",
-            "snippet": "# Pull Request: OpenSubmissionn/Open_DevTool #60\n\n- Repository: OpenSubmissionn/Open_DevTool | OPEN is a Chrome dev tool for Solana developers that turns transactions into visual maps to quickly spot ",
-            "published": "2026-04-29T03:21:25.000Z",
-            "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:11:03.725Z"
+        "enriched_at": "2026-11-27T09:30:05.661Z"
       },
-      "timestamp": "2026-11-20T08:11:04.858Z"
+      "timestamp": "2026-11-27T09:30:06.782Z"
     },
     "boozt": {
       "intel": {
@@ -6620,41 +6620,41 @@
       "intel": {
         "writeups": [
           {
-            "title": "marcnewlin/anker-research",
-            "url": "https://github.com/marcnewlin/anker-research",
-            "snippet": "# Repository: marcnewlin/anker-research\n\n- Stars: 5\n- Forks: 0\n- Watchers: 5\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2024-12-28T20:46:06Z\n- La",
-            "published": "2024-12-28T20:46:06.000Z",
-            "score": 0
-          },
-          {
-            "title": "Eufy Partners with HackerOne on Bug Bounty Program",
-            "url": "https://www.einpresswire.com/article/732003702/eufy-partners-with-hackerone-on-bug-bounty-program",
-            "snippet": "Eufy Partners with HackerOne on Bug Bounty Program \n\n# Eufy Partners with HackerOne on Bug Bounty Program\n\nNews Provided By Anker Innovations August 01, 2024, 13:00 GMT \n\nProgram enhances collaboratio",
-            "published": "2024-08-01T13:00:00.000Z",
-            "score": 0
-          },
-          {
-            "title": "Vulnerability Disclosure Policy",
-            "url": "https://www.anker.com/au/vulnerability-disclosure-policy",
-            "snippet": "Vulnerability Disclosure Policy\n\nAs a provider of security products we take security issues very seriously and recognize the importance of privacy and data security. We are committed to addressing and",
+            "title": "Anker | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/anker",
+            "snippet": "Anker | Bounty Policy | HackerOne\n\n## Program highlights\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nSignal Requirement\n\n0.0 or higher past-year Signal required, with use of trial r",
             "published": null,
+            "score": 0
+          },
+          {
+            "title": "Anker | Updates | HackerOne",
+            "url": "https://hackerone.com/anker/updates",
+            "snippet": "Anker | Updates | HackerOne\n\n2026-11-13\n\nNovember 13th, 2026 (14 days ago)\n\nDear Researchers, \n\nProgram Update: We are now Anker!\n\nWelcome to the Anker Bug Bounty Program (formerly eufy Security).\n\nAs",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "Vulnerability Spotlight: Vulnerabilities in Anker Eufy Homebase could lead to code execution, buffer overflows",
+            "url": "https://blog.talosintelligence.com/vuln-spotlight-anker-/",
+            "snippet": "Vulnerability Spotlight: Vulnerabilities in Anker Eufy Homebase could lead to code execution, buffer overflows\n\n# Vulnerability Spotlight: Vulnerabilities in Anker Eufy Homebase could lead to code exe",
+            "published": "2021-10-12T14:48:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "GitHub - giovannidisiena/immunefi-writeup · GitHub",
-            "url": "https://github.com/giovannidisiena/immunefi-writeup",
-            "snippet": "GitHub - giovannidisiena/immunefi-writeup · GitHub\n\n## Latest commit\n\ngiovannidisiena\n\nadd additional clarity to poc\n\n## History\n\n5 Commits\n\nOpen commit details\n\n5 Commits\n\n## Folders and files\n\n| Nam",
+            "title": "marcnewlin/anker-research",
+            "url": "https://github.com/marcnewlin/anker-research",
+            "snippet": "# marcnewlin/anker-research\n\n- Stars: 5\n- Forks: 0\n- Watchers: 5\n- Open issues: 2\n- Default branch: main\n- Created: 2024-12-28T20:46:06Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- marcnewlin (2 c",
             "published": null,
             "score": 0
           },
           {
-            "title": "marcnewlin/anker-research",
-            "url": "https://github.com/marcnewlin/anker-research",
-            "snippet": "# Repository: marcnewlin/anker-research\n\n- Stars: 5\n- Forks: 0\n- Watchers: 5\n- Open issues: 0\n- Primary language: Python\n- Languages: Python\n- Default branch: main\n- Created: 2024-12-28T20:46:06Z\n- La",
-            "published": "2024-12-28T20:46:06.000Z",
+            "title": "atc1441/Anker_Prime_BLE_hacking",
+            "url": "https://github.com/atc1441/Anker_Prime_BLE_hacking",
+            "snippet": "# atc1441/Anker_Prime_BLE_hacking\n\nOverview of the BLE Enabled Anker Prime 27650mAh Power Bank \n\n- Stars: 123\n- Forks: 8\n- Watchers: 123\n- Open issues: 4\n- Default branch: main\n- Created: 2025-08-11T1",
+            "published": null,
             "score": 0
           },
           {
@@ -6667,9 +6667,9 @@
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:11:02.609Z"
+        "enriched_at": "2026-11-27T09:30:04.553Z"
       },
-      "timestamp": "2026-11-20T08:11:03.724Z"
+      "timestamp": "2026-11-27T09:30:05.661Z"
     },
     "coupang": {
       "intel": {
@@ -6782,5 +6782,5 @@
       "timestamp": "2026-11-26T09:13:55.058Z"
     }
   },
-  "lastRun": "2026-11-26T09:14:07.180Z"
+  "lastRun": "2026-11-27T09:30:06.782Z"
 }
