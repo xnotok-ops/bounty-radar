@@ -3487,10 +3487,10 @@
             "score": 0
           },
           {
-            "title": "Bykea | Report #2867022 - Improper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosure | HackerOne",
-            "url": "https://hackerone.com/reports/2867022",
-            "snippet": "Bykea | Report #2867022 - Improper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosure | HackerOne\n\nImproper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosu",
-            "published": "2024-11-27T00:00:00.000Z",
+            "title": "Bykea | Bounty Policy | HackerOne",
+            "url": "https://hackerone.com/bykea",
+            "snippet": "Bykea | Bounty Policy | HackerOne\n\n## Program highlights\n\nFast Payment\n\nEnsures payment within 1 month of receiving a vulnerability report.\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Ha",
+            "published": null,
             "score": 0
           }
         ],
@@ -3511,26 +3511,33 @@
             "score": 0
           },
           {
-            "title": "ReddCrow12/documents-BBP",
-            "url": "https://github.com/ReddCrow12/documents-BBP",
-            "snippet": "# ReddCrow12/documents-BBP\n\nמחקר מקיף על כל הפריצות הכי משמעותיות ב BBP ששוות יותר מ1000$ ב3 שנים האחרונות\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-",
+            "title": "z-aqib/Bykea-Redesign_Case-Study",
+            "url": "https://github.com/z-aqib/bykea-redesign_case-study",
+            "snippet": "# z-aqib/Bykea-Redesign_Case-Study\n\nEnd-to-end HCI project redesigning Bykea through research, inclusive prototyping for four user groups, structured usability evaluation, and Microsoft Clarity intera",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-21T08:03:53.222Z"
+        "enriched_at": "2026-11-28T08:43:37.141Z"
       },
-      "timestamp": "2026-11-21T08:03:54.540Z"
+      "timestamp": "2026-11-28T08:43:38.442Z"
     },
     "inditex": {
       "intel": {
         "writeups": [
           {
-            "title": "HackerOne",
+            "title": "Inditex | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/inditex",
-            "snippet": "HackerOne\n\ncollapse menu\n\nSecurity page\n\n© HackerOne\n\nHackerOne\n[Skip to main content >](#main-content)\n[![Hackerone logo](/assets/static/hackerone_full_logo-FDENxp8i.svg)![Hackerone logo](data:image/",
+            "snippet": "Inditex | Bounty Policy | HackerOne\n\n## Program highlights\n\nGold Standard Safe Harbor\n\nAdheres to Gold Standard Safe Harbor.\n\nPlatform Standards\n\nFully compliant with Platform Standards.\n\nTop Response",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "Inditex | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/inditex/hacktivity",
+            "snippet": "Inditex | Hacktivity | HackerOne\n\nInditex\n\nBug reported by\n\ndavid96\n\nwas resolved\n\n2 months ago\n\nInditex\n\nd4rkrai\n\n3 months ago\n\nInditex\n\npwnbunny\n\nInditex\n\nmetereorpreter\n\ndebsec\n\nCollaboration\n\nIndi",
             "published": null,
             "score": 0
           },
@@ -3540,21 +3547,21 @@
             "snippet": "HackerOne\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | --- |\n| Recruitment services This scope covers Inditex's rec",
             "published": null,
             "score": 0
-          },
-          {
-            "title": "Inditex Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal",
-            "url": "https://blog.pentestnepal.tech/bugbounty/inditex/",
-            "snippet": "Inditex Bug Bounty Program — Scope, Rewards & How to Hack — White Hats Nepal\n\n# Inditex Bug Bounty Program\n\nComplete guide to Inditex's bug bounty program on HackerOne. View in-scope assets, reward am",
-            "published": null,
-            "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "oskarko/Inditex",
-            "url": "https://github.com/oskarko/Inditex",
-            "snippet": "# oskarko/Inditex\n\nTechnical test for the Inditex Group (ZARA)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- License: MIT License\n- Homepage: https://www.oscargarrucho.com\n- Default branch: ",
+            "title": "Overview · InditexTech/redkey-operator · GitHub",
+            "url": "https://github.com/InditexTech/redkey-operator/security",
+            "snippet": "Overview · InditexTech/redkey-operator · GitHub\n\n# Security\n\nWe at Inditex believe that responsible disclosure of security vulnerabilities helps us ensure the security and privacy of all opensource co",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "Overview · javi-patch/karatetools-oss · GitHub",
+            "url": "https://github.com/javi-patch/karatetools-oss/security",
+            "snippet": "Overview · javi-patch/karatetools-oss · GitHub\n\n# Security\n\nWe at Inditex believe that responsible disclosure of security vulnerabilities helps us ensure the security and privacy of all opensource com",
             "published": null,
             "score": 0
           },
@@ -3564,20 +3571,13 @@
             "snippet": "# GabyB73/boost-backend\n\n🏆 BOOST Hackathon Inditex - Sistema de gestión logística | Java Backend Challenge\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1\n- Open issues: 0\n- Default branch: main\n- Created: 2025",
             "published": null,
             "score": 0
-          },
-          {
-            "title": "phi-grib/Itex_codes",
-            "url": "https://github.com/phi-grib/Itex_codes",
-            "snippet": "# Repository: phi-grib/Itex_codes\n\nCodes used to generate the DB and replicate USC workflow\n\n- Stars: 1\n- Forks: 0\n- Watchers: 2\n- Open issues: 1\n- Primary language: Python\n- Languages: Python (80.8%)",
-            "published": "2020-01-24T11:31:00.000Z",
-            "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-21T08:03:55.847Z"
+        "enriched_at": "2026-11-28T08:43:39.728Z"
       },
-      "timestamp": "2026-11-21T08:03:57.157Z"
+      "timestamp": "2026-11-28T08:43:41.105Z"
     },
     "visa": {
       "intel": {
@@ -3599,7 +3599,7 @@
           {
             "title": "HackerOne",
             "url": "https://hackerone.com/visa/policy_scopes",
-            "snippet": "HackerOne\n\n1-100 of 174\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | --- |\n| www.visasoutheasteurope.com | Domain |",
+            "snippet": "HackerOne\n\n1-100 of 175\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | --- |\n| www.visasoutheasteurope.com | Domain |",
             "published": null,
             "score": 0
           }
@@ -3609,7 +3609,7 @@
           {
             "title": "visa/visa-vulnerability-agentic-harness",
             "url": "https://github.com/visa/visa-vulnerability-agentic-harness/",
-            "snippet": "# visa/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 3096\n- Forks: 547\n- Watchers: 3096\n- Open issues: 3\n- License: Other\n- Default branch: main\n- Created: 2026-06-0",
+            "snippet": "# visa/visa-vulnerability-agentic-harness\n\nVisa Vulnerability Agentic Harness\n\n- Stars: 3111\n- Forks: 548\n- Watchers: 3111\n- Open issues: 3\n- License: Other\n- Default branch: main\n- Created: 2026-06-0",
             "published": null,
             "score": 0
           },
@@ -3621,27 +3621,27 @@
             "score": 0
           },
           {
-            "title": "EMVrace/EMVrace.github.io",
-            "url": "https://github.com/EMVrace/EMVrace.github.io",
-            "snippet": "# EMVrace/EMVrace.github.io\n\nProject website\n\n- Stars: 15\n- Forks: 1\n- Watchers: 15\n- Open issues: 0\n- Default branch: master\n- Created: 2020-08-23T07:46:19Z\n\n## Languages\n\n- HTML\n- Ruby\n- SCSS\n\n## To",
+            "title": "GitHub - visa/visa-vulnerability-agentic-harness: Visa Vulnerability Agentic Harness · GitHub",
+            "url": "https://github.com/visa/visa-vulnerability-agentic-harness/tree/main",
+            "snippet": "GitHub - visa/visa-vulnerability-agentic-harness: Visa Vulnerability Agentic Harness · GitHub\n\n## Folders and files\n\n| Name | Name | Last commit message | Last commit date |\n| --- | --- | --- | --- |\n",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-21T08:03:57.158Z"
+        "enriched_at": "2026-11-28T08:43:41.105Z"
       },
-      "timestamp": "2026-11-21T08:03:58.518Z"
+      "timestamp": "2026-11-28T08:43:42.399Z"
     },
     "toolsforhumanity": {
       "intel": {
         "writeups": [
           {
-            "title": "Tools for Humanity | Report #2110030 - Race Condition Enables Bypassing Verification Check | HackerOne",
-            "url": "https://hackerone.com/reports/2110030",
-            "snippet": "Tools for Humanity | Report #2110030 - Race Condition Enables Bypassing Verification Check | HackerOne\n\nSummary by Tools for Humanity\n\nA race condition was discovered in the WorldID platform that coul",
-            "published": "2023-08-15T00:00:00.000Z",
+            "title": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne",
+            "url": "https://hackerone.com/reports/2515808",
+            "snippet": "Tools for Humanity | Report #2515808 - [Meetup][World ID][OIDC] Insufficient Filtering of \"state\" Parameter in Response Mode form_post leads to XSS and ATO | HackerOne\n\n[Meetup][World ID][OIDC] Insuff",
+            "published": "2024-05-23T00:00:00.000Z",
             "score": 0
           },
           {
@@ -3652,19 +3652,26 @@
             "score": 0
           },
           {
-            "title": "Tools for Humanity | Report #2381816 - IDOR - Leaking of team data (name, email, ID, member ID) via POST /api/v1/graphql  `FetchMemberships` operation | HackerOne",
-            "url": "https://hackerone.com/reports/2381816",
-            "snippet": "Tools for Humanity | Report #2381816 - IDOR - Leaking of team data (name, email, ID, member ID) via POST /api/v1/graphql `FetchMemberships` operation | HackerOne\n\nSummary by Tools for Humanity\n\nAn aut",
-            "published": "2024-02-21T00:00:00.000Z",
+            "title": "Tools for Humanity | Report #2110030 - Race Condition Enables Bypassing Verification Check | HackerOne",
+            "url": "https://hackerone.com/reports/2110030",
+            "snippet": "Tools for Humanity | Report #2110030 - Race Condition Enables Bypassing Verification Check | HackerOne\n\nSummary by Tools for Humanity\n\nA race condition was discovered in the WorldID platform that coul",
+            "published": "2023-08-15T00:00:00.000Z",
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
           {
-            "title": "sanjaykannan8/skills-exploit-poc",
-            "url": "https://github.com/sanjaykannan8/skills-exploit-poc",
-            "snippet": "# sanjaykannan8/skills-exploit-poc\n\nThis is a proof of concept made how a skill.md file can be exploited. This is only for EDUCATIONAL PURPOSES ONLY !!!\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open iss",
+            "title": "MixasV/humanity-protocol-attack-report",
+            "url": "https://github.com/MixasV/humanity-protocol-attack-report",
+            "snippet": "# MixasV/humanity-protocol-attack-report\n\n2026-06-09 Humanity Protocol $H attack report\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-09T03:29:33Z\n\n##",
+            "published": null,
+            "score": 0
+          },
+          {
+            "title": "BlackHatModed/GiftToHumanity",
+            "url": "https://github.com/BlackHatModed/GiftToHumanity",
+            "snippet": "# BlackHatModed/GiftToHumanity\n\nThe Official 2021 Synapse X RCE\n\n- Stars: 7\n- Forks: 0\n- Watchers: 7\n- Open issues: 0\n- Default branch: main\n- Created: 2025-05-24T23:59:48Z\n\n## Languages\n\n- Lua\n\n## To",
             "published": null,
             "score": 0
           },
@@ -3674,31 +3681,17 @@
             "snippet": "# TIPExploit/TIPExploit\n\nSource code fo Red-Teaming Coding Agents from a Tool-Invocation Perspective: An Empirical Security Assessment (ISSTA'26)\n\n- Stars: 17\n- Forks: 5\n- Watchers: 17\n- Open issues: ",
             "published": null,
             "score": 0
-          },
-          {
-            "title": "MixasV/humanity-protocol-attack-report",
-            "url": "https://github.com/MixasV/humanity-protocol-attack-report",
-            "snippet": "# MixasV/humanity-protocol-attack-report\n\n2026-06-09 Humanity Protocol $H attack report\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 0\n- Default branch: main\n- Created: 2026-06-09T03:29:33Z\n\n##",
-            "published": null,
-            "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-21T08:03:58.518Z"
+        "enriched_at": "2026-11-28T08:43:42.399Z"
       },
-      "timestamp": "2026-11-21T08:03:59.903Z"
+      "timestamp": "2026-11-28T08:43:43.723Z"
     },
     "ring": {
       "intel": {
         "writeups": [
-          {
-            "title": "My First Duplicate (Ring) · ~root@clover:",
-            "url": "https://ahackersblog.com/writeups/ring-duplicate",
-            "snippet": "My First Duplicate (Ring) · ~root@clover:\n\n# My First Duplicate (Ring)\n\nStored HTML injection in a Ring welcome email, weaponized into a convincing credential-phish. Beaten to it by minutes.\n\n Sep 16,",
-            "published": "2024-09-16T14:01:34.000Z",
-            "score": 0
-          },
           {
             "title": "Ring | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/ring",
@@ -3707,9 +3700,16 @@
             "score": 0
           },
           {
-            "title": "Ring Video Doorbell Pro Under the Scope",
-            "url": "https://www.bitdefender.com/files/News/CaseStudies/study/294/Bitdefender-WhitePaper-RDoor-CREA3949-en-EN-GenericUse.pdf",
-            "snippet": "## Ring Video Doorbell Pro Under the Scope\n\nInternet-connected doorbells with motion-sensing and notification capabilities have become extremely popular among smart home enthusiasts. So popular, in fa",
+            "title": "My First Duplicate (Ring) · ~root@clover:",
+            "url": "https://ahackersblog.com/writeups/ring-duplicate",
+            "snippet": "My First Duplicate (Ring) · ~root@clover:\n\n# My First Duplicate (Ring)\n\nStored HTML injection in a Ring welcome email, weaponized into a convincing credential-phish. Beaten to it by minutes.\n\n Sep 16,",
+            "published": "2024-09-16T13:18:33.000Z",
+            "score": 0
+          },
+          {
+            "title": "All Vulnerabilities for ring.com Patched via Open Bug Bounty",
+            "url": "https://www.openbugbounty.org/reports/207787/",
+            "snippet": "All Vulnerabilities for ring.com Patched via Open Bug Bounty\n\nAre you sure you want to delete the vulnerability?\n\n# ring.com Cross Site Scripting Vulnerability Report ID: OBB-207787\n\n Security Researc",
             "published": null,
             "score": 0
           }
@@ -3724,25 +3724,25 @@
             "score": 0
           },
           {
-            "title": "aegistudio/RingBufferDetonator",
-            "url": "https://github.com/aegistudio/RingBufferDetonator",
-            "snippet": "# aegistudio/RingBufferDetonator\n\nExploitation for CVE-2021-3679 and document for its fix\n\n- Stars: 9\n- Forks: 1\n- Watchers: 9\n- Open issues: 0\n- License: GNU General Public License v3.0\n- Default bra",
+            "title": "pocs/linux/kernelctf/CVE-2025-21836_lts/exploit/lts-6.6.75/exploit.c",
+            "url": "https://github.com/google/security-research/blob/master/pocs/linux/kernelctf/CVE-2025-21836_lts/exploit/lts-6.6.75/exploit.c",
+            "snippet": "# pocs/linux/kernelctf/CVE-2025-21836_lts/exploit/lts-6.6.75/exploit.c\n\n- Branch: master\n- Repository: google/security-research\n\n---\n\n#define _GNU_SOURCE\n#include <stdio.h>\n#include <stdlib.h>\n#includ",
             "published": null,
             "score": 0
           },
           {
-            "title": "MrAle98/CVE-2025-21333-POC",
-            "url": "https://github.com/mrale98/cve-2025-21333-poc/",
-            "snippet": "# MrAle98/CVE-2025-21333-POC\n\nPOC exploit for CVE-2025-21333 heap-based buffer overflow. It leverages WNF state data and I/O ring IOP_MC_BUFFER_ENTRY\n\n- Stars: 232\n- Forks: 34\n- Watchers: 232\n- Open i",
+            "title": "gmh5225/CVE-2025-21333-POC",
+            "url": "https://github.com/gmh5225/CVE-2025-21333-POC",
+            "snippet": "# gmh5225/CVE-2025-21333-POC\n\nPoc exploit for CVE-2025-21333 heap-based buffer overflow. It leverages WNF state data and I/O ring IOP_MC_BUFFER_ENTRY\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-21T08:03:59.903Z"
+        "enriched_at": "2026-11-28T08:43:43.723Z"
       },
-      "timestamp": "2026-11-21T08:04:01.348Z"
+      "timestamp": "2026-11-28T08:43:45.017Z"
     },
     "six-group": {
       "intel": {
@@ -4470,9 +4470,9 @@
             "score": 0
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/boozt/policy_scopes",
-            "snippet": "HackerOne\n\n1-10 of 10\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | --- | --- |\n| kronor.io We are interested in reports c",
+            "title": "Boozt Fashion AB | Hacktivity | HackerOne",
+            "url": "https://hackerone.com/boozt/hacktivity",
+            "snippet": "Boozt Fashion AB | Hacktivity | HackerOne\n\nBoozt Fashion AB\n\nBug reported by\n\n0xcm1k3\n\nwas resolved\n\nabout 1 month ago\n\nBoozt Fashion AB\n\n$294\n\nfirefox22\n\nwas resolved\n\nabout 1 month ago\n\n$294\n\nBoozt ",
             "published": null,
             "score": 0
           },
@@ -4487,32 +4487,32 @@
         "twitter": [],
         "github": [
           {
+            "title": "docs/tops_by_bug_type/TOPAUTH.md",
+            "url": "https://github.com/reddelexc/hackerone-reports/blob/master/docs/tops_by_bug_type/TOPAUTH.md",
+            "snippet": "# docs/tops_by_bug_type/TOPAUTH.md\n\n- Branch: master\n- Repository: reddelexc/hackerone-reports\n\n---\n\nTop Authentication reports from HackerOne:\n\n1. Potential pre-auth RCE on Twitter VPN to X / xAI - 1",
+            "published": null,
+            "score": 0
+          },
+          {
             "title": "The Boozt Fashion application before 2.3.4 for Android... · CVE-2017-11706 · GitHub Advisory Database · GitHub",
             "url": "https://github.com/advisories/ghsa-qcg4-xch4-xf9j",
-            "snippet": "The Boozt Fashion application before 2.3.4 for Android... · CVE-2017-11706 · GitHub Advisory Database · GitHub\n\n## The Boozt Fashion application before 2.3.4 for Android... \n\n High severity Unreviewed",
+            "snippet": "The Boozt Fashion application before 2.3.4 for Android... · CVE-2017-11706 · GitHub Advisory Database · GitHub\n\n# The Boozt Fashion application before 2.3.4 for Android... \n\n High severity Unreviewed ",
             "published": "2022-05-17T00:00:00.000Z",
             "score": 0
           },
           {
             "title": "boozt-platform/terraform-cloudflare-tunnel",
             "url": "https://github.com/boozt-platform/terraform-cloudflare-tunnel",
-            "snippet": "# Repository: boozt-platform/terraform-cloudflare-tunnel (from template [boozt-platform/quickstart-template](https://github.com/boozt-platform/quickstart-template))\n\nTerraform configurations to manage",
-            "published": "2025-01-06T11:51:07.000Z",
-            "score": 0
-          },
-          {
-            "title": "boozt-platform/terraform-provider-ipam-autopilot",
-            "url": "https://github.com/boozt-platform/ipam-autopilot",
-            "snippet": "# boozt-platform/terraform-provider-ipam-autopilot\n\nAutomated IP address management for GCP VPCs (Cloud Run + Terraform provider)\n\n- Stars: 0\n- Forks: 0\n- Watchers: 0\n- Open issues: 3\n- License: Apach",
+            "snippet": "# boozt-platform/terraform-cloudflare-tunnel\n\nTerraform configurations to manage and deploy Cloudflare Tunnels, enabling secure and seamless connectivity to private networks or applications. It includ",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-20T08:11:04.859Z"
+        "enriched_at": "2026-11-28T08:43:45.017Z"
       },
-      "timestamp": "2026-11-20T08:11:06.042Z"
+      "timestamp": "2026-11-28T08:43:46.387Z"
     },
     "sheer_bbp": {
       "intel": {
@@ -5864,16 +5864,16 @@
             "score": 0
           },
           {
-            "title": "Anthropic's coordinated vulnerability disclosure dashboard",
-            "url": "https://red.anthropic.com/2026/cvd/",
-            "snippet": "Anthropic's coordinated vulnerability disclosure dashboard\n\n# Anthropic's coordinated vulnerability disclosure dashboard\n\nLast updated 2026-11-02 19:30 UTC.\n\nAnthropic uses Claude models, including an",
-            "published": null,
+            "title": "Model Safety Bug Bounty Program | Claude Help Center",
+            "url": "https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program",
+            "snippet": "Model Safety Bug Bounty Program | Claude Help Center\n\n# Model Safety Bug Bounty Program\n\n September 8, 2026\n\n## Purpose\n\nWe believe external testing is crucial for building a safe AI ecosystem. As mod",
+            "published": "2026-09-08T20:15:25.000Z",
             "score": 0
           },
           {
-            "title": "Anthropic | Hacktivity | HackerOne",
-            "url": "https://hackerone.com/anthropic/hacktivity",
-            "snippet": "Anthropic | Hacktivity | HackerOne\n\nAnthropic\n\n$100\n\nBug reported by\n\nobsidiancladlabs\n\nwas resolved\n\n4 hrs ago\n\n$100\n\nAnthropic\n\nryotak\n\n4 hrs ago\n\nAnthropic\n\n$400\n\nrealmarmarlabs\n\n4 hrs ago\n\n$400\n\nA",
+            "title": "Overview · anthropics/claude-code · GitHub",
+            "url": "https://github.com/anthropics/claude-code/security",
+            "snippet": "Overview · anthropics/claude-code · GitHub\n\n# Security Policy\n\nThank you for helping us keep Claude Code secure!\n\n## Reporting Security Issues\n\nThe security of our systems and user data is Anthropic's",
             "published": null,
             "score": 0
           }
@@ -5895,18 +5895,18 @@
             "score": 0
           },
           {
-            "title": "atiilla/CVE-2026-21852-PoC",
-            "url": "https://github.com/atiilla/CVE-2026-21852-PoC",
-            "snippet": "# atiilla/CVE-2026-21852-PoC\n\n- Stars: 24\n- Forks: 10\n- Watchers: 24\n- Open issues: 0\n- Default branch: main\n- Created: 2026-02-27T01:13:21Z\n\n## Languages\n\n- Python\n\n## Top Contributors\n\n- atiilla (3 ",
+            "title": "GitHub - cnighswonger/heron-brook-poc: Heron-brook: remote system-prompt injection PoC for Claude Code v2.1.150 · GitHub",
+            "url": "https://github.com/cnighswonger/heron-brook-poc",
+            "snippet": "GitHub - cnighswonger/heron-brook-poc: Heron-brook: remote system-prompt injection PoC for Claude Code v2.1.150 · GitHub\n\n## About\n\ndocs(README): note CC v2.1.152 expanded the heron_brook pattern\n\n5 C",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-21T08:03:54.540Z"
+        "enriched_at": "2026-11-28T08:43:38.442Z"
       },
-      "timestamp": "2026-11-21T08:03:55.847Z"
+      "timestamp": "2026-11-28T08:43:39.728Z"
     },
     "agoda-public": {
       "intel": {
@@ -6291,7 +6291,7 @@
         "writeups": [
           {
             "title": "d-you App & German EUDI Wallet Ecosystem | Bounty Policy | HackerOne",
-            "url": "https://hackerone.com/common_codes?type=team",
+            "url": "https://hackerone.com/common_codes",
             "snippet": "d-you App & German EUDI Wallet Ecosystem | Bounty Policy | HackerOne\n\n## Introduction\n\nWelcome to the d-you App & German EUDI Wallet Ecosystem Bug Bounty Program - help us build a trusted German EUDI ",
             "published": null,
             "score": 0
@@ -6304,15 +6304,22 @@
             "score": 0
           },
           {
-            "title": "HackerOne",
-            "url": "https://hackerone.com/common_codes/scope_and_rewards_versions",
-            "snippet": "HackerOne\n\n# View changes\n\n### Assets not in a reward group\n\n| | Asset | Type | Max severity | In scope | Bounty |\n| --- | --- | --- | --- | --- | --- |\n| − | https://wallet-backend-sandbox.apps.sandb",
+            "title": "d-you App & German EUDI Wallet Ecosystem on HackerOne // FAKERADAR",
+            "url": "https://radar.dimaverov.com/p/hackerone/common_codes",
+            "snippet": "d-you App & German EUDI Wallet Ecosystem on HackerOne // FAKERADAR\n\n# d-you App & German EUDI Wallet Ecosystem\n\nlisted\n\nbefore tracking\n\ntracked since\n\n2026-09-20\n\nlast change\n\n53d ago\n\nwebsite\n\nhttps",
             "published": null,
             "score": 0
           }
         ],
         "twitter": [],
         "github": [
+          {
+            "title": "b6bs62fhys-jpg/attack-eudi-verifier",
+            "url": "https://github.com/b6bs62fhys-jpg/attack-eudi-verifier",
+            "snippet": "# b6bs62fhys-jpg/attack-eudi-verifier\n\nVerifier API for the EU Digital Identity Wallet: OpenID4VP, DCQL, SD-JWT VC. Accept the EUDI Wallet without building the relying party side yourself.\n\n- Stars: 0",
+            "published": null,
+            "score": 0
+          },
           {
             "title": "german-national-wallet/de-eudi-wallet-ios",
             "url": "https://github.com/german-national-wallet/de-eudi-wallet-ios",
@@ -6326,20 +6333,13 @@
             "snippet": "# Mibuw/miEUDIverifier\n\nC#/.NET 8 EUDI Wallet verifier (OpenID4VP) reading PID identity data (name, given name, date of birth) — bilingual web UI, QR flow, Docker.\n\n- Stars: 1\n- Forks: 0\n- Watchers: 1",
             "published": null,
             "score": 0
-          },
-          {
-            "title": "b6bs62fhys-jpg/attack-eudi-verifier",
-            "url": "https://github.com/b6bs62fhys-jpg/attack-eudi-verifier",
-            "snippet": "# b6bs62fhys-jpg/attack-eudi-verifier\n\nVerifier API for the EU Digital Identity Wallet: OpenID4VP, DCQL, SD-JWT VC. Accept the EUDI Wallet without building the relying party side yourself.\n\n- Stars: 0",
-            "published": null,
-            "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-21T08:03:49.218Z"
+        "enriched_at": "2026-11-28T08:43:34.496Z"
       },
-      "timestamp": "2026-11-21T08:03:50.551Z"
+      "timestamp": "2026-11-28T08:43:35.834Z"
     },
     "vercel": {
       "intel": {
@@ -6414,9 +6414,9 @@
             "score": 0
           },
           {
-            "title": "Live Nation | Hacktivity | HackerOne",
-            "url": "https://hackerone.com/live_nation/hacktivity",
-            "snippet": "Live Nation | Hacktivity | HackerOne\n\nLive Nation\n\nBug reported by\n\nyash_005\n\nwas resolved\n\nabout 1 day ago\n\nLive Nation\n\ntestingforbugs\n\n2 days ago\n\nLive Nation\n\nzonduu\n\n4 days ago\n\nLive Nation\n\n$200",
+            "title": "HackerOne",
+            "url": "https://hackerone.com/live_nation/policy_scopes",
+            "snippet": "HackerOne\n\nView changes (Last updated on September 24, 2026)\n\n1-25 of 25\n\n| Asset name | Type | Coverage | Max. severity | Bounty | Last update | Resolved Reports |\n| --- | --- | --- | --- | --- | ---",
             "published": null,
             "score": 0
           }
@@ -6431,25 +6431,25 @@
             "score": 0
           },
           {
-            "title": "GitHub - BiiTts/POC-CVE-2026-65971: Proof-of-concept and technical write-up for CVE-2026-65971 — SQL injection via the sortDirection Livewire property in power-components/livewire-powergrid (< 6.10.4) · GitHub",
-            "url": "https://github.com/BiiTts/POC-CVE-2026-65971",
-            "snippet": "GitHub - BiiTts/POC-CVE-2026-65971: Proof-of-concept and technical write-up for CVE-2026-65971 — SQL injection via the sortDirection Livewire property in power-components/livewire-powergrid (< 6.10.4)",
+            "title": "synacktiv/Livepyre",
+            "url": "https://github.com/synacktiv/Livepyre/",
+            "snippet": "# synacktiv/Livepyre\n\nA tool designed to exploit CVE-2025-54068 and Remote Command Execution if the APP_KEY of the Livewire project is known.\n\n- Stars: 155\n- Forks: 36\n- Watchers: 155\n- Open issues: 2",
             "published": null,
             "score": 0
           },
           {
-            "title": "synacktiv/Livepyre",
-            "url": "https://github.com/synacktiv/Livepyre/",
-            "snippet": "# synacktiv/Livepyre\n\nA tool designed to exploit CVE-2025-54068 and Remote Command Execution if the APP_KEY of the Livewire project is known.\n\n- Stars: 155\n- Forks: 36\n- Watchers: 155\n- Open issues: 2",
+            "title": "Add CVE-2025-54068 - Livewire RCE",
+            "url": "https://github.com/projectdiscovery/nuclei-templates/pull/14756",
+            "snippet": "# Add CVE-2025-54068 - Livewire RCE\n\n- State: merged\n- Author: flame-11\n- Created: 2026-01-08T03:46:32Z\n- Updated: 2026-02-04T06:57:31Z\n- Repository: projectdiscovery/nuclei-templates\n- Number: #14756",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-21T08:03:50.552Z"
+        "enriched_at": "2026-11-28T08:43:35.834Z"
       },
-      "timestamp": "2026-11-21T08:03:51.897Z"
+      "timestamp": "2026-11-28T08:43:37.141Z"
     },
     "kaltura": {
       "intel": {
@@ -6565,13 +6565,6 @@
       "intel": {
         "writeups": [
           {
-            "title": "Omarchy launches $100,000 bug bounty program on HackerOne - Omarchy News",
-            "url": "https://omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone/",
-            "snippet": "Omarchy launches $100,000 bug bounty program on HackerOne - Omarchy News\n\nBy DHH on October 2, 2026\n\n# Omarchy launches $100,000 bug bounty program on HackerOne\n\nOmarchy now has an official bug bounty",
-            "published": "2026-10-02T10:00:00.000Z",
-            "score": 0
-          },
-          {
             "title": "Omarchy | Bounty Policy | HackerOne",
             "url": "https://hackerone.com/omarchy",
             "snippet": "Omarchy | Bounty Policy | HackerOne\n\n## Introduction\n\nOmarchy looks forward to working with the security community to find vulnerabilities and keep our businesses and customers safe.\n\n## Program highl",
@@ -6579,10 +6572,17 @@
             "score": 0
           },
           {
-            "title": "Notification and video title bash injection in Omarchy 4.0.0",
-            "url": "https://omarchylinux.org/security/notification-and-title-bash-injection/",
-            "snippet": "Notification and video title bash injection in Omarchy 4.0.0\n\n# Notification and video title bash injection in Omarchy 4.0.0\n\nIn Omarchy 4.0.0 a web page's video title could reach the command run when",
+            "title": "Security - Omarchy",
+            "url": "https://omarchy.org/security/",
+            "snippet": "Security - Omarchy\n\n# Security at Omarchy\n\n## Report a vulnerability\n\nIf you believe you’ve found a security vulnerability in Omarchy, please report it privately to the Omarchy Security Team through o",
             "published": null,
+            "score": 0
+          },
+          {
+            "title": "Omarchy launches $100,000 bug bounty program on HackerOne - Omarchy News",
+            "url": "https://omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone/",
+            "snippet": "Omarchy launches $100,000 bug bounty program on HackerOne - Omarchy News\n\nBy DHH on October 2, 2026\n\n# Omarchy launches $100,000 bug bounty program on HackerOne\n\nOmarchy now has an official bug bounty",
+            "published": "2026-10-02T10:00:00.000Z",
             "score": 0
           }
         ],
@@ -6596,25 +6596,25 @@
             "score": 0
           },
           {
-            "title": "Security exploit found on YouTube",
-            "url": "https://github.com/omacom/omarchy/issues/8139",
-            "snippet": "# Security exploit found on YouTube\n\n- State: open\n- Author: bertodcruz\n- Created: 2026-08-25T03:27:19Z\n- Updated: 2026-08-25T06:23:49Z\n- Repository: omacom/omarchy\n- Number: #8139\n\n## Labels\n\n- bug\n\n",
+            "title": "Overview · omacom/omarchy · GitHub",
+            "url": "https://github.com/omacom/omarchy/security",
+            "snippet": "Overview · omacom/omarchy · GitHub\n\n# Security at Omarchy\n\n## Report a vulnerability\n\nIf you believe you’ve found a security vulnerability in Omarchy, please tell the Omarchy Security Team privately s",
             "published": null,
             "score": 0
           },
           {
-            "title": "Overview · omacom/omarchy · GitHub",
-            "url": "https://github.com/omacom/omarchy/security",
-            "snippet": "Overview · omacom/omarchy · GitHub\n\n# Security at Omarchy\n\n## Report a vulnerability\n\nIf you believe you’ve found a security vulnerability in Omarchy, please tell the Omarchy Security Team privately s",
+            "title": "Security exploit found on YouTube",
+            "url": "https://github.com/omacom/omarchy/issues/8139",
+            "snippet": "# Security exploit found on YouTube\n\n- State: open\n- Author: bertodcruz\n- Created: 2026-08-25T03:27:19Z\n- Updated: 2026-08-25T06:23:49Z\n- Repository: omacom/omarchy\n- Number: #8139\n\n## Labels\n\n- bug\n\n",
             "published": null,
             "score": 0
           }
         ],
         "defi_audit": [],
         "total_results": 6,
-        "enriched_at": "2026-11-21T08:03:47.839Z"
+        "enriched_at": "2026-11-28T08:43:33.207Z"
       },
-      "timestamp": "2026-11-21T08:03:49.218Z"
+      "timestamp": "2026-11-28T08:43:34.496Z"
     },
     "anker": {
       "intel": {
@@ -6782,5 +6782,5 @@
       "timestamp": "2026-11-26T09:13:55.058Z"
     }
   },
-  "lastRun": "2026-11-27T09:30:06.782Z"
+  "lastRun": "2026-11-28T08:43:46.388Z"
 }
